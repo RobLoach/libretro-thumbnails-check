@@ -12,7 +12,7 @@
     "datfile": "github:robloach/datfile"
   },
   "dependencies": {
-    "download": "^5.0.2",
+    "batchreplace": "^1.0.1",
     "download-file-sync": "^1.0.4",
     "file-exists": "^2.0.0",
     "glob": "^7.1.1",

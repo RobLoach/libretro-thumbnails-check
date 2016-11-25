@@ -1,3 +1,4 @@
+// Dependencies
 var path = require('path')
 var fs = require('fs')
 var glob = require('glob')
@@ -9,6 +10,21 @@ var download = require('download-file-sync')
 var fileExists = require('file-exists')
 var sanitizeFilename = require('sanitize-filename')
 var sleep = require('sleep')
+var batchreplace = require('batchreplace')
+
+// Construct the thumbnail cleaner.
+var thumbnailReplacer = batchreplace.mapReplacer({
+	'&': '_',
+	'*': '_',
+	'/': '_',
+	':': '_',
+	'\`': '_',
+	'<': '_',
+	'>': '_',
+	'?': '_',
+	'\\': '_',
+	'|': '_'
+})
 
 var access = ''
 //var access = '?access_token='
@@ -50,7 +66,8 @@ function processSystem(system) {
 
 function getGameThumbnails(system, name) {
 	var thumbs = thumbnails(system)
-	var out = minimatch.match(thumbs, system + '/*/' + name + '.png', {matchBase: true})
+	var thumbnailName = thumbnailReplacer(name)
+	var out = minimatch.match(thumbs, system + '/*/' + thumbnailName + '.png', {matchBase: true})
 	var result = {}
 	for (var i in out) {
 		var str = out[i]
