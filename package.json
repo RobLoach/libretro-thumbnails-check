@@ -1,0 +1,20 @@
+{
+  "name": "libretro-thumbnails-check",
+  "version": "0.0.1",
+  "description": "Checks consistancy of libretro-thumbnails",
+  "main": "index.js",
+  "scripts": {
+    "test": "make"
+  },
+  "author": "Rob Loach (http://robloach.net)",
+  "license": "MIT",
+  "devDependencies": {
+    "datfile": "github:robloach/datfile"
+  },
+  "dependencies": {
+    "glob": "^7.1.1",
+    "globby": "^6.1.0",
+    "minimatch": "^3.0.3",
+    "multimatch": "^2.1.0"
+  }
+}
