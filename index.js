@@ -4,8 +4,8 @@ var glob = require('glob')
 var globby = require('globby')
 var datfile = require('datfile')
 var minimatch = require('minimatch')
+var table = require('text-table')
 var thumbnails = thumbnails()
-var final = {}
 
 glob('libretro-database/rdb/*.rdb', function (err, files) {
 	files.forEach(function (file) {
@@ -15,7 +15,6 @@ glob('libretro-database/rdb/*.rdb', function (err, files) {
 })
 
 function processSystem(system) {
-	final[system] = {}
 	var patterns = [
 		'libretro-database/metadat/goodtools/' + system + '.dat',
 		'libretro-database/metadat/libretro-dats/' + system + '.dat',
@@ -23,61 +22,58 @@ function processSystem(system) {
 		'libretro-database/dat/' + system + '.dat'
 	]
 	globby(patterns).then(function (paths) {
-		var games = []
-		//console.log('\n--------------\n' + system)
+		var games = {}
 		for (var i in paths) {
 			var file = paths[i]
 			var data = fs.readFileSync(file, 'utf8')
 			var dat = datfile.parse(data)
 			for (var x in dat) {
 				var game = dat[x]
-				testGame(system, game.name)
+				games[game.name] = getGameThumbnails(system, game.name)
 			}
 		}
-		writeReport(final)
+		writeReport(system, games)
 	})
 }
 
-function testGame(system, name) {
+function getGameThumbnails(system, name) {
 	var out = minimatch.match(thumbnails, system + '/*/' + name + '.png', {matchBase: true})
-	final[system][name] = {}
+	var result = {}
 	for (var i in out) {
 		var str = out[i]
 		if (str.indexOf('Named_Boxarts') > 0) {
-			final[system][name].Boxart = true
+			result.boxart = true
 		}
 		else if (str.indexOf('Named_Snaps') > 0) {
-			final[system][name].Snap = true
+			result.snap = true
 		}
 		else if (str.indexOf('Named_Titles') > 0) {
-			final[system][name].Title = true
+			result.title = true
 		}
 	}
+	return result
 }
 
-function writeReport(final) {
-	var out = '# Report'
-	var yes = ':white_check_mark:'
-	var no = ':white_medium_square:'
-
-	for (var systemName in final) {
-		out += '\n\n## ' + systemName + '\n\n'
-		if (Object.keys(final[systemName]).length === 0) {
-			out += 'Error loading dat files.'
-		}
-		else {
-			out += '| Game | Boxart | Snap | Title |\n'
-			out += '| ---- | ------ | ---- | ----- |\n'
-			for (var gameName in final[systemName]) {
-				var game = final[systemName][gameName]
-				var boxart = game.Boxart ? yes : no
-				var snap = game.Snap ? yes : no
-				var title = game.Title ? yes : no
-				out += `| ${gameName} | ${boxart} | ${snap} | ${title} |\n`
-			}
-		}
+function writeReport(system, games) {
+	var output = system + '\n\n'
+	if (games.length <= 0) {
+		output += 'Error parsing dat files.'
 	}
-	fs.writeFileSync('report.md', out)
+	else {
+		var entries = []
+		entries.push(['Name', 'Boxart', 'Snap', 'Title'])
+		for (var gameName in games) {
+			var game = games[gameName]
+			var boxart = game.boxart ? '✓' : '✗'
+			var snap = game.snap ? '✓' : '✗'
+			var title = game.title ? '✓' : '✗'
+			entries.push([gameName, boxart, snap, title])
+		}
+		output += table(entries, {
+			align: ['l', 'r', 'r', 'r']
+		})
+	}
+	fs.writeFileSync('out/' + system + '.txt', output)
 }
 
 function thumbnails() {

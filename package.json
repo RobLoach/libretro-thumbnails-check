@@ -14,7 +14,9 @@
   "dependencies": {
     "glob": "^7.1.1",
     "globby": "^6.1.0",
+    "marked": "^0.3.6",
     "minimatch": "^3.0.3",
-    "multimatch": "^2.1.0"
+    "multimatch": "^2.1.0",
+    "text-table": "^0.2.0"
   }
 }
