@@ -26,8 +26,8 @@ var thumbnailReplacer = batchreplace.mapReplacer({
 	'|': '_'
 })
 
-var access = ''
-//var access = '?access_token='
+//var access = ''
+var access = '?access_token=da718dd6edc36bbbbc83fab3ebde0b074ea61ca4'
 
 glob('libretro-database/rdb/*.rdb', function (err, files) {
 	files.forEach(function (file) {
@@ -108,6 +108,7 @@ function writeReport(system, games) {
 
 function thumbnails(system) {
 	var thumbs = []
+	console.log(system)
 	var all = getData('https://api.github.com/repos/libretro/libretro-thumbnails/git/trees/master')
 	for (var i in all.tree) {
 		var entry = all.tree[i]
@@ -144,7 +145,7 @@ function getData(url) {
 
 	var contents = download(url + access)
 	// Sleep so that we don't exceed GitHub's API limit.
-	sleep.sleep(5)
+	sleep.sleep(10)
 	fs.writeFileSync(filename, contents)
 	return JSON.parse(contents)
 }

@@ -4,7 +4,7 @@ Name                                                                            
 5 in 1 Funpak (USA)                                                                    ✓      ✓     ✓
 Aa Harimanada (Japan)                                                                  ✓      ✓     ✓
 Addams Family, The (World)                                                             ✓      ✓     ✓
-Adventures of Batman & Robin, The (USA, Europe)                                        ✗      ✗     ✗
+Adventures of Batman & Robin, The (USA, Europe)                                        ✓      ✓     ✓
 Aerial Assault (Japan) (Rev 1)                                                         ✓      ✓     ✓
 Aerial Assault (World)                                                                 ✓      ✓     ✓
 Aladdin (Japan)                                                                        ✓      ✓     ✓
@@ -185,7 +185,7 @@ Incredible Crash Dummies, The (World)                                           
 Incredible Hulk, The (USA, Europe)                                                     ✓      ✓     ✓
 Indiana Jones and the Last Crusade (USA, Europe)                                       ✓      ✓     ✓
 Iron Man X-O Manowar in Heavy Metal (USA, Europe)                                      ✓      ✓     ✓
-Itchy & Scratchy Game, The (USA, Europe)                                               ✗      ✗     ✗
+Itchy & Scratchy Game, The (USA, Europe)                                               ✓      ✓     ✓
 J.League GG Pro Striker '94 (Japan)                                                    ✗      ✓     ✓
 J.League Soccer - Dream Eleven (Japan)                                                 ✗      ✓     ✓
 James Bond 007 - The Duel (Europe)                                                     ✓      ✓     ✓
@@ -209,7 +209,7 @@ Jurassic Park (Japan)                                                           
 Kaitou Saint Tail (Japan)                                                              ✗      ✗     ✗
 Kawasaki Superbike Challenge (USA, Europe)                                             ✓      ✓     ✓
 Kenyuu Densetsu Yaiba (Japan)                                                          ✓      ✓     ✓
-Kick & Rush (Japan)                                                                    ✗      ✗     ✗
+Kick & Rush (Japan)                                                                    ✗      ✓     ✓
 Kinetic Connection (Japan)                                                             ✗      ✓     ✓
 Kishin Douji Zenki (Japan)                                                             ✓      ✓     ✓
 Klax (USA, Europe)                                                                     ✓      ✓     ✓
@@ -247,7 +247,7 @@ Master of Darkness (Europe)                                                     
 Mega Man (USA)                                                                         ✓      ✓     ✓
 Megami Tensei Gaiden - Last Bible (Japan)                                              ✗      ✓     ✓
 Megami Tensei Gaiden - Last Bible S (Japan)                                            ✗      ✓     ✓
-Mick & Mack as the Global Gladiators (USA, Europe)                                     ✗      ✗     ✗
+Mick & Mack as the Global Gladiators (USA, Europe)                                     ✓      ✓     ✓
 Mickey Mouse Densetsu no Oukoku - Legend of Illusion (Japan)                           ✓      ✓     ✓
 Mickey Mouse no Castle Illusion (Japan)                                                ✓      ✓     ✓
 Mickey Mouse no Mahou no Crystal (Japan)                                               ✓      ✓     ✓
@@ -331,13 +331,13 @@ Pro Yakyuu GG League (Japan)                                                    
 Pro Yakyuu GG League '94 (Japan)                                                       ✗      ✓     ✓
 Psychic World (Japan) (En)                                                             ✓      ✓     ✓
 Psychic World (USA, Europe) (Rev 1)                                                    ✓      ✓     ✓
-Putt & Putter (Japan)                                                                  ✗      ✗     ✗
-Putt & Putter (USA, Europe)                                                            ✗      ✗     ✗
+Putt & Putter (Japan)                                                                  ✓      ✓     ✓
+Putt & Putter (USA, Europe)                                                            ✓      ✓     ✓
 Puyo Puyo (Japan)                                                                      ✗      ✓     ✓
 Puyo Puyo 2 (Japan)                                                                    ✗      ✓     ✓
 Puzzle and Action Tanto-R (Japan)                                                      ✗      ✓     ✓
 Puzzle Bobble (Japan)                                                                  ✓      ✓     ✓
-Quest for the Shaven Yak Starring Ren Hoek & Stimpy (USA, Europe)                      ✗      ✗     ✗
+Quest for the Shaven Yak Starring Ren Hoek & Stimpy (USA, Europe)                      ✓      ✓     ✓
 Quiz Gear Fight!!, The (Japan)                                                         ✗      ✓     ✓
 R.B.I. Baseball '94 (USA)                                                              ✓      ✓     ✓
 R.C. Grand Prix (USA, Europe)                                                          ✓      ✓     ✓
@@ -382,9 +382,9 @@ Smurfs Travel the World, The (Europe) (En,Fr,De,Es)                             
 Smurfs, The (Europe) (En,Fr,De,Es)                                                     ✗      ✓     ✓
 Solitaire FunPak (USA)                                                                 ✓      ✗     ✗
 Solitaire Poker (USA, Europe)                                                          ✓      ✓     ✓
-Sonic & Tails (Japan) (En)                                                             ✗      ✗     ✗
-Sonic & Tails (Japan) (En) (Sample)                                                    ✗      ✗     ✗
-Sonic & Tails 2 (Japan)                                                                ✗      ✗     ✗
+Sonic & Tails (Japan) (En)                                                             ✓      ✓     ✓
+Sonic & Tails (Japan) (En) (Sample)                                                    ✓      ✓     ✓
+Sonic & Tails 2 (Japan)                                                                ✓      ✓     ✓
 Sonic Blast (World)                                                                    ✓      ✓     ✓
 Sonic Chaos (USA, Europe)                                                              ✓      ✓     ✓
 Sonic Drift (Japan)                                                                    ✗      ✓     ✓
@@ -404,7 +404,7 @@ Spider-Man - Return of the Sinister Six (USA, Europe)                           
 Spider-Man - X-Men - Arcade's Revenge (USA)                                            ✓      ✗     ✗
 Spider-Man vs. The Kingpin (USA, Europe)                                               ✓      ✓     ✓
 Spirou (Europe) (Proto)                                                                ✗      ✓     ✓
-Sports Illustrated Championship Football & Baseball (USA, Europe)                      ✗      ✗     ✗
+Sports Illustrated Championship Football & Baseball (USA, Europe)                      ✓      ✓     ✓
 Sports Trivia (USA)                                                                    ✓      ✓     ✓
 Sports Trivia - Championship Edition (USA, Europe)                                     ✓      ✓     ✓
 Star Trek - The Next Generation - The Advanced Holodeck Tutorial (USA)                 ✓      ✓     ✓

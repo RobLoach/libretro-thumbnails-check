@@ -43,9 +43,9 @@ Addams Family, The (USA) (Arcade)                                               
 Addams Family, The - Pugsley's Scavenger Hunt (Europe)                                             ✓      ✓     ✓
 Addams Family, The - Pugsley's Scavenger Hunt (USA)                                                ✓      ✓     ✓
 Addams Family, The - Pugsley's Scavenger Hunt (USA) (Beta)                                         ✓      ✓     ✓
-Advanced Dungeons & Dragons - Eye of the Beholder (USA)                                            ✗      ✗     ✗
-Adventures of Batman & Robin, The (Europe)                                                         ✗      ✗     ✗
-Adventures of Batman & Robin, The (USA)                                                            ✗      ✗     ✗
+Advanced Dungeons & Dragons - Eye of the Beholder (USA)                                            ✓      ✓     ✓
+Adventures of Batman & Robin, The (Europe)                                                         ✓      ✓     ✓
+Adventures of Batman & Robin, The (USA)                                                            ✓      ✓     ✓
 Adventures of Dr. Franken, The (Europe) (En,Fr,De,Es,It,Nl,Sv)                                     ✓      ✓     ✓
 Adventures of Dr. Franken, The (USA)                                                               ✓      ✓     ✓
 Adventures of Kid Kleets, The (USA) (En,Fr,Es)                                                     ✓      ✓     ✓
@@ -144,7 +144,7 @@ Asahi Shinbun Rensai - Katou Hifumi Kudan Shougi - Shingiryuu (Japan)           
 Asameshimae Nyanko (Japan)                                                                         ✗      ✓     ✓
 Ashita no Joe (Japan)                                                                              ✗      ✓     ✓
 Asterix (Europe) (En,Fr,De,Es)                                                                     ✓      ✓     ✓
-Asterix & Obelix (Europe) (En,Fr,De,Es)                                                            ✗      ✗     ✗
+Asterix & Obelix (Europe) (En,Fr,De,Es)                                                            ✓      ✓     ✓
 Atlas, The - Renaissance Voyager (Japan)                                                           ✗      ✓     ✓
 Axelay (Europe)                                                                                    ✓      ✓     ✓
 Axelay (Japan)                                                                                     ✓      ✓     ✓
@@ -531,7 +531,7 @@ Desert Strike - Return to the Gulf (USA)                                        
 Desert Strike - Wangan Sakusen (Japan)                                                             ✓      ✓     ✓
 Destructive (Japan)                                                                                ✓      ✓     ✓
 Dharma Doujou (Japan)                                                                              ✗      ✓     ✓
-Dig & Spike Volleyball (USA)                                                                       ✗      ✗     ✗
+Dig & Spike Volleyball (USA)                                                                       ✓      ✓     ✓
 Dimension-Force (Japan)                                                                            ✓      ✓     ✓
 Dino City (Europe)                                                                                 ✓      ✓     ✓
 Dino City (USA)                                                                                    ✓      ✓     ✓
@@ -600,7 +600,7 @@ Dragon Ball Z - Super Saiya Densetsu (Japan)                                    
 Dragon Ball Z - Super Saiya Densetsu (Japan) (Rev 1)                                               ✓      ✓     ✓
 Dragon Ball Z - Ultime Menace (France)                                                             ✗      ✓     ✓
 Dragon Knight 4 (Japan)                                                                            ✗      ✓     ✓
-Dragon Quest I & II (Japan)                                                                        ✗      ✗     ✗
+Dragon Quest I & II (Japan)                                                                        ✓      ✓     ✓
 Dragon Quest III - Soshite Densetsu e... (Japan)                                                   ✓      ✓     ✓
 Dragon Quest V - Tenkuu no Hanayome (Japan)                                                        ✓      ✓     ✓
 Dragon Quest VI - Maboroshi no Daichi (Japan)                                                      ✓      ✓     ✓
@@ -617,13 +617,13 @@ Drakkhen (Europe)                                                               
 Drakkhen (Germany)                                                                                 ✓      ✓     ✓
 Drakkhen (Japan)                                                                                   ✓      ✓     ✓
 Drakkhen (USA)                                                                                     ✓      ✓     ✓
-Dream Basketball - Dunk & Hoop (Japan)                                                             ✗      ✗     ✗
+Dream Basketball - Dunk & Hoop (Japan)                                                             ✗      ✓     ✓
 Dream Maze - Kigurumi Daibouken (Japan)                                                            ✓      ✓     ✓
 Dream T.V. (USA)                                                                                   ✓      ✓     ✓
 Dream TV (USA) (Beta 1)                                                                            ✓      ✗     ✗
 Dream TV (USA) (Beta 2)                                                                            ✓      ✗     ✗
-Drift King Shutokou Battle '94 - Tsuchiya Keiichi & Bandou Masaaki (Japan)                         ✗      ✗     ✗
-Drift King Shutokou Battle 2 - Tsuchiya Keiichi & Bandou Masaaki (Japan)                           ✗      ✗     ✗
+Drift King Shutokou Battle '94 - Tsuchiya Keiichi & Bandou Masaaki (Japan)                         ✗      ✓     ✓
+Drift King Shutokou Battle 2 - Tsuchiya Keiichi & Bandou Masaaki (Japan)                           ✗      ✓     ✓
 DSP1 Tech Demo (USA) (Demo)                                                                        ✗      ✗     ✗
 Dual Orb - Seirei Tama Densetsu (Japan)                                                            ✗      ✓     ✓
 Dual Orb II (Japan)                                                                                ✓      ✓     ✓
@@ -937,8 +937,8 @@ Great Battle III, The (Japan)                                                   
 Great Battle IV, The (Japan)                                                                       ✗      ✓     ✓
 Great Battle IV, The (Japan) (Sample)                                                              ✗      ✓     ✓
 Great Battle V, The (Japan)                                                                        ✗      ✓     ✓
-Great Circus Mystery Starring Mickey & Minnie, The (Europe)                                        ✗      ✗     ✗
-Great Circus Mystery Starring Mickey & Minnie, The (USA)                                           ✗      ✗     ✗
+Great Circus Mystery Starring Mickey & Minnie, The (Europe)                                        ✓      ✓     ✓
+Great Circus Mystery Starring Mickey & Minnie, The (USA)                                           ✓      ✓     ✓
 Great Waldo Search, The (USA)                                                                      ✓      ✓     ✓
 GS Mikami - Joreishi wa Nice Body (Japan)                                                          ✓      ✓     ✓
 GT Racing (Japan)                                                                                  ✗      ✓     ✓
@@ -1114,8 +1114,8 @@ Iron Commando - Koutetsu no Senshi (Japan)                                      
 Isozuri - Ritou Hen (Japan)                                                                        ✗      ✓     ✓
 Itadaki Street 2 - Neon Sign wa Barairo ni (Japan)                                                 ✓      ✓     ✓
 Itadaki Street 2 - Neon Sign wa Barairo ni (Japan) (Beta)                                          ✓      ✗     ✗
-Itchy & Scratchy Game, The (Europe)                                                                ✗      ✗     ✗
-Itchy & Scratchy Game, The (USA)                                                                   ✗      ✗     ✗
+Itchy & Scratchy Game, The (Europe)                                                                ✓      ✓     ✓
+Itchy & Scratchy Game, The (USA)                                                                   ✓      ✓     ✓
 Itoi Shigesato no Bass Tsuri No. 1 (Japan)                                                         ✗      ✓     ✓
 Itou Hatasu Rokudan no Shougi Doujou (Japan)                                                       ✗      ✓     ✓
 Itou Hatasu Rokudan no Shougi Doujou (Japan) (Rev 1)                                               ✗      ✓     ✓
@@ -1193,14 +1193,14 @@ Jissen! Pachi-Slot Hisshouhou! (Japan)                                          
 Jissen! Pachi-Slot Hisshouhou! 2 (Japan)                                                           ✗      ✓     ✓
 Jissen! Pachi-Slot Hisshouhou! Classic (Japan)                                                     ✗      ✓     ✓
 Jissen! Pachi-Slot Hisshouhou! Yamasa Densetsu (Japan)                                             ✗      ✓     ✓
-Joe & Mac (USA)                                                                                    ✗      ✗     ✗
-Joe & Mac - Caveman Ninja (Europe) (En,Fr,De,Es,It,Nl)                                             ✗      ✗     ✗
-Joe & Mac - Caveman Ninja (Europe) (En,Fr,De,Es,It,Nl) (Beta)                                      ✗      ✗     ✗
-Joe & Mac - Tatakae Genshijin (Japan)                                                              ✗      ✗     ✗
-Joe & Mac 2 - Lost in the Tropics (USA)                                                            ✗      ✗     ✗
-Joe & Mac 2 - Lost in the Tropics (USA) (Beta)                                                     ✗      ✗     ✗
-Joe & Mac 3 - Lost in the Tropics (Europe) (En,Fr,De)                                              ✗      ✗     ✗
-Joe & Mac 3 - Lost in the Tropics (Europe) (En,Fr,De) (Beta)                                       ✗      ✗     ✗
+Joe & Mac (USA)                                                                                    ✓      ✓     ✓
+Joe & Mac - Caveman Ninja (Europe) (En,Fr,De,Es,It,Nl)                                             ✓      ✓     ✓
+Joe & Mac - Caveman Ninja (Europe) (En,Fr,De,Es,It,Nl) (Beta)                                      ✓      ✓     ✓
+Joe & Mac - Tatakae Genshijin (Japan)                                                              ✓      ✓     ✓
+Joe & Mac 2 - Lost in the Tropics (USA)                                                            ✓      ✓     ✓
+Joe & Mac 2 - Lost in the Tropics (USA) (Beta)                                                     ✓      ✓     ✓
+Joe & Mac 3 - Lost in the Tropics (Europe) (En,Fr,De)                                              ✓      ✓     ✓
+Joe & Mac 3 - Lost in the Tropics (Europe) (En,Fr,De) (Beta)                                       ✓      ✓     ✓
 John Madden Football (USA)                                                                         ✓      ✓     ✓
 John Madden Football '93 (Europe)                                                                  ✓      ✓     ✓
 John Madden Football '93 (USA)                                                                     ✓      ✓     ✓
@@ -1304,7 +1304,7 @@ Killer Instinct (USA)                                                           
 Killer Instinct (USA) (Beta)                                                                       ✓      ✓     ✓
 Killer Instinct (USA) (Rev 1)                                                                      ✓      ✓     ✓
 Kindai Mahjong Special (Japan)                                                                     ✗      ✓     ✓
-King Arthur & The Knights of Justice (USA)                                                         ✗      ✗     ✗
+King Arthur & The Knights of Justice (USA)                                                         ✓      ✓     ✓
 King Arthur's World (Europe)                                                                       ✓      ✓     ✓
 King Arthur's World (USA)                                                                          ✓      ✓     ✓
 King Arthur's World (USA) (Beta)                                                                   ✓      ✓     ✓
@@ -1451,7 +1451,7 @@ Lufia (Europe)                                                                  
 Lufia (Germany)                                                                                    ✓      ✓     ✓
 Lufia (Netherlands)                                                                                ✓      ✓     ✓
 Lufia (Spain)                                                                                      ✓      ✓     ✓
-Lufia & the Fortress of Doom (USA)                                                                 ✗      ✗     ✗
+Lufia & the Fortress of Doom (USA)                                                                 ✓      ✗     ✗
 Lufia & the Fortress of Doom (USA) (Beta)                                                          ✗      ✗     ✗
 Lufia II - Rise of the Sinistrals (USA)                                                            ✓      ✓     ✓
 Lupin Sansei - Densetsu no Hihou o Oe! (Japan)                                                     ✗      ✓     ✓
@@ -1616,16 +1616,16 @@ Mighty Morphin Power Rangers - The Movie (Europe)                               
 Mighty Morphin Power Rangers - The Movie (USA)                                                     ✓      ✓     ✓
 Milandra (Japan)                                                                                   ✗      ✓     ✓
 Militia (Japan)                                                                                    ✓      ✓     ✓
-Mini Yonku Let's & Go!! - Power WGP 2 (Japan)                                                      ✗      ✗     ✗
-Mini Yonku Shining Scorpion - Let's & Go!! (Japan)                                                 ✗      ✗     ✗
+Mini Yonku Let's & Go!! - Power WGP 2 (Japan)                                                      ✗      ✓     ✓
+Mini Yonku Shining Scorpion - Let's & Go!! (Japan)                                                 ✗      ✓     ✓
 Miracle Casino Paradise (Japan)                                                                    ✗      ✓     ✓
 Miracle Girls (Japan)                                                                              ✓      ✓     ✓
 Miracle Piano Teaching System, The (USA)                                                           ✓      ✓     ✓
 Miyaji Shachou no Pachinko Fan - Shouri Sengen 2 (Japan)                                           ✗      ✓     ✓
 Mizuki Shigeru no Youkai Hyakkiyakou (Japan)                                                       ✗      ✓     ✓
 MLBPA Baseball (USA)                                                                               ✓      ✓     ✓
-Mohawk & Headphone Jack (Europe)                                                                   ✗      ✗     ✗
-Mohawk & Headphone Jack (USA)                                                                      ✗      ✗     ✗
+Mohawk & Headphone Jack (Europe)                                                                   ✓      ✓     ✓
+Mohawk & Headphone Jack (USA)                                                                      ✓      ✓     ✓
 Momotarou Dentetsu Happy (Japan)                                                                   ✗      ✓     ✓
 Monopoly (Japan)                                                                                   ✓      ✓     ✓
 Monopoly (USA)                                                                                     ✓      ✓     ✓
@@ -1828,8 +1828,8 @@ Oonita Atsushi FMW (Japan)                                                      
 Oonita Atsushi FMW (Japan) (Beta)                                                                  ✗      ✓     ✓
 Oozumou Spirits (Japan)                                                                            ✗      ✓     ✓
 Operation Europe - Path to Victory 1939-45 (USA)                                                   ✓      ✓     ✓
-Operation Logic Bomb - The Ultimate Search & Destroy (Europe)                                      ✗      ✗     ✗
-Operation Logic Bomb - The Ultimate Search & Destroy (USA)                                         ✗      ✗     ✗
+Operation Logic Bomb - The Ultimate Search & Destroy (Europe)                                      ✓      ✓     ✓
+Operation Logic Bomb - The Ultimate Search & Destroy (USA)                                         ✓      ✓     ✓
 Operation Starfi5h (Europe)                                                                        ✓      ✓     ✓
 Operation Thunderbolt (USA)                                                                        ✓      ✓     ✓
 Oraga Land Shusai - Best Farmer Shuukakusai (Japan)                                                ✗      ✓     ✓
@@ -1879,7 +1879,7 @@ Pachinko Wars II (Japan)                                                        
 Pachio-kun Special (Japan)                                                                         ✗      ✓     ✓
 Pachio-kun Special 2 (Japan)                                                                       ✗      ✓     ✓
 Pachio-kun Special 3 (Japan)                                                                       ✗      ✓     ✓
-Packy & Marlon (USA) (En,Fr,Es)                                                                    ✗      ✗     ✗
+Packy & Marlon (USA) (En,Fr,Es)                                                                    ✓      ✓     ✓
 Pagemaster, The (Europe)                                                                           ✓      ✓     ✓
 Pagemaster, The (USA)                                                                              ✓      ✓     ✓
 Pagemaster, The (USA) (Beta 1)                                                                     ✗      ✗     ✗
@@ -1977,12 +1977,12 @@ Plok (France) (En,Fr)                                                           
 Plok (Germany)                                                                                     ✓      ✓     ✓
 Plok (USA)                                                                                         ✓      ✓     ✓
 Plok! (Japan)                                                                                      ✓      ✓     ✓
-Pocky & Rocky (Europe)                                                                             ✗      ✗     ✗
-Pocky & Rocky (Europe) (Sample)                                                                    ✗      ✗     ✗
-Pocky & Rocky (USA)                                                                                ✗      ✗     ✗
-Pocky & Rocky 2 (Europe)                                                                           ✗      ✗     ✗
-Pocky & Rocky 2 (USA)                                                                              ✗      ✗     ✗
-Pocky & Rocky 2 (USA) (Beta)                                                                       ✗      ✗     ✗
+Pocky & Rocky (Europe)                                                                             ✓      ✓     ✓
+Pocky & Rocky (Europe) (Sample)                                                                    ✓      ✓     ✓
+Pocky & Rocky (USA)                                                                                ✓      ✓     ✓
+Pocky & Rocky 2 (Europe)                                                                           ✓      ✓     ✓
+Pocky & Rocky 2 (USA)                                                                              ✓      ✓     ✓
+Pocky & Rocky 2 (USA) (Beta)                                                                       ✓      ✓     ✓
 Pokemon Stadium (World) (Unl) (Pirate)                                                             ✗      ✗     ✗
 Pokonyan! - Henpokorin Adventure (Japan)                                                           ✗      ✗     ✗
 Pop'n TwinBee (Europe)                                                                             ✓      ✓     ✓
@@ -2034,7 +2034,7 @@ Prince of Persia (Japan)                                                        
 Prince of Persia (USA)                                                                             ✓      ✓     ✓
 Prince of Persia 2 (Europe)                                                                        ✓      ✓     ✓
 Prince of Persia 2 (USA)                                                                           ✓      ✓     ✓
-Prince of Persia 2 - The Shadow & the Flame (USA) (Beta)                                           ✗      ✗     ✗
+Prince of Persia 2 - The Shadow & the Flame (USA) (Beta)                                           ✓      ✗     ✗
 Princess Maker - Legend of Another World (Japan)                                                   ✗      ✓     ✓
 Princess Minerva (Japan)                                                                           ✗      ✓     ✓
 Pro Action Replay (Europe) (Unl) [b]                                                               ✗      ✗     ✗
@@ -2102,12 +2102,12 @@ Redline F-1 Racer (USA)                                                         
 Rejoice - Aretha Oukoku no Kanata (Japan)                                                          ✗      ✓     ✓
 Relief Pitcher (USA)                                                                               ✓      ✓     ✓
 Relief Pitcher (USA) (Beta)                                                                        ✓      ✓     ✓
-Ren & Stimpy Show, The - Buckeroo$! (USA)                                                          ✗      ✗     ✗
-Ren & Stimpy Show, The - Fire Dogs (USA)                                                           ✗      ✗     ✗
-Ren & Stimpy Show, The - Time Warp (Europe)                                                        ✗      ✗     ✗
-Ren & Stimpy Show, The - Time Warp (USA)                                                           ✗      ✗     ✗
-Ren & Stimpy Show, The - Veediots! (Europe)                                                        ✗      ✗     ✗
-Ren & Stimpy Show, The - Veediots! (USA)                                                           ✗      ✗     ✗
+Ren & Stimpy Show, The - Buckeroo$! (USA)                                                          ✓      ✓     ✓
+Ren & Stimpy Show, The - Fire Dogs (USA)                                                           ✓      ✓     ✓
+Ren & Stimpy Show, The - Time Warp (Europe)                                                        ✓      ✓     ✓
+Ren & Stimpy Show, The - Time Warp (USA)                                                           ✓      ✓     ✓
+Ren & Stimpy Show, The - Veediots! (Europe)                                                        ✓      ✓     ✓
+Ren & Stimpy Show, The - Veediots! (USA)                                                           ✓      ✓     ✓
 Rendering Ranger R2 (Japan) (En)                                                                   ✓      ✗     ✗
 Res Arcana - Diana Ray - Uranai no Meikyuu (Japan)                                                 ✗      ✓     ✓
 Return of Double Dragon (Japan)                                                                    ✓      ✓     ✓
@@ -2140,13 +2140,13 @@ RoboCop 3 (USA) (Arcade)                                                        
 RoboCop versus The Terminator (Europe)                                                             ✓      ✓     ✓
 RoboCop versus The Terminator (USA)                                                                ✓      ✓     ✓
 Robotrek (USA)                                                                                     ✓      ✓     ✓
-Rock & Roll Racing (Europe) (Beta)                                                                 ✗      ✗     ✗
+Rock & Roll Racing (Europe) (Beta)                                                                 ✓      ✓     ✓
 Rock n' Roll Racing (Europe)                                                                       ✓      ✓     ✓
 Rock n' Roll Racing (Japan)                                                                        ✓      ✓     ✓
 Rock n' Roll Racing (USA)                                                                          ✓      ✓     ✓
 Rock n' Roll Racing (USA) (Beta)                                                                   ✓      ✓     ✓
 Rocketeer, The (USA)                                                                               ✓      ✓     ✓
-Rockman & Forte (Japan)                                                                            ✗      ✗     ✗
+Rockman & Forte (Japan)                                                                            ✓      ✓     ✓
 Rockman 7 - Shukumei no Taiketsu! (Japan)                                                          ✓      ✓     ✓
 Rockman 7 - Shukumei no Taiketsu! (Japan) (Sample)                                                 ✓      ✓     ✓
 Rockman X (Japan)                                                                                  ✓      ✓     ✓
@@ -2237,7 +2237,7 @@ Secret of Mana (France) (Rev 1)                                                 
 Secret of Mana (Germany)                                                                           ✓      ✓     ✓
 Secret of Mana (USA)                                                                               ✓      ✓     ✓
 Seifuku Densetsu Pretty Fighter (Japan)                                                            ✗      ✓     ✓
-Seijuu Maden Beasts & Blades (Japan)                                                               ✗      ✗     ✗
+Seijuu Maden Beasts & Blades (Japan)                                                               ✗      ✓     ✓
 Seiken Densetsu 2 (Japan)                                                                          ✓      ✓     ✓
 Seiken Densetsu 3 (Japan)                                                                          ✓      ✓     ✓
 Seiken Densetsu 3 (Japan) (Sample)                                                                 ✓      ✓     ✓
@@ -2393,7 +2393,7 @@ Sougou Kakutougi - Astral Bout (Japan)                                          
 Sougou Kakutougi - Astral Bout 2 - The Total Fighters (Japan)                                      ✗      ✓     ✓
 Sougou Kakutougi Rings - Astral Bout 3 (Japan)                                                     ✗      ✓     ✓
 Soukou Kihei Votoms - The Battling Road (Japan)                                                    ✗      ✓     ✓
-Soul & Sword (Japan)                                                                               ✗      ✗     ✗
+Soul & Sword (Japan)                                                                               ✗      ✓     ✓
 Soul Blade (World) (Unl) (Pirate)                                                                  ✗      ✗     ✗
 Soul Blader (Japan)                                                                                ✓      ✓     ✓
 Soul Blazer (Europe)                                                                               ✓      ✓     ✓
@@ -2440,8 +2440,8 @@ Spindizzy Worlds (Japan)                                                        
 Spindizzy Worlds (USA)                                                                             ✓      ✓     ✓
 Spirou (Europe) (En,Fr,De,Es)                                                                      ✓      ✓     ✓
 Sporting News Baseball, The (USA)                                                                  ✓      ✓     ✓
-Sports Illustrated Championship Football & Baseball (USA)                                          ✗      ✗     ✗
-Sports Illustrated Championship Football & Baseball (USA) (Beta)                                   ✗      ✗     ✗
+Sports Illustrated Championship Football & Baseball (USA)                                          ✓      ✓     ✓
+Sports Illustrated Championship Football & Baseball (USA) (Beta)                                   ✓      ✓     ✓
 Spriggan Powered (Japan)                                                                           ✓      ✓     ✓
 Sprinter Monogatari - Mezase!! Ikkakusenkin (Japan)                                                ✗      ✓     ✓
 Squaresoft Mode 7 Demo (USA) (Demo)                                                                ✗      ✗     ✗
@@ -2606,8 +2606,8 @@ Super Disc (Japan) (En) (v0.95) (Proto)                                         
 Super Dogfight (Japan)                                                                             ✓      ✓     ✓
 Super Donkey Kong (Japan)                                                                          ✓      ✓     ✓
 Super Donkey Kong (Japan) (Rev 1)                                                                  ✓      ✓     ✓
-Super Donkey Kong 2 - Dixie & Diddy (Japan)                                                        ✗      ✗     ✗
-Super Donkey Kong 2 - Dixie & Diddy (Japan) (Rev 1)                                                ✗      ✗     ✗
+Super Donkey Kong 2 - Dixie & Diddy (Japan)                                                        ✓      ✓     ✓
+Super Donkey Kong 2 - Dixie & Diddy (Japan) (Rev 1)                                                ✓      ✓     ✓
 Super Donkey Kong 3 - Nazo no Kremis-tou (Japan)                                                   ✓      ✗     ✗
 Super Donkey Kong 3 - Nazo no Kremis-tou (Japan) (Rev 1)                                           ✓      ✗     ✗
 Super Double Dragon (Europe)                                                                       ✓      ✓     ✓
@@ -2967,7 +2967,7 @@ Tamagotch Town (Japan) (NP)                                                     
 Targa (Europe) (Proto)                                                                             ✗      ✗     ✗
 Tarot Mystery (Japan)                                                                              ✗      ✓     ✓
 Tatakae Genshijin 2 - Rookie no Bouken (Japan)                                                     ✓      ✓     ✓
-Tatakae Genshijin 3 - Shuyaku wa Yappari Joe & Mac (Japan)                                         ✗      ✗     ✗
+Tatakae Genshijin 3 - Shuyaku wa Yappari Joe & Mac (Japan)                                         ✓      ✓     ✓
 Taz-Mania (Europe)                                                                                 ✓      ✓     ✓
 Taz-Mania (USA)                                                                                    ✓      ✓     ✓
 Taz-Mania (USA) (Beta)                                                                             ✓      ✓     ✓
@@ -3026,8 +3026,8 @@ Terranigma (France)                                                             
 Terranigma (Germany)                                                                               ✓      ✓     ✓
 Terranigma (Germany) (Rev 1)                                                                       ✓      ✓     ✓
 Terranigma (Spain)                                                                                 ✓      ✓     ✓
-Tetris & Dr. Mario (Europe)                                                                        ✗      ✗     ✗
-Tetris & Dr. Mario (USA)                                                                           ✗      ✗     ✗
+Tetris & Dr. Mario (Europe)                                                                        ✓      ✓     ✓
+Tetris & Dr. Mario (USA)                                                                           ✓      ✓     ✓
 Tetris 2 (Europe)                                                                                  ✓      ✓     ✓
 Tetris 2 (USA)                                                                                     ✓      ✓     ✓
 Tetris 2 (USA) (Rev 1)                                                                             ✓      ✓     ✓
@@ -3038,8 +3038,8 @@ Tetris Flash (Japan)                                                            
 Tetsuwan Atom (Japan)                                                                              ✗      ✓     ✓
 Theme Park (Europe) (En,Fr,De)                                                                     ✓      ✓     ✓
 Theme Park (Japan)                                                                                 ✓      ✓     ✓
-Thomas the Tank Engine & Friends (Europe)                                                          ✗      ✗     ✗
-Thomas the Tank Engine & Friends (USA)                                                             ✗      ✗     ✗
+Thomas the Tank Engine & Friends (Europe)                                                          ✓      ✓     ✓
+Thomas the Tank Engine & Friends (USA)                                                             ✓      ✓     ✓
 Thoroughbred Breeder (Japan)                                                                       ✗      ✓     ✓
 Thoroughbred Breeder II (Japan)                                                                    ✗      ✓     ✓
 Thoroughbred Breeder III (Japan)                                                                   ✗      ✓     ✓
@@ -3055,8 +3055,8 @@ Time Trax (USA) (Beta)                                                          
 Timecop (Europe)                                                                                   ✓      ✓     ✓
 Timecop (Japan)                                                                                    ✓      ✓     ✓
 Timecop (USA)                                                                                      ✓      ✓     ✓
-Timon & Pumbaa's Jungle Games (Europe)                                                             ✗      ✗     ✗
-Timon & Pumbaa's Jungle Games (USA)                                                                ✗      ✗     ✗
+Timon & Pumbaa's Jungle Games (Europe)                                                             ✓      ✓     ✓
+Timon & Pumbaa's Jungle Games (USA)                                                                ✓      ✓     ✓
 Tin Star (USA)                                                                                     ✓      ✓     ✓
 Tinhead (Europe) (Proto)                                                                           ✗      ✓     ✓
 Tintin - Prisoners of the Sun (Europe) (En,Fr,De,Es)                                               ✓      ✓     ✓
@@ -3069,9 +3069,9 @@ Tiny Toon Adventures - Buster Busts Loose! (USA)                                
 Tiny Toon Adventures - Buster Busts Loose! (USA) (Beta)                                            ✓      ✓     ✓
 Tiny Toon Adventures - Dotabata Daiundoukai (Japan)                                                ✓      ✓     ✓
 Tiny Toon Adventures - Wacky Sports Challenge (USA)                                                ✓      ✓     ✓
-Tiny Toon Adventures - Wild & Wacky Sports (Europe)                                                ✗      ✗     ✗
-Tiny Toon Adventures - Wild & Wacky Sports (Europe) (Beta)                                         ✗      ✗     ✗
-Tiny Toon Adventures - Wild & Wacky Sports (Europe) (Rev 1)                                        ✗      ✗     ✗
+Tiny Toon Adventures - Wild & Wacky Sports (Europe)                                                ✓      ✓     ✓
+Tiny Toon Adventures - Wild & Wacky Sports (Europe) (Beta)                                         ✓      ✓     ✓
+Tiny Toon Adventures - Wild & Wacky Sports (Europe) (Rev 1)                                        ✓      ✓     ✓
 TKO Super Championship Boxing (Europe)                                                             ✓      ✓     ✓
 TKO Super Championship Boxing (USA)                                                                ✓      ✓     ✓
 TKO Super Championship Boxing (USA) (Sample)                                                       ✓      ✓     ✓
@@ -3082,7 +3082,7 @@ Todd McFarlane's Spawn - The Video Game (USA)                                   
 Tokimeki Memorial - Densetsu no Ki no Shita de (Japan)                                             ✗      ✓     ✓
 Tokimeki Memorial - Densetsu no Ki no Shita de (Japan) (Rev 1)                                     ✗      ✓     ✓
 Tokoro's Mahjong (Japan)                                                                           ✗      ✓     ✓
-Tom & Jerry (USA) (Beta)                                                                           ✗      ✗     ✗
+Tom & Jerry (USA) (Beta)                                                                           ✓      ✓     ✓
 Tom and Jerry (Europe)                                                                             ✓      ✓     ✓
 Tom and Jerry (USA)                                                                                ✓      ✓     ✓
 Tom to Jerry (Japan)                                                                               ✓      ✓     ✓
@@ -3114,7 +3114,7 @@ Toy Story (Japan)                                                               
 Toy Story (USA)                                                                                    ✓      ✓     ✓
 Toys - Let the Toy Wars begin! (Europe)                                                            ✓      ✓     ✓
 Toys - Let the Toy Wars begin! (USA)                                                               ✓      ✓     ✓
-Traverse - Starlight & Prairie (Japan)                                                             ✗      ✗     ✗
+Traverse - Starlight & Prairie (Japan)                                                             ✗      ✓     ✓
 Treasure Hunter G (Japan)                                                                          ✓      ✓     ✓
 Tri-Star (USA) (Unl)                                                                               ✗      ✓     ✓
 Trinea (Japan)                                                                                     ✗      ✓     ✓
