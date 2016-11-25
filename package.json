@@ -12,11 +12,16 @@
     "datfile": "github:robloach/datfile"
   },
   "dependencies": {
+    "download": "^5.0.2",
+    "download-file-sync": "^1.0.4",
+    "file-exists": "^2.0.0",
     "glob": "^7.1.1",
     "globby": "^6.1.0",
     "marked": "^0.3.6",
     "minimatch": "^3.0.3",
     "multimatch": "^2.1.0",
+    "sanitize-filename": "^1.6.1",
+    "sleep": "^5.0.0",
     "text-table": "^0.2.0"
   }
 }
