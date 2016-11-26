@@ -26,8 +26,8 @@ var thumbnailReplacer = batchreplace.mapReplacer({
 	'|': '_'
 })
 
-//var access = ''
-var access = '?access_token=da718dd6edc36bbbbc83fab3ebde0b074ea61ca4'
+var access = ''
+//var access = '?access_token=da718dd6edc36bbbbc83fab3ebde0b074ea61ca4'
 
 glob('libretro-database/rdb/*.rdb', function (err, files) {
 	files.forEach(function (file) {
@@ -35,8 +35,10 @@ glob('libretro-database/rdb/*.rdb', function (err, files) {
 		processSystem(system)
 	})
 })
+//processSystem('Nintendo - Nintendo Entertainment System')
 
 function processSystem(system) {
+	var thumbs = thumbnails(system)
 	if (fileExists('out/' + system + '.txt')) {
 		return true
 	}
@@ -55,7 +57,7 @@ function processSystem(system) {
 			var dat = datfile.parse(data)
 			for (var x in dat) {
 				var game = dat[x]
-				games[game.name] = getGameThumbnails(system, game.name)
+				games[game.name] = getGameThumbnails(thumbs, system, game.name)
 			}
 		}
 		writeReport(system, games)
@@ -64,8 +66,7 @@ function processSystem(system) {
 	})
 }
 
-function getGameThumbnails(system, name) {
-	var thumbs = thumbnails(system)
+function getGameThumbnails(thumbs, system, name) {
 	var thumbnailName = thumbnailReplacer(name)
 	var out = minimatch.match(thumbs, system + '/*/' + thumbnailName + '.png', {matchBase: true})
 	var result = {}
@@ -86,20 +87,49 @@ function getGameThumbnails(system, name) {
 
 function writeReport(system, games) {
 	var output = system + '\n\n'
-	if (games.length <= 0) {
+	if (Object.keys(games).length <= 0) {
 		output += 'Error parsing dat files.'
 	}
 	else {
+		var count = {
+			boxart: 0,
+			snap: 0,
+			title: 0,
+			total: Object.keys(games).length
+		}
+
 		var entries = []
 		entries.push(['Name', 'Boxart', 'Snap', 'Title'])
 		for (var gameName in games) {
 			var game = games[gameName]
+
 			var boxart = game.boxart ? '✓' : '✗'
 			var snap = game.snap ? '✓' : '✗'
 			var title = game.title ? '✓' : '✗'
+
+			if (game.boxart) {
+				count.boxart++
+			}
+			if (game.snap) {
+				count.snap++
+			}
+			if (game.title) {
+				count.title++
+			}
 			entries.push([gameName, boxart, snap, title])
 		}
-		output += table(entries, {
+
+		var total = count.snap + count.boxart + count.title
+		output += table([
+			['Boxarts', count.boxart + '/' + count.total, (count.boxart / count.total * 100).toFixed(2) + '%'],
+			['Snaps', count.snap + '/' + count.total, (count.snap / count.total * 100).toFixed(2) + '%'],
+			['Titles', count.title + '/' + count.total, (count.title / count.total * 100).toFixed(2) + '%'],
+			['Total', total + '/' + count.total * 3, ((total / (count.total * 3)) * 100).toFixed(2) + '%']
+		], {
+			align: ['l', '/', '.']
+		})
+
+		output += '\n\n' + table(entries, {
 			align: ['l', 'c', 'c', 'c']
 		})
 	}
