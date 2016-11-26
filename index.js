@@ -26,8 +26,8 @@ var thumbnailReplacer = batchreplace.mapReplacer({
 	'|': '_'
 })
 
-var access = ''
-//var access = '?access_token=da718dd6edc36bbbbc83fab3ebde0b074ea61ca4'
+//var access = ''
+var access = '?access_token=3e5139c1da61bf45aca66ec8ebb5d7b2aa3ac953'
 
 glob('libretro-database/rdb/*.rdb', function (err, files) {
 	files.forEach(function (file) {
@@ -37,6 +37,9 @@ glob('libretro-database/rdb/*.rdb', function (err, files) {
 })
 //processSystem('Nintendo - Nintendo Entertainment System')
 
+/**
+ * Go through all games of a system, and check their thumbnails.
+ */
 function processSystem(system) {
 	var thumbs = thumbnails(system)
 	if (fileExists('out/' + system + '.txt')) {
@@ -66,6 +69,12 @@ function processSystem(system) {
 	})
 }
 
+/**
+ * Returns an array of objects, with the following boolean values:
+ * - boxart
+ * - snap
+ * - title
+ */
 function getGameThumbnails(thumbs, system, name) {
 	var thumbnailName = thumbnailReplacer(name)
 	var out = minimatch.match(thumbs, system + '/*/' + thumbnailName + '.png', {matchBase: true})
@@ -85,6 +94,9 @@ function getGameThumbnails(thumbs, system, name) {
 	return result
 }
 
+/**
+ * Writes a system report containing the thumbnails.
+ */
 function writeReport(system, games) {
 	var output = system + '\n\n'
 	if (Object.keys(games).length <= 0) {
@@ -136,6 +148,9 @@ function writeReport(system, games) {
 	fs.writeFileSync('out/' + system + '.txt', output)
 }
 
+/**
+ * Downloads the index of all thumbnails.
+ */
 function thumbnails(system) {
 	var thumbs = []
 	console.log(system)
@@ -164,6 +179,9 @@ function thumbnails(system) {
 	return thumbs
 }
 
+/**
+ * Download and cache the given URL.
+ */
 function getData(url) {
 	var filename = '.tmp/' + sanitizeFilename(url + '.json')
 	if (fileExists(filename)) {
@@ -174,12 +192,20 @@ function getData(url) {
 	}
 
 	var contents = download(url + access)
+	var json = JSON.parse(contents)
+	if (json.message) {
+		console.error(json.message)
+		process.exit(1)
+	}
 	// Sleep so that we don't exceed GitHub's API limit.
 	sleep.sleep(10)
 	fs.writeFileSync(filename, contents)
-	return JSON.parse(contents)
+	return json
 }
 
+/**
+ * Convert a GitHub Data URL to a list of filenames.
+ */
 function dataToThumbnails(data) {
 	var out = []
 	for (var i in data.tree) {
