@@ -138,7 +138,7 @@ function writeReport(system, games) {
 			['Titles', count.title + '/' + count.total, (count.title / count.total * 100).toFixed(2) + '%'],
 			['Total', total + '/' + count.total * 3, ((total / (count.total * 3)) * 100).toFixed(2) + '%']
 		], {
-			align: ['l', '/', '.']
+			align: ['l', 'r', 'r']
 		})
 
 		output += '\n\n' + table(entries, {
