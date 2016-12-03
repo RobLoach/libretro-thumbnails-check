@@ -15,5 +15,6 @@ View the [`out`](out) directory.
 ## Build
 
 ```
+make clean
 make
 ```

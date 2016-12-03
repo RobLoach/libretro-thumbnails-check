@@ -27,15 +27,15 @@ var thumbnailReplacer = batchreplace.mapReplacer({
 })
 
 //var access = ''
-var access = '?access_token=3e5139c1da61bf45aca66ec8ebb5d7b2aa3ac953'
+var access = '?access_token=bc209319dc0e82166a543208e3dded74b88f7f88'
 
-glob('libretro-database/rdb/*.rdb', function (err, files) {
+/*glob('libretro-database/rdb/*.rdb', function (err, files) {
 	files.forEach(function (file) {
 		var system = path.parse(file).name
 		processSystem(system)
 	})
-})
-//processSystem('Nintendo - Nintendo Entertainment System')
+})*/
+processSystem('Nintendo - Nintendo Entertainment System')
 
 /**
  * Go through all games of a system, and check their thumbnails.
@@ -63,7 +63,7 @@ function processSystem(system) {
 				games[game.name] = getGameThumbnails(thumbs, system, game.name)
 			}
 		}
-		writeReport(system, games)
+		writeReport(system, games, thumbs)
 	}).catch(function (err) {
 		console.log(err)
 	})
@@ -81,14 +81,21 @@ function getGameThumbnails(thumbs, system, name) {
 	var result = {}
 	for (var i in out) {
 		var str = out[i]
+		var index = -1
 		if (str.indexOf('Named_Boxarts') > 0) {
 			result.boxart = true
+			index = thumbs.indexOf(str)
 		}
 		else if (str.indexOf('Named_Snaps') > 0) {
 			result.snap = true
+			index = thumbs.indexOf(str)
 		}
 		else if (str.indexOf('Named_Titles') > 0) {
 			result.title = true
+			index = thumbs.indexOf(str)
+		}
+		if (index > -1) {
+			thumbs.splice(index, 1)
 		}
 	}
 	return result
@@ -97,7 +104,7 @@ function getGameThumbnails(thumbs, system, name) {
 /**
  * Writes a system report containing the thumbnails.
  */
-function writeReport(system, games) {
+function writeReport(system, games, thumbs) {
 	var output = system + '\n\n'
 	if (Object.keys(games).length <= 0) {
 		output += 'Error parsing dat files.'
@@ -144,6 +151,11 @@ function writeReport(system, games) {
 		output += '\n\n' + table(entries, {
 			align: ['l', 'c', 'c', 'c']
 		})
+
+		output += '\n\nOrphans\n'
+		for (var o in thumbs) {
+			output += '\n' + thumbs[o].replace(system + '/', '')
+		}
 	}
 	fs.writeFileSync('out/' + system + '.txt', output)
 }
