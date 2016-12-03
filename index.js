@@ -152,10 +152,11 @@ function writeReport(system, games, thumbs) {
 			align: ['l', 'c', 'c', 'c']
 		})
 
-		output += '\n\nOrphans\n'
+		var orphans = system + ' Orphans\n'
 		for (var o in thumbs) {
-			output += '\n' + thumbs[o].replace(system + '/', '')
+			orphans += '\n' + thumbs[o].replace(system + '/', '')
 		}
+		fs.writeFileSync('out/' + system + ' Orphans.txt', orphans)
 	}
 	fs.writeFileSync('out/' + system + '.txt', output)
 }
