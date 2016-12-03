@@ -26,16 +26,16 @@ var thumbnailReplacer = batchreplace.mapReplacer({
 	'|': '_'
 })
 
-//var access = ''
-var access = '?access_token=bc209319dc0e82166a543208e3dded74b88f7f88'
+var access = ''
+//var access = '?access_token='
 
-/*glob('libretro-database/rdb/*.rdb', function (err, files) {
+glob('libretro-database/rdb/*.rdb', function (err, files) {
 	files.forEach(function (file) {
 		var system = path.parse(file).name
 		processSystem(system)
 	})
-})*/
-processSystem('Nintendo - Nintendo Entertainment System')
+})
+//processSystem('Nintendo - Nintendo Entertainment System')
 
 /**
  * Go through all games of a system, and check their thumbnails.
@@ -152,11 +152,14 @@ function writeReport(system, games, thumbs) {
 			align: ['l', 'c', 'c', 'c']
 		})
 
-		var orphans = system + ' Orphans\n'
+		var orphans = ''
 		for (var o in thumbs) {
 			orphans += '\n' + thumbs[o].replace(system + '/', '')
 		}
-		fs.writeFileSync('out/' + system + ' Orphans.txt', orphans)
+		if (orphans.length >= 0) {
+			orphans = system + ' Orphans\n\n' + orphans
+			fs.writeFileSync('out/' + system + ' Orphans.txt', orphans)
+		}
 	}
 	fs.writeFileSync('out/' + system + '.txt', output)
 }
@@ -201,7 +204,13 @@ function getData(url) {
 		var contents = fs.readFileSync(filename, {
 			encoding: 'utf8'
 		})
-		return JSON.parse(contents)
+		try {
+			return JSON.parse(contents)
+		}
+		catch (err) {
+			console.error(filename + '\n' + err)
+			fs.unlink(filename)
+		}
 	}
 
 	var contents = download(url + access)
@@ -211,7 +220,7 @@ function getData(url) {
 		process.exit(1)
 	}
 	// Sleep so that we don't exceed GitHub's API limit.
-	sleep.sleep(10)
+	sleep.sleep(5)
 	fs.writeFileSync(filename, contents)
 	return json
 }
