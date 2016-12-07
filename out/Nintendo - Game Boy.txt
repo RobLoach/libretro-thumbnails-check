@@ -1,14 +1,11 @@
 Nintendo - Game Boy
 
-Boxarts  1054/1609  65.51%
-Snaps    1527/1609  94.90%
-Titles   1527/1609  94.90%
-Total    4108/4827  85.10%
+Boxarts  1052/1606  65.50%
+Snaps    1522/1606  94.77%
+Titles   1522/1606  94.77%
+Total    4096/4818  85.01%
 
 Name                                                                                             Boxart  Snap  Title
-[BIOS] Nintendo Game Boy Boot ROM (World) (Rev 1)                                                   ✗      ✗     ✗
-[BIOS] Nintendo Game Boy Boot ROM (World)                                                           ✗      ✗     ✗
-[BIOS] Nintendo Game Boy Pocket Boot ROM (World)                                                    ✗      ✗     ✗
 3 Choume no Tama - Tama and Friends - 3 Choume Obake Panic!! (Japan)                                ✗      ✓     ✓
 3-pun Yosou - Umaban Club (Japan)                                                                   ✗      ✓     ✓
 4 in 1 (Europe) (4B-002, Sachen) (Unl)                                                              ✗      ✗     ✗
@@ -245,7 +242,7 @@ Chibi Maruko-chan 3 - Mezase! Game Taishou no Maki (Japan)                      
 Chibi Maruko-chan 4 - Kore ga Nihon Da yo! Ouji-sama (Japan)                                        ✗      ✓     ✓
 Chiki Chiki Machine Mou Race (Japan)                                                                ✗      ✓     ✓
 Chiki Chiki Tengoku (Japan)                                                                         ✗      ✓     ✓
-Chikyuu Kaihou Gun ZAS (Japan)                                                                      ✗      ✓     ✓
+Chikyuu Kaihou Gun ZAS (Japan) (En)                                                                 ✗      ✗     ✗
 Choplifter II (Japan)                                                                               ✓      ✓     ✓
 Choplifter II - Rescue & Survive (Europe)                                                           ✓      ✓     ✓
 Choplifter II - Rescue & Survive (USA)                                                              ✓      ✓     ✓
@@ -761,9 +758,9 @@ Magical Taruruuto-kun (Japan)                                                   
 Magical Taruruuto-kun 2 - Raibaa Zone Panic!! (Japan)                                               ✗      ✓     ✓
 Magnetic Soccer (Europe)                                                                            ✓      ✓     ✓
 Mahoujin Guruguru (Japan) (SGB Enhanced)                                                            ✗      ✓     ✓
-Makai Mura Gaiden - The Demon Darkness (Japan)                                                      ✓      ✓     ✓
 Makai Toushi Sa-Ga (Japan)                                                                          ✓      ✓     ✓
 Makai Toushi Sa-Ga (Japan) (Rev A)                                                                  ✓      ✓     ✓
+Makaimura Gaiden - The Demon Darkness (Japan)                                                       ✗      ✗     ✗
 Malibu Beach Volleyball (USA)                                                                       ✓      ✓     ✓
 Mani 4 in 1 (China) (DMG-602 CHN)                                                                   ✗      ✓     ✓
 Mani 4 in 1 (China) (DMG-603 CHN)                                                                   ✗      ✓     ✓
@@ -969,10 +966,10 @@ Noobow (Japan)                                                                  
 Oddworld Adventures (USA, Europe)                                                                   ✓      ✓     ✓
 Oira Jajamaru! Sekai Daibouken (Japan)                                                              ✓      ✓     ✓
 Olympic Summer Games (USA, Europe) (SGB Enhanced)                                                   ✓      ✓     ✓
-Oni II - Innin Densetsu (Japan)                                                                     ✗      ✓     ✓
+Oni II - Oni Densetsu (Japan)                                                                       ✗      ✗     ✗
 Oni III - Kuro no Hakaishin (Japan)                                                                 ✗      ✓     ✓
 Oni IV - Kijin no Ketsuzoku (Japan)                                                                 ✗      ✓     ✓
-Oni V - Innin o Tsugumono (Japan) (SGB Enhanced)                                                    ✗      ✓     ✓
+Oni V - Oni wo Tsugumono (Japan) (SGB Enhanced)                                                     ✗      ✗     ✗
 Onigashima Pachinkoten (Japan)                                                                      ✗      ✓     ✓
 Operation C (USA)                                                                                   ✓      ✓     ✓
 Osawagase! Penguin Boy (Japan)                                                                      ✓      ✓     ✓
@@ -1163,7 +1160,7 @@ Ranma 1-2 - Kakugeki Mondou!! (Japan)                                           
 Ranma 1-2 - Netsuretsu Kakutou Hen (Japan)                                                          ✗      ✓     ✓
 Ray-Thunder (Japan)                                                                                 ✗      ✓     ✓
 Real Ghostbusters, The (USA)                                                                        ✓      ✓     ✓
-Red Arremer - Makai Mura Gaiden (Japan)                                                             ✓      ✓     ✓
+Red Arremer - Makaimura Gaiden (Japan)                                                              ✗      ✗     ✗
 Red October o Oe! (Japan)                                                                           ✓      ✓     ✓
 Ren & Stimpy Show, The - Space Cadet Adventures (USA)                                               ✓      ✓     ✓
 Ren & Stimpy Show, The - Veediots! (USA, Europe)                                                    ✓      ✓     ✓

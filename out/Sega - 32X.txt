@@ -1,9 +1,9 @@
 Sega - 32X
 
-Boxarts    53/60  88.33%
-Snaps      59/60  98.33%
-Titles     59/60  98.33%
-Total    171/180  95.00%
+Boxarts    52/60  86.67%
+Snaps      58/60  96.67%
+Titles     58/60  96.67%
+Total    168/180  93.33%
 
 Name                                                                Boxart  Snap  Title
 32X Sample Program - PWM Sound Demo (USA) (SDK Build)                  ✗      ✓     ✓
@@ -48,7 +48,7 @@ Shadow Squadron ~ Stellar Assault (USA, Europe)                        ✓      
 Soulstar X (USA) (Proto)                                               ✓      ✓     ✓
 Space Harrier (Europe)                                                 ✓      ✓     ✓
 Space Harrier (Japan, USA)                                             ✓      ✓     ✓
-Star Trek Starfleet Academy - Starship Bridge Simulator (USA)          ✓      ✓     ✓
+Star Trek - Starfleet Academy - Starship Bridge Simulator (USA)        ✗      ✗     ✗
 Star Wars Arcade (USA)                                                 ✓      ✓     ✓
 Star Wars Arcade (Japan)                                               ✓      ✓     ✓
 Star Wars Arcade (Europe)                                              ✓      ✓     ✓

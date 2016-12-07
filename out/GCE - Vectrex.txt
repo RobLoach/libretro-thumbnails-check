@@ -1,9 +1,9 @@
 GCE - Vectrex
 
-Boxarts    44/44  100.00%
-Snaps      44/44  100.00%
-Titles     44/44  100.00%
-Total    132/132  100.00%
+Boxarts    41/44  93.18%
+Snaps      41/44  93.18%
+Titles     41/44  93.18%
+Total    123/132  93.18%
 
 Name                                                       Boxart  Snap  Title
 3D Crazy Coaster (USA)                                        ✓      ✓     ✓
@@ -14,7 +14,6 @@ Armor..Attack (World)                                         ✓      ✓     �
 Art Master (USA)                                              ✓      ✓     ✓
 Bedlam (USA, Europe)                                          ✓      ✓     ✓
 Berzerk (World)                                               ✓      ✓     ✓
-Berzerk Debugged (USA)                                        ✓      ✓     ✓
 Blitz! - Action Football (USA, Europe) (0F11CE0C)             ✓      ✓     ✓
 Blitz! - Action Football (USA, Europe) (881B27C5)             ✓      ✓     ✓
 Clean Sweep (World)                                           ✓      ✓     ✓
@@ -24,13 +23,15 @@ Engine Analyzer (USA) (Proto)                                 ✓      ✓     �
 Fortress of Narzod (USA, Europe)                              ✓      ✓     ✓
 Heads-Up - Action Soccer (USA)                                ✓      ✓     ✓
 HyperChase - Auto Race (World)                                ✓      ✓     ✓
-Mail Plane (USA) (Proto)                                      ✓      ✓     ✓
+Mail Plane (USA) (Proto) (05838962)                           ✗      ✗     ✗
+Mail Plane (USA) (Proto) (DA1AC0DB)                           ✗      ✗     ✗
 Melody Master - Music Composition and Entertainment (USA)     ✓      ✓     ✓
 Mine Storm (World)                                            ✓      ✓     ✓
 Mine Storm II (USA) (Rev 2)                                   ✓      ✓     ✓
+Mr. Boston Clean Sweep (Europe)                               ✗      ✗     ✗
 Pitcher's Duel (USA) (Proto)                                  ✓      ✓     ✓
-Polar Rescue (USA)                                            ✓      ✓     ✓
 Polar Rescue (USA) (Beta)                                     ✓      ✓     ✓
+Polar Rescue (USA)                                            ✓      ✓     ✓
 Pole Position (USA) (C10F37D8)                                ✓      ✓     ✓
 Pole Position (USA) (A00ED3D6)                                ✓      ✓     ✓
 RA+A Spectrum I+ Stress Tester (USA) (Proto)                  ✓      ✓     ✓
@@ -44,7 +45,6 @@ Spin ball (USA)                                               ✓      ✓     �
 Star Castle (USA)                                             ✓      ✓     ✓
 Star Ship (Europe)                                            ✓      ✓     ✓
 Star Trek - The Motion Picture (USA)                          ✓      ✓     ✓
-Star Trek Debugged (USA)                                      ✓      ✓     ✓
 StarHawk (World)                                              ✓      ✓     ✓
 Test Cartridge (USA) (Rev 4) (Proto)                          ✓      ✓     ✓
 Tour De France (USA) (Proto)                                  ✓      ✓     ✓

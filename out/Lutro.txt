@@ -1,17 +1,17 @@
 Lutro
 
-Boxarts   0/9  0.00%
-Snaps     0/9  0.00%
-Titles    0/9  0.00%
-Total    0/27  0.00%
+Boxarts   0/9   0.00%
+Snaps     7/9  77.78%
+Titles    2/9  22.22%
+Total    9/27  33.33%
 
 Name                      Boxart  Snap  Title
-Game of Life                 ✗      ✗     ✗
-In Your Face City Trains     ✗      ✗     ✗
+Game of Life                 ✗      ✓     ✗
+In Your Face City Trains     ✗      ✓     ✓
 Platformer                   ✗      ✗     ✗
-Pong                         ✗      ✗     ✗
-Sienna                       ✗      ✗     ✗
-Snake                        ✗      ✗     ✗
-Spaceship                    ✗      ✗     ✗
-Tetris                       ✗      ✗     ✗
+Pong                         ✗      ✓     ✗
+Sienna                       ✗      ✓     ✓
+Snake                        ✗      ✓     ✗
+Spaceship                    ✗      ✓     ✗
+Tetris                       ✗      ✓     ✗
 Lutris Launcher              ✗      ✗     ✗
