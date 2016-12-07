@@ -1,9 +1,9 @@
 Sega - Game Gear
 
-Boxarts    371/498  74.50%
-Snaps      446/498  89.56%
-Titles     446/498  89.56%
-Total    1263/1494  84.54%
+Boxarts    370/497  74.45%
+Snaps      444/497  89.34%
+Titles     444/497  89.34%
+Total    1258/1491  84.37%
 
 Name                                                                                Boxart  Snap  Title
 5 in 1 Funpak (USA)                                                                    ✓      ✓     ✓
@@ -104,6 +104,7 @@ Devilish (USA)                                                                  
 Donald Duck no 4-Tsu no Hihou (Japan)                                                  ✓      ✓     ✓
 Donald Duck no Lucky Dime (Japan)                                                      ✓      ✓     ✓
 Donald no Magical World (Japan) (En,Ja)                                                ✓      ✓     ✓
+Doraemon - Noranosuke no Yabou (Japan)                                                 ✗      ✗     ✗
 Doraemon - Waku Waku Pocket Paradise (Japan)                                           ✗      ✓     ✓
 Double Dragon (USA, Europe)                                                            ✓      ✓     ✓
 Double Dragon (USA, Europe) (Beta)                                                     ✓      ✓     ✓
@@ -150,6 +151,7 @@ From TV Animation - Slam Dunk - Shouri e no Starting 5 (Japan)                  
 G-LOC - Air Battle (Japan)                                                             ✗      ✗     ✗
 G-LOC - Air Battle (Japan) (Rev 1)                                                     ✗      ✗     ✗
 G-LOC - Air Battle (USA, Europe)                                                       ✗      ✗     ✗
+G-Sonic ~ Sonic Blast (World)                                                          ✗      ✗     ✗
 Galaga '91 (Japan)                                                                     ✗      ✓     ✓
 Galaga 2 (Europe)                                                                      ✗      ✓     ✓
 Gamble Panic (Japan)                                                                   ✗      ✓     ✓
@@ -163,7 +165,6 @@ Gear Works (USA)                                                                
 George Foreman's KO Boxing (USA, Europe)                                               ✓      ✓     ✓
 GG Aleste (Japan)                                                                      ✗      ✓     ✓
 GG Aleste II ~ Power Strike II (Japan, Europe)                                         ✓      ✗     ✗
-GG Doraemon - Noranosuke no Yabou (Japan)                                              ✗      ✓     ✓
 GG Portrait - Pai Chen (Japan)                                                         ✗      ✓     ✓
 GG Portrait - Yuuki Akira (Japan)                                                      ✗      ✓     ✓
 GG Shinobi, The (Japan)                                                                ✓      ✓     ✓
@@ -390,7 +391,6 @@ Solitaire Poker (USA, Europe)                                                   
 Sonic & Tails (Japan) (En)                                                             ✓      ✓     ✓
 Sonic & Tails (Japan) (En) (Sample)                                                    ✓      ✓     ✓
 Sonic & Tails 2 (Japan)                                                                ✓      ✓     ✓
-Sonic Blast (World)                                                                    ✓      ✓     ✓
 Sonic Chaos (USA, Europe)                                                              ✓      ✓     ✓
 Sonic Drift (Japan)                                                                    ✗      ✓     ✓
 Sonic Drift (Japan) (Sample)                                                           ✗      ✓     ✓
@@ -503,4 +503,3 @@ Zool - Ninja of the 'Nth' Dimension (Europe)                                    
 Zool no Yume Bouken (Japan)                                                            ✗      ✓     ✓
 Zoop (USA) (Beta)                                                                      ✗      ✓     ✓
 Zoop (USA)                                                                             ✓      ✓     ✓
-[BIOS] Sega Game Gear (USA) (Majesco)                                                  ✗      ✗     ✗
