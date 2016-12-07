@@ -156,8 +156,8 @@ function writeReport(system, games, thumbs) {
 		for (var o in thumbs) {
 			orphans += '\n' + thumbs[o].replace(system + '/', '')
 		}
-		if (orphans.length >= 0) {
-			orphans = system + ' Orphans\n\n' + orphans
+		if (orphans.length >= 5) {
+			orphans = system + ' Orphans\n' + orphans
 			fs.writeFileSync('out/' + system + ' Orphans.txt', orphans)
 		}
 	}
