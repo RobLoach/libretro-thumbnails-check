@@ -26,6 +26,7 @@ var thumbnailReplacer = batchreplace.mapReplacer({
 	'|': '_'
 })
 
+// Set the GitHub access token below.
 var access = ''
 //var access = '?access_token='
 

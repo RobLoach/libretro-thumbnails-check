@@ -9,7 +9,7 @@
   "author": "Rob Loach (http://robloach.net)",
   "license": "MIT",
   "devDependencies": {
-    "datfile": "github:robloach/datfile"
+    "robloach-datfile": "^0.4.0"
   },
   "dependencies": {
     "batchreplace": "^1.0.1",

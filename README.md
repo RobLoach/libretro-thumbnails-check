@@ -15,7 +15,9 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
   - `curl`
   - [Node.js](https://nodejs.org/en/)
 
-2. Run the following to build the out directory
+2. Set a correct access token in index.js
+
+3. Run the following to build the out directory
   ```
   make clean
   make
