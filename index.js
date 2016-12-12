@@ -122,6 +122,8 @@ function writeReport(system, games, thumbs) {
 		entries.push(['Name', 'Boxart', 'Snap', 'Title'])
 		for (var gameName in games) {
 			var game = games[gameName]
+			// Use the thumbnail file name.
+			gameName = thumbnailReplacer(gameName)
 
 			var boxart = game.boxart ? '✓' : '✗'
 			var snap = game.snap ? '✓' : '✗'
