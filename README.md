@@ -15,9 +15,15 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
   - `curl`
   - [Node.js](https://nodejs.org/en/)
 
-2. Set a correct access token in index.js
+2. Generate a [new GitHub Access Token](https://github.com/settings/tokens/new)
+3. Edit `index.js` and add the access token in:
+  ```
+  // Set the GitHub access token below.
+  //var access = ''
+  var access = '?access_token=dsafklh1321jk3hlh11lnkd1'
+  ```
 
-3. Run the following to build the out directory
+4. Run the following to build the out directory
   ```
   make clean
   make
