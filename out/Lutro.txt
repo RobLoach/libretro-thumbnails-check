@@ -1,14 +1,15 @@
 Lutro
 
-Boxarts   0/9   0.00%
-Snaps     7/9  77.78%
-Titles    2/9  22.22%
-Total    9/27  33.33%
+Boxarts   0/10   0.00%
+Snaps     9/10  90.00%
+Titles    3/10  30.00%
+Total    12/30  40.00%
 
 Name                      Boxart  Snap  Title
+Deep Dungeon                 ✗      ✓     ✓
 Game of Life                 ✗      ✓     ✗
 In Your Face City Trains     ✗      ✓     ✓
-Platformer                   ✗      ✗     ✗
+Platformer                   ✗      ✓     ✗
 Pong                         ✗      ✓     ✗
 Sienna                       ✗      ✓     ✓
 Snake                        ✗      ✓     ✗

@@ -8,11 +8,11 @@ Total    15/2196  0.68%
 Name                                                                                                                     Boxart  Snap  Title
 1552 Tenka Dairan (Japan) - 1552Tian Xia Da Luan                                                                            ✗      ✗     ✗
 1552 Tenka Tairan (Japan) (Rev 4)                                                                                           ✗      ✗     ✗
-1992 Hudson CD-ROM2 Complete Music Works (Audio) (Japan) - 1992+hadoson+CD*ROM2+Yin Le Quan Ji                              ✗      ✗     ✗
-1993 Hudson CD-ROM2 Complete Music Works (Audio) (Japan) - 1993+hadoson+CD*ROM2+Yin Le Quan Ji                              ✗      ✗     ✗
-1994 Hudson CD-ROM2 Complete Music Works (Audio) (Japan) - 1994+hadoson+CD*ROM2+Yin Le Quan Ji                              ✗      ✗     ✗
-1994 Hudson CD-ROM2 Complete Music Works II (Audio) (Japan) - 1994+hadoson+CD*ROM2+Yin Le Quan Ji II                        ✗      ✗     ✗
-1995 Hudson CD-ROM2 Complete Music Works (Audio) (Japan) - 1995+hadoson+CD*ROM2+Yin Le Quan Ji                              ✗      ✗     ✗
+1992 Hudson CD-ROM2 Complete Music Works (Audio) (Japan) - 1992+hadoson+CD_ROM2+Yin Le Quan Ji                              ✗      ✗     ✗
+1993 Hudson CD-ROM2 Complete Music Works (Audio) (Japan) - 1993+hadoson+CD_ROM2+Yin Le Quan Ji                              ✗      ✗     ✗
+1994 Hudson CD-ROM2 Complete Music Works (Audio) (Japan) - 1994+hadoson+CD_ROM2+Yin Le Quan Ji                              ✗      ✗     ✗
+1994 Hudson CD-ROM2 Complete Music Works II (Audio) (Japan) - 1994+hadoson+CD_ROM2+Yin Le Quan Ji II                        ✗      ✗     ✗
+1995 Hudson CD-ROM2 Complete Music Works (Audio) (Japan) - 1995+hadoson+CD_ROM2+Yin Le Quan Ji                              ✗      ✗     ✗
 1996 Hudson Game Music Complete Works (Audio) (Japan) - 1996+hadosongemuYin Le Quan Ji                                      ✗      ✗     ✗
 1997 Hudson Presents Caravan on the Radio (Audio) (Japan) - kiyarabanonzarazio                                              ✗      ✗     ✗
 3 Games in 1 - Gate of Thunder + Bonk's Adventure + Bonk's Revenge (USA) (Rev 1)                                            ✗      ✗     ✗
@@ -23,7 +23,7 @@ A Ressha de Ikou III (Japan) - ALie Che deXing kouIII                           
 A.III. - A Ressha de Ikou III (Japan)                                                                                       ✗      ✗     ✗
 Advanced V.G. (Japan)                                                                                                       ✗      ✗     ✗
 Advanced V.G. (Sample) (Japan)                                                                                              ✗      ✗     ✗
-Adventure Quiz - Capcom World & Hatena no Dai Bouken (Japan)                                                                ✗      ✗     ✗
+Adventure Quiz - Capcom World _ Hatena no Dai Bouken (Japan)                                                                ✗      ✗     ✗
 Adventure Quiz - Capcom World + Hatena no Daibouken (Japan) (Rev 2)                                                         ✗      ✗     ✗
 Ai Chou Aniki (Japan) (SADS)                                                                                                ✗      ✗     ✗
 Ai Chouaniki (Japan)                                                                                                        ✗      ✗     ✗
@@ -132,7 +132,7 @@ Davis Cup Tennis, The (Japan)                                                   
 Davis Cup Tennis, The (Japan) - zadebisukatuputenisu                                                                        ✗      ✗     ✗
 De Ja (Japan)                                                                                                               ✗      ✗     ✗
 De-Ja (Japan)                                                                                                               ✗      ✗     ✗
-Dead of The Brain 1 & 2 (Japan) - Dead of The Brain 1 ; 2                                                                   ✗      ✗     ✗
+Dead of The Brain 1 _ 2 (Japan) - Dead of The Brain 1 ; 2                                                                   ✗      ✗     ✗
 Death Bringer - The Knight of Darkness (Japan) - desuburinga                                                                ✗      ✗     ✗
 Death Bringer - The Knight of Darkness (Japan) (Rev 4)                                                                      ✗      ✗     ✗
 Deden no Den (Japan)                                                                                                        ✗      ✗     ✗
@@ -153,7 +153,7 @@ Doukyuusei (Japan) (Alt 2)                                                      
 Download II (Japan)                                                                                                         ✗      ✗     ✗
 Dragon Ball Z - Idainaru Son Gokuu Densetsu (Japan) (FABT)                                                                  ✗      ✗     ✗
 Dragon Half (Japan)                                                                                                         ✗      ✗     ✗
-Dragon Knight & Grafitti (Japan)                                                                                            ✗      ✗     ✗
+Dragon Knight _ Grafitti (Japan)                                                                                            ✗      ✗     ✗
 Dragon Knight II (Japan)                                                                                                    ✗      ✗     ✗
 Dragon Knight II (Japan) - doragonnaitoII                                                                                   ✗      ✗     ✗
 Dragon Knight III (Japan)                                                                                                   ✗      ✗     ✗
@@ -171,8 +171,8 @@ Dungeon Master - Theron's Quest (Japan) - danziziyonmasuta+seeronzukuesuto      
 Dungeon Master - Theron's Quest (Japan) (Rev 1)                                                                             ✗      ✗     ✗
 Dungeon Master - Theron's Quest (USA)                                                                                       ✓      ✓     ✓
 Duo Comic - Bakuretsu Hunter (Japan)                                                                                        ✗      ✗     ✗
-Efera & Jiliora - The Emblem from Darkness (Japan)                                                                          ✗      ✗     ✗
-Efera & Jiliora - The Emblem From Darkness (Japan)                                                                          ✗      ✗     ✗
+Efera _ Jiliora - The Emblem from Darkness (Japan)                                                                          ✗      ✗     ✗
+Efera _ Jiliora - The Emblem From Darkness (Japan)                                                                          ✗      ✗     ✗
 Eikan ha Kimini - Koukou Yakyuu Zenkoku Taikai (Japan)                                                                      ✗      ✗     ✗
 Eikan wa Kimi ni - Koukou Yakyuu Zenkoku Taikai (Japan)                                                                     ✗      ✗     ✗
 Eiyuu Sangokushi (Japan)                                                                                                    ✗      ✗     ✗
@@ -433,8 +433,8 @@ Nobunaga no Yabou Zenkokuban (Japan)                                            
 Ookami-teki Monshou - Crest of Wolf (Japan)                                                                                 ✗      ✗     ✗
 Pachio-kun - Maboroshi no Densetsu (Japan)                                                                                  ✗      ✗     ✗
 Pachio-kun - Warau Uchuu (Japan)                                                                                            ✗      ✗     ✗
-Pachio-kun 3 - Pachi-Slot & Pachinko (Japan)                                                                                ✗      ✗     ✗
-Pachiokun 3 - Pachisuro & Pachinko (Japan)                                                                                  ✗      ✗     ✗
+Pachio-kun 3 - Pachi-Slot _ Pachinko (Japan)                                                                                ✗      ✗     ✗
+Pachiokun 3 - Pachisuro _ Pachinko (Japan)                                                                                  ✗      ✗     ✗
 Pachiokun Maboroshi no Densetsu (Japan)                                                                                     ✗      ✗     ✗
 Pachiokun Warau Uchuu (Japan)                                                                                               ✗      ✗     ✗
 Palladion - Auto Crusher Palladium (Japan)                                                                                  ✗      ✗     ✗
@@ -501,9 +501,9 @@ R-Type Complete CD (Japan)                                                      
 R-Type Complete CD (Japan) (Rev 1)                                                                                          ✗      ✗     ✗
 Rainbow Islands (Japan)                                                                                                     ✗      ✗     ✗
 Rally Championship (Japan) (FABT)                                                                                           ✗      ✗     ✗
-Ranma 0.5 (Japan) - Ranma 1/2                                                                                               ✗      ✗     ✗
-Ranma 0.5 Datou, Ganso Musabetsu Kakutou-Ryuu! (Japan) - Ranma 1/2 Datou, Ganso Musabetsu Kakutou-Ryuu!                     ✗      ✗     ✗
-Ranma 0.5 Toraware no Hanayome (Japan) - Ranma 1/2 Toraware no Hanayome                                                     ✗      ✗     ✗
+Ranma 0.5 (Japan) - Ranma 1_2                                                                                               ✗      ✗     ✗
+Ranma 0.5 Datou, Ganso Musabetsu Kakutou-Ryuu! (Japan) - Ranma 1_2 Datou, Ganso Musabetsu Kakutou-Ryuu!                     ✗      ✗     ✗
+Ranma 0.5 Toraware no Hanayome (Japan) - Ranma 1_2 Toraware no Hanayome                                                     ✗      ✗     ✗
 Ranma 1-2 - Datou, Ganso Musabetsu Kakutou-ryuu! (Japan) (Rev 3)                                                            ✗      ✗     ✗
 Ranma 1-2 - Toraware no Hanayome (Japan) (Rev 2)                                                                            ✗      ✗     ✗
 Ranma 1-2 (Japan) (Rev 4)                                                                                                   ✗      ✗     ✗
@@ -521,16 +521,16 @@ Road Spirits (Japan) - rodosupiritutu                                           
 Road Spirits (Japan) (Rev 2)                                                                                                ✗      ✗     ✗
 ROM ROM Stadium (Japan) - ROMROMsutaziamu                                                                                   ✗      ✗     ✗
 ROM ROM Stadium (Japan) (Rev 3)                                                                                             ✗      ✗     ✗
-Rom2 Karaoke - Volume 1 - Suteki ni Standard (Japan) - Rom2 Karaoke: Volume 1: Suteki ni Standard                           ✗      ✗     ✗
-Rom2 Karaoke - Volume 1 (Japan) - Rom2 Karaoke: Volume 1                                                                    ✗      ✗     ✗
-Rom2 Karaoke - Volume 2 - Nattoku Idol (Japan) - Rom2 Karaoke: Volume 2: Nattoku Idol                                       ✗      ✗     ✗
-Rom2 Karaoke - Volume 2 (Japan) - Rom2 Karaoke: Volume 2                                                                    ✗      ✗     ✗
-Rom2 Karaoke - Volume 3 - Yappashi Band (Japan) - Rom2 Karaoke: Volume 3: Yappashi Band                                     ✗      ✗     ✗
-Rom2 Karaoke - Volume 3 (Japan) - Rom2 Karaoke: Volume 3                                                                    ✗      ✗     ✗
-Rom2 Karaoke - Volume 4 - Choito Otona (Japan) - Rom2 Karaoke: Volume 4: Choito Otona!?                                     ✗      ✗     ✗
-Rom2 Karaoke - Volume 4 (Japan) - Rom2 Karaoke: Volume 4                                                                    ✗      ✗     ✗
-Rom2 Karaoke - Volume 5 - Maku no Uchi (Japan) - Rom2 Karaoke: Volume 5: Maku no Uchi                                       ✗      ✗     ✗
-Rom2 Karaoke - Volume 5 (Japan) - Rom2 Karaoke: Volume 5                                                                    ✗      ✗     ✗
+Rom2 Karaoke - Volume 1 - Suteki ni Standard (Japan) - Rom2 Karaoke_ Volume 1_ Suteki ni Standard                           ✗      ✗     ✗
+Rom2 Karaoke - Volume 1 (Japan) - Rom2 Karaoke_ Volume 1                                                                    ✗      ✗     ✗
+Rom2 Karaoke - Volume 2 - Nattoku Idol (Japan) - Rom2 Karaoke_ Volume 2_ Nattoku Idol                                       ✗      ✗     ✗
+Rom2 Karaoke - Volume 2 (Japan) - Rom2 Karaoke_ Volume 2                                                                    ✗      ✗     ✗
+Rom2 Karaoke - Volume 3 - Yappashi Band (Japan) - Rom2 Karaoke_ Volume 3_ Yappashi Band                                     ✗      ✗     ✗
+Rom2 Karaoke - Volume 3 (Japan) - Rom2 Karaoke_ Volume 3                                                                    ✗      ✗     ✗
+Rom2 Karaoke - Volume 4 - Choito Otona (Japan) - Rom2 Karaoke_ Volume 4_ Choito Otona!_                                     ✗      ✗     ✗
+Rom2 Karaoke - Volume 4 (Japan) - Rom2 Karaoke_ Volume 4                                                                    ✗      ✗     ✗
+Rom2 Karaoke - Volume 5 - Maku no Uchi (Japan) - Rom2 Karaoke_ Volume 5_ Maku no Uchi                                       ✗      ✗     ✗
+Rom2 Karaoke - Volume 5 (Japan) - Rom2 Karaoke_ Volume 5                                                                    ✗      ✗     ✗
 Ruin - Kami no Isan (Japan)                                                                                                 ✗      ✗     ✗
 Ryuuko no Ken (Japan) - Long Hu noQuan                                                                                      ✗      ✗     ✗
 Ryuuko no Ken (Japan) (En,Ja,Es) (FABT)                                                                                     ✗      ✗     ✗
@@ -629,7 +629,7 @@ Super Darius II (Japan)                                                         
 Super Mahjong Taikai (Japan) - Super+Ma Que Da Hui                                                                          ✗      ✗     ✗
 Super Mahjong Taikai (Japan) (Rev 1)                                                                                        ✗      ✗     ✗
 Super Raiden (Japan)                                                                                                        ✗      ✗     ✗
-Super Real Mahjong P II & III Custom (Japan)                                                                                ✗      ✗     ✗
+Super Real Mahjong P II _ III Custom (Japan)                                                                                ✗      ✗     ✗
 Super Real Mahjong P IV Custom (Japan)                                                                                      ✗      ✗     ✗
 Super Real Mahjong P V Custom (Japan)                                                                                       ✗      ✗     ✗
 Super Real Mahjong P.V Custom (Japan)                                                                                       ✗      ✗     ✗
@@ -701,9 +701,9 @@ Virgin Dream (Japan)                                                            
 Where in the World Is Carmen Sandiego (Japan) - karumensandeiegowoZhui e!+Shi Jie Bian                                      ✗      ✗     ✗
 Where in the World Is Carmen Sandiego (Japan) (En,Ja) (Rev 3)                                                               ✗      ✗     ✗
 Winds of Thunder (Japan)                                                                                                    ✗      ✗     ✗
-Wizardry I & II (Japan)                                                                                                     ✗      ✗     ✗
+Wizardry I _ II (Japan)                                                                                                     ✗      ✗     ✗
 Wizardry I-II (Japan)                                                                                                       ✗      ✗     ✗
-Wizardry III & IV (Japan)                                                                                                   ✗      ✗     ✗
+Wizardry III _ IV (Japan)                                                                                                   ✗      ✗     ✗
 Wizardry III-IV (Japan)                                                                                                     ✗      ✗     ✗
 Wizardry V - Heart of the Maelstrom (Japan)                                                                                 ✗      ✗     ✗
 Wizardry V - Heart of the Maelstrom (Japan) - uizadoriiV                                                                    ✗      ✗     ✗
@@ -711,7 +711,7 @@ World Heroes 2 (Japan) - warudohirozu2                                          
 World Heroes 2 (Japan) (FAAT, FABT)                                                                                         ✗      ✗     ✗
 Wrestling Angels - Double Impact (Japan)                                                                                    ✗      ✗     ✗
 Xak (Japan)                                                                                                                 ✗      ✗     ✗
-Xak I & II (Japan) - sakuI-II                                                                                               ✗      ✗     ✗
+Xak I _ II (Japan) - sakuI-II                                                                                               ✗      ✗     ✗
 Xak III - The Eternal Recurrence (Japan)                                                                                    ✗      ✗     ✗
 Xak III - The Eternal Recurrence (translated into english) (Japan)                                                          ✗      ✗     ✗
 Yamamura Misa Suspense - Kinsen Ka Kyo E Zara Satsu Jin Ji Ken (Japan)                                                      ✗      ✗     ✗
@@ -722,10 +722,10 @@ YaWaRa! 2 - A Fashionable Judo Girl! (Japan)                                    
 Yawara! 2 (Japan)                                                                                                           ✗      ✗     ✗
 YaWaRa! A Fashionable Judo Girl! (Japan) (Rev 1)                                                                            ✗      ✗     ✗
 Yokoyama Mitsuteru Shin Sangokushi - Tenka wa Ware ni (Japan) (Rev 7)                                                       ✗      ✗     ✗
-Ys Book I & II (USA) (Rev 2)                                                                                                ✗      ✗     ✗
-Ys I & II - Ancient Ys Vanished (HCD4074) (Japan) - isuI-II                                                                 ✗      ✗     ✗
-Ys I & II - Ancient Ys Vanished (HCD9009) (Japan) - isuI-II                                                                 ✗      ✗     ✗
-Ys I & II (Japan) (Rev 6)                                                                                                   ✗      ✗     ✗
+Ys Book I _ II (USA) (Rev 2)                                                                                                ✗      ✗     ✗
+Ys I _ II - Ancient Ys Vanished (HCD4074) (Japan) - isuI-II                                                                 ✗      ✗     ✗
+Ys I _ II - Ancient Ys Vanished (HCD9009) (Japan) - isuI-II                                                                 ✗      ✗     ✗
+Ys I _ II (Japan) (Rev 6)                                                                                                   ✗      ✗     ✗
 Ys III - Wanderers from Ys (Japan) - isuIII                                                                                 ✗      ✗     ✗
 Ys III - Wanderers from Ys (USA) (Rev 1)                                                                                    ✗      ✗     ✗
 Ys III (Japan) (Rev 9)                                                                                                      ✗      ✗     ✗
