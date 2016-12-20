@@ -1,9 +1,9 @@
 Nintendo - Nintendo 64
 
-Boxarts    841/949  88.62%
+Boxarts    866/949  91.25%
 Snaps      910/949  95.89%
 Titles     910/949  95.89%
-Total    2661/2847  93.47%
+Total    2686/2847  94.34%
 
 Name                                                                               Boxart  Snap  Title
 007 - GoldenEye (Europe)                                                              ✓      ✓     ✓
@@ -90,7 +90,7 @@ Body Harvest (USA)                                                              
 Bokujou Monogatari 2 (Japan)                                                          ✓      ✓     ✓
 Bokujou Monogatari 2 (Japan) (Rev A)                                                  ✓      ✓     ✓
 Bokujou Monogatari 2 (Japan) (Rev B)                                                  ✓      ✓     ✓
-Bomber Man 64 (Japan)                                                                 ✗      ✗     ✗
+Bomber Man 64 (Japan)                                                                 ✓      ✗     ✗
 Bomber Man Hero - Mirian Oujo o Sukue! (Japan)                                        ✓      ✓     ✓
 Bomberman 64 (Europe)                                                                 ✓      ✓     ✓
 Bomberman 64 (USA)                                                                    ✓      ✓     ✓
@@ -135,7 +135,7 @@ Charlie Blast's Territory (USA)                                                 
 Chopper Attack (Europe)                                                               ✓      ✓     ✓
 Chopper Attack (USA)                                                                  ✓      ✓     ✓
 Choro Q 64 (Japan)                                                                    ✓      ✓     ✓
-Choro Q 64 II - Hacha Mecha Grand Prix Race (Japan)                                   ✗      ✓     ✓
+Choro Q 64 II - Hacha Mecha Grand Prix Race (Japan)                                   ✓      ✓     ✓
 Chou Kuukan Nighter Pro Yakyuu King (Japan)                                           ✗      ✓     ✓
 Chou Kuukan Nighter Pro Yakyuu King 2 (Japan)                                         ✗      ✓     ✓
 Chou Snobo Kids (Japan)                                                               ✓      ✓     ✓
@@ -158,7 +158,7 @@ Cruis'n USA (USA) (Rev B)                                                       
 Cruis'n World (Europe)                                                                ✓      ✓     ✓
 Cruis'n World (USA)                                                                   ✓      ✓     ✓
 Custom Robo (Japan)                                                                   ✓      ✓     ✓
-Custom Robo V2 (Japan)                                                                ✗      ✓     ✓
+Custom Robo V2 (Japan)                                                                ✓      ✓     ✓
 CyberTiger (Europe)                                                                   ✓      ✓     ✓
 CyberTiger (USA)                                                                      ✓      ✓     ✓
 Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl)                      ✓      ✓     ✓
@@ -167,12 +167,12 @@ Dark Rift (Europe)                                                              
 Dark Rift (USA)                                                                       ✓      ✓     ✓
 Deadly Arts (USA)                                                                     ✓      ✓     ✓
 Defi au Tetris Magique (France)                                                       ✓      ✓     ✓
-Densha de Go! 64 (Japan)                                                              ✗      ✓     ✓
-Derby Stallion 64 (Japan)                                                             ✗      ✓     ✓
-Derby Stallion 64 (Japan) (Beta)                                                      ✗      ✓     ✓
+Densha de Go! 64 (Japan)                                                              ✓      ✓     ✓
+Derby Stallion 64 (Japan)                                                             ✓      ✓     ✓
+Derby Stallion 64 (Japan) (Beta)                                                      ✓      ✓     ✓
 Destruction Derby 64 (Europe) (En,Fr,De)                                              ✓      ✓     ✓
 Destruction Derby 64 (USA)                                                            ✓      ✓     ✓
-Dezaemon 3D (Japan)                                                                   ✗      ✓     ✓
+Dezaemon 3D (Japan)                                                                   ✓      ✓     ✓
 Diddy Kong Racing (Europe) (En,Fr,De)                                                 ✓      ✓     ✓
 Diddy Kong Racing (Europe) (En,Fr,De) (Rev A)                                         ✓      ✓     ✓
 Diddy Kong Racing (Japan)                                                             ✓      ✓     ✓
@@ -188,7 +188,7 @@ Doom 64 (Europe)                                                                
 Doom 64 (Japan)                                                                       ✓      ✓     ✓
 Doom 64 (USA)                                                                         ✓      ✓     ✓
 Doom 64 (USA) (Rev A)                                                                 ✓      ✓     ✓
-Doraemon - Nobita to 3tsu no Seireiseki (Japan)                                       ✗      ✓     ✓
+Doraemon - Nobita to 3tsu no Seireiseki (Japan)                                       ✓      ✓     ✓
 Doraemon 2 - Nobita to Hikari no Shinden (Japan)                                      ✗      ✓     ✓
 Doraemon 3 - Nobita no Machi SOS! (Japan)                                             ✗      ✓     ✓
 Doubutsu no Mori (Japan)                                                              ✓      ✓     ✓
@@ -210,7 +210,7 @@ Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)                                      
 Earthworm Jim 3D (USA)                                                                ✓      ✓     ✓
 ECW Hardcore Revolution (Europe)                                                      ✓      ✓     ✓
 ECW Hardcore Revolution (USA)                                                         ✓      ✓     ✓
-Eikou no Saint Andrews (Japan)                                                        ✗      ✓     ✓
+Eikou no Saint Andrews (Japan)                                                        ✓      ✓     ✓
 Elmo's Letter Adventure (USA)                                                         ✓      ✓     ✓
 Elmo's Number Journey (USA)                                                           ✓      ✓     ✓
 Eltale Monsters (Japan)                                                               ✓      ✓     ✓
@@ -286,7 +286,7 @@ Glover (USA)                                                                    
 Glover (USA) (Beta)                                                                   ✓      ✗     ✗
 Glover 2 (USA) (Proto)                                                                ✓      ✓     ✓
 Glover 2 (USA) (Proto) (early)                                                        ✓      ✗     ✗
-Goemon - Mononoke Sugoroku (Japan)                                                    ✗      ✓     ✓
+Goemon - Mononoke Sugoroku (Japan)                                                    ✓      ✓     ✓
 Goemon's Great Adventure (USA)                                                        ✓      ✓     ✓
 Golden Nugget 64 (USA)                                                                ✓      ✓     ✓
 GT64 - Championship Edition (Europe) (En,Fr,De)                                       ✓      ✓     ✓
@@ -341,7 +341,7 @@ International Superstar Soccer 64 (USA)                                         
 International Track _ Field - Summer Games (Europe) (En,Fr,De)                        ✓      ✓     ✓
 International Track _ Field 2000 (USA)                                                ✓      ✓     ✓
 Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban! (Japan)                                ✗      ✓     ✓
-J.League Dynamite Soccer 64 (Japan)                                                   ✗      ✓     ✓
+J.League Dynamite Soccer 64 (Japan)                                                   ✓      ✓     ✓
 J.League Eleven Beat 1997 (Japan)                                                     ✗      ✓     ✓
 J.League Live 64 (Japan)                                                              ✗      ✓     ✓
 J.League Tactics Soccer (Japan)                                                       ✗      ✓     ✓
@@ -353,8 +353,8 @@ Jeremy McGrath Supercross 2000 (USA)                                            
 Jet Force Gemini (Europe) (En,Fr,De,Es)                                               ✓      ✓     ✓
 Jet Force Gemini (USA)                                                                ✓      ✓     ✓
 Jet Force Gemini (USA) (Demo) (Kiosk)                                                 ✓      ✓     ✓
-Jikkyou G1 Stable (Japan)                                                             ✗      ✓     ✓
-Jikkyou G1 Stable (Japan) (Rev A)                                                     ✗      ✓     ✓
+Jikkyou G1 Stable (Japan)                                                             ✓      ✓     ✓
+Jikkyou G1 Stable (Japan) (Rev A)                                                     ✓      ✓     ✓
 Jikkyou J.League 1999 - Perfect Striker 2 (Japan)                                     ✓      ✓     ✓
 Jikkyou J.League 1999 - Perfect Striker 2 (Japan) (Rev A)                             ✓      ✓     ✓
 Jikkyou J.League Perfect Striker (Japan)                                              ✗      ✓     ✓
@@ -375,7 +375,7 @@ Jikkyou World Soccer - World Cup France '98 (Japan) (Rev A)                     
 Jikkyou World Soccer - World Cup France '98 (Japan) (Rev B)                           ✓      ✓     ✓
 Jikkyou World Soccer 3 (Japan)                                                        ✓      ✓     ✓
 Jikuu Senshi Turok (Japan)                                                            ✓      ✓     ✓
-Jinsei Game 64 (Japan)                                                                ✗      ✓     ✓
+Jinsei Game 64 (Japan)                                                                ✓      ✓     ✓
 John Romero's Daikatana (Europe) (En,Fr,De)                                           ✓      ✓     ✓
 John Romero's Daikatana (Japan)                                                       ✓      ✓     ✓
 John Romero's Daikatana (USA)                                                         ✓      ✓     ✓
@@ -396,7 +396,7 @@ Knockout Kings 2000 (Europe)                                                    
 Knockout Kings 2000 (USA)                                                             ✓      ✓     ✓
 Kobe Bryant in NBA Courtside (Europe)                                                 ✓      ✓     ✓
 Kobe Bryant's NBA Courtside (USA)                                                     ✓      ✓     ✓
-Last Legion UX (Japan)                                                                ✗      ✓     ✓
+Last Legion UX (Japan)                                                                ✓      ✓     ✓
 Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es)                           ✓      ✓     ✓
 Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev A)                   ✓      ✓     ✓
 Legend of Zelda, The - Majora's Mask (USA)                                            ✓      ✓     ✓
@@ -436,7 +436,7 @@ Magical Tetris Challenge (Germany)                                              
 Magical Tetris Challenge (USA)                                                        ✓      ✓     ✓
 Magical Tetris Challenge featuring Mickey (Japan)                                     ✓      ✓     ✓
 Mahjong 64 (Japan)                                                                    ✓      ✓     ✓
-Mahjong Hourouki Classic (Japan)                                                      ✗      ✓     ✓
+Mahjong Hourouki Classic (Japan)                                                      ✓      ✓     ✓
 Mahjong Master (Japan)                                                                ✓      ✓     ✓
 Major League Baseball featuring Ken Griffey Jr. (Australia)                           ✓      ✓     ✓
 Major League Baseball featuring Ken Griffey Jr. (USA)                                 ✓      ✓     ✓
@@ -575,7 +575,7 @@ Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev A)                         
 Olympic Hockey 98 (Europe) (En,Fr,De,Es)                                              ✓      ✓     ✓
 Olympic Hockey 98 (Japan)                                                             ✓      ✓     ✓
 Olympic Hockey 98 (USA)                                                               ✓      ✓     ✓
-Onegai Monsters (Japan)                                                               ✗      ✓     ✓
+Onegai Monsters (Japan)                                                               ✓      ✓     ✓
 Operation WinBack (Europe) (En,Fr,De,Es,It)                                           ✓      ✓     ✓
 Pachinko 365 Nichi (Japan)                                                            ✗      ✓     ✓
 Paper Mario (Europe) (En,Fr,De,Es)                                                    ✓      ✓     ✓
@@ -636,7 +636,7 @@ Premier Manager 64 (Europe)                                                     
 Pro Mahjong Kiwame 64 (Japan)                                                         ✗      ✓     ✓
 Pro Mahjong Kiwame 64 (Japan) (Rev A)                                                 ✗      ✓     ✓
 Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen (Japan)                           ✗      ✓     ✓
-Puyo Puyo 4 - Puyo Puyon Party (Japan)                                                ✗      ✓     ✓
+Puyo Puyo 4 - Puyo Puyon Party (Japan)                                                ✓      ✓     ✓
 Puyo Puyo Sun 64 (Japan)                                                              ✓      ✓     ✓
 Puzzle Bobble 64 (Japan)                                                              ✓      ✓     ✓
 Quake 64 (Europe)                                                                     ✓      ✓     ✓
@@ -690,7 +690,7 @@ Rush 2 - Extreme Racing USA (Europe) (En,Fr,De,Es,It,Nl)                        
 Rush 2 - Extreme Racing USA (USA)                                                     ✓      ✓     ✓
 S.C.A.R.S. (Europe) (En,Fr,De)                                                        ✓      ✓     ✓
 S.C.A.R.S. (USA)                                                                      ✓      ✓     ✓
-Saikyou Habu Shougi (Japan)                                                           ✗      ✓     ✓
+Saikyou Habu Shougi (Japan)                                                           ✓      ✓     ✓
 San Francisco Rush - Extreme Racing (Europe) (En,Fr,De)                               ✓      ✓     ✓
 San Francisco Rush - Extreme Racing (USA) (En,Fr,De)                                  ✓      ✓     ✓
 San Francisco Rush - Extreme Racing (USA) (En,Fr,De) (Rev A)                          ✓      ✗     ✗
@@ -699,7 +699,7 @@ San Francisco Rush 2049 (USA)                                                   
 Scooby-Doo! - Classic Creep Capers (Europe)                                           ✓      ✓     ✓
 Scooby-Doo! - Classic Creep Capers (USA)                                              ✓      ✓     ✓
 Scooby-Doo! - Classic Creep Capers (USA) (Rev A)                                      ✓      ✗     ✗
-SD Hiryuu no Ken Densetsu (Japan)                                                     ✗      ✓     ✓
+SD Hiryuu no Ken Densetsu (Japan)                                                     ✓      ✓     ✓
 Shadow Man (Europe) (En,Es,It)                                                        ✗      ✓     ✓
 Shadow Man (France)                                                                   ✗      ✓     ✓
 Shadow Man (Germany)                                                                  ✗      ✓     ✓
@@ -712,7 +712,7 @@ Shadowgate 64 - Trials of the Four Towers (Japan)                               
 Shadowgate 64 - Trials of the Four Towers (USA) (En,Es)                               ✓      ✓     ✓
 Shin Nihon Pro Wrestling Toukon Road - Brave Spirits (Japan)                          ✓      ✓     ✓
 Shin Nihon Pro Wrestling Toukon Road 2 - The Next Generation (Japan)                  ✓      ✓     ✓
-SimCity 2000 (Japan)                                                                  ✗      ✓     ✓
+SimCity 2000 (Japan)                                                                  ✓      ✓     ✓
 Snobo Kids (Japan)                                                                    ✓      ✓     ✓
 Snow Speeder (Japan)                                                                  ✓      ✓     ✓
 Snowboard Kids (Europe)                                                               ✓      ✓     ✓
@@ -763,14 +763,14 @@ StarCraft 64 (Germany) (Proto)                                                  
 Starshot - Space Circus Fever (Europe) (En,Fr,De)                                     ✓      ✓     ✓
 Starshot - Space Circus Fever (USA) (En,Fr,Es)                                        ✓      ✓     ✓
 Stunt Racer 64 (USA)                                                                  ✓      ✓     ✓
-Super B-Daman - Battle Phoenix 64 (Japan)                                             ✗      ✓     ✓
+Super B-Daman - Battle Phoenix 64 (Japan)                                             ✓      ✓     ✓
 Super Bowling (Japan)                                                                 ✓      ✓     ✓
 Super Bowling (USA)                                                                   ✓      ✓     ✓
 Super Mario 64 (Europe) (En,Fr,De)                                                    ✓      ✓     ✓
 Super Mario 64 (Japan)                                                                ✓      ✓     ✓
 Super Mario 64 (Japan) (Rev A) (Shindou Edition)                                      ✓      ✓     ✓
 Super Mario 64 (USA)                                                                  ✓      ✓     ✓
-Super Robot Spirits (Japan)                                                           ✗      ✓     ✓
+Super Robot Spirits (Japan)                                                           ✓      ✓     ✓
 Super Robot Taisen 64 (Japan)                                                         ✗      ✓     ✓
 Super Smash Bros. (Australia)                                                         ✓      ✓     ✓
 Super Smash Bros. (Europe) (En,Fr,De)                                                 ✓      ✓     ✓
@@ -879,7 +879,7 @@ Virtual Chess 64 (USA) (En,Fr,Es)                                               
 Virtual Pool 64 (Europe)                                                              ✓      ✓     ✓
 Virtual Pool 64 (USA)                                                                 ✓      ✓     ✓
 Virtual Pro Wrestling 2 - Oudou Keishou (Japan)                                       ✗      ✓     ✓
-Virtual Pro Wrestling 64 (Japan)                                                      ✗      ✓     ✓
+Virtual Pro Wrestling 64 (Japan)                                                      ✓      ✓     ✓
 Waialae Country Club - True Golf Classics (Europe)                                    ✓      ✓     ✓
 Waialae Country Club - True Golf Classics (Europe) (Rev A)                            ✓      ✓     ✓
 Waialae Country Club - True Golf Classics (USA)                                       ✓      ✓     ✓
@@ -954,4 +954,4 @@ Zelda no Densetsu - Toki no Ocarina (Japan) (Rev A)                             
 Zelda no Densetsu - Toki no Ocarina (Japan) (Rev B)                                   ✓      ✓     ✓
 Zelda no Densetsu - Toki no Ocarina GC (Japan) (GameCube Edition)                     ✗      ✗     ✗
 Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube Edition)                 ✗      ✗     ✗
-Zool - Majuu Tsukai Densetsu (Japan)                                                  ✗      ✓     ✓
+Zool - Majuu Tsukai Densetsu (Japan)                                                  ✓      ✓     ✓

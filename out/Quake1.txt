@@ -1,12 +1,12 @@
 Quake1
 
-Boxarts   3/4  75.00%
-Snaps     1/4  25.00%
-Titles    1/4  25.00%
-Total    5/12  41.67%
+Boxarts   4/4  100.00%
+Snaps     2/4   50.00%
+Titles    2/4   50.00%
+Total    8/12   66.67%
 
 Name                                           Boxart  Snap  Title
-Quake (v1.01)                                     ✗      ✗     ✗
+Quake (v1.01)                                     ✓      ✓     ✓
 Quake (v1.06)                                     ✓      ✓     ✓
 Quake Mission Pack 1_ Scourge of Armagon          ✓      ✗     ✗
 Quake Mission Pack 2_ Dissolution of Eternity     ✓      ✗     ✗
