@@ -11,6 +11,7 @@ var fileExists = require('file-exists')
 var sanitizeFilename = require('sanitize-filename')
 var sleep = require('sleep')
 var batchreplace = require('batchreplace')
+var sort = require('sort-object')
 
 // Construct the thumbnail cleaner.
 var thumbnailReplacer = batchreplace.mapReplacer({
@@ -33,7 +34,23 @@ var access = ''
 glob('libretro-database/rdb/*.rdb', function (err, files) {
 	files.forEach(function (file) {
 		var system = path.parse(file).name
-		processSystem(system)
+		processSystem(system).then(function (fileResult) {
+			let thumbs = thumbnails(system)
+			let games = {}
+			for (var fileResultIndex in fileResult) {
+				var entries = fileResult[fileResultIndex]
+				for (var x in entries) {
+					let game = entries[x]
+					if (game.name && game.name.indexOf('.zip' === -1)) {
+						games[game.name] = getGameThumbnails(thumbs, system, game.name)
+					}
+				}
+			}
+			writeReport(system, games, thumbs)
+		}).catch (function (err) {
+			console.error('Error:', err)
+			process.exit(1)
+		})
 	})
 })
 //processSystem('Nintendo - Nintendo Entertainment System')
@@ -42,31 +59,31 @@ glob('libretro-database/rdb/*.rdb', function (err, files) {
  * Go through all games of a system, and check their thumbnails.
  */
 function processSystem(system) {
-	var thumbs = thumbnails(system)
-	if (fileExists('out/' + system + '.txt')) {
-		return true
-	}
-	var patterns = [
-		// @TODO Figure out why GoodTools breaks compilation.
-		//'libretro-database/metadat/goodtools/' + system + '.dat',
-		'libretro-database/metadat/libretro-dats/' + system + '.dat',
-		'libretro-database/metadat/no-intro/' + system + '.dat',
-		'libretro-database/dat/' + system + '.dat'
-	]
-	globby(patterns).then(function (paths) {
-		var games = {}
-		for (var i in paths) {
-			var file = paths[i]
-			var data = fs.readFileSync(file, 'utf8')
-			var dat = datfile.parse(data)
-			for (var x in dat) {
-				var game = dat[x]
-				games[game.name] = getGameThumbnails(thumbs, system, game.name)
-			}
+	return new Promise(function (resolve, reject) {
+		if (fileExists('out/' + system + '.txt')) {
+			return resolve()
 		}
-		writeReport(system, games, thumbs)
-	}).catch(function (err) {
-		console.log(err)
+		var patterns = [
+			'libretro-database/metadat/goodtools/' + system + '.dat',
+			'libretro-database/metadat/libretro-dats/' + system + '.dat',
+			'libretro-database/metadat/no-intro/' + system + '.dat',
+			'libretro-database/dat/' + system + '.dat'
+		]
+		globby(patterns).then(function (paths) {
+			var promises = []
+			for (var i in paths) {
+				var file = paths[i]
+				// TODO: Fix the MAME.dat parsing.
+				if (file.indexOf('MAME.dat') < 0) {
+					promises.push(datfile.parseFile(file, {
+						ignoreHeader: true
+					}))
+				}
+			}
+			resolve(Promise.all(promises))
+		}).catch(function (err) {
+			reject(err)
+		})
 	})
 }
 
@@ -106,6 +123,7 @@ function getGameThumbnails(thumbs, system, name) {
  * Writes a system report containing the thumbnails.
  */
 function writeReport(system, games, thumbs) {
+	games = sort(games)
 	var output = system + '\n\n'
 	if (Object.keys(games).length <= 0) {
 		output += 'Error parsing dat files.'
