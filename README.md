@@ -4,7 +4,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 
 ## Usage
 
-1. See the [`out`](out) directory
+1. See the [Report in the `out` directory](https://github.com/RobLoach/libretro-thumbnails-check/blob/master/out/README.md#libretro-thumbnails-check-report)
 2. All missing thumbs are reported in the system text file
 3. Files that do not match a database entry are reported in the orphan files
 
