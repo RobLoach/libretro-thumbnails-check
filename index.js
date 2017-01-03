@@ -12,6 +12,8 @@ var sanitizeFilename = require('sanitize-filename')
 var sleep = require('sleep')
 var batchreplace = require('batchreplace')
 var sort = require('sort-object')
+var Listr = require('listr')
+var exists = require('fs-exists-sync')
 
 // Construct the thumbnail cleaner.
 var thumbnailReplacer = batchreplace.mapReplacer({
@@ -27,45 +29,18 @@ var thumbnailReplacer = batchreplace.mapReplacer({
 	'|': '_'
 })
 
-// Set the GitHub access token below.
-var access = ''
-//var access = '?access_token='
-
-glob('libretro-database/rdb/*.rdb', function (err, files) {
-	files.forEach(function (file) {
-		var system = path.parse(file).name
-		processSystem(system).then(function (fileResult) {
-			let thumbs = thumbnails(system)
-			let games = {}
-			for (var fileResultIndex in fileResult) {
-				var entries = fileResult[fileResultIndex]
-				for (var x in entries) {
-					let game = entries[x]
-					if (game.name && game.name.indexOf('.zip' === -1)) {
-						games[game.name] = getGameThumbnails(thumbs, system, game.name)
-					}
-				}
-			}
-			writeReport(system, games, thumbs)
-		}).catch (function (err) {
-			console.error('Error:', err)
-			process.exit(1)
-		})
-	})
-})
-//processSystem('Nintendo - Nintendo Entertainment System')
-
 /**
  * Go through all games of a system, and check their thumbnails.
  */
 function processSystem(system) {
 	return new Promise(function (resolve, reject) {
 		if (fileExists('out/' + system + '.txt')) {
-			return resolve()
+			return resolve([])
 		}
 		var patterns = [
-			'libretro-database/metadat/goodtools/' + system + '.dat',
-			'libretro-database/metadat/libretro-dats/' + system + '.dat',
+			// Only report on No-Intro and custom DATs.
+			//'libretro-database/metadat/goodtools/' + system + '.dat',
+			//'libretro-database/metadat/libretro-dats/' + system + '.dat',
 			'libretro-database/metadat/no-intro/' + system + '.dat',
 			'libretro-database/dat/' + system + '.dat'
 		]
@@ -82,7 +57,7 @@ function processSystem(system) {
 			}
 			resolve(Promise.all(promises))
 		}).catch(function (err) {
-			reject(err)
+			reject(new Error(err))
 		})
 	})
 }
@@ -123,19 +98,21 @@ function getGameThumbnails(thumbs, system, name) {
  * Writes a system report containing the thumbnails.
  */
 function writeReport(system, games, thumbs) {
+	if (!exists('out')) {
+		fs.mkdirSync('out')
+	}
 	games = sort(games)
 	var output = system + '\n\n'
+	var count = {
+		boxart: 0,
+		snap: 0,
+		title: 0,
+		total: Object.keys(games).length
+	}
 	if (Object.keys(games).length <= 0) {
 		output += 'Error parsing dat files.'
 	}
 	else {
-		var count = {
-			boxart: 0,
-			snap: 0,
-			title: 0,
-			total: Object.keys(games).length
-		}
-
 		var entries = []
 		entries.push(['Name', 'Boxart', 'Snap', 'Title'])
 		for (var gameName in games) {
@@ -183,6 +160,7 @@ function writeReport(system, games, thumbs) {
 		}
 	}
 	fs.writeFileSync('out/' + system + '.txt', output)
+	return count
 }
 
 /**
@@ -190,7 +168,6 @@ function writeReport(system, games, thumbs) {
  */
 function thumbnails(system) {
 	var thumbs = []
-	console.log(system)
 	var all = getData('https://api.github.com/repos/libretro/libretro-thumbnails/git/trees/master')
 	for (var i in all.tree) {
 		var entry = all.tree[i]
@@ -255,4 +232,11 @@ function dataToThumbnails(data) {
 		out.push(data.tree[i].path)
 	}
 	return out
+}
+
+module.exports = {
+	processSystem: processSystem,
+	writeReport: writeReport,
+	thumbnails: thumbnails,
+	getGameThumbnails: getGameThumbnails
 }

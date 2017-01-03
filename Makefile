@@ -1,5 +1,6 @@
 default: .tmp libretro-database/dat/BIOS.dat out node_modules
-	@node --stack-size=1000000000 index.js
+	#@node --stack-size=1000000000 index.js
+	npm test
 
 node_modules:
 	npm install

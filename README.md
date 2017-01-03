@@ -16,7 +16,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
   - [Node.js](https://nodejs.org/en/)
 
 2. Generate a [new GitHub Access Token](https://github.com/settings/tokens/new)
-3. Edit `index.js` and add the access token in:
+3. Edit `bin/libretro-thumbnails-check.js` and add the access token in:
   ```
   // Set the GitHub access token below.
   //var access = ''
