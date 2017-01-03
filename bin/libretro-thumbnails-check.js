@@ -8,10 +8,7 @@ var processSystem = require('..').processSystem
 var writeReport = require('..').writeReport
 var thumbnails = require('..').thumbnails
 var getGameThumbnails = require('..').getGameThumbnails
-
-// Set the GitHub access token below.
-var access = ''
-//var access = '?access_token='
+var cleanGameName = require('..').cleanGameName
 
 glob('libretro-database/rdb/*.rdb', function (err, files) {
 	// Create the task runner.
@@ -45,7 +42,7 @@ glob('libretro-database/rdb/*.rdb', function (err, files) {
 							let gameIndex = 0
 							// Loop through each game and fill in the thumbnail data.
 							for (gameIndex in games) {
-								gameName = games[gameIndex]
+								gameName = cleanGameName(games[gameIndex])
 								if (!output[gameName]) {
 									output[gameName] = getGameThumbnails(thumbs, system, gameName)
 								}

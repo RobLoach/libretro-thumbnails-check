@@ -6,7 +6,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 
 1. See the [`out`](out) directory
 2. All missing thumbs are reported in the system text file
-3. Files that do not match a database entry are reported in the orphan file
+3. Files that do not match a database entry are reported in the orphan files
 
 ## Build
 

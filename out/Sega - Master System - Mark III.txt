@@ -10,9 +10,9 @@ Name                                                                            
 4 PAK All Action (Australia) (Unl)                                                     ✓      ✗     ✗
 94 Super World Cup Soccer (Korea)                                                      ✓      ✗     ✗
 Ace of Aces (Europe)                                                                   ✓      ✓     ✓
+Action Fighter (Europe) (Beta)                                                         ✗      ✗     ✗
 Action Fighter (Japan, Europe) (Rev 1)                                                 ✓      ✓     ✓
 Action Fighter (USA, Europe) (Rev 2)                                                   ✓      ✓     ✓
-Action Fighter (Europe) (Beta)                                                         ✗      ✗     ✗
 Addams Family, The (Europe)                                                            ✓      ✓     ✓
 Aerial Assault (Europe)                                                                ✓      ✓     ✓
 Aerial Assault (USA)                                                                   ✓      ✓     ✓
@@ -33,8 +33,8 @@ Alibaba and 40 Thieves (Korea) (Unl)                                            
 Alien 3 (Europe)                                                                       ✓      ✓     ✓
 Alien Storm (Europe)                                                                   ✓      ✓     ✓
 Alien Syndrome (Japan)                                                                 ✓      ✓     ✓
-Alien Syndrome (USA, Europe)                                                           ✓      ✓     ✓
 Alien Syndrome (Unknown) (Beta)                                                        ✓      ✗     ✗
+Alien Syndrome (USA, Europe)                                                           ✓      ✓     ✓
 Altered Beast (USA, Europe)                                                            ✓      ✓     ✓
 American Baseball (Europe)                                                             ✓      ✓     ✓
 American Pro Football (Europe)                                                         ✓      ✓     ✓
@@ -52,8 +52,8 @@ Asterix (Europe) (En,Fr) (Rev 1)                                                
 Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It)                                 ✓      ✓     ✓
 Asterix and the Secret Mission (Europe) (En,Fr,De)                                     ✓      ✓     ✓
 Astro Flash (Japan)                                                                    ✓      ✓     ✓
-Astro Warrior (Japan, USA)                                                             ✓      ✓     ✓
 Astro Warrior _ Pit Pot (Europe)                                                       ✓      ✓     ✓
+Astro Warrior (Japan, USA)                                                             ✓      ✓     ✓
 Ayrton Senna's Super Monaco GP II (Europe)                                             ✓      ✓     ✓
 Aztec Adventure - The Golden Road to Paradise (World)                                  ✓      ✓     ✓
 Back to the Future Part II (Europe)                                                    ✓      ✓     ✓
@@ -75,17 +75,18 @@ Bonkers Wax Up! (Brazil)                                                        
 Bram Stoker's Dracula (Europe)                                                         ✓      ✓     ✓
 Bubble Bobble (Europe)                                                                 ✓      ✓     ✓
 Buggy Run (Europe)                                                                     ✓      ✓     ✓
+C_So! (Korea) (Unl)                                                                    ✓      ✗     ✗
 California Games (USA, Europe)                                                         ✓      ✓     ✓
-California Games II (Europe)                                                           ✓      ✓     ✓
 California Games II (Brazil, Korea)                                                    ✓      ✓     ✓
+California Games II (Europe)                                                           ✓      ✓     ✓
 Captain Silver (Japan, Europe)                                                         ✓      ✓     ✓
 Captain Silver (USA)                                                                   ✓      ✓     ✓
 Captain Silver (USA) (Beta)                                                            ✗      ✗     ✗
 Casino Games (USA, Europe)                                                             ✓      ✓     ✓
 Castelo Ra-Tim-Bum (Brazil)                                                            ✓      ✓     ✓
 Castle of Illusion Starring Mickey Mouse (Europe)                                      ✓      ✓     ✓
-Castle of Illusion Starring Mickey Mouse (USA)                                         ✓      ✓     ✓
 Castle of Illusion Starring Mickey Mouse (Unknown) (Sample)                            ✓      ✓     ✓
+Castle of Illusion Starring Mickey Mouse (USA)                                         ✓      ✓     ✓
 Champions of Europe (Europe)                                                           ✓      ✓     ✓
 Championship Hockey (Europe)                                                           ✓      ✓     ✓
 Chapolim x Dracula - Um Duelo Assustador (Brazil)                                      ✓      ✓     ✓
@@ -112,7 +113,6 @@ Cyber Shinobi, The (Europe)                                                     
 Cyber Shinobi, The (Unknown) (Beta)                                                    ✓      ✗     ✗
 Cyborg Hunter (USA, Europe)                                                            ✓      ✓     ✓
 Cyborg Z (Korea)                                                                       ✓      ✗     ✗
-C_So! (Korea) (Unl)                                                                    ✓      ✗     ✗
 Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)                                      ✓      ✓     ✓
 Dallyeora Pigu-Wang (Korea) (Unl)                                                      ✓      ✓     ✓
 Danan - The Jungle Fighter (Europe)                                                    ✓      ✓     ✓
@@ -136,11 +136,11 @@ Dragon Crystal (Europe)                                                         
 Dynamite Duke (Europe)                                                                 ✓      ✓     ✓
 Dynamite Dux (Europe)                                                                  ✓      ✓     ✓
 Dynamite Headdy (Brazil)                                                               ✓      ✓     ✓
-E-SWAT (USA, Europe) (Easy Version)                                                    ✗      ✗     ✗
-E-SWAT (USA, Europe) (Hard Version)                                                    ✗      ✗     ✗
 E-SWAT (USA, Europe) (Beta 1)                                                          ✗      ✗     ✗
 E-SWAT (USA, Europe) (Beta 2)                                                          ✗      ✗     ✗
 E-SWAT (USA, Europe) (Beta 3)                                                          ✗      ✗     ✗
+E-SWAT (USA, Europe) (Easy Version)                                                    ✗      ✗     ✗
+E-SWAT (USA, Europe) (Hard Version)                                                    ✗      ✗     ✗
 E.I. - Exa Innova (Korea)                                                              ✓      ✗     ✗
 Eagles 5 (Korea)                                                                       ✓      ✗     ✗
 Earthworm Jim (Brazil)                                                                 ✓      ✓     ✓
@@ -152,17 +152,17 @@ Excellent Dizzy Collection, The (USA, Europe) (En,Fr,De,Es,It) (Proto)          
 F-1 Spirit - The Way to Formula-1 (Korea) (Unl) (Pirate)                               ✓      ✓     ✓
 F-16 Fighter (USA, Europe)                                                             ✓      ✓     ✓
 F-16 Fighting Falcon (Japan)                                                           ✓      ✓     ✓
-F-16 Fighting Falcon (USA)                                                             ✓      ✓     ✓
 F-16 Fighting Falcon (Taiwan)                                                          ✓      ✗     ✗
+F-16 Fighting Falcon (USA)                                                             ✓      ✓     ✓
 F1 (Europe)                                                                            ✓      ✓     ✓
 FA Tetris (Korea) (Pirate)                                                             ✓      ✓     ✓
 Family Games (Japan)                                                                   ✓      ✓     ✓
 Fantastic Dizzy (Europe) (En,Fr,De,Es,It)                                              ✓      ✓     ✓
+Fantasy Zone - The Maze (USA, Europe)                                                  ✓      ✓     ✓
 Fantasy Zone (Japan)                                                                   ✓      ✓     ✓
+Fantasy Zone (Taiwan)                                                                  ✓      ✗     ✗
 Fantasy Zone (World) (Rev 1) (Beta)                                                    ✓      ✓     ✓
 Fantasy Zone (World) (Rev 2)                                                           ✓      ✓     ✓
-Fantasy Zone (Taiwan)                                                                  ✓      ✗     ✗
-Fantasy Zone - The Maze (USA, Europe)                                                  ✓      ✓     ✓
 Fantasy Zone II - Opa-Opa no Namida (Japan)                                            ✓      ✓     ✓
 Fantasy Zone II - The Tears of Opa-Opa (USA, Europe)                                   ✓      ✓     ✓
 Ferias Frustradas do Pica Pau (Brazil)                                                 ✓      ✓     ✓
@@ -192,8 +192,8 @@ Ghost House (Japan)                                                             
 Ghost House (USA, Europe)                                                              ✓      ✓     ✓
 Ghost House (USA, Europe) (Beta)                                                       ✓      ✓     ✓
 Ghostbusters (USA, Europe)                                                             ✓      ✓     ✓
-Ghouls'n Ghosts (USA, Europe)                                                          ✓      ✓     ✓
 Ghouls'n Ghosts (Unknown) (Sample)                                                     ✓      ✓     ✓
+Ghouls'n Ghosts (USA, Europe)                                                          ✓      ✓     ✓
 Global Defense (USA, Europe)                                                           ✓      ✓     ✓
 Global Defense (USA, Europe) (Beta)                                                    ✓      ✓     ✓
 Gokuaku Doumei Dump Matsumoto (Japan)                                                  ✓      ✓     ✓
@@ -208,9 +208,9 @@ Great Baseball (USA, Europe)                                                    
 Great Basketball (World)                                                               ✓      ✓     ✓
 Great Football (World)                                                                 ✓      ✓     ✓
 Great Golf (Japan)                                                                     ✓      ✓     ✓
+Great Golf (Korea)                                                                     ✓      ✗     ✗
 Great Golf (World)                                                                     ✓      ✓     ✓
 Great Golf (World) (Beta)                                                              ✓      ✓     ✓
-Great Golf (Korea)                                                                     ✓      ✗     ✗
 Great Ice Hockey (Japan, USA)                                                          ✓      ✓     ✓
 Great Soccer (Europe)                                                                  ✓      ✓     ✓
 Great Soccer (Japan)                                                                   ✓      ✓     ✓
@@ -220,11 +220,11 @@ Great Volleyball (Japan)                                                        
 Great Volleyball (USA, Europe)                                                         ✓      ✓     ✓
 Gun.Smoke (Korea) (Unl)                                                                ✓      ✗     ✗
 Haja no Fuuin (Japan)                                                                  ✓      ✓     ✓
-Hang-On (Europe)                                                                       ✓      ✓     ✓
-Hang-On (Japan)                                                                        ✓      ✓     ✓
 Hang-On _ Astro Warrior (USA)                                                          ✓      ✓     ✓
 Hang-On _ Safari Hunt (USA)                                                            ✓      ✓     ✓
 Hang-On _ Safari Hunt (USA) (Beta)                                                     ✓      ✗     ✗
+Hang-On (Europe)                                                                       ✓      ✓     ✓
+Hang-On (Japan)                                                                        ✓      ✓     ✓
 Heavyweight Champ (Europe)                                                             ✓      ✓     ✓
 Heroes of the Lance (Europe)                                                           ✓      ✓     ✓
 High School! Kimengumi (Japan)                                                         ✓      ✓     ✓
@@ -279,8 +279,8 @@ Makai Retsuden (Japan)                                                          
 Maou Golvellius (Japan)                                                                ✓      ✓     ✓
 Maou Golvellius (Japan) (Beta)                                                         ✓      ✓     ✓
 Marble Madness (Europe)                                                                ✓      ✓     ✓
-Marksman Shooting _ Trap Shooting (USA)                                                ✓      ✓     ✓
 Marksman Shooting _ Trap Shooting _ Safari Hunt (Europe)                               ✓      ✓     ✓
+Marksman Shooting _ Trap Shooting (USA)                                                ✓      ✓     ✓
 Master of Darkness (Europe)                                                            ✓      ✓     ✓
 Masters of Combat (Europe)                                                             ✓      ✓     ✓
 Maze Hunter 3-D (USA, Europe)                                                          ✓      ✓     ✓
@@ -296,9 +296,9 @@ Miracle Warriors - Seal of the Dark Lord (USA, Europe)                          
 Miracle Warriors - Seal of the Dark Lord (USA, Europe) (Beta)                          ✓      ✓     ✓
 Missile Defense 3-D (USA, Europe)                                                      ✓      ✓     ✓
 Monica no Castelo do Dragao (Brazil)                                                   ✓      ✓     ✓
-Monopoly (USA)                                                                         ✓      ✓     ✓
 Monopoly (Europe)                                                                      ✓      ✓     ✓
 Monopoly (Unknown) (Beta)                                                              ✓      ✓     ✓
+Monopoly (USA)                                                                         ✓      ✓     ✓
 Montezuma's Revenge featuring Panama Joe (USA)                                         ✗      ✗     ✗
 Montezuma's Revenge featuring Panama Joe (USA) (Beta)                                  ✗      ✗     ✗
 Mopiranger (Korea) (Unl)                                                               ✓      ✗     ✗
@@ -346,8 +346,8 @@ Poseidon Wars 3-D (USA, Europe)                                                 
 Power Boggle Boggle (Korea) (Unl)                                                      ✓      ✗     ✗
 Power Strike (USA, Europe)                                                             ✓      ✓     ✓
 Power Strike II (Europe)                                                               ✓      ✓     ✓
-Predator 2 (Europe)                                                                    ✓      ✓     ✓
 Predator 2 (Brazil)                                                                    ✓      ✗     ✗
+Predator 2 (Europe)                                                                    ✓      ✓     ✓
 Prince of Persia (Europe)                                                              ✓      ✓     ✓
 Pro Wrestling (USA, Europe)                                                            ✓      ✓     ✓
 Pro Yakyuu Pennant Race, The (Japan)                                                   ✓      ✓     ✓
@@ -359,8 +359,8 @@ Putt _ Putter (Europe) (Beta)                                                   
 Puznic (Korea) (Unl)                                                                   ✓      ✗     ✗
 Quartet (USA, Europe)                                                                  ✓      ✓     ✓
 Quest for the Shaven Yak Starring Ren Hoek _ Stimpy (Brazil)                           ✓      ✓     ✓
-R-Type (World)                                                                         ✓      ✓     ✓
 R-Type (Unknown) (Beta)                                                                ✓      ✗     ✗
+R-Type (World)                                                                         ✓      ✓     ✓
 R.C. Grand Prix (USA, Europe)                                                          ✓      ✓     ✓
 R.C. Grand Prix (USA, Europe) (Beta)                                                   ✓      ✓     ✓
 Rainbow Islands - Story of the Bubble Bobble 2 (Europe)                                ✓      ✗     ✗
@@ -407,10 +407,10 @@ Simpsons, The - Bart vs. the World (Europe)                                     
 Sitio do Picapau Amarelo (Brazil)                                                      ✓      ✓     ✓
 Sky Fighter (Korea) (Unl)                                                              ✗      ✗     ✗
 Sky Jaguar (Korea)                                                                     ✓      ✗     ✗
-Slap Shot (Europe) (Rev 1)                                                             ✓      ✓     ✓
 Slap Shot (Europe)                                                                     ✓      ✓     ✓
-Slap Shot (USA)                                                                        ✓      ✓     ✓
+Slap Shot (Europe) (Rev 1)                                                             ✓      ✓     ✓
 Slap Shot (Unknown) (Beta)                                                             ✓      ✓     ✓
+Slap Shot (USA)                                                                        ✓      ✓     ✓
 Smurfs, The (Europe) (En,Fr,De,Es)                                                     ✓      ✓     ✓
 Solomon no Kagi - Oujo Rihita no Namida (Japan)                                        ✓      ✓     ✓
 Sonic Blast (Brazil)                                                                   ✓      ✓     ✓
@@ -421,8 +421,8 @@ Sonic The Hedgehog 2 (Europe) (Rev 1)                                           
 Sonic The Hedgehog Spinball (Europe)                                                   ✓      ✗     ✗
 Sonic's Edusoft (Unknown) (Proto)                                                      ✓      ✗     ✗
 Space Gun (Europe)                                                                     ✓      ✓     ✓
-Space Harrier (Japan, USA)                                                             ✓      ✓     ✓
 Space Harrier (Europe)                                                                 ✓      ✓     ✓
+Space Harrier (Japan, USA)                                                             ✓      ✓     ✓
 Space Harrier 3-D (USA, Europe)                                                        ✓      ✓     ✓
 Space Harrier 3D (Japan)                                                               ✓      ✓     ✓
 Special Criminal Investigation (Europe)                                                ✓      ✓     ✓
@@ -443,8 +443,8 @@ Street Fighter II (Brazil)                                                      
 Street Master (Korea) (Unl)                                                            ✓      ✓     ✓
 Streets of Rage (Europe)                                                               ✓      ✓     ✓
 Streets of Rage II (Europe)                                                            ✓      ✓     ✓
-Strider (USA, Europe)                                                                  ✓      ✓     ✓
 Strider (Unknown) (Demo)                                                               ✓      ✗     ✗
+Strider (USA, Europe)                                                                  ✓      ✓     ✓
 Strider II (Europe)                                                                    ✓      ✓     ✓
 Submarine Attack (Europe)                                                              ✓      ✓     ✓
 Suho Cheonsa (Korea) (Unl)                                                             ✓      ✓     ✓
@@ -467,8 +467,8 @@ Super Smash T.V. (Europe)                                                       
 Super Space Invaders (Europe)                                                          ✓      ✓     ✓
 Super Tennis (USA, Europe)                                                             ✓      ✓     ✓
 Super Tetris (Korea) (Pirate)                                                          ✓      ✓     ✓
-Super Wonder Boy (Japan, Europe)                                                       ✓      ✓     ✓
 Super Wonder Boy - Monster World (Japan)                                               ✓      ✓     ✓
+Super Wonder Boy (Japan, Europe)                                                       ✓      ✓     ✓
 Superman - The Man of Steel (Europe)                                                   ✓      ✓     ✓
 T2 - The Arcade Game (Europe)                                                          ✓      ✓     ✓
 Taito Chase H.Q. (Europe)                                                              ✓      ✓     ✓
@@ -536,8 +536,8 @@ X-Men - Mojo World (Brazil)                                                     
 Xenon 2 - Megablast (Europe) (Image Works)                                             ✓      ✓     ✓
 Xenon 2 - Megablast (Europe) (Virgin)                                                  ✓      ✓     ✓
 Xyzolog (Korea)                                                                        ✓      ✗     ✗
-Ys (Japan)                                                                             ✓      ✓     ✓
 Ys - The Vanished Omens (USA, Europe)                                                  ✓      ✓     ✓
+Ys (Japan)                                                                             ✓      ✓     ✓
 Zaxxon 3-D (World)                                                                     ✓      ✓     ✓
 Zaxxon 3-D (World) (Beta)                                                              ✓      ✓     ✓
 Zillion (Europe) (Rev 2)                                                               ✓      ✓     ✓

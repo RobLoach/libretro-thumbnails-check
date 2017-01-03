@@ -15,8 +15,13 @@ var sort = require('sort-object')
 var Listr = require('listr')
 var exists = require('fs-exists-sync')
 
+
+// Set the GitHub access token below.
+var access = ''
+//var access = '?access_token='
+
 // Construct the thumbnail cleaner.
-var thumbnailReplacer = batchreplace.mapReplacer({
+var cleanGameName = batchreplace.mapReplacer({
 	'&': '_',
 	'*': '_',
 	'/': '_',
@@ -69,8 +74,7 @@ function processSystem(system) {
  * - title
  */
 function getGameThumbnails(thumbs, system, name) {
-	var thumbnailName = thumbnailReplacer(name)
-	var out = minimatch.match(thumbs, system + '/*/' + thumbnailName + '.png', {matchBase: true})
+	var out = minimatch.match(thumbs, system + '/*/' + name + '.png', {matchBase: true})
 	var result = {}
 	for (var i in out) {
 		var str = out[i]
@@ -118,7 +122,7 @@ function writeReport(system, games, thumbs) {
 		for (var gameName in games) {
 			var game = games[gameName]
 			// Use the thumbnail file name.
-			gameName = thumbnailReplacer(gameName)
+			gameName = cleanGameName(gameName)
 
 			var boxart = game.boxart ? '✓' : '✗'
 			var snap = game.snap ? '✓' : '✗'
@@ -238,5 +242,6 @@ module.exports = {
 	processSystem: processSystem,
 	writeReport: writeReport,
 	thumbnails: thumbnails,
-	getGameThumbnails: getGameThumbnails
+	getGameThumbnails: getGameThumbnails,
+	cleanGameName: cleanGameName
 }

@@ -30,19 +30,19 @@ Name                                                                            
 8 Eyes (USA)                                                                            ✓      ✓     ✓
 A Ressha de Ikou (Japan)                                                                ✓      ✓     ✓
 Aa Yakyuu Jinsei Icchokusen (Japan)                                                     ✓      ✓     ✓
-Abadox (Japan)                                                                          ✓      ✓     ✓
 Abadox - The Deadly Inner War (USA)                                                     ✓      ✓     ✓
+Abadox (Japan)                                                                          ✓      ✓     ✓
 Abarenbou Tengu (Japan)                                                                 ✓      ✓     ✓
 Aces - Iron Eagle 3 (Japan)                                                             ✓      ✓     ✓
 Action 52 (USA) (Rev A) (Unl)                                                           ✓      ✓     ✓
 Action 52 (USA) (Unl)                                                                   ✓      ✓     ✓
 Action in New York (Europe)                                                             ✓      ✓     ✓
-Addams Family, The (Europe) (En,Fr,De)                                                  ✓      ✓     ✓
-Addams Family, The (USA)                                                                ✓      ✓     ✓
 Addams Family, The - Pugsley's Scavenger Hunt (Europe)                                  ✓      ✓     ✓
 Addams Family, The - Pugsley's Scavenger Hunt (Europe) (Beta)                           ✓      ✓     ✓
 Addams Family, The - Pugsley's Scavenger Hunt (USA)                                     ✓      ✓     ✓
 Addams Family, The - Uncle Fester's Quest (USA) (Beta)                                  ✓      ✓     ✓
+Addams Family, The (Europe) (En,Fr,De)                                                  ✓      ✓     ✓
+Addams Family, The (USA)                                                                ✓      ✓     ✓
 Advanced Dungeons _ Dragons - Dragons of Flame (Japan)                                  ✓      ✓     ✓
 Advanced Dungeons _ Dragons - DragonStrike (USA)                                        ✓      ✓     ✓
 Advanced Dungeons _ Dragons - Heroes of the Lance (Japan)                               ✓      ✓     ✓
@@ -195,16 +195,16 @@ Barbie (USA)                                                                    
 Barbie (USA) (Rev A)                                                                    ✓      ✓     ✓
 Barcode World (Japan)                                                                   ✓      ✓     ✓
 Bard's Tale II, The - The Destiny Knight (Japan)                                        ✓      ✓     ✓
+Bard's Tale, The - Tales of the Unknown (USA) (Beta 1)                                  ✓      ✗     ✗
+Bard's Tale, The - Tales of the Unknown (USA) (Beta 2)                                  ✓      ✗     ✗
 Bard's Tale, The (Japan)                                                                ✓      ✓     ✓
 Bard's Tale, The (Japan) (Sample)                                                       ✗      ✗     ✗
 Bard's Tale, The (USA)                                                                  ✓      ✓     ✓
-Bard's Tale, The - Tales of the Unknown (USA) (Beta 1)                                  ✓      ✗     ✗
-Bard's Tale, The - Tales of the Unknown (USA) (Beta 2)                                  ✓      ✗     ✗
 Barker Bill's Trick Shooting (Europe)                                                   ✓      ✓     ✓
 Barker Bill's Trick Shooting (USA)                                                      ✓      ✓     ✓
 Baseball (Japan)                                                                        ✓      ✓     ✓
-Baseball (USA) (GameCube Edition)                                                       ✓      ✗     ✗
 Baseball (USA, Europe)                                                                  ✓      ✓     ✓
+Baseball (USA) (GameCube Edition)                                                       ✓      ✗     ✗
 Baseball Fighter (Japan)                                                                ✓      ✓     ✓
 Baseball Simulator 1.000 (USA)                                                          ✓      ✓     ✓
 Baseball Star - Mezase Sankanou!! (Japan)                                               ✓      ✓     ✓
@@ -217,7 +217,6 @@ Bases Loaded 3 (USA)                                                            
 Bases Loaded 4 (USA)                                                                    ✓      ✓     ✓
 Bases Loaded II - Second Season (USA)                                                   ✓      ✓     ✓
 Bashi Bazook - Morphoid Masher (USA) (Proto)                                            ✓      ✓     ✓
-Batman (Japan)                                                                          ✓      ✓     ✓
 Batman - Return of the Joker (Europe)                                                   ✓      ✓     ✓
 Batman - Return of the Joker (USA)                                                      ✓      ✓     ✓
 Batman - Return of the Joker (USA) (Beta)                                               ✓      ✗     ✗
@@ -225,6 +224,7 @@ Batman - The Video Game (Europe)                                                
 Batman - The Video Game (USA)                                                           ✓      ✓     ✓
 Batman - The Video Game (USA) (Beta 1)                                                  ✓      ✗     ✗
 Batman - The Video Game (USA) (Beta 2)                                                  ✓      ✗     ✗
+Batman (Japan)                                                                          ✓      ✓     ✓
 Batman Returns (Europe)                                                                 ✓      ✓     ✓
 Batman Returns (Unknown) (Beta)                                                         ✓      ✓     ✓
 Batman Returns (USA)                                                                    ✓      ✓     ✓
@@ -254,9 +254,9 @@ Best Keiba - Derby Stallion (Japan)                                             
 Best Keiba - Derby Stallion (Japan) (Rev A)                                             ✓      ✓     ✓
 Best of the Best - Championship Karate (Europe)                                         ✓      ✓     ✓
 Best of the Best - Championship Karate (USA)                                            ✓      ✓     ✓
+Best Play Pro Yakyuu - Shin Data (Japan)                                                ✗      ✗     ✗
 Best Play Pro Yakyuu '90 (Japan)                                                        ✓      ✓     ✓
 Best Play Pro Yakyuu (Japan)                                                            ✓      ✓     ✓
-Best Play Pro Yakyuu - Shin Data (Japan)                                                ✗      ✗     ✗
 Best Play Pro Yakyuu II (Japan)                                                         ✓      ✓     ✓
 Best Play Pro Yakyuu Special (Japan)                                                    ✓      ✓     ✓
 Best Play Pro Yakyuu Special (Japan) (Rev A)                                            ✓      ✓     ✓
@@ -550,9 +550,9 @@ Defender of the Crown (Europe)                                                  
 Defender of the Crown (France)                                                          ✓      ✓     ✓
 Defender of the Crown (USA)                                                             ✓      ✓     ✓
 Defenders of Dynatron City (USA)                                                        ✓      ✓     ✓
+Deja Vu - Akumu wa Hontou ni Yatte Kita (Japan)                                         ✗      ✗     ✗
 Deja Vu (Sweden)                                                                        ✓      ✓     ✓
 Deja Vu (USA)                                                                           ✓      ✓     ✓
-Deja Vu - Akumu wa Hontou ni Yatte Kita (Japan)                                         ✗      ✗     ✗
 Demon Sword (USA)                                                                       ✓      ✗     ✗
 Dengeki - Big Bang! (Japan)                                                             ✓      ✓     ✓
 Dengeki - Big Bang! (Japan) (Beta)                                                      ✓      ✓     ✓
@@ -571,8 +571,8 @@ Die Hard (Europe)                                                               
 Die Hard (Japan)                                                                        ✓      ✓     ✓
 Die Hard (USA)                                                                          ✓      ✓     ✓
 Dig Dug (Japan)                                                                         ✓      ✓     ✓
-Dig Dug II (Japan)                                                                      ✓      ✓     ✓
 Dig Dug II - Trouble in Paradise (USA)                                                  ✓      ✓     ✓
+Dig Dug II (Japan)                                                                      ✓      ✓     ✓
 Digger - The Legend of the Lost City (USA)                                              ✓      ✓     ✓
 Digger T. Rock - The Legend of the Lost City (Europe)                                   ✓      ✓     ✓
 Digital Devil Story - Megami Tensei (Japan)                                             ✓      ✓     ✓
@@ -601,14 +601,14 @@ Donkey Kong Jr. + Jr. Lesson (Japan)                                            
 Donkey Kong Jr. Math (USA, Europe)                                                      ✓      ✓     ✓
 Donkey Kong Jr. no Sansuu Asobi (Japan)                                                 ✓      ✓     ✓
 Door Door (Japan)                                                                       ✗      ✓     ✓
+Doraemon - Giga Zombie no Gyakushuu (Japan)                                             ✗      ✓     ✓
 Doraemon (Japan)                                                                        ✗      ✓     ✓
 Doraemon (Japan) (Rev A)                                                                ✗      ✓     ✓
-Doraemon - Giga Zombie no Gyakushuu (Japan)                                             ✗      ✓     ✓
 Dou Zhi Pin Pan - Wisdom Boy (China) (Unl)                                              ✗      ✓     ✓
 Double Dare (USA)                                                                       ✓      ✓     ✓
+Double Dragon - Sou Setsu Ryuu (Japan)                                                  ✗      ✗     ✗
 Double Dragon (Europe)                                                                  ✓      ✓     ✓
 Double Dragon (USA)                                                                     ✓      ✓     ✓
-Double Dragon - Sou Setsu Ryuu (Japan)                                                  ✗      ✗     ✗
 Double Dragon II - The Revenge (Europe)                                                 ✓      ✓     ✓
 Double Dragon II - The Revenge (USA)                                                    ✓      ✓     ✓
 Double Dragon II - The Revenge (USA) (Rev A)                                            ✓      ✓     ✓
@@ -867,15 +867,15 @@ Fushigi no Umi no Nadia (Japan)                                                 
 Futebol (Brazil) (Unl)                                                                  ✓      ✓     ✓
 Future Wars - Mirai Senshi Lios (Japan)                                                 ✗      ✗     ✗
 Fuzzical Fighter (Japan)                                                                ✗      ✓     ✓
-G.I. Joe - A Real American Hero (USA)                                                   ✓      ✓     ✓
 G.I. Joe - A Real American Hero - The Atlantis Factor (USA) (Beta)                      ✓      ✓     ✓
+G.I. Joe - A Real American Hero (USA)                                                   ✓      ✓     ✓
 G.I. Joe - The Atlantis Factor (USA)                                                    ✓      ✓     ✓
 Gaiapolis (Asia) (Unl)                                                                  ✗      ✓     ✓
 Galactic Crusader (Asia) (Unl)                                                          ✓      ✓     ✓
 Galactic Crusader (USA) (Unl)                                                           ✓      ✓     ✓
+Galaga - Demons of Death (USA)                                                          ✓      ✓     ✓
 Galaga (Europe)                                                                         ✓      ✓     ✓
 Galaga (Japan)                                                                          ✓      ✓     ✓
-Galaga - Demons of Death (USA)                                                          ✓      ✓     ✓
 Galaxian (Japan)                                                                        ✓      ✓     ✓
 Galaxian (Japan) (Rev A)                                                                ✓      ✓     ✓
 Galaxy 5000 (Europe)                                                                    ✓      ✓     ✓
@@ -954,9 +954,9 @@ Golgo 13 - Top Secret Episode (USA)                                             
 Gomoku Narabe (Japan)                                                                   ✗      ✓     ✓
 Goonies (Japan)                                                                         ✓      ✓     ✓
 Goonies 2 - Fratelli Saigo no Chousen (Japan)                                           ✓      ✓     ✓
+Goonies II, The - Fratelli Saigo no Chousen (Japan) (Beta)                              ✓      ✓     ✓
 Goonies II, The (Europe)                                                                ✓      ✓     ✓
 Goonies II, The (USA)                                                                   ✓      ✓     ✓
-Goonies II, The - Fratelli Saigo no Chousen (Japan) (Beta)                              ✓      ✓     ✓
 Gorby no Pipeline Daisakusen (Japan)                                                    ✗      ✓     ✓
 Gorilla Man, The (Japan)                                                                ✗      ✓     ✓
 Gotcha! - The Sport! (USA)                                                              ✓      ✓     ✓
@@ -1109,8 +1109,8 @@ Igo Shinan '94 (Japan)                                                          
 Igo Shinan (Japan)                                                                      ✗      ✓     ✓
 Ikari (Japan)                                                                           ✓      ✓     ✓
 Ikari II - Dogosoken (Japan)                                                            ✓      ✓     ✓
-Ikari III (Japan)                                                                       ✓      ✓     ✓
 Ikari III - The Rescue (USA)                                                            ✓      ✓     ✓
+Ikari III (Japan)                                                                       ✓      ✓     ✓
 Ikari Warriors (Europe)                                                                 ✓      ✓     ✓
 Ikari Warriors (USA)                                                                    ✓      ✓     ✓
 Ikari Warriors (USA) (Rev A)                                                            ✓      ✓     ✓
@@ -1179,8 +1179,8 @@ Jimmy Connors Tennis (Europe)                                                   
 Jimmy Connors Tennis (USA)                                                              ✓      ✓     ✓
 Jin Gwok Sei Chuen Saang (Asia) (Unl)                                                   ✗      ✓     ✓
 JJ (Japan)                                                                              ✗      ✓     ✓
-Joe _ Mac (USA)                                                                         ✓      ✓     ✓
 Joe _ Mac - Caveman Ninja (Europe)                                                      ✓      ✓     ✓
+Joe _ Mac (USA)                                                                         ✓      ✓     ✓
 John Elway's Quarterback (USA)                                                          ✓      ✓     ✓
 Jongbou (Japan)                                                                         ✗      ✓     ✓
 Jordan vs Bird - One On One (USA)                                                       ✓      ✓     ✓
@@ -1311,9 +1311,9 @@ Kyonshiizu 2 (Japan) (Sample)                                                   
 Kyoro-chan Land (Japan)                                                                 ✓      ✓     ✓
 Kyouryuu Sentai Zyuranger (Japan)                                                       ✗      ✓     ✓
 Kyuukyoku Harikiri Koushien (Japan)                                                     ✗      ✓     ✓
-Kyuukyoku Harikiri Stadium (Japan)                                                      ✗      ✓     ✓
 Kyuukyoku Harikiri Stadium - '88 Senshu Shin Data Version (Japan)                       ✗      ✓     ✓
 Kyuukyoku Harikiri Stadium - Heisei Gannen Ban (Japan)                                  ✓      ✓     ✓
+Kyuukyoku Harikiri Stadium (Japan)                                                      ✗      ✓     ✓
 Kyuukyoku Harikiri Stadium III (Japan)                                                  ✗      ✓     ✓
 Kyuukyoku Tiger (Japan)                                                                 ✓      ✓     ✓
 Labyrinth (Japan)                                                                       ✗      ✓     ✓
@@ -1345,8 +1345,8 @@ Lemmings (Europe)                                                               
 Lemmings (USA)                                                                          ✓      ✓     ✓
 Lethal Weapon (Europe)                                                                  ✓      ✓     ✓
 Lethal Weapon (USA)                                                                     ✓      ✓     ✓
-Life Force (USA)                                                                        ✓      ✓     ✓
 Life Force - Salamander (Europe)                                                        ✓      ✓     ✓
+Life Force (USA)                                                                        ✓      ✓     ✓
 Lightgun Game 2 in 1 - Cosmocop + Cyber Monster (Asia) (Unl)                            ✗      ✓     ✓
 Lightgun Game 2 in 1 - Tough Cop + Super Tough Cop (Asia) (Unl)                         ✗      ✓     ✓
 Lin Ze Xu Jin Yan (China) (Unl)                                                         ✗      ✓     ✓
@@ -1362,8 +1362,8 @@ Little Nemo - The Dream Master (Europe)                                         
 Little Nemo - The Dream Master (USA)                                                    ✓      ✓     ✓
 Little Ninja Brothers (Europe)                                                          ✓      ✓     ✓
 Little Ninja Brothers (USA)                                                             ✓      ✓     ✓
-Little Red Hood (Australia) (Unl)                                                       ✓      ✓     ✓
 Little Red Hood - Xiao Hong Mao (Asia) (Unl)                                            ✓      ✓     ✓
+Little Red Hood (Australia) (Unl)                                                       ✓      ✓     ✓
 Little Samson (Europe)                                                                  ✓      ✓     ✓
 Little Samson (USA)                                                                     ✓      ✓     ✓
 Locksmith (Asia) (PAL) (Unl)                                                            ✗      ✓     ✓
@@ -1428,8 +1428,8 @@ Mahjong Club Nagatachou - Sousaisen (Japan)                                     
 Mahjong RPG Dora Dora Dora (Japan)                                                      ✗      ✓     ✓
 Mahjong Taikai (Japan)                                                                  ✗      ✓     ✓
 Mahjong Taisen (Japan)                                                                  ✗      ✓     ✓
-Mahjong Trap - Si Cuan Ma Que (Asia) (Unl)                                              ✗      ✓     ✓
 Mahjong Trap - Si Cuan Ma Que - Zhi Fu Pian (Asia) (Unl)                                ✗      ✓     ✓
+Mahjong Trap - Si Cuan Ma Que (Asia) (Unl)                                              ✗      ✓     ✓
 Mahjong World, The - Ma Que Shi Jie (Asia) (NTSC) (Unl)                                 ✗      ✓     ✓
 Mahjong World, The - Ma Que Shi Jie (Asia) (PAL) (Unl)                                  ✗      ✓     ✓
 Mahou no Princess Minky Momo - Remember Dream (Japan)                                   ✗      ✓     ✓
@@ -1553,8 +1553,8 @@ Mike Tyson's Punch-Out!! (Europe) (Rev A)                                       
 Mike Tyson's Punch-Out!! (Japan, USA)                                                   ✓      ✓     ✓
 Mike Tyson's Punch-Out!! (Japan, USA) (Rev A)                                           ✓      ✓     ✓
 Millionaire (Asia) (PAL) (Unl)                                                          ✗      ✓     ✓
-Millipede (USA)                                                                         ✓      ✓     ✓
 Millipede - Kyodai Konchuu no Gyakushuu (Japan)                                         ✓      ✗     ✗
+Millipede (USA)                                                                         ✓      ✓     ✓
 Milon's Secret Castle (USA)                                                             ✓      ✓     ✓
 Mind Blower Pak (Australia) (Unl)                                                       ✗      ✓     ✓
 Mindseeker (Japan)                                                                      ✓      ✓     ✓
@@ -1576,8 +1576,8 @@ Mito Koumon - Sekai Manyuu Ki (Japan)                                           
 Mitsume ga Tooru (Japan)                                                                ✓      ✓     ✓
 Mizushima Shinji no Daikoushien (Japan)                                                 ✗      ✓     ✓
 Moai-kun (Japan)                                                                        ✗      ✓     ✓
-Moe Pro! '90 - Kandou Hen (Japan)                                                       ✓      ✓     ✓
 Moe Pro! - Saikyou Hen (Japan)                                                          ✓      ✓     ✓
+Moe Pro! '90 - Kandou Hen (Japan)                                                       ✓      ✓     ✓
 Moero TwinBee - Cinnamon Hakase o Sukue! (Japan)                                        ✓      ✓     ✓
 Moero!! Junior Basket - Two on Two (Japan)                                              ✓      ✓     ✓
 Moero!! Juudou Warriors (Japan)                                                         ✗      ✓     ✓
@@ -1647,8 +1647,8 @@ NARC (USA)                                                                      
 Navy Blue (Japan)                                                                       ✗      ✓     ✓
 Nekketsu Kakutou Densetsu (Japan)                                                       ✗      ✓     ✓
 Nekketsu Kouha Kunio-kun (Japan)                                                        ✓      ✓     ✓
-Nekketsu Koukou Dodgeball-bu (Japan)                                                    ✓      ✓     ✓
 Nekketsu Koukou Dodgeball-bu - Soccer Hen (Japan)                                       ✓      ✓     ✓
+Nekketsu Koukou Dodgeball-bu (Japan)                                                    ✓      ✓     ✓
 Nekketsu! Street Basket - Ganbare Dunk Heroes (Japan)                                   ✗      ✓     ✓
 NES Open Tournament Golf (Europe)                                                       ✓      ✓     ✓
 NES Open Tournament Golf (USA)                                                          ✓      ✓     ✓
@@ -1667,11 +1667,11 @@ Nightshade (USA)                                                                
 Nihonichi no Mei Kantoku (Japan)                                                        ✗      ✓     ✓
 Niji no Silk Road (Japan)                                                               ✗      ✓     ✓
 Ninja Cop Saizou (Japan)                                                                ✓      ✓     ✓
-Ninja Crusaders (USA)                                                                   ✓      ✓     ✓
 Ninja Crusaders - Ryuuga (Japan)                                                        ✓      ✓     ✓
+Ninja Crusaders (USA)                                                                   ✓      ✓     ✓
+Ninja Gaiden - Episode II - The Dark Sword of Chaos (USA) (Beta) (1990-01-18)           ✓      ✗     ✗
 Ninja Gaiden (USA)                                                                      ✓      ✓     ✓
 Ninja Gaiden (USA) (Beta)                                                               ✓      ✗     ✗
-Ninja Gaiden - Episode II - The Dark Sword of Chaos (USA) (Beta) (1990-01-18)           ✓      ✗     ✗
 Ninja Gaiden II - The Dark Sword of Chaos (USA)                                         ✓      ✓     ✓
 Ninja Gaiden III - The Ancient Ship of Doom (USA)                                       ✓      ✓     ✓
 Ninja Hattori-kun - Ninja wa Syugyou de Gozaru (Japan)                                  ✗      ✓     ✓
@@ -1708,8 +1708,8 @@ Nobunaga no Yabou - Zenkoku Ban (Japan)                                         
 Nobunaga no Yabou - Zenkoku Ban (Japan) (Rev A)                                         ✓      ✓     ✓
 Nobunaga's Ambition (USA)                                                               ✓      ✓     ✓
 Nobunaga's Ambition II (USA)                                                            ✓      ✓     ✓
-North _ South (Europe)                                                                  ✓      ✓     ✓
 North _ South - Wakuwaku Nanboku Sensou (Japan)                                         ✓      ✓     ✓
+North _ South (Europe)                                                                  ✓      ✓     ✓
 North and South (USA)                                                                   ✓      ✓     ✓
 Nuts _ Milk (Japan)                                                                     ✗      ✓     ✓
 Obake no Q Tarou - Wanwan Panic (Japan)                                                 ✓      ✓     ✓
@@ -1735,9 +1735,9 @@ Outlanders (Japan)                                                              
 Over Horizon (Europe)                                                                   ✓      ✓     ✓
 Over Horizon (Japan)                                                                    ✓      ✓     ✓
 Overlord (USA)                                                                          ✓      ✓     ✓
-P'Radikus Conflict (USA) (Unl)                                                          ✓      ✓     ✓
 P.O.W. - Prisoners of War (Europe)                                                      ✓      ✓     ✓
 P.O.W. - Prisoners of War (USA)                                                         ✓      ✓     ✓
+P'Radikus Conflict (USA) (Unl)                                                          ✓      ✓     ✓
 Pac-Land (Japan)                                                                        ✗      ✓     ✓
 Pac-Man (Europe)                                                                        ✓      ✓     ✓
 Pac-Man (Japan)                                                                         ✓      ✓     ✓
@@ -1783,8 +1783,8 @@ Pegasus 4 in 1 (Unknown) (Unl)                                                  
 Pegasus 5 in 1 (Unknown) (Unl)                                                          ✗      ✓     ✓
 Penguin _ Seal, The (Asia, Australia) (Unl)                                             ✓      ✓     ✓
 Penguin-kun Wars (Japan)                                                                ✗      ✓     ✓
-Pennant League!! - Home Run Nighter (Japan)                                             ✗      ✗     ✗
 Pennant League, The - Home Run Nighter '90 (Japan)                                      ✗      ✗     ✗
+Pennant League!! - Home Run Nighter (Japan)                                             ✗      ✗     ✗
 Perfect Bowling (Japan)                                                                 ✗      ✓     ✓
 Perman (Japan)                                                                          ✗      ✓     ✓
 Perman Part 2 - Himitsu Kessha Madoodan o Taose! (Japan)                                ✗      ✓     ✓
@@ -1915,10 +1915,10 @@ Raid 2020 (USA) (Unl)                                                           
 Raid on Bungeling Bay (Japan)                                                           ✓      ✓     ✓
 Raid on Bungeling Bay (Japan) (En) (Rev A)                                              ✓      ✓     ✓
 Raid on Bungeling Bay (USA)                                                             ✓      ✓     ✓
-Rainbow Islands (USA)                                                                   ✓      ✓     ✓
 Rainbow Islands - Bubble Bobble 2 (Europe)                                              ✗      ✓     ✓
 Rainbow Islands - The Story of Bubble Bobble 2 (Japan)                                  ✓      ✓     ✓
 Rainbow Islands - The Story of Bubble Bobble 2 (Japan) (Sample)                         ✗      ✗     ✗
+Rainbow Islands (USA)                                                                   ✓      ✓     ✓
 Rally Bike (USA)                                                                        ✓      ✓     ✓
 Rambo (Japan)                                                                           ✓      ✓     ✓
 Rambo (USA)                                                                             ✓      ✓     ✓
@@ -2019,12 +2019,12 @@ Samsara Naga (Japan)                                                            
 San Guo Zhi - Qun Xiong Zheng Ba (Asia) (Unl)                                           ✗      ✓     ✓
 San Guo Zhong Lie Zhuan (China) (Unl)                                                   ✗      ✓     ✓
 Sanada Juu Yuushi (Japan)                                                               ✗      ✓     ✓
+Sangokushi - Chuugen no Hasha (Japan)                                                   ✗      ✓     ✓
 Sangokushi (Japan)                                                                      ✓      ✓     ✓
 Sangokushi (Japan) (Rev A)                                                              ✓      ✓     ✓
-Sangokushi - Chuugen no Hasha (Japan)                                                   ✗      ✓     ✓
+Sangokushi II - Haou no Tairiku (Japan)                                                 ✗      ✓     ✓
 Sangokushi II (Japan)                                                                   ✓      ✓     ✓
 Sangokushi II (Japan) (Rev AB)                                                          ✓      ✓     ✓
-Sangokushi II - Haou no Tairiku (Japan)                                                 ✗      ✓     ✓
 Sanma no Mei Tantei (Japan)                                                             ✗      ✓     ✓
 Sanrio Carnival (Japan)                                                                 ✓      ✓     ✓
 Sanrio Carnival 2 (Japan)                                                               ✓      ✓     ✓
@@ -2173,10 +2173,10 @@ Solomon's Key (Europe)                                                          
 Solomon's Key (USA)                                                                     ✓      ✓     ✓
 Solomon's Key 2 (Europe)                                                                ✓      ✓     ✓
 Solomon's Key 2 (USA) (Beta)                                                            ✓      ✓     ✓
-Solstice (Japan)                                                                        ✓      ✓     ✓
 Solstice - The Quest for the Staff of Demnos (Europe)                                   ✓      ✓     ✓
 Solstice - The Quest for the Staff of Demnos (USA)                                      ✓      ✓     ✓
 Solstice - The Quest for the Staff of Demnos (USA) (Beta)                               ✓      ✓     ✓
+Solstice (Japan)                                                                        ✓      ✓     ✓
 Son Son (Japan)                                                                         ✗      ✓     ✓
 Soreike! Anpanman - Minna de Hiking Game! (Japan)                                       ✗      ✓     ✓
 Sou Setsu Ryuu (Japan) (Beta)                                                           ✓      ✓     ✓
@@ -2230,15 +2230,15 @@ Star Trek - 25th Anniversary (USA)                                              
 Star Trek - The Next Generation (USA)                                                   ✓      ✓     ✓
 Star Trek V - The Final Frontier (Unknown) (Proto)                                      ✗      ✓     ✓
 Star Voyager (USA)                                                                      ✓      ✓     ✓
+Star Wars - The Empire Strikes Back (Europe)                                            ✓      ✓     ✓
+Star Wars - The Empire Strikes Back (Japan)                                             ✓      ✓     ✓
+Star Wars - The Empire Strikes Back (USA)                                               ✓      ✓     ✓
+Star Wars - The Empire Strikes Back (USA) (Beta)                                        ✓      ✓     ✓
 Star Wars (Europe)                                                                      ✓      ✓     ✓
 Star Wars (Japan) (Namco)                                                               ✓      ✓     ✓
 Star Wars (Japan) (Victor)                                                              ✓      ✓     ✓
 Star Wars (USA)                                                                         ✓      ✓     ✓
 Star Wars (USA) (Beta)                                                                  ✓      ✓     ✓
-Star Wars - The Empire Strikes Back (Europe)                                            ✓      ✓     ✓
-Star Wars - The Empire Strikes Back (Japan)                                             ✓      ✓     ✓
-Star Wars - The Empire Strikes Back (USA)                                               ✓      ✓     ✓
-Star Wars - The Empire Strikes Back (USA) (Beta)                                        ✓      ✓     ✓
 Starship Hector (USA)                                                                   ✓      ✓     ✓
 StarTropics (Europe)                                                                    ✓      ✓     ✓
 StarTropics (USA)                                                                       ✓      ✓     ✓
@@ -2400,14 +2400,14 @@ Tecmo World Cup Soccer (Europe)                                                 
 Tecmo World Cup Soccer (Japan)                                                          ✓      ✓     ✓
 Tecmo World Wrestling (Europe)                                                          ✓      ✓     ✓
 Tecmo World Wrestling (USA)                                                             ✓      ✓     ✓
-Teenage Mutant Hero Turtles (Europe)                                                    ✓      ✓     ✓
 Teenage Mutant Hero Turtles - Tournament Fighters (Europe)                              ✓      ✓     ✓
+Teenage Mutant Hero Turtles (Europe)                                                    ✓      ✓     ✓
 Teenage Mutant Hero Turtles II - The Arcade Game (Europe)                               ✓      ✓     ✓
+Teenage Mutant Ninja Turtles - Tournament Fighters (USA)                                ✓      ✓     ✓
 Teenage Mutant Ninja Turtles (Italy)                                                    ✓      ✓     ✓
 Teenage Mutant Ninja Turtles (Japan)                                                    ✓      ✓     ✓
 Teenage Mutant Ninja Turtles (USA)                                                      ✓      ✓     ✓
 Teenage Mutant Ninja Turtles (USA) (Beta)                                               ✓      ✓     ✓
-Teenage Mutant Ninja Turtles - Tournament Fighters (USA)                                ✓      ✓     ✓
 Teenage Mutant Ninja Turtles II - The Arcade Game (Australia)                           ✓      ✓     ✓
 Teenage Mutant Ninja Turtles II - The Arcade Game (Unknown) (Beta)                      ✓      ✓     ✓
 Teenage Mutant Ninja Turtles II - The Arcade Game (USA)                                 ✓      ✓     ✓
@@ -2423,10 +2423,10 @@ Tennis (Europe)                                                                 
 Tennis (Japan, USA)                                                                     ✓      ✓     ✓
 Tennis (USA) (GameCube Edition)                                                         ✗      ✗     ✗
 Terao no Dosukoi Oozumou (Japan)                                                        ✗      ✓     ✓
-Terminator 2 (Japan)                                                                    ✓      ✓     ✓
 Terminator 2 - Judgment Day (Europe)                                                    ✓      ✓     ✓
 Terminator 2 - Judgment Day (USA)                                                       ✓      ✓     ✓
 Terminator 2 - Judgment Day (USA) (Beta)                                                ✓      ✓     ✓
+Terminator 2 (Japan)                                                                    ✓      ✓     ✓
 Terminator, The (USA, Europe)                                                           ✓      ✓     ✓
 Terra Cresta (Japan)                                                                    ✓      ✓     ✓
 Terra Cresta (USA)                                                                      ✓      ✓     ✓
@@ -2481,19 +2481,19 @@ Toki (USA)                                                                      
 Toki no Tabibito (Japan)                                                                ✗      ✓     ✓
 Tokkyuu Shirei Solbrain (Japan)                                                         ✓      ✓     ✓
 Tokoro-san no Mamoru mo Semeru mo (Japan)                                               ✗      ✓     ✓
-Tom _ Jerry (Japan)                                                                     ✓      ✓     ✓
 Tom _ Jerry - The Ultimate Game of Cat and Mouse! (Europe)                              ✓      ✓     ✓
 Tom _ Jerry - The Ultimate Game of Cat and Mouse! (USA)                                 ✓      ✓     ✓
+Tom _ Jerry (Japan)                                                                     ✓      ✓     ✓
 Tom Sawyer no Bouken (Japan)                                                            ✓      ✓     ✓
 Tombs _ Treasure (USA)                                                                  ✓      ✓     ✓
 Toobin' (USA) (Unl)                                                                     ✓      ✓     ✓
+Top Gun - Dual Fighters (Japan)                                                         ✓      ✓     ✓
+Top Gun - The Second Mission (Europe)                                                   ✓      ✓     ✓
+Top Gun - The Second Mission (USA)                                                      ✓      ✓     ✓
 Top Gun (Europe)                                                                        ✓      ✓     ✓
 Top Gun (Japan)                                                                         ✓      ✓     ✓
 Top Gun (USA)                                                                           ✓      ✓     ✓
 Top Gun (USA) (Rev A)                                                                   ✓      ✓     ✓
-Top Gun - Dual Fighters (Japan)                                                         ✓      ✓     ✓
-Top Gun - The Second Mission (Europe)                                                   ✓      ✓     ✓
-Top Gun - The Second Mission (USA)                                                      ✓      ✓     ✓
 Top Rider (Japan)                                                                       ✗      ✓     ✓
 Top Striker (Japan)                                                                     ✗      ✓     ✓
 Total Funpak (Australia) (Unl)                                                          ✗      ✓     ✓
@@ -2618,10 +2618,10 @@ Wei Lai Xiao Zi (Asia) (Unl)                                                    
 Werewolf - The Last Warrior (Europe)                                                    ✓      ✓     ✓
 Werewolf - The Last Warrior (USA)                                                       ✓      ✓     ✓
 Western Kids (Japan)                                                                    ✓      ✓     ✓
-Wheel of Fortune (USA)                                                                  ✓      ✓     ✓
-Wheel of Fortune (USA) (Rev A)                                                          ✓      ✓     ✓
 Wheel of Fortune - Family Edition (USA)                                                 ✓      ✓     ✓
 Wheel of Fortune - Junior Edition (USA)                                                 ✓      ✓     ✓
+Wheel of Fortune (USA)                                                                  ✓      ✓     ✓
+Wheel of Fortune (USA) (Rev A)                                                          ✓      ✓     ✓
 Wheel of Fortune Starring Vanna White (USA)                                             ✓      ✓     ✓
 Where in Time Is Carmen Sandiego (USA)                                                  ✓      ✓     ✓
 Where's Waldo (USA)                                                                     ✓      ✓     ✓
@@ -2677,10 +2677,10 @@ WWF Wrestlemania Challenge (USA)                                                
 WWF Wrestlemania Steel Cage Challenge (Europe)                                          ✓      ✓     ✓
 WWF Wrestlemania Steel Cage Challenge (USA)                                             ✓      ✓     ✓
 Xenophobe (USA)                                                                         ✓      ✓     ✓
+Xevious - The Avenger (USA)                                                             ✓      ✓     ✓
 Xevious (Europe)                                                                        ✓      ✓     ✓
 Xevious (Japan)                                                                         ✓      ✓     ✓
 Xevious (Japan) (En) (Rev 1)                                                            ✓      ✓     ✓
-Xevious - The Avenger (USA)                                                             ✓      ✓     ✓
 Xexyz (USA)                                                                             ✓      ✓     ✓
 Xing He Zhan Shi (China) (Unl)                                                          ✗      ✓     ✓
 Xing Ji Zheng Ba (China) (Unl)                                                          ✗      ✓     ✓
