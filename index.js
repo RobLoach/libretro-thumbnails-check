@@ -12,6 +12,7 @@ var sanitizeFilename = require('sanitize-filename')
 var sleep = require('sleep')
 var batchreplace = require('batchreplace')
 var sort = require('sort-object')
+var progress = require('progress')
 
 // Construct the thumbnail cleaner.
 var thumbnailReplacer = batchreplace.mapReplacer({
@@ -32,8 +33,12 @@ var access = ''
 //var access = '?access_token='
 
 glob('libretro-database/rdb/*.rdb', function (err, files) {
+	var bar = new progress('[:bar] :percent :status', {
+		total: files.length,
+		width: 30
+	})
 	files.forEach(function (file) {
-		var system = path.parse(file).name
+		let system = path.parse(file).name
 		processSystem(system).then(function (fileResult) {
 			let thumbs = thumbnails(system)
 			let games = {}
@@ -46,8 +51,14 @@ glob('libretro-database/rdb/*.rdb', function (err, files) {
 					}
 				}
 			}
-			writeReport(system, games, thumbs)
+			if (Object.keys(games).length !== 0) {
+				writeReport(system, games, thumbs)
+			}
+			bar.tick(1, {
+				status: '✓ ' + system
+			})
 		}).catch (function (err) {
+			bar.interrupt('Error: ' + err)
 			console.error('Error:', err)
 			process.exit(1)
 		})
@@ -190,7 +201,6 @@ function writeReport(system, games, thumbs) {
  */
 function thumbnails(system) {
 	var thumbs = []
-	console.log(system)
 	var all = getData('https://api.github.com/repos/libretro/libretro-thumbnails/git/trees/master')
 	for (var i in all.tree) {
 		var entry = all.tree[i]
