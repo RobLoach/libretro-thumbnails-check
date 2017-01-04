@@ -15,7 +15,6 @@ var sort = require('sort-object')
 var Listr = require('listr')
 var exists = require('fs-exists-sync')
 
-
 // Set the GitHub access token below.
 var access = ''
 //var access = '?access_token='
@@ -120,24 +119,26 @@ function writeReport(system, games, thumbs) {
 		var entries = []
 		entries.push(['Name', 'Boxart', 'Snap', 'Title'])
 		for (var gameName in games) {
-			var game = games[gameName]
-			// Use the thumbnail file name.
-			gameName = cleanGameName(gameName)
+			if (games[gameName]) {
+				var game = games[gameName]
+				// Use the thumbnail file name.
+				gameName = cleanGameName(gameName)
 
-			var boxart = game.boxart ? '✓' : '✗'
-			var snap = game.snap ? '✓' : '✗'
-			var title = game.title ? '✓' : '✗'
+				var boxart = game.boxart ? '✓' : '✗'
+				var snap = game.snap ? '✓' : '✗'
+				var title = game.title ? '✓' : '✗'
 
-			if (game.boxart) {
-				count.boxart++
+				if (game.boxart) {
+					count.boxart++
+				}
+				if (game.snap) {
+					count.snap++
+				}
+				if (game.title) {
+					count.title++
+				}
+				entries.push([gameName, boxart, snap, title])
 			}
-			if (game.snap) {
-				count.snap++
-			}
-			if (game.title) {
-				count.title++
-			}
-			entries.push([gameName, boxart, snap, title])
 		}
 
 		var total = count.snap + count.boxart + count.title

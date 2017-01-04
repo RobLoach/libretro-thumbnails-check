@@ -1,9 +1,9 @@
 GCE - Vectrex
 
-Boxarts    41/44  93.18%
-Snaps      41/44  93.18%
-Titles     41/44  93.18%
-Total    123/132  93.18%
+Boxarts    42/44   95.45%
+Snaps      43/44   97.73%
+Titles     44/44  100.00%
+Total    129/132   97.73%
 
 Name                                                       Boxart  Snap  Title
 3D Crazy Coaster (USA)                                        ✓      ✓     ✓
@@ -23,12 +23,12 @@ Engine Analyzer (USA) (Proto)                                 ✓      ✓     �
 Fortress of Narzod (USA, Europe)                              ✓      ✓     ✓
 Heads-Up - Action Soccer (USA)                                ✓      ✓     ✓
 HyperChase - Auto Race (World)                                ✓      ✓     ✓
-Mail Plane (USA) (Proto) (05838962)                           ✗      ✗     ✗
-Mail Plane (USA) (Proto) (DA1AC0DB)                           ✗      ✗     ✗
+Mail Plane (USA) (Proto) (05838962)                           ✗      ✓     ✓
+Mail Plane (USA) (Proto) (DA1AC0DB)                           ✗      ✗     ✓
 Melody Master - Music Composition and Entertainment (USA)     ✓      ✓     ✓
 Mine Storm (World)                                            ✓      ✓     ✓
 Mine Storm II (USA) (Rev 2)                                   ✓      ✓     ✓
-Mr. Boston Clean Sweep (Europe)                               ✗      ✗     ✗
+Mr. Boston Clean Sweep (Europe)                               ✓      ✓     ✓
 Pitcher's Duel (USA) (Proto)                                  ✓      ✓     ✓
 Polar Rescue (USA)                                            ✓      ✓     ✓
 Polar Rescue (USA) (Beta)                                     ✓      ✓     ✓
