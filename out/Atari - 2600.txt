@@ -1,9 +1,9 @@
 Atari - 2600
 
-Boxarts    526/593  88.70%
-Snaps      552/593  93.09%
-Titles     552/593  93.09%
-Total    1630/1779  91.62%
+Boxarts    516/582  88.66%
+Snaps      542/582  93.13%
+Titles     542/582  93.13%
+Total    1600/1746  91.64%
 
 Name                                                                                   Boxart  Snap  Title
 3-D Tic-Tac-Toe (USA)                                                                     ✓      ✓     ✓
@@ -57,7 +57,6 @@ Blueprint (USA)                                                                 
 BMX Air Master (USA)                                                                      ✓      ✓     ✓
 Bobby geht Heim (Europe)                                                                  ✗      ✓     ✓
 Bobby is Going Home (USA)                                                                 ✗      ✗     ✗
-Bobby Is Going Home (USA)                                                                 ✓      ✓     ✓
 Boggle (USA) (Proto)                                                                      ✓      ✓     ✓
 Boing! (USA)                                                                              ✓      ✓     ✓
 Bowling (USA)                                                                             ✓      ✓     ✓
@@ -111,7 +110,6 @@ Crack'ed (USA) (Proto)                                                          
 Crackpots (USA)                                                                           ✓      ✓     ✓
 Crash Dive (USA)                                                                          ✓      ✓     ✓
 Crazy Climber (USA)                                                                       ✓      ✓     ✓
-Crazy Valet (USA)                                                                         ✓      ✓     ✓
 Cross Force (USA)                                                                         ✓      ✓     ✓
 Crossbow (USA)                                                                            ✓      ✓     ✓
 Crypts of Chaos (USA)                                                                     ✓      ✓     ✓
@@ -121,12 +119,10 @@ Custer's Revenge (USA)                                                          
 Dancing Plate (USA)                                                                       ✓      ✓     ✓
 Dark Cavern (USA)                                                                         ✓      ✓     ✓
 Dark Chambers (USA)                                                                       ✓      ✓     ✓
-Dark Mage (USA)                                                                           ✓      ✓     ✓
 Deadly Duck (USA)                                                                         ✓      ✓     ✓
 Death Trap (USA)                                                                          ✓      ✓     ✓
 Defender (USA)                                                                            ✓      ✓     ✓
 Demolition Herby (USA)                                                                    ✓      ✓     ✓
-Demon Attack (USA)                                                                        ✓      ✓     ✓
 Demon Attack (USA) (Rev 1)                                                                ✗      ✗     ✗
 Demons to Diamonds (USA)                                                                  ✓      ✓     ✓
 Depth Charge (USA) (Proto)                                                                ✗      ✗     ✗
@@ -226,7 +222,6 @@ Home Run - Baseball (USA)                                                       
 Human Cannonball - Cannon Man (USA)                                                       ✗      ✗     ✗
 Hunt _ Score - Memory Match (USA)                                                         ✗      ✗     ✗
 I Want my Mommy (USA)                                                                     ✗      ✗     ✗
-I Want My Mommy (USA)                                                                     ✓      ✓     ✓
 I.Q. 180 (USA)                                                                            ✓      ✗     ✗
 I.Q. Memory Teaser (Europe)                                                               ✗      ✓     ✓
 Ice Hockey (USA)                                                                          ✓      ✓     ✓
@@ -261,7 +256,6 @@ Kyphus (USA) (Proto)                                                            
 Lady In Wading (USA)                                                                      ✗      ✓     ✓
 Laser Blast (USA)                                                                         ✓      ✓     ✓
 Laser Gates (USA)                                                                         ✓      ✓     ✓
-Le Tunnel de L'Estace (Europe)                                                            ✗      ✗     ✗
 Lilly Adventure (Europe)                                                                  ✓      ✓     ✓
 Lilly Adventure (USA)                                                                     ✓      ✓     ✓
 Lochjaw (USA)                                                                             ✓      ✓     ✓
@@ -369,7 +363,6 @@ Pooyan (USA)                                                                    
 Popeye (USA)                                                                              ✓      ✓     ✓
 Porky's (USA)                                                                             ✓      ✓     ✓
 Pressure Cooker (USA)                                                                     ✓      ✓     ✓
-Pressure Gauge (USA)                                                                      ✓      ✓     ✓
 Private Eye (USA)                                                                         ✓      ✓     ✓
 Q-bert (USA)                                                                              ✓      ✓     ✓
 Q-bert's Qubes (USA)                                                                      ✗      ✓     ✓
@@ -413,7 +406,6 @@ Saboteur (USA) (Proto)                                                          
 Save Mary! (USA) (Proto)                                                                  ✓      ✓     ✓
 Save Our Ship (Europe)                                                                    ✓      ✓     ✓
 Save our Ship (USA)                                                                       ✗      ✗     ✗
-Save Our Ship (USA)                                                                       ✓      ✓     ✓
 Save the Whales (USA) (Proto)                                                             ✓      ✓     ✓
 Sea Battle (USA)                                                                          ✓      ✓     ✓
 Sea Hawk (USA)                                                                            ✓      ✓     ✓
@@ -526,7 +518,6 @@ SwordQuest - FireWorld (USA)                                                    
 SwordQuest - WaterWorld (USA)                                                             ✗      ✓     ✓
 Tac-Scan (USA)                                                                            ✓      ✓     ✓
 Tanks But no Tanks (USA)                                                                  ✗      ✗     ✗
-Tanks But No Tanks (USA)                                                                  ✓      ✓     ✓
 Tapeworm (USA)                                                                            ✓      ✓     ✓
 Tapper (USA)                                                                              ✓      ✓     ✓
 Tax Avoiders (USA)                                                                        ✓      ✓     ✓
@@ -562,7 +553,6 @@ Unknown Activision Game #2 (USA) (Proto)                                        
 Unknown Datatech Game (USA)                                                               ✗      ✗     ✗
 Up 'n Down (USA)                                                                          ✓      ✓     ✓
 Vanguard (USA)                                                                            ✓      ✓     ✓
-Vault Assault (USA)                                                                       ✓      ✓     ✓
 Vault Assault (USA) (Unl)                                                                 ✗      ✗     ✗
 Venetian Blinds Demo (USA)                                                                ✗      ✓     ✓
 Venture (USA)                                                                             ✓      ✓     ✓
@@ -593,7 +583,6 @@ Worm War I (USA)                                                                
 X-Man (USA)                                                                               ✓      ✓     ✓
 Xenophobe (USA)                                                                           ✓      ✓     ✓
 Xevious (USA) (Proto)                                                                     ✓      ✓     ✓
-Yahtzee (USA)                                                                             ✓      ✓     ✓
 Yars' Revenge (USA)                                                                       ✓      ✓     ✓
 Z-Tack (USA)                                                                              ✓      ✓     ✓
 Zaxxon (USA)                                                                              ✓      ✓     ✓

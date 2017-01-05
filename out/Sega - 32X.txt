@@ -1,9 +1,9 @@
 Sega - 32X
 
-Boxarts    52/60  86.67%
-Snaps      58/60  96.67%
-Titles     58/60  96.67%
-Total    168/180  93.33%
+Boxarts    53/60   88.33%
+Snaps      60/60  100.00%
+Titles     60/60  100.00%
+Total    173/180   96.11%
 
 Name                                                                Boxart  Snap  Title
 32X Sample Program - PWM Sound Demo (USA) (SDK Build)                  ✗      ✓     ✓
@@ -37,7 +37,7 @@ Mortal Kombat II (Europe)                                              ✓      
 Mortal Kombat II (Japan, USA)                                          ✓      ✓     ✓
 Motocross Championship (Europe)                                        ✓      ✓     ✓
 Motocross Championship (USA)                                           ✓      ✓     ✓
-NBA Jam - Tournament Edition (World)                                   ✓      ✗     ✗
+NBA Jam - Tournament Edition (World)                                   ✓      ✓     ✓
 NFL Quarterback Club (World)                                           ✓      ✓     ✓
 Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA)                      ✓      ✓     ✓
 Pitfall - The Mayan Adventure (USA)                                    ✓      ✓     ✓
@@ -48,7 +48,7 @@ Shadow Squadron ~ Stellar Assault (USA, Europe)                        ✓      
 Soulstar X (USA) (Proto)                                               ✓      ✓     ✓
 Space Harrier (Europe)                                                 ✓      ✓     ✓
 Space Harrier (Japan, USA)                                             ✓      ✓     ✓
-Star Trek - Starfleet Academy - Starship Bridge Simulator (USA)        ✗      ✗     ✗
+Star Trek - Starfleet Academy - Starship Bridge Simulator (USA)        ✓      ✓     ✓
 Star Wars Arcade (Europe)                                              ✓      ✓     ✓
 Star Wars Arcade (Japan)                                               ✓      ✓     ✓
 Star Wars Arcade (USA)                                                 ✓      ✓     ✓
