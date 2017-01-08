@@ -13,7 +13,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 1. Install all dependencies
   - `make`
   - `curl`
-  - [Node.js](https://nodejs.org/en/)
+  - [Node.js](https://nodejs.org/en/) >= 7
 
 2. Generate a [new GitHub Access Token](https://github.com/settings/tokens/new)
 3. Edit `bin/libretro-thumbnails-check.js` and add the access token in:
