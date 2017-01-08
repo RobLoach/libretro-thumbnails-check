@@ -1,13 +1,13 @@
 Coleco - ColecoVision
 
-Boxarts  141/173  81.50%
-Snaps    160/173  92.49%
-Titles   160/173  92.49%
-Total    461/519  88.82%
+Boxarts  167/173  96.53%
+Snaps    171/173  98.84%
+Titles   171/173  98.84%
+Total    509/519  98.07%
 
 Name                                                              Boxart  Snap  Title
 2010 - The Graphic Action Game (USA, Europe)                         ✓      ✓     ✓
-Activision Decathlon, The (USA)                                      ✗      ✗     ✗
+Activision Decathlon, The (USA)                                      ✓      ✓     ✓
 Adam's Musicbox Demo (USA) (Demo)                                    ✗      ✓     ✓
 Alcazar - The Forgotten Fortress (USA)                               ✓      ✓     ✓
 Alphabet Zoo (USA)                                                   ✓      ✓     ✓
@@ -22,20 +22,20 @@ Beamrider (USA)                                                      ✓      �
 Blockade Runner (USA)                                                ✓      ✓     ✓
 Boulder Dash (USA)                                                   ✓      ✓     ✓
 Brain Strainers (USA, Europe)                                        ✓      ✓     ✓
-Buck Rogers - Planet of Zoom (USA, Europe)                           ✗      ✗     ✗
+Buck Rogers - Planet of Zoom (USA, Europe)                           ✓      ✓     ✓
 Bump 'N' Jump (USA, Europe)                                          ✓      ✓     ✓
-Bump 'N' Jump (USA, Europe) (Beta)                                   ✗      ✓     ✓
-BurgerTime (USA, Europe)                                             ✗      ✓     ✓
-BurgerTime (USA, Europe) (Beta)                                      ✗      ✓     ✓
+Bump 'N' Jump (USA, Europe) (Beta)                                   ✓      ✓     ✓
+BurgerTime (USA, Europe)                                             ✓      ✓     ✓
+BurgerTime (USA, Europe) (Beta)                                      ✓      ✓     ✓
 Cabbage Patch Kids - Adventures in the Park (USA, Europe)            ✓      ✓     ✓
-Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta)     ✗      ✓     ✓
+Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta)     ✓      ✓     ✓
 Cabbage Patch Kids Picture Show (USA, Europe)                        ✓      ✓     ✓
 Campaign '84 (USA)                                                   ✓      ✓     ✓
 Carnival (USA, Europe)                                               ✓      ✓     ✓
 Centipede (USA)                                                      ✓      ✓     ✓
 Choplifter (USA, Europe)                                             ✓      ✓     ✓
 Chuck Norris - Super Kicks (USA)                                     ✓      ✓     ✓
-ColecoVision Monitor Test (USA, Europe)                              ✗      ✓     ✓
+ColecoVision Monitor Test (USA, Europe)                              ✓      ✓     ✓
 Congo Bongo (USA, Europe)                                            ✓      ✓     ✓
 Cosmic Avenger (USA, Europe)                                         ✓      ✓     ✓
 Cosmic Crisis (USA)                                                  ✓      ✓     ✓
@@ -45,24 +45,24 @@ Defender (USA)                                                       ✓      �
 Destructor (USA, Europe)                                             ✓      ✓     ✓
 Dig Dug (USA) (Proto)                                                ✓      ✓     ✓
 Donkey Kong (USA, Europe)                                            ✓      ✓     ✓
-Donkey Kong (USA, Europe) (Adam)                                     ✗      ✓     ✓
+Donkey Kong (USA, Europe) (Adam)                                     ✓      ✓     ✓
 Donkey Kong Jr (USA, Europe)                                         ✓      ✓     ✓
 Dr. Seuss's Fix-Up the Mix-Up Puzzler (USA, Europe)                  ✗      ✗     ✗
-Dragonfire (USA)                                                     ✗      ✗     ✗
+Dragonfire (USA)                                                     ✓      ✓     ✓
 Dukes of Hazzard, The (USA, Europe)                                  ✓      ✓     ✓
-Escape from the MindMaster (USA) (Proto)                             ✗      ✗     ✗
+Escape from the MindMaster (USA) (Proto)                             ✓      ✓     ✓
 Evolution (USA)                                                      ✓      ✓     ✓
 Facemaker (USA)                                                      ✓      ✓     ✓
 Fall Guy (Europe) (Proto)                                            ✓      ✓     ✓
 Fathom (USA)                                                         ✓      ✓     ✓
-Final Test Cartridge (USA)                                           ✗      ✓     ✓
+Final Test Cartridge (USA)                                           ✓      ✓     ✓
 Flipper Slipper (USA)                                                ✓      ✓     ✓
 Fortune Builder (USA, Europe)                                        ✓      ✓     ✓
 Fraction Fever (USA)                                                 ✓      ✓     ✓
 Frantic Freddy (USA)                                                 ✓      ✓     ✓
-Frenzy (USA, Europe)                                                 ✗      ✗     ✗
+Frenzy (USA, Europe)                                                 ✓      ✓     ✓
 Frogger (USA)                                                        ✓      ✓     ✓
-Frogger II - ThreeeDeep! (USA)                                       ✗      ✗     ✗
+Frogger II - ThreeeDeep! (USA)                                       ✓      ✓     ✓
 From Out of the Jungle - Tarzan (USA)                                ✗      ✗     ✗
 Frontline (USA, Europe)                                              ✓      ✓     ✓
 Frontline (USA, Europe) (Alt 1)                                      ✗      ✓     ✓
@@ -75,35 +75,35 @@ Gyruss (USA)                                                         ✓      �
 H.E.R.O (USA)                                                        ✓      ✓     ✓
 Heist, The (USA)                                                     ✓      ✓     ✓
 Illusions (USA, Europe)                                              ✓      ✓     ✓
-It's Only Rock 'N' Roll (USA)                                        ✗      ✗     ✗
+It's Only Rock 'N' Roll (USA)                                        ✓      ✓     ✓
 James Bond (USA)                                                     ✓      ✓     ✓
 Joust (USA) (Proto)                                                  ✓      ✓     ✓
 Juke Box (USA)                                                       ✓      ✓     ✓
 Jumpman Junior (USA)                                                 ✓      ✓     ✓
 Jungle Hunt (USA)                                                    ✓      ✓     ✓
-Ken Uston Blackjack-Poker (USA, Europe)                              ✗      ✗     ✗
+Ken Uston Blackjack-Poker (USA, Europe)                              ✓      ✓     ✓
 Keystone Kapers (USA)                                                ✓      ✓     ✓
 Lady Bug (USA, Europe)                                               ✓      ✓     ✓
-Learning with Leeper (USA)                                           ✗      ✗     ✗
+Learning with Leeper (USA)                                           ✓      ✓     ✓
 Linking Logic (USA)                                                  ✓      ✓     ✓
 Logic Levels (USA)                                                   ✓      ✓     ✓
 Looping (USA, Europe)                                                ✓      ✓     ✓
 M.A.S.H (Europe)                                                     ✓      ✓     ✓
 Memory Manor (USA)                                                   ✓      ✓     ✓
 Meteoric Shower (USA)                                                ✓      ✓     ✓
-Miner 2049er Starring Bounty Bob (USA)                               ✗      ✓     ✓
+Miner 2049er Starring Bounty Bob (USA)                               ✓      ✓     ✓
 Monkey Academy (USA, Europe)                                         ✓      ✓     ✓
-Monkey Academy (USA, Europe) (Beta)                                  ✗      ✓     ✓
+Monkey Academy (USA, Europe) (Beta)                                  ✓      ✓     ✓
 Montezuma's Revenge (USA)                                            ✓      ✓     ✓
 Moon Patrol (USA) (Proto)                                            ✓      ✓     ✓
 Moonsweeper (USA)                                                    ✓      ✓     ✓
 Motocross Racer (USA)                                                ✓      ✓     ✓
-Motocross Racer (USA) (Alt 1)                                        ✗      ✓     ✓
+Motocross Racer (USA) (Alt 1)                                        ✓      ✓     ✓
 Mountain King (USA)                                                  ✓      ✓     ✓
-Mountain King (USA) (Alt 1)                                          ✗      ✓     ✓
+Mountain King (USA) (Alt 1)                                          ✓      ✓     ✓
 Mousetrap (USA, Europe)                                              ✓      ✓     ✓
 Mr. Do! (USA, Europe)                                                ✓      ✓     ✓
-Mr. Do!'s Castle (USA)                                               ✗      ✗     ✗
+Mr. Do!'s Castle (USA)                                               ✓      ✓     ✓
 Ms. Space Fury (USA) (Unl)                                           ✓      ✓     ✓
 Nova Blast (USA)                                                     ✓      ✓     ✓
 Oil's Well (USA)                                                     ✓      ✓     ✓
@@ -118,15 +118,15 @@ Popeye (USA)                                                         ✓      �
 Porky's (USA) (Proto)                                                ✓      ✓     ✓
 Power Lords - Quest for Volcan (USA) (Proto)                         ✓      ✓     ✓
 Q-bert (USA)                                                         ✓      ✓     ✓
-Q-bert (USA) (Alt 1)                                                 ✗      ✓     ✓
-Q-Bert's Qubes (USA)                                                 ✗      ✗     ✗
+Q-bert (USA) (Alt 1)                                                 ✓      ✓     ✓
+Q-Bert's Qubes (USA)                                                 ✓      ✓     ✓
 Quest for Quintana Roo (USA)                                         ✓      ✓     ✓
-Quest for Quintana Roo (USA) (Alt 1)                                 ✗      ✓     ✓
+Quest for Quintana Roo (USA) (Alt 1)                                 ✓      ✓     ✓
 River Raid (USA)                                                     ✓      ✓     ✓
 Robin Hood (USA)                                                     ✓      ✓     ✓
 Roc 'N Rope (USA, Europe)                                            ✓      ✓     ✓
 Rock 'N' Bolt (USA)                                                  ✓      ✓     ✓
-Rock 'N' Bolt (USA) (Alt 1)                                          ✗      ✓     ✓
+Rock 'N' Bolt (USA) (Alt 1)                                          ✓      ✓     ✓
 Rocky Super-Action Boxing (USA, Europe)                              ✓      ✓     ✓
 Rolloverture (USA)                                                   ✓      ✓     ✓
 Sammy Lightfoot (USA)                                                ✓      ✓     ✓
@@ -152,7 +152,7 @@ Super Action Baseball (USA, Europe)                                  ✓      �
 Super Action Football (USA, Europe)                                  ✓      ✓     ✓
 Super Action Soccer (USA, Europe)                                    ✓      ✓     ✓
 Super Cobra (USA)                                                    ✓      ✓     ✓
-Super Cobra (USA) (Alt 1)                                            ✗      ✓     ✓
+Super Cobra (USA) (Alt 1)                                            ✓      ✓     ✓
 Super Controller Tester (USA)                                        ✓      ✓     ✓
 Super Cross Force (USA)                                              ✓      ✓     ✓
 Super DK! (USA) (Proto) (Unl)                                        ✓      ✓     ✓
