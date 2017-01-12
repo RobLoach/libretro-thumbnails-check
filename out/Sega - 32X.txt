@@ -1,12 +1,12 @@
 Sega - 32X
 
-Boxarts    53/60   88.33%
+Boxarts    60/60  100.00%
 Snaps      60/60  100.00%
 Titles     60/60  100.00%
-Total    173/180   96.11%
+Total    180/180  100.00%
 
 Name                                                                Boxart  Snap  Title
-32X Sample Program - PWM Sound Demo (USA) (SDK Build)                  ✗      ✓     ✓
+32X Sample Program - PWM Sound Demo (USA) (SDK Build)                  ✓      ✓     ✓
 After Burner Complete (Europe)                                         ✓      ✓     ✓
 After Burner Complete ~ After Burner (Japan, USA)                      ✓      ✓     ✓
 Amazing Spider-Man, The - Web of Fire (USA)                            ✓      ✓     ✓
@@ -25,12 +25,12 @@ Golf Magazine 36 Great Holes Starring Fred Couples (Europe)            ✓      
 Golf Magazine 36 Great Holes Starring Fred Couples (Japan, USA)        ✓      ✓     ✓
 Knuckles' Chaotix (Europe)                                             ✓      ✓     ✓
 Kolibri (USA, Europe)                                                  ✓      ✓     ✓
-Mars Check Program Version 1.0 (Japan, USA) (SDK Build) (Set 1)        ✗      ✓     ✓
-Mars Check Program Version 1.0 (Japan, USA) (SDK Build) (Set 2)        ✗      ✓     ✓
-Mars Sample Program - Gnu Sierra (Japan, USA) (SDK Build)              ✗      ✓     ✓
-Mars Sample Program - Pharaoh (Japan, USA) (SDK Build)                 ✗      ✓     ✓
-Mars Sample Program - Runlength Mode Test (Japan, USA) (SDK Build)     ✗      ✓     ✓
-Mars Sample Program - Texture Test (Japan, USA) (SDK Build)            ✗      ✓     ✓
+Mars Check Program Version 1.0 (Japan, USA) (SDK Build) (Set 1)        ✓      ✓     ✓
+Mars Check Program Version 1.0 (Japan, USA) (SDK Build) (Set 2)        ✓      ✓     ✓
+Mars Sample Program - Gnu Sierra (Japan, USA) (SDK Build)              ✓      ✓     ✓
+Mars Sample Program - Pharaoh (Japan, USA) (SDK Build)                 ✓      ✓     ✓
+Mars Sample Program - Runlength Mode Test (Japan, USA) (SDK Build)     ✓      ✓     ✓
+Mars Sample Program - Texture Test (Japan, USA) (SDK Build)            ✓      ✓     ✓
 Metal Head (Europe) (En,Ja)                                            ✓      ✓     ✓
 Metal Head (Japan, USA) (En,Ja)                                        ✓      ✓     ✓
 Mortal Kombat II (Europe)                                              ✓      ✓     ✓
