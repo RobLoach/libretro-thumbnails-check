@@ -45,6 +45,7 @@ function processSystem(system) {
 			// Only report on No-Intro and custom DATs.
 			//'libretro-database/metadat/goodtools/' + system + '.dat',
 			//'libretro-database/metadat/libretro-dats/' + system + '.dat',
+			'libretro-database/metadat/redump/' + system + '.dat',
 			'libretro-database/metadat/no-intro/' + system + '.dat',
 			'libretro-database/dat/' + system + '.dat'
 		]
