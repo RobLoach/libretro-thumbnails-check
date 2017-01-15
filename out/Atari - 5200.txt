@@ -1,15 +1,15 @@
 Atari - 5200
 
-Boxarts   74/106   69.81%
+Boxarts   89/106   83.96%
 Snaps    106/106  100.00%
 Titles   106/106  100.00%
-Total    286/318   89.94%
+Total    301/318   94.65%
 
 Name                                                      Boxart  Snap  Title
 5200 Menu (USA) (Proto)                                      ✗      ✓     ✓
 A.E. (USA) (Proto)                                           ✗      ✓     ✓
 Activision Decathlon, The (USA)                              ✓      ✓     ✓
-Asteroids (USA) (Proto)                                      ✗      ✓     ✓
+Asteroids (USA) (Proto)                                      ✓      ✓     ✓
 Astro Chase (USA)                                            ✓      ✓     ✓
 Atari PAM - Pete's Test (USA)                                ✗      ✓     ✓
 Atari PAM Diagnostics (USA) (v2.0)                           ✗      ✓     ✓
@@ -37,8 +37,8 @@ David Crane's Pitfall II - Lost Caverns (USA)                ✓      ✓     �
 Defender (USA)                                               ✓      ✓     ✓
 Dig Dug (USA)                                                ✓      ✓     ✓
 Dreadnaught Factor, The (USA)                                ✓      ✓     ✓
-Final Legacy (USA) (Proto)                                   ✗      ✓     ✓
-Frisky Tom (USA) (Proto)                                     ✗      ✓     ✓
+Final Legacy (USA) (Proto)                                   ✓      ✓     ✓
+Frisky Tom (USA) (Proto)                                     ✓      ✓     ✓
 Frogger (USA)                                                ✓      ✓     ✓
 Frogger II - Threeedeep! (USA)                               ✓      ✓     ✓
 Galaxian (USA)                                               ✓      ✓     ✓
@@ -55,14 +55,14 @@ Kaboom! (USA)                                                ✓      ✓     �
 Kangaroo (USA)                                               ✓      ✓     ✓
 Keystone Kapers (USA)                                        ✓      ✓     ✓
 Koffi - Yellow Kopter (USA) (Unl)                            ✓      ✓     ✓
-Last Starfighter, The (USA) (Proto)                          ✗      ✓     ✓
-Looney Tunes Hotel (USA) (Proto)                             ✗      ✓     ✓
+Last Starfighter, The (USA) (Proto)                          ✓      ✓     ✓
+Looney Tunes Hotel (USA) (Proto)                             ✓      ✓     ✓
 Mario Bros. (USA)                                            ✓      ✓     ✓
-Meebzork (USA) (Proto)                                       ✗      ✓     ✓
+Meebzork (USA) (Proto)                                       ✓      ✓     ✓
 MegaMania (USA)                                              ✓      ✓     ✓
 Meteorites (USA)                                             ✓      ✓     ✓
 Microgammon SB (USA) (Proto)                                 ✗      ✓     ✓
-Millipede (USA) (Proto)                                      ✗      ✓     ✓
+Millipede (USA) (Proto)                                      ✓      ✓     ✓
 Miner 2049er Starring Bounty Bob (USA)                       ✓      ✓     ✓
 Miniature Golf (USA) (Proto)                                 ✗      ✓     ✓
 Missile Command (USA)                                        ✓      ✓     ✓
@@ -80,19 +80,19 @@ Q-bert (USA)                                                 ✓      ✓     �
 QIX (USA)                                                    ✗      ✓     ✓
 Quest for Quintana Roo (USA)                                 ✓      ✓     ✓
 RealSports Baseball (USA)                                    ✓      ✓     ✓
-RealSports Basketball (USA)                                  ✗      ✓     ✓
-RealSports Basketball (USA) (82-11-05) (Proto)               ✗      ✓     ✓
-RealSports Basketball (USA) (83-10-31) (Proto)               ✗      ✓     ✓
+RealSports Basketball (USA)                                  ✓      ✓     ✓
+RealSports Basketball (USA) (82-11-05) (Proto)               ✓      ✓     ✓
+RealSports Basketball (USA) (83-10-31) (Proto)               ✓      ✓     ✓
 RealSports Football (USA)                                    ✓      ✓     ✓
 RealSports Soccer (USA)                                      ✓      ✓     ✓
 RealSports Tennis (USA)                                      ✓      ✓     ✓
 Rescue on Fractalus! (USA)                                   ✓      ✓     ✓
-Road Runner (USA) (Proto)                                    ✗      ✓     ✓
+Road Runner (USA) (Proto)                                    ✓      ✓     ✓
 Robotron 2084 (USA)                                          ✓      ✓     ✓
 Space Dungeon (USA)                                          ✓      ✓     ✓
 Space Invaders (USA)                                         ✓      ✓     ✓
 Space Shuttle - A Journey Into Space (USA)                   ✓      ✓     ✓
-Spitfire (USA) (Proto)                                       ✗      ✓     ✓
+Spitfire (USA) (Proto)                                       ✓      ✓     ✓
 Sport Goofy (USA) (Proto)                                    ✗      ✓     ✓
 Star Raiders (USA)                                           ✓      ✓     ✓
 Star Trek - Strategic Operations Simulator (USA)             ✓      ✓     ✓
@@ -103,11 +103,11 @@ Super Breakout (USA)                                         ✓      ✓     �
 Super Cobra (USA)                                            ✓      ✓     ✓
 Super Pac-Man (USA) (Proto)                                  ✓      ✓     ✓
 Tempest (USA) (Proto)                                        ✓      ✓     ✓
-Track and Field (USA) (Proto)                                ✗      ✓     ✓
+Track and Field (USA) (Proto)                                ✓      ✓     ✓
 Vanguard (USA)                                               ✓      ✓     ✓
 Wizard of Wor (USA)                                          ✓      ✓     ✓
-Xari Arena (USA) (Proto)                                     ✗      ✓     ✓
-Xevious (USA) (Proto)                                        ✗      ✓     ✓
+Xari Arena (USA) (Proto)                                     ✓      ✓     ✓
+Xevious (USA) (Proto)                                        ✓      ✓     ✓
 Yellow Submarine (USA) (Demo)                                ✗      ✓     ✓
 Zaxxon (USA)                                                 ✓      ✓     ✓
 Zenji (USA)                                                  ✓      ✓     ✓
