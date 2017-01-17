@@ -1,9 +1,9 @@
 Sony - PlayStation
 
-Boxarts   586/8866  6.61%
-Snaps     199/8866  2.24%
-Titles    211/8866  2.38%
-Total    996/26598  3.74%
+Boxarts    594/8866  6.70%
+Snaps      199/8866  2.24%
+Titles     211/8866  2.38%
+Total    1004/26598  3.77%
 
 Name                                                                                                           Boxart  Snap  Title
 ...Iru! (Japan)                                                                                                   ✗      ✗     ✗
@@ -325,7 +325,7 @@ Ao no Rokugou - Antarctica (Japan) (Disc 1)                                     
 Ao no Rokugou - Antarctica (Japan) (Disc 2)                                                                       ✗      ✗     ✗
 Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)                                                             ✗      ✗     ✗
 Ape Escape - La Invasion de los Monos (Spain)                                                                     ✗      ✗     ✗
-Ape Escape (Europe)                                                                                               ✗      ✗     ✗
+Ape Escape (Europe)                                                                                               ✓      ✗     ✗
 Ape Escape (Europe) (Demo)                                                                                        ✗      ✗     ✗
 Ape Escape (France)                                                                                               ✗      ✗     ✗
 Ape Escape (Germany)                                                                                              ✓      ✗     ✗
@@ -1717,7 +1717,7 @@ Digimon World (Germany)                                                         
 Digimon World (Spain)                                                                                             ✗      ✗     ✗
 Digimon World (USA)                                                                                               ✗      ✗     ✗
 Digimon World 2 (USA)                                                                                             ✗      ✗     ✗
-Digimon World 2003 (Europe) (En,Fr,De,Es,It)                                                                      ✗      ✗     ✗
+Digimon World 2003 (Europe) (En,Fr,De,Es,It)                                                                      ✓      ✗     ✗
 Digimon World 3 (USA)                                                                                             ✗      ✗     ✗
 DigimonWorld - Digital Card Arena (Japan)                                                                         ✗      ✗     ✗
 DigimonWorld - Digital Card Battle (Japan)                                                                        ✗      ✗     ✗
@@ -1890,7 +1890,7 @@ Disney's Skattkammarplaneten (Sweden)                                           
 Disney's Spelen met Winnie de Poeh en zijn Vriendjes! (Netherlands)                                               ✗      ✗     ✗
 Disney's Story Studio - Mulan (Europe)                                                                            ✗      ✗     ✗
 Disney's Story Studio - Mulan (USA)                                                                               ✗      ✗     ✗
-Disney's Tarzan (Europe)                                                                                          ✗      ✗     ✗
+Disney's Tarzan (Europe)                                                                                          ✓      ✗     ✗
 Disney's Tarzan (Japan)                                                                                           ✗      ✗     ✗
 Disney's Tarzan (Netherlands)                                                                                     ✗      ✗     ✗
 Disney's Tarzan (Sweden)                                                                                          ✗      ✗     ✗
@@ -3082,7 +3082,7 @@ Gex (Europe)                                                                    
 Gex (USA)                                                                                                         ✓      ✓     ✓
 Gex 3 - Deep Cover Gecko (USA)                                                                                    ✓      ✓     ✓
 Gex 3D - Enter the Gecko (Europe)                                                                                 ✓      ✗     ✗
-Ghost in the Shell (Europe)                                                                                       ✗      ✗     ✗
+Ghost in the Shell (Europe)                                                                                       ✓      ✗     ✗
 Ghost in the Shell (France)                                                                                       ✗      ✗     ✗
 Ghost in the Shell (Germany)                                                                                      ✗      ✗     ✗
 Ghost in the Shell (Germany) (En)                                                                                 ✗      ✗     ✗
@@ -4083,7 +4083,7 @@ Krazy Ivan (Germany) (En)                                                       
 Krazy Ivan (Italy)                                                                                                ✗      ✗     ✗
 Krazy Ivan (Japan)                                                                                                ✗      ✗     ✗
 Krazy Ivan (USA)                                                                                                  ✗      ✗     ✗
-Kula World (Europe)                                                                                               ✗      ✗     ✗
+Kula World (Europe)                                                                                               ✓      ✗     ✗
 KulaQuest (Japan)                                                                                                 ✗      ✗     ✗
 KulaQuest (Japan) (Taikenban)                                                                                     ✗      ✗     ✗
 Kunoichi Torimonochou (Japan)                                                                                     ✗      ✗     ✗
@@ -6290,7 +6290,7 @@ Rescue Heroes - Molten Menace (USA)                                             
 Rescue Shot (Europe) (En,Fr,De,Es,It)                                                                             ✗      ✗     ✗
 Rescue Shot Bubibo (Japan)                                                                                        ✗      ✗     ✗
 Resident Evil - Director's Cut - Dual Shock Ver. (USA)                                                            ✓      ✓     ✓
-Resident Evil - Director's Cut (Europe)                                                                           ✗      ✗     ✗
+Resident Evil - Director's Cut (Europe)                                                                           ✓      ✗     ✗
 Resident Evil - Director's Cut (France)                                                                           ✗      ✗     ✗
 Resident Evil - Director's Cut (Germany)                                                                          ✓      ✗     ✗
 Resident Evil - Director's Cut (USA)                                                                              ✗      ✗     ✗
@@ -7275,7 +7275,7 @@ Star Wars - Episode I - Jedi Power Battles (France)                             
 Star Wars - Episode I - Jedi Power Battles (Germany)                                                              ✗      ✗     ✗
 Star Wars - Episode I - Jedi Power Battles (USA)                                                                  ✗      ✗     ✗
 Star Wars - Episode I - La Menace Fantome (France)                                                                ✗      ✗     ✗
-Star Wars - Episode I - The Phantom Menace (Europe)                                                               ✗      ✗     ✗
+Star Wars - Episode I - The Phantom Menace (Europe)                                                               ✓      ✗     ✗
 Star Wars - Episode I - The Phantom Menace (Europe) (Demo)                                                        ✗      ✗     ✗
 Star Wars - Episode I - The Phantom Menace (Japan)                                                                ✗      ✗     ✗
 Star Wars - Episode I - The Phantom Menace (USA)                                                                  ✗      ✗     ✗
@@ -7722,7 +7722,7 @@ Tekken (Europe)                                                                 
 Tekken (Japan) (v1.0)                                                                                             ✗      ✗     ✗
 Tekken (Japan) (v1.1)                                                                                             ✗      ✗     ✗
 Tekken (USA)                                                                                                      ✗      ✗     ✗
-Tekken 2 (Europe)                                                                                                 ✗      ✗     ✗
+Tekken 2 (Europe)                                                                                                 ✓      ✗     ✗
 Tekken 2 (Japan)                                                                                                  ✗      ✗     ✗
 Tekken 2 (Japan) (v1.0)                                                                                           ✗      ✗     ✗
 Tekken 2 (Japan) (v1.1)                                                                                           ✗      ✗     ✗
