@@ -1,9 +1,9 @@
 Nintendo - GameCube
 
-Boxarts  0/1748  0.00%
-Snaps    0/1748  0.00%
-Titles   0/1748  0.00%
-Total    0/5244  0.00%
+Boxarts  1/1748  0.06%
+Snaps    1/1748  0.06%
+Titles   3/1748  0.17%
+Total    5/5244  0.10%
 
 Name                                                                                                                                            Boxart  Snap  Title
 007 - Agent im Kreuzfeuer (Germany)                                                                                                                ✗      ✗     ✗
@@ -1474,10 +1474,10 @@ Super Bust-A-Move All Stars (Europe) (En,Fr,De,Es,It)                           
 Super Mario Stadium - Miracle Baseball (Japan)                                                                                                     ✗      ✗     ✗
 Super Mario Strikers (Japan)                                                                                                                       ✗      ✗     ✗
 Super Mario Strikers (USA)                                                                                                                         ✗      ✗     ✗
-Super Mario Sunshine (Europe) (En,Fr,De,Es,It)                                                                                                     ✗      ✗     ✗
-Super Mario Sunshine (Japan)                                                                                                                       ✗      ✗     ✗
+Super Mario Sunshine (Europe) (En,Fr,De,Es,It)                                                                                                     ✗      ✗     ✓
+Super Mario Sunshine (Japan)                                                                                                                       ✗      ✗     ✓
 Super Mario Sunshine (Korea)                                                                                                                       ✗      ✗     ✗
-Super Mario Sunshine (USA)                                                                                                                         ✗      ✗     ✗
+Super Mario Sunshine (USA)                                                                                                                         ✓      ✓     ✓
 Super Monkey Ball (Europe) (En,Fr,De,Es,It)                                                                                                        ✗      ✗     ✗
 Super Monkey Ball (Japan)                                                                                                                          ✗      ✗     ✗
 Super Monkey Ball (USA)                                                                                                                            ✗      ✗     ✗

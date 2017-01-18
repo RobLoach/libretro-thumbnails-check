@@ -1,14 +1,14 @@
 Coleco - ColecoVision
 
-Boxarts  167/173  96.53%
-Snaps    171/173  98.84%
-Titles   171/173  98.84%
-Total    509/519  98.07%
+Boxarts  173/173  100.00%
+Snaps    173/173  100.00%
+Titles   173/173  100.00%
+Total    519/519  100.00%
 
 Name                                                              Boxart  Snap  Title
 2010 - The Graphic Action Game (USA, Europe)                         ✓      ✓     ✓
 Activision Decathlon, The (USA)                                      ✓      ✓     ✓
-Adam's Musicbox Demo (USA) (Demo)                                    ✗      ✓     ✓
+Adam's Musicbox Demo (USA) (Demo)                                    ✓      ✓     ✓
 Alcazar - The Forgotten Fortress (USA)                               ✓      ✓     ✓
 Alphabet Zoo (USA)                                                   ✓      ✓     ✓
 Amazing Bumpman (USA)                                                ✓      ✓     ✓
@@ -17,7 +17,7 @@ Aquattack (USA)                                                      ✓      �
 Artillery Duel (USA)                                                 ✓      ✓     ✓
 BC's Quest for Tires (USA, Europe)                                   ✓      ✓     ✓
 BC's Quest for Tires II - Grog's Revenge (USA, Europe)               ✓      ✓     ✓
-BC's Quest for Tires II - Grog's Revenge (USA, Europe) (Alt 1)       ✗      ✓     ✓
+BC's Quest for Tires II - Grog's Revenge (USA, Europe) (Alt 1)       ✓      ✓     ✓
 Beamrider (USA)                                                      ✓      ✓     ✓
 Blockade Runner (USA)                                                ✓      ✓     ✓
 Boulder Dash (USA)                                                   ✓      ✓     ✓
@@ -47,7 +47,7 @@ Dig Dug (USA) (Proto)                                                ✓      �
 Donkey Kong (USA, Europe)                                            ✓      ✓     ✓
 Donkey Kong (USA, Europe) (Adam)                                     ✓      ✓     ✓
 Donkey Kong Jr (USA, Europe)                                         ✓      ✓     ✓
-Dr. Seuss's Fix-Up the Mix-Up Puzzler (USA, Europe)                  ✗      ✗     ✗
+Dr. Seuss's Fix-Up the Mix-Up Puzzler (USA, Europe)                  ✓      ✓     ✓
 Dragonfire (USA)                                                     ✓      ✓     ✓
 Dukes of Hazzard, The (USA, Europe)                                  ✓      ✓     ✓
 Escape from the MindMaster (USA) (Proto)                             ✓      ✓     ✓
@@ -63,11 +63,11 @@ Frantic Freddy (USA)                                                 ✓      �
 Frenzy (USA, Europe)                                                 ✓      ✓     ✓
 Frogger (USA)                                                        ✓      ✓     ✓
 Frogger II - ThreeeDeep! (USA)                                       ✓      ✓     ✓
-From Out of the Jungle - Tarzan (USA)                                ✗      ✗     ✗
+From Out of the Jungle - Tarzan (USA)                                ✓      ✓     ✓
 Frontline (USA, Europe)                                              ✓      ✓     ✓
-Frontline (USA, Europe) (Alt 1)                                      ✗      ✓     ✓
+Frontline (USA, Europe) (Alt 1)                                      ✓      ✓     ✓
 Galaxian (USA)                                                       ✓      ✓     ✓
-Galaxian (USA) (Alt 1)                                               ✗      ✓     ✓
+Galaxian (USA) (Alt 1)                                               ✓      ✓     ✓
 Gateway to Apshai (USA)                                              ✓      ✓     ✓
 Gorf (USA, Europe)                                                   ✓      ✓     ✓
 Gust Buster (USA)                                                    ✓      ✓     ✓

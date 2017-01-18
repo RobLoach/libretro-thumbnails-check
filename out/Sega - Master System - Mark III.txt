@@ -1,16 +1,16 @@
 Sega - Master System - Mark III
 
-Boxarts    527/539  97.77%
-Snaps      475/539  88.13%
-Titles     475/539  88.13%
-Total    1477/1617  91.34%
+Boxarts    534/539  99.07%
+Snaps      487/539  90.35%
+Titles     487/539  90.35%
+Total    1508/1617  93.26%
 
 Name                                                                                Boxart  Snap  Title
 20 em 1 (Brazil)                                                                       ✓      ✓     ✓
 4 PAK All Action (Australia) (Unl)                                                     ✓      ✗     ✗
 94 Super World Cup Soccer (Korea)                                                      ✓      ✗     ✗
 Ace of Aces (Europe)                                                                   ✓      ✓     ✓
-Action Fighter (Europe) (Beta)                                                         ✗      ✗     ✗
+Action Fighter (Europe) (Beta)                                                         ✓      ✓     ✓
 Action Fighter (Japan, Europe) (Rev 1)                                                 ✓      ✓     ✓
 Action Fighter (USA, Europe) (Rev 2)                                                   ✓      ✓     ✓
 Addams Family, The (Europe)                                                            ✓      ✓     ✓
@@ -38,7 +38,7 @@ Alien Syndrome (USA, Europe)                                                    
 Altered Beast (USA, Europe)                                                            ✓      ✓     ✓
 American Baseball (Europe)                                                             ✓      ✓     ✓
 American Pro Football (Europe)                                                         ✓      ✓     ✓
-Ancient Ys Vanished Omen (USA) (Ja) (Demo)                                             ✗      ✗     ✗
+Ancient Ys Vanished Omen (USA) (Ja) (Demo)                                             ✓      ✗     ✗
 Andre Agassi Tennis (Europe)                                                           ✓      ✓     ✓
 Anmitsu Hime (Japan)                                                                   ✓      ✓     ✓
 Arcade Smash Hits (Europe)                                                             ✓      ✓     ✓
@@ -139,8 +139,8 @@ Dynamite Headdy (Brazil)                                                        
 E-SWAT (USA, Europe) (Beta 1)                                                          ✗      ✗     ✗
 E-SWAT (USA, Europe) (Beta 2)                                                          ✗      ✗     ✗
 E-SWAT (USA, Europe) (Beta 3)                                                          ✗      ✗     ✗
-E-SWAT (USA, Europe) (Easy Version)                                                    ✗      ✗     ✗
-E-SWAT (USA, Europe) (Hard Version)                                                    ✗      ✗     ✗
+E-SWAT (USA, Europe) (Easy Version)                                                    ✓      ✓     ✓
+E-SWAT (USA, Europe) (Hard Version)                                                    ✓      ✓     ✓
 E.I. - Exa Innova (Korea)                                                              ✓      ✗     ✗
 Eagles 5 (Korea)                                                                       ✓      ✗     ✗
 Earthworm Jim (Brazil)                                                                 ✓      ✓     ✓
@@ -299,8 +299,8 @@ Monica no Castelo do Dragao (Brazil)                                            
 Monopoly (Europe)                                                                      ✓      ✓     ✓
 Monopoly (Unknown) (Beta)                                                              ✓      ✓     ✓
 Monopoly (USA)                                                                         ✓      ✓     ✓
-Montezuma's Revenge featuring Panama Joe (USA)                                         ✗      ✗     ✗
-Montezuma's Revenge featuring Panama Joe (USA) (Beta)                                  ✗      ✗     ✗
+Montezuma's Revenge featuring Panama Joe (USA)                                         ✓      ✓     ✓
+Montezuma's Revenge featuring Panama Joe (USA) (Beta)                                  ✓      ✓     ✓
 Mopiranger (Korea) (Unl)                                                               ✓      ✗     ✗
 Mortal Kombat (Europe)                                                                 ✓      ✓     ✓
 Mortal Kombat 3 (Brazil)                                                               ✓      ✓     ✓
@@ -359,11 +359,11 @@ Putt _ Putter (Europe) (Beta)                                                   
 Puznic (Korea) (Unl)                                                                   ✓      ✗     ✗
 Quartet (USA, Europe)                                                                  ✓      ✓     ✓
 Quest for the Shaven Yak Starring Ren Hoek _ Stimpy (Brazil)                           ✓      ✓     ✓
-R-Type (Unknown) (Beta)                                                                ✓      ✗     ✗
+R-Type (Unknown) (Beta)                                                                ✓      ✓     ✓
 R-Type (World)                                                                         ✓      ✓     ✓
 R.C. Grand Prix (USA, Europe)                                                          ✓      ✓     ✓
 R.C. Grand Prix (USA, Europe) (Beta)                                                   ✓      ✓     ✓
-Rainbow Islands - Story of the Bubble Bobble 2 (Europe)                                ✓      ✗     ✗
+Rainbow Islands - Story of the Bubble Bobble 2 (Europe)                                ✓      ✓     ✓
 Rainbow Islands - The Story of Bubble Bobble 2 (Brazil)                                ✓      ✓     ✓
 Rambo - First Blood Part II (USA)                                                      ✓      ✓     ✓
 Rambo III (USA, Europe)                                                                ✓      ✓     ✓
@@ -402,8 +402,8 @@ Shanghai (USA, Europe) (Beta)                                                   
 Shinobi (Japan)                                                                        ✓      ✓     ✓
 Shinobi (USA, Europe)                                                                  ✓      ✓     ✓
 Shooting Gallery (USA, Europe)                                                         ✓      ✓     ✓
-Simpsons, The - Bart vs. the Space Mutants (Europe)                                    ✗      ✗     ✗
-Simpsons, The - Bart vs. the World (Europe)                                            ✓      ✗     ✗
+Simpsons, The - Bart vs. the Space Mutants (Europe)                                    ✓      ✓     ✓
+Simpsons, The - Bart vs. the World (Europe)                                            ✓      ✓     ✓
 Sitio do Picapau Amarelo (Brazil)                                                      ✓      ✓     ✓
 Sky Fighter (Korea) (Unl)                                                              ✗      ✗     ✗
 Sky Jaguar (Korea)                                                                     ✓      ✗     ✗
@@ -418,7 +418,7 @@ Sonic Chaos (Europe)                                                            
 Sonic The Hedgehog (USA, Europe)                                                       ✓      ✓     ✓
 Sonic The Hedgehog 2 (Europe)                                                          ✓      ✓     ✓
 Sonic The Hedgehog 2 (Europe) (Rev 1)                                                  ✓      ✓     ✓
-Sonic The Hedgehog Spinball (Europe)                                                   ✓      ✗     ✗
+Sonic The Hedgehog Spinball (Europe)                                                   ✓      ✓     ✓
 Sonic's Edusoft (Unknown) (Proto)                                                      ✓      ✗     ✗
 Space Gun (Europe)                                                                     ✓      ✓     ✓
 Space Harrier (Europe)                                                                 ✓      ✓     ✓
@@ -459,8 +459,8 @@ Super Golf (Europe) (Beta)                                                      
 Super Kick Off (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)                                      ✓      ✓     ✓
 Super Monaco GP (Europe)                                                               ✓      ✓     ✓
 Super Monaco GP (USA)                                                                  ✓      ✓     ✓
-Super Monaco GP (USA) (Beta 1)                                                         ✓      ✗     ✗
-Super Monaco GP (USA) (Beta 2)                                                         ✓      ✗     ✗
+Super Monaco GP (USA) (Beta 1)                                                         ✓      ✓     ✓
+Super Monaco GP (USA) (Beta 2)                                                         ✓      ✓     ✓
 Super Off Road (Europe)                                                                ✓      ✓     ✓
 Super Racing (Japan)                                                                   ✓      ✓     ✓
 Super Smash T.V. (Europe)                                                              ✓      ✓     ✓
