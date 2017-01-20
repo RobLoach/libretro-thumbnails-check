@@ -15,13 +15,8 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
   - `curl`
   - [Node.js](https://nodejs.org/en/) >= 7
 
-2. Generate a [new GitHub Access Token](https://github.com/settings/tokens/new)
-3. Edit `bin/libretro-thumbnails-check.js` and add the access token in:
-  ```
-  // Set the GitHub access token below.
-  //var access = ''
-  var access = '?access_token=dsafklh1321jk3hlh11lnkd1'
-  ```
+2. Check out [libretro-thumbnails](https://github.com/libretro/libretro-thumbnails) somewhere
+3. Edit [package.json](package.json) and set the relative path to libretro-thumbnails
 
 4. Run the following to build the out directory
   ```

@@ -1,5 +1,6 @@
 // Dependencies
 var path = require('path')
+var pkg = require('./package.json')
 var fs = require('fs')
 var glob = require('glob')
 var globby = require('globby')
@@ -17,7 +18,7 @@ var exists = require('fs-exists-sync')
 var recursiveReadDirSync = require('recursive-readdir-sync')
 
 // Set the location where libretro-thumbnails is.
-var libretroThumbnailsPath = '../libretro-thumbnails'
+var libretroThumbnailsPath = pkg.config['libretro-thumbnails-path']
 
 // Construct the thumbnail cleaner.
 var cleanGameName = batchreplace.mapReplacer({
@@ -155,7 +156,7 @@ function writeReport(system, games, thumbs) {
 
 		var orphans = ''
 		for (var o in thumbs) {
-			orphans += '\n' + thumbs[o].replace(system + '/', '')
+			orphans += '\n' + thumbs[o].replace(system + '/', '').replace(libretroThumbnailsPath, '')
 		}
 		if (orphans.length >= 5) {
 			orphans = system + ' Orphans\n' + orphans
