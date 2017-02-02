@@ -1,9 +1,9 @@
 Atari - 2600
 
-Boxarts    516/582  88.66%
-Snaps      542/582  93.13%
-Titles     542/582  93.13%
-Total    1600/1746  91.64%
+Boxarts    542/582  93.13%
+Snaps      562/582  96.56%
+Titles     561/582  96.39%
+Total    1665/1746  95.36%
 
 Name                                                                                   Boxart  Snap  Title
 3-D Tic-Tac-Toe (USA)                                                                     ✓      ✓     ✓
@@ -46,7 +46,7 @@ Basketball (USA)                                                                
 Battlezone (USA)                                                                          ✓      ✓     ✓
 Beamrider (USA)                                                                           ✓      ✓     ✓
 Beany Bopper (USA)                                                                        ✓      ✓     ✓
-Beat 'Em _ Eat 'Em (USA)                                                                  ✗      ✗     ✗
+Beat 'Em _ Eat 'Em (USA)                                                                  ✓      ✓     ✓
 Berenstain Bears (USA)                                                                    ✓      ✓     ✓
 Bermuda Triangle (USA)                                                                    ✓      ✓     ✓
 Berzerk (USA)                                                                             ✓      ✓     ✓
@@ -55,8 +55,8 @@ Bionic Breakthrough (USA) (Proto)                                               
 Blackjack (USA)                                                                           ✓      ✓     ✓
 Blueprint (USA)                                                                           ✓      ✓     ✓
 BMX Air Master (USA)                                                                      ✓      ✓     ✓
-Bobby geht Heim (Europe)                                                                  ✗      ✓     ✓
-Bobby is Going Home (USA)                                                                 ✗      ✗     ✗
+Bobby geht Heim (Europe)                                                                  ✓      ✓     ✓
+Bobby is Going Home (USA)                                                                 ✓      ✓     ✗
 Boggle (USA) (Proto)                                                                      ✓      ✓     ✓
 Boing! (USA)                                                                              ✓      ✓     ✓
 Bowling (USA)                                                                             ✓      ✓     ✓
@@ -74,7 +74,7 @@ Cabbage Patch Kids - Adventures in the Park (USA) (Proto)                       
 Cakewalk (USA)                                                                            ✓      ✓     ✓
 California Games (USA)                                                                    ✓      ✓     ✓
 Canyon Bomber (USA)                                                                       ✓      ✓     ✓
-Care Bears (USA) (Proto)                                                                  ✗      ✓     ✓
+Care Bears (USA) (Proto)                                                                  ✓      ✓     ✓
 Carnival (USA)                                                                            ✓      ✓     ✓
 Casino ~ Poker Plus (USA)                                                                 ✓      ✓     ✓
 Cat Trax (USA)                                                                            ✓      ✓     ✓
@@ -123,7 +123,7 @@ Deadly Duck (USA)                                                               
 Death Trap (USA)                                                                          ✓      ✓     ✓
 Defender (USA)                                                                            ✓      ✓     ✓
 Demolition Herby (USA)                                                                    ✓      ✓     ✓
-Demon Attack (USA) (Rev 1)                                                                ✗      ✗     ✗
+Demon Attack (USA) (Rev 1)                                                                ✓      ✓     ✓
 Demons to Diamonds (USA)                                                                  ✓      ✓     ✓
 Depth Charge (USA) (Proto)                                                                ✗      ✗     ✗
 Desert Falcon (USA)                                                                       ✓      ✓     ✓
@@ -144,7 +144,7 @@ Dragonstomper (USA)                                                             
 Dragster (USA)                                                                            ✓      ✓     ✓
 Dukes of Hazzard (USA)                                                                    ✓      ✓     ✓
 Dumbo's Flying Circus (USA) (Proto)                                                       ✓      ✓     ✓
-Dune (USA) (Proto)                                                                        ✗      ✓     ✓
+Dune (USA) (Proto)                                                                        ✓      ✓     ✓
 E.T. - The Extra-Terrestrial (USA)                                                        ✓      ✓     ✓
 Earth Dies Screaming, The (USA)                                                           ✓      ✓     ✓
 Eggomania (USA)                                                                           ✓      ✓     ✓
@@ -205,29 +205,29 @@ Gopher (USA)                                                                    
 Gorf (USA)                                                                                ✓      ✓     ✓
 Grand Prix (USA)                                                                          ✓      ✓     ✓
 Gravitar (USA)                                                                            ✓      ✓     ✓
-Great Escape (Europe)                                                                     ✗      ✗     ✗
-Great Escape (USA)                                                                        ✗      ✓     ✓
+Great Escape (Europe)                                                                     ✓      ✓     ✓
+Great Escape (USA)                                                                        ✓      ✓     ✓
 Gremlins (USA)                                                                            ✓      ✓     ✓
 Grover's Music Maker (USA) (Proto)                                                        ✓      ✓     ✓
 Guardian (USA)                                                                            ✓      ✓     ✓
 Gyruss (USA)                                                                              ✓      ✓     ✓
 H.E.R.O. (USA)                                                                            ✓      ✓     ✓
 Halloween (USA)                                                                           ✓      ✓     ✓
-Hangman - Spelling (USA)                                                                  ✗      ✗     ✗
+Hangman - Spelling (USA)                                                                  ✓      ✓     ✓
 Haunted House (USA)                                                                       ✓      ✓     ✓
 Hell Driver (Europe)                                                                      ✗      ✓     ✓
 Hole Hunter (USA)                                                                         ✗      ✓     ✓
 Holey Moley (USA) (Proto)                                                                 ✓      ✓     ✓
-Home Run - Baseball (USA)                                                                 ✗      ✗     ✗
-Human Cannonball - Cannon Man (USA)                                                       ✗      ✗     ✗
-Hunt _ Score - Memory Match (USA)                                                         ✗      ✗     ✗
-I Want my Mommy (USA)                                                                     ✗      ✗     ✗
+Home Run - Baseball (USA)                                                                 ✓      ✓     ✓
+Human Cannonball - Cannon Man (USA)                                                       ✓      ✓     ✓
+Hunt _ Score - Memory Match (USA)                                                         ✓      ✓     ✓
+I Want My Mommy (USA)                                                                     ✗      ✗     ✗
 I.Q. 180 (USA)                                                                            ✓      ✗     ✗
 I.Q. Memory Teaser (Europe)                                                               ✗      ✓     ✓
 Ice Hockey (USA)                                                                          ✓      ✓     ✓
 Ikari Warriors (USA)                                                                      ✓      ✓     ✓
-Immies _ Aggies (USA) (Proto)                                                             ✗      ✗     ✗
-Indy 500 - Race (USA)                                                                     ✗      ✗     ✗
+Immies _ Aggies (USA) (Proto)                                                             ✓      ✓     ✓
+Indy 500 - Race (USA)                                                                     ✓      ✓     ✓
 Infiltrate (USA)                                                                          ✓      ✓     ✓
 International Soccer (USA)                                                                ✓      ✓     ✓
 IQ 180 (USA)                                                                              ✓      ✓     ✓
@@ -275,7 +275,7 @@ Mario Bros. (USA)                                                               
 Master Builder (USA)                                                                      ✓      ✓     ✓
 Masters of the Universe - The Power of He-Man (USA)                                       ✓      ✓     ✓
 Math Gran Prix (USA)                                                                      ✓      ✓     ✓
-Maze Craze - A Game of Cops 'n Robbers - Maze Mania - A Game of Cops 'n Robbers (USA)     ✗      ✗     ✗
+Maze Craze - A Game of Cops 'n Robbers - Maze Mania - A Game of Cops 'n Robbers (USA)     ✓      ✓     ✓
 McDonald's - Golden Arches Adventure (USA) (Proto)                                        ✗      ✓     ✓
 Mega Force (USA)                                                                          ✓      ✓     ✓
 MegaBoy (USA)                                                                             ✓      ✓     ✓
@@ -287,7 +287,7 @@ Mind Maze (USA)                                                                 
 Miner 2049er - Starring Bounty Bob (USA)                                                  ✓      ✓     ✓
 Miner 2049er Volume II (USA)                                                              ✓      ✓     ✓
 Mines of Minos (USA)                                                                      ✓      ✓     ✓
-Miniature Golf - Arcade Golf (USA)                                                        ✗      ✗     ✗
+Miniature Golf - Arcade Golf (USA)                                                        ✓      ✓     ✓
 Miss Piggy's Wedding (USA) (Proto)                                                        ✓      ✓     ✓
 Missile Command (USA)                                                                     ✓      ✓     ✓
 Missile Control (Europe)                                                                  ✓      ✓     ✓
@@ -301,7 +301,7 @@ Moon Patrol (USA)                                                               
 Moonsweeper (USA)                                                                         ✓      ✓     ✓
 Motocross (USA)                                                                           ✓      ✓     ✓
 Motocross Racer (USA)                                                                     ✓      ✓     ✓
-MotoRodeo (USA)                                                                           ✗      ✓     ✓
+MotoRodeo (USA)                                                                           ✓      ✓     ✓
 Mountain King (USA)                                                                       ✓      ✓     ✓
 Mouse Trap (USA)                                                                          ✓      ✓     ✓
 Mr. Do! (USA)                                                                             ✓      ✓     ✓
@@ -405,7 +405,7 @@ S.A.C. Alert (USA) (Proto)                                                      
 Saboteur (USA) (Proto)                                                                    ✓      ✓     ✓
 Save Mary! (USA) (Proto)                                                                  ✓      ✓     ✓
 Save Our Ship (Europe)                                                                    ✓      ✓     ✓
-Save our Ship (USA)                                                                       ✗      ✗     ✗
+Save our Ship (USA)                                                                       ✓      ✓     ✓
 Save the Whales (USA) (Proto)                                                             ✓      ✓     ✓
 Sea Battle (USA)                                                                          ✓      ✓     ✓
 Sea Hawk (USA)                                                                            ✓      ✓     ✓
@@ -429,7 +429,7 @@ Ski Run (USA)                                                                   
 Skiing (USA)                                                                              ✓      ✓     ✓
 Skindiver (Europe)                                                                        ✓      ✓     ✓
 Sky Alien (Europe)                                                                        ✓      ✓     ✓
-Sky Diver - Dare Diver (USA)                                                              ✗      ✗     ✗
+Sky Diver - Dare Diver (USA)                                                              ✓      ✓     ✓
 Sky Jinks (USA)                                                                           ✓      ✓     ✓
 Sky Patrol (USA) (Proto)                                                                  ✓      ✓     ✓
 Sky Skipper (USA)                                                                         ✓      ✓     ✓
@@ -450,7 +450,7 @@ Space Attack (USA)                                                              
 Space Cavern (USA)                                                                        ✓      ✓     ✓
 Space Invaders (USA)                                                                      ✓      ✓     ✓
 Space Jockey (USA)                                                                        ✓      ✓     ✓
-Space Shuttle - A Journey Into Space (USA)                                                ✓      ✓     ✓
+Space Shuttle - A Journey into Space (USA)                                                ✗      ✗     ✗
 Space Tunnel (USA)                                                                        ✓      ✓     ✓
 Space War - Space Combat (USA)                                                            ✗      ✗     ✗
 Spacechase (USA)                                                                          ✓      ✓     ✓
@@ -506,10 +506,10 @@ Super Football (USA)                                                            
 Superman (USA)                                                                            ✓      ✓     ✓
 Surf's Up (USA) (Proto)                                                                   ✓      ✓     ✓
 Surfer's Paradise - But Danger Below! (Europe)                                            ✓      ✓     ✓
-Surround - Chase (USA)                                                                    ✗      ✗     ✗
+Surround - Chase (USA)                                                                    ✓      ✓     ✓
 Survival Island (USA)                                                                     ✓      ✓     ✓
 Survival Run (USA)                                                                        ✓      ✓     ✓
-Survival Run (USA) (Proto)                                                                ✗      ✗     ✗
+Survival Run (USA) (Proto)                                                                ✓      ✓     ✓
 Sweat! The Decathalon Game (USA)                                                          ✗      ✓     ✓
 Sword of Saros (USA)                                                                      ✓      ✓     ✓
 Swordfight (USA)                                                                          ✓      ✓     ✓
@@ -517,7 +517,7 @@ SwordQuest - EarthWorld (USA)                                                   
 SwordQuest - FireWorld (USA)                                                              ✗      ✓     ✓
 SwordQuest - WaterWorld (USA)                                                             ✗      ✓     ✓
 Tac-Scan (USA)                                                                            ✓      ✓     ✓
-Tanks But no Tanks (USA)                                                                  ✗      ✗     ✗
+Tanks But no Tanks (USA)                                                                  ✓      ✓     ✓
 Tapeworm (USA)                                                                            ✓      ✓     ✓
 Tapper (USA)                                                                              ✓      ✓     ✓
 Tax Avoiders (USA)                                                                        ✓      ✓     ✓
@@ -553,15 +553,15 @@ Unknown Activision Game #2 (USA) (Proto)                                        
 Unknown Datatech Game (USA)                                                               ✗      ✗     ✗
 Up 'n Down (USA)                                                                          ✓      ✓     ✓
 Vanguard (USA)                                                                            ✓      ✓     ✓
-Vault Assault (USA) (Unl)                                                                 ✗      ✗     ✗
-Venetian Blinds Demo (USA)                                                                ✗      ✓     ✓
+Vault Assault (USA) (Unl)                                                                 ✓      ✓     ✓
+Venetian Blinds Demo (USA)                                                                ✓      ✓     ✓
 Venture (USA)                                                                             ✓      ✓     ✓
-Video Checkers - Checkers (USA)                                                           ✗      ✗     ✗
+Video Checkers - Checkers (USA)                                                           ✓      ✓     ✓
 Video Chess (USA)                                                                         ✓      ✓     ✓
 Video Jogger (USA)                                                                        ✓      ✓     ✓
 Video Life (USA)                                                                          ✓      ✓     ✓
-Video Olympics - Pong Sports (USA)                                                        ✗      ✗     ✗
-Video Pinball - Arcade Pinball (USA)                                                      ✗      ✗     ✗
+Video Olympics - Pong Sports (USA)                                                        ✓      ✓     ✓
+Video Pinball - Arcade Pinball (USA)                                                      ✓      ✓     ✓
 Video Reflex (USA)                                                                        ✓      ✓     ✓
 Wabbit (USA)                                                                              ✓      ✓     ✓
 Walker ~ Schussel Der Polizistenschreck (Europe)                                          ✓      ✓     ✓
