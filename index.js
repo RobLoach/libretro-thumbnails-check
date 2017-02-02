@@ -1,5 +1,6 @@
 // Dependencies
 var path = require('path')
+var pkg = require('./package.json')
 var fs = require('fs')
 var glob = require('glob')
 var globby = require('globby')
@@ -14,10 +15,10 @@ var batchreplace = require('batchreplace')
 var sort = require('sort-object')
 var Listr = require('listr')
 var exists = require('fs-exists-sync')
+var recursiveReadDirSync = require('recursive-readdir-sync')
 
-// Set the GitHub access token below.
-var access = ''
-//var access = '?access_token='
+// Set the location where libretro-thumbnails is.
+var libretroThumbnailsPath = pkg.config['libretro-thumbnails-path']
 
 // Construct the thumbnail cleaner.
 var cleanGameName = batchreplace.mapReplacer({
@@ -38,9 +39,6 @@ var cleanGameName = batchreplace.mapReplacer({
  */
 function processSystem(system) {
 	return new Promise(function (resolve, reject) {
-		if (fileExists('out/' + system + '.txt')) {
-			return resolve([])
-		}
 		var patterns = [
 			// Only report on No-Intro and custom DATs.
 			//'libretro-database/metadat/goodtools/' + system + '.dat',
@@ -158,7 +156,7 @@ function writeReport(system, games, thumbs) {
 
 		var orphans = ''
 		for (var o in thumbs) {
-			orphans += '\n' + thumbs[o].replace(system + '/', '')
+			orphans += '\n' + thumbs[o].replace(system + '/', '').replace(libretroThumbnailsPath, '')
 		}
 		if (orphans.length >= 5) {
 			orphans = system + ' Orphans\n' + orphans
@@ -173,71 +171,18 @@ function writeReport(system, games, thumbs) {
  * Downloads the index of all thumbnails.
  */
 function thumbnails(system) {
-	var thumbs = []
-	var all = getData('https://api.github.com/repos/libretro/libretro-thumbnails/git/trees/master')
-	for (var i in all.tree) {
-		var entry = all.tree[i]
-		if (entry.path == system) {
-			var data = getData(entry.url)
-			for (var x in data.tree) {
-				var entry2 = data.tree[x]
-				var types = [
-					'Named_Boxarts',
-					'Named_Titles',
-					'Named_Snaps'
-				]
-				if (types.indexOf(entry2.path) >= 0) {
-					var data2 = getData(entry2.url)
-					var thumbsFromNew = dataToThumbnails(data2)
-					for (var c in thumbsFromNew) {
-						thumbs.push(system + '/' + entry2.path + '/' + thumbsFromNew[c])
-					}
-				}
-			}
-		}
+	let files = []
+	let filePath = path.join(libretroThumbnailsPath, system)
+	try {
+		files = recursiveReadDirSync(filePath)
 	}
-	return thumbs
-}
-
-/**
- * Download and cache the given URL.
- */
-function getData(url) {
-	var filename = '.tmp/' + sanitizeFilename(url + '.json')
-	if (fileExists(filename)) {
-		var contents = fs.readFileSync(filename, {
-			encoding: 'utf8'
-		})
-		try {
-			return JSON.parse(contents)
-		}
-		catch (err) {
-			console.error(filename + '\n' + err)
-			fs.unlink(filename)
-		}
+	catch (err) {
+		// Nothing.
 	}
-
-	var contents = download(url + access)
-	var json = JSON.parse(contents)
-	if (json.message) {
-		console.error(json.message)
-		process.exit(1)
+	for (let i in files) {
+		files[i] = files[i].replace(libretroThumbnailsPath + '/', '')
 	}
-	// Sleep so that we don't exceed GitHub's API limit.
-	sleep.sleep(5)
-	fs.writeFileSync(filename, contents)
-	return json
-}
-
-/**
- * Convert a GitHub Data URL to a list of filenames.
- */
-function dataToThumbnails(data) {
-	var out = []
-	for (var i in data.tree) {
-		out.push(data.tree[i].path)
-	}
-	return out
+	return files
 }
 
 module.exports = {

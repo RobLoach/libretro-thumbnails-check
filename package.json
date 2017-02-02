@@ -26,9 +26,13 @@
     "minimatch": "^3.0.3",
     "multimatch": "^2.1.0",
     "multispinner": "^0.2.1",
+    "recursive-readdir-sync": "^1.0.6",
     "sanitize-filename": "^1.6.1",
     "sleep": "^5.0.0",
     "sort-object": "^3.0.2",
     "text-table": "^0.2.0"
+  },
+  "config": {
+    "libretro-thumbnails-path": "../libretro-thumbnails"
   }
 }
