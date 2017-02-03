@@ -1,13 +1,13 @@
 Sega - SG-1000
 
-Boxarts   60/202  29.70%
+Boxarts   84/202  41.58%
 Snaps    187/202  92.57%
 Titles   187/202  92.57%
-Total    434/606  71.62%
+Total    458/606  75.58%
 
 Name                                                                    Boxart  Snap  Title
-007 James Bond (Japan) (v2.6) (Othello Multivision)                        ✗      ✓     ✓
-007 James Bond (Japan) (v2.7) (Othello Multivision)                        ✗      ✓     ✓
+007 James Bond (Japan) (v2.6) (Othello Multivision)                        ✓      ✓     ✓
+007 James Bond (Japan) (v2.7) (Othello Multivision)                        ✓      ✓     ✓
 007 James Bond (Taiwan) (Othello Multivision)                              ✗      ✓     ✓
 Bank Panic (Japan)                                                         ✓      ✓     ✓
 Bank Panic (Taiwan)                                                        ✗      ✓     ✓
@@ -24,11 +24,11 @@ Castle, The (Japan)                                                        ✓  
 Castle, The (Taiwan) (MSX)                                                 ✗      ✗     ✗
 Chack'n Pop (Japan)                                                        ✓      ✓     ✓
 Chack'n Pop (Taiwan)                                                       ✗      ✓     ✓
-Challenge Derby (Japan) (vA) (16kB) (Othello Multivision)                  ✗      ✓     ✓
-Challenge Derby (Japan) (vA) (40kB) (Othello Multivision)                  ✗      ✓     ✓
-Challenge Derby (Japan) (vB) (Othello Multivision)                         ✗      ✓     ✓
-Champion Baseball (Japan) (16kB)                                           ✗      ✓     ✓
-Champion Baseball (Japan) (40kB)                                           ✗      ✓     ✓
+Challenge Derby (Japan) (vA) (16kB) (Othello Multivision)                  ✓      ✓     ✓
+Challenge Derby (Japan) (vA) (40kB) (Othello Multivision)                  ✓      ✓     ✓
+Challenge Derby (Japan) (vB) (Othello Multivision)                         ✓      ✓     ✓
+Champion Baseball (Japan) (16kB)                                           ✓      ✓     ✓
+Champion Baseball (Japan) (40kB)                                           ✓      ✓     ✓
 Champion Baseball (Taiwan)                                                 ✗      ✓     ✓
 Champion Billiards (Japan)                                                 ✓      ✓     ✓
 Champion Billiards (Taiwan)                                                ✗      ✓     ✓
@@ -62,9 +62,9 @@ Chuugaku Hisshuu Eisakubun (Chuugaku 2-Nen) (Japan) (40kB) (SC-3000)       ✗  
 Chuugaku Hisshuu Eitango (Chuugaku 1-Nen) (Japan) (SC-3000)                ✗      ✓     ✓
 Chuugaku Hisshuu Eitango (Chuugaku 2-Nen) (Japan) (16kB) (SC-3000)         ✗      ✓     ✓
 Chuugaku Hisshuu Eitango (Chuugaku 2-Nen) (Japan) (40kB) (SC-3000)         ✗      ✓     ✓
-Congo Bongo (Japan, Europe) (Rev 1)                                        ✗      ✓     ✓
-Congo Bongo (Japan)                                                        ✗      ✓     ✓
-Congo Bongo (Japan) (Rev 1) (40kB)                                         ✗      ✓     ✓
+Congo Bongo (Japan, Europe) (Rev 1)                                        ✓      ✓     ✓
+Congo Bongo (Japan)                                                        ✓      ✓     ✓
+Congo Bongo (Japan) (Rev 1) (40kB)                                         ✓      ✓     ✓
 Dokidoki Penguin Land (Japan)                                              ✓      ✓     ✓
 Dragon Wang (Japan)                                                        ✓      ✓     ✓
 Dragon Wang (Japan) (Alt 1)                                                ✗      ✓     ✓
@@ -88,8 +88,8 @@ GP World (Japan)                                                           ✓  
 GP World (Japan) (Rev 1)                                                   ✗      ✓     ✓
 GP World (Taiwan)                                                          ✗      ✓     ✓
 Gulkave (Japan)                                                            ✓      ✓     ✓
-Guzzler (Japan) (Othello Multivision)                                      ✗      ✓     ✓
-Guzzler (Taiwan) (Othello Multivision)                                     ✗      ✓     ✓
+Guzzler (Japan) (Othello Multivision)                                      ✓      ✓     ✓
+Guzzler (Taiwan) (Othello Multivision)                                     ✓      ✓     ✓
 H.E.R.O. (Japan)                                                           ✓      ✓     ✓
 H.E.R.O. (Taiwan)                                                          ✗      ✓     ✓
 Hang-On II (Japan)                                                         ✓      ✓     ✓
@@ -142,7 +142,7 @@ Pitfall II (Taiwan) (Chinese Logo)                                         ✗  
 Pitfall II (Taiwan) (English Logo)                                         ✗      ✓     ✓
 Pop Flamer (Japan, Europe)                                                 ✓      ✓     ✓
 Pop Flamer (Taiwan)                                                        ✗      ✓     ✓
-Q-bert (Japan) (Othello Multivision)                                       ✗      ✓     ✓
+Q-bert (Japan) (Othello Multivision)                                       ✓      ✓     ✓
 Rally-X (Taiwan)                                                           ✗      ✗     ✗
 Rally-X (Taiwan) (DahJee)                                                  ✗      ✗     ✗
 Road Fighter (Taiwan)                                                      ✗      ✗     ✗
@@ -158,30 +158,30 @@ San-nin Mahjong (Japan)                                                    ✗  
 San-nin Mahjong (Taiwan)                                                   ✗      ✓     ✓
 Sega Flipper (Japan, Europe)                                               ✓      ✓     ✓
 Sega Flipper (Japan) (40kB)                                                ✗      ✓     ✓
-Sega-Galaga (Japan) (16kB)                                                 ✗      ✓     ✓
-Sega-Galaga (Japan) (40kB)                                                 ✗      ✓     ✓
+Sega-Galaga (Japan) (16kB)                                                 ✓      ✓     ✓
+Sega-Galaga (Japan) (40kB)                                                 ✓      ✓     ✓
 Sekaishi Nenpyou (Japan) (SC-3000)                                         ✗      ✓     ✓
-Serizawa Hachidan no Tsumeshougi (Japan)                                   ✗      ✓     ✓
+Serizawa Hachidan no Tsumeshougi (Japan)                                   ✓      ✓     ✓
 SG-1000 M2 Test Cartridge (Japan)                                          ✗      ✓     ✓
 Shinnyushain Tooru Kun (Japan)                                             ✓      ✓     ✓
 Sindbad Mystery (Japan, Europe)                                            ✓      ✓     ✓
 Sindbad Mystery (Taiwan)                                                   ✗      ✓     ✓
 Soukoban (Japan)                                                           ✓      ✓     ✓
 Soukoban (Taiwan)                                                          ✗      ✓     ✓
-Space Armor (Japan) (v1.0) (Othello Multivision)                           ✗      ✓     ✓
-Space Armor (Japan) (v2.0) (Newer) (Othello Multivision)                   ✗      ✓     ✓
-Space Armor (Japan) (v2.0) (Othello Multivision)                           ✗      ✓     ✓
+Space Armor (Japan) (v1.0) (Othello Multivision)                           ✓      ✓     ✓
+Space Armor (Japan) (v2.0) (Newer) (Othello Multivision)                   ✓      ✓     ✓
+Space Armor (Japan) (v2.0) (Othello Multivision)                           ✓      ✓     ✓
 Space Invaders (Japan)                                                     ✓      ✓     ✓
 Space Invaders (Taiwan)                                                    ✗      ✓     ✓
-Space Mountain (Japan) (Othello Multivision)                               ✗      ✓     ✓
+Space Mountain (Japan) (Othello Multivision)                               ✓      ✓     ✓
 Space Slalom (Japan)                                                       ✓      ✓     ✓
 Star Force (Japan)                                                         ✓      ✓     ✓
 Star Force (Taiwan)                                                        ✗      ✓     ✓
 Star Force (Taiwan) (Alt 1)                                                ✗      ✓     ✓
-Star Jacker (Japan, Europe) (Rev 1)                                        ✗      ✓     ✓
-Star Jacker (Japan, Europe) (Rev 2)                                        ✗      ✓     ✓
-Star Jacker (Japan)                                                        ✗      ✓     ✓
-Star Jacker (Taiwan)                                                       ✗      ✓     ✓
+Star Jacker (Japan, Europe) (Rev 1)                                        ✓      ✓     ✓
+Star Jacker (Japan, Europe) (Rev 2)                                        ✓      ✓     ✓
+Star Jacker (Japan)                                                        ✓      ✓     ✓
+Star Jacker (Taiwan)                                                       ✓      ✓     ✓
 Super Tank (Japan)                                                         ✓      ✓     ✓
 Super Tank (Taiwan)                                                        ✗      ✓     ✓
 Tank Battalion (Taiwan)                                                    ✗      ✗     ✗
