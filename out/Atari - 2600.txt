@@ -1,9 +1,9 @@
 Atari - 2600
 
-Boxarts    542/582  93.13%
-Snaps      562/582  96.56%
-Titles     561/582  96.39%
-Total    1665/1746  95.36%
+Boxarts    560/582  96.22%
+Snaps      571/582  98.11%
+Titles     568/582  97.59%
+Total    1699/1746  97.31%
 
 Name                                                                                   Boxart  Snap  Title
 3-D Tic-Tac-Toe (USA)                                                                     ✓      ✓     ✓
@@ -18,7 +18,7 @@ Air Raiders (USA)                                                               
 Air-Sea Battle ~ Target Fun (USA)                                                         ✓      ✓     ✓
 Airlock (USA)                                                                             ✓      ✓     ✓
 Alien (USA)                                                                               ✓      ✓     ✓
-Aliens Return (Europe)                                                                    ✗      ✗     ✗
+Aliens Return (Europe)                                                                    ✓      ✗     ✗
 Alligator People (USA) (Proto)                                                            ✓      ✓     ✓
 Alpha Beam with Ernie (USA)                                                               ✓      ✓     ✓
 Amidar (USA)                                                                              ✓      ✓     ✓
@@ -221,7 +221,7 @@ Holey Moley (USA) (Proto)                                                       
 Home Run - Baseball (USA)                                                                 ✓      ✓     ✓
 Human Cannonball - Cannon Man (USA)                                                       ✓      ✓     ✓
 Hunt _ Score - Memory Match (USA)                                                         ✓      ✓     ✓
-I Want My Mommy (USA)                                                                     ✗      ✗     ✗
+I Want My Mommy (USA)                                                                     ✓      ✓     ✓
 I.Q. 180 (USA)                                                                            ✓      ✗     ✗
 I.Q. Memory Teaser (Europe)                                                               ✗      ✓     ✓
 Ice Hockey (USA)                                                                          ✓      ✓     ✓
@@ -253,20 +253,20 @@ Kool-Aid Man (USA)                                                              
 Krull (USA)                                                                               ✓      ✓     ✓
 Kung-Fu Master (USA)                                                                      ✓      ✓     ✓
 Kyphus (USA) (Proto)                                                                      ✗      ✓     ✓
-Lady In Wading (USA)                                                                      ✗      ✓     ✓
+Lady In Wading (USA)                                                                      ✓      ✓     ✓
 Laser Blast (USA)                                                                         ✓      ✓     ✓
 Laser Gates (USA)                                                                         ✓      ✓     ✓
 Lilly Adventure (Europe)                                                                  ✓      ✓     ✓
 Lilly Adventure (USA)                                                                     ✓      ✓     ✓
 Lochjaw (USA)                                                                             ✓      ✓     ✓
-Lock 'n' Chase (USA)                                                                      ✗      ✓     ✓
+Lock 'n' Chase (USA)                                                                      ✓      ✓     ✓
 London Blitz (USA)                                                                        ✓      ✓     ✓
 Looping (USA) (Proto)                                                                     ✓      ✓     ✓
 Lord of the Rings, The - Journey to Rivendell (USA) (Proto)                               ✓      ✓     ✓
 Lost Luggage (USA)                                                                        ✓      ✓     ✓
 M.A.D. (USA)                                                                              ✓      ✓     ✓
 M.A.S.H (USA)                                                                             ✓      ✓     ✓
-MagiCard (USA)                                                                            ✗      ✓     ✓
+MagiCard (USA)                                                                            ✓      ✓     ✓
 Malagai (USA)                                                                             ✓      ✓     ✓
 Mangia' (USA)                                                                             ✓      ✓     ✓
 Marauder (USA)                                                                            ✓      ✓     ✓
@@ -329,7 +329,7 @@ Open Sesame (Europe)                                                            
 Oscar's Trash Race (USA)                                                                  ✓      ✓     ✓
 Othello (USA)                                                                             ✓      ✓     ✓
 Out of Control (USA)                                                                      ✓      ✓     ✓
-Outlaw - Gunslinger (USA)                                                                 ✗      ✗     ✗
+Outlaw - Gunslinger (USA)                                                                 ✓      ✓     ✓
 Pac-Man (USA)                                                                             ✓      ✓     ✓
 Panda Chase (Europe)                                                                      ✓      ✓     ✓
 Parachute (Europe)                                                                        ✓      ✓     ✓
@@ -365,7 +365,7 @@ Porky's (USA)                                                                   
 Pressure Cooker (USA)                                                                     ✓      ✓     ✓
 Private Eye (USA)                                                                         ✓      ✓     ✓
 Q-bert (USA)                                                                              ✓      ✓     ✓
-Q-bert's Qubes (USA)                                                                      ✗      ✓     ✓
+Q-bert's Qubes (USA)                                                                      ✓      ✓     ✓
 Quadrun (USA)                                                                             ✓      ✓     ✓
 Quest for Quintana Roo (USA)                                                              ✓      ✓     ✓
 Quick Step! (USA)                                                                         ✓      ✓     ✓
@@ -379,7 +379,7 @@ Raft Rider (USA)                                                                
 Raiders of the Lost Ark (USA)                                                             ✓      ✓     ✓
 Ram It (USA)                                                                              ✓      ✓     ✓
 Rampage! (USA)                                                                            ✓      ✓     ✓
-Raumpatrouille (USA)                                                                      ✗      ✗     ✗
+Raumpatrouille (USA)                                                                      ✓      ✓     ✗
 Reactor (USA)                                                                             ✓      ✓     ✓
 RealSports Baseball (USA)                                                                 ✓      ✓     ✓
 RealSports Basketball (Europe) (Proto)                                                    ✓      ✓     ✓
@@ -388,7 +388,7 @@ RealSports Football (USA)                                                       
 RealSports Soccer (USA)                                                                   ✓      ✓     ✓
 RealSports Tennis (USA)                                                                   ✓      ✓     ✓
 RealSports Volleyball (USA)                                                               ✓      ✓     ✓
-Red Sea Crossing (USA)                                                                    ✗      ✗     ✗
+Red Sea Crossing (USA)                                                                    ✓      ✓     ✗
 Rescue Terra I (USA)                                                                      ✓      ✓     ✓
 Revenge of the Beefsteak Tomatoes (USA)                                                   ✓      ✓     ✓
 Riddle of the Sphinx (USA)                                                                ✓      ✓     ✓
@@ -433,8 +433,8 @@ Sky Diver - Dare Diver (USA)                                                    
 Sky Jinks (USA)                                                                           ✓      ✓     ✓
 Sky Patrol (USA) (Proto)                                                                  ✓      ✓     ✓
 Sky Skipper (USA)                                                                         ✓      ✓     ✓
-Slot Machine - Slots (USA)                                                                ✗      ✗     ✗
-Slot Racers - Maze (USA)                                                                  ✗      ✗     ✗
+Slot Machine - Slots (USA)                                                                ✓      ✓     ✓
+Slot Racers - Maze (USA)                                                                  ✓      ✓     ✓
 Smurf - Rescue in Gargamel's Castle (USA)                                                 ✓      ✓     ✓
 Smurfs Save the Day (USA)                                                                 ✓      ✓     ✓
 Snail Against Squirrel (Europe)                                                           ✓      ✓     ✓
@@ -450,9 +450,9 @@ Space Attack (USA)                                                              
 Space Cavern (USA)                                                                        ✓      ✓     ✓
 Space Invaders (USA)                                                                      ✓      ✓     ✓
 Space Jockey (USA)                                                                        ✓      ✓     ✓
-Space Shuttle - A Journey into Space (USA)                                                ✗      ✗     ✗
+Space Shuttle - A Journey into Space (USA)                                                ✓      ✓     ✓
 Space Tunnel (USA)                                                                        ✓      ✓     ✓
-Space War - Space Combat (USA)                                                            ✗      ✗     ✗
+Space War - Space Combat (USA)                                                            ✓      ✓     ✓
 Spacechase (USA)                                                                          ✓      ✓     ✓
 SpaceMaster X-7 (USA)                                                                     ✓      ✓     ✓
 Spider Fighter (USA)                                                                      ✓      ✓     ✓
@@ -481,14 +481,14 @@ Star Wars - The Arcade Game (USA)                                               
 Star Wars - The Empire Strikes Back (USA)                                                 ✓      ✓     ✓
 Stargate (USA)                                                                            ✓      ✓     ✓
 Stargunner (USA)                                                                          ✓      ✓     ✓
-StarMaster (USA)                                                                          ✗      ✓     ✓
+StarMaster (USA)                                                                          ✓      ✓     ✓
 Steeplechase (Europe)                                                                     ✓      ✓     ✓
 Steeplechase (USA)                                                                        ✓      ✓     ✓
 Stellar Track (USA)                                                                       ✓      ✓     ✓
 Stone Age (USA)                                                                           ✓      ✓     ✓
 Strategy X (USA)                                                                          ✓      ✓     ✓
 Strawberry Shortcake - Musical Match-Ups (USA)                                            ✓      ✓     ✓
-Street Racer - Speedway II (USA)                                                          ✗      ✗     ✗
+Street Racer - Speedway II (USA)                                                          ✓      ✓     ✓
 Stronghold (USA)                                                                          ✓      ✓     ✓
 Stunt Cycle (USA) (Proto)                                                                 ✓      ✓     ✓
 Stunt Man (USA)                                                                           ✓      ✓     ✓
@@ -513,9 +513,9 @@ Survival Run (USA) (Proto)                                                      
 Sweat! The Decathalon Game (USA)                                                          ✗      ✓     ✓
 Sword of Saros (USA)                                                                      ✓      ✓     ✓
 Swordfight (USA)                                                                          ✓      ✓     ✓
-SwordQuest - EarthWorld (USA)                                                             ✗      ✓     ✓
-SwordQuest - FireWorld (USA)                                                              ✗      ✓     ✓
-SwordQuest - WaterWorld (USA)                                                             ✗      ✓     ✓
+SwordQuest - EarthWorld (USA)                                                             ✓      ✓     ✓
+SwordQuest - FireWorld (USA)                                                              ✓      ✓     ✓
+SwordQuest - WaterWorld (USA)                                                             ✓      ✓     ✓
 Tac-Scan (USA)                                                                            ✓      ✓     ✓
 Tanks But no Tanks (USA)                                                                  ✓      ✓     ✓
 Tapeworm (USA)                                                                            ✓      ✓     ✓
