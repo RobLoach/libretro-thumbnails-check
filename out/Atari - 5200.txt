@@ -1,9 +1,9 @@
 Atari - 5200
 
-Boxarts  102/106   96.23%
+Boxarts  105/106   99.06%
 Snaps    106/106  100.00%
 Titles   106/106  100.00%
-Total    314/318   98.74%
+Total    317/318   99.69%
 
 Name                                                      Boxart  Snap  Title
 5200 Menu (USA) (Proto)                                      ✓      ✓     ✓
@@ -14,7 +14,7 @@ Astro Chase (USA)                                            ✓      ✓     �
 Atari PAM - Pete's Test (USA)                                ✓      ✓     ✓
 Atari PAM Diagnostics (USA) (v2.0)                           ✓      ✓     ✓
 Atari PAM Diagnostics (USA) (v2.3)                           ✓      ✓     ✓
-Atari PAM System Test (USA) (v1.02)                          ✗      ✓     ✓
+Atari PAM System Test (USA) (v1.02)                          ✓      ✓     ✓
 Ballblazer (USA)                                             ✓      ✓     ✓
 Barroom Baseball (USA) (Proto)                               ✓      ✓     ✓
 Battlezone (USA) (Proto)                                     ✓      ✓     ✓
@@ -61,7 +61,7 @@ Mario Bros. (USA)                                            ✓      ✓     �
 Meebzork (USA) (Proto)                                       ✓      ✓     ✓
 MegaMania (USA)                                              ✓      ✓     ✓
 Meteorites (USA)                                             ✓      ✓     ✓
-Microgammon SB (USA) (Proto)                                 ✗      ✓     ✓
+Microgammon SB (USA) (Proto)                                 ✓      ✓     ✓
 Millipede (USA) (Proto)                                      ✓      ✓     ✓
 Miner 2049er Starring Bounty Bob (USA)                       ✓      ✓     ✓
 Miniature Golf (USA) (Proto)                                 ✓      ✓     ✓
@@ -93,7 +93,7 @@ Space Dungeon (USA)                                          ✓      ✓     �
 Space Invaders (USA)                                         ✓      ✓     ✓
 Space Shuttle - A Journey Into Space (USA)                   ✓      ✓     ✓
 Spitfire (USA) (Proto)                                       ✓      ✓     ✓
-Sport Goofy (USA) (Proto)                                    ✗      ✓     ✓
+Sport Goofy (USA) (Proto)                                    ✓      ✓     ✓
 Star Raiders (USA)                                           ✓      ✓     ✓
 Star Trek - Strategic Operations Simulator (USA)             ✓      ✓     ✓
 Star Wars - Return of the Jedi - Death Star Battle (USA)     ✓      ✓     ✓

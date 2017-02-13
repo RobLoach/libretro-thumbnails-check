@@ -1,9 +1,9 @@
 Atari - 2600
 
-Boxarts    560/582  96.22%
-Snaps      571/582  98.11%
-Titles     568/582  97.59%
-Total    1699/1746  97.31%
+Boxarts    568/582  97.59%
+Snaps      573/582  98.45%
+Titles     570/582  97.94%
+Total    1711/1746  98.00%
 
 Name                                                                                   Boxart  Snap  Title
 3-D Tic-Tac-Toe (USA)                                                                     ✓      ✓     ✓
@@ -22,7 +22,7 @@ Aliens Return (Europe)                                                          
 Alligator People (USA) (Proto)                                                            ✓      ✓     ✓
 Alpha Beam with Ernie (USA)                                                               ✓      ✓     ✓
 Amidar (USA)                                                                              ✓      ✓     ✓
-Apples And Dolls (USA)                                                                    ✗      ✓     ✓
+Apples And Dolls (USA)                                                                    ✓      ✓     ✓
 Aquaventure (USA) (Proto)                                                                 ✓      ✓     ✓
 Armor Ambush (USA)                                                                        ✓      ✓     ✓
 Artillery Duel (USA)                                                                      ✓      ✓     ✓
@@ -56,7 +56,7 @@ Blackjack (USA)                                                                 
 Blueprint (USA)                                                                           ✓      ✓     ✓
 BMX Air Master (USA)                                                                      ✓      ✓     ✓
 Bobby geht Heim (Europe)                                                                  ✓      ✓     ✓
-Bobby is Going Home (USA)                                                                 ✓      ✓     ✗
+Bobby is Going Home (USA)                                                                 ✓      ✓     ✓
 Boggle (USA) (Proto)                                                                      ✓      ✓     ✓
 Boing! (USA)                                                                              ✓      ✓     ✓
 Bowling (USA)                                                                             ✓      ✓     ✓
@@ -125,7 +125,7 @@ Defender (USA)                                                                  
 Demolition Herby (USA)                                                                    ✓      ✓     ✓
 Demon Attack (USA) (Rev 1)                                                                ✓      ✓     ✓
 Demons to Diamonds (USA)                                                                  ✓      ✓     ✓
-Depth Charge (USA) (Proto)                                                                ✗      ✗     ✗
+Depth Charge (USA) (Proto)                                                                ✗      ✓     ✗
 Desert Falcon (USA)                                                                       ✓      ✓     ✓
 Dice Puzzle (Europe)                                                                      ✓      ✓     ✓
 Dice Puzzle (USA)                                                                         ✓      ✓     ✓
@@ -215,15 +215,15 @@ H.E.R.O. (USA)                                                                  
 Halloween (USA)                                                                           ✓      ✓     ✓
 Hangman - Spelling (USA)                                                                  ✓      ✓     ✓
 Haunted House (USA)                                                                       ✓      ✓     ✓
-Hell Driver (Europe)                                                                      ✗      ✓     ✓
-Hole Hunter (USA)                                                                         ✗      ✓     ✓
+Hell Driver (Europe)                                                                      ✓      ✓     ✓
+Hole Hunter (USA)                                                                         ✓      ✓     ✓
 Holey Moley (USA) (Proto)                                                                 ✓      ✓     ✓
 Home Run - Baseball (USA)                                                                 ✓      ✓     ✓
 Human Cannonball - Cannon Man (USA)                                                       ✓      ✓     ✓
 Hunt _ Score - Memory Match (USA)                                                         ✓      ✓     ✓
 I Want My Mommy (USA)                                                                     ✓      ✓     ✓
-I.Q. 180 (USA)                                                                            ✓      ✗     ✗
-I.Q. Memory Teaser (Europe)                                                               ✗      ✓     ✓
+I.Q. 180 (USA)                                                                            ✓      ✓     ✓
+I.Q. Memory Teaser (Europe)                                                               ✓      ✓     ✓
 Ice Hockey (USA)                                                                          ✓      ✓     ✓
 Ikari Warriors (USA)                                                                      ✓      ✓     ✓
 Immies _ Aggies (USA) (Proto)                                                             ✓      ✓     ✓
@@ -252,7 +252,7 @@ Klax (USA)                                                                      
 Kool-Aid Man (USA)                                                                        ✓      ✓     ✓
 Krull (USA)                                                                               ✓      ✓     ✓
 Kung-Fu Master (USA)                                                                      ✓      ✓     ✓
-Kyphus (USA) (Proto)                                                                      ✗      ✓     ✓
+Kyphus (USA) (Proto)                                                                      ✓      ✓     ✓
 Lady In Wading (USA)                                                                      ✓      ✓     ✓
 Laser Blast (USA)                                                                         ✓      ✓     ✓
 Laser Gates (USA)                                                                         ✓      ✓     ✓
@@ -337,7 +337,7 @@ Party Mix - Bop a Buggy, Tug of War, Wizard's Keep, Down on the Line, Handcar (U
 Peek-A-Boo (USA) (Proto)                                                                  ✓      ✓     ✓
 Pengo (USA)                                                                               ✓      ✓     ✓
 Pete Rose Baseball (USA)                                                                  ✓      ✓     ✓
-Peter Penguin (Europe)                                                                    ✗      ✓     ✓
+Peter Penguin (Europe)                                                                    ✓      ✓     ✓
 Phantom Tank (Europe)                                                                     ✓      ✓     ✓
 Phantom UFO (USA)                                                                         ✗      ✓     ✓
 Pharaoh's Curse (Europe)                                                                  ✓      ✓     ✓
@@ -464,7 +464,7 @@ Springer (USA)                                                                  
 Sprint Master (USA)                                                                       ✓      ✓     ✓
 Spy Hunter (USA)                                                                          ✓      ✓     ✓
 Squeeze Box (USA)                                                                         ✓      ✓     ✓
-Squirrel ~ O Esquilo (USA)                                                                ✗      ✓     ✓
+Squirrel ~ O Esquilo (USA)                                                                ✓      ✓     ✓
 Squoosh (USA) (Proto)                                                                     ✓      ✓     ✓
 Sssnake (USA)                                                                             ✓      ✓     ✓
 Stampede (USA)                                                                            ✓      ✓     ✓
@@ -510,7 +510,7 @@ Surround - Chase (USA)                                                          
 Survival Island (USA)                                                                     ✓      ✓     ✓
 Survival Run (USA)                                                                        ✓      ✓     ✓
 Survival Run (USA) (Proto)                                                                ✓      ✓     ✓
-Sweat! The Decathalon Game (USA)                                                          ✗      ✓     ✓
+Sweat! The Decathalon Game (USA)                                                          ✓      ✓     ✓
 Sword of Saros (USA)                                                                      ✓      ✓     ✓
 Swordfight (USA)                                                                          ✓      ✓     ✓
 SwordQuest - EarthWorld (USA)                                                             ✓      ✓     ✓

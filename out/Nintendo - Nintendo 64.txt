@@ -1,9 +1,9 @@
 Nintendo - Nintendo 64
 
-Boxarts    871/949  91.78%
-Snaps      919/949  96.84%
-Titles     919/949  96.84%
-Total    2709/2847  95.15%
+Boxarts    894/949  94.20%
+Snaps      933/949  98.31%
+Titles     933/949  98.31%
+Total    2760/2847  96.94%
 
 Name                                                                               Boxart  Snap  Title
 007 - GoldenEye (Europe)                                                              ✓      ✓     ✓
@@ -14,7 +14,7 @@ Name                                                                            
 1080 TenEighty Snowboarding (Europe) (En,Ja,Fr,De)                                    ✓      ✓     ✓
 1080 TenEighty Snowboarding (Japan, USA) (En,Ja)                                      ✓      ✓     ✓
 40 Winks (Europe) (En,Es,It) (Proto)                                                  ✓      ✓     ✓
-64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan)                         ✗      ✓     ✓
+64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan)                         ✓      ✓     ✓
 64 Hanafuda - Tenshi no Yakusoku (Japan)                                              ✓      ✓     ✓
 64 Oozumou (Japan)                                                                    ✓      ✓     ✓
 64 Oozumou 2 (Japan)                                                                  ✓      ✓     ✓
@@ -120,13 +120,13 @@ Castlevania - Legacy of Darkness (Europe) (En,Fr,De)                            
 Castlevania - Legacy of Darkness (USA)                                                ✓      ✓     ✓
 Castlevania (Europe) (En,Fr,De)                                                       ✓      ✓     ✓
 Castlevania (USA)                                                                     ✓      ✓     ✓
-Castlevania (USA) (Rev A)                                                             ✓      ✗     ✗
+Castlevania (USA) (Rev A)                                                             ✓      ✓     ✓
 Castlevania (USA) (Rev B)                                                             ✓      ✓     ✓
 Centre Court Tennis (Europe)                                                          ✓      ✓     ✓
 Chameleon Twist (Europe)                                                              ✓      ✓     ✓
 Chameleon Twist (Japan)                                                               ✓      ✓     ✓
 Chameleon Twist (USA)                                                                 ✓      ✓     ✓
-Chameleon Twist (USA) (Rev A)                                                         ✓      ✗     ✗
+Chameleon Twist (USA) (Rev A)                                                         ✓      ✓     ✓
 Chameleon Twist 2 (Europe)                                                            ✓      ✓     ✓
 Chameleon Twist 2 (Japan)                                                             ✓      ✓     ✓
 Chameleon Twist 2 (USA)                                                               ✓      ✓     ✓
@@ -136,8 +136,8 @@ Chopper Attack (Europe)                                                         
 Chopper Attack (USA)                                                                  ✓      ✓     ✓
 Choro Q 64 (Japan)                                                                    ✓      ✓     ✓
 Choro Q 64 II - Hacha Mecha Grand Prix Race (Japan)                                   ✓      ✓     ✓
-Chou Kuukan Nighter Pro Yakyuu King (Japan)                                           ✗      ✓     ✓
-Chou Kuukan Nighter Pro Yakyuu King 2 (Japan)                                         ✗      ✓     ✓
+Chou Kuukan Nighter Pro Yakyuu King (Japan)                                           ✓      ✓     ✓
+Chou Kuukan Nighter Pro Yakyuu King 2 (Japan)                                         ✓      ✓     ✓
 Chou Snobo Kids (Japan)                                                               ✓      ✓     ✓
 City-Tour GP - Zen-Nihon GT Senshuken (Japan)                                         ✓      ✓     ✓
 Clay Fighter - Sculptor's Cut (USA)                                                   ✓      ✓     ✓
@@ -162,7 +162,7 @@ Custom Robo V2 (Japan)                                                          
 CyberTiger (Europe)                                                                   ✓      ✓     ✓
 CyberTiger (USA)                                                                      ✓      ✓     ✓
 Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl)                      ✓      ✓     ✓
-Dance Dance Revolution - Disney Dancing Museum (Japan)                                ✗      ✓     ✓
+Dance Dance Revolution - Disney Dancing Museum (Japan)                                ✓      ✓     ✓
 Dark Rift (Europe)                                                                    ✓      ✓     ✓
 Dark Rift (USA)                                                                       ✓      ✓     ✓
 Deadly Arts (USA)                                                                     ✓      ✓     ✓
@@ -218,7 +218,7 @@ Excitebike 64 (Europe)                                                          
 Excitebike 64 (Japan)                                                                 ✓      ✓     ✓
 Excitebike 64 (USA)                                                                   ✓      ✓     ✓
 Excitebike 64 (USA) (Demo) (Kiosk)                                                    ✓      ✓     ✓
-Excitebike 64 (USA) (Rev A)                                                           ✓      ✗     ✗
+Excitebike 64 (USA) (Rev A)                                                           ✓      ✓     ✓
 Extreme-G (Europe) (En,Fr,De,Es,It)                                                   ✓      ✓     ✓
 Extreme-G (Japan)                                                                     ✓      ✓     ✓
 Extreme-G (USA)                                                                       ✓      ✓     ✓
@@ -239,7 +239,7 @@ F1 Pole Position 64 (Europe) (En,Fr,De)                                         
 F1 Pole Position 64 (USA) (En,Fr,De)                                                  ✓      ✓     ✓
 F1 Racing Championship (Brazil) (En,Fr)                                               ✓      ✓     ✓
 F1 Racing Championship (Europe) (En,Fr,De,Es,It)                                      ✓      ✓     ✓
-Famista 64 (Japan)                                                                    ✗      ✓     ✓
+Famista 64 (Japan)                                                                    ✓      ✓     ✓
 FIFA - Road to World Cup 98 - World Cup e no Michi (Japan)                            ✓      ✓     ✓
 FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv)                           ✓      ✓     ✓
 FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv)                              ✓      ✓     ✓
@@ -283,18 +283,18 @@ Gex 64 - Enter the Gecko (Europe)                                               
 Gex 64 - Enter the Gecko (USA)                                                        ✓      ✓     ✓
 Glover (Europe) (En,Fr,De)                                                            ✓      ✓     ✓
 Glover (USA)                                                                          ✓      ✓     ✓
-Glover (USA) (Beta)                                                                   ✓      ✗     ✗
+Glover (USA) (Beta)                                                                   ✓      ✓     ✓
 Glover 2 (USA) (Proto)                                                                ✓      ✓     ✓
-Glover 2 (USA) (Proto) (early)                                                        ✓      ✗     ✗
+Glover 2 (USA) (Proto) (early)                                                        ✓      ✓     ✓
 Goemon - Mononoke Sugoroku (Japan)                                                    ✓      ✓     ✓
 Goemon's Great Adventure (USA)                                                        ✓      ✓     ✓
 Golden Nugget 64 (USA)                                                                ✓      ✓     ✓
 GT64 - Championship Edition (Europe) (En,Fr,De)                                       ✓      ✓     ✓
 GT64 - Championship Edition (USA)                                                     ✓      ✓     ✓
-Hamster Monogatari 64 (Japan)                                                         ✗      ✓     ✓
+Hamster Monogatari 64 (Japan)                                                         ✓      ✓     ✓
 Harukanaru Augusta - Masters '98 (Japan)                                              ✓      ✓     ✓
 Harvest Moon 64 (USA)                                                                 ✓      ✓     ✓
-Heiwa Pachinko World 64 (Japan)                                                       ✗      ✓     ✓
+Heiwa Pachinko World 64 (Japan)                                                       ✓      ✓     ✓
 Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl)                        ✓      ✓     ✓
 Hercules - The Legendary Journeys (USA)                                               ✓      ✓     ✓
 Hexen (Europe)                                                                        ✓      ✓     ✓
@@ -322,13 +322,13 @@ Hydro Thunder (Europe)                                                          
 Hydro Thunder (France)                                                                ✓      ✓     ✓
 Hydro Thunder (USA)                                                                   ✓      ✓     ✓
 Hyper Olympics in Nagano 64 (Japan)                                                   ✓      ✓     ✓
-Ide Yosuke no Mahjong Juku (Japan)                                                    ✗      ✓     ✓
+Ide Yosuke no Mahjong Juku (Japan)                                                    ✓      ✓     ✓
 Iggy-kun no Bura Bura Poyon (Japan)                                                   ✓      ✓     ✓
 Iggy's Reckin' Balls (Europe)                                                         ✓      ✓     ✓
 Iggy's Reckin' Balls (USA)                                                            ✓      ✓     ✓
 In-Fisherman - Bass Hunter 64 (Europe)                                                ✓      ✓     ✓
 In-Fisherman - Bass Hunter 64 (USA)                                                   ✓      ✓     ✓
-Indiana Jones and the Infernal Machine (Australia) (Proto)                            ✗      ✗     ✗
+Indiana Jones and the Infernal Machine (Australia) (Proto)                            ✓      ✓     ✓
 Indiana Jones and the Infernal Machine (USA)                                          ✓      ✓     ✓
 Indy Racing 2000 (USA)                                                                ✓      ✓     ✓
 International Superstar Soccer '98 (Europe)                                           ✓      ✓     ✓
@@ -340,7 +340,7 @@ International Superstar Soccer 64 (Europe)                                      
 International Superstar Soccer 64 (USA)                                               ✓      ✓     ✓
 International Track _ Field - Summer Games (Europe) (En,Fr,De)                        ✓      ✓     ✓
 International Track _ Field 2000 (USA)                                                ✓      ✓     ✓
-Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban! (Japan)                                ✗      ✓     ✓
+Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban! (Japan)                                ✓      ✓     ✓
 J.League Dynamite Soccer 64 (Japan)                                                   ✓      ✓     ✓
 J.League Eleven Beat 1997 (Japan)                                                     ✗      ✓     ✓
 J.League Live 64 (Japan)                                                              ✗      ✓     ✓
@@ -400,18 +400,18 @@ Last Legion UX (Japan)                                                          
 Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es)                           ✓      ✓     ✓
 Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Debug Version)           ✓      ✓     ✓
 Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev A)                   ✓      ✓     ✓
-Legend of Zelda, The - Majora's Mask (Europe) (GameCube Edition)                      ✗      ✗     ✗
+Legend of Zelda, The - Majora's Mask (Europe) (GameCube Edition)                      ✓      ✓     ✓
 Legend of Zelda, The - Majora's Mask (USA)                                            ✓      ✓     ✓
 Legend of Zelda, The - Majora's Mask (USA) (Demo)                                     ✓      ✓     ✓
-Legend of Zelda, The - Majora's Mask (USA) (GameCube Edition)                         ✗      ✗     ✗
+Legend of Zelda, The - Majora's Mask (USA) (GameCube Edition)                         ✓      ✓     ✓
 Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube Edition)     ✗      ✗     ✗
 Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (Debug Version)           ✓      ✓     ✓
-Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube Edition)        ✗      ✗     ✗
+Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube Edition)        ✓      ✓     ✓
 Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De)                            ✓      ✓     ✓
 Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev A)                    ✓      ✓     ✓
-Legend of Zelda, The - Ocarina of Time (Europe) (GameCube Edition)                    ✗      ✗     ✗
+Legend of Zelda, The - Ocarina of Time (Europe) (GameCube Edition)                    ✓      ✓     ✓
 Legend of Zelda, The - Ocarina of Time (USA)                                          ✓      ✓     ✓
-Legend of Zelda, The - Ocarina of Time (USA) (GameCube Edition)                       ✗      ✗     ✗
+Legend of Zelda, The - Ocarina of Time (USA) (GameCube Edition)                       ✓      ✓     ✓
 Legend of Zelda, The - Ocarina of Time (USA) (Rev A)                                  ✓      ✓     ✓
 Legend of Zelda, The - Ocarina of Time (USA) (Rev B)                                  ✓      ✓     ✓
 LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)                                  ✓      ✓     ✓
@@ -420,8 +420,8 @@ Let's Smash (Japan)                                                             
 Lode Runner 3-D (Europe) (En,Fr,De,Es,It)                                             ✓      ✓     ✓
 Lode Runner 3-D (Japan)                                                               ✓      ✓     ✓
 Lode Runner 3-D (USA)                                                                 ✓      ✓     ✓
-Lylat Wars (Australia) (En,Fr,De)                                                     ✗      ✓     ✓
-Lylat Wars (Europe) (En,Fr,De)                                                        ✗      ✓     ✓
+Lylat Wars (Australia) (En,Fr,De)                                                     ✓      ✓     ✓
+Lylat Wars (Europe) (En,Fr,De)                                                        ✓      ✓     ✓
 Mace - The Dark Age (Europe)                                                          ✓      ✓     ✓
 Mace - The Dark Age (USA)                                                             ✓      ✓     ✓
 Madden Football 64 (Europe)                                                           ✓      ✓     ✓
@@ -464,7 +464,7 @@ Mario Tennis (Europe)                                                           
 Mario Tennis (USA)                                                                    ✓      ✓     ✓
 Mario Tennis 64 (Japan)                                                               ✓      ✓     ✓
 Mega Man 64 (USA)                                                                     ✓      ✓     ✓
-Mega Man 64 (USA) (Beta)                                                              ✗      ✗     ✗
+Mega Man 64 (USA) (Beta)                                                              ✓      ✓     ✓
 Mia Hamm Soccer 64 (USA) (En,Es)                                                      ✓      ✓     ✓
 Michael Owen's World League Soccer 2000 (Europe)                                      ✓      ✓     ✓
 Mickey no Racing Challenge USA (Japan)                                                ✓      ✓     ✓
@@ -476,7 +476,7 @@ Midway's Greatest Arcade Hits - Volume 1 (USA)                                  
 Mike Piazza's StrikeZone (USA)                                                        ✓      ✓     ✓
 Milo's Astro Lanes (Europe)                                                           ✓      ✓     ✓
 Milo's Astro Lanes (USA)                                                              ✓      ✓     ✓
-Mini Racers (USA) (Ja) (Proto)                                                        ✗      ✗     ✗
+Mini Racers (USA) (Ja) (Proto)                                                        ✗      ✓     ✓
 Mischief Makers (Europe)                                                              ✓      ✓     ✓
 Mischief Makers (USA)                                                                 ✓      ✓     ✓
 Mischief Makers (USA) (Rev A)                                                         ✓      ✓     ✓
@@ -491,7 +491,7 @@ Monaco Grand Prix (USA)                                                         
 Monopoly (USA)                                                                        ✓      ✓     ✓
 Monster Truck Madness 64 (Europe) (En,Fr,De,Es,It)                                    ✓      ✓     ✓
 Monster Truck Madness 64 (USA)                                                        ✓      ✓     ✓
-Morita Shougi 64 (Japan)                                                              ✗      ✓     ✓
+Morita Shougi 64 (Japan)                                                              ✓      ✓     ✓
 Mortal Kombat 4 (Europe)                                                              ✓      ✓     ✓
 Mortal Kombat 4 (USA)                                                                 ✓      ✓     ✓
 Mortal Kombat Mythologies - Sub-Zero (Europe)                                         ✓      ✓     ✓
@@ -539,7 +539,7 @@ New Tetris, The (USA)                                                           
 NFL Blitz - Special Edition (USA)                                                     ✓      ✓     ✓
 NFL Blitz (USA)                                                                       ✓      ✓     ✓
 NFL Blitz 2000 (USA)                                                                  ✓      ✓     ✓
-NFL Blitz 2000 (USA) (Rev A)                                                          ✓      ✗     ✗
+NFL Blitz 2000 (USA) (Rev A)                                                          ✓      ✓     ✓
 NFL Blitz 2001 (USA)                                                                  ✓      ✓     ✓
 NFL QB Club 2001 (USA)                                                                ✓      ✓     ✓
 NFL Quarterback Club 2000 (Europe)                                                    ✓      ✓     ✓
@@ -557,7 +557,7 @@ NHL Breakaway 99 (Europe)                                                       
 NHL Breakaway 99 (USA)                                                                ✓      ✓     ✓
 NHL Pro 99 (Europe)                                                                   ✓      ✓     ✓
 Nightmare Creatures (USA)                                                             ✓      ✓     ✓
-Nintama Rantarou 64 Game Gallery (Japan)                                              ✗      ✓     ✓
+Nintama Rantarou 64 Game Gallery (Japan)                                              ✓      ✓     ✓
 Nintendo All-Star! Dairantou Smash Brothers (Japan)                                   ✓      ✓     ✓
 Nuclear Strike 64 (Europe) (En,Fr)                                                    ✓      ✓     ✓
 Nuclear Strike 64 (Germany)                                                           ✓      ✓     ✓
@@ -628,7 +628,7 @@ Pokemon Stadium 2 (Spain)                                                       
 Pokemon Stadium 2 (USA)                                                               ✓      ✓     ✓
 Pokemon Stadium Kin Gin (Japan)                                                       ✓      ✓     ✓
 Polaris SnoCross (USA)                                                                ✓      ✓     ✓
-Power League 64 (Japan)                                                               ✗      ✓     ✓
+Power League 64 (Japan)                                                               ✓      ✓     ✓
 Power Rangers - Lightspeed Rescue (Europe)                                            ✓      ✓     ✓
 Power Rangers - Lightspeed Rescue (USA)                                               ✓      ✓     ✓
 Powerpuff Girls, The - Chemical X-Traction (USA)                                      ✓      ✓     ✓
@@ -704,7 +704,7 @@ Shadow Man (Brazil)                                                             
 Shadow Man (Europe) (En,Es,It)                                                        ✗      ✓     ✓
 Shadow Man (France)                                                                   ✗      ✓     ✓
 Shadow Man (Germany)                                                                  ✗      ✓     ✓
-Shadow Man (USA)                                                                      ✗      ✓     ✓
+Shadow Man (USA)                                                                      ✓      ✓     ✓
 Shadowgate 64 - Trials of the Four Towers (Europe)                                    ✓      ✓     ✓
 Shadowgate 64 - Trials of the Four Towers (Europe) (Es,It)                            ✓      ✓     ✓
 Shadowgate 64 - Trials of the Four Towers (Europe) (Fr,De,Nl)                         ✓      ✓     ✓
@@ -771,7 +771,7 @@ Super Mario 64 (Japan)                                                          
 Super Mario 64 (Japan) (Rev A) (Shindou Edition)                                      ✓      ✓     ✓
 Super Mario 64 (USA)                                                                  ✓      ✓     ✓
 Super Robot Spirits (Japan)                                                           ✓      ✓     ✓
-Super Robot Taisen 64 (Japan)                                                         ✗      ✓     ✓
+Super Robot Taisen 64 (Japan)                                                         ✓      ✓     ✓
 Super Smash Bros. (Australia)                                                         ✓      ✓     ✓
 Super Smash Bros. (Europe) (En,Fr,De)                                                 ✓      ✓     ✓
 Super Smash Bros. (USA)                                                               ✓      ✓     ✓
