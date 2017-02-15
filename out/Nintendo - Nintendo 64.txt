@@ -1,9 +1,9 @@
 Nintendo - Nintendo 64
 
-Boxarts    894/949  94.20%
-Snaps      933/949  98.31%
-Titles     933/949  98.31%
-Total    2760/2847  96.94%
+Boxarts    898/949  94.63%
+Snaps      945/949  99.58%
+Titles     944/949  99.47%
+Total    2787/2847  97.89%
 
 Name                                                                               Boxart  Snap  Title
 007 - GoldenEye (Europe)                                                              ✓      ✓     ✓
@@ -30,7 +30,7 @@ AeroGauge (USA)                                                                 
 AI Shougi 3 (Japan)                                                                   ✓      ✓     ✓
 Aidyn Chronicles - The First Mage (Europe)                                            ✓      ✓     ✓
 Aidyn Chronicles - The First Mage (USA)                                               ✓      ✓     ✓
-Aidyn Chronicles - The First Mage (USA) (Rev A)                                       ✓      ✗     ✗
+Aidyn Chronicles - The First Mage (USA) (Rev A)                                       ✓      ✓     ✓
 Air Boarder 64 (Europe)                                                               ✓      ✓     ✓
 Air Boarder 64 (Japan)                                                                ✓      ✓     ✓
 Akumajou Dracula Mokushiroku - Real Action Adventure (Japan)                          ✓      ✓     ✓
@@ -149,7 +149,7 @@ Command _ Conquer (Germany)                                                     
 Command _ Conquer (USA)                                                               ✓      ✓     ✓
 Conker's Bad Fur Day (Europe)                                                         ✓      ✓     ✓
 Conker's Bad Fur Day (USA)                                                            ✓      ✓     ✓
-Conker's Bad Fur Day (USA) (Demo) (Kiosk, ECTS 2000)                                  ✗      ✗     ✗
+Conker's Bad Fur Day (USA) (Demo) (Kiosk, ECTS 2000)                                  ✓      ✓     ✓
 Cruis'n Exotica (USA)                                                                 ✓      ✓     ✓
 Cruis'n USA (Europe)                                                                  ✓      ✓     ✓
 Cruis'n USA (USA)                                                                     ✓      ✓     ✓
@@ -203,7 +203,7 @@ Duke Nukem - Zero Hour (Europe)                                                 
 Duke Nukem - Zero Hour (France)                                                       ✓      ✓     ✓
 Duke Nukem - Zero Hour (USA)                                                          ✓      ✓     ✓
 Duke Nukem 64 (Europe)                                                                ✓      ✓     ✓
-Duke Nukem 64 (Europe) (Beta)                                                         ✗      ✗     ✗
+Duke Nukem 64 (Europe) (Beta)                                                         ✓      ✓     ✓
 Duke Nukem 64 (France)                                                                ✓      ✓     ✓
 Duke Nukem 64 (USA)                                                                   ✓      ✓     ✓
 Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)                                            ✓      ✓     ✓
@@ -404,7 +404,7 @@ Legend of Zelda, The - Majora's Mask (Europe) (GameCube Edition)                
 Legend of Zelda, The - Majora's Mask (USA)                                            ✓      ✓     ✓
 Legend of Zelda, The - Majora's Mask (USA) (Demo)                                     ✓      ✓     ✓
 Legend of Zelda, The - Majora's Mask (USA) (GameCube Edition)                         ✓      ✓     ✓
-Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube Edition)     ✗      ✗     ✗
+Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube Edition)     ✓      ✓     ✓
 Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (Debug Version)           ✓      ✓     ✓
 Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube Edition)        ✓      ✓     ✓
 Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De)                            ✓      ✓     ✓
@@ -618,7 +618,7 @@ Pokemon Stadium (Japan)                                                         
 Pokemon Stadium (Spain)                                                               ✓      ✓     ✓
 Pokemon Stadium (USA)                                                                 ✓      ✓     ✓
 Pokemon Stadium (USA) (Rev A)                                                         ✓      ✓     ✓
-Pokemon Stadium (USA) (Rev B)                                                         ✓      ✗     ✗
+Pokemon Stadium (USA) (Rev B)                                                         ✓      ✓     ✓
 Pokemon Stadium 2 (Europe)                                                            ✓      ✓     ✓
 Pokemon Stadium 2 (France)                                                            ✓      ✓     ✓
 Pokemon Stadium 2 (Germany)                                                           ✓      ✓     ✓
@@ -693,12 +693,12 @@ S.C.A.R.S. (USA)                                                                
 Saikyou Habu Shougi (Japan)                                                           ✓      ✓     ✓
 San Francisco Rush - Extreme Racing (Europe) (En,Fr,De)                               ✓      ✓     ✓
 San Francisco Rush - Extreme Racing (USA) (En,Fr,De)                                  ✓      ✓     ✓
-San Francisco Rush - Extreme Racing (USA) (En,Fr,De) (Rev A)                          ✓      ✗     ✗
+San Francisco Rush - Extreme Racing (USA) (En,Fr,De) (Rev A)                          ✓      ✓     ✓
 San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl)                                  ✓      ✓     ✓
 San Francisco Rush 2049 (USA)                                                         ✓      ✓     ✓
 Scooby-Doo! - Classic Creep Capers (Europe)                                           ✓      ✓     ✓
 Scooby-Doo! - Classic Creep Capers (USA)                                              ✓      ✓     ✓
-Scooby-Doo! - Classic Creep Capers (USA) (Rev A)                                      ✓      ✗     ✗
+Scooby-Doo! - Classic Creep Capers (USA) (Rev A)                                      ✓      ✓     ✓
 SD Hiryuu no Ken Densetsu (Japan)                                                     ✓      ✓     ✓
 Shadow Man (Brazil)                                                                   ✗      ✓     ✓
 Shadow Man (Europe) (En,Es,It)                                                        ✗      ✓     ✓
@@ -746,7 +746,7 @@ Star Wars - Rogue Squadron (USA)                                                
 Star Wars - Rogue Squadron (USA) (Rev A)                                              ✓      ✓     ✓
 Star Wars - Shadows of the Empire (Europe)                                            ✓      ✓     ✓
 Star Wars - Shadows of the Empire (USA)                                               ✓      ✓     ✓
-Star Wars - Shadows of the Empire (USA) (Beta)                                        ✓      ✗     ✗
+Star Wars - Shadows of the Empire (USA) (Beta)                                        ✓      ✓     ✓
 Star Wars - Shadows of the Empire (USA) (Rev A)                                       ✓      ✓     ✓
 Star Wars - Shadows of the Empire (USA) (Rev B)                                       ✓      ✓     ✓
 Star Wars - Shutsugeki! Rogue Chuutai (Japan)                                         ✓      ✓     ✓
@@ -780,7 +780,7 @@ Supercross 2000 (Europe) (En,Fr,De)                                             
 Supercross 2000 (USA)                                                                 ✓      ✓     ✓
 Superman - The New Superman Aventures (USA) (En,Fr,Es)                                ✓      ✓     ✓
 Superman (Europe) (En,Fr,De,Es,It,Nl)                                                 ✓      ✓     ✓
-Superman (USA) (Beta)                                                                 ✓      ✗     ✗
+Superman (USA) (Beta)                                                                 ✓      ✓     ✓
 Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan)                            ✗      ✓     ✓
 Sydney 2000 (Europe) (Proto)                                                          ✗      ✓     ✓
 Sydney 2000 (USA) (Proto)                                                             ✗      ✓     ✓
@@ -849,7 +849,7 @@ Turok - Legenden des Verlorenen Landes (Germany)                                
 Turok - Rage Wars (Europe)                                                            ✓      ✓     ✓
 Turok - Rage Wars (Europe) (En,Fr,It)                                                 ✓      ✓     ✓
 Turok - Rage Wars (USA)                                                               ✓      ✓     ✓
-Turok - Rage Wars (USA) (Rev A)                                                       ✓      ✗     ✗
+Turok - Rage Wars (USA) (Rev A)                                                       ✓      ✓     ✗
 Turok 2 - Seeds of Evil (Europe)                                                      ✓      ✓     ✓
 Turok 2 - Seeds of Evil (Europe) (Demo) (Kiosk)                                       ✓      ✓     ✓
 Turok 2 - Seeds of Evil (Europe) (En,Fr,Es,It)                                        ✓      ✓     ✓
@@ -913,7 +913,7 @@ Wetrix (Japan)                                                                  
 Wetrix (USA) (En,Fr,De,Es,It,Nl)                                                      ✓      ✓     ✓
 Wheel of Fortune (USA)                                                                ✓      ✓     ✓
 Wild Choppers (Japan)                                                                 ✓      ✓     ✓
-Wildwaters (USA) (Proto)                                                              ✗      ✗     ✗
+Wildwaters (USA) (Proto)                                                              ✗      ✓     ✓
 WinBack - Covert Operations (USA)                                                     ✓      ✓     ✓
 WinBack (Japan)                                                                       ✓      ✓     ✓
 WinBack (Japan) (Rev A)                                                               ✓      ✓     ✓
@@ -947,7 +947,7 @@ Yoshi's Story (Europe) (En,Fr,De)                                               
 Yoshi's Story (USA) (En,Ja)                                                           ✓      ✓     ✓
 Yuke Yuke!! Trouble Makers (Japan)                                                    ✓      ✓     ✓
 Zelda no Densetsu - Mujura no Kamen (Japan)                                           ✓      ✓     ✓
-Zelda no Densetsu - Mujura no Kamen (Japan) (GameCube Edition)                        ✗      ✗     ✗
+Zelda no Densetsu - Mujura no Kamen (Japan) (GameCube Edition)                        ✓      ✓     ✓
 Zelda no Densetsu - Mujura no Kamen (Japan) (Rev A)                                   ✓      ✓     ✓
 Zelda no Densetsu - Toki no Ocarina (Japan)                                           ✓      ✓     ✓
 Zelda no Densetsu - Toki no Ocarina (Japan) (Rev A)                                   ✓      ✓     ✓
