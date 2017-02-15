@@ -81,7 +81,7 @@ glob('libretro-database/rdb/*.rdb', function (err, files) {
 			let systemReport = report[systemName]
 			let total = systemReport.snap + systemReport.boxart + systemReport.title
 			let totalPercent = ((total / (systemReport.total * 3)) * 100).toFixed(2)
-			output += `| [${systemName}](${systemName}.txt) | ${systemReport.boxart} / ${systemReport.total} | ${systemReport.snap} / ${systemReport.total} | ${systemReport.title} / ${systemReport.total} | ${total} / ${systemReport.total * 3} | **${totalPercent}%** |\n`
+			output += `| [${systemName}](out/${systemName}.txt) | ${systemReport.boxart} / ${systemReport.total} | ${systemReport.snap} / ${systemReport.total} | ${systemReport.title} / ${systemReport.total} | ${total} / ${systemReport.total * 3} | **${totalPercent}%** |\n`
 		}
 		output += `| **Total** | **${totals.boxart} / ${totals.total}** | **${totals.snap} / ${totals.total}** | **${totals.title} / ${totals.total}** | **${titletotal} / ${totals.total * 3}** | **${totalTotalPercent}%** |`
 
