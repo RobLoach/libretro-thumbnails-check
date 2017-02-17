@@ -1,9 +1,9 @@
 Atari - 2600
 
-Boxarts    568/582  97.59%
-Snaps      573/582  98.45%
-Titles     570/582  97.94%
-Total    1711/1746  98.00%
+Boxarts    569/582  97.77%
+Snaps      575/582  98.80%
+Titles     575/582  98.80%
+Total    1719/1746  98.45%
 
 Name                                                                                   Boxart  Snap  Title
 3-D Tic-Tac-Toe (USA)                                                                     ✓      ✓     ✓
@@ -125,7 +125,7 @@ Defender (USA)                                                                  
 Demolition Herby (USA)                                                                    ✓      ✓     ✓
 Demon Attack (USA) (Rev 1)                                                                ✓      ✓     ✓
 Demons to Diamonds (USA)                                                                  ✓      ✓     ✓
-Depth Charge (USA) (Proto)                                                                ✗      ✓     ✗
+Depth Charge (USA) (Proto)                                                                ✓      ✓     ✓
 Desert Falcon (USA)                                                                       ✓      ✓     ✓
 Dice Puzzle (Europe)                                                                      ✓      ✓     ✓
 Dice Puzzle (USA)                                                                         ✓      ✓     ✓
@@ -169,7 +169,7 @@ Fathom (USA)                                                                    
 Final Approach (USA)                                                                      ✓      ✓     ✓
 Fire Fighter (USA)                                                                        ✓      ✓     ✓
 Fire Fly (USA)                                                                            ✓      ✓     ✓
-Fire Spinner (USA)                                                                        ✗      ✗     ✗
+Fire Spinner (USA)                                                                        ✗      ✓     ✓
 Fireball (USA)                                                                            ✓      ✓     ✓
 Fishing Derby (USA)                                                                       ✓      ✓     ✓
 Flag Capture ~ Capture (USA)                                                              ✓      ✓     ✓
@@ -318,7 +318,7 @@ Nightmare (Europe)                                                              
 No Escape! (USA)                                                                          ✓      ✓     ✓
 Nuts (Europe)                                                                             ✓      ✓     ✓
 Nuts (USA)                                                                                ✓      ✓     ✓
-O Monstro Marinho (Europe)                                                                ✗      ✗     ✗
+O Monstro Marinho (Europe)                                                                ✗      ✓     ✓
 Obelix (USA)                                                                              ✓      ✓     ✓
 Off the Wall (USA)                                                                        ✓      ✓     ✓
 Off Your Rocker (USA) (Proto)                                                             ✓      ✓     ✓
@@ -379,7 +379,7 @@ Raft Rider (USA)                                                                
 Raiders of the Lost Ark (USA)                                                             ✓      ✓     ✓
 Ram It (USA)                                                                              ✓      ✓     ✓
 Rampage! (USA)                                                                            ✓      ✓     ✓
-Raumpatrouille (USA)                                                                      ✓      ✓     ✗
+Raumpatrouille (USA)                                                                      ✓      ✓     ✓
 Reactor (USA)                                                                             ✓      ✓     ✓
 RealSports Baseball (USA)                                                                 ✓      ✓     ✓
 RealSports Basketball (Europe) (Proto)                                                    ✓      ✓     ✓
@@ -388,7 +388,7 @@ RealSports Football (USA)                                                       
 RealSports Soccer (USA)                                                                   ✓      ✓     ✓
 RealSports Tennis (USA)                                                                   ✓      ✓     ✓
 RealSports Volleyball (USA)                                                               ✓      ✓     ✓
-Red Sea Crossing (USA)                                                                    ✓      ✓     ✗
+Red Sea Crossing (USA)                                                                    ✓      ✓     ✓
 Rescue Terra I (USA)                                                                      ✓      ✓     ✓
 Revenge of the Beefsteak Tomatoes (USA)                                                   ✓      ✓     ✓
 Riddle of the Sphinx (USA)                                                                ✓      ✓     ✓

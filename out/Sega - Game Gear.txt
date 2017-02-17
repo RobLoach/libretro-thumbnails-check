@@ -1,12 +1,11 @@
 Sega - Game Gear
 
-Boxarts    370/498  74.30%
-Snaps      444/498  89.16%
-Titles     444/498  89.16%
-Total    1258/1494  84.20%
+Boxarts    373/497  75.05%
+Snaps      475/497  95.57%
+Titles     474/497  95.37%
+Total    1322/1491  88.67%
 
 Name                                                                                Boxart  Snap  Title
-[BIOS] Sega Game Gear (USA) (Majesco)                                                  ✗      ✗     ✗
 5 in 1 Funpak (USA)                                                                    ✓      ✓     ✓
 Aa Harimanada (Japan)                                                                  ✓      ✓     ✓
 Addams Family, The (World)                                                             ✓      ✓     ✓
@@ -37,9 +36,9 @@ Ayrton Senna's Super Monaco GP II (USA, Europe) (Beta)                          
 Baku Baku Animal - Sekai Shiikugakari Senshu-ken (Japan)                               ✓      ✓     ✓
 Baku Baku Animal (Europe)                                                              ✓      ✓     ✓
 Baku Baku Animal (USA)                                                                 ✓      ✓     ✓
-Barbie Super Model (Unknown) (Proto)                                                   ✗      ✓     ✓
-Bare Knuckle ~ Streets of Rage (World)                                                 ✓      ✗     ✗
-Bare Knuckle II ~ Streets of Rage 2 ~ Streets of Rage II (World)                       ✓      ✗     ✗
+Barbie Super Model (Unknown) (Proto)                                                   ✓      ✓     ✓
+Bare Knuckle ~ Streets of Rage (World)                                                 ✓      ✓     ✓
+Bare Knuckle II ~ Streets of Rage 2 ~ Streets of Rage II (World)                       ✓      ✓     ✗
 Bartman Meets Radioactive Man (USA)                                                    ✓      ✓     ✓
 Batman Forever (World)                                                                 ✓      ✓     ✓
 Batman Returns (World)                                                                 ✓      ✓     ✓
@@ -47,10 +46,10 @@ Batter Up (USA, Europe)                                                         
 Battleship (USA, Europe)                                                               ✓      ✓     ✓
 Battletoads (Japan, Europe)                                                            ✓      ✓     ✓
 Battletoads (USA)                                                                      ✓      ✓     ✓
-Beavis and Butt-Head (USA, Europe)                                                     ✓      ✗     ✗
-Beavis and Butt-Head (USA, Europe) (Beta)                                              ✓      ✗     ✗
+Beavis and Butt-Head (USA, Europe)                                                     ✓      ✓     ✓
+Beavis and Butt-Head (USA, Europe) (Beta)                                              ✓      ✓     ✓
 Berenstain Bears' Camping Adventure, The (USA)                                         ✓      ✓     ✓
-Berlin no Kabe (Japan)                                                                 ✗      ✓     ✓
+Berlin no Kabe (Japan)                                                                 ✓      ✓     ✓
 Bishoujo Senshi Sailor Moon S (Japan)                                                  ✓      ✓     ✓
 Bonkers Wax Up! (USA, Europe)                                                          ✓      ✓     ✓
 Bram Stoker's Dracula (Europe)                                                         ✓      ✓     ✓
@@ -67,8 +66,8 @@ Casino Funpak (USA)                                                             
 Castle of Illusion Starring Mickey Mouse (USA, Europe)                                 ✓      ✓     ✓
 Cave Dude (USA) (Proto)                                                                ✗      ✗     ✗
 Chakan (USA, Europe)                                                                   ✓      ✓     ✓
-Championship Hockey (Europe)                                                           ✗      ✓     ✓
-Cheese Cat-Astrophe Starring Speedy Gonzales (Europe) (En,Fr,De,Es)                    ✓      ✗     ✗
+Championship Hockey (Europe)                                                           ✓      ✓     ✓
+Cheese Cat-Astrophe Starring Speedy Gonzales (Europe) (En,Fr,De,Es)                    ✓      ✓     ✓
 Chessmaster, The (USA, Europe)                                                         ✓      ✓     ✓
 Chicago Syndicate (USA, Europe)                                                        ✓      ✓     ✓
 Choplifter III (USA)                                                                   ✓      ✓     ✓
@@ -105,7 +104,7 @@ Devilish (USA)                                                                  
 Donald Duck no 4-Tsu no Hihou (Japan)                                                  ✓      ✓     ✓
 Donald Duck no Lucky Dime (Japan)                                                      ✓      ✓     ✓
 Donald no Magical World (Japan) (En,Ja)                                                ✓      ✓     ✓
-Doraemon - Noranosuke no Yabou (Japan)                                                 ✗      ✗     ✗
+Doraemon - Noranosuke no Yabou (Japan)                                                 ✗      ✓     ✓
 Doraemon - Waku Waku Pocket Paradise (Japan)                                           ✗      ✓     ✓
 Double Dragon (USA, Europe)                                                            ✓      ✓     ✓
 Double Dragon (USA, Europe) (Beta)                                                     ✓      ✓     ✓
@@ -149,9 +148,9 @@ Fred Couples' Golf (Japan)                                                      
 Fred Couples' Golf (USA)                                                               ✓      ✓     ✓
 Frogger (USA) (Proto)                                                                  ✓      ✓     ✓
 From TV Animation - Slam Dunk - Shouri e no Starting 5 (Japan)                         ✗      ✓     ✓
-G-LOC - Air Battle (Japan)                                                             ✗      ✗     ✗
-G-LOC - Air Battle (Japan) (Rev 1)                                                     ✗      ✗     ✗
-G-LOC - Air Battle (USA, Europe)                                                       ✗      ✗     ✗
+G-LOC - Air Battle (Japan)                                                             ✗      ✓     ✓
+G-LOC - Air Battle (Japan) (Rev 1)                                                     ✗      ✓     ✓
+G-LOC - Air Battle (USA, Europe)                                                       ✗      ✓     ✓
 G-Sonic ~ Sonic Blast (World)                                                          ✗      ✗     ✗
 Galaga '91 (Japan)                                                                     ✗      ✓     ✓
 Galaga 2 (Europe)                                                                      ✗      ✓     ✓
@@ -165,14 +164,14 @@ Gear Stadium Heiseiban (Japan)                                                  
 Gear Works (USA)                                                                       ✓      ✓     ✓
 George Foreman's KO Boxing (USA, Europe)                                               ✓      ✓     ✓
 GG Aleste (Japan)                                                                      ✗      ✓     ✓
-GG Aleste II ~ Power Strike II (Japan, Europe)                                         ✓      ✗     ✗
+GG Aleste II ~ Power Strike II (Japan, Europe)                                         ✓      ✓     ✓
 GG Portrait - Pai Chen (Japan)                                                         ✗      ✓     ✓
 GG Portrait - Yuuki Akira (Japan)                                                      ✗      ✓     ✓
 GG Shinobi, The (Japan)                                                                ✓      ✓     ✓
-Gojira - Kaijuu Daishingeki (Japan)                                                    ✗      ✗     ✗
+Gojira - Kaijuu Daishingeki (Japan)                                                    ✗      ✓     ✓
 GP Rider (Japan)                                                                       ✓      ✓     ✓
 GP Rider (USA, Europe)                                                                 ✓      ✓     ✓
-Greendog - The Beached Surfer Dude! (USA, Europe)                                      ✓      ✗     ✗
+Greendog - The Beached Surfer Dude! (USA, Europe)                                      ✓      ✓     ✓
 Griffin (Japan)                                                                        ✓      ✓     ✓
 Gunstar Heroes (Japan)                                                                 ✗      ✓     ✓
 Halley Wars (Japan)                                                                    ✓      ✓     ✓
@@ -202,8 +201,8 @@ James Pond II - Codename RoboCod (USA)                                          
 Jang Pung II (Korea) (Unl)                                                             ✗      ✓     ✓
 Jeopardy! - Sports Edition (USA, Europe)                                               ✓      ✓     ✓
 Jeopardy! (USA)                                                                        ✓      ✓     ✓
-Joe Montana Football (Japan)                                                           ✓      ✗     ✗
-Joe Montana Football (USA, Europe)                                                     ✓      ✗     ✗
+Joe Montana Football (Japan)                                                           ✓      ✓     ✓
+Joe Montana Football (USA, Europe)                                                     ✓      ✓     ✓
 Journey from Darkness - Strider Returns (USA, Europe)                                  ✓      ✓     ✓
 Judge Dredd (USA, Europe)                                                              ✓      ✓     ✓
 Junction (Japan) (En)                                                                  ✓      ✓     ✓
@@ -213,7 +212,7 @@ Jungle Book, The (USA)                                                          
 Jungle Strike (USA)                                                                    ✗      ✓     ✓
 Jurassic Park (Japan)                                                                  ✓      ✓     ✓
 Jurassic Park (USA, Europe)                                                            ✓      ✓     ✓
-Kaitou Saint Tail (Japan)                                                              ✗      ✗     ✗
+Kaitou Saint Tail (Japan)                                                              ✗      ✓     ✓
 Kawasaki Superbike Challenge (USA, Europe)                                             ✓      ✓     ✓
 Kenyuu Densetsu Yaiba (Japan)                                                          ✓      ✓     ✓
 Kick _ Rush (Japan)                                                                    ✗      ✓     ✓
@@ -233,10 +232,10 @@ Lion King, The (Europe)                                                         
 Lion King, The (Japan)                                                                 ✓      ✓     ✓
 Lion King, The (USA)                                                                   ✓      ✓     ✓
 Lost World, The - Jurassic Park (USA)                                                  ✓      ✓     ✓
-Lucky Dime Caper Starring Donald Duck, The (USA, Europe)                               ✓      ✗     ✗
+Lucky Dime Caper Starring Donald Duck, The (USA, Europe)                               ✓      ✓     ✓
 Lunar - Sanposuru Gakuen (Japan)                                                       ✓      ✓     ✓
-Madden 96 (USA, Europe)                                                                ✓      ✗     ✗
-Madden NFL 95 (USA)                                                                    ✓      ✗     ✗
+Madden 96 (USA, Europe)                                                                ✓      ✓     ✓
+Madden NFL 95 (USA)                                                                    ✓      ✓     ✓
 Madou Monogatari A - Dokidoki Vacation (Japan)                                         ✗      ✓     ✓
 Madou Monogatari I - 3-Tsu no Madoukyuu (Japan)                                        ✗      ✓     ✓
 Madou Monogatari II - Arle 16-Sai (Japan)                                              ✗      ✓     ✓
@@ -267,7 +266,7 @@ MLBPA Baseball (USA)                                                            
 Moldorian - Hikari to Yami no Sister (Japan)                                           ✗      ✓     ✓
 Monster Truck Wars (USA, Europe)                                                       ✓      ✓     ✓
 Monster World II - Dragon no Wana (Japan)                                              ✗      ✓     ✓
-Mortal Kombat - Shinken Kourin Densetsu (Japan)                                        ✓      ✗     ✗
+Mortal Kombat - Shinken Kourin Densetsu (Japan)                                        ✓      ✓     ✓
 Mortal Kombat (USA, Europe)                                                            ✓      ✓     ✓
 Mortal Kombat 3 (Europe)                                                               ✓      ✓     ✓
 Mortal Kombat II (World)                                                               ✓      ✓     ✓
@@ -307,7 +306,7 @@ Pac-Man (Japan) (En)                                                            
 Pac-Man (USA)                                                                          ✓      ✓     ✓
 Panzer Dragoon Mini (Japan)                                                            ✗      ✓     ✓
 Paperboy (USA, Europe)                                                                 ✗      ✓     ✓
-Paperboy 2 (USA, Europe)                                                               ✓      ✗     ✗
+Paperboy 2 (USA, Europe)                                                               ✓      ✓     ✓
 Paperboy 2 (USA, Europe) (Beta)                                                        ✗      ✗     ✗
 Pengo (Japan)                                                                          ✓      ✓     ✓
 Pengo (USA, Europe)                                                                    ✓      ✓     ✓
@@ -322,10 +321,10 @@ Phantasy Star Gaiden (Japan)                                                    
 Phantom 2040 (USA, Europe)                                                             ✓      ✓     ✓
 Pinball Dreams (USA)                                                                   ✓      ✓     ✓
 Pocket Jansou (Japan)                                                                  ✗      ✓     ✓
-Poker Face Paul's Blackjack (USA)                                                      ✓      ✗     ✗
-Poker Face Paul's Gin (USA)                                                            ✓      ✗     ✗
-Poker Face Paul's Poker (USA)                                                          ✓      ✗     ✗
-Poker Face Paul's Solitaire (USA)                                                      ✓      ✗     ✗
+Poker Face Paul's Blackjack (USA)                                                      ✓      ✓     ✓
+Poker Face Paul's Gin (USA)                                                            ✓      ✓     ✓
+Poker Face Paul's Poker (USA)                                                          ✓      ✓     ✓
+Poker Face Paul's Solitaire (USA)                                                      ✓      ✓     ✓
 Pop Breaker (Japan)                                                                    ✗      ✓     ✓
 Popeye no Beach Volleyball (Japan)                                                     ✗      ✓     ✓
 Power Drive (Europe)                                                                   ✓      ✓     ✓
@@ -381,8 +380,8 @@ Shining Force II - The Sword of Hajya (USA)                                     
 Shinobi (USA, Europe)                                                                  ✓      ✓     ✓
 Shinobi II - The Silent Fury (World) (Ja)                                              ✓      ✓     ✓
 Side Pocket (USA)                                                                      ✓      ✓     ✓
-Simpsons, The - Bart vs. the Space Mutants (USA, Europe)                               ✓      ✗     ✗
-Simpsons, The - Bart vs. the World (World)                                             ✓      ✗     ✗
+Simpsons, The - Bart vs. the Space Mutants (USA, Europe)                               ✓      ✓     ✓
+Simpsons, The - Bart vs. the World (World)                                             ✓      ✓     ✓
 Skweek (Japan)                                                                         ✓      ✓     ✓
 Slider (USA, Europe)                                                                   ✓      ✓     ✓
 Smurfs Travel the World, The (Europe) (En,Fr,De,Es)                                    ✗      ✓     ✓
@@ -435,7 +434,7 @@ Super Return of the Jedi (USA, Europe)                                          
 Super Smash T.V. (World)                                                               ✓      ✓     ✓
 Super Space Invaders (USA, Europe)                                                     ✓      ✓     ✓
 Superman - The Man of Steel (Europe)                                                   ✓      ✓     ✓
-Superman - The Man of Steel (Europe) (Beta)                                            ✗      ✗     ✗
+Superman - The Man of Steel (Europe) (Beta)                                            ✗      ✓     ✓
 Surf Ninjas (USA)                                                                      ✓      ✓     ✓
 Sylvan Tale (Japan)                                                                    ✓      ✓     ✓
 T2 - The Arcade Game (Japan) (En)                                                      ✓      ✓     ✓
@@ -447,8 +446,8 @@ Taisen Mahjong HaoPai 2 (Japan)                                                 
 Taisen-gata Daisenryaku G (Japan)                                                      ✗      ✓     ✓
 Taito Chase H.Q. (Japan)                                                               ✓      ✓     ✓
 Taito Chase H.Q. (USA)                                                                 ✓      ✓     ✓
-TaleSpin (USA, Europe)                                                                 ✓      ✗     ✗
-Tama _ Friends 3 Choume Kouen - Tamalympic (Japan)                                     ✗      ✗     ✗
+TaleSpin (USA, Europe)                                                                 ✓      ✓     ✓
+Tama _ Friends 3 Choume Kouen - Tamalympic (Japan)                                     ✗      ✓     ✓
 Tarot no Yakata (Japan)                                                                ✗      ✓     ✓
 Tarzan - Lord of the Jungle (Europe)                                                   ✓      ✓     ✓
 Tatakae! Pro Yakyuu Twin League (Japan)                                                ✗      ✓     ✓
@@ -470,7 +469,7 @@ Vampire - Master of Darkness (USA)                                              
 Virtua Fighter Animation (USA, Europe)                                                 ✓      ✓     ✓
 Virtua Fighter Mini (Japan)                                                            ✗      ✓     ✓
 VR Troopers (USA, Europe)                                                              ✓      ✓     ✓
-Wagyan Land (Japan)                                                                    ✗      ✗     ✗
+Wagyan Land (Japan)                                                                    ✗      ✓     ✓
 Wheel of Fortune (USA)                                                                 ✓      ✓     ✓
 Wild Snake (USA) (Proto)                                                               ✗      ✗     ✗
 Wimbledon (World)                                                                      ✓      ✓     ✓
@@ -500,7 +499,7 @@ Yu Yu Hakusho - Horobishimono no Gyakushuu (Japan)                              
 Yu Yu Hakusho 2 - Gekitou! Nanakyou no Tatakai (Japan)                                 ✓      ✓     ✓
 Zan Gear (Japan)                                                                       ✓      ✓     ✓
 Zool - Ninja of the 'Nth' Dimension (Europe)                                           ✗      ✗     ✗
-Zool - Ninja of the 'Nth' Dimension (USA)                                              ✓      ✗     ✗
+Zool - Ninja of the 'Nth' Dimension (USA)                                              ✓      ✓     ✓
 Zool no Yume Bouken (Japan)                                                            ✗      ✓     ✓
 Zoop (USA)                                                                             ✓      ✓     ✓
 Zoop (USA) (Beta)                                                                      ✗      ✓     ✓
