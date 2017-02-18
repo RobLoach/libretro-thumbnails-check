@@ -1,9 +1,9 @@
 Nintendo - GameCube
 
-Boxarts  1/1748  0.06%
-Snaps    1/1748  0.06%
-Titles   3/1748  0.17%
-Total    5/5244  0.10%
+Boxarts  18/1749  1.03%
+Snaps     1/1749  0.06%
+Titles    3/1749  0.17%
+Total    22/5247  0.42%
 
 Name                                                                                                                                            Boxart  Snap  Title
 007 - Agent im Kreuzfeuer (Germany)                                                                                                                ✗      ✗     ✗
@@ -127,19 +127,20 @@ Big Mutha Truckers (USA)                                                        
 Billy Hatcher and the Giant Egg (Europe) (Demo)                                                                                                    ✗      ✗     ✗
 Billy Hatcher and the Giant Egg (Europe) (En,Ja,Fr,De,Es,It)                                                                                       ✗      ✗     ✗
 Billy Hatcher and the Giant Egg (USA)                                                                                                              ✗      ✗     ✗
-Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 1)                                                                                           ✗      ✗     ✗
-Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 2)                                                                                           ✗      ✗     ✗
+Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 1)                                                                                           ✓      ✗     ✗
+Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 2)                                                                                           ✓      ✗     ✗
+Biohazard - Movie Demo Disc (Japan)                                                                                                                ✗      ✗     ✗
 Biohazard - Special Edition (Japan)                                                                                                                ✗      ✗     ✗
-Biohazard (Japan) (Disc 1)                                                                                                                         ✗      ✗     ✗
-Biohazard (Japan) (Disc 2)                                                                                                                         ✗      ✗     ✗
-Biohazard 2 (Japan)                                                                                                                                ✗      ✗     ✗
-Biohazard 3 - Last Escape (Japan)                                                                                                                  ✗      ✗     ✗
-Biohazard 4 (Japan) (Disc 1)                                                                                                                       ✗      ✗     ✗
-Biohazard 4 (Japan) (Disc 2)                                                                                                                       ✗      ✗     ✗
+Biohazard (Japan) (Disc 1)                                                                                                                         ✓      ✗     ✗
+Biohazard (Japan) (Disc 2)                                                                                                                         ✓      ✗     ✗
+Biohazard 2 (Japan)                                                                                                                                ✓      ✗     ✗
+Biohazard 3 - Last Escape (Japan)                                                                                                                  ✓      ✗     ✗
+Biohazard 4 (Japan) (Disc 1)                                                                                                                       ✓      ✗     ✗
+Biohazard 4 (Japan) (Disc 2)                                                                                                                       ✓      ✗     ✗
 Biohazard 4 (Japan) (Taikenban)                                                                                                                    ✗      ✗     ✗
 Biohazard Zero - Trial Edition (Japan)                                                                                                             ✗      ✗     ✗
-Biohazard Zero (Japan) (Disc 1)                                                                                                                    ✗      ✗     ✗
-Biohazard Zero (Japan) (Disc 2)                                                                                                                    ✗      ✗     ✗
+Biohazard Zero (Japan) (Disc 1)                                                                                                                    ✓      ✗     ✗
+Biohazard Zero (Japan) (Disc 2)                                                                                                                    ✓      ✗     ✗
 Bionicle (Europe) (En,Fr,De,Es,It,Da)                                                                                                              ✗      ✗     ✗
 Bionicle (USA)                                                                                                                                     ✗      ✗     ✗
 Bionicle Heroes (USA)                                                                                                                              ✗      ✗     ✗
@@ -154,7 +155,7 @@ BloodRayne (Europe)                                                             
 BloodRayne (France)                                                                                                                                ✗      ✗     ✗
 BloodRayne (Spain)                                                                                                                                 ✗      ✗     ✗
 BloodRayne (USA)                                                                                                                                   ✗      ✗     ✗
-Bloody Roar - Extreme (Japan)                                                                                                                      ✗      ✗     ✗
+Bloody Roar - Extreme (Japan)                                                                                                                      ✓      ✗     ✗
 Bloody Roar - Primal Fury (Europe)                                                                                                                 ✗      ✗     ✗
 Bloody Roar - Primal Fury (USA)                                                                                                                    ✗      ✗     ✗
 Blowout (USA)                                                                                                                                      ✗      ✗     ✗
@@ -230,7 +231,7 @@ Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (Europe)       
 Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (USA)                                                                             ✗      ✗     ✗
 Chroniken von Narnia, Die - Der Koenig von Narnia (Germany)                                                                                        ✗      ✗     ✗
 City Racer (USA)                                                                                                                                   ✗      ✗     ✗
-Club Nintendo Original E-Catalog 2004 (Japan)                                                                                                      ✗      ✗     ✗
+Club Nintendo Original e-Catalog 2004 (Japan)                                                                                                      ✗      ✗     ✗
 Cocoto Funfair (Europe) (En,Fr,De,Es,It)                                                                                                           ✗      ✗     ✗
 Cocoto Kart Racer (Europe) (En,Fr,De,Es,It)                                                                                                        ✗      ✗     ✗
 Cocoto Platform Jumper (Europe) (En,Fr,De,Es,It)                                                                                                   ✗      ✗     ✗
@@ -666,7 +667,6 @@ Ikaruga (USA)                                                                   
 Incredible Hulk, The - Ultimate Destruction (Europe) (En,Es,It)                                                                                    ✗      ✗     ✗
 Incredible Hulk, The - Ultimate Destruction (USA)                                                                                                  ✗      ✗     ✗
 Intellivision Lives! (USA)                                                                                                                         ✗      ✗     ✗
-Interactive Disc Catalog Summer 2003 (Japan)                                                                                                       ✗      ✗     ✗
 Interactive Multi-Game Demo Disc - August 2002 (USA)                                                                                               ✗      ✗     ✗
 Interactive Multi-Game Demo Disc - January 2002 (USA)                                                                                              ✗      ✗     ✗
 Interactive Multi-Game Demo Disc - January 2004 (Japan)                                                                                            ✗      ✗     ✗
@@ -836,9 +836,9 @@ Lost Kingdoms (USA)                                                             
 Lost Kingdoms II (Europe) (En,Fr,De)                                                                                                               ✗      ✗     ✗
 Lost Kingdoms II (USA)                                                                                                                             ✗      ✗     ✗
 Lotus Challenge (USA)                                                                                                                              ✗      ✗     ✗
+Luigi Mansion (Japan)                                                                                                                              ✗      ✗     ✗
 Luigi's Mansion (Europe) (En,Fr,De,Es,It) (v1.00)                                                                                                  ✗      ✗     ✗
 Luigi's Mansion (Europe) (En,Fr,De,Es,It) (v1.01)                                                                                                  ✗      ✗     ✗
-Luigi's Mansion (Japan)                                                                                                                            ✗      ✗     ✗
 Luigi's Mansion (USA)                                                                                                                              ✗      ✗     ✗
 Lupin III - Umi ni Kieta Hihou (Japan) (Disc 1)                                                                                                    ✗      ✗     ✗
 Lupin III - Umi ni Kieta Hihou (Japan) (Disc 2)                                                                                                    ✗      ✗     ✗
@@ -866,8 +866,8 @@ Mario Kart - Double Dash!! (USA) (Bonus Disc)                                   
 Mario Party 4 (Europe) (En,Fr,De,Es,It) (v1.00)                                                                                                    ✗      ✗     ✗
 Mario Party 4 (Europe) (En,Fr,De,Es,It) (v1.02)                                                                                                    ✗      ✗     ✗
 Mario Party 4 (Japan)                                                                                                                              ✗      ✗     ✗
-Mario Party 4 (USA) (v1.00)                                                                                                                        ✗      ✗     ✗
-Mario Party 4 (USA) (v1.01)                                                                                                                        ✗      ✗     ✗
+Mario Party 4 (USA) (v1.00)                                                                                                                        ✓      ✗     ✗
+Mario Party 4 (USA) (v1.01)                                                                                                                        ✓      ✗     ✗
 Mario Party 5 (Europe) (En,Fr,De,Es,It)                                                                                                            ✗      ✗     ✗
 Mario Party 5 (Japan)                                                                                                                              ✗      ✗     ✗
 Mario Party 5 (USA)                                                                                                                                ✗      ✗     ✗
@@ -1124,8 +1124,9 @@ Nicktoons - Battle for Volcano Island (USA)                                     
 Nicktoons Unite! (USA)                                                                                                                             ✗      ✗     ✗
 Nintendo GameCube Preview Disc - May 2003 (USA)                                                                                                    ✗      ✗     ✗
 Nintendo GameCube Service Disc Version 1.0-03 (USA)                                                                                                ✗      ✗     ✗
-Nintendo GameCube Soft e-Catalogue 2003 Spring (Japan)                                                                                             ✗      ✗     ✗
-Nintendo Puzzle Collection (Japan)                                                                                                                 ✗      ✗     ✗
+Nintendo GameCube Soft e-Catalog 2003 Enjoy Plus-ban (Japan)                                                                                       ✗      ✗     ✗
+Nintendo GameCube Soft e-Catalog 2003 Haru (Japan)                                                                                                 ✗      ✗     ✗
+Nintendo Puzzle Collection (Japan)                                                                                                                 ✓      ✗     ✗
 Odama (Europe) (En,Fr,De,Es,It)                                                                                                                    ✗      ✗     ✗
 Odama (Japan)                                                                                                                                      ✗      ✗     ✗
 Odama (USA)                                                                                                                                        ✗      ✗     ✗
@@ -1320,7 +1321,7 @@ Serious Sam - Next Encounter (Europe) (En,Fr,De)                                
 Serious Sam - Next Encounter (USA)                                                                                                                 ✗      ✗     ✗
 Shadow The Hedgehog (Europe) (En,Ja,Fr,De,Es,It)                                                                                                   ✗      ✗     ✗
 Shadow The Hedgehog (Japan) (En,Ja,Fr,De,Es,It)                                                                                                    ✗      ✗     ✗
-Shadow The Hedgehog (USA) (En,Ja,Fr,De,Es,It)                                                                                                      ✗      ✗     ✗
+Shadow The Hedgehog (USA) (En,Ja,Fr,De,Es,It)                                                                                                      ✓      ✗     ✗
 Shaman King - Soul Fight (Japan)                                                                                                                   ✗      ✗     ✗
 Shikigami no Shiro II (Japan)                                                                                                                      ✗      ✗     ✗
 Shinki Sekai Evolutia (Japan)                                                                                                                      ✗      ✗     ✗
@@ -1378,7 +1379,7 @@ Sonic Riders (Europe) (En,Ja,Fr,De,Es,It)                                       
 Sonic Riders (Japan) (En,Ja,Fr,De,Es,It)                                                                                                           ✗      ✗     ✗
 Sonic Riders (USA) (En,Ja,Fr,De,Es,It)                                                                                                             ✗      ✗     ✗
 Soulcalibur II (Europe) (En,Fr,De,Es,It)                                                                                                           ✗      ✗     ✗
-Soulcalibur II (Japan)                                                                                                                             ✗      ✗     ✗
+Soulcalibur II (Japan)                                                                                                                             ✓      ✗     ✗
 Soulcalibur II (USA)                                                                                                                               ✗      ✗     ✗
 Soulcalibur II (USA) (Demo)                                                                                                                        ✗      ✗     ✗
 Space Raiders (Japan)                                                                                                                              ✗      ✗     ✗
@@ -1471,7 +1472,7 @@ Summoner - A Goddess Reborn (Germany)                                           
 Summoner - A Goddess Reborn (USA)                                                                                                                  ✗      ✗     ✗
 Super Bubble Pop (USA)                                                                                                                             ✗      ✗     ✗
 Super Bust-A-Move All Stars (Europe) (En,Fr,De,Es,It)                                                                                              ✗      ✗     ✗
-Super Mario Stadium - Miracle Baseball (Japan)                                                                                                     ✗      ✗     ✗
+Super Mario Stadium - Miracle Baseball (Japan)                                                                                                     ✓      ✗     ✗
 Super Mario Strikers (Japan)                                                                                                                       ✗      ✗     ✗
 Super Mario Strikers (USA)                                                                                                                         ✗      ✗     ✗
 Super Mario Sunshine (Europe) (En,Fr,De,Es,It)                                                                                                     ✗      ✗     ✓

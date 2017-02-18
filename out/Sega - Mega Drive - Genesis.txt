@@ -1,9 +1,9 @@
 Sega - Mega Drive - Genesis
 
-Boxarts  1553/1701  91.30%
-Snaps    1664/1701  97.82%
-Titles   1664/1701  97.82%
-Total    4881/5103  95.65%
+Boxarts  1549/1702  91.01%
+Snaps    1660/1702  97.53%
+Titles   1660/1702  97.53%
+Total    4869/5106  95.36%
 
 Name                                                                                                         Boxart  Snap  Title
 007 Shitou - The Duel (Japan)                                                                                   ✓      ✓     ✓
@@ -52,6 +52,7 @@ Aladdin (Europe)                                                                
 Aladdin (Japan)                                                                                                 ✓      ✓     ✓
 Aladdin (USA)                                                                                                   ✓      ✓     ✓
 Aladdin (USA) (Beta)                                                                                            ✗      ✓     ✓
+Aladdin (USA) (Beta) (1993-06-27)                                                                               ✗      ✗     ✗
 Alex Kidd - Cheongong Maseong (Korea)                                                                           ✓      ✓     ✓
 Alex Kidd - Tenkuu Majou (Japan)                                                                                ✓      ✓     ✓
 Alex Kidd in the Enchanted Castle (Europe)                                                                      ✓      ✓     ✓
@@ -1292,7 +1293,11 @@ Sonic Compilation (Europe)                                                      
 Sonic Compilation ~ Sonic Classics (World) (v1.1)                                                               ✓      ✓     ✓
 Sonic Crackers (Japan) (Proto)                                                                                  ✗      ✓     ✓
 Sonic Eraser (Japan) (SegaNet)                                                                                  ✗      ✓     ✓
+Sonic Spinball (Europe)                                                                                         ✗      ✗     ✗
 Sonic Spinball (Japan)                                                                                          ✓      ✓     ✓
+Sonic Spinball (USA)                                                                                            ✗      ✗     ✗
+Sonic Spinball (USA) (Alt 1)                                                                                    ✗      ✗     ✗
+Sonic Spinball (USA) (Beta)                                                                                     ✗      ✗     ✗
 Sonic The Hedgehog (Japan, Korea)                                                                               ✓      ✓     ✓
 Sonic The Hedgehog (USA, Europe)                                                                                ✓      ✓     ✓
 Sonic The Hedgehog (World) (GameCube Edition)                                                                   ✗      ✗     ✗
@@ -1303,10 +1308,6 @@ Sonic The Hedgehog 2 (World) (Rev A)                                            
 Sonic The Hedgehog 3 (Europe)                                                                                   ✓      ✓     ✓
 Sonic The Hedgehog 3 (Japan, Korea)                                                                             ✓      ✓     ✓
 Sonic The Hedgehog 3 (USA)                                                                                      ✓      ✓     ✓
-Sonic The Hedgehog Spinball (Europe)                                                                            ✓      ✓     ✓
-Sonic The Hedgehog Spinball (USA)                                                                               ✓      ✓     ✓
-Sonic The Hedgehog Spinball (USA) (Alt 1)                                                                       ✓      ✓     ✓
-Sonic The Hedgehog Spinball (USA) (Beta)                                                                        ✓      ✓     ✓
 Sorcer Kingdom (Japan)                                                                                          ✓      ✓     ✓
 Sorcerer's Kingdom (USA)                                                                                        ✓      ✓     ✓
 Sorcerer's Kingdom (USA) (v1.1)                                                                                 ✓      ✓     ✓

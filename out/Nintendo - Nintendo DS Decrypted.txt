@@ -48,7 +48,7 @@ Name                                                                            
 123 Sesame Street - Elmo's A-to-Zoo Adventure - The Videogame (USA)                                                                                                      ✗      ✗     ✗
 123 Sesame Street - Ready, Set, Grover! - With Elmo - The Videogame (USA) (En,Es)                                                                                        ✗      ✗     ✗
 1500 DS Spirits - Mahjong V (Japan) [b]                                                                                                                                  ✗      ✗     ✗
-1500 DS Spirits - Shougi V (Japan) [b]                                                                                                                                   ✗      ✗     ✗
+1500 DS Spirits - Shougi V (Japan)                                                                                                                                       ✗      ✗     ✗
 1500 DS Spirits Vol. 1 - Mahjong (Japan)                                                                                                                                 ✗      ✗     ✗
 1500 DS Spirits Vol. 10 - Igo (Japan)                                                                                                                                    ✗      ✗     ✗
 1500 DS Spirits Vol. 2 - Shougi (Japan)                                                                                                                                  ✗      ✗     ✗
@@ -1001,8 +1001,8 @@ Chuldong! Rescue Force DS (Korea)                                               
 Chungjeon! Hanguginui Sangsingnyeok DS (Korea)                                                                                                                           ✗      ✗     ✗
 Chuugaku Eitango Target 1800 DS (Japan)                                                                                                                                  ✗      ✗     ✗
 Chuugaku Eitango Target 1800 DS (Japan) (Rev 1)                                                                                                                          ✗      ✗     ✗
-Chuugaku Junbi - 5 Kyouka Kanpeki DS (Japan)                                                                                                                             ✗      ✗     ✗
-Chuugaku Junbi - 5-Kyouka Kanpeki DS 2015 Nendoban (Japan)                                                                                                               ✗      ✗     ✗
+Chuugaku Junbi - 5 Kyouka Kanpeki DS (Japan) (TCJJ)                                                                                                                      ✗      ✗     ✗
+Chuugaku Junbi - 5-Kyouka Kanpeki DS (Japan) (TACJ)                                                                                                                      ✗      ✗     ✗
 Chuukana Janshi Tenho Painyan Remix (Japan)                                                                                                                              ✗      ✗     ✗
 Ciao Dream Touch! - Happy Anniversary (Japan)                                                                                                                            ✗      ✗     ✗
 Cid to Chocobo no Fushigi na Dungeon - Toki Wasure no Meikyuu DS+ (Japan)                                                                                                ✗      ✗     ✗
@@ -1225,7 +1225,7 @@ Days of Memories 3 (Japan) [b]                                                  
 de Blob 2 (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)                                                                                                                   ✗      ✗     ✗
 de Blob 2 (USA) (En,Fr) (NDSi Enhanced)                                                                                                                                  ✗      ✗     ✗
 Dead'n'Furious (Europe) (En,Fr,De,Es,It)                                                                                                                                 ✗      ✗     ✗
-Deal or No Deal - Der Banker Schlaegt Zurueck (Germany) [b]                                                                                                              ✗      ✗     ✗
+Deal or No Deal - Der Banker Schlaegt Zurueck (Germany)                                                                                                                  ✗      ✗     ✗
 Deal or No Deal - Special Edition (USA) (En,Fr,Es)                                                                                                                       ✗      ✗     ✗
 Deal or No Deal - The Banker Is Back! (Europe)                                                                                                                           ✗      ✗     ✗
 Deal or No Deal - The Official Nintendo DS Game (Europe)                                                                                                                 ✗      ✗     ✗
@@ -1525,7 +1525,7 @@ Driver Dan's Story Train (Europe)                                               
 Driver License Trainer Espana (Spain)                                                                                                                                    ✗      ✗     ✗
 Driver License Trainer Italia (Italy) [b]                                                                                                                                ✗      ✗     ✗
 Drivers Ed Portable (USA) [b]                                                                                                                                            ✗      ✗     ✗
-Drivers' Ed Portable (Europe) (En,Fr,De,Es,It) [b]                                                                                                                       ✗      ✗     ✗
+Drivers' Ed Portable (Europe) (En,Fr,De,Es,It)                                                                                                                           ✗      ✗     ✗
 Driving Theory Training - 2009-2010 Edition (Europe) (Rev 1)                                                                                                             ✗      ✗     ✗
 Driving Theory Training (Europe) [b]                                                                                                                                     ✗      ✗     ✗
 Drone Tactics (USA)                                                                                                                                                      ✗      ✗     ✗
@@ -3886,7 +3886,7 @@ Mokjjangiyagi - Colobockle Station for Girl (Korea) [b]                         
 Mokjjangiyagi - Neowa hamkke Jaraneun Seom (Korea) [b]                                                                                                                   ✗      ✗     ✗
 Momo Waliou Zhizao (China) (iDS)                                                                                                                                         ✗      ✗     ✗
 Momo Yaoxi - Yun Zhong Manbu (China) (iDS)                                                                                                                               ✗      ✗     ✗
-Momotarou Dentetsu - 20 Shuunen (Japan) [b]                                                                                                                              ✗      ✗     ✗
+Momotarou Dentetsu - 20 Shuunen (Japan)                                                                                                                                  ✗      ✗     ✗
 Momotarou Dentetsu - World (Japan)                                                                                                                                       ✗      ✗     ✗
 Momotarou Dentetsu DS - Tokyo _ Japan (Japan)                                                                                                                            ✗      ✗     ✗
 Momotarou Dentetsu DS - Tokyo _ Japan (Japan) (Rev 1)                                                                                                                    ✗      ✗     ✗
@@ -6258,6 +6258,9 @@ TOEIC Test Eitango - Speed Master DS (Japan) [b]                                
 TOEIC Test Super Coach@DS (Japan)                                                                                                                                        ✗      ✗     ✗
 Toetstrainer - Rekenen (Netherlands)                                                                                                                                     ✗      ✗     ✗
 Toetstrainer - Taal (Netherlands)                                                                                                                                        ✗      ✗     ✗
+Tohoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Motto Nou o Kitaeru Otona no DS Training (Japan)                          ✗      ✗     ✗
+Tohoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Motto Nou o Kitaeru Otona no DS Training (Japan) (Rev 1)                  ✗      ✗     ✗
+Tohoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Nou o Kitaeru Otona no DS Training (Japan)                                ✗      ✗     ✗
 Tokimeki Memorial Girl's Side - 1st Love (Japan)                                                                                                                         ✗      ✗     ✗
 Tokimeki Memorial Girl's Side - 1st Love (Japan) (Rev 1)                                                                                                                 ✗      ✗     ✗
 Tokimeki Memorial Girl's Side - 1st Love Plus (Japan) [b]                                                                                                                ✗      ✗     ✗
@@ -6400,9 +6403,6 @@ Toudai Shougi - Meijinsen Doujou DS (Japan) [b]                                 
 Toudou Ryuunosuke Tantei Nikki - Aen no Hakobune - Souma-tei Renzoku Satsujin Jiken (Japan) [b]                                                                          ✗      ✗     ✗
 Toudou Ryuunosuke Tantei Nikki - Kohakuiro no Yuigon - Seiyou Karuta Renzoku Satsujin Jiken (Japan) [b]                                                                  ✗      ✗     ✗
 Touhai Densetsu Akagi DS - Yami ni Mai Orita Tensai (Japan)                                                                                                              ✗      ✗     ✗
-Touhoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Motto Nou o Kitaeru Otona no DS Training (Japan)                         ✗      ✗     ✗
-Touhoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Motto Nou o Kitaeru Otona no DS Training (Japan) (Rev 1)                 ✗      ✗     ✗
-Touhoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Nou o Kitaeru Otona no DS Training (Japan)                               ✗      ✗     ✗
 Tout pour Reussir CE1 (France) [b]                                                                                                                                       ✗      ✗     ✗
 Tout pour Reussir CE2 (France) [b]                                                                                                                                       ✗      ✗     ✗
 Tout pour Reussir CM1 (France) [b]                                                                                                                                       ✗      ✗     ✗
