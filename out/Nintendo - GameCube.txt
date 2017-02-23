@@ -1,9 +1,9 @@
 Nintendo - GameCube
 
-Boxarts  18/1749  1.03%
+Boxarts  64/1749  3.66%
 Snaps     1/1749  0.06%
 Titles    3/1749  0.17%
-Total    22/5247  0.42%
+Total    68/5247  1.30%
 
 Name                                                                                                                                            Boxart  Snap  Title
 007 - Agent im Kreuzfeuer (Germany)                                                                                                                ✗      ✗     ✗
@@ -27,7 +27,7 @@ Name                                                                            
 007 - Quitte ou Double (France)                                                                                                                    ✗      ✗     ✗
 007 - Todo o Nada (Spain)                                                                                                                          ✗      ✗     ✗
 1080 Avalanche (Europe) (En,Fr,De,Es,It)                                                                                                           ✗      ✗     ✗
-1080 Avalanche (USA)                                                                                                                               ✗      ✗     ✗
+1080 Avalanche (USA)                                                                                                                               ✓      ✗     ✗
 1080 Silver Storm (Japan)                                                                                                                          ✗      ✗     ✗
 18 Wheeler - American Pro Trucker (Europe) (En,Fr,De,Es)                                                                                           ✗      ✗     ✗
 18 Wheeler - American Pro Trucker (Japan)                                                                                                          ✗      ✗     ✗
@@ -113,7 +113,7 @@ Battle Houshin (Japan)                                                          
 Battle Stadium D.O.N (Japan)                                                                                                                       ✗      ✗     ✗
 Beach Spikers - Virtua Beach Volleyball (Europe) (En,Fr,De,Es,It)                                                                                  ✗      ✗     ✗
 Beach Spikers - Virtua Beach Volleyball (Japan)                                                                                                    ✗      ✗     ✗
-Beach Spikers - Virtua Beach Volleyball (USA)                                                                                                      ✗      ✗     ✗
+Beach Spikers - Virtua Beach Volleyball (USA)                                                                                                      ✓      ✗     ✗
 Beyblade VForce - Super Tournament Battle (Europe) (En,Fr,De,Es,It)                                                                                ✗      ✗     ✗
 Beyblade VForce - Super Tournament Battle (USA)                                                                                                    ✗      ✗     ✗
 Beyond Good _ Evil (Europe) (De,It)                                                                                                                ✗      ✗     ✗
@@ -157,7 +157,7 @@ BloodRayne (Spain)                                                              
 BloodRayne (USA)                                                                                                                                   ✗      ✗     ✗
 Bloody Roar - Extreme (Japan)                                                                                                                      ✓      ✗     ✗
 Bloody Roar - Primal Fury (Europe)                                                                                                                 ✗      ✗     ✗
-Bloody Roar - Primal Fury (USA)                                                                                                                    ✗      ✗     ✗
+Bloody Roar - Primal Fury (USA)                                                                                                                    ✓      ✗     ✗
 Blowout (USA)                                                                                                                                      ✗      ✗     ✗
 BMX XXX (Europe) (En,Fr,De,Es)                                                                                                                     ✗      ✗     ✗
 BMX XXX (USA)                                                                                                                                      ✗      ✗     ✗
@@ -170,7 +170,7 @@ Bomberman Generation (Europe) (En,Fr,De)                                        
 Bomberman Generation (Japan)                                                                                                                       ✗      ✗     ✗
 Bomberman Generation (USA)                                                                                                                         ✗      ✗     ✗
 Bomberman Jetters (Japan)                                                                                                                          ✗      ✗     ✗
-Bomberman Jetters (USA)                                                                                                                            ✗      ✗     ✗
+Bomberman Jetters (USA)                                                                                                                            ✓      ✗     ✗
 Bomberman Land 2 (Japan)                                                                                                                           ✗      ✗     ✗
 Bratz - Forever Diamondz (Europe) (En,Fr)                                                                                                          ✗      ✗     ✗
 Bratz - Forever Diamondz (USA)                                                                                                                     ✗      ✗     ✗
@@ -266,7 +266,7 @@ Cubivore (USA)                                                                  
 Cubix Robots for Everyone - Showdown (USA)                                                                                                         ✗      ✗     ✗
 Curious George (USA)                                                                                                                               ✗      ✗     ✗
 Custom Robo - Battle Revolution (Japan)                                                                                                            ✗      ✗     ✗
-Custom Robo (USA)                                                                                                                                  ✗      ✗     ✗
+Custom Robo (USA)                                                                                                                                  ✓      ✗     ✗
 Dairantou Smash Brothers DX (Japan) (En,Ja) (v1.00)                                                                                                ✗      ✗     ✗
 Dairantou Smash Brothers DX (Japan) (En,Ja) (v1.02)                                                                                                ✗      ✗     ✗
 Dairantou Smash Brothers DX (Japan) (Taikenban)                                                                                                    ✗      ✗     ✗
@@ -353,7 +353,7 @@ Disney's Extreme Skate Adventure (USA)                                          
 Disney's Hide _ Sneak (Europe) (En,Fr,De)                                                                                                          ✗      ✗     ✗
 Disney's Hide _ Sneak (USA)                                                                                                                        ✗      ✗     ✗
 Disney's Magical Mirror Starring Mickey Mouse (Europe) (En,Fr,De,Es,It)                                                                            ✗      ✗     ✗
-Disney's Magical Mirror Starring Mickey Mouse (USA)                                                                                                ✗      ✗     ✗
+Disney's Magical Mirror Starring Mickey Mouse (USA)                                                                                                ✓      ✗     ✗
 Disney's Mickey Mouse no Fushigi na Kagami (Japan)                                                                                                 ✗      ✗     ✗
 Disney's Mickey to Minnie Trick _ Chase (Japan)                                                                                                    ✗      ✗     ✗
 Disney's Party (Europe) (En,Fr,De,Es,It)                                                                                                           ✗      ✗     ✗
@@ -450,7 +450,7 @@ Evolution Skateboarding (USA)                                                   
 Evolution Snowboarding (Europe) (En,Fr,De)                                                                                                         ✗      ✗     ✗
 Evolution Snowboarding (USA)                                                                                                                       ✗      ✗     ✗
 Evolution Worlds (Europe)                                                                                                                          ✗      ✗     ✗
-Evolution Worlds (USA)                                                                                                                             ✗      ✗     ✗
+Evolution Worlds (USA)                                                                                                                             ✓      ✗     ✗
 F-Zero GX (Europe) (En,Fr,De,Es,It)                                                                                                                ✗      ✗     ✗
 F-Zero GX (Japan)                                                                                                                                  ✗      ✗     ✗
 F-Zero GX (USA)                                                                                                                                    ✗      ✗     ✗
@@ -512,12 +512,12 @@ Fight Night Round 2 (Japan)                                                     
 Fight Night Round 2 (USA)                                                                                                                          ✗      ✗     ✗
 Final Fantasy - Crystal Chronicles (Europe) (En,Fr,De,Es,It)                                                                                       ✗      ✗     ✗
 Final Fantasy - Crystal Chronicles (Japan)                                                                                                         ✗      ✗     ✗
-Final Fantasy - Crystal Chronicles (USA)                                                                                                           ✗      ✗     ✗
+Final Fantasy - Crystal Chronicles (USA)                                                                                                           ✓      ✗     ✗
 Findet Nemo (Germany)                                                                                                                              ✗      ✗     ✗
 Finding Nemo (Europe)                                                                                                                              ✗      ✗     ✗
 Finding Nemo (Japan)                                                                                                                               ✗      ✗     ✗
 Fire Emblem - Path of Radiance (Europe) (En,Fr,De,Es,It)                                                                                           ✗      ✗     ✗
-Fire Emblem - Path of Radiance (USA)                                                                                                               ✗      ✗     ✗
+Fire Emblem - Path of Radiance (USA)                                                                                                               ✓      ✗     ✗
 Fire Emblem - Souen no Kiseki (Japan)                                                                                                              ✗      ✗     ✗
 FireBlade (Europe) (En,Fr,De,Es,It)                                                                                                                ✗      ✗     ✗
 FireBlade (USA)                                                                                                                                    ✗      ✗     ✗
@@ -551,7 +551,7 @@ Game Taikai Yuushou Kinen - Tokusei SmaBro DX Movie Disc (Japan)                
 Gauntlet - Dark Legacy (Europe) (En,Fr,De)                                                                                                         ✗      ✗     ✗
 Gauntlet - Dark Legacy (USA)                                                                                                                       ✗      ✗     ✗
 Geist (Europe) (En,Fr,De,Es,It)                                                                                                                    ✗      ✗     ✗
-Geist (USA)                                                                                                                                        ✗      ✗     ✗
+Geist (USA)                                                                                                                                        ✓      ✗     ✗
 Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan)                                                                             ✗      ✗     ✗
 Generation of Chaos Exceed - Yami no Koujo Roze (Japan)                                                                                            ✗      ✗     ✗
 Giant Egg - Billy Hatcher no Daibouken (Japan)                                                                                                     ✗      ✗     ✗
@@ -623,7 +623,7 @@ Harry Potter y el Caliz de Fuego (Spain)                                        
 Harry Potter y el prisionero de Azkaban (Spain)                                                                                                    ✗      ✗     ✗
 Harvest Moon - A Wonderful Life (Europe)                                                                                                           ✗      ✗     ✗
 Harvest Moon - A Wonderful Life (Germany)                                                                                                          ✗      ✗     ✗
-Harvest Moon - A Wonderful Life (USA)                                                                                                              ✗      ✗     ✗
+Harvest Moon - A Wonderful Life (USA)                                                                                                              ✓      ✗     ✗
 Harvest Moon - Another Wonderful Life (USA)                                                                                                        ✗      ✗     ✗
 Harvest Moon - Magical Melody (USA)                                                                                                                ✗      ✗     ✗
 Hello Kitty - Roller Rescue (Europe) (En,Fr,De,Es,It)                                                                                              ✗      ✗     ✗
@@ -781,7 +781,7 @@ Knockout Kings 2003 (USA)                                                       
 Konjiki no Gashbell!! Go! Go! Mamono Fight!! (Japan)                                                                                               ✗      ✗     ✗
 Konjiki no Gashbell!! Yuujou Tag Battle - Full Power (Japan)                                                                                       ✗      ✗     ✗
 Konjiki no Gashbell!! Yuujou Tag Battle 2 (Japan)                                                                                                  ✗      ✗     ✗
-Kururin Squash! (Japan)                                                                                                                            ✗      ✗     ✗
+Kururin Squash! (Japan)                                                                                                                            ✓      ✗     ✗
 Kyojin no Doshin (Japan)                                                                                                                           ✗      ✗     ✗
 Lara Croft Tomb Raider - Legend (Europe)                                                                                                           ✗      ✗     ✗
 Lara Croft Tomb Raider - Legend (France)                                                                                                           ✗      ✗     ✗
@@ -794,16 +794,16 @@ Legend of Spyro, The - A New Beginning (USA)                                    
 Legend of Zelda, The - Collector's Edition (Europe) (En,Fr,De,Es,It)                                                                               ✗      ✗     ✗
 Legend of Zelda, The - Collector's Edition (USA)                                                                                                   ✗      ✗     ✗
 Legend of Zelda, The - Four Swords Adventures (Europe) (En,Fr,De,Es,It)                                                                            ✗      ✗     ✗
-Legend of Zelda, The - Four Swords Adventures (USA)                                                                                                ✗      ✗     ✗
+Legend of Zelda, The - Four Swords Adventures (USA)                                                                                                ✓      ✗     ✗
 Legend of Zelda, The - Ocarina of Time _ Master Quest (Australia) (En,Fr,De)                                                                       ✗      ✗     ✗
 Legend of Zelda, The - Ocarina of Time _ Master Quest (Europe) (En,Fr,De)                                                                          ✗      ✗     ✗
 Legend of Zelda, The - Ocarina of Time _ Master Quest (Korea)                                                                                      ✗      ✗     ✗
 Legend of Zelda, The - Ocarina of Time _ Master Quest (USA)                                                                                        ✗      ✗     ✗
 Legend of Zelda, The - The Wind Waker (Europe) (En,Fr,De,Es,It)                                                                                    ✗      ✗     ✗
 Legend of Zelda, The - The Wind Waker (Korea)                                                                                                      ✗      ✗     ✗
-Legend of Zelda, The - The Wind Waker (USA)                                                                                                        ✗      ✗     ✗
+Legend of Zelda, The - The Wind Waker (USA)                                                                                                        ✓      ✗     ✗
 Legend of Zelda, The - Twilight Princess (Europe) (En,Fr,De,Es,It)                                                                                 ✗      ✗     ✗
-Legend of Zelda, The - Twilight Princess (USA)                                                                                                     ✗      ✗     ✗
+Legend of Zelda, The - Twilight Princess (USA)                                                                                                     ✓      ✗     ✗
 Legends of Wrestling (Europe)                                                                                                                      ✗      ✗     ✗
 Legends of Wrestling (USA)                                                                                                                         ✗      ✗     ✗
 Legends of Wrestling II (Europe)                                                                                                                   ✗      ✗     ✗
@@ -839,7 +839,7 @@ Lotus Challenge (USA)                                                           
 Luigi Mansion (Japan)                                                                                                                              ✗      ✗     ✗
 Luigi's Mansion (Europe) (En,Fr,De,Es,It) (v1.00)                                                                                                  ✗      ✗     ✗
 Luigi's Mansion (Europe) (En,Fr,De,Es,It) (v1.01)                                                                                                  ✗      ✗     ✗
-Luigi's Mansion (USA)                                                                                                                              ✗      ✗     ✗
+Luigi's Mansion (USA)                                                                                                                              ✓      ✗     ✗
 Lupin III - Umi ni Kieta Hihou (Japan) (Disc 1)                                                                                                    ✗      ✗     ✗
 Lupin III - Umi ni Kieta Hihou (Japan) (Disc 2)                                                                                                    ✗      ✗     ✗
 Madden NFL 06 (Europe)                                                                                                                             ✗      ✗     ✗
@@ -861,8 +861,8 @@ Mario Golf - Toadstool Tour (Europe) (En,Fr,De,Es,It)                           
 Mario Golf - Toadstool Tour (USA)                                                                                                                  ✗      ✗     ✗
 Mario Kart - Double Dash!! (Europe) (En,Fr,De,Es,It)                                                                                               ✗      ✗     ✗
 Mario Kart - Double Dash!! (Japan)                                                                                                                 ✗      ✗     ✗
-Mario Kart - Double Dash!! (USA)                                                                                                                   ✗      ✗     ✗
-Mario Kart - Double Dash!! (USA) (Bonus Disc)                                                                                                      ✗      ✗     ✗
+Mario Kart - Double Dash!! (USA)                                                                                                                   ✓      ✗     ✗
+Mario Kart - Double Dash!! (USA) (Bonus Disc)                                                                                                      ✓      ✗     ✗
 Mario Party 4 (Europe) (En,Fr,De,Es,It) (v1.00)                                                                                                    ✗      ✗     ✗
 Mario Party 4 (Europe) (En,Fr,De,Es,It) (v1.02)                                                                                                    ✗      ✗     ✗
 Mario Party 4 (Japan)                                                                                                                              ✗      ✗     ✗
@@ -870,13 +870,13 @@ Mario Party 4 (USA) (v1.00)                                                     
 Mario Party 4 (USA) (v1.01)                                                                                                                        ✓      ✗     ✗
 Mario Party 5 (Europe) (En,Fr,De,Es,It)                                                                                                            ✗      ✗     ✗
 Mario Party 5 (Japan)                                                                                                                              ✗      ✗     ✗
-Mario Party 5 (USA)                                                                                                                                ✗      ✗     ✗
+Mario Party 5 (USA)                                                                                                                                ✓      ✗     ✗
 Mario Party 6 (Europe) (En,Fr,De,Es,It)                                                                                                            ✗      ✗     ✗
 Mario Party 6 (Japan)                                                                                                                              ✗      ✗     ✗
-Mario Party 6 (USA)                                                                                                                                ✗      ✗     ✗
+Mario Party 6 (USA)                                                                                                                                ✓      ✗     ✗
 Mario Party 7 (Europe) (En,Fr,De,Es,It)                                                                                                            ✗      ✗     ✗
 Mario Party 7 (Japan)                                                                                                                              ✗      ✗     ✗
-Mario Party 7 (USA)                                                                                                                                ✗      ✗     ✗
+Mario Party 7 (USA)                                                                                                                                ✓      ✗     ✗
 Mario Power Tennis (Europe) (En,Fr,De,Es,It)                                                                                                       ✗      ✗     ✗
 Mario Power Tennis (USA) (v1.00)                                                                                                                   ✗      ✗     ✗
 Mario Power Tennis (USA) (v1.01)                                                                                                                   ✗      ✗     ✗
@@ -935,8 +935,8 @@ Metal Gear Solid - The Twin Snakes (Europe) (En,Fr,De,Es,It) (Disc 1)           
 Metal Gear Solid - The Twin Snakes (Europe) (En,Fr,De,Es,It) (Disc 2)                                                                              ✗      ✗     ✗
 Metal Gear Solid - The Twin Snakes (Japan) (En,Ja) (Disc 1)                                                                                        ✗      ✗     ✗
 Metal Gear Solid - The Twin Snakes (Japan) (En,Ja) (Disc 2)                                                                                        ✗      ✗     ✗
-Metal Gear Solid - The Twin Snakes (USA) (Disc 1)                                                                                                  ✗      ✗     ✗
-Metal Gear Solid - The Twin Snakes (USA) (Disc 2)                                                                                                  ✗      ✗     ✗
+Metal Gear Solid - The Twin Snakes (USA) (Disc 1)                                                                                                  ✓      ✗     ✗
+Metal Gear Solid - The Twin Snakes (USA) (Disc 2)                                                                                                  ✓      ✗     ✗
 Metroid Prime (Europe) (En,Fr,De,Es,It)                                                                                                            ✗      ✗     ✗
 Metroid Prime (Japan)                                                                                                                              ✗      ✗     ✗
 Metroid Prime (USA) (v1.00)                                                                                                                        ✗      ✗     ✗
@@ -1142,11 +1142,11 @@ Outlaw Golf (USA)                                                               
 P.N. 03 (Europe) (En,Fr,De,Es,It)                                                                                                                  ✗      ✗     ✗
 P.N. 03 (Europe) (En,Fr,De,Es,It) (Demo)                                                                                                           ✗      ✗     ✗
 P.N. 03 (Japan)                                                                                                                                    ✗      ✗     ✗
-P.N. 03 (USA)                                                                                                                                      ✗      ✗     ✗
+P.N. 03 (USA)                                                                                                                                      ✓      ✗     ✗
 Pac-Man Fever (USA)                                                                                                                                ✗      ✗     ✗
 Pac-Man Vs. (Europe) (En,Fr,De,Es,It)                                                                                                              ✗      ✗     ✗
 Pac-Man Vs. (Japan)                                                                                                                                ✗      ✗     ✗
-Pac-Man Vs. (USA)                                                                                                                                  ✗      ✗     ✗
+Pac-Man Vs. (USA)                                                                                                                                  ✓      ✗     ✗
 Pac-Man World 2 (Europe) (En,Fr,De,Es,It)                                                                                                          ✗      ✗     ✗
 Pac-Man World 2 (USA)                                                                                                                              ✗      ✗     ✗
 Pac-Man World 3 (Europe) (En,Fr,De,Es,It)                                                                                                          ✗      ✗     ✗
@@ -1167,13 +1167,13 @@ Phantasy Star Online Episode I _ II Trial Edition (Japan) (Taikenban)           
 Phantasy Star Online Episode III - C.A.R.D. Revolution (Europe) (En,Ja,Fr,De,Es)                                                                   ✗      ✗     ✗
 Phantasy Star Online Episode III - C.A.R.D. Revolution (Japan)                                                                                     ✗      ✗     ✗
 Phantasy Star Online Episode III - C.A.R.D. Revolution (Japan) (Taikenban)                                                                         ✗      ✗     ✗
-Phantasy Star Online Episode III - C.A.R.D. Revolution (USA) (En,Ja)                                                                               ✗      ✗     ✗
+Phantasy Star Online Episode III - C.A.R.D. Revolution (USA) (En,Ja)                                                                               ✓      ✗     ✗
 Pikmin (Europe) (En,Fr,De,Es,It)                                                                                                                   ✗      ✗     ✗
 Pikmin (Japan) (Jitsuen-you Sample)                                                                                                                ✗      ✗     ✗
 Pikmin (Japan) (v1.01)                                                                                                                             ✗      ✗     ✗
 Pikmin (Japan) (v1.02)                                                                                                                             ✗      ✗     ✗
-Pikmin (USA) (v1.00)                                                                                                                               ✗      ✗     ✗
-Pikmin (USA) (v1.01)                                                                                                                               ✗      ✗     ✗
+Pikmin (USA) (v1.00)                                                                                                                               ✓      ✗     ✗
+Pikmin (USA) (v1.01)                                                                                                                               ✓      ✗     ✗
 Pikmin 2 (Europe) (En,Fr,De,Es,It)                                                                                                                 ✗      ✗     ✗
 Pikmin 2 (Japan)                                                                                                                                   ✗      ✗     ✗
 Pikmin 2 (USA)                                                                                                                                     ✗      ✗     ✗
@@ -1189,10 +1189,10 @@ Pokemon Channel - Bangumi Kakuchou Pack (Japan)                                 
 Pokemon Channel (Australia)                                                                                                                        ✗      ✗     ✗
 Pokemon Channel (Europe) (En,Fr,De,Es,It) (v1.00)                                                                                                  ✗      ✗     ✗
 Pokemon Channel (Japan)                                                                                                                            ✗      ✗     ✗
-Pokemon Channel (USA)                                                                                                                              ✗      ✗     ✗
+Pokemon Channel (USA)                                                                                                                              ✓      ✗     ✗
 Pokemon Colosseum (Europe) (En,Fr,De,Es,It)                                                                                                        ✗      ✗     ✗
 Pokemon Colosseum (Japan)                                                                                                                          ✗      ✗     ✗
-Pokemon Colosseum (USA)                                                                                                                            ✗      ✗     ✗
+Pokemon Colosseum (USA)                                                                                                                            ✓      ✗     ✗
 Pokemon Colosseum (USA) (Bonus Disc)                                                                                                               ✗      ✗     ✗
 Pokemon XD - Gale of Darkness (Europe) (En,Fr,De,Es,It)                                                                                            ✗      ✗     ✗
 Pokemon XD - Gale of Darkness (USA)                                                                                                                ✗      ✗     ✗
@@ -1262,10 +1262,10 @@ Resident Evil 4 (USA) (Disc 2)                                                  
 Resident Evil 4 (USA) (Preview Disc)                                                                                                               ✗      ✗     ✗
 Resident Evil Zero (Europe) (En,Fr,De,Es,It) (Disc 1)                                                                                              ✗      ✗     ✗
 Resident Evil Zero (Europe) (En,Fr,De,Es,It) (Disc 2)                                                                                              ✗      ✗     ✗
-Resident Evil Zero (USA) (Disc 1)                                                                                                                  ✗      ✗     ✗
-Resident Evil Zero (USA) (Disc 2)                                                                                                                  ✗      ✗     ✗
+Resident Evil Zero (USA) (Disc 1)                                                                                                                  ✓      ✗     ✗
+Resident Evil Zero (USA) (Disc 2)                                                                                                                  ✓      ✗     ✗
 Ribbit King (Europe) (En,Fr,De,Es,It)                                                                                                              ✗      ✗     ✗
-Ribbit King (USA) (En,Es)                                                                                                                          ✗      ✗     ✗
+Ribbit King (USA) (En,Es)                                                                                                                          ✓      ✗     ✗
 Ribbit King Plus! (USA) (Bonus Disc)                                                                                                               ✗      ✗     ✗
 Road Trip - The Arcade Edition (USA)                                                                                                               ✗      ✗     ✗
 RoadKill (USA)                                                                                                                                     ✗      ✗     ✗
@@ -1308,7 +1308,7 @@ Second Sight (Europe) (En,Fr,De,Es,It)                                          
 Second Sight (USA)                                                                                                                                 ✗      ✗     ✗
 Sega Soccer Slam (Europe)                                                                                                                          ✗      ✗     ✗
 Sega Soccer Slam (Japan)                                                                                                                           ✗      ✗     ✗
-Sega Soccer Slam (USA)                                                                                                                             ✗      ✗     ✗
+Sega Soccer Slam (USA)                                                                                                                             ✓      ✗     ✗
 Seigneur des Anneaux, Le - Le Retour du Roi (France)                                                                                               ✗      ✗     ✗
 Seigneur des Anneaux, Le - Le Tiers Age (France) (Disc 1)                                                                                          ✗      ✗     ✗
 Seigneur des Anneaux, Le - Le Tiers Age (France) (Disc 2)                                                                                          ✗      ✗     ✗
@@ -1355,7 +1355,7 @@ Sims, The (Europe) (En,Fr,De,Es,It)                                             
 Sims, The (Japan)                                                                                                                                  ✗      ✗     ✗
 Sims, The (USA)                                                                                                                                    ✗      ✗     ✗
 Skies of Arcadia Legends (Europe) (En,Fr,De,Es)                                                                                                    ✗      ✗     ✗
-Skies of Arcadia Legends (USA)                                                                                                                     ✗      ✗     ✗
+Skies of Arcadia Legends (USA)                                                                                                                     ✓      ✗     ✗
 SmaBro DX Event-you Disc (Japan)                                                                                                                   ✗      ✗     ✗
 Smashing Drive (USA)                                                                                                                               ✗      ✗     ✗
 Smuggler's Run - Warzones (Europe) (En,Fr,De,It)                                                                                                   ✗      ✗     ✗
@@ -1364,7 +1364,7 @@ Sonic Adventure 2 - Battle (Europe) (En,Ja,Fr,De,Es)                            
 Sonic Adventure 2 - Battle (Japan) (En,Ja,Fr,De,Es)                                                                                                ✗      ✗     ✗
 Sonic Adventure 2 - Battle (USA) (En,Ja,Fr,De,Es)                                                                                                  ✗      ✗     ✗
 Sonic Adventure DX - Director's Cut (Europe) (En,Ja,Fr,De,Es)                                                                                      ✗      ✗     ✗
-Sonic Adventure DX - Director's Cut (USA) (En,Ja,Fr,De,Es)                                                                                         ✗      ✗     ✗
+Sonic Adventure DX - Director's Cut (USA) (En,Ja,Fr,De,Es)                                                                                         ✓      ✗     ✗
 Sonic Adventure DX (Japan) (En,Ja,Fr,De,Es)                                                                                                        ✗      ✗     ✗
 Sonic Gems Collection (Europe) (En,Fr,De,Es,It)                                                                                                    ✗      ✗     ✗
 Sonic Gems Collection (Japan)                                                                                                                      ✗      ✗     ✗
@@ -1426,13 +1426,13 @@ SSX Tricky (Japan)                                                              
 SSX Tricky (USA)                                                                                                                                   ✗      ✗     ✗
 Star Fox - Assault (Europe) (En,Fr,De,Es,It)                                                                                                       ✗      ✗     ✗
 Star Fox - Assault (Japan)                                                                                                                         ✗      ✗     ✗
-Star Fox - Assault (USA)                                                                                                                           ✗      ✗     ✗
+Star Fox - Assault (USA)                                                                                                                           ✓      ✗     ✗
 Star Fox Adventures (Europe) (En,Fr,De,Es,It) (v1.00)                                                                                              ✗      ✗     ✗
 Star Fox Adventures (Europe) (En,Fr,De,Es,It) (v1.01)                                                                                              ✗      ✗     ✗
 Star Fox Adventures (Japan) (v1.00)                                                                                                                ✗      ✗     ✗
 Star Fox Adventures (Japan) (v1.01)                                                                                                                ✗      ✗     ✗
-Star Fox Adventures (USA) (v1.00)                                                                                                                  ✗      ✗     ✗
-Star Fox Adventures (USA) (v1.01)                                                                                                                  ✗      ✗     ✗
+Star Fox Adventures (USA) (v1.00)                                                                                                                  ✓      ✗     ✗
+Star Fox Adventures (USA) (v1.01)                                                                                                                  ✓      ✗     ✗
 Star Wars - Bounty Hunter (Europe)                                                                                                                 ✗      ✗     ✗
 Star Wars - Bounty Hunter (France)                                                                                                                 ✗      ✗     ✗
 Star Wars - Bounty Hunter (Germany)                                                                                                                ✗      ✗     ✗
@@ -1454,7 +1454,7 @@ Star Wars - Rogue Squadron III - Rebel Strike (Europe) (En,Fr,De,Es,It)         
 Star Wars - Rogue Squadron III - Rebel Strike (Europe) (En,Fr,De,Es,It) (Demo)                                                                     ✗      ✗     ✗
 Star Wars - Rogue Squadron III - Rebel Strike (France)                                                                                             ✗      ✗     ✗
 Star Wars - Rogue Squadron III - Rebel Strike (Germany)                                                                                            ✗      ✗     ✗
-Star Wars - Rogue Squadron III - Rebel Strike (USA)                                                                                                ✗      ✗     ✗
+Star Wars - Rogue Squadron III - Rebel Strike (USA)                                                                                                ✓      ✗     ✗
 Star Wars - Rogue Squadron III (Japan)                                                                                                             ✗      ✗     ✗
 Star Wars - The Clone Wars (Europe)                                                                                                                ✗      ✗     ✗
 Star Wars - The Clone Wars (France)                                                                                                                ✗      ✗     ✗
@@ -1469,7 +1469,7 @@ Sum of All Fears, The (Europe) (En,Fr,De,Es,It)                                 
 Sum of All Fears, The (USA)                                                                                                                        ✗      ✗     ✗
 Summoner - A Goddess Reborn (Europe)                                                                                                               ✗      ✗     ✗
 Summoner - A Goddess Reborn (Germany)                                                                                                              ✗      ✗     ✗
-Summoner - A Goddess Reborn (USA)                                                                                                                  ✗      ✗     ✗
+Summoner - A Goddess Reborn (USA)                                                                                                                  ✓      ✗     ✗
 Super Bubble Pop (USA)                                                                                                                             ✗      ✗     ✗
 Super Bust-A-Move All Stars (Europe) (En,Fr,De,Es,It)                                                                                              ✗      ✗     ✗
 Super Mario Stadium - Miracle Baseball (Japan)                                                                                                     ✓      ✗     ✗
@@ -1481,10 +1481,10 @@ Super Mario Sunshine (Korea)                                                    
 Super Mario Sunshine (USA)                                                                                                                         ✓      ✓     ✓
 Super Monkey Ball (Europe) (En,Fr,De,Es,It)                                                                                                        ✗      ✗     ✗
 Super Monkey Ball (Japan)                                                                                                                          ✗      ✗     ✗
-Super Monkey Ball (USA)                                                                                                                            ✗      ✗     ✗
+Super Monkey Ball (USA)                                                                                                                            ✓      ✗     ✗
 Super Monkey Ball 2 (Europe) (En,Fr,De,Es,It)                                                                                                      ✗      ✗     ✗
 Super Monkey Ball 2 (Japan)                                                                                                                        ✗      ✗     ✗
-Super Monkey Ball 2 (USA)                                                                                                                          ✗      ✗     ✗
+Super Monkey Ball 2 (USA)                                                                                                                          ✓      ✗     ✗
 Super Monkey Ball Adventure (Europe) (En,Fr,De,Es,It)                                                                                              ✗      ✗     ✗
 Super Monkey Ball Adventure (USA)                                                                                                                  ✗      ✗     ✗
 Super Puzzle Bobble All Stars (Japan)                                                                                                              ✗      ✗     ✗
@@ -1515,8 +1515,8 @@ Tales of Symphonia (Japan) (Disc 1)                                             
 Tales of Symphonia (Japan) (Disc 2)                                                                                                                ✗      ✗     ✗
 Tales of Symphonia (Spain) (Disc 1)                                                                                                                ✗      ✗     ✗
 Tales of Symphonia (Spain) (Disc 2)                                                                                                                ✗      ✗     ✗
-Tales of Symphonia (USA) (Disc 1)                                                                                                                  ✗      ✗     ✗
-Tales of Symphonia (USA) (Disc 2)                                                                                                                  ✗      ✗     ✗
+Tales of Symphonia (USA) (Disc 1)                                                                                                                  ✓      ✗     ✗
+Tales of Symphonia (USA) (Disc 2)                                                                                                                  ✓      ✗     ✗
 Taxi 3 - Le Jeu (France)                                                                                                                           ✗      ✗     ✗
 Taz - Wanted (Europe) (En,Fr,De,Es,It)                                                                                                             ✗      ✗     ✗
 Taz - Wanted (USA) (En,Fr,De,Es,It)                                                                                                                ✗      ✗     ✗
@@ -1558,7 +1558,7 @@ TimeSplitters - Future Perfect (USA)                                            
 TimeSplitters - Futuro Perfecto (Spain)                                                                                                            ✗      ✗     ✗
 TimeSplitters 2 (Europe) (En,Fr,De,Es,It)                                                                                                          ✗      ✗     ✗
 TimeSplitters 2 (USA)                                                                                                                              ✗      ✗     ✗
-TMNT - Mutant Melee (USA)                                                                                                                          ✗      ✗     ✗
+TMNT - Mutant Melee (USA)                                                                                                                          ✓      ✗     ✗
 TMNT (Europe) (En,Fr,De,Es,It)                                                                                                                     ✗      ✗     ✗
 TMNT (USA) (En,Fr,Es)                                                                                                                              ✗      ✗     ✗
 Tom and Jerry in War of the Whiskers (USA)                                                                                                         ✗      ✗     ✗

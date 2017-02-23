@@ -18,7 +18,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Coleco - ColecoVision](out/Coleco - ColecoVision.txt) | 173 / 173 | 173 / 173 | 173 / 173 | 519 / 519 | **100.00%** |
 | [Dinothawr](out/Dinothawr.txt) | 1 / 1 | 1 / 1 | 1 / 1 | 3 / 3 | **100.00%** |
 | [DOOM](out/DOOM.txt) | 15 / 88 | 5 / 88 | 5 / 88 | 25 / 264 | **9.47%** |
-| [DOS](out/DOS.txt) | 5 / 10425 | 5 / 10425 | 5 / 10425 | 15 / 31275 | **0.05%** |
+| [DOS](out/DOS.txt) | 5 / 11591 | 5 / 11591 | 5 / 11591 | 15 / 34773 | **0.04%** |
 | [Emerson - Arcadia 2001](out/Emerson - Arcadia 2001.txt) | 0 / 48 | 48 / 48 | 48 / 48 | 96 / 144 | **66.67%** |
 | [Entex - Adventure Vision](out/Entex - Adventure Vision.txt) | 4 / 4 | 4 / 4 | 4 / 4 | 12 / 12 | **100.00%** |
 | [Epoch - Super Cassette Vision](out/Epoch - Super Cassette Vision.txt) | 4 / 25 | 25 / 25 | 25 / 25 | 54 / 75 | **72.00%** |
@@ -44,13 +44,15 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Nintendo - Game Boy Advance](out/Nintendo - Game Boy Advance.txt) | 1807 / 2960 | 2857 / 2960 | 2857 / 2960 | 7521 / 8880 | **84.70%** |
 | [Nintendo - Game Boy Color](out/Nintendo - Game Boy Color.txt) | 880 / 1423 | 1327 / 1423 | 1327 / 1423 | 3534 / 4269 | **82.78%** |
 | [Nintendo - Game Boy](out/Nintendo - Game Boy.txt) | 1052 / 1606 | 1522 / 1606 | 1522 / 1606 | 4096 / 4818 | **85.01%** |
-| [Nintendo - GameCube](out/Nintendo - GameCube.txt) | 18 / 1749 | 1 / 1749 | 3 / 1749 | 22 / 5247 | **0.42%** |
+| [Nintendo - GameCube](out/Nintendo - GameCube.txt) | 64 / 1749 | 1 / 1749 | 3 / 1749 | 68 / 5247 | **1.30%** |
 | [Nintendo - Nintendo 3DS (DLC)](out/Nintendo - Nintendo 3DS (DLC).txt) | 0 / 958 | 0 / 958 | 0 / 958 | 0 / 2874 | **0.00%** |
 | [Nintendo - Nintendo 3DS](out/Nintendo - Nintendo 3DS.txt) | 13 / 1717 | 0 / 1717 | 0 / 1717 | 13 / 5151 | **0.25%** |
 | [Nintendo - Nintendo 64](out/Nintendo - Nintendo 64.txt) | 898 / 949 | 945 / 949 | 944 / 949 | 2787 / 2847 | **97.89%** |
 | [Nintendo - Nintendo 64DD](out/Nintendo - Nintendo 64DD.txt) | 10 / 13 | 4 / 13 | 5 / 13 | 19 / 39 | **48.72%** |
+| [Nintendo - Nintendo DS (Download Play)](out/Nintendo - Nintendo DS (Download Play).txt) | 0 / 379 | 0 / 379 | 0 / 379 | 0 / 1137 | **0.00%** |
 | [Nintendo - Nintendo DS Decrypted](out/Nintendo - Nintendo DS Decrypted.txt) | 140 / 6995 | 9 / 6995 | 9 / 6995 | 158 / 20985 | **0.75%** |
 | [Nintendo - Nintendo DSi (DLC)](out/Nintendo - Nintendo DSi (DLC).txt) | 0 / 737 | 0 / 737 | 0 / 737 | 0 / 2211 | **0.00%** |
+| [Nintendo - Nintendo DSi](out/Nintendo - Nintendo DSi.txt) | 0 / 11 | 0 / 11 | 0 / 11 | 0 / 33 | **0.00%** |
 | [Nintendo - Nintendo Entertainment System](out/Nintendo - Nintendo Entertainment System.txt) | 1920 / 2749 | 2561 / 2749 | 2561 / 2749 | 7042 / 8247 | **85.39%** |
 | [Nintendo - Nintendo Wii (DLC)](out/Nintendo - Nintendo Wii (DLC).txt) | 0 / 2864 | 0 / 2864 | 0 / 2864 | 0 / 8592 | **0.00%** |
 | [Nintendo - Pokemon Mini](out/Nintendo - Pokemon Mini.txt) | 43 / 43 | 43 / 43 | 43 / 43 | 129 / 129 | **100.00%** |
@@ -92,7 +94,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [VTech - CreatiVision](out/VTech - CreatiVision.txt) | 20 / 20 | 20 / 20 | 20 / 20 | 60 / 60 | **100.00%** |
 | [VTech - V.Smile](out/VTech - V.Smile.txt) | 1 / 94 | 1 / 94 | 1 / 94 | 3 / 282 | **1.06%** |
 | [Watara - Supervision](out/Watara - Supervision.txt) | 63 / 63 | 63 / 63 | 63 / 63 | 189 / 189 | **100.00%** |
-| **Total** | **20388 / 81236** | **25740 / 81236** | **24957 / 81236** | **71085 / 243708** | **29.17%** |
+| **Total** | **20434 / 82792** | **25740 / 82792** | **24957 / 82792** | **71131 / 248376** | **28.64%** |
 
 ## Build
 
