@@ -1,9 +1,9 @@
 SNK - Neo Geo Pocket Color
 
-Boxarts  111/119  93.28%
-Snaps    111/119  93.28%
-Titles   111/119  93.28%
-Total    333/357  93.28%
+Boxarts  119/119  100.00%
+Snaps    119/119  100.00%
+Titles   119/119  100.00%
+Total    357/357  100.00%
 
 Name                                                                                            Boxart  Snap  Title
 Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan)     ✓      ✓     ✓
@@ -14,13 +14,13 @@ Biomotor Unitron (Japan)                                                        
 Biomotor Unitron (Japan) (Demo)                                                                    ✓      ✓     ✓
 Biomotor Unitron (USA, Europe)                                                                     ✓      ✓     ✓
 Bust-A-Move Pocket (USA)                                                                           ✓      ✓     ✓
-Bust-A-Move Pocket (USA) (Beta)                                                                    ✗      ✗     ✗
+Bust-A-Move Pocket (USA) (Beta)                                                                    ✓      ✓     ✓
 Cool Boarders Pocket (Japan, Europe) (En,Ja)                                                       ✓      ✓     ✓
 Cool Cool Jam (Japan)                                                                              ✓      ✓     ✓
 Cool Cool Jam (USA, Europe) (Sample)                                                               ✓      ✓     ✓
 Crush Roller (World) (En,Ja)                                                                       ✓      ✓     ✓
 Dark Arms - Beast Buster 1999 (World) (En,Ja)                                                      ✓      ✓     ✓
-Dark Arms - Beast Buster 1999 (World) (En,Ja) (Beta)                                               ✗      ✗     ✗
+Dark Arms - Beast Buster 1999 (World) (En,Ja) (Beta)                                               ✓      ✓     ✓
 Delta Warp (Japan) (Demo)                                                                          ✓      ✓     ✓
 Delta Warp (Japan) (En,Ja)                                                                         ✓      ✓     ✓
 Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan)                                           ✓      ✓     ✓
@@ -28,7 +28,7 @@ Densha de Go! 2 on Neo Geo Pocket (Japan)                                       
 Densha de Go! 2 on Neo Geo Pocket (Japan) (Demo)                                                   ✓      ✓     ✓
 Dive Alert - Becky's Version (USA, Europe)                                                         ✓      ✓     ✓
 Dive Alert - Burn Hen (Japan)                                                                      ✓      ✓     ✓
-Dive Alert - Burn Hen (Japan) (Beta)                                                               ✗      ✗     ✗
+Dive Alert - Burn Hen (Japan) (Beta)                                                               ✓      ✓     ✓
 Dive Alert - Matt's Version (USA, Europe)                                                          ✓      ✓     ✓
 Dive Alert - Rebecca Hen (Japan)                                                                   ✓      ✓     ✓
 Dokodemo Mahjong (Japan)                                                                           ✓      ✓     ✓
@@ -60,7 +60,7 @@ Mezase! Kanji Ou (Japan)                                                        
 Mizuki Shigeru no Youkai Shashinkan (Japan)                                                        ✓      ✓     ✓
 Neo 21 - Real Casino Series (World)                                                                ✓      ✓     ✓
 Neo Baccarat - Real Casino Series (World)                                                          ✓      ✓     ✓
-Neo Baccarat - Real Casino Series (World) (Beta)                                                   ✗      ✗     ✗
+Neo Baccarat - Real Casino Series (World) (Beta)                                                   ✓      ✓     ✓
 Neo Cherry Master Color - Real Casino Series (World) (En,Ja)                                       ✓      ✓     ✓
 Neo Cherry Master Color - Real Casino Series (World) (En,Ja) (Demo)                                ✓      ✓     ✓
 Neo Derby Champ Daiyosou (Japan)                                                                   ✓      ✓     ✓
@@ -85,7 +85,7 @@ Pachi-Slot Aruze Oukoku Pocket - Porcano 2 (Japan)                              
 Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan)                                            ✓      ✓     ✓
 Pachinko Hisshou Guide - Pocket Parlor (Japan)                                                     ✓      ✓     ✓
 Party Mail (Japan)                                                                                 ✓      ✓     ✓
-Party Mail (Japan) (Beta)                                                                          ✗      ✗     ✗
+Party Mail (Japan) (Beta)                                                                          ✓      ✓     ✓
 Picture Puzzle (USA, Europe)                                                                       ✓      ✓     ✓
 Pocket Love if (Japan)                                                                             ✓      ✓     ✓
 Pocket Reversi (Europe)                                                                            ✓      ✓     ✓
@@ -104,8 +104,8 @@ Rockman - Battle _ Fighters (Japan)                                             
 Rockman - Battle _ Fighters (Japan) (Demo)                                                         ✓      ✓     ✓
 Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)                                        ✓      ✓     ✓
 Shanghai Mini (World) (En,Ja)                                                                      ✓      ✓     ✓
-Shanghai Mini (World) (En,Ja) (Beta 1)                                                             ✗      ✗     ✗
-Shanghai Mini (World) (En,Ja) (Beta 2)                                                             ✗      ✗     ✗
+Shanghai Mini (World) (En,Ja) (Beta 1)                                                             ✓      ✓     ✓
+Shanghai Mini (World) (En,Ja) (Beta 2)                                                             ✓      ✓     ✓
 Shinki Sekai Evolution - Hateshinai Dungeon (Japan)                                                ✓      ✓     ✓
 Shougi no Tatsujin Color (Japan)                                                                   ✓      ✓     ✓
 SNK Gals' Fighters (Japan)                                                                         ✓      ✓     ✓
@@ -119,7 +119,7 @@ SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Demo) 
 SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo)                                            ✓      ✓     ✓
 SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)                                       ✓      ✓     ✓
 Sonic The Hedgehog - Pocket Adventure (World)                                                      ✓      ✓     ✓
-Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22)                                  ✗      ✗     ✗
+Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22)                                  ✓      ✓     ✓
 Sonic The Hedgehog - Pocket Adventure (World) (Demo)                                               ✓      ✓     ✓
 Soreike!! Hanafuda Doujou (Japan)                                                                  ✓      ✓     ✓
 Super Real Mahjong - Premium Collection (Japan)                                                    ✓      ✓     ✓

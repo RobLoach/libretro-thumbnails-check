@@ -1,9 +1,9 @@
 Sega - Game Gear
 
-Boxarts    372/497  74.85%
-Snaps      476/497  95.77%
-Titles     475/497  95.57%
-Total    1323/1491  88.73%
+Boxarts    374/497  75.25%
+Snaps      485/497  97.59%
+Titles     485/497  97.59%
+Total    1344/1491  90.14%
 
 Name                                                                                Boxart  Snap  Title
 5 in 1 Funpak (USA)                                                                    ✓      ✓     ✓
@@ -38,7 +38,7 @@ Baku Baku Animal (Europe)                                                       
 Baku Baku Animal (USA)                                                                 ✓      ✓     ✓
 Barbie Super Model (Unknown) (Proto)                                                   ✓      ✓     ✓
 Bare Knuckle ~ Streets of Rage (World)                                                 ✓      ✓     ✓
-Bare Knuckle II ~ Streets of Rage 2 ~ Streets of Rage II (World)                       ✓      ✓     ✗
+Bare Knuckle II ~ Streets of Rage 2 ~ Streets of Rage II (World)                       ✓      ✓     ✓
 Bartman Meets Radioactive Man (USA)                                                    ✓      ✓     ✓
 Batman Forever (World)                                                                 ✓      ✓     ✓
 Batman Returns (World)                                                                 ✓      ✓     ✓
@@ -78,7 +78,7 @@ Chuck Rock II - Son of Chuck (USA)                                              
 CJ Elephant Fugitive (Europe)                                                          ✗      ✗     ✗
 Cliffhanger (USA)                                                                      ✓      ✓     ✓
 Clutch Hitter (USA)                                                                    ✓      ✓     ✓
-Coca-Cola Kid (Japan)                                                                  ✗      ✗     ✗
+Coca-Cola Kid (Japan)                                                                  ✗      ✓     ✓
 Columns (Japan) (En)                                                                   ✓      ✓     ✓
 Columns (Japan) (En) (Rev 1)                                                           ✓      ✓     ✓
 Columns (USA, Europe)                                                                  ✓      ✓     ✓
@@ -94,8 +94,8 @@ Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)                               
 Deep Duck Trouble Starring Donald Duck (USA, Europe)                                   ✓      ✓     ✓
 Defenders of Oasis (USA, Europe)                                                       ✓      ✓     ✓
 Defenders of Oasis (USA, Europe) (Beta)                                                ✓      ✓     ✓
-Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It)     ✓      ✗     ✗
-Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA)                         ✓      ✗     ✗
+Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It)     ✓      ✓     ✓
+Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA)                         ✓      ✓     ✓
 Desert Strike - Return to the Gulf (USA)                                               ✓      ✓     ✓
 Desert Strike (Europe) (En,Fr,De,Es)                                                   ✓      ✓     ✓
 Devilish (Europe)                                                                      ✓      ✓     ✓
@@ -126,7 +126,7 @@ Ecco the Dolphin (USA, Europe)                                                  
 Ecco the Dolphin II (Japan)                                                            ✓      ✓     ✓
 Ernie Els Golf (Europe) (En,Fr,De,Es,It)                                               ✓      ✓     ✓
 Eternal Legend - Eien no Densetsu (Japan)                                              ✓      ✓     ✓
-Evander Holyfield's 'Real Deal' Boxing (USA, Europe)                                   ✓      ✗     ✗
+Evander Holyfield's 'Real Deal' Boxing (USA, Europe)                                   ✓      ✓     ✓
 Excellent Dizzy Collection, The (Europe)                                               ✓      ✓     ✓
 F-15 Strike Eagle (USA, Europe)                                                        ✓      ✓     ✓
 F1 - World Championship Edition (Europe)                                               ✗      ✓     ✓
@@ -151,7 +151,7 @@ From TV Animation - Slam Dunk - Shouri e no Starting 5 (Japan)                  
 G-LOC - Air Battle (Japan)                                                             ✗      ✓     ✓
 G-LOC - Air Battle (Japan) (Rev 1)                                                     ✗      ✓     ✓
 G-LOC - Air Battle (USA, Europe)                                                       ✗      ✓     ✓
-G-Sonic ~ Sonic Blast (World)                                                          ✗      ✗     ✗
+G-Sonic ~ Sonic Blast (World)                                                          ✓      ✓     ✓
 Galaga '91 (Japan)                                                                     ✗      ✓     ✓
 Galaga 2 (Europe)                                                                      ✗      ✓     ✓
 Gamble Panic (Japan)                                                                   ✗      ✓     ✓
@@ -276,8 +276,8 @@ Nazo Puyo (Japan) (Rev 1)                                                       
 Nazo Puyo 2 (Japan)                                                                    ✗      ✓     ✓
 Nazo Puyo Arle no Roux (Japan)                                                         ✗      ✓     ✓
 Nazo Puyo Arle no Roux (Japan) (Development Edition)                                   ✗      ✓     ✓
-NBA Action Starring David Robinson (USA)                                               ✓      ✗     ✗
-NBA Jam - Tournament Edition (World)                                                   ✓      ✗     ✗
+NBA Action Starring David Robinson (USA)                                               ✓      ✓     ✓
+NBA Jam - Tournament Edition (World)                                                   ✓      ✓     ✓
 NBA Jam (Japan)                                                                        ✓      ✓     ✓
 NBA Jam (USA, Europe)                                                                  ✓      ✓     ✓
 NBA Jam (USA) (Rev 1)                                                                  ✓      ✓     ✓
@@ -386,7 +386,7 @@ Skweek (Japan)                                                                  
 Slider (USA, Europe)                                                                   ✓      ✓     ✓
 Smurfs Travel the World, The (Europe) (En,Fr,De,Es)                                    ✗      ✓     ✓
 Smurfs, The (Europe) (En,Fr,De,Es)                                                     ✗      ✓     ✓
-Solitaire FunPak (USA)                                                                 ✓      ✗     ✗
+Solitaire FunPak (USA)                                                                 ✓      ✓     ✓
 Solitaire Poker (USA, Europe)                                                          ✓      ✓     ✓
 Sonic _ Tails (Japan) (En)                                                             ✓      ✓     ✓
 Sonic _ Tails (Japan) (En) (Sample)                                                    ✓      ✓     ✓
@@ -396,7 +396,7 @@ Sonic Drift (Japan)                                                             
 Sonic Drift (Japan) (Sample)                                                           ✗      ✓     ✓
 Sonic Drift 2 (Japan, USA)                                                             ✓      ✓     ✓
 Sonic Labyrinth (World)                                                                ✓      ✓     ✓
-Sonic Spinball (USA, Europe)                                                           ✗      ✓     ✓
+Sonic Spinball (USA, Europe)                                                           ✓      ✓     ✓
 Sonic The Hedgehog - Triple Trouble (USA, Europe)                                      ✓      ✓     ✓
 Sonic The Hedgehog (Japan)                                                             ✓      ✓     ✓
 Sonic The Hedgehog (World) (Proto)                                                     ✓      ✓     ✓
@@ -406,7 +406,7 @@ Sonic The Hedgehog 2 (World) (Auto Demo)                                        
 Soukoban (Japan)                                                                       ✗      ✓     ✓
 Space Harrier (World)                                                                  ✓      ✓     ✓
 Spider-Man - Return of the Sinister Six (USA, Europe)                                  ✓      ✓     ✓
-Spider-Man - X-Men - Arcade's Revenge (USA)                                            ✓      ✗     ✗
+Spider-Man - X-Men - Arcade's Revenge (USA)                                            ✓      ✓     ✓
 Spider-Man vs. The Kingpin (USA, Europe)                                               ✓      ✓     ✓
 Spirou (Europe) (Proto)                                                                ✗      ✓     ✓
 Sports Illustrated Championship Football _ Baseball (USA, Europe)                      ✓      ✓     ✓

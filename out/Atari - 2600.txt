@@ -1,9 +1,9 @@
 Atari - 2600
 
-Boxarts    569/582  97.77%
-Snaps      575/582  98.80%
-Titles     575/582  98.80%
-Total    1719/1746  98.45%
+Boxarts    571/582  98.11%
+Snaps      578/582  99.31%
+Titles     578/582  99.31%
+Total    1727/1746  98.91%
 
 Name                                                                                   Boxart  Snap  Title
 3-D Tic-Tac-Toe (USA)                                                                     ✓      ✓     ✓
@@ -18,7 +18,7 @@ Air Raiders (USA)                                                               
 Air-Sea Battle ~ Target Fun (USA)                                                         ✓      ✓     ✓
 Airlock (USA)                                                                             ✓      ✓     ✓
 Alien (USA)                                                                               ✓      ✓     ✓
-Aliens Return (Europe)                                                                    ✓      ✗     ✗
+Aliens Return (Europe)                                                                    ✓      ✓     ✓
 Alligator People (USA) (Proto)                                                            ✓      ✓     ✓
 Alpha Beam with Ernie (USA)                                                               ✓      ✓     ✓
 Amidar (USA)                                                                              ✓      ✓     ✓
@@ -401,7 +401,7 @@ Robot Tank (USA)                                                                
 Roc 'n Rope (USA)                                                                         ✓      ✓     ✓
 Room of Doom (USA)                                                                        ✓      ✓     ✓
 Rubik's Cube 3-D (USA) (Proto)                                                            ✓      ✓     ✓
-S.A.C. Alert (USA) (Proto)                                                                ✗      ✗     ✗
+S.A.C. Alert (USA) (Proto)                                                                ✓      ✓     ✓
 Saboteur (USA) (Proto)                                                                    ✓      ✓     ✓
 Save Mary! (USA) (Proto)                                                                  ✓      ✓     ✓
 Save Our Ship (Europe)                                                                    ✓      ✓     ✓
@@ -470,7 +470,7 @@ Sssnake (USA)                                                                   
 Stampede (USA)                                                                            ✓      ✓     ✓
 Star Fox (USA)                                                                            ✓      ✓     ✓
 Star Raiders (USA)                                                                        ✓      ✓     ✓
-Star Ship - Outer Space (USA)                                                             ✗      ✗     ✗
+Star Ship - Outer Space (USA)                                                             ✓      ✓     ✓
 Star Strike (USA)                                                                         ✓      ✓     ✓
 Star Trek - Strategic Operations Simulator (USA)                                          ✓      ✓     ✓
 Star Voyager (USA)                                                                        ✓      ✓     ✓

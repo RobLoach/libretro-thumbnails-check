@@ -4,11 +4,11 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 
 | System | Boxarts | Snaps | Tites | Total | Percent |
 | :--- | :---: | :---: | :---: | :---: | ---: |
-| [Atari - 2600](out/Atari - 2600.txt) | 569 / 582 | 575 / 582 | 575 / 582 | 1719 / 1746 | **98.45%** |
+| [Atari - 2600](out/Atari - 2600.txt) | 571 / 582 | 578 / 582 | 578 / 582 | 1727 / 1746 | **98.91%** |
 | [Atari - 5200](out/Atari - 5200.txt) | 106 / 106 | 106 / 106 | 106 / 106 | 318 / 318 | **100.00%** |
 | [Atari - 7800](out/Atari - 7800.txt) | 114 / 114 | 114 / 114 | 114 / 114 | 342 / 342 | **100.00%** |
 | [Atari - Jaguar](out/Atari - Jaguar.txt) | 59 / 59 | 59 / 59 | 59 / 59 | 177 / 177 | **100.00%** |
-| [Atari - Lynx](out/Atari - Lynx.txt) | 85 / 86 | 85 / 86 | 85 / 86 | 255 / 258 | **98.84%** |
+| [Atari - Lynx](out/Atari - Lynx.txt) | 86 / 86 | 86 / 86 | 86 / 86 | 258 / 258 | **100.00%** |
 | [Atari - ST](out/Atari - ST.txt) | 124 / 305 | 144 / 305 | 123 / 305 | 391 / 915 | **42.73%** |
 | [Bandai - WonderSwan Color](out/Bandai - WonderSwan Color.txt) | 95 / 95 | 95 / 95 | 95 / 95 | 285 / 285 | **100.00%** |
 | [Bandai - WonderSwan](out/Bandai - WonderSwan.txt) | 112 / 112 | 112 / 112 | 112 / 112 | 336 / 336 | **100.00%** |
@@ -31,10 +31,10 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Hartung - Game Master](out/Hartung - Game Master.txt) | 0 / 11 | 11 / 11 | 11 / 11 | 22 / 33 | **66.67%** |
 | [LeapFrog - Leapster Learning Game System](out/LeapFrog - Leapster Learning Game System.txt) | 0 / 44 | 0 / 44 | 0 / 44 | 0 / 132 | **0.00%** |
 | [Lutro](out/Lutro.txt) | 0 / 10 | 9 / 10 | 3 / 10 | 12 / 30 | **40.00%** |
-| [Magnavox - Odyssey2](out/Magnavox - Odyssey2.txt) | 0 / 131 | 131 / 131 | 131 / 131 | 262 / 393 | **66.67%** |
+| [Magnavox - Odyssey2](out/Magnavox - Odyssey2.txt) | 61 / 131 | 131 / 131 | 131 / 131 | 323 / 393 | **82.19%** |
 | [MAME2003](out/MAME2003.txt) | 0 / 4702 | 0 / 4702 | 0 / 4702 | 0 / 14106 | **0.00%** |
 | [Microsoft - MSX](out/Microsoft - MSX.txt) | 244 / 936 | 911 / 936 | 912 / 936 | 2067 / 2808 | **73.61%** |
-| [Microsoft - MSX2](out/Microsoft - MSX2.txt) | 0 / 195 | 195 / 195 | 195 / 195 | 390 / 585 | **66.67%** |
+| [Microsoft - MSX2](out/Microsoft - MSX2.txt) | 65 / 195 | 195 / 195 | 195 / 195 | 455 / 585 | **77.78%** |
 | [NEC - PC Engine - TurboGrafx 16](out/NEC - PC Engine - TurboGrafx 16.txt) | 412 / 412 | 412 / 412 | 412 / 412 | 1236 / 1236 | **100.00%** |
 | [NEC - PC Engine CD - TurboGrafx-CD](out/NEC - PC Engine CD - TurboGrafx-CD.txt) | 7 / 328 | 4 / 328 | 4 / 328 | 15 / 984 | **1.52%** |
 | [NEC - PC Engine SuperGrafx](out/NEC - PC Engine SuperGrafx.txt) | 5 / 5 | 5 / 5 | 5 / 5 | 15 / 15 | **100.00%** |
@@ -43,7 +43,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Nintendo - Game Boy Advance (e-Cards)](out/Nintendo - Game Boy Advance (e-Cards).txt) | 0 / 3083 | 0 / 3083 | 0 / 3083 | 0 / 9249 | **0.00%** |
 | [Nintendo - Game Boy Advance](out/Nintendo - Game Boy Advance.txt) | 1807 / 2960 | 2857 / 2960 | 2857 / 2960 | 7521 / 8880 | **84.70%** |
 | [Nintendo - Game Boy Color](out/Nintendo - Game Boy Color.txt) | 880 / 1423 | 1327 / 1423 | 1327 / 1423 | 3534 / 4269 | **82.78%** |
-| [Nintendo - Game Boy](out/Nintendo - Game Boy.txt) | 1052 / 1606 | 1522 / 1606 | 1522 / 1606 | 4096 / 4818 | **85.01%** |
+| [Nintendo - Game Boy](out/Nintendo - Game Boy.txt) | 1059 / 1606 | 1570 / 1606 | 1569 / 1606 | 4198 / 4818 | **87.13%** |
 | [Nintendo - GameCube](out/Nintendo - GameCube.txt) | 64 / 1749 | 1 / 1749 | 3 / 1749 | 68 / 5247 | **1.30%** |
 | [Nintendo - Nintendo 3DS (DLC)](out/Nintendo - Nintendo 3DS (DLC).txt) | 0 / 958 | 0 / 958 | 0 / 958 | 0 / 2874 | **0.00%** |
 | [Nintendo - Nintendo 3DS](out/Nintendo - Nintendo 3DS.txt) | 13 / 1717 | 0 / 1717 | 0 / 1717 | 13 / 5151 | **0.25%** |
@@ -52,7 +52,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Nintendo - Nintendo DS (Download Play)](out/Nintendo - Nintendo DS (Download Play).txt) | 0 / 379 | 0 / 379 | 0 / 379 | 0 / 1137 | **0.00%** |
 | [Nintendo - Nintendo DS Decrypted](out/Nintendo - Nintendo DS Decrypted.txt) | 140 / 6995 | 9 / 6995 | 9 / 6995 | 158 / 20985 | **0.75%** |
 | [Nintendo - Nintendo DSi (DLC)](out/Nintendo - Nintendo DSi (DLC).txt) | 0 / 737 | 0 / 737 | 0 / 737 | 0 / 2211 | **0.00%** |
-| [Nintendo - Nintendo DSi](out/Nintendo - Nintendo DSi.txt) | 0 / 11 | 0 / 11 | 0 / 11 | 0 / 33 | **0.00%** |
+| [Nintendo - Nintendo DSi](out/Nintendo - Nintendo DSi.txt) | 6 / 11 | 1 / 11 | 1 / 11 | 8 / 33 | **24.24%** |
 | [Nintendo - Nintendo Entertainment System](out/Nintendo - Nintendo Entertainment System.txt) | 1920 / 2749 | 2561 / 2749 | 2561 / 2749 | 7042 / 8247 | **85.39%** |
 | [Nintendo - Nintendo Wii (DLC)](out/Nintendo - Nintendo Wii (DLC).txt) | 0 / 2864 | 0 / 2864 | 0 / 2864 | 0 / 8592 | **0.00%** |
 | [Nintendo - Pokemon Mini](out/Nintendo - Pokemon Mini.txt) | 43 / 43 | 43 / 43 | 43 / 43 | 129 / 129 | **100.00%** |
@@ -66,18 +66,18 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [RCA - Studio II](out/RCA - Studio II.txt) | 5 / 5 | 5 / 5 | 5 / 5 | 15 / 15 | **100.00%** |
 | [ScummVM](out/ScummVM.txt) | 18 / 163 | 1 / 163 | 1 / 163 | 20 / 489 | **4.09%** |
 | [Sega - 32X](out/Sega - 32X.txt) | 60 / 60 | 60 / 60 | 60 / 60 | 180 / 180 | **100.00%** |
-| [Sega - Dreamcast](out/Sega - Dreamcast.txt) | 234 / 632 | 0 / 632 | 0 / 632 | 234 / 1896 | **12.34%** |
-| [Sega - Game Gear](out/Sega - Game Gear.txt) | 372 / 497 | 476 / 497 | 475 / 497 | 1323 / 1491 | **88.73%** |
-| [Sega - Master System - Mark III](out/Sega - Master System - Mark III.txt) | 534 / 539 | 496 / 539 | 496 / 539 | 1526 / 1617 | **94.37%** |
+| [Sega - Dreamcast](out/Sega - Dreamcast.txt) | 556 / 632 | 0 / 632 | 0 / 632 | 556 / 1896 | **29.32%** |
+| [Sega - Game Gear](out/Sega - Game Gear.txt) | 374 / 497 | 485 / 497 | 485 / 497 | 1344 / 1491 | **90.14%** |
+| [Sega - Master System - Mark III](out/Sega - Master System - Mark III.txt) | 535 / 539 | 502 / 539 | 502 / 539 | 1539 / 1617 | **95.18%** |
 | [Sega - Mega Drive - Genesis](out/Sega - Mega Drive - Genesis.txt) | 1549 / 1702 | 1660 / 1702 | 1660 / 1702 | 4869 / 5106 | **95.36%** |
 | [Sega - Mega-CD - Sega CD](out/Sega - Mega-CD - Sega CD.txt) | 135 / 281 | 73 / 281 | 73 / 281 | 281 / 843 | **33.33%** |
 | [Sega - PICO](out/Sega - PICO.txt) | 0 / 340 | 12 / 340 | 12 / 340 | 24 / 1020 | **2.35%** |
-| [Sega - Saturn](out/Sega - Saturn.txt) | 230 / 1598 | 230 / 1598 | 229 / 1598 | 689 / 4794 | **14.37%** |
+| [Sega - Saturn](out/Sega - Saturn.txt) | 262 / 1598 | 230 / 1598 | 229 / 1598 | 721 / 4794 | **15.04%** |
 | [Sega - SG-1000](out/Sega - SG-1000.txt) | 84 / 202 | 187 / 202 | 187 / 202 | 458 / 606 | **75.58%** |
 | [Sinclair - ZX 81](out/Sinclair - ZX 81.txt) | 400 / 420 | 419 / 420 | 14 / 420 | 833 / 1260 | **66.11%** |
 | [Sinclair - ZX Spectrum +3](out/Sinclair - ZX Spectrum +3.txt) | 0 / 130 | 0 / 130 | 0 / 130 | 0 / 390 | **0.00%** |
 | [Sinclair - ZX Spectrum](out/Sinclair - ZX Spectrum.txt) | 1425 / 2499 | 2358 / 2499 | 1995 / 2499 | 5778 / 7497 | **77.07%** |
-| [SNK - Neo Geo Pocket Color](out/SNK - Neo Geo Pocket Color.txt) | 111 / 119 | 111 / 119 | 111 / 119 | 333 / 357 | **93.28%** |
+| [SNK - Neo Geo Pocket Color](out/SNK - Neo Geo Pocket Color.txt) | 119 / 119 | 119 / 119 | 119 / 119 | 357 / 357 | **100.00%** |
 | [SNK - Neo Geo Pocket](out/SNK - Neo Geo Pocket.txt) | 10 / 10 | 10 / 10 | 10 / 10 | 30 / 30 | **100.00%** |
 | [Sony - PlayStation 3 (DLC)](out/Sony - PlayStation 3 (DLC).txt) | 0 / 43 | 0 / 43 | 0 / 43 | 0 / 129 | **0.00%** |
 | [Sony - PlayStation 3 (Downloadable)](out/Sony - PlayStation 3 (Downloadable).txt) | 1 / 1 | 1 / 1 | 1 / 1 | 3 / 3 | **100.00%** |
@@ -88,13 +88,13 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Sony - PlayStation Portable (UMD Video)](out/Sony - PlayStation Portable (UMD Video).txt) | 0 / 582 | 0 / 582 | 0 / 582 | 0 / 1746 | **0.00%** |
 | [Sony - PlayStation Portable](out/Sony - PlayStation Portable.txt) | 165 / 4443 | 62 / 4443 | 62 / 4443 | 289 / 13329 | **2.17%** |
 | [Sony - PlayStation](out/Sony - PlayStation.txt) | 594 / 8869 | 199 / 8869 | 211 / 8869 | 1004 / 26607 | **3.77%** |
-| [The 3DO Company - 3DO](out/The 3DO Company - 3DO.txt) | 5 / 222 | 1 / 222 | 1 / 222 | 7 / 666 | **1.05%** |
+| [The 3DO Company - 3DO](out/The 3DO Company - 3DO.txt) | 65 / 222 | 1 / 222 | 1 / 222 | 67 / 666 | **10.06%** |
 | [Tiger - Game.com](out/Tiger - Game.com.txt) | 0 / 22 | 22 / 22 | 22 / 22 | 44 / 66 | **66.67%** |
 | [Uzebox](out/Uzebox.txt) | 0 / 65 | 0 / 65 | 0 / 65 | 0 / 195 | **0.00%** |
 | [VTech - CreatiVision](out/VTech - CreatiVision.txt) | 20 / 20 | 20 / 20 | 20 / 20 | 60 / 60 | **100.00%** |
 | [VTech - V.Smile](out/VTech - V.Smile.txt) | 1 / 94 | 1 / 94 | 1 / 94 | 3 / 282 | **1.06%** |
 | [Watara - Supervision](out/Watara - Supervision.txt) | 63 / 63 | 63 / 63 | 63 / 63 | 189 / 189 | **100.00%** |
-| **Total** | **20434 / 82792** | **25740 / 82792** | **24957 / 82792** | **71131 / 248376** | **28.64%** |
+| **Total** | **21001 / 82792** | **25816 / 82792** | **25033 / 82792** | **71850 / 248376** | **28.93%** |
 
 ## Build
 
