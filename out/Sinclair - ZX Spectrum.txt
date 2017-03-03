@@ -1,9 +1,9 @@
 Sinclair - ZX Spectrum
 
-Boxarts  1425/2499  57.02%
+Boxarts  1451/2499  58.06%
 Snaps    2358/2499  94.36%
 Titles   1995/2499  79.83%
-Total    5778/7497  77.07%
+Total    5804/7497  77.42%
 
 Name                                                                                                              Boxart  Snap  Title
 10th Frame (US Gold Ltd)                                                                                             ✓      ✓     ✓
@@ -45,10 +45,10 @@ Abu Simbel Profanation (Dinamic Software)                                       
 Abyss (CCS)                                                                                                          ✓      ✓     ✓
 Accelerator (Century City Software Ltd)                                                                              ✓      ✓     ✓
 ACE (Cascade Games Ltd)                                                                                              ✓      ✓     ✗
-ACE 2- The Ultimate Head to Head Conflict (Cascade Games Ltd)                                                        ✗      ✗     ✗
+ACE 2- The Ultimate Head to Head Conflict (Cascade Games Ltd)                                                        ✓      ✗     ✗
 Ace in the H.O.L.E. (Kayde Software Ltd)                                                                             ✓      ✓     ✗
 Ace Low (CCS)                                                                                                        ✓      ✓     ✗
-Ace of Aces (US Gold Ltd)                                                                                            ✗      ✓     ✓
+Ace of Aces (US Gold Ltd)                                                                                            ✓      ✓     ✓
 Achus Babilonia (Penazo Soft)                                                                                        ✗      ✓     ✓
 Acolyte (Video Images)                                                                                               ✗      ✓     ✓
 Acorn's Quest (AH Software)                                                                                          ✗      ✓     ✓
@@ -183,7 +183,7 @@ Antics (Bug-Byte Software Ltd)                                                  
 Antteroo (Central Solutions)                                                                                         ✓      ✓     ✓
 Anttilis Mission, The (Compass Software)                                                                             ✗      ✓     ✓
 Apache Raid!! (Pirate Software Ltd)                                                                                  ✓      ✓     ✓
-APB (Domark Ltd)                                                                                                     ✗      ✓     ✓
+APB (Domark Ltd)                                                                                                     ✓      ✓     ✓
 Apfel-Kobold (Happy Computer)                                                                                        ✗      ✓     ✗
 Apollo 11 (Darkstar)                                                                                                 ✓      ✓     ✓
 Apple Catcher (ZX Computing)                                                                                         ✗      ✓     ✗
@@ -300,7 +300,7 @@ Basque Terrorists Loose in Dartford (Infected Software)                         
 Bat Attack, 3D (Cheetahsoft Ltd)                                                                                     ✓      ✓     ✓
 Batalla Naval (Taller de Aplicaciones Informaticas)                                                                  ✓      ✓     ✓
 Batman (Ocean Software Ltd)                                                                                          ✓      ✓     ✓
-Batman- The Movie (Ocean Software Ltd)                                                                               ✗      ✗     ✗
+Batman- The Movie (Ocean Software Ltd)                                                                               ✓      ✗     ✗
 Battle 1917 (CCS)                                                                                                    ✓      ✓     ✓
 Battle for Midway (PSS)                                                                                              ✗      ✓     ✓
 Battle of Britain (Microgame Simulations)                                                                            ✓      ✓     ✓
@@ -438,7 +438,7 @@ Bosconian '87 (Mastertronic Ltd)                                                
 Boss, The (Peaksoft)                                                                                                 ✓      ✓     ✗
 Boulder Dash (Front Runner)                                                                                          ✓      ✓     ✓
 Boulder Dash Construction Kit (Databyte)                                                                             ✓      ✓     ✓
-Boulder Dash II- Rockford's Riot (Prism Leisure Corporation PLC)                                                     ✗      ✗     ✗
+Boulder Dash II- Rockford's Riot (Prism Leisure Corporation PLC)                                                     ✓      ✗     ✗
 Boulder Dash III (Prism Leisure Corporation PLC)                                                                     ✗      ✓     ✓
 Bounces (Beyond Software)                                                                                            ✓      ✓     ✓
 Bouncing Berty (Powersoftware)                                                                                       ✗      ✓     ✓
@@ -492,7 +492,7 @@ Bubble Buster (Sinclair Research Ltd)                                           
 Bubble Run (Tynesoft)                                                                                                ✓      ✓     ✓
 Bubble Trouble (Arcade Software)                                                                                     ✓      ✓     ✓
 Buccaneer (Firebird Software Ltd)                                                                                    ✓      ✓     ✓
-Buck Rogers- Planet of Zoom (US Gold Ltd)                                                                            ✗      ✗     ✗
+Buck Rogers- Planet of Zoom (US Gold Ltd)                                                                            ✓      ✗     ✗
 Buffalo Bill's Wild West Show (Tynesoft)                                                                             ✓      ✓     ✓
 Buffer Adventure (Buffer Micro Ltd)                                                                                  ✗      ✓     ✓
 Bug Blaster (Crystal Computing)                                                                                      ✓      ✓     ✓
@@ -575,7 +575,7 @@ Caterpilla (Spectrum Games Ltd)                                                 
 Catterpillar (CDS Microsystems)                                                                                      ✓      ✓     ✓
 Catwalk (Powersoftware)                                                                                              ✓      ✓     ✓
 Cauldron (Palace Software)                                                                                           ✓      ✓     ✓
-Cauldron II- The Pumpkin Strikes Back (Palace Software)                                                              ✗      ✗     ✗
+Cauldron II- The Pumpkin Strikes Back (Palace Software)                                                              ✓      ✗     ✗
 Cave-Fighter                                                                                                         ✗      ✓     ✗
 Caveman (CRL Group PLC)                                                                                              ✓      ✓     ✗
 Cavemania (Atlantis Software Ltd)                                                                                    ✓      ✓     ✓
@@ -611,7 +611,7 @@ Championship Golf (D_H Games)                                                   
 Championship Run (Impulze)                                                                                           ✓      ✓     ✓
 Changeling, The (M.J. Gearing)                                                                                       ✗      ✓     ✓
 Chaos (Games Workshop)                                                                                               ✓      ✓     ✓
-Chase H.Q. II- Special Criminal Investigation (Ocean Software Ltd)                                                   ✗      ✗     ✗
+Chase H.Q. II- Special Criminal Investigation (Ocean Software Ltd)                                                   ✓      ✗     ✗
 Chaser (Your Computer)                                                                                               ✗      ✓     ✗
 Chatbox (Cheetah Marketing Ltd)                                                                                      ✗      ✓     ✗
 Chequered Flag (Sinclair Research Ltd)                                                                               ✗      ✓     ✓
@@ -864,9 +864,9 @@ Dam Busters, The (US Gold Ltd)                                                  
 Dama                                                                                                                 ✗      ✓     ✗
 Damn (L.P.G. Nagels)                                                                                                 ✗      ✓     ✓
 Damned Forest, The (Cult Games)                                                                                      ✗      ✓     ✓
-Dan Dare II- Mekon's Revenge (Virgin Games Ltd)                                                                      ✗      ✗     ✗
-Dan Dare III- The Escape (Virgin Games Ltd)                                                                          ✗      ✗     ✗
-Dan Dare- Pilot of the Future (Virgin Games Ltd)                                                                     ✗      ✗     ✗
+Dan Dare II- Mekon's Revenge (Virgin Games Ltd)                                                                      ✓      ✗     ✗
+Dan Dare III- The Escape (Virgin Games Ltd)                                                                          ✓      ✗     ✗
+Dan Dare- Pilot of the Future (Virgin Games Ltd)                                                                     ✓      ✗     ✗
 Dances with Bunny Rabbits (The Adventure Workshop)                                                                   ✗      ✓     ✓
 Danger Mouse in Double Trouble (Creative Sparks)                                                                     ✓      ✓     ✓
 Danger Mouse in Making Whoopee! (Creative Sparks)                                                                    ✓      ✓     ✓
@@ -1025,7 +1025,7 @@ Dominoes (Micromega)                                                            
 Don't Panic - Panic Now (Dented Designs)                                                                             ✗      ✓     ✓
 Don't Panic (Firebird Software Ltd)                                                                                  ✓      ✓     ✓
 Don't Say It, Spray It (Pirate Software Ltd)                                                                         ✗      ✓     ✓
-Donkey Kong (Ocean Software Ltd)                                                                                     ✗      ✓     ✓
+Donkey Kong (Ocean Software Ltd)                                                                                     ✓      ✓     ✓
 Doombase (Sparklers)                                                                                                 ✓      ✓     ✓
 Doomsday (Relion Software)                                                                                           ✗      ✓     ✗
 Doomsday Castle (Fantasy Software [1])                                                                               ✗      ✗     ✗
@@ -1035,7 +1035,7 @@ Dorado, El (Atlantis Software Ltd)                                              
 Dotty (Dollarsoft)                                                                                                   ✓      ✓     ✓
 Double Dare (Alternative Software Ltd)                                                                               ✓      ✓     ✓
 Double Dragon (Melbourne House)                                                                                      ✓      ✓     ✓
-Double Dragon II- The Revenge (Virgin Mastertronic Ltd)                                                              ✗      ✗     ✗
+Double Dragon II- The Revenge (Virgin Mastertronic Ltd)                                                              ✓      ✗     ✗
 Double Take (Ocean Software Ltd)                                                                                     ✓      ✓     ✓
 Double Xinox (ZX-Masters Software)                                                                                   ✗      ✓     ✓
 Double, The (Scanatron)                                                                                              ✓      ✓     ✓
@@ -1048,7 +1048,7 @@ Dr. Franky and the Monster (Virgin Games Ltd)                                   
 Dr. Genius (Loriciels)                                                                                               ✗      ✓     ✓
 Dr. Jet Set Willy (R.D. Foord Software)                                                                              ✗      ✓     ✓
 Dr. Maddo (Americana Software Ltd)                                                                                   ✓      ✓     ✓
-Draconus (Zeppelin Games Ltd)                                                                                        ✗      ✓     ✓
+Draconus (Zeppelin Games Ltd)                                                                                        ✓      ✓     ✓
 Dracula's Castle (CP Software)                                                                                       ✗      ✓     ✗
 Draculas Diamanten                                                                                                   ✗      ✓     ✗
 Dragnet (Taskmaster Software)                                                                                        ✗      ✓     ✓
@@ -1111,7 +1111,7 @@ Dusty Droid and the Garbage Gobblers (Pirate Software Ltd)                      
 Dwarfs Domain (King Software)                                                                                        ✓      ✓     ✓
 Dynamic Duo (Firebird Software Ltd)                                                                                  ✓      ✓     ✓
 Dynamite Dan (Mirrorsoft Ltd)                                                                                        ✓      ✓     ✓
-Dynamite Dan II (Mirrorsoft Ltd)                                                                                     ✗      ✓     ✓
+Dynamite Dan II (Mirrorsoft Ltd)                                                                                     ✓      ✓     ✓
 Dynamix (Virgin Mastertronic Ltd)                                                                                    ✓      ✓     ✓
 Dynatron Mission (Mastertronic Ltd)                                                                                  ✓      ✓     ✓
 Eagle (Dro Soft)                                                                                                     ✓      ✓     ✓
@@ -1228,14 +1228,14 @@ Extraordinarios Casos del Dr. Van Halen Caso 5- Ultimo Acto, Los (Josep Coletas 
 Extraordinarios Casos del Dr. Van Halen Volumen 2 Relato I- Las Calles del Miedo, Los (Josep Coletas Caubet)         ✗      ✗     ✗
 Extraordinarios Casos del Dr. Van Halen Volumen 2 Relato II- Las Ruedas de Ezequiel, Los (Josep Coletas Caubet)      ✗      ✗     ✗
 Extraordinarios Casos del Dr. Van Halen Volumen 2 Relato III- El Hijo del Crepusculo, Los (Josep Coletas Caubet)     ✗      ✗     ✗
-Extreme (Digital Integration)                                                                                        ✗      ✓     ✓
+Extreme (Digital Integration)                                                                                        ✓      ✓     ✓
 Extricator, The (Precision Games)                                                                                    ✗      ✓     ✓
 Eye (Endurance Games)                                                                                                ✓      ✓     ✓
 Eye of the Star Warrior, The (Sunshine Books Ltd)                                                                    ✓      ✓     ✓
 Eye of Vartan (Pocket Money Software)                                                                                ✓      ✓     ✓
 F-1 (Zigurat Software)                                                                                               ✓      ✓     ✓
 F-15 Strike Eagle (MicroProse Software Ltd)                                                                          ✓      ✓     ✓
-F-16 Combat Pilot (Digital Integration)                                                                              ✗      ✓     ✓
+F-16 Combat Pilot (Digital Integration)                                                                              ✓      ✓     ✓
 F.A. Cup Football (Virgin Games Ltd)                                                                                 ✓      ✓     ✓
 F.I.R.E. (Fuxoft)                                                                                                    ✗      ✓     ✓
 F1 Tornado (Zeppelin Games Ltd)                                                                                      ✓      ✓     ✓
@@ -1251,7 +1251,7 @@ Falcon Patrol 2 (Virgin Games Ltd)                                              
 Falcon- The Renegade Lord (Virgin Games Ltd)                                                                         ✗      ✗     ✗
 Falklands 82 (PSS)                                                                                                   ✓      ✓     ✓
 Fall Guy (Elite Systems Ltd)                                                                                         ✓      ✓     ✓
-Fall of Rome, The (ASP Software Ltd)                                                                                 ✗      ✓     ✓
+Fall of Rome, The (ASP Software Ltd)                                                                                 ✓      ✓     ✓
 False Gold (David J. Stew)                                                                                           ✗      ✓     ✓
 Family Quiz (Blandford Press Ltd)                                                                                    ✓      ✓     ✓
 Famous Five 1, The (Enigma Variations Ltd)                                                                           ✓      ✓     ✓
@@ -1316,7 +1316,7 @@ Flat Season (Bastec Software)                                                   
 Flight 191 (The Northern Underground)                                                                                ✗      ✓     ✓
 Flight Master (B.O.S. Software)                                                                                      ✗      ✓     ✓
 Flight Path 737 (Anirog Software)                                                                                    ✓      ✓     ✓
-Flight Simulation (Sinclair Research Ltd)                                                                            ✗      ✓     ✓
+Flight Simulation (Sinclair Research Ltd)                                                                            ✓      ✓     ✓
 Flight Simulator (Artic Computing Ltd)                                                                               ✓      ✓     ✗
 Flintstones, The (Grandslam Entertainments Ltd)                                                                      ✓      ✓     ✓
 Flip Flap (Software Supersavers Ltd)                                                                                 ✓      ✓     ✓
@@ -1334,16 +1334,16 @@ Flying Shark (Firebird Software Ltd)                                            
 Flying Train (Random Records)                                                                                        ✓      ✓     ✓
 Football (Winters Ltd)                                                                                               ✓      ✓     ✗
 Football Champions (Cult Games)                                                                                      ✓      ✓     ✓
-Football Director (D_H Games)                                                                                        ✗      ✓     ✓
-Football Director- 2 Player Super League (D_H Games)                                                                 ✗      ✗     ✗
+Football Director (D_H Games)                                                                                        ✓      ✓     ✓
+Football Director- 2 Player Super League (D_H Games)                                                                 ✓      ✗     ✗
 Football Fever (Tanglewood Software)                                                                                 ✓      ✓     ✗
 Football Frenzy (Alternative Software Ltd)                                                                           ✓      ✓     ✓
 Football Glory (Redwood Designs)                                                                                     ✗      ✓     ✓
-Football Manager (Addictive Games Ltd)                                                                               ✗      ✓     ✗
-Football Manager 2 (Addictive Games Ltd)                                                                             ✗      ✓     ✓
+Football Manager (Addictive Games Ltd)                                                                               ✓      ✓     ✗
+Football Manager 2 (Addictive Games Ltd)                                                                             ✓      ✓     ✓
 Football Manager 2 Expansion Kit (Addictive Games Ltd)                                                               ✗      ✓     ✗
 Football Manager 3 (Addictive Games Ltd)                                                                             ✓      ✓     ✓
-Football Manager- World Cup Edition (Addictive Games Ltd)                                                            ✗      ✗     ✗
+Football Manager- World Cup Edition (Addictive Games Ltd)                                                            ✓      ✗     ✗
 Footballer of the Year (Gremlin Graphics Software Ltd)                                                               ✓      ✓     ✓
 Footballer of the Year 2 (Gremlin Graphics Software Ltd)                                                             ✓      ✓     ✓
 Footballer, The (Cult Games)                                                                                         ✗      ✓     ✓
@@ -1419,7 +1419,7 @@ Galactic Raiders (Titan Programs Ltd)                                           
 Galactic Trooper (Romik Software)                                                                                    ✓      ✓     ✗
 Galakzions (Mikro-Gen Ltd)                                                                                           ✗      ✓     ✗
 Galaxian (Atarisoft)                                                                                                 ✓      ✓     ✓
-Galaxians (Artic Computing Ltd)                                                                                      ✗      ✓     ✓
+Galaxians (Artic Computing Ltd)                                                                                      ✓      ✓     ✓
 Galaxy Adventure (Alpha Software)                                                                                    ✗      ✓     ✓
 Galaxy Attack (Sunshine Books Ltd)                                                                                   ✓      ✓     ✓
 Galaxy Fighter (Computer Emuzone)                                                                                    ✗      ✓     ✓
@@ -1430,7 +1430,7 @@ Gambler + Editor (Diamond Games)                                                
 Games 5 (Sinclair Research Ltd)                                                                                      ✗      ✓     ✗
 Gangplank (Pirate Software Ltd)                                                                                      ✓      ✓     ✓
 Gangsters! (P. Boulton Software)                                                                                     ✓      ✓     ✓
-Garfield - Big, Fat, Hairy Deal (The Edge)                                                                           ✗      ✓     ✓
+Garfield - Big, Fat, Hairy Deal (The Edge)                                                                           ✓      ✓     ✓
 Garfield - Winter's Tail (The Edge)                                                                                  ✓      ✓     ✓
 Gary Lineker's Hot-Shot! (Gremlin Graphics Software Ltd)                                                             ✓      ✓     ✓
 Gary Lineker's Superskills (Gremlin Graphics Software Ltd)                                                           ✓      ✓     ✓

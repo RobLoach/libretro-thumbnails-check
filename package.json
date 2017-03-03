@@ -17,11 +17,11 @@
   "dependencies": {
     "batchreplace": "^1.0.1",
     "download-file-sync": "^1.0.4",
-    "file-exists": "^2.0.0",
+    "file-exists": "^3.0.1",
     "fs-exists-sync": "^0.1.0",
     "glob": "^7.1.1",
     "globby": "^6.1.0",
-    "listr": "^0.9.0",
+    "listr": "^0.11.0",
     "marked": "^0.3.6",
     "minimatch": "^3.0.3",
     "multimatch": "^2.1.0",

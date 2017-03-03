@@ -36,7 +36,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Microsoft - MSX](out/Microsoft - MSX.txt) | 244 / 936 | 911 / 936 | 912 / 936 | 2067 / 2808 | **73.61%** |
 | [Microsoft - MSX2](out/Microsoft - MSX2.txt) | 65 / 195 | 195 / 195 | 195 / 195 | 455 / 585 | **77.78%** |
 | [NEC - PC Engine - TurboGrafx 16](out/NEC - PC Engine - TurboGrafx 16.txt) | 412 / 412 | 412 / 412 | 412 / 412 | 1236 / 1236 | **100.00%** |
-| [NEC - PC Engine CD - TurboGrafx-CD](out/NEC - PC Engine CD - TurboGrafx-CD.txt) | 7 / 328 | 4 / 328 | 4 / 328 | 15 / 984 | **1.52%** |
+| [NEC - PC Engine CD - TurboGrafx-CD](out/NEC - PC Engine CD - TurboGrafx-CD.txt) | 27 / 328 | 4 / 328 | 4 / 328 | 35 / 984 | **3.56%** |
 | [NEC - PC Engine SuperGrafx](out/NEC - PC Engine SuperGrafx.txt) | 5 / 5 | 5 / 5 | 5 / 5 | 15 / 15 | **100.00%** |
 | [NEC - PC-FX](out/NEC - PC-FX.txt) | 5 / 12 | 5 / 12 | 5 / 12 | 15 / 36 | **41.67%** |
 | [Nintendo - Family Computer Disk System](out/Nintendo - Family Computer Disk System.txt) | 24 / 298 | 104 / 298 | 104 / 298 | 232 / 894 | **25.95%** |
@@ -73,10 +73,10 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Sega - Mega-CD - Sega CD](out/Sega - Mega-CD - Sega CD.txt) | 135 / 281 | 73 / 281 | 73 / 281 | 281 / 843 | **33.33%** |
 | [Sega - PICO](out/Sega - PICO.txt) | 0 / 340 | 12 / 340 | 12 / 340 | 24 / 1020 | **2.35%** |
 | [Sega - Saturn](out/Sega - Saturn.txt) | 262 / 1598 | 230 / 1598 | 229 / 1598 | 721 / 4794 | **15.04%** |
-| [Sega - SG-1000](out/Sega - SG-1000.txt) | 84 / 202 | 187 / 202 | 187 / 202 | 458 / 606 | **75.58%** |
+| [Sega - SG-1000](out/Sega - SG-1000.txt) | 85 / 202 | 187 / 202 | 187 / 202 | 459 / 606 | **75.74%** |
 | [Sinclair - ZX 81](out/Sinclair - ZX 81.txt) | 400 / 420 | 419 / 420 | 14 / 420 | 833 / 1260 | **66.11%** |
 | [Sinclair - ZX Spectrum +3](out/Sinclair - ZX Spectrum +3.txt) | 0 / 130 | 0 / 130 | 0 / 130 | 0 / 390 | **0.00%** |
-| [Sinclair - ZX Spectrum](out/Sinclair - ZX Spectrum.txt) | 1425 / 2499 | 2358 / 2499 | 1995 / 2499 | 5778 / 7497 | **77.07%** |
+| [Sinclair - ZX Spectrum](out/Sinclair - ZX Spectrum.txt) | 1451 / 2499 | 2358 / 2499 | 1995 / 2499 | 5804 / 7497 | **77.42%** |
 | [SNK - Neo Geo Pocket Color](out/SNK - Neo Geo Pocket Color.txt) | 119 / 119 | 119 / 119 | 119 / 119 | 357 / 357 | **100.00%** |
 | [SNK - Neo Geo Pocket](out/SNK - Neo Geo Pocket.txt) | 10 / 10 | 10 / 10 | 10 / 10 | 30 / 30 | **100.00%** |
 | [Sony - PlayStation 3 (DLC)](out/Sony - PlayStation 3 (DLC).txt) | 0 / 43 | 0 / 43 | 0 / 43 | 0 / 129 | **0.00%** |
@@ -88,13 +88,13 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Sony - PlayStation Portable (UMD Video)](out/Sony - PlayStation Portable (UMD Video).txt) | 0 / 582 | 0 / 582 | 0 / 582 | 0 / 1746 | **0.00%** |
 | [Sony - PlayStation Portable](out/Sony - PlayStation Portable.txt) | 165 / 4443 | 62 / 4443 | 62 / 4443 | 289 / 13329 | **2.17%** |
 | [Sony - PlayStation](out/Sony - PlayStation.txt) | 594 / 8869 | 199 / 8869 | 211 / 8869 | 1004 / 26607 | **3.77%** |
-| [The 3DO Company - 3DO](out/The 3DO Company - 3DO.txt) | 65 / 222 | 1 / 222 | 1 / 222 | 67 / 666 | **10.06%** |
+| [The 3DO Company - 3DO](out/The 3DO Company - 3DO.txt) | 69 / 222 | 1 / 222 | 1 / 222 | 71 / 666 | **10.66%** |
 | [Tiger - Game.com](out/Tiger - Game.com.txt) | 0 / 22 | 22 / 22 | 22 / 22 | 44 / 66 | **66.67%** |
 | [Uzebox](out/Uzebox.txt) | 0 / 65 | 0 / 65 | 0 / 65 | 0 / 195 | **0.00%** |
 | [VTech - CreatiVision](out/VTech - CreatiVision.txt) | 20 / 20 | 20 / 20 | 20 / 20 | 60 / 60 | **100.00%** |
 | [VTech - V.Smile](out/VTech - V.Smile.txt) | 1 / 94 | 1 / 94 | 1 / 94 | 3 / 282 | **1.06%** |
 | [Watara - Supervision](out/Watara - Supervision.txt) | 63 / 63 | 63 / 63 | 63 / 63 | 189 / 189 | **100.00%** |
-| **Total** | **21001 / 82792** | **25816 / 82792** | **25033 / 82792** | **71850 / 248376** | **28.93%** |
+| **Total** | **21052 / 82792** | **25816 / 82792** | **25033 / 82792** | **71901 / 248376** | **28.95%** |
 
 ## Build
 
