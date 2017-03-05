@@ -39,7 +39,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [NEC - PC Engine CD - TurboGrafx-CD](out/NEC - PC Engine CD - TurboGrafx-CD.txt) | 27 / 328 | 4 / 328 | 4 / 328 | 35 / 984 | **3.56%** |
 | [NEC - PC Engine SuperGrafx](out/NEC - PC Engine SuperGrafx.txt) | 5 / 5 | 5 / 5 | 5 / 5 | 15 / 15 | **100.00%** |
 | [NEC - PC-FX](out/NEC - PC-FX.txt) | 5 / 12 | 5 / 12 | 5 / 12 | 15 / 36 | **41.67%** |
-| [Nintendo - Family Computer Disk System](out/Nintendo - Family Computer Disk System.txt) | 24 / 298 | 104 / 298 | 104 / 298 | 232 / 894 | **25.95%** |
+| [Nintendo - Family Computer Disk System](out/Nintendo - Family Computer Disk System.txt) | 37 / 298 | 143 / 298 | 144 / 298 | 324 / 894 | **36.24%** |
 | [Nintendo - Game Boy Advance (e-Cards)](out/Nintendo - Game Boy Advance (e-Cards).txt) | 0 / 3083 | 0 / 3083 | 0 / 3083 | 0 / 9249 | **0.00%** |
 | [Nintendo - Game Boy Advance](out/Nintendo - Game Boy Advance.txt) | 1807 / 2960 | 2857 / 2960 | 2857 / 2960 | 7521 / 8880 | **84.70%** |
 | [Nintendo - Game Boy Color](out/Nintendo - Game Boy Color.txt) | 880 / 1423 | 1327 / 1423 | 1327 / 1423 | 3534 / 4269 | **82.78%** |
@@ -94,7 +94,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [VTech - CreatiVision](out/VTech - CreatiVision.txt) | 20 / 20 | 20 / 20 | 20 / 20 | 60 / 60 | **100.00%** |
 | [VTech - V.Smile](out/VTech - V.Smile.txt) | 1 / 94 | 1 / 94 | 1 / 94 | 3 / 282 | **1.06%** |
 | [Watara - Supervision](out/Watara - Supervision.txt) | 63 / 63 | 63 / 63 | 63 / 63 | 189 / 189 | **100.00%** |
-| **Total** | **21052 / 82792** | **25816 / 82792** | **25033 / 82792** | **71901 / 248376** | **28.95%** |
+| **Total** | **21065 / 82792** | **25855 / 82792** | **25073 / 82792** | **71993 / 248376** | **28.99%** |
 
 ## Build
 
