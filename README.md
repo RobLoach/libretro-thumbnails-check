@@ -53,7 +53,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Nintendo - Nintendo DS Decrypted](out/Nintendo - Nintendo DS Decrypted.txt) | 140 / 6995 | 9 / 6995 | 9 / 6995 | 158 / 20985 | **0.75%** |
 | [Nintendo - Nintendo DSi (DLC)](out/Nintendo - Nintendo DSi (DLC).txt) | 0 / 737 | 0 / 737 | 0 / 737 | 0 / 2211 | **0.00%** |
 | [Nintendo - Nintendo DSi](out/Nintendo - Nintendo DSi.txt) | 6 / 11 | 1 / 11 | 1 / 11 | 8 / 33 | **24.24%** |
-| [Nintendo - Nintendo Entertainment System](out/Nintendo - Nintendo Entertainment System.txt) | 1920 / 2749 | 2561 / 2749 | 2561 / 2749 | 7042 / 8247 | **85.39%** |
+| [Nintendo - Nintendo Entertainment System](out/Nintendo - Nintendo Entertainment System.txt) | 1932 / 2749 | 2624 / 2749 | 2622 / 2749 | 7178 / 8247 | **87.04%** |
 | [Nintendo - Nintendo Wii (DLC)](out/Nintendo - Nintendo Wii (DLC).txt) | 0 / 2864 | 0 / 2864 | 0 / 2864 | 0 / 8592 | **0.00%** |
 | [Nintendo - Pokemon Mini](out/Nintendo - Pokemon Mini.txt) | 43 / 43 | 43 / 43 | 43 / 43 | 129 / 129 | **100.00%** |
 | [Nintendo - Satellaview](out/Nintendo - Satellaview.txt) | 0 / 206 | 169 / 206 | 169 / 206 | 338 / 618 | **54.69%** |
@@ -94,7 +94,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [VTech - CreatiVision](out/VTech - CreatiVision.txt) | 20 / 20 | 20 / 20 | 20 / 20 | 60 / 60 | **100.00%** |
 | [VTech - V.Smile](out/VTech - V.Smile.txt) | 1 / 94 | 1 / 94 | 1 / 94 | 3 / 282 | **1.06%** |
 | [Watara - Supervision](out/Watara - Supervision.txt) | 63 / 63 | 63 / 63 | 63 / 63 | 189 / 189 | **100.00%** |
-| **Total** | **21065 / 82792** | **25855 / 82792** | **25073 / 82792** | **71993 / 248376** | **28.99%** |
+| **Total** | **21077 / 82792** | **25918 / 82792** | **25134 / 82792** | **72129 / 248376** | **29.04%** |
 
 ## Build
 
