@@ -1,9 +1,9 @@
 Sega - Game Gear
 
-Boxarts    374/497  75.25%
-Snaps      485/497  97.59%
-Titles     485/497  97.59%
-Total    1344/1491  90.14%
+Boxarts    376/497  75.65%
+Snaps      493/497  99.20%
+Titles     493/497  99.20%
+Total    1362/1491  91.35%
 
 Name                                                                                Boxart  Snap  Title
 5 in 1 Funpak (USA)                                                                    ✓      ✓     ✓
@@ -120,7 +120,7 @@ Dynamite Headdy (Japan)                                                         
 Dynamite Headdy (USA, Europe)                                                          ✓      ✓     ✓
 Earthworm Jim (Europe)                                                                 ✓      ✓     ✓
 Earthworm Jim (USA)                                                                    ✓      ✓     ✓
-Ecco - The Tides of Time (USA, Europe)                                                 ✓      ✗     ✗
+Ecco - The Tides of Time (USA, Europe)                                                 ✓      ✓     ✓
 Ecco the Dolphin (Japan)                                                               ✗      ✓     ✓
 Ecco the Dolphin (USA, Europe)                                                         ✗      ✓     ✓
 Ecco the Dolphin II (Japan)                                                            ✓      ✓     ✓
@@ -227,7 +227,7 @@ Last Action Hero (USA)                                                          
 Legend of Illusion Starring Mickey Mouse (USA, Europe)                                 ✓      ✓     ✓
 Lemmings (World)                                                                       ✓      ✓     ✓
 Lemmings (World) (Beta)                                                                ✓      ✓     ✓
-Lemmings 2 - The Tribes (Unknown) (Proto)                                              ✗      ✗     ✗
+Lemmings 2 - The Tribes (Unknown) (Proto)                                              ✗      ✓     ✓
 Lion King, The (Europe)                                                                ✓      ✓     ✓
 Lion King, The (Japan)                                                                 ✓      ✓     ✓
 Lion King, The (USA)                                                                   ✓      ✓     ✓
@@ -307,7 +307,7 @@ Pac-Man (USA)                                                                   
 Panzer Dragoon Mini (Japan)                                                            ✗      ✓     ✓
 Paperboy (USA, Europe)                                                                 ✗      ✓     ✓
 Paperboy 2 (USA, Europe)                                                               ✓      ✓     ✓
-Paperboy 2 (USA, Europe) (Beta)                                                        ✗      ✗     ✗
+Paperboy 2 (USA, Europe) (Beta)                                                        ✓      ✓     ✓
 Pengo (Japan)                                                                          ✓      ✓     ✓
 Pengo (USA, Europe)                                                                    ✓      ✓     ✓
 Pet Club Inu Daisuki! (Japan)                                                          ✗      ✓     ✓
@@ -363,7 +363,7 @@ S.S. Lucifer - Man Overboard! (Europe)                                          
 Samurai Shodown (USA)                                                                  ✓      ✓     ✓
 Samurai Spirits (Japan)                                                                ✓      ✓     ✓
 Scratch Golf (Japan)                                                                   ✓      ✓     ✓
-Scratch Golf (USA)                                                                     ✓      ✗     ✗
+Scratch Golf (USA)                                                                     ✓      ✓     ✓
 SD Gundam - Winner's History (Japan)                                                   ✗      ✓     ✓
 Sega Game Pack 4 in 1 (Europe)                                                         ✓      ✓     ✓
 Sega Game Pack 4 in 1 (Europe) (Beta)                                                  ✓      ✓     ✓
@@ -402,7 +402,7 @@ Sonic The Hedgehog (Japan)                                                      
 Sonic The Hedgehog (World) (Proto)                                                     ✓      ✓     ✓
 Sonic The Hedgehog (World) (Rev 1)                                                     ✓      ✓     ✓
 Sonic The Hedgehog 2 (World)                                                           ✓      ✓     ✓
-Sonic The Hedgehog 2 (World) (Auto Demo)                                               ✓      ✗     ✗
+Sonic The Hedgehog 2 (World) (Auto Demo)                                               ✓      ✓     ✓
 Soukoban (Japan)                                                                       ✗      ✓     ✓
 Space Harrier (World)                                                                  ✓      ✓     ✓
 Spider-Man - Return of the Sinister Six (USA, Europe)                                  ✓      ✓     ✓
@@ -424,7 +424,7 @@ Super Battletank (USA)                                                          
 Super Columns (Japan)                                                                  ✓      ✓     ✓
 Super Columns (USA, Europe)                                                            ✓      ✓     ✓
 Super Golf (Japan)                                                                     ✓      ✓     ✓
-Super Golf (USA)                                                                       ✓      ✗     ✗
+Super Golf (USA)                                                                       ✓      ✓     ✓
 Super Kick Off (Japan)                                                                 ✓      ✓     ✓
 Super Momotarou Dentetsu III (Japan)                                                   ✗      ✓     ✓
 Super Monaco GP (Japan)                                                                ✓      ✓     ✓
@@ -471,7 +471,7 @@ Virtua Fighter Mini (Japan)                                                     
 VR Troopers (USA, Europe)                                                              ✓      ✓     ✓
 Wagyan Land (Japan)                                                                    ✗      ✓     ✓
 Wheel of Fortune (USA)                                                                 ✓      ✓     ✓
-Wild Snake (USA) (Proto)                                                               ✗      ✗     ✗
+Wild Snake (USA) (Proto)                                                               ✗      ✓     ✓
 Wimbledon (World)                                                                      ✓      ✓     ✓
 Winter Olympics - Lillehammer '94 (Japan) (En,Fr,De,Es,It,Pt,Sv,No)                    ✗      ✓     ✓
 Winter Olympics - Lillehammer '94 (USA, Europe) (En,Fr,De,Es,It,Pt,Sv,No)              ✓      ✓     ✓
@@ -498,7 +498,7 @@ Yogi Bear in Yogi Bear's Goldrush (Unknown) (Proto)                             
 Yu Yu Hakusho - Horobishimono no Gyakushuu (Japan)                                     ✓      ✓     ✓
 Yu Yu Hakusho 2 - Gekitou! Nanakyou no Tatakai (Japan)                                 ✓      ✓     ✓
 Zan Gear (Japan)                                                                       ✓      ✓     ✓
-Zool - Ninja of the 'Nth' Dimension (Europe)                                           ✗      ✗     ✗
+Zool - Ninja of the 'Nth' Dimension (Europe)                                           ✓      ✓     ✓
 Zool - Ninja of the 'Nth' Dimension (USA)                                              ✓      ✓     ✓
 Zool no Yume Bouken (Japan)                                                            ✗      ✓     ✓
 Zoop (USA)                                                                             ✓      ✓     ✓
