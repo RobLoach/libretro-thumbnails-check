@@ -4,7 +4,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 
 | System | Boxarts | Snaps | Tites | Total | Percent |
 | :--- | :---: | :---: | :---: | :---: | ---: |
-| [Atari - 2600](out/.txt) | 571 / 582 | 578 / 582 | 578 / 582 | 1727 / 1746 | **98.91%** |
+| [Atari - 2600](out/.txt) | 574 / 582 | 579 / 582 | 578 / 582 | 1731 / 1746 | **99.14%** |
 | [Atari - 5200](out/.txt) | 106 / 106 | 106 / 106 | 106 / 106 | 318 / 318 | **100.00%** |
 | [Atari - 7800](out/.txt) | 114 / 114 | 114 / 114 | 114 / 114 | 342 / 342 | **100.00%** |
 | [Atari - Jaguar](out/.txt) | 59 / 59 | 59 / 59 | 59 / 59 | 177 / 177 | **100.00%** |
@@ -94,7 +94,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [VTech - CreatiVision](out/.txt) | 20 / 20 | 20 / 20 | 20 / 20 | 60 / 60 | **100.00%** |
 | [VTech - V.Smile](out/.txt) | 1 / 94 | 1 / 94 | 1 / 94 | 3 / 282 | **1.06%** |
 | [Watara - Supervision](out/.txt) | 63 / 63 | 63 / 63 | 63 / 63 | 189 / 189 | **100.00%** |
-| **Total** | **21079 / 82792** | **25926 / 82792** | **25142 / 82792** | **72147 / 248376** | **29.05%** |
+| **Total** | **21082 / 82792** | **25927 / 82792** | **25142 / 82792** | **72151 / 248376** | **29.05%** |
 
 ## Build
 

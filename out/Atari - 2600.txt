@@ -1,9 +1,9 @@
 Atari - 2600
 
-Boxarts    571/582  98.11%
-Snaps      578/582  99.31%
+Boxarts    574/582  98.63%
+Snaps      579/582  99.48%
 Titles     578/582  99.31%
-Total    1727/1746  98.91%
+Total    1731/1746  99.14%
 
 Name                                                                                   Boxart  Snap  Title
 3-D Tic-Tac-Toe (USA)                                                                     ✓      ✓     ✓
@@ -318,7 +318,7 @@ Nightmare (Europe)                                                              
 No Escape! (USA)                                                                          ✓      ✓     ✓
 Nuts (Europe)                                                                             ✓      ✓     ✓
 Nuts (USA)                                                                                ✓      ✓     ✓
-O Monstro Marinho (Europe)                                                                ✗      ✓     ✓
+O Monstro Marinho (Europe)                                                                ✓      ✓     ✓
 Obelix (USA)                                                                              ✓      ✓     ✓
 Off the Wall (USA)                                                                        ✓      ✓     ✓
 Off Your Rocker (USA) (Proto)                                                             ✓      ✓     ✓
@@ -339,7 +339,7 @@ Pengo (USA)                                                                     
 Pete Rose Baseball (USA)                                                                  ✓      ✓     ✓
 Peter Penguin (Europe)                                                                    ✓      ✓     ✓
 Phantom Tank (Europe)                                                                     ✓      ✓     ✓
-Phantom UFO (USA)                                                                         ✗      ✓     ✓
+Phantom UFO (USA)                                                                         ✓      ✓     ✓
 Pharaoh's Curse (Europe)                                                                  ✓      ✓     ✓
 Pharaoh's Curse (USA)                                                                     ✓      ✓     ✓
 Phaser Patrol (USA)                                                                       ✓      ✓     ✓
@@ -542,7 +542,7 @@ Treasure Below (Europe)                                                         
 Treasure Island ~ Duck Shoot (Europe)                                                     ✓      ✓     ✓
 Trick Shot (USA)                                                                          ✓      ✓     ✓
 TRON - Deadly Discs (USA)                                                                 ✓      ✓     ✓
-Tunnel de L'Estace, Le (Europe)                                                           ✗      ✗     ✗
+Tunnel de L'Estace, Le (Europe)                                                           ✓      ✓     ✗
 Tunnel Runner (USA)                                                                       ✓      ✓     ✓
 Turmoil (USA)                                                                             ✓      ✓     ✓
 Tutankham (USA)                                                                           ✓      ✓     ✓
