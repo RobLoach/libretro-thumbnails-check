@@ -1,6 +1,6 @@
 {
   "name": "libretro-thumbnails-check",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Checks consistancy of libretro-thumbnails",
   "main": "index.js",
   "scripts": {
@@ -28,7 +28,6 @@
     "multispinner": "^0.2.1",
     "recursive-readdir-sync": "^1.0.6",
     "sanitize-filename": "^1.6.1",
-    "sleep": "^5.0.0",
     "sort-object": "^3.0.2",
     "text-table": "^0.2.0"
   },
