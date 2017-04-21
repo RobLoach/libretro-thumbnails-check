@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+'use strict'
 
 var fs = require('fs')
 var path = require('path')
@@ -15,7 +16,8 @@ glob('libretro-database/rdb/*.rdb', function (err, files) {
 	var tasks = new Listr([], {
 		concurrent: false
 	})
-	files.forEach(function (file) {
+	files.forEach((file) => {
+		'use strict'
 		// Add the system task.
 		let system = path.parse(file).name
 		tasks.add({
