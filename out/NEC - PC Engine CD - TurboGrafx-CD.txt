@@ -1,9 +1,9 @@
 NEC - PC Engine CD - TurboGrafx-CD
 
-Boxarts  27/328  8.23%
+Boxarts  32/328  9.76%
 Snaps     4/328  1.22%
 Titles    4/328  1.22%
-Total    35/984  3.56%
+Total    40/984  4.07%
 
 Name                                                                              Boxart  Snap  Title
 1552 Tenka Tairan (Japan) (Rev 4)                                                    ✗      ✗     ✗
@@ -66,8 +66,8 @@ Doukyuusei (Japan) (Alt 1)                                                      
 Doukyuusei (Japan) (Alt 2)                                                           ✗      ✗     ✗
 Dragon Ball Z - Idainaru Son Gokuu Densetsu (Japan) (FABT)                           ✗      ✗     ✗
 Dragon Half (Japan)                                                                  ✗      ✗     ✗
-Dragon Knight II (Japan)                                                             ✗      ✗     ✗
-Dragon Knight III (Japan)                                                            ✗      ✗     ✗
+Dragon Knight II (Japan)                                                             ✓      ✗     ✗
+Dragon Knight III (Japan)                                                            ✓      ✗     ✗
 Dragon Slayer - The Legend of Heroes (Japan)                                         ✗      ✗     ✗
 Dragon Slayer - The Legend of Heroes (USA) (Rev 1)                                   ✗      ✗     ✗
 Dragon Slayer - The Legend of Heroes II (Japan)                                      ✗      ✗     ✗
@@ -82,7 +82,7 @@ Emerald Dragon (Japan) (HE50225)                                                
 Emerald Dragon (Japan) (HE51129)                                                     ✗      ✗     ✗
 Emerald Dragon (Japan) (Sample)                                                      ✗      ✗     ✗
 Exile - Toki no Hasama e (Japan)                                                     ✗      ✗     ✗
-Exile II - Janen no Jishou (Japan)                                                   ✗      ✗     ✗
+Exile II - Janen no Jishou (Japan)                                                   ✓      ✗     ✗
 F1 Circus Special - Pole to Win (Japan) (FAAT, FACT)                                 ✗      ✗     ✗
 F1 Circus Special - Pole to Win (Japan) (FABT)                                       ✗      ✗     ✗
 F1 Team Simulation - Project F (Japan)                                               ✗      ✗     ✗
@@ -100,7 +100,7 @@ Far East of Eden - Tengai Makyou II - Manji Maru (Japan) (Rev 1)                
 Fiend Hunter (Japan) (Rev 2)                                                         ✗      ✗     ✗
 Fighting Street (Japan) (Rev 5)                                                      ✗      ✗     ✗
 Final Zone II (Japan) (Rev 3)                                                        ✗      ✗     ✗
-Forgotten Worlds (Japan)                                                             ✗      ✗     ✗
+Forgotten Worlds (Japan)                                                             ✓      ✗     ✗
 Fushigi no Umi no Nadia - The Secret of Blue Water (Japan) (Rev 1)                   ✗      ✗     ✗
 Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT)                      ✗      ✗     ✗
 Garou Densetsu Special (Japan) (FABT)                                                ✗      ✗     ✗
@@ -126,7 +126,6 @@ Hatsukoi Monogatari (Japan) (HRTI20307)                                         
 Hatsukoi Monogatari (Japan) (HRTI20727)                                              ✗      ✗     ✗
 High Grenadier (Japan) (Rev 2)                                                       ✗      ✗     ✗
 Himitsu no Hanazono (Japan)                                                          ✗      ✗     ✗
-Hokutosei no Onna - Nishimura Kyoutarou (Japan)                                      ✗      ✗     ✗
 Horror Story (Japan)                                                                 ✗      ✗     ✗
 Hu PGA Tour - PowerGolf 2 - Golfer (Japan)                                           ✗      ✗     ✗
 Human Sports Festival (Japan) (Rev 3)                                                ✗      ✗     ✗
@@ -134,7 +133,7 @@ Hyaku Monogatari - Honto ni Atta Kowai Hanashi (Japan)                          
 Hyper Wars (Japan) (SAAS)                                                            ✗      ✗     ✗
 Hyper Wars (Japan) (SABS)                                                            ✗      ✗     ✗
 Iga Ninden Gaiou (Japan)                                                             ✓      ✗     ✗
-ImageFight II - Operation Deepstriker (Japan)                                        ✗      ✗     ✗
+ImageFight II - Operation Deepstriker (Japan)                                        ✓      ✗     ✗
 In Magical Adventure - Fray CD - Xak Gaiden (Japan)                                  ✗      ✗     ✗
 Inoue Mami - Kono Hoshi ni Tatta Hitori no Kimi (Japan)                              ✗      ✗     ✗
 IQ Panic (Japan) (Rev 3)                                                             ✗      ✗     ✗
@@ -154,7 +153,7 @@ Kiaidan 00 (Japan)                                                              
 Kick Boxing, The (Japan) (Rev 9)                                                     ✗      ✗     ✗
 Kisou Louga (Japan) (FABT)                                                           ✗      ✗     ✗
 Kisou Louga II - The Ends of Shangrila (Japan)                                       ✗      ✗     ✗
-KO Seiki Beast Sanjuushi - Gaia Fukkatsu Kanketsu-hen (Japan)                        ✗      ✗     ✗
+KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan)                      ✗      ✗     ✗
 Kuusou Kagaku Sekai Gulliver Boy (Japan) (Rev 3)                                     ✗      ✗     ✗
 L-Dis (Japan) (Rev 6)                                                                ✗      ✗     ✗
 Lady Phantom (Japan) (FABT)                                                          ✗      ✗     ✗
@@ -195,6 +194,7 @@ Nekketsu Koukou Dodgeball-bu CD - Soccer-hen (Japan)                            
 Nemurenu Yoru no Chiisana Ohanashi (Japan)                                           ✗      ✗     ✗
 Neo Nectaris (Japan) (Rev 3)                                                         ✗      ✗     ✗
 NEXZR (Japan) (Rev 2)                                                                ✗      ✗     ✗
+Nishimura Kyoutarou Mystery - Hokutosei no Onna (Japan)                              ✗      ✗     ✗
 No-Ri-Ko (Japan)                                                                     ✗      ✗     ✗
 Nobunaga no Yabou - Bushou Fuuunroku (Japan)                                         ✗      ✗     ✗
 Nobunaga no Yabou - Zenkokuban (Japan)                                               ✗      ✗     ✗
@@ -216,7 +216,7 @@ Pro Yakyuu Super, The (Japan) (FABT)                                            
 Pro Yakyuu, The (Japan)                                                              ✗      ✗     ✗
 Psychic Detective Series Vol. 3 - Aya (Japan) (Rev 1)                                ✗      ✗     ✗
 Psychic Detective Series Vol. 4 - Orgel (Japan)                                      ✗      ✗     ✗
-Psychic Storm (Japan)                                                                ✗      ✗     ✗
+Psychic Storm (Japan)                                                                ✓      ✗     ✗
 Puyo Puyo CD (Japan)                                                                 ✗      ✗     ✗
 Puyo Puyo CD Tsuu (Japan)                                                            ✗      ✗     ✗
 Quest of Jongmaster - Janshin Densetsu (Japan)                                       ✗      ✗     ✗
@@ -285,7 +285,7 @@ Super Darius (Japan)                                                            
 Super Darius (Japan) (Alt)                                                           ✗      ✗     ✗
 Super Mahjong Taikai (Japan) (Rev 1)                                                 ✗      ✗     ✗
 Super Real Mahjong P.V Custom (Japan)                                                ✗      ✗     ✗
-Super Real Mahjong PII-III Custom (Japan)                                            ✗      ✗     ✗
+Super Real Mahjong PII, III Custom (Japan)                                           ✗      ✗     ✗
 Super Real Mahjong PIV Custom (Japan) (Rev 1)                                        ✗      ✗     ✗
 Super Real Mahjong Special - Miki Kasumi Shouko no Omoide yori (Japan) (Rev 1)       ✗      ✗     ✗
 Super Schwarzschild (Japan)                                                          ✗      ✗     ✗
@@ -317,8 +317,8 @@ Vasteel (Japan) (Rev 10)                                                        
 Vasteel 2 (Japan) (Rev 1)                                                            ✗      ✗     ✗
 Where in the World Is Carmen Sandiego (Japan) (En,Ja) (Rev 3)                        ✗      ✗     ✗
 Winds of Thunder (Japan)                                                             ✗      ✗     ✗
-Wizardry I-II (Japan)                                                                ✓      ✗     ✗
-Wizardry III-IV (Japan)                                                              ✗      ✗     ✗
+Wizardry I, II (Japan)                                                               ✗      ✗     ✗
+Wizardry III, IV (Japan)                                                             ✗      ✗     ✗
 Wizardry V - Heart of the Maelstrom (Japan)                                          ✓      ✗     ✗
 World Heroes 2 (Japan) (FAAT, FABT)                                                  ✗      ✗     ✗
 Xak (Japan)                                                                          ✓      ✗     ✗

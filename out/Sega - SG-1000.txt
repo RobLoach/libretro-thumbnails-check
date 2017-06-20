@@ -1,9 +1,9 @@
 Sega - SG-1000
 
-Boxarts   85/202  42.08%
-Snaps    187/202  92.57%
-Titles   187/202  92.57%
-Total    459/606  75.74%
+Boxarts   85/207  41.06%
+Snaps    185/207  89.37%
+Titles   185/207  89.37%
+Total    455/621  73.27%
 
 Name                                                                    Boxart  Snap  Title
 007 James Bond (Japan) (v2.6) (Othello Multivision)                        ✓      ✓     ✓
@@ -91,7 +91,8 @@ Gulkave (Japan)                                                            ✓  
 Guzzler (Japan) (Othello Multivision)                                      ✓      ✓     ✓
 Guzzler (Taiwan) (Othello Multivision)                                     ✓      ✓     ✓
 H.E.R.O. (Japan)                                                           ✓      ✓     ✓
-H.E.R.O. (Taiwan)                                                          ✗      ✓     ✓
+H.E.R.O. (Taiwan) (Chinese Logo)                                           ✗      ✗     ✗
+H.E.R.O. (Taiwan) (English Logo)                                           ✗      ✗     ✗
 Hang-On II (Japan)                                                         ✓      ✓     ✓
 Hang-On II (Taiwan) (Chinese Logo)                                         ✗      ✓     ✓
 Hang-On II (Taiwan) (English Logo)                                         ✗      ✓     ✓
@@ -100,6 +101,7 @@ Home Mahjong (Japan)                                                       ✓  
 Home Mahjong (Japan) (Rev 1)                                               ✗      ✓     ✓
 Home Mahjong (Taiwan)                                                      ✗      ✓     ✓
 Hustle Chumy (Japan)                                                       ✓      ✓     ✓
+Hustle Chumy (Taiwan)                                                      ✗      ✗     ✗
 Hyper Sports (Japan)                                                       ✓      ✓     ✓
 Hyper Sports (Taiwan)                                                      ✗      ✓     ✓
 Kagaku (Gensokigou Master) (Japan) (SC-3000)                               ✗      ✓     ✓
@@ -136,6 +138,7 @@ Pacar (Taiwan)                                                             ✗  
 Pachinko (Japan)                                                           ✓      ✓     ✓
 Pachinko II (Japan)                                                        ✓      ✓     ✓
 Pachinko II (Taiwan)                                                       ✗      ✓     ✓
+Pippols (Taiwan)                                                           ✗      ✗     ✗
 Pitfall II - The Lost Caverns (Japan)                                      ✓      ✓     ✓
 Pitfall II - The Lost Caverns (Japan) (Rev 1)                              ✗      ✓     ✓
 Pitfall II (Taiwan) (Chinese Logo)                                         ✗      ✓     ✓
@@ -148,7 +151,8 @@ Rally-X (Taiwan) (DahJee)                                                  ✗  
 Road Fighter (Taiwan)                                                      ✗      ✗     ✗
 Road Fighter (Taiwan) (Jumbo)                                              ✗      ✗     ✗
 Rock n' Bolt (Japan)                                                       ✓      ✓     ✓
-Rock n' Bolt (Taiwan)                                                      ✗      ✓     ✓
+Rock n' Bolt (Taiwan) (Chinese Logo)                                       ✗      ✗     ✗
+Rock n' Bolt (Taiwan) (English Logo)                                       ✗      ✗     ✗
 Safari Hunting (Japan)                                                     ✓      ✓     ✓
 Safari Hunting (Taiwan)                                                    ✗      ✓     ✓
 Safari Race (Europe)                                                       ✗      ✓     ✓
@@ -182,6 +186,7 @@ Star Jacker (Japan, Europe) (Rev 1)                                        ✓  
 Star Jacker (Japan, Europe) (Rev 2)                                        ✓      ✓     ✓
 Star Jacker (Japan)                                                        ✓      ✓     ✓
 Star Jacker (Taiwan)                                                       ✓      ✓     ✓
+Star Soldier (Taiwan)                                                      ✗      ✗     ✗
 Super Tank (Japan)                                                         ✓      ✓     ✓
 Super Tank (Taiwan)                                                        ✗      ✓     ✓
 Tank Battalion (Taiwan)                                                    ✗      ✗     ✗

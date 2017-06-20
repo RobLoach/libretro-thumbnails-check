@@ -1,9 +1,9 @@
 Sega - Master System - Mark III
 
-Boxarts    535/539  99.26%
-Snaps      502/539  93.14%
-Titles     502/539  93.14%
-Total    1539/1617  95.18%
+Boxarts    535/544  98.35%
+Snaps      502/544  92.28%
+Titles     502/544  92.28%
+Total    1539/1632  94.30%
 
 Name                                                                                Boxart  Snap  Title
 20 em 1 (Brazil)                                                                       ✓      ✓     ✓
@@ -12,6 +12,7 @@ Name                                                                            
 Ace of Aces (Europe)                                                                   ✓      ✓     ✓
 Action Fighter (Europe) (Beta)                                                         ✓      ✓     ✓
 Action Fighter (Japan, Europe) (Rev 1)                                                 ✓      ✓     ✓
+Action Fighter (Taiwan)                                                                ✗      ✗     ✗
 Action Fighter (USA, Europe) (Rev 2)                                                   ✓      ✓     ✓
 Addams Family, The (Europe)                                                            ✓      ✓     ✓
 Aerial Assault (Europe)                                                                ✓      ✓     ✓
@@ -231,6 +232,7 @@ High School! Kimengumi (Japan)                                                  
 Hokuto no Ken (Japan)                                                                  ✓      ✓     ✓
 Hokuto no Ken (Taiwan)                                                                 ✓      ✗     ✗
 Home Alone (Europe)                                                                    ✓      ✓     ✓
+Hong Kil Dong (Korea)                                                                  ✗      ✗     ✗
 Hook (Europe) (Proto)                                                                  ✓      ✓     ✓
 Hoshi wo Sagasite... (Japan)                                                           ✓      ✓     ✓
 Hwarang Ui Geom (Korea)                                                                ✓      ✓     ✓
@@ -246,6 +248,7 @@ James Bond 007 - The Duel (Brazil)                                              
 James Bond 007 - The Duel (Europe)                                                     ✓      ✓     ✓
 James Pond 2 - Codename RoboCod (Europe)                                               ✓      ✓     ✓
 Jang Pung 3 (Korea) (Unl)                                                              ✓      ✓     ✓
+Jang Pung II (Korea) (Unl)                                                             ✗      ✗     ✗
 Janggun-ui Adeul (Korea)                                                               ✓      ✗     ✗
 Joe Montana Football (USA, Europe)                                                     ✓      ✓     ✓
 Jungle Book, The (Europe)                                                              ✓      ✓     ✓
@@ -407,6 +410,7 @@ Simpsons, The - Bart vs. the World (Europe)                                     
 Sitio do Picapau Amarelo (Brazil)                                                      ✓      ✓     ✓
 Sky Fighter (Korea) (Unl)                                                              ✗      ✓     ✓
 Sky Jaguar (Korea)                                                                     ✓      ✓     ✓
+Sky Jaguar (Korea) (Clover)                                                            ✗      ✗     ✗
 Slap Shot (Europe)                                                                     ✓      ✓     ✓
 Slap Shot (Europe) (Rev 1)                                                             ✓      ✓     ✓
 Slap Shot (Unknown) (Beta)                                                             ✓      ✓     ✓
@@ -455,6 +459,7 @@ Super Basketball (USA) (Sample)                                                 
 Super Boy 4 (Korea) (Unl)                                                              ✓      ✓     ✓
 Super Boy II (Korea) (Pirate)                                                          ✓      ✓     ✓
 Super Bubble Bobble (Korea) (Unl)                                                      ✓      ✗     ✗
+Super Columns _ Tetris (Korea) (Unl)                                                   ✗      ✗     ✗
 Super Golf (Europe) (Beta)                                                             ✓      ✗     ✗
 Super Kick Off (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)                                      ✓      ✓     ✓
 Super Monaco GP (Europe)                                                               ✓      ✓     ✓

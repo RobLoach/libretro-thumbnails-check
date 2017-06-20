@@ -61,7 +61,7 @@ glob('libretro-database/rdb/*.rdb', function (err, files) {
 		})
 	})
 	tasks.run().then(function (report) {
-		output = ''
+		let output = ''
 		let totals = {
 			boxart: 0,
 			snap: 0,

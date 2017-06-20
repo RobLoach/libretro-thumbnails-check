@@ -1,9 +1,9 @@
 Sega - Game Gear
 
-Boxarts    376/497  75.65%
-Snaps      493/497  99.20%
-Titles     493/497  99.20%
-Total    1362/1491  91.35%
+Boxarts    376/500  75.20%
+Snaps      493/500  98.60%
+Titles     493/500  98.60%
+Total    1362/1500  90.80%
 
 Name                                                                                Boxart  Snap  Title
 5 in 1 Funpak (USA)                                                                    ✓      ✓     ✓
@@ -91,6 +91,7 @@ Crystal Warriors (USA, Europe)                                                  
 Cutthroat Island (USA, Europe)                                                         ✓      ✓     ✓
 Cutthroat Island (USA, Europe) (Beta)                                                  ✓      ✗     ✗
 Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)                                      ✓      ✓     ✓
+David Robinson's Supreme Court (USA) (Auto Demo)                                       ✗      ✗     ✗
 Deep Duck Trouble Starring Donald Duck (USA, Europe)                                   ✓      ✓     ✓
 Defenders of Oasis (USA, Europe)                                                       ✓      ✓     ✓
 Defenders of Oasis (USA, Europe) (Beta)                                                ✓      ✓     ✓
@@ -417,6 +418,7 @@ Star Trek Generations - Beyond the Nexus (USA, Europe)                          
 Star Wars (Europe)                                                                     ✓      ✓     ✓
 Star Wars (USA)                                                                        ✓      ✓     ✓
 Stargate (World)                                                                       ✓      ✓     ✓
+Street Battle (USA) (Proto) (Unl)                                                      ✗      ✗     ✗
 Street Hero (USA) (Proto 1)                                                            ✗      ✓     ✓
 Street Hero (USA) (Proto 2)                                                            ✗      ✓     ✓
 Striker (Europe) (En,Fr,De,Es,It)                                                      ✓      ✓     ✓
@@ -430,6 +432,7 @@ Super Momotarou Dentetsu III (Japan)                                            
 Super Monaco GP (Japan)                                                                ✓      ✓     ✓
 Super Monaco GP (USA, Europe)                                                          ✓      ✓     ✓
 Super Off Road (USA, Europe)                                                           ✓      ✓     ✓
+Super Off Road (USA, Europe) (Beta)                                                    ✗      ✗     ✗
 Super Return of the Jedi (USA, Europe)                                                 ✓      ✓     ✓
 Super Smash T.V. (World)                                                               ✓      ✓     ✓
 Super Space Invaders (USA, Europe)                                                     ✓      ✓     ✓

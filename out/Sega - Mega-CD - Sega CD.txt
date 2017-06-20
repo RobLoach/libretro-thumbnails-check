@@ -1,12 +1,13 @@
 Sega - Mega-CD - Sega CD
 
-Boxarts  135/281  48.04%
-Snaps     73/281  25.98%
-Titles    73/281  25.98%
-Total    281/843  33.33%
+Boxarts  143/307  46.58%
+Snaps     73/307  23.78%
+Titles    73/307  23.78%
+Total    289/921  31.38%
 
 Name                                                                   Boxart  Snap  Title
 3 Ninjas Kick Back (USA)                                                  ✓      ✓     ✓
+A-Rank Thunder - Tanjou-hen (Japan)                                       ✗      ✗     ✗
 A-X-101 (USA) (RE)                                                        ✗      ✗     ✗
 Adventures of Batman and Robin, The (USA)                                 ✗      ✗     ✗
 Adventures of Willy Beamish, The (USA)                                    ✓      ✓     ✓
@@ -14,15 +15,23 @@ After Armageddon Gaiden - Majuu Toushouden Eclipse (Japan)                ✓   
 After Burner III (Japan)                                                  ✓      ✗     ✗
 After Burner III (USA)                                                    ✓      ✓     ✓
 AH3 - Thunderstrike (USA)                                                 ✗      ✗     ✗
+Aisle Lord (Japan)                                                        ✓      ✗     ✗
+Alshark (Japan)                                                           ✓      ✗     ✗
 Amazing Spider-Man vs. The Kingpin, The (Europe)                          ✗      ✗     ✗
 Amazing Spider-Man vs. The Kingpin, The (USA)                             ✓      ✓     ✓
 Annett Futatabi (Japan)                                                   ✗      ✗     ✗
+Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)                     ✗      ✗     ✗
+Arcus I, II, III (Japan)                                                  ✗      ✗     ✗
+Arslan Senki (Japan)                                                      ✗      ✗     ✗
 AX-101 (Japan)                                                            ✓      ✗     ✗
+Bakuden - The Unbalanced Zone (Japan)                                     ✗      ✗     ✗
 Bari-Arm (Japan)                                                          ✓      ✗     ✗
 Batman Returns (Europe)                                                   ✓      ✗     ✗
 Batman Returns (Europe) (Alt)                                             ✗      ✗     ✗
 Batman Returns (USA)                                                      ✓      ✓     ✓
+Battle Fantasy (Japan) (Rev A)                                            ✗      ✗     ✗
 Battlecorps (Europe) (En,Fr,De,Es)                                        ✗      ✗     ✗
+Battlecorps (Japan)                                                       ✗      ✗     ✗
 Battlecorps (USA)                                                         ✓      ✓     ✓
 BC Racers (Europe) (En,Fr,De)                                             ✗      ✗     ✗
 BC Racers (Europe) (Sample)                                               ✗      ✗     ✗
@@ -51,9 +60,11 @@ Cyborg 009 (Japan)                                                        ✓   
 Daihoushinden (Japan)                                                     ✗      ✗     ✗
 Dark Wizard - Yomigaeri Shiyami no Madoushi (Japan)                       ✗      ✗     ✗
 Dark Wizard (USA)                                                         ✓      ✓     ✓
+Death Bringer (Japan)                                                     ✗      ✗     ✗
 Dennin Aleste - Nobunaga and His Ninja Force (Japan)                      ✓      ✗     ✗
 Detonator Orgun (Japan)                                                   ✓      ✗     ✗
 Devastator (Japan)                                                        ✓      ✗     ✗
+Double Switch (Japan)                                                     ✗      ✗     ✗
 Double Switch (USA)                                                       ✓      ✓     ✓
 Dracula Unleashed (Europe) (Disc 1)                                       ✗      ✗     ✗
 Dracula Unleashed (Europe) (Disc 2)                                       ✗      ✗     ✗
@@ -107,16 +118,20 @@ Heavy Nova (Japan)                                                        ✓   
 Heimdall (Japan)                                                          ✗      ✗     ✗
 Heimdall (USA)                                                            ✓      ✓     ✓
 Hook (USA)                                                                ✓      ✓     ✓
+IIIrd World War, The (Japan)                                              ✗      ✗     ✗
 Iron Helix (USA)                                                          ✓      ✓     ✓
+Ishii Hisaichi no Daiseikai (Japan)                                       ✗      ✗     ✗
 Jaguar XJ220 (Europe) (En,Ja)                                             ✗      ✗     ✗
 Jaguar XJ220 (Japan) (En,Ja)                                              ✗      ✗     ✗
 Jangou World Cup (Japan)                                                  ✗      ✗     ✗
 Jeopardy! (USA)                                                           ✓      ✓     ✓
 Joe Montana's NFL Football (USA)                                          ✓      ✓     ✓
 Jurassic Park (Europe)                                                    ✓      ✗     ✗
+Jurassic Park (Japan)                                                     ✓      ✗     ✗
 Jurassic Park (USA) (RE)                                                  ✗      ✗     ✗
 Kamen Rider ZO (Japan)                                                    ✗      ✗     ✗
 Keiou Yuugekitai (Japan)                                                  ✓      ✗     ✗
+Keiou Yuugekitai (Japan) (Sample)                                         ✗      ✗     ✗
 Kids on Site (USA)                                                        ✓      ✓     ✓
 Lethal Enforcers (Japan)                                                  ✗      ✗     ✗
 Lethal Enforcers (USA) (U11)                                              ✗      ✗     ✗
@@ -132,6 +147,7 @@ Lunar - Eternal Blue (USA)                                                ✓   
 Lunar - The Silver Star (Japan)                                           ✓      ✗     ✗
 Lunar - The Silver Star (USA) (RE)                                        ✗      ✗     ✗
 Mad Dog McCree (USA)                                                      ✓      ✓     ✓
+Mahou no Shoujo - Silky Lip (Japan)                                       ✗      ✗     ✗
 Mansion of Hidden Souls (USA)                                             ✓      ✓     ✓
 Mary Shelley's Frankenstein (USA)                                         ✓      ✓     ✓
 Mega Schwarzschild (Japan)                                                ✓      ✗     ✗
@@ -161,6 +177,7 @@ Night Trap (USA) (Disc 1) (Alt)                                           ✗   
 Night Trap (USA) (Disc 1) (Sega CD 32X)                                   ✗      ✗     ✗
 Night Trap (USA) (Disc 2)                                                 ✗      ✗     ✗
 Night Trap (USA) (Disc 2) (Sega CD 32X)                                   ✗      ✗     ✗
+Ninja Warriors, The (Japan)                                               ✓      ✗     ✗
 Nobunaga no Yabou - Haouden (Japan)                                       ✗      ✗     ✗
 Nostalgia 1907 (Japan)                                                    ✓      ✗     ✗
 Pier Solar and the Great Architects Enhanced Soundtrack Disc (USA)        ✗      ✗     ✗
@@ -176,6 +193,8 @@ Prize Fighter (Japan) (Disc 1)                                            ✗   
 Prize Fighter (Japan) (Disc 2)                                            ✗      ✗     ✗
 Prize Fighter (USA) (Disc 1)                                              ✗      ✗     ✗
 Pro Yakyuu Super League CD (Japan)                                        ✓      ✗     ✗
+Psychic Detective Series Vol. 3 - Aya (Japan)                             ✗      ✗     ✗
+Psychic Detective Series Vol. 4 - Orgel (Japan)                           ✓      ✗     ✗
 Puggsy (USA)                                                              ✓      ✓     ✓
 Quiz Scramble Special (Japan) (Rev B)                                     ✗      ✗     ✗
 Quiz Tonosama no Yabou (Japan)                                            ✗      ✗     ✗
@@ -183,12 +202,14 @@ Racing Aces (USA)                                                         ✓   
 Ranma 1-2 - Byakuranaika (Japan)                                          ✗      ✗     ✗
 RDF - Global Conflict (USA)                                               ✗      ✗     ✗
 Record of Lodoss War (Japan)                                              ✗      ✗     ✗
+Record of Lodoss War (Japan) (Sample)                                     ✗      ✗     ✗
 Revenge of the Ninja (USA)                                                ✓      ✓     ✓
 Rise of the Dragon - A Blade Hunter Mystery (Japan)                       ✗      ✗     ✗
 Rise of the Dragon (USA)                                                  ✓      ✓     ✓
 Rise of the Dragon (USA) (RE)                                             ✗      ✗     ✗
 Road Avenger (Europe)                                                     ✓      ✗     ✗
 Road Avenger (USA)                                                        ✓      ✓     ✓
+Road Blaster FX (Japan)                                                   ✓      ✗     ✗
 Robo Aleste (Europe)                                                      ✓      ✗     ✗
 Sangokushi III (Japan)                                                    ✗      ✗     ✗
 Secret of Monkey Island, The (Japan)                                      ✗      ✗     ✗
@@ -199,7 +220,8 @@ Sega Classics Arcade Collection (USA) (5-in-1)                            ✗   
 Sega Classics Arcade Collection (USA) (RE) (4-in-1)                       ✗      ✗     ✗
 Seima Densetsu 3x3 Eyes (Japan, Korea)                                    ✗      ✗     ✗
 Seirei Shinseiki - Fhey Area (Japan)                                      ✗      ✗     ✗
-Sensible Soccer (Europe) (Demo)                                           ✗      ✗     ✗
+Sengoku Denshou (Japan)                                                   ✓      ✗     ✗
+Sensible Soccer (Europe) (Sample)                                         ✗      ✗     ✗
 Sewer Shark (Europe)                                                      ✓      ✗     ✗
 Sewer Shark (USA)                                                         ✓      ✓     ✓
 Sewer Shark (USA) (Rev A)                                                 ✗      ✗     ✗
@@ -221,6 +243,7 @@ Silpheed (Europe)                                                         ✓   
 Silpheed (Japan)                                                          ✓      ✗     ✗
 Silpheed (Japan) (Sample)                                                 ✗      ✗     ✗
 Silpheed (USA)                                                            ✓      ✓     ✓
+SimEarth (Japan)                                                          ✗      ✗     ✗
 Sing!! Sega Game Music Presented by B. B. Queens (Japan)                  ✗      ✗     ✗
 Slam City with Scottie Pippen (Europe) (Disc 1)                           ✗      ✗     ✗
 Slam City with Scottie Pippen (Europe) (Disc 2)                           ✗      ✗     ✗
@@ -240,8 +263,9 @@ Sonic CD (USA)                                                            ✓   
 Sonic CD (USA) (RE125)                                                    ✗      ✗     ✗
 Sonic CD (USA) (RE125) (Alt)                                              ✗      ✗     ✗
 Sonic The Hedgehog CD (Japan)                                             ✓      ✗     ✗
-SoulStar (Europe)                                                         ✗      ✗     ✗
 SoulStar (Europe) (En,Fr,De)                                              ✗      ✗     ✗
+SoulStar (Europe) (Sample)                                                ✗      ✗     ✗
+SoulStar (Japan)                                                          ✗      ✗     ✗
 SoulStar (USA)                                                            ✗      ✗     ✗
 Space Ace (USA)                                                           ✓      ✓     ✓
 Space Adventure, The - Cobra - The Legendary Bandit (Europe)              ✗      ✗     ✗
@@ -265,12 +289,14 @@ Time Gal (Japan)                                                          ✓   
 Time Gal (USA)                                                            ✓      ✓     ✓
 Tomcat Alley (Europe)                                                     ✓      ✗     ✗
 Tomcat Alley (Germany)                                                    ✗      ✗     ✗
+Tomcat Alley (Japan)                                                      ✗      ✗     ✗
 Tomcat Alley (USA)                                                        ✓      ✓     ✓
 Tomcat Alley (USA) (Alt)                                                  ✗      ✗     ✗
 Urusei Yatsura - Dear My Friends (Japan)                                  ✗      ✗     ✗
 Vay - Ryuusei no Yoroi (Japan)                                            ✗      ✗     ✗
 Vay (USA)                                                                 ✓      ✓     ✓
 Wakusei Woodstock - Funky Horror Band (Japan)                             ✗      ✗     ✗
+Warau Salesman (Japan)                                                    ✓      ✗     ✗
 Wheel of Fortune (USA)                                                    ✓      ✓     ✓
 Who Shot Johnny Rock (USA)                                                ✓      ✓     ✓
 Wing Commander (Japan)                                                    ✗      ✗     ✗

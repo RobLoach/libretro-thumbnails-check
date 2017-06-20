@@ -1,9 +1,9 @@
 Nintendo - Game Boy
 
-Boxarts  1059/1606  65.94%
-Snaps    1570/1606  97.76%
-Titles   1569/1606  97.70%
-Total    4198/4818  87.13%
+Boxarts  1060/1609  65.88%
+Snaps    1569/1609  97.51%
+Titles   1568/1609  97.45%
+Total    4197/4827  86.95%
 
 Name                                                                                             Boxart  Snap  Title
 3 Choume no Tama - Tama and Friends - 3 Choume Obake Panic!! (Japan)                                ✗      ✓     ✓
@@ -16,6 +16,7 @@ Name                                                                            
 4 in 1 (Europe) (4B-007, Sachen) (Unl)                                                              ✗      ✗     ✗
 4 in 1 (Europe) (4B-008, Sachen) (Unl)                                                              ✗      ✗     ✗
 4 in 1 (Europe) (4B-009, Sachen) (Unl)                                                              ✗      ✗     ✗
+4 in 1 (Europe) (En,Zh) (4B-003, Sachen-Commin) (Unl)                                               ✗      ✗     ✗
 4-in-1 Fun Pak (Japan)                                                                              ✓      ✓     ✓
 4-in-1 Fun Pak (USA, Europe)                                                                        ✓      ✓     ✓
 4-in-1 Fun Pak Volume II (USA, Europe)                                                              ✓      ✓     ✓
@@ -175,7 +176,7 @@ Boulder Dash (Europe)                                                           
 Boulder Dash (Japan)                                                                                ✓      ✓     ✓
 Boxing (Japan)                                                                                      ✓      ✓     ✓
 Boxxle (USA, Europe) (Rev A)                                                                        ✓      ✓     ✓
-Boxxle II (USA, Europe)                                                                             ✓      ✓     ✓
+Boxxle II (USA, Europe) (european shaped box contains USA-cartridge)                                ✗      ✗     ✗
 Brain Bender (Europe)                                                                               ✓      ✓     ✓
 Brain Bender (USA)                                                                                  ✓      ✓     ✓
 Brain Drain (Europe) (SGB Enhanced)                                                                 ✓      ✓     ✓
@@ -359,10 +360,10 @@ Dropzone (Europe)                                                               
 Druaga no Tou (Japan)                                                                               ✗      ✓     ✓
 DuckTales (Europe)                                                                                  ✗      ✓     ✓
 DuckTales (Japan)                                                                                   ✗      ✓     ✓
-DuckTales (USA)                                                                                     ✗      ✓     ✓
+DuckTales (USA)                                                                                     ✓      ✓     ✓
 DuckTales 2 (Europe)                                                                                ✗      ✓     ✓
 DuckTales 2 (Japan)                                                                                 ✗      ✓     ✓
-DuckTales 2 (USA)                                                                                   ✗      ✓     ✓
+DuckTales 2 (USA)                                                                                   ✓      ✓     ✓
 Dungeon Land (Japan)                                                                                ✗      ✓     ✓
 DX Bakenou Z (Japan)                                                                                ✗      ✓     ✓
 DX Bakenou Z (Japan) (Rev A)                                                                        ✗      ✓     ✓
@@ -1070,6 +1071,7 @@ Pocket Monsters - Pikachu (Japan) (Rev 1) (SGB Enhanced)                        
 Pocket Monsters - Pikachu (Japan) (Rev 2) (SGB Enhanced)                                            ✓      ✓     ✓
 Pocket Monsters - Pikachu (Japan) (Rev 3) (SGB Enhanced)                                            ✓      ✓     ✓
 Pocket Monsters - Pikachu (Japan) (SGB Enhanced)                                                    ✓      ✓     ✓
+Pocket Puyo Puyo Tsuu (Japan) (Rev 1) (SGB Enhanced)                                                ✗      ✗     ✗
 Pocket Puyo Puyo Tsuu (Japan) (SGB Enhanced)                                                        ✓      ✓     ✓
 Pocket Shougi (Japan) (SGB Enhanced)                                                                ✗      ✓     ✓
 Pocket Sonar (Japan)                                                                                ✗      ✓     ✓
@@ -1244,6 +1246,7 @@ Shaq Fu (USA) (SGB Enhanced)                                                    
 Shikinjou (Japan)                                                                                   ✗      ✓     ✓
 Shin Keiba Kizoku Pocket Jockey (Japan) (SGB Enhanced)                                              ✗      ✓     ✓
 Shin Nihon Pro Wrestling - Toukon Sanjuushi (Japan)                                                 ✗      ✓     ✓
+Shin Nippon Pro Wrestling - Toukon Sanjushi (Japan) (Sample)                                        ✗      ✗     ✗
 Shin SD Gundam Gaiden - Knight Gundam Story (Japan) (SGB Enhanced)                                  ✗      ✓     ✓
 Shinri Game 2, The - Oosaka Hen (Japan)                                                             ✗      ✓     ✓
 Shinri Game, The (Japan)                                                                            ✗      ✓     ✓
