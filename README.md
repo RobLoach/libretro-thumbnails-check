@@ -70,7 +70,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Sega - Dreamcast](out/.txt) | 550 / 773 | 0 / 773 | 0 / 773 | 550 / 2319 | **23.72%** |
 | [Sega - Game Gear](out/.txt) | 376 / 500 | 493 / 500 | 493 / 500 | 1362 / 1500 | **90.80%** |
 | [Sega - Master System - Mark III](out/.txt) | 535 / 544 | 502 / 544 | 502 / 544 | 1539 / 1632 | **94.30%** |
-| [Sega - Mega Drive - Genesis](out/.txt) | 1543 / 1705 | 1653 / 1705 | 1653 / 1705 | 4849 / 5115 | **94.80%** |
+| [Sega - Mega Drive - Genesis](out/.txt) | 1553 / 1705 | 1661 / 1705 | 1661 / 1705 | 4875 / 5115 | **95.31%** |
 | [Sega - Mega-CD - Sega CD](out/.txt) | 143 / 307 | 73 / 307 | 73 / 307 | 289 / 921 | **31.38%** |
 | [Sega - PICO](out/.txt) | 0 / 342 | 12 / 342 | 12 / 342 | 24 / 1026 | **2.34%** |
 | [Sega - Saturn](out/.txt) | 266 / 1812 | 240 / 1812 | 239 / 1812 | 745 / 5436 | **13.70%** |
@@ -99,7 +99,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [VTech - CreatiVision](out/.txt) | 20 / 20 | 20 / 20 | 20 / 20 | 60 / 60 | **100.00%** |
 | [VTech - V.Smile](out/.txt) | 1 / 98 | 1 / 98 | 1 / 98 | 3 / 294 | **1.02%** |
 | [Watara - Supervision](out/.txt) | 63 / 63 | 63 / 63 | 63 / 63 | 189 / 189 | **100.00%** |
-| **Total** | **20811 / 91145** | **25684 / 91145** | **24905 / 91145** | **71400 / 273435** | **26.11%** |
+| **Total** | **20821 / 91145** | **25692 / 91145** | **24913 / 91145** | **71426 / 273435** | **26.12%** |
 
 ## Build
 

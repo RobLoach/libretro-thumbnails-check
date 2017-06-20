@@ -105,8 +105,8 @@ function writeReport(system, games, thumbs) {
 		fs.mkdirSync('out')
 	}
 	games = sort(games)
-	var output = system + '\n\n'
-	var count = {
+	let output = system + ' Missing\n\n'
+	let count = {
 		boxart: 0,
 		snap: 0,
 		title: 0,
@@ -116,17 +116,17 @@ function writeReport(system, games, thumbs) {
 		output += 'Error parsing dat files.'
 	}
 	else {
-		var entries = []
+		let entries = []
 		entries.push(['Name', 'Boxart', 'Snap', 'Title'])
-		for (var gameName in games) {
+		for (let gameName in games) {
 			if (games[gameName]) {
-				var game = games[gameName]
+				let game = games[gameName]
 				// Use the thumbnail file name.
 				gameName = cleanGameName(gameName)
 
-				var boxart = game.boxart ? '✓' : '✗'
-				var snap = game.snap ? '✓' : '✗'
-				var title = game.title ? '✓' : '✗'
+				let boxart = game.boxart ? '✓' : '✗'
+				let snap = game.snap ? '✓' : '✗'
+				let title = game.title ? '✓' : '✗'
 
 				if (game.boxart) {
 					count.boxart++
@@ -137,11 +137,13 @@ function writeReport(system, games, thumbs) {
 				if (game.title) {
 					count.title++
 				}
-				entries.push([gameName, boxart, snap, title])
+				if (boxart == '✗' || snap == '✗' || title == '✗') {
+					entries.push([gameName, boxart, snap, title])
+				}
 			}
 		}
 
-		var total = count.snap + count.boxart + count.title
+		let total = count.snap + count.boxart + count.title
 		output += table([
 			['Boxarts', count.boxart + '/' + count.total, (count.boxart / count.total * 100).toFixed(2) + '%'],
 			['Snaps', count.snap + '/' + count.total, (count.snap / count.total * 100).toFixed(2) + '%'],
@@ -155,8 +157,8 @@ function writeReport(system, games, thumbs) {
 			align: ['l', 'c', 'c', 'c']
 		})
 
-		var orphans = ''
-		for (var o in thumbs) {
+		let orphans = ''
+		for (let o in thumbs) {
 			orphans += '\n' + thumbs[o].replace(system + '/', '').replace(libretroThumbnailsPath, '')
 		}
 		if (orphans.length >= 5) {
