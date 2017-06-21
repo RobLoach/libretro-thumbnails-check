@@ -1,13 +1,11 @@
 Sega - Game Gear Missing
 
-Boxarts    376/500  75.20%
-Snaps      493/500  98.60%
-Titles     493/500  98.60%
-Total    1362/1500  90.80%
+Boxarts    388/500  77.60%
+Snaps      494/500  98.80%
+Titles     494/500  98.80%
+Total    1376/1500  91.73%
 
 Name                                                                 Boxart  Snap  Title
-Buster Ball (Japan)                                                     ✗      ✓     ✓
-Buster Fight (Japan)                                                    ✗      ✓     ✓
 Car Licence (Japan)                                                     ✗      ✓     ✓
 Cave Dude (USA) (Proto)                                                 ✗      ✗     ✗
 CJ Elephant Fugitive (Europe)                                           ✗      ✗     ✗
@@ -19,12 +17,9 @@ David Robinson's Supreme Court (USA) (Auto Demo)                        ✗     
 Doraemon - Noranosuke no Yabou (Japan)                                  ✗      ✓     ✓
 Doraemon - Waku Waku Pocket Paradise (Japan)                            ✗      ✓     ✓
 Dr. Franken (Unknown) (Proto)                                           ✗      ✓     ✓
-Dunk Kids (Japan)                                                       ✗      ✓     ✓
 Ecco the Dolphin (Japan)                                                ✗      ✓     ✓
-Ecco the Dolphin (USA, Europe)                                          ✗      ✓     ✓
 F1 - World Championship Edition (Europe)                                ✗      ✓     ✓
 Faceball 2000 (Japan)                                                   ✗      ✓     ✓
-Fray - Shugyou Hen (Japan)                                              ✗      ✓     ✓
 From TV Animation - Slam Dunk - Shouri e no Starting 5 (Japan)          ✗      ✓     ✓
 G-LOC - Air Battle (Japan)                                              ✗      ✓     ✓
 G-LOC - Air Battle (Japan) (Rev 1)                                      ✗      ✓     ✓
@@ -38,7 +33,6 @@ GG Aleste (Japan)                                                       ✗     
 GG Portrait - Pai Chen (Japan)                                          ✗      ✓     ✓
 GG Portrait - Yuuki Akira (Japan)                                       ✗      ✓     ✓
 Gojira - Kaijuu Daishingeki (Japan)                                     ✗      ✓     ✓
-Gunstar Heroes (Japan)                                                  ✗      ✓     ✓
 Head Buster (Japan)                                                     ✗      ✓     ✓
 Honoo no Toukyuuji - Dodge Danpei (Japan)                               ✗      ✓     ✓
 Hyokkori Hyoutan-jima - Hyoutan-jima no Daikoukai (Japan)               ✗      ✓     ✓
@@ -80,7 +74,6 @@ Ninku Gaiden - Hiroyuki Daikatsugeki (Japan)                            ✗     
 Nomo Hideo no World Series Baseball (Japan)                             ✗      ✓     ✓
 Pac-In-Time (Unknown) (Proto)                                           ✗      ✓     ✓
 Panzer Dragoon Mini (Japan)                                             ✗      ✓     ✓
-Paperboy (USA, Europe)                                                  ✗      ✓     ✓
 Pet Club Inu Daisuki! (Japan)                                           ✗      ✓     ✓
 Phantasy Star Adventure (Japan)                                         ✗      ✓     ✓
 Phantasy Star Gaiden (Japan)                                            ✗      ✓     ✓
@@ -111,8 +104,6 @@ Street Battle (USA) (Proto) (Unl)                                       ✗     
 Street Hero (USA) (Proto 1)                                             ✗      ✓     ✓
 Street Hero (USA) (Proto 2)                                             ✗      ✓     ✓
 Super Momotarou Dentetsu III (Japan)                                    ✗      ✓     ✓
-Super Off Road (USA, Europe) (Beta)                                     ✗      ✗     ✗
-Superman - The Man of Steel (Europe) (Beta)                             ✗      ✓     ✓
 Taisen Mahjong HaoPai (Japan)                                           ✗      ✓     ✓
 Taisen Mahjong HaoPai 2 (Japan)                                         ✗      ✓     ✓
 Taisen-gata Daisenryaku G (Japan)                                       ✗      ✓     ✓
@@ -122,12 +113,9 @@ Tatakae! Pro Yakyuu Twin League (Japan)                                 ✗     
 Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv)                            ✗      ✓     ✓
 Torarete Tamaruka (Japan)                                               ✗      ✓     ✓
 Virtua Fighter Mini (Japan)                                             ✗      ✓     ✓
-Wagyan Land (Japan)                                                     ✗      ✓     ✓
 Wild Snake (USA) (Proto)                                                ✗      ✓     ✓
 Winter Olympics - Lillehammer '94 (Japan) (En,Fr,De,Es,It,Pt,Sv,No)     ✗      ✓     ✓
 Wonder Boy III - The Dragon's Trap (Europe) (Beta)                      ✗      ✓     ✓
-Woody Pop (World) (Rev 1)                                               ✗      ✓     ✓
 World Derby (Japan)                                                     ✗      ✓     ✓
 Yogi Bear in Yogi Bear's Goldrush (Unknown) (Proto)                     ✗      ✓     ✓
 Zool no Yume Bouken (Japan)                                             ✗      ✓     ✓
-Zoop (USA) (Beta)                                                       ✗      ✓     ✓

@@ -26,7 +26,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Fairchild - Channel F](out/.txt) | 31 / 34 | 34 / 34 | 34 / 34 | 99 / 102 | **97.06%** |
 | [FB Alpha - Arcade Games](out/.txt) | 1812 / 4361 | 3251 / 4361 | 3251 / 4361 | 8314 / 13083 | **63.55%** |
 | [Funtech - Super Acan](out/.txt) | 0 / 9 | 9 / 9 | 9 / 9 | 18 / 27 | **66.67%** |
-| [GamePark - GP32](out/.txt) | 0 / 28 | 28 / 28 | 28 / 28 | 56 / 84 | **66.67%** |
+| [GamePark - GP32](out/.txt) | 1 / 28 | 28 / 28 | 28 / 28 | 57 / 84 | **67.86%** |
 | [GCE - Vectrex](out/.txt) | 44 / 44 | 44 / 44 | 44 / 44 | 132 / 132 | **100.00%** |
 | [Handheld Electronic Game](out/.txt) | 0 / 56 | 0 / 56 | 0 / 56 | 0 / 168 | **0.00%** |
 | [Hartung - Game Master](out/.txt) | 0 / 12 | 11 / 12 | 11 / 12 | 22 / 36 | **61.11%** |
@@ -34,7 +34,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Lutro](out/.txt) | 0 / 10 | 9 / 10 | 3 / 10 | 12 / 30 | **40.00%** |
 | [Magnavox - Odyssey2](out/.txt) | 61 / 131 | 131 / 131 | 131 / 131 | 323 / 393 | **82.19%** |
 | [Microsoft - MSX](out/.txt) | 244 / 936 | 911 / 936 | 912 / 936 | 2067 / 2808 | **73.61%** |
-| [Microsoft - MSX2](out/.txt) | 65 / 195 | 195 / 195 | 195 / 195 | 455 / 585 | **77.78%** |
+| [Microsoft - MSX2](out/.txt) | 66 / 195 | 195 / 195 | 195 / 195 | 456 / 585 | **77.95%** |
 | [Microsoft - Xbox](out/.txt) | 14 / 1642 | 0 / 1642 | 0 / 1642 | 14 / 4926 | **0.28%** |
 | [NEC - PC Engine - TurboGrafx 16](out/.txt) | 412 / 412 | 412 / 412 | 412 / 412 | 1236 / 1236 | **100.00%** |
 | [NEC - PC Engine CD - TurboGrafx-CD](out/.txt) | 32 / 328 | 4 / 328 | 4 / 328 | 40 / 984 | **4.07%** |
@@ -45,10 +45,10 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Nintendo - Game Boy Advance](out/.txt) | 1811 / 6046 | 2857 / 6046 | 2857 / 6046 | 7525 / 18138 | **41.49%** |
 | [Nintendo - Game Boy Color](out/.txt) | 613 / 1425 | 887 / 1425 | 887 / 1425 | 2387 / 4275 | **55.84%** |
 | [Nintendo - Game Boy](out/.txt) | 1060 / 1609 | 1569 / 1609 | 1568 / 1609 | 4197 / 4827 | **86.95%** |
-| [Nintendo - GameCube](out/.txt) | 67 / 1758 | 1 / 1758 | 3 / 1758 | 71 / 5274 | **1.35%** |
+| [Nintendo - GameCube](out/.txt) | 69 / 1758 | 1 / 1758 | 3 / 1758 | 73 / 5274 | **1.38%** |
 | [Nintendo - Nintendo 3DS (DLC)](out/.txt) | 0 / 959 | 0 / 959 | 0 / 959 | 0 / 2877 | **0.00%** |
-| [Nintendo - Nintendo 3DS](out/.txt) | 13 / 1772 | 0 / 1772 | 0 / 1772 | 13 / 5316 | **0.24%** |
-| [Nintendo - Nintendo 64](out/.txt) | 899 / 949 | 945 / 949 | 944 / 949 | 2788 / 2847 | **97.93%** |
+| [Nintendo - Nintendo 3DS](out/.txt) | 14 / 1772 | 1 / 1772 | 1 / 1772 | 16 / 5316 | **0.30%** |
+| [Nintendo - Nintendo 64](out/.txt) | 899 / 949 | 946 / 949 | 946 / 949 | 2791 / 2847 | **98.03%** |
 | [Nintendo - Nintendo 64DD](out/.txt) | 10 / 13 | 4 / 13 | 5 / 13 | 19 / 39 | **48.72%** |
 | [Nintendo - Nintendo DS (Download Play)](out/.txt) | 0 / 380 | 0 / 380 | 0 / 380 | 0 / 1140 | **0.00%** |
 | [Nintendo - Nintendo DS](out/.txt) | 0 / 7003 | 0 / 7003 | 0 / 7003 | 0 / 21009 | **0.00%** |
@@ -67,12 +67,12 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [RCA - Studio II](out/.txt) | 5 / 5 | 5 / 5 | 5 / 5 | 15 / 15 | **100.00%** |
 | [ScummVM](out/.txt) | 18 / 163 | 1 / 163 | 1 / 163 | 20 / 489 | **4.09%** |
 | [Sega - 32X](out/.txt) | 60 / 60 | 60 / 60 | 60 / 60 | 180 / 180 | **100.00%** |
-| [Sega - Dreamcast](out/.txt) | 550 / 773 | 0 / 773 | 0 / 773 | 550 / 2319 | **23.72%** |
-| [Sega - Game Gear](out/.txt) | 376 / 500 | 493 / 500 | 493 / 500 | 1362 / 1500 | **90.80%** |
+| [Sega - Dreamcast](out/.txt) | 550 / 773 | 1 / 773 | 1 / 773 | 552 / 2319 | **23.80%** |
+| [Sega - Game Gear](out/.txt) | 388 / 500 | 494 / 500 | 494 / 500 | 1376 / 1500 | **91.73%** |
 | [Sega - Master System - Mark III](out/.txt) | 535 / 544 | 502 / 544 | 502 / 544 | 1539 / 1632 | **94.30%** |
 | [Sega - Mega Drive - Genesis](out/.txt) | 1553 / 1705 | 1661 / 1705 | 1661 / 1705 | 4875 / 5115 | **95.31%** |
 | [Sega - Mega-CD - Sega CD](out/.txt) | 143 / 307 | 73 / 307 | 73 / 307 | 289 / 921 | **31.38%** |
-| [Sega - PICO](out/.txt) | 0 / 342 | 12 / 342 | 12 / 342 | 24 / 1026 | **2.34%** |
+| [Sega - PICO](out/.txt) | 0 / 342 | 13 / 342 | 12 / 342 | 25 / 1026 | **2.44%** |
 | [Sega - Saturn](out/.txt) | 266 / 1812 | 240 / 1812 | 239 / 1812 | 745 / 5436 | **13.70%** |
 | [Sega - SG-1000](out/.txt) | 85 / 207 | 185 / 207 | 185 / 207 | 455 / 621 | **73.27%** |
 | [Sinclair - ZX 81](out/.txt) | 400 / 420 | 419 / 420 | 14 / 420 | 833 / 1260 | **66.11%** |
@@ -81,7 +81,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [SNK - Neo Geo CD](out/.txt) | 0 / 44 | 0 / 44 | 0 / 44 | 0 / 132 | **0.00%** |
 | [SNK - Neo Geo Pocket Color](out/.txt) | 119 / 119 | 119 / 119 | 119 / 119 | 357 / 357 | **100.00%** |
 | [SNK - Neo Geo Pocket](out/.txt) | 10 / 10 | 10 / 10 | 10 / 10 | 30 / 30 | **100.00%** |
-| [Sony - PlayStation 2](out/.txt) | 49 / 7856 | 0 / 7856 | 0 / 7856 | 49 / 23568 | **0.21%** |
+| [Sony - PlayStation 2](out/.txt) | 49 / 7856 | 1 / 7856 | 1 / 7856 | 51 / 23568 | **0.22%** |
 | [Sony - PlayStation 3 (DLC)](out/.txt) | 0 / 43 | 0 / 43 | 0 / 43 | 0 / 129 | **0.00%** |
 | [Sony - PlayStation 3 (Downloadable)](out/.txt) | 1 / 1 | 1 / 1 | 1 / 1 | 3 / 3 | **100.00%** |
 | [Sony - PlayStation 3 (PSN)](out/.txt) | 0 / 222 | 0 / 222 | 0 / 222 | 0 / 666 | **0.00%** |
@@ -99,7 +99,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [VTech - CreatiVision](out/.txt) | 20 / 20 | 20 / 20 | 20 / 20 | 60 / 60 | **100.00%** |
 | [VTech - V.Smile](out/.txt) | 1 / 98 | 1 / 98 | 1 / 98 | 3 / 294 | **1.02%** |
 | [Watara - Supervision](out/.txt) | 63 / 63 | 63 / 63 | 63 / 63 | 189 / 189 | **100.00%** |
-| **Total** | **20821 / 91145** | **25692 / 91145** | **24913 / 91145** | **71426 / 273435** | **26.12%** |
+| **Total** | **20838 / 91145** | **25698 / 91145** | **24919 / 91145** | **71455 / 273435** | **26.13%** |
 
 ## Build
 
