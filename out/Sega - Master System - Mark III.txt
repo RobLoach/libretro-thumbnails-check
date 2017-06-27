@@ -1,12 +1,12 @@
 Sega - Master System - Mark III Missing
 
-Boxarts    535/544  98.35%
-Snaps      502/544  92.28%
-Titles     502/544  92.28%
-Total    1539/1632  94.30%
+Boxarts    540/544  99.26%
+Snaps      504/544  92.65%
+Titles     504/544  92.65%
+Total    1548/1632  94.85%
 
 Name                                         Boxart  Snap  Title
-Action Fighter (Taiwan)                         ✗      ✗     ✗
+Action Fighter (Taiwan)                         ✓      ✗     ✗
 Alien Syndrome (Unknown) (Beta)                 ✓      ✗     ✗
 Block Hole (Korea) (Unl)                        ✓      ✗     ✗
 Bobble Bobble (Korea)                           ✓      ✗     ✗
@@ -14,9 +14,9 @@ C_So! (Korea) (Unl)                             ✓      ✗     ✗
 Comic Bakery (Korea)                            ✓      ✗     ✗
 Comical Machine Gun Joe (Taiwan)                ✓      ✗     ✗
 Cyborg Z (Korea)                                ✓      ✗     ✗
-E-SWAT (USA, Europe) (Beta 1)                   ✗      ✗     ✗
-E-SWAT (USA, Europe) (Beta 2)                   ✗      ✗     ✗
-E-SWAT (USA, Europe) (Beta 3)                   ✗      ✗     ✗
+E-SWAT (USA, Europe) (Beta 1)                   ✓      ✗     ✗
+E-SWAT (USA, Europe) (Beta 2)                   ✓      ✗     ✗
+E-SWAT (USA, Europe) (Beta 3)                   ✓      ✗     ✗
 E.I. - Exa Innova (Korea)                       ✓      ✗     ✗
 Eagles 5 (Korea)                                ✓      ✗     ✗
 F-16 Fighting Falcon (Taiwan)                   ✓      ✗     ✗
@@ -44,8 +44,6 @@ Puznic (Korea) (Unl)                            ✓      ✗     ✗
 Road Fighter (Korea) (Unl)                      ✓      ✗     ✗
 Sega Graphic Board (USA) (v2.0) (Proto)         ✓      ✗     ✗
 Sky Fighter (Korea) (Unl)                       ✗      ✓     ✓
-Sky Jaguar (Korea) (Clover)                     ✗      ✗     ✗
 Spy vs Spy (Taiwan)                             ✓      ✗     ✗
 Super Bubble Bobble (Korea) (Unl)               ✓      ✗     ✗
 Super Columns _ Tetris (Korea) (Unl)            ✗      ✗     ✗
-Super Golf (Europe) (Beta)                      ✓      ✗     ✗

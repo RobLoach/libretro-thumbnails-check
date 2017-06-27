@@ -51,10 +51,10 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Nintendo - Nintendo 64](out/.txt) | 899 / 949 | 946 / 949 | 946 / 949 | 2791 / 2847 | **98.03%** |
 | [Nintendo - Nintendo 64DD](out/.txt) | 10 / 13 | 4 / 13 | 5 / 13 | 19 / 39 | **48.72%** |
 | [Nintendo - Nintendo DS (Download Play)](out/.txt) | 0 / 380 | 0 / 380 | 0 / 380 | 0 / 1140 | **0.00%** |
-| [Nintendo - Nintendo DS](out/.txt) | 0 / 7003 | 0 / 7003 | 0 / 7003 | 0 / 21009 | **0.00%** |
+| [Nintendo - Nintendo DS](out/.txt) | 140 / 7003 | 9 / 7003 | 9 / 7003 | 158 / 21009 | **0.75%** |
 | [Nintendo - Nintendo DSi (DLC)](out/.txt) | 0 / 750 | 0 / 750 | 0 / 750 | 0 / 2250 | **0.00%** |
 | [Nintendo - Nintendo DSi](out/.txt) | 6 / 11 | 1 / 11 | 1 / 11 | 8 / 33 | **24.24%** |
-| [Nintendo - Nintendo Entertainment System](out/.txt) | 1932 / 2760 | 2624 / 2760 | 2622 / 2760 | 7178 / 8280 | **86.69%** |
+| [Nintendo - Nintendo Entertainment System](out/.txt) | 1936 / 2760 | 2624 / 2760 | 2622 / 2760 | 7182 / 8280 | **86.74%** |
 | [Nintendo - Nintendo Wii (DLC)](out/.txt) | 0 / 2864 | 0 / 2864 | 0 / 2864 | 0 / 8592 | **0.00%** |
 | [Nintendo - Pokemon Mini](out/.txt) | 43 / 43 | 43 / 43 | 43 / 43 | 129 / 129 | **100.00%** |
 | [Nintendo - Satellaview](out/.txt) | 0 / 206 | 163 / 206 | 163 / 206 | 326 / 618 | **52.75%** |
@@ -69,7 +69,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Sega - 32X](out/.txt) | 60 / 60 | 60 / 60 | 60 / 60 | 180 / 180 | **100.00%** |
 | [Sega - Dreamcast](out/.txt) | 550 / 773 | 1 / 773 | 1 / 773 | 552 / 2319 | **23.80%** |
 | [Sega - Game Gear](out/.txt) | 388 / 500 | 494 / 500 | 494 / 500 | 1376 / 1500 | **91.73%** |
-| [Sega - Master System - Mark III](out/.txt) | 535 / 544 | 502 / 544 | 502 / 544 | 1539 / 1632 | **94.30%** |
+| [Sega - Master System - Mark III](out/.txt) | 540 / 544 | 504 / 544 | 504 / 544 | 1548 / 1632 | **94.85%** |
 | [Sega - Mega Drive - Genesis](out/.txt) | 1553 / 1705 | 1661 / 1705 | 1661 / 1705 | 4875 / 5115 | **95.31%** |
 | [Sega - Mega-CD - Sega CD](out/.txt) | 143 / 307 | 73 / 307 | 73 / 307 | 289 / 921 | **31.38%** |
 | [Sega - PICO](out/.txt) | 0 / 342 | 13 / 342 | 12 / 342 | 25 / 1026 | **2.44%** |
@@ -99,7 +99,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [VTech - CreatiVision](out/.txt) | 20 / 20 | 20 / 20 | 20 / 20 | 60 / 60 | **100.00%** |
 | [VTech - V.Smile](out/.txt) | 1 / 98 | 1 / 98 | 1 / 98 | 3 / 294 | **1.02%** |
 | [Watara - Supervision](out/.txt) | 63 / 63 | 63 / 63 | 63 / 63 | 189 / 189 | **100.00%** |
-| **Total** | **20838 / 91145** | **25698 / 91145** | **24919 / 91145** | **71455 / 273435** | **26.13%** |
+| **Total** | **20987 / 91145** | **25709 / 91145** | **24930 / 91145** | **71626 / 273435** | **26.19%** |
 
 ## Build
 
