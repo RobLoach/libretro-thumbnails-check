@@ -1,9 +1,9 @@
 Nintendo - Super Nintendo Entertainment System Missing
 
 Boxarts   3324/3453  96.26%
-Snaps     3037/3453  87.95%
-Titles    3037/3453  87.95%
-Total    9398/10359  90.72%
+Snaps     3059/3453  88.59%
+Titles    3059/3453  88.59%
+Total    9442/10359  91.15%
 
 Name                                                                              Boxart  Snap  Title
 3 Jigen Kakutou Ballz (Japan) (Sample)                                               ✓      ✗     ✗
@@ -28,7 +28,7 @@ Bass Masters Classic - Pro Edition (Europe)                                     
 Bass Masters Classic - Pro Edition (USA)                                             ✓      ✗     ✗
 Bass Masters Classic (Japan)                                                         ✓      ✗     ✗
 Bass Masters Classic (USA)                                                           ✓      ✗     ✗
-Batman (USA) (Proto) [b]                                                             ✗      ✗     ✗
+Batman (USA) (Proto) [b]                                                             ✗      ✓     ✓
 Batman Forever (Japan) (En)                                                          ✓      ✗     ✗
 Batman Returns (Japan) (En)                                                          ✓      ✗     ✗
 Battle Blaze (Japan) (En)                                                            ✓      ✗     ✗
@@ -49,7 +49,7 @@ Chavez (USA) (Es)                                                               
 Chavez II (USA) (Es)                                                                 ✓      ✗     ✗
 Chibi Maruko-chan - Mezase! Minami no Island!! (Japan) (Sample)                      ✓      ✗     ✗
 Choplifter III - Rescue-Survive (Japan) (En)                                         ✓      ✗     ✗
-Choplifter III - Rescue-Survive (USA) (Beta) [b]                                     ✗      ✗     ✗
+Choplifter III - Rescue-Survive (USA) (Beta) [b]                                     ✗      ✓     ✓
 Chou Gojira - Super Godzilla (Japan)                                                 ✓      ✗     ✗
 Chou Gojira - Super Godzilla (Japan) (Rev 1)                                         ✓      ✗     ✗
 Chou Makaimura (Japan)                                                               ✓      ✗     ✗
@@ -103,8 +103,8 @@ Foreman for Real (Japan) (En)                                                   
 Frank Thomas Big Hurt Baseball (Japan) (En)                                          ✓      ✗     ✗
 Gakkou de Atta Kowai Hanashi (Japan) (Rev 1) (NP)                                    ✗      ✗     ✗
 Galaxy Wars (Japan) (En)                                                             ✓      ✗     ✗
-Game Genie (USA) (Alt 1) (Unl) [b]                                                   ✗      ✗     ✗
-Game Genie (USA) (Unl) [b]                                                           ✗      ✗     ✗
+Game Genie (USA) (Alt 1) (Unl) [b]                                                   ✗      ✓     ✓
+Game Genie (USA) (Unl) [b]                                                           ✗      ✓     ✓
 Game Genie (USA) (v2.0) (Unl)                                                        ✗      ✓     ✓
 Game Saver (Europe) (v1.6) (Unl)                                                     ✗      ✓     ✓
 Game Saver (Europe) (v1.7) (Unl)                                                     ✗      ✓     ✓
@@ -176,7 +176,7 @@ Lord Monarch (Japan) (Rev 1) (NP)                                               
 Lost Vikings II, The - Norse by Norsewest (Europe) (En,Fr,De)                        ✓      ✗     ✗
 Lufia _ the Fortress of Doom (USA)                                                   ✓      ✗     ✗
 Lufia _ the Fortress of Doom (USA) (Beta)                                            ✓      ✗     ✗
-M.A.C.S. Basic Rifle Marksmanship (USA) [b]                                          ✗      ✗     ✗
+M.A.C.S. Basic Rifle Marksmanship (USA) [b]                                          ✗      ✓     ✓
 Magical Drop 2 (Japan) (Bunka Housou Special Version)                                ✓      ✗     ✗
 Mahjong Taikai II (Japan) (Rev 1)                                                    ✓      ✗     ✗
 Major Title (Europe)                                                                 ✓      ✗     ✗
@@ -187,7 +187,7 @@ Mazinger Z (Japan) (Putative Beta)                                              
 MechWarrior (Italy)                                                                  ✓      ✗     ✗
 Mega-lo-Mania (Europe) (En,Fr,De)                                                    ✗      ✗     ✗
 Metal Jack (USA) (Proto)                                                             ✓      ✗     ✗
-Mick _ Mack as the Global Gladiators (USA) (Proto) [b]                               ✗      ✗     ✗
+Mick _ Mack as the Global Gladiators (USA) (Proto) [b]                               ✗      ✓     ✓
 Might and Magic II (Europe)                                                          ✓      ✗     ✗
 Might and Magic II (Germany)                                                         ✓      ✗     ✗
 Mighty Morphin Power Rangers (Japan) (En)                                            ✓      ✗     ✗
@@ -261,9 +261,9 @@ PowerFest 94 - Super Mario Bros. - The Lost Levels (USA)                        
 PowerFest 94 - Super Mario Kart (USA)                                                ✗      ✗     ✗
 Prime (USA) (Proto)                                                                  ✗      ✓     ✓
 Prince of Persia 2 - The Shadow _ the Flame (USA) (Beta)                             ✓      ✗     ✗
-Pro Action Replay (Europe) (Unl) [b]                                                 ✗      ✗     ✗
-Pro Action Replay MK2 (Europe) (Unl) [b]                                             ✗      ✗     ✗
-Pro Action Replay MK2 (Europe) (v1.1) (Unl) [b]                                      ✗      ✗     ✗
+Pro Action Replay (Europe) (Unl) [b]                                                 ✗      ✓     ✓
+Pro Action Replay MK2 (Europe) (Unl) [b]                                             ✗      ✓     ✓
+Pro Action Replay MK2 (Europe) (v1.1) (Unl) [b]                                      ✗      ✓     ✓
 Pro Action Replay MK3 (Europe) (Unl)                                                 ✗      ✓     ✓
 Pro Football (Japan) (En)                                                            ✓      ✗     ✗
 R-Type III - The Third Lightning (Japan) (En)                                        ✓      ✗     ✗
@@ -302,16 +302,16 @@ Simpsons, The - Bart no Fushigi na Yume no Daibouken (Japan) (En)               
 Sky Mission (Japan) (En)                                                             ✓      ✗     ✗
 Skyblazer (USA) (Beta 1)                                                             ✓      ✗     ✗
 Skyblazer (USA) (Beta 2)                                                             ✓      ✗     ✗
-SM Choukyoushi Hitomi - Bangai Hen (Japan) (Unl) [b]                                 ✗      ✗     ✗
-SM Choukyoushi Hitomi - Bangai Hen 2 - Maki no Love Love Panic (Japan) (Unl) [b]     ✗      ✗     ✗
-SM Choukyoushi Hitomi - Test Version (Japan) (Unl) [b]                               ✗      ✗     ✗
-SM Choukyoushi Hitomi (Japan) (Unl) [b]                                              ✗      ✗     ✗
-SM Choukyoushi Hitomi Vol. 2 - Trial Version (Japan) (Unl) [b]                       ✗      ✗     ✗
+SM Choukyoushi Hitomi - Bangai Hen (Japan) (Unl) [b]                                 ✗      ✓     ✓
+SM Choukyoushi Hitomi - Bangai Hen 2 - Maki no Love Love Panic (Japan) (Unl) [b]     ✗      ✓     ✓
+SM Choukyoushi Hitomi - Test Version (Japan) (Unl) [b]                               ✗      ✓     ✓
+SM Choukyoushi Hitomi (Japan) (Unl) [b]                                              ✗      ✓     ✓
+SM Choukyoushi Hitomi Vol. 2 - Trial Version (Japan) (Unl) [b]                       ✗      ✓     ✓
 SM Choukyoushi Hitomi Vol. 2 (Japan) (Unl)                                           ✗      ✓     ✓
-SM Choukyoushi Hitomi Vol. 2 Remix (Japan) (Unl) [b]                                 ✗      ✗     ✗
-SM Choukyoushi Hitomi Vol. 3 - Test Version (Japan) (Unl) [b]                        ✗      ✗     ✗
-SM Choukyoushi Hitomi Vol. 3 (Japan) (Alt 1) (Unl) [b]                               ✗      ✗     ✗
-SM Choukyoushi Hitomi Vol. 3 (Japan) (Unl) [b]                                       ✗      ✗     ✗
+SM Choukyoushi Hitomi Vol. 2 Remix (Japan) (Unl) [b]                                 ✗      ✓     ✓
+SM Choukyoushi Hitomi Vol. 3 - Test Version (Japan) (Unl) [b]                        ✗      ✓     ✓
+SM Choukyoushi Hitomi Vol. 3 (Japan) (Alt 1) (Unl) [b]                               ✗      ✓     ✓
+SM Choukyoushi Hitomi Vol. 3 (Japan) (Unl) [b]                                       ✗      ✓     ✓
 Smash T.V. (Japan) (En)                                                              ✓      ✗     ✗
 SNES Burn-in Test Cartridge (Unknown) (Rev D)                                        ✗      ✓     ✓
 Soul Blade (World) (Unl) (Pirate)                                                    ✗      ✗     ✗
@@ -323,7 +323,7 @@ Spider-Man - Venom - Maximum Carnage (Europe)                                   
 Spider-Man - Venom - Maximum Carnage (USA)                                           ✓      ✗     ✗
 Spider-Man - X-Men - Arcade's Revenge (Europe)                                       ✓      ✗     ✗
 Spider-Man - X-Men - Arcade's Revenge (USA)                                          ✓      ✗     ✗
-Spider-Man and the X-Men in Arcade's Revenge (USA) (Beta) [b]                        ✗      ✗     ✗
+Spider-Man and the X-Men in Arcade's Revenge (USA) (Beta) [b]                        ✗      ✓     ✓
 Spindizzy Worlds (Japan) (En)                                                        ✓      ✗     ✗
 Squaresoft Mode 7 Demo (USA) (Demo)                                                  ✗      ✗     ✗
 Star Fox (USA) (Rev 1)                                                               ✗      ✗     ✗
@@ -374,7 +374,7 @@ Super Off Road (Japan) (En)                                                     
 Super Okumanchouja Game (Japan) (Rev 1) (NP)                                         ✓      ✗     ✗
 Super Oozumou - Nessen Ooichiban (Japan) (Beta)                                      ✓      ✗     ✗
 Super Probotector - Alien Rebels (Europe) (Sample)                                   ✓      ✗     ✗
-Super Putty (Europe) (Beta) [b]                                                      ✗      ✗     ✗
+Super Putty (Europe) (Beta) [b]                                                      ✗      ✓     ✓
 Super R-Type (Japan) (En)                                                            ✓      ✗     ✗
 Super Shadow of the Beast (USA) (Proto)                                              ✗      ✓     ✓
 Super Shanghai - Dragon's Eye (Japan) (Activision)                                   ✓      ✗     ✗
@@ -390,13 +390,13 @@ Super Turrican (Japan) (En)                                                     
 Super Turrican 2 (USA) (Beta 1)                                                      ✓      ✗     ✗
 Super Turrican 2 (USA) (Beta 2)                                                      ✓      ✗     ✗
 Super Uno (Japan) (Beta)                                                             ✓      ✗     ✗
-Super X-Terminator 2 Sasuke (Japan) (Unl) [b]                                        ✗      ✗     ✗
+Super X-Terminator 2 Sasuke (Japan) (Unl) [b]                                        ✗      ✓     ✓
 Suzuka 8 Hours (Japan) (En)                                                          ✓      ✗     ✗
 Suzuki Aguri no F-1 Super Driving (Japan) (En)                                       ✓      ✗     ✗
 Sword World SFC 2 - Inishie no Kyojin Densetsu (Japan) (Rev 1)                       ✓      ✗     ✗
 Sylvester and Tweety (USA) (Proto 1)                                                 ✗      ✗     ✗
 Sylvester and Tweety (USA) (Proto 2)                                                 ✗      ✗     ✗
-Taiwan 16 Mahjong II - Horoscope Girls Edition (Hong Kong) (Unl) [b]                 ✗      ✗     ✗
+Taiwan 16 Mahjong II - Horoscope Girls Edition (Hong Kong) (Unl) [b]                 ✗      ✓     ✓
 Tamagotch Town (Japan) (NP)                                                          ✗      ✓     ✓
 Targa (Europe) (Proto)                                                               ✗      ✗     ✗
 Tecmo Super Baseball (Japan) (En)                                                    ✓      ✗     ✗

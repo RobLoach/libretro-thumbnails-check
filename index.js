@@ -73,7 +73,8 @@ function processSystem(system) {
  * - title
  */
 function getGameThumbnails(thumbs, system, name) {
-	var out = minimatch.match(thumbs, system + '/*/' + name + '.png', {matchBase: true})
+	var filename = name.split('[').join('\\[').split(']').join('\\]')
+	var out = minimatch.match(thumbs, system + '/*/' + filename + '.png', {matchBase: true})
 	var result = {}
 	for (var i in out) {
 		var str = out[i]
