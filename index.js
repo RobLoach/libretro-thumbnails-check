@@ -160,7 +160,10 @@ function writeReport(system, games, thumbs) {
 
 		let orphans = ''
 		for (let o in thumbs) {
-			orphans += '\n' + thumbs[o].replace(system + '/', '').replace(libretroThumbnailsPath, '')
+			// Ignore the .git folder.
+			if (thumbs[o].indexOf('.git') < 0) {
+				orphans += '\n' + thumbs[o].replace(system + '/', '').replace(libretroThumbnailsPath, '')
+			}
 		}
 		if (orphans.length >= 5) {
 			orphans = system + ' Orphans\n' + orphans
