@@ -1,9 +1,9 @@
 Sega - Mega Drive - Genesis Missing
 
-Boxarts  1558/1705  91.38%
-Snaps    1671/1705  98.01%
-Titles   1671/1705  98.01%
-Total    4900/5115  95.80%
+Boxarts  1555/1709  90.99%
+Snaps    1668/1709  97.60%
+Titles   1668/1709  97.60%
+Total    4891/5127  95.40%
 
 Name                                                                        Boxart  Snap  Title
 16t (Japan) (SegaNet)                                                          ✗      ✓     ✓
@@ -31,6 +31,8 @@ Bill's Tomato Game (USA) (Proto)                                               �
 Bio Hazard Battle (USA) (Beta)                                                 ✗      ✓     ✓
 Blaster Master 2 (USA) (Beta)                                                  ✗      ✓     ✓
 Bomboy (Taiwan) (Unl)                                                          ✗      ✓     ✓
+Cave Story (NTSC) (v0.4.0)                                                     ✗      ✗     ✗
+Cave Story (PAL) (v0.4.0)                                                      ✗      ✗     ✗
 Chao Ji Da Fu Weng (China) (Unl)                                               ✗      ✓     ✓
 Chaos Engine 2, The (Europe) (Proto)                                           ✗      ✓     ✓
 Comix Zone (USA) (Sega Smash Pack)                                             ✗      ✗     ✗
@@ -81,6 +83,8 @@ MegaNet (Brazil) (Program)                                                     �
 Might and Magic III - Isles of Terra (USA) (Proto)                             ✗      ✓     ✓
 Monster World IV (USA, Europe) (En,Ja) (Virtual Console)                       ✓      ✗     ✗
 Mr. Nutz Hoppin' Mad (Europe) (Proto)                                          ✗      ✗     ✗
+NFL Pro Football '94 (Japan)                                                   ✗      ✗     ✗
+NFL Sports Talk Football '93 Starring Joe Montana (USA, Europe) (Rev A)        ✗      ✗     ✗
 Ninja Gaiden (Japan) (Proto) [b]                                               ✗      ✓     ✓
 OutRun (USA, Europe) (Sega Smash Pack)                                         ✗      ✗     ✗
 Phantasy Star II - Amia's Adventure (Japan) (SegaNet)                          ✗      ✓     ✓
@@ -112,6 +116,7 @@ Scrabble (Europe) (Proto)                                                      �
 Sega Channel (USA) (General Instrument) (Program)                              ✗      ✓     ✓
 Sega Channel (USA) (Scientific Atlanta) (Program)                              ✗      ✓     ✓
 Sega Channel Demo (USA) (Program)                                              ✗      ✓     ✓
+Shadowrun (Asia)                                                               ✗      ✗     ✗
 Shanghai II - Dragon's Eye (USA) (Beta)                                        ✗      ✓     ✓
 Shi Jie Zhi Bang Zheng Ba Zhan - World Pro Baseball 94 (China) (Unl)           ✗      ✓     ✓
 Shi no Meikyuu - Labyrinth of Death (Japan) (SegaNet)                          ✗      ✓     ✓
@@ -132,6 +137,7 @@ Star Odyssey (USA) (Beta) (1992-1-16)                                          �
 Stargate (USA) (Sample) (NGen)                                                 ✗      ✗     ✗
 Stone Protectors (USA) (Proto)                                                 ✗      ✓     ✓
 Story of Thor, The (Japan) (Beta) [b]                                          ✗      ✓     ✓
+Sub-Terrania (Asia)                                                            ✗      ✗     ✗
 Super Hang-On (World) (Sega Smash Pack)                                        ✗      ✗     ✗
 Swamp Thing (USA) (Proto)                                                      ✗      ✓     ✓
 Sylvester and Tweety in Cagey Capers (USA) (Beta)                              ✗      ✓     ✓
@@ -150,6 +156,7 @@ Vectorman (USA, Europe) (Sega Smash Pack)                                      �
 Vectorman 2 (USA) (Beta)                                                       ✗      ✓     ✓
 Wacky Races (USA) (Proto)                                                      ✗      ✓     ✓
 Wild Snake (USA) (Proto)                                                       ✗      ✓     ✓
+World Heroes (Asia)                                                            ✗      ✗     ✗
 Wu Kong Wai Zhuan (China) (Unl)                                                ✗      ✓     ✓
 Xiao Monv - Magic Girl (China) (Unl)                                           ✗      ✓     ✓
 Ya Se Chuan Shuo (China) (Unl)                                                 ✗      ✓     ✓

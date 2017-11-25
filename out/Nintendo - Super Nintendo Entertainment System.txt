@@ -1,9 +1,9 @@
 Nintendo - Super Nintendo Entertainment System Missing
 
-Boxarts   3324/3453  96.26%
-Snaps     3059/3453  88.59%
-Titles    3059/3453  88.59%
-Total    9442/10359  91.15%
+Boxarts   3318/3476  95.45%
+Snaps     3055/3476  87.89%
+Titles    3055/3476  87.89%
+Total    9428/10428  90.41%
 
 Name                                                                              Boxart  Snap  Title
 3 Jigen Kakutou Ballz (Japan) (Sample)                                               ✓      ✗     ✗
@@ -32,8 +32,9 @@ Batman (USA) (Proto) [b]                                                        
 Batman Forever (Japan) (En)                                                          ✓      ✗     ✗
 Batman Returns (Japan) (En)                                                          ✓      ✗     ✗
 Battle Blaze (Japan) (En)                                                            ✓      ✗     ✗
+Battle Dodge Ball (Japan)                                                            ✗      ✗     ✗
 Battle Grand Prix (Japan) (En)                                                       ✓      ✗     ✗
-Beethoven's 2nd (USA) (Beta) (Build Date_ 1993-09-13)                                ✗      ✗     ✗
+Beethoven's 2nd (USA) (Beta)                                                         ✗      ✗     ✗
 BioMetal (Japan) (En)                                                                ✓      ✗     ✗
 Bishoujo Senshi Sailor Moon SuperS - Fuwafuwa Panic (Japan)                          ✓      ✗     ✗
 Bishoujo Senshi Sailor Moon SuperS - Zenin Sanka!! Shuyaku Soudatsusen (Japan)       ✓      ✗     ✗
@@ -58,6 +59,7 @@ Columns (Japan) (NP)                                                            
 Contra III - The Alien Wars (USA) (Beta)                                             ✓      ✗     ✗
 Contra IV - The Alien Wars (USA) (Beta)                                              ✓      ✗     ✗
 Contra Spirits (Japan) (Demo)                                                        ✓      ✗     ✗
+CX4 (World) (Enhancement Chip)                                                       ✗      ✗     ✗
 Daffy Duck - The Marvin Missions (USA) (Sample)                                      ✓      ✗     ✗
 Daibakushou Jinsei Gekijou - Zukkoke Salaryman Hen (Japan) (Rev 1) (NP)              ✓      ✗     ✗
 Darius Force (Japan) (En)                                                            ✓      ✗     ✗
@@ -66,7 +68,7 @@ David Crane's Amazing Tennis (USA) (Arcade)                                     
 Death and Return of Superman, The (USA) (Rev 1)                                      ✓      ✗     ✗
 Demon's Blazon - Makaimura Monshou Hen (Japan)                                       ✓      ✗     ✗
 Demon's Blazon - Makaimura Monshou Hen (Japan) (Sample)                              ✓      ✗     ✗
-Denz Traffic Panic (Japan) (Beta)                                                    ✗      ✗     ✗
+Den'z Traffic Panic (Japan) (Beta)                                                   ✗      ✗     ✗
 Derby Jockey 2 (Japan) (Rev 1)                                                       ✗      ✗     ✗
 Dimension-Force (Japan) (En)                                                         ✓      ✗     ✗
 Dokapon 3-2-1 - Arashi o Yobu Yuujou (Japan) (Rev 1)                                 ✓      ✗     ✗
@@ -79,7 +81,12 @@ Dr. Mario (Japan) (En) (NP)                                                     
 Dragon's Magic (Japan) (En)                                                          ✓      ✗     ✗
 Dream TV (USA) (Beta 1)                                                              ✓      ✗     ✗
 Dream TV (USA) (Beta 2)                                                              ✓      ✗     ✗
+DSP1 (World) (Enhancement Chip)                                                      ✗      ✗     ✗
+DSP1 B (World) (Enhancement Chip)                                                    ✗      ✗     ✗
 DSP1 Tech Demo (USA) (Demo)                                                          ✗      ✗     ✗
+DSP2 (World) (Enhancement Chip)                                                      ✗      ✗     ✗
+DSP3 (Japan) (Enhancement Chip)                                                      ✗      ✗     ✗
+DSP4 (World) (Enhancement Chip)                                                      ✗      ✗     ✗
 Earthworm Jim (Europe) (GamesMaster Special Edition)                                 ✓      ✗     ✗
 Estpolis Denki (Japan) (Rev 1)                                                       ✓      ✗     ✗
 Eurit (USA) (Proto)                                                                  ✗      ✓     ✓
@@ -103,6 +110,7 @@ Foreman for Real (Japan) (En)                                                   
 Frank Thomas Big Hurt Baseball (Japan) (En)                                          ✓      ✗     ✗
 Gakkou de Atta Kowai Hanashi (Japan) (Rev 1) (NP)                                    ✗      ✗     ✗
 Galaxy Wars (Japan) (En)                                                             ✓      ✗     ✗
+Gambler Jiko Chuushinha - Mahjong Ooisen (Japan)                                     ✗      ✗     ✗
 Game Genie (USA) (Alt 1) (Unl) [b]                                                   ✗      ✓     ✓
 Game Genie (USA) (Unl) [b]                                                           ✗      ✓     ✓
 Game Genie (USA) (v2.0) (Unl)                                                        ✗      ✓     ✓
@@ -152,11 +160,13 @@ Jaleco Rally Big Run - The Supreme 4WD Challenge (Japan) (En)                   
 Jeff's Shoot'Em Up (USA) (Proto)                                                     ✗      ✗     ✗
 Jelly Boy 2 (Japan) (Proto)                                                          ✗      ✓     ✓
 Jikkyou Powerful Pro Yakyuu 2 (Japan) (Rev 2)                                        ✓      ✗     ✗
+Jikkyou Powerful Pro Yakyuu 3 (Japan) (Rev 1)                                        ✗      ✗     ✗
 Jikkyou World Soccer 2 - Fighting Eleven (Japan) (Rev 1) (NP)                        ✓      ✗     ✗
 JRA PAT - Wide Taiouban (Japan) (TJDJ)                                               ✗      ✗     ✗
 JRA PAT - Wide Taiouban (Japan) (TJEJ)                                               ✗      ✗     ✗
 JRA PAT (Japan) (TJAJ)                                                               ✗      ✓     ✓
 JRA PAT (Japan) (TJBJ)                                                               ✗      ✓     ✓
+JRA PAT (Japan) (TJCJ)                                                               ✗      ✗     ✗
 Judge Dredd (Japan) (En)                                                             ✓      ✗     ✗
 Jungle Book, The (Japan) (En)                                                        ✓      ✗     ✗
 Justice League Task Force (Japan) (En)                                               ✓      ✗     ✗
@@ -188,6 +198,7 @@ MechWarrior (Italy)                                                             
 Mega-lo-Mania (Europe) (En,Fr,De)                                                    ✗      ✗     ✗
 Metal Jack (USA) (Proto)                                                             ✓      ✗     ✗
 Mick _ Mack as the Global Gladiators (USA) (Proto) [b]                               ✗      ✓     ✓
+Mickey Mania - The Timeless Adventures of Mickey Mouse (Japan) (Beta)                ✗      ✗     ✗
 Might and Magic II (Europe)                                                          ✓      ✗     ✗
 Might and Magic II (Germany)                                                         ✓      ✗     ✗
 Mighty Morphin Power Rangers (Japan) (En)                                            ✓      ✗     ✗
@@ -217,7 +228,7 @@ Pac-In-Time (Europe)                                                            
 Pac-In-Time (Europe) (Beta)                                                          ✓      ✗     ✗
 Pac-In-Time (Japan)                                                                  ✓      ✗     ✗
 Pac-In-Time (USA)                                                                    ✓      ✗     ✗
-Pagemaster, The (USA) (Beta 1)                                                       ✓      ✗     ✗
+Pagemaster, The (USA) (Beta 1) [b]                                                   ✗      ✗     ✗
 Pagemaster, The (USA) (Beta 2)                                                       ✓      ✗     ✗
 Parame ROM Cassette Vol. 1 (Japan) (Unl)                                             ✗      ✗     ✗
 Parame ROM Cassette Vol. 2 (Japan) (Unl)                                             ✗      ✗     ✗
@@ -270,6 +281,7 @@ R-Type III - The Third Lightning (Japan) (En)                                   
 R.P.M. Racing (Japan) (En)                                                           ✓      ✗     ✗
 Ramos Ruy no World Wide Soccer (Japan) (En)                                          ✓      ✗     ✗
 Rap Basketball (USA) (Proto)                                                         ✗      ✓     ✓
+Rayman (USA) (Proto)                                                                 ✗      ✗     ✗
 Red October (Japan)                                                                  ✓      ✗     ✗
 Rendering Ranger R2 (Japan) (En)                                                     ✓      ✗     ✗
 Return of Double Dragon (Japan) (En)                                                 ✓      ✗     ✗
@@ -287,6 +299,8 @@ Romancing Sa-Ga 3 (Japan) (Sample)                                              
 Ryuuko no Ken (Japan) (Rev 1)                                                        ✓      ✗     ✗
 S.O.S - Sink or Swim (Europe)                                                        ✓      ✗     ✗
 S.O.S - Sink or Swim (USA)                                                           ✓      ✗     ✗
+SGB-CPU (World) (Enhancement Chip)                                                   ✗      ✗     ✗
+SGB2-CPU (Japan) (Enhancement Chip)                                                  ✗      ✗     ✗
 Shadow, The (USA) (Proto 1)                                                          ✓      ✗     ✗
 Shadow, The (USA) (Proto 2)                                                          ✓      ✗     ✗
 Shadowhawk (USA) (Proto)                                                             ✗      ✗     ✗
@@ -326,9 +340,16 @@ Spider-Man - X-Men - Arcade's Revenge (USA)                                     
 Spider-Man and the X-Men in Arcade's Revenge (USA) (Beta) [b]                        ✗      ✓     ✓
 Spindizzy Worlds (Japan) (En)                                                        ✓      ✗     ✗
 Squaresoft Mode 7 Demo (USA) (Demo)                                                  ✗      ✗     ✗
+ST010 (Japan, USA) (Enhancement Chip)                                                ✗      ✗     ✗
+ST011 (Japan) (Enhancement Chip)                                                     ✗      ✗     ✗
+ST018 (Japan) (Enhancement Chip)                                                     ✗      ✗     ✗
 Star Fox (USA) (Rev 1)                                                               ✗      ✗     ✗
+Star Fox 2 (Japan)                                                                   ✓      ✗     ✗
+Star Fox 2 (Japan) (En) (Proto 2)                                                    ✗      ✗     ✗
+Star Fox 2 (Japan) (En) (Proto 3)                                                    ✗      ✗     ✗
 Star Fox 2 (Japan) (Proto 1)                                                         ✓      ✗     ✗
-Star Fox 2 (Japan) (Proto 2)                                                         ✓      ✗     ✗
+Star Fox 2 (Japan) (Proto 4)                                                         ✗      ✗     ✗
+Star Fox 2 (USA)                                                                     ✓      ✗     ✗
 Steven Seagal Is The Final Option (USA) (Proto)                                      ✗      ✓     ✓
 Street Combat (Europe) (Putative Proto)                                              ✓      ✗     ✗
 Street Fighter EX (World) (Unl) (Pirate)                                             ✗      ✗     ✗
@@ -381,6 +402,9 @@ Super Shanghai - Dragon's Eye (Japan) (Activision)                              
 Super Shanghai - Dragon's Eye (Japan) (HOT B)                                        ✓      ✗     ✗
 Super Slap Shot (Japan) (En)                                                         ✓      ✗     ✗
 Super Soccer (USA) (Arcade)                                                          ✓      ✗     ✗
+Super Star Fox Weekend (USA)                                                         ✗      ✗     ✗
+Super Star Wars (USA) (Beta 1)                                                       ✗      ✗     ✗
+Super Star Wars (USA) (Beta 2) [b]                                                   ✗      ✗     ✗
 Super SWIV (Japan) (En)                                                              ✓      ✗     ✗
 Super Tennis (USA) (Arcade)                                                          ✓      ✗     ✗
 Super Tetris 2 + Bombliss (Japan) (En)                                               ✓      ✗     ✗
@@ -415,7 +439,7 @@ Tinhead (Europe) (Proto)                                                        
 Todd McFarlane's Spawn - The Video Game (Europe)                                     ✓      ✗     ✗
 Todd McFarlane's Spawn - The Video Game (Japan) (En) (Putative Proto)                ✗      ✗     ✗
 Todd McFarlane's Spawn - The Video Game (USA)                                        ✓      ✗     ✗
-Tony Meola's Sidekicks Soccer (USA) (Beta)                                           ✓      ✗     ✗
+Tony Meola's Sidekicks Soccer (USA) (Beta) [b]                                       ✗      ✗     ✗
 Top Racer (Japan) (En)                                                               ✓      ✗     ✗
 Top Racer 2 (Japan) (En)                                                             ✓      ✗     ✗
 Torneko no Daibouken - Fushigi no Dungeon (Japan)                                    ✓      ✗     ✗
@@ -429,6 +453,7 @@ True Lies (Germany) (En)                                                        
 True Lies (Japan) (En)                                                               ✓      ✗     ✗
 Tsukikomori (Japan) (Rev 1) (NP)                                                     ✓      ✗     ✗
 Ultimate Football (Japan) (En)                                                       ✓      ✗     ✗
+Ultra Seven (Japan) (Sample)                                                         ✗      ✗     ✗
 Umizuri Meijin - Suzuki Hen (Japan) (Beta)                                           ✓      ✗     ✗
 Undake 30 Same Game Daisakusen - Mario Version (Japan)                               ✗      ✓     ✓
 USA Ice Hockey (Japan) (En)                                                          ✓      ✗     ✗
@@ -443,7 +468,6 @@ Warlock (USA) (Beta 2)                                                          
 Wild Snake (USA)                                                                     ✓      ✗     ✗
 Wile E's Revenge (Europe) (Proto)                                                    ✗      ✗     ✗
 Williams Arcade's Greatest Hits (Europe)                                             ✓      ✗     ✗
-Williams Arcade's Greatest Hits (USA)                                                ✓      ✗     ✗
 Wizardry I-II-III - Story of Llylgamyn (Japan) (En,Ja) (NP)                          ✗      ✗     ✗
 Wizardry V - Saika no Chuushin (Japan) (En,Ja)                                       ✓      ✗     ✗
 Wolfenstein 3D (USA) (Beta 1)                                                        ✓      ✗     ✗
@@ -458,6 +482,7 @@ WWF Royal Rumble (Europe) (Rev 1)                                               
 WWF Royal Rumble (Japan) (En)                                                        ✓      ✗     ✗
 WWF Super WrestleMania (Japan) (En)                                                  ✓      ✗     ✗
 WWF WrestleMania - The Arcade Game (Japan) (En)                                      ✓      ✗     ✗
+WWF WrestleMania - The Arcade Game (USA) (Beta)                                      ✗      ✗     ✗
 X (Japan) (Proto)                                                                    ✗      ✓     ✓
 X-Men vs. Street Fighter (World) (Unl) (Pirate)                                      ✗      ✗     ✗
 Yogi Bear (Japan) (En)                                                               ✓      ✗     ✗
@@ -467,6 +492,8 @@ Yu Yu Hakusho - Tokubetsu Hen (Japan)                                           
 Yu Yu Hakusho (Japan)                                                                ✓      ✗     ✗
 Yu Yu Hakusho 2 - Kakutou no Shou (Japan)                                            ✓      ✗     ✗
 Yu Yu Hakusho Final - Makai Saikyou Retsuden (Japan)                                 ✓      ✗     ✗
+Zaitaku Touhyou System - SPAT4 Cassette (Japan) (TOAJ)                               ✗      ✗     ✗
+Zaitaku Touhyou System - SPAT4-Wide (Japan) (TOBJ)                                   ✗      ✗     ✗
 Zoop (USA) (Beta)                                                                    ✓      ✗     ✗
 Zootto Mahjong! (Japan) (NP)                                                         ✗      ✓     ✓
 Zootto Mahjong! (Japan) (Rev 1) (NP)                                                 ✗      ✗     ✗
