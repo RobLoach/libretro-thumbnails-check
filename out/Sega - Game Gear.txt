@@ -1,20 +1,18 @@
 Sega - Game Gear Missing
 
-Boxarts    388/500  77.60%
-Snaps      492/500  98.40%
-Titles     492/500  98.40%
-Total    1372/1500  91.47%
+Boxarts    394/500  78.80%
+Snaps      494/500  98.80%
+Titles     494/500  98.80%
+Total    1382/1500  92.13%
 
 Name                                                                 Boxart  Snap  Title
 Car Licence (Japan)                                                     ✗      ✓     ✓
 Cave Dude (USA) (Proto)                                                 ✗      ✗     ✗
 CJ Elephant Fugitive (Europe)                                           ✗      ✗     ✗
-Coca-Cola Kid (Japan)                                                   ✗      ✓     ✓
 Crayon Shin-chan - Taiketsu! Kantam Panic!! (Japan)                     ✗      ✓     ✓
 Crazy Faces (Unknown) (Proto)                                           ✗      ✗     ✗
 Cutthroat Island (USA, Europe) (Beta)                                   ✓      ✗     ✗
 David Robinson's Supreme Court (USA) (Auto Demo)                        ✗      ✗     ✗
-Doraemon - Noranosuke no Yabou (Japan)                                  ✗      ✓     ✓
 Doraemon - Waku Waku Pocket Paradise (Japan)                            ✗      ✓     ✓
 Dr. Franken (Unknown) (Proto)                                           ✗      ✓     ✓
 Ecco the Dolphin (Japan)                                                ✗      ✓     ✓
@@ -83,8 +81,6 @@ Popeye no Beach Volleyball (Japan)                                      ✗     
 Pro Yakyuu '91, The (Japan)                                             ✗      ✓     ✓
 Pro Yakyuu GG League '94 (Japan)                                        ✗      ✓     ✓
 Pro Yakyuu GG League (Japan)                                            ✗      ✓     ✓
-Puyo Puyo (Japan)                                                       ✗      ✓     ✓
-Puyo Puyo 2 (Japan)                                                     ✗      ✓     ✓
 Puzzle and Action Tanto-R (Japan)                                       ✗      ✓     ✓
 Quiz Gear Fight!!, The (Japan)                                          ✗      ✓     ✓
 Rastan Saga (Japan)                                                     ✗      ✓     ✓
@@ -96,8 +92,6 @@ Shikinjou (Japan)                                                       ✗     
 Shining Force Gaiden - Ensei, Jashin no Kuni e (Japan)                  ✗      ✓     ✓
 Smurfs Travel the World, The (Europe) (En,Fr,De,Es)                     ✗      ✓     ✓
 Smurfs, The (Europe) (En,Fr,De,Es)                                      ✗      ✓     ✓
-Sonic Drift (Japan) (En)                                                ✗      ✗     ✗
-Sonic Drift (Japan) (En) (Sample)                                       ✗      ✗     ✗
 Soukoban (Japan)                                                        ✗      ✓     ✓
 Spirou (Europe) (Proto)                                                 ✗      ✓     ✓
 Street Battle (USA) (Proto) (Unl)                                       ✗      ✗     ✗
