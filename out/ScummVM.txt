@@ -1,14 +1,14 @@
 ScummVM Missing
 
-Boxarts  12/185  6.49%
-Snaps     1/185  0.54%
-Titles   13/185  7.03%
-Total    26/555  4.68%
+Boxarts  0/185  0.00%
+Snaps    0/185  0.00%
+Titles   0/185  0.00%
+Total    0/555  0.00%
 
 Name                                                             Boxart  Snap  Title
 3 Skulls of the Toltecs                                             ✗      ✗     ✗
 Access                                                              ✗      ✗     ✗
-Amazon - Guardians of Eden                                          ✗      ✗     ✓
+Amazon - Guardians of Eden                                          ✗      ✗     ✗
 Backyard Baseball                                                   ✗      ✗     ✗
 Backyard Baseball 2001                                              ✗      ✗     ✗
 Backyard Baseball 2003                                              ✗      ✗     ✗
@@ -49,7 +49,7 @@ Cinematique evo.2 engine game                                       ✗      ✗
 Clouds of Xeen                                                      ✗      ✗     ✗
 Composer Game                                                       ✗      ✗     ✗
 Dark Side of Xeen                                                   ✗      ✗     ✗
-Day of the Tentacle                                                 ✓      ✗     ✗
+Day of the Tentacle                                                 ✗      ✗     ✗
 Deja Vu                                                             ✗      ✗     ✗
 Deja Vu II                                                          ✗      ✗     ✗
 Demon in my Pocket                                                  ✗      ✗     ✗
@@ -64,7 +64,7 @@ Eye of the Beholder                                                 ✗      ✗
 Eye of the Beholder II - The Legend of Darkmoon                     ✗      ✗     ✗
 Fatty Bear's Birthday Surprise                                      ✗      ✗     ✗
 Fatty Bear's Fun Pack                                               ✗      ✗     ✗
-Flight of the Amazon Queen                                          ✗      ✗     ✓
+Flight of the Amazon Queen                                          ✗      ✗     ✗
 Freddi Fish 1 - The Case of the Missing Kelp Seeds                  ✗      ✗     ✗
 Freddi Fish 2 - The Case of the Haunted Schoolhouse                 ✗      ✗     ✗
 Freddi Fish 3 - The Case of the Stolen Conch Shell                  ✗      ✗     ✗
@@ -74,7 +74,7 @@ Freddi Fish and Luther's Maze Madness                               ✗      ✗
 Freddi Fish and Luther's Water Worries                              ✗      ✗     ✗
 Freddi Fish's One-Stop Fun Shop                                     ✗      ✗     ✗
 Full Pipe                                                           ✗      ✗     ✗
-Full Throttle                                                       ✓      ✗     ✗
+Full Throttle                                                       ✗      ✗     ✗
 Gnap                                                                ✗      ✗     ✗
 Gob engine game                                                     ✗      ✗     ✗
 Groovie engine game                                                 ✗      ✗     ✗
@@ -90,8 +90,8 @@ Hugo 1 - Hugo's House of Horrors                                    ✗      ✗
 Hugo 2 - Whodunit                                                   ✗      ✗     ✗
 Hugo 3 - Jungle of Doom                                             ✗      ✗     ✗
 Humongous Interactive Catalog                                       ✗      ✗     ✗
-Indiana Jones and the Fate of Atlantis                              ✗      ✗     ✓
-Indiana Jones and the Last Crusade                                  ✓      ✗     ✓
+Indiana Jones and the Fate of Atlantis                              ✗      ✗     ✗
+Indiana Jones and the Last Crusade                                  ✗      ✗     ✗
 Indiana Jones and the Last Crusade and Loom                         ✗      ✗     ✗
 Indiana Jones and the Last Crusade and Zak McKracken                ✗      ✗     ✗
 Jumble                                                              ✗      ✗     ✗
@@ -100,22 +100,22 @@ Lands of Lore - The Throne of Chaos                                 ✗      ✗
 Let's Explore the Airport with Buzzy                                ✗      ✗     ✗
 Let's Explore the Farm with Buzzy                                   ✗      ✗     ✗
 Let's Explore the Jungle with Buzzy                                 ✗      ✗     ✗
-Loom                                                                ✗      ✗     ✓
+Loom                                                                ✗      ✗     ✗
 Lord Avalot d'Argent                                                ✗      ✗     ✗
 Lost Eden                                                           ✗      ✗     ✗
-Lost in Time                                                        ✓      ✗     ✗
+Lost in Time                                                        ✗      ✗     ✗
 Lure of the Temptress                                               ✗      ✗     ✗
 Macromedia Director Game                                            ✗      ✗     ✗
 MADE engine game                                                    ✗      ✗     ✗
 MADS                                                                ✗      ✗     ✗
 Magic Tales_ Liam Finds a Story                                     ✗      ✗     ✗
-Maniac Mansion                                                      ✓      ✗     ✓
+Maniac Mansion                                                      ✗      ✗     ✗
 Martian Memorandum                                                  ✗      ✗     ✗
 Mohawk Game                                                         ✗      ✗     ✗
-Monkey Island 2 - LeChuck's Revenge                                 ✗      ✗     ✓
+Monkey Island 2 - LeChuck's Revenge                                 ✗      ✗     ✗
 Moonbase Commander                                                  ✗      ✗     ✗
 Mortville Manor                                                     ✗      ✗     ✗
-Myst                                                                ✓      ✗     ✗
+Myst                                                                ✗      ✗     ✗
 Nippon Safes Inc.                                                   ✗      ✗     ✗
 NoPatience                                                          ✗      ✗     ✗
 Once Upon A Time_ Little Red Riding Hood                            ✗      ✗     ✗
@@ -145,13 +145,13 @@ Putt-Putt's One-Stop Fun Shop                                       ✗      ✗
 Return of the Phantom                                               ✗      ✗     ✗
 Rex Nebular and the Cosmic Gender Bender                            ✗      ✗     ✗
 SAGA Engine game                                                    ✗      ✗     ✗
-Sam and Max Hit the Road                                            ✗      ✗     ✓
+Sam and Max Hit the Road                                            ✗      ✗     ✗
 Sfinx                                                               ✗      ✗     ✗
 Shadowgate                                                          ✗      ✗     ✗
 Sierra AGI game                                                     ✗      ✗     ✗
 Sierra SCI Game                                                     ✗      ✗     ✗
-Simon the Sorcerer 1                                                ✓      ✗     ✓
-Simon the Sorcerer 2                                                ✗      ✗     ✓
+Simon the Sorcerer 1                                                ✗      ✗     ✗
+Simon the Sorcerer 2                                                ✗      ✗     ✗
 Sludge Game                                                         ✗      ✗     ✗
 Soltys                                                              ✗      ✗     ✗
 SPY Fox 1 - Dry Cereal                                              ✗      ✗     ✗
@@ -163,22 +163,23 @@ Starship Titanic                                                    ✗      ✗
 Swampy Adventures                                                   ✗      ✗     ✗
 Teen Agent                                                          ✗      ✗     ✗
 The Big Red Adventure                                               ✗      ✗     ✗
-The Bizarre Adventures of Woodruff and the Schnibble                ✓      ✗     ✗
+The Bizarre Adventures of Woodruff and the Schnibble                ✗      ✗     ✗
 The Black Cauldron                                                  ✗      ✗     ✗
 The Case of the Rose Tattoo                                         ✗      ✗     ✗
 The Case of the Serrated Scalpel                                    ✗      ✗     ✗
-The Curse of Monkey Island                                          ✓      ✗     ✓
-The Dig                                                             ✓      ✗     ✗
+The Curse of Monkey Island                                          ✗      ✗     ✗
+The Dig                                                             ✗      ✗     ✗
 The Feeble Files                                                    ✗      ✗     ✗
 The Journeyman Project - Pegasus Prime                              ✗      ✗     ✗
 The Last Express                                                    ✗      ✗     ✗
-The Legend of Kyrandia                                              ✓      ✗     ✗
+The Legend of Kyrandia                                              ✗      ✗     ✗
 The Legend of Kyrandia - Malcolm's Revenge                          ✗      ✗     ✗
 The Legend of Kyrandia - The Hand of Fate                           ✗      ✗     ✗
 The Neverhood Chronicles                                            ✗      ✗     ✗
+The Secret of Monkey Island                                         ✗      ✗     ✗
 Tinsel engine game                                                  ✗      ✗     ✗
 Tony Tough and the Night of Roasted Moths                           ✗      ✗     ✗
-Toonstruck                                                          ✗      ✗     ✓
+Toonstruck                                                          ✗      ✗     ✗
 Touche - The Adventures of the Fifth Musketeer                      ✗      ✗     ✗
 Tsunami TsAGE-based Game                                            ✗      ✗     ✗
 Voyeur                                                              ✗      ✗     ✗
