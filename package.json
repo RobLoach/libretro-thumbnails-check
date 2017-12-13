@@ -12,7 +12,7 @@
   "author": "Rob Loach (http://robloach.net)",
   "license": "MIT",
   "devDependencies": {
-    "robloach-datfile": "~1.1.0"
+    "robloach-datfile": "~2.0.0"
   },
   "dependencies": {
     "batchreplace": "^1.0.1",
@@ -20,9 +20,9 @@
     "file-exists": "^5.0.0",
     "fs-exists-sync": "^0.1.0",
     "glob": "^7.1.2",
-    "globby": "^7.0.0",
+    "globby": "^7.1.1",
     "listr": "^0.13.0",
-    "marked": "^0.3.6",
+    "marked": "^0.3.7",
     "minimatch": "^3.0.4",
     "multimatch": "^2.1.0",
     "multispinner": "^0.2.1",
