@@ -1,21 +1,16 @@
 Nintendo - Nintendo 64DD Missing
 
-Boxarts  0/13  0.00%
-Snaps    0/13  0.00%
-Titles   0/13  0.00%
-Total    0/39  0.00%
+Boxarts  11/13  84.62%
+Snaps     6/13  46.15%
+Titles    6/13  46.15%
+Total    23/39  58.97%
 
-Name                                                                 Boxart  Snap  Title
-Dezaemon DD (Japan) (Proto) [b]                                         ✗      ✗     ✗
-F-Zero X - Expansion Kit (Japan)                                        ✗      ✗     ✗
-Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (Japan)     ✗      ✗     ✗
-Kyojin no Doshin (Japan) (Demo) (Kiosk)                                 ✗      ✗     ✗
-Kyojin no Doshin 1 (Japan)                                              ✗      ✗     ✗
-Mario Artist - Communication Kit (Japan)                                ✗      ✗     ✗
-Mario Artist - Paint Studio (Japan)                                     ✗      ✗     ✗
-Mario Artist - Polygon Studio (Japan)                                   ✗      ✗     ✗
-Mario Artist - Talent Studio (Japan)                                    ✗      ✗     ✗
-Nihon Pro Golf Tour 64 (Japan)                                          ✗      ✗     ✗
-Randnet Disk (Japan)                                                    ✗      ✗     ✗
-SimCity 64 (Japan)                                                      ✗      ✗     ✗
-Super Mario 64 - Disk Version (Japan)                                   ✗      ✗     ✗
+Name                                     Boxart  Snap  Title
+Dezaemon DD (Japan) (Proto) [b]             ✗      ✓     ✗
+Kyojin no Doshin (Japan) (Demo) (Kiosk)     ✓      ✗     ✗
+Kyojin no Doshin 1 (Japan)                  ✓      ✗     ✗
+Mario Artist - Paint Studio (Japan)         ✓      ✗     ✗
+Mario Artist - Polygon Studio (Japan)       ✓      ✗     ✗
+Mario Artist - Talent Studio (Japan)        ✓      ✗     ✗
+Randnet Disk (Japan)                        ✓      ✗     ✗
+Super Mario 64 - Disk Version (Japan)       ✗      ✗     ✓

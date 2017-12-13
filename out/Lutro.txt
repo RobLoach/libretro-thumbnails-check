@@ -1,18 +1,18 @@
 Lutro Missing
 
-Boxarts  0/10  0.00%
-Snaps    0/10  0.00%
-Titles   0/10  0.00%
-Total    0/30  0.00%
+Boxarts   0/10   0.00%
+Snaps     9/10  90.00%
+Titles    3/10  30.00%
+Total    12/30  40.00%
 
 Name                      Boxart  Snap  Title
-Deep Dungeon                 ✗      ✗     ✗
-Game of Life                 ✗      ✗     ✗
-In Your Face City Trains     ✗      ✗     ✗
+Deep Dungeon                 ✗      ✓     ✓
+Game of Life                 ✗      ✓     ✗
+In Your Face City Trains     ✗      ✓     ✓
 Lutris Launcher              ✗      ✗     ✗
-Platformer                   ✗      ✗     ✗
-Pong                         ✗      ✗     ✗
-Sienna                       ✗      ✗     ✗
-Snake                        ✗      ✗     ✗
-Spaceship                    ✗      ✗     ✗
-Tetris                       ✗      ✗     ✗
+Platformer                   ✗      ✓     ✗
+Pong                         ✗      ✓     ✗
+Sienna                       ✗      ✓     ✓
+Snake                        ✗      ✓     ✗
+Spaceship                    ✗      ✓     ✗
+Tetris                       ✗      ✓     ✗
