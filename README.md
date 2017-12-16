@@ -21,7 +21,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Dinothawr](out/Dinothawr.txt) | 1 / 1 | 1 / 1 | 1 / 1 | 3 / 3 | **100.00%** |
 | [DOOM](out/DOOM.txt) | 15 / 88 | 5 / 88 | 5 / 88 | 25 / 264 | **9.47%** |
 | [DOS](out/DOS.txt) | 6 / 11505 | 6 / 11505 | 6 / 11505 | 18 / 34515 | **0.05%** |
-| [Emerson - Arcadia 2001](out/Emerson%20-%20Arcadia%202001.txt) | 0 / 48 | 48 / 48 | 48 / 48 | 96 / 144 | **66.67%** |
+| [Emerson - Arcadia 2001](out/Emerson%20-%20Arcadia%202001.txt) | 3 / 48 | 48 / 48 | 48 / 48 | 99 / 144 | **68.75%** |
 | [Entex - Adventure Vision](out/Entex%20-%20Adventure%20Vision.txt) | 4 / 4 | 4 / 4 | 4 / 4 | 12 / 12 | **100.00%** |
 | [Epoch - Super Cassette Vision](out/Epoch%20-%20Super%20Cassette%20Vision.txt) | 4 / 25 | 25 / 25 | 25 / 25 | 54 / 75 | **72.00%** |
 | [Fairchild - Channel F](out/Fairchild%20-%20Channel%20F.txt) | 34 / 34 | 34 / 34 | 34 / 34 | 102 / 102 | **100.00%** |
@@ -52,7 +52,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Nintendo - Nintendo 64](out/Nintendo%20-%20Nintendo%2064.txt) | 898 / 949 | 945 / 949 | 945 / 949 | 2788 / 2847 | **97.93%** |
 | [Nintendo - Nintendo 64DD](out/Nintendo%20-%20Nintendo%2064DD.txt) | 11 / 13 | 6 / 13 | 6 / 13 | 23 / 39 | **58.97%** |
 | [Nintendo - Nintendo DS (Download Play)](out/Nintendo%20-%20Nintendo%20DS%20(Download%20Play).txt) | 0 / 380 | 0 / 380 | 0 / 380 | 0 / 1140 | **0.00%** |
-| [Nintendo - Nintendo DS](out/Nintendo%20-%20Nintendo%20DS.txt) | 1682 / 7021 | 10 / 7021 | 10 / 7021 | 1702 / 21063 | **8.08%** |
+| [Nintendo - Nintendo DS](out/Nintendo%20-%20Nintendo%20DS.txt) | 1844 / 7021 | 10 / 7021 | 10 / 7021 | 1864 / 21063 | **8.85%** |
 | [Nintendo - Nintendo DSi (DLC)](out/Nintendo%20-%20Nintendo%20DSi%20(DLC).txt) | 0 / 804 | 0 / 804 | 0 / 804 | 0 / 2412 | **0.00%** |
 | [Nintendo - Nintendo DSi](out/Nintendo%20-%20Nintendo%20DSi.txt) | 6 / 11 | 1 / 11 | 1 / 11 | 8 / 33 | **24.24%** |
 | [Nintendo - Nintendo Entertainment System](out/Nintendo%20-%20Nintendo%20Entertainment%20System.txt) | 1940 / 2767 | 2629 / 2767 | 2627 / 2767 | 7196 / 8301 | **86.69%** |
@@ -76,7 +76,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Sega - Mega Drive - Genesis](out/Sega%20-%20Mega%20Drive%20-%20Genesis.txt) | 1555 / 1709 | 1668 / 1709 | 1668 / 1709 | 4891 / 5127 | **95.40%** |
 | [Sega - Mega-CD - Sega CD](out/Sega%20-%20Mega-CD%20-%20Sega%20CD.txt) | 149 / 321 | 72 / 321 | 72 / 321 | 293 / 963 | **30.43%** |
 | [Sega - PICO](out/Sega%20-%20PICO.txt) | 0 / 342 | 13 / 342 | 12 / 342 | 25 / 1026 | **2.44%** |
-| [Sega - Saturn](out/Sega%20-%20Saturn.txt) | 254 / 1840 | 242 / 1840 | 241 / 1840 | 737 / 5520 | **13.35%** |
+| [Sega - Saturn](out/Sega%20-%20Saturn.txt) | 254 / 1840 | 224 / 1840 | 226 / 1840 | 704 / 5520 | **12.75%** |
 | [Sega - SG-1000](out/Sega%20-%20SG-1000.txt) | 85 / 207 | 185 / 207 | 185 / 207 | 455 / 621 | **73.27%** |
 | [Sinclair - ZX 81](out/Sinclair%20-%20ZX%2081.txt) | 400 / 420 | 419 / 420 | 14 / 420 | 833 / 1260 | **66.11%** |
 | [Sinclair - ZX Spectrum +3](out/Sinclair%20-%20ZX%20Spectrum%20+3.txt) | 0 / 130 | 0 / 130 | 0 / 130 | 0 / 390 | **0.00%** |
@@ -102,7 +102,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [VTech - CreatiVision](out/VTech%20-%20CreatiVision.txt) | 20 / 20 | 20 / 20 | 20 / 20 | 60 / 60 | **100.00%** |
 | [VTech - V.Smile](out/VTech%20-%20V.Smile.txt) | 1 / 98 | 1 / 98 | 1 / 98 | 3 / 294 | **1.02%** |
 | [Watara - Supervision](out/Watara%20-%20Supervision.txt) | 63 / 63 | 63 / 63 | 63 / 63 | 189 / 189 | **100.00%** |
-| **Total** | **21567 / 93723** | **23065 / 93723** | **22255 / 93723** | **66887 / 281169** | **23.79%** |
+| **Total** | **21732 / 93723** | **23047 / 93723** | **22240 / 93723** | **67019 / 281169** | **23.84%** |
 
 ## Build
 
