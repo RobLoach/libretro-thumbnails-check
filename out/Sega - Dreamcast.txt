@@ -1,9 +1,9 @@
 Sega - Dreamcast Missing
 
-Boxarts   545/941  57.92%
-Snaps     142/941  15.09%
-Titles    159/941  16.90%
-Total    846/2823  29.97%
+Boxarts   545/981  55.56%
+Snaps     146/981  14.88%
+Titles    163/981  16.62%
+Total    854/2943  29.02%
 
 Name                                                                                                    Boxart  Snap  Title
 18 Wheeler - American Pro Trucker (Europe) (En,Fr,De,Es)                                                   ✓      ✗     ✗
@@ -13,9 +13,11 @@ Name                                                                            
 4x4 Evo (USA)                                                                                              ✓      ✗     ✗
 90 Minutes - Sega Championship Football (Europe) (En,Fr,De,Es,It)                                          ✓      ✗     ✗
 Advanced Daisenryaku - Sturm ueber Europa - Der Deutsche Blitzkrieg (Japan)                                ✗      ✗     ✗
+Advanced Daisenryaku 2001 (Japan)                                                                          ✗      ✓     ✓
 Aero Dancing - Todoroki Taichou no Himitsu Disc (Japan)                                                    ✗      ✗     ✗
 Aero Dancing F - Todoroki Tsubasa no Hatsu Hikou (Japan)                                                   ✗      ✗     ✗
 Aero Dancing F (Japan)                                                                                     ✗      ✗     ✗
+Aero Dancing F (Japan) (Rev A)                                                                             ✗      ✗     ✗
 Aero Dancing F (Japan) (Taikenban)                                                                         ✓      ✗     ✗
 Aero Dancing featuring Blue Impulse (Japan)                                                                ✓      ✗     ✗
 Aero Dancing i - Jikai-saku made Matemasen (Japan)                                                         ✗      ✗     ✗
@@ -31,10 +33,12 @@ Alienfront Online (USA)                                                         
 Angel Present (Japan)                                                                                      ✗      ✗     ✗
 Angel Wish - Kimi no Egao ni Chu! (Japan)                                                                  ✗      ✗     ✗
 Animastar (Japan)                                                                                          ✗      ✗     ✗
+Ao no 6-gou - Saigetsu Hito o Matazu - Time and Tide (Japan)                                               ✗      ✗     ✗
 Atsumare! Guru Guru Onsen (Japan)                                                                          ✗      ✗     ✗
 Atsumare! Guru Guru Onsen BB (Japan)                                                                       ✗      ✗     ✗
 Bakumatsu Roman Dai-ni-maku - Gekka no Kenshi - Final Edition (Japan)                                      ✗      ✗     ✗
 Bakuretsu Muteki Bangaioh (Japan)                                                                          ✓      ✗     ✗
+Baldr Force EXE (Japan)                                                                                    ✗      ✗     ✗
 Bang! Gunship Elite (USA)                                                                                  ✓      ✗     ✗
 Bass Rush Dream - EcoGear PowerWorm Championship (Japan)                                                   ✗      ✗     ✗
 Battle Beaster (Japan)                                                                                     ✗      ✗     ✗
@@ -59,6 +63,7 @@ Bokomu no Tatsujin (Japan)                                                      
 Boku Doraemon (Japan)                                                                                      ✗      ✗     ✗
 Boku no Tennis Jinsei (Japan)                                                                              ✗      ✓     ✓
 Boku to, Bokura no Natsu (Japan)                                                                           ✗      ✗     ✗
+Bomber Hehhe! (Japan)                                                                                      ✗      ✗     ✗
 Bounty Hunter Sara - Holy Mountain no Teiou (Japan)                                                        ✗      ✗     ✗
 Broadband Passport (Japan) (2M)                                                                            ✗      ✗     ✗
 Buggy Heat (Europe) (En,Fr,De,Es)                                                                          ✓      ✗     ✗
@@ -128,6 +133,7 @@ Dengen Tenshi Taisen Mahjong Shangri-La (Japan)                                 
 Dennou Senki - Virtual-On - Oratorio Tangram (Japan)                                                       ✓      ✗     ✗
 Denpa Shounen-teki Kenshou Seikatsu Soft - Nasubi no Heya (Japan)                                          ✗      ✗     ✗
 Densha de Go! 2 - Kousoku-hen 3000 Bandai (Japan)                                                          ✗      ✗     ✗
+deSPIRIA (Japan)                                                                                           ✗      ✗     ✗
 Di Gi Charat Fantasy (Japan)                                                                               ✗      ✓     ✓
 Digital Keiba Shinbun - My Trackman (Japan)                                                                ✗      ✗     ✗
 Dino Crisis (Europe)                                                                                       ✓      ✗     ✗
@@ -140,13 +146,18 @@ Disney's Dinosaur (Europe) (En,Fr,De,Es,It)                                     
 Doguu Senki - Haou (Japan)                                                                                 ✗      ✗     ✗
 Doki Doki Idol Star Seeker Remix (Japan)                                                                   ✗      ✗     ✗
 Dorimaga GD Vol. 1 (Japan)                                                                                 ✗      ✗     ✗
+Dorimaga GD Vol. 10 (Japan)                                                                                ✗      ✗     ✗
 Dorimaga GD Vol. 11 (Japan)                                                                                ✗      ✗     ✗
 Dorimaga GD Vol. 12 (Japan)                                                                                ✗      ✗     ✗
 Dorimaga GD Vol. 2 (Japan) (Disc 1)                                                                        ✗      ✗     ✗
 Dorimaga GD Vol. 2 (Japan) (Disc 2)                                                                        ✗      ✗     ✗
 Dorimaga GD Vol. 3 (Japan)                                                                                 ✓      ✗     ✗
 Dorimaga GD Vol. 4 (Japan)                                                                                 ✗      ✗     ✗
+Dorimaga GD Vol. 5 (Japan)                                                                                 ✗      ✗     ✗
+Dorimaga GD Vol. 6 (Japan)                                                                                 ✗      ✗     ✗
 Dorimaga GD Vol. 7 (Japan)                                                                                 ✗      ✗     ✗
+Dorimaga GD Vol. 8 (Japan)                                                                                 ✗      ✗     ✗
+Dorimaga GD Vol. 9 (Japan)                                                                                 ✗      ✗     ✗
 Dousoukai 2 - Again _ Refrain (Japan)                                                                      ✓      ✗     ✗
 Dragons Blood (Europe) (En,Fr,De)                                                                          ✓      ✗     ✗
 Dream Passport (Japan)                                                                                     ✓      ✗     ✗
@@ -155,6 +166,17 @@ Dream Passport 2 (Japan) (Rev B)                                                
 Dream Passport 3 (Japan)                                                                                   ✓      ✗     ✗
 Dreamcast Express Extra (Japan)                                                                            ✗      ✗     ✗
 Dreamcast Express Vol. 1 (Japan)                                                                           ✗      ✗     ✗
+Dreamcast Express Vol. 2 (Japan)                                                                           ✗      ✗     ✗
+Dreamcast Express Vol. 3 (Japan)                                                                           ✗      ✗     ✗
+Dreamcast Express Vol. 4 (Japan) (Disc 1) (Trial Disk)                                                     ✗      ✗     ✗
+Dreamcast Express Vol. 4 (Japan) (Disc 2) (Tokyo Game Show '99 Autumn - Special Disk)                      ✗      ✗     ✗
+Dreamcast Express Vol. 5 (Japan) (Disc 1) (Trial Disk)                                                     ✗      ✗     ✗
+Dreamcast Express Vol. 5 (Japan) (Disc 2) (Movie Disk)                                                     ✗      ✗     ✗
+Dreamcast Express Vol. 6 (Japan) (Disc 1) (Special Disk)                                                   ✗      ✗     ✗
+Dreamcast Express Vol. 6 (Japan) (Disc 2) (Trial _ Movie Disk)                                             ✗      ✗     ✗
+Dreamcast Express Vol. 7 (Japan) (Disc 1) (Special Disk)                                                   ✗      ✗     ✗
+Dreamcast Express Vol. 7 (Japan) (Disc 2) (Trial _ Movie Disk)                                             ✗      ✗     ✗
+Dreamcast Promotion Disk (Japan)                                                                           ✗      ✗     ✗
 DreamFlyer (Japan)                                                                                         ✗      ✗     ✗
 Dreamkey Version 1.0 (Europe)                                                                              ✓      ✗     ✗
 Dreamkey Version 1.0 (Europe) (Rev B)                                                                      ✓      ✗     ✗
@@ -193,6 +215,7 @@ Dreamstud!o (Japan)                                                             
 Ducati World - Racing Challenge (USA)                                                                      ✓      ✗     ✗
 Ducati World (Europe) (En,Fr,De,It)                                                                        ✓      ✗     ✗
 Dynamite Deka 2 (Japan)                                                                                    ✓      ✗     ✗
+Dynamite Deka 2 (Japan) (Taikenban)                                                                        ✗      ✗     ✗
 Ecco the Dolphin - Defender of the Future (Europe) (En,Fr,De,Es)                                           ✓      ✗     ✗
 Ecco the Dolphin - Defender of the Future (Japan)                                                          ✗      ✗     ✗
 Ecco the Dolphin - Defender of the Future (USA) (En,Fr,De,Es)                                              ✓      ✗     ✗
@@ -247,6 +270,7 @@ Fish Eyes + Wild (Japan)                                                        
 Floigan Bros. - Episode 1 (Europe)                                                                         ✓      ✗     ✗
 For Symphony - With All One's Heart (Japan)                                                                ✗      ✗     ✗
 Fragrance Tale (Japan)                                                                                     ✗      ✗     ✗
+Frame Gride - Test Operation Disc (Japan)                                                                  ✗      ✗     ✗
 Frame Gride (Japan)                                                                                        ✗      ✓     ✓
 Fur Fighters (USA) (En,Fr,De,Es) (Rev B)                                                                   ✓      ✗     ✗
 Fushigi no Dungeon - Fuurai no Shiren Gaiden - Onna Kenshi Asuka Kenzan! (Japan)                           ✓      ✗     ✗
@@ -268,6 +292,7 @@ GigaWing 2 (USA)                                                                
 GK - Giant Killers (Europe)                                                                                ✓      ✗     ✗
 Godzilla Generations - Maximum Impact (Japan)                                                              ✗      ✗     ✗
 Godzilla Generations (Japan)                                                                               ✗      ✓     ✓
+Golem no Maigo (Japan)                                                                                     ✗      ✗     ✗
 Golf Shiyou yo - Course Data-shuu - Adventure-hen (Japan)                                                  ✗      ✗     ✗
 Golf Shiyou yo (Japan) (Rev A)                                                                             ✗      ✗     ✗
 Golf Shiyou yo (Japan) (Rev B)                                                                             ✗      ✗     ✗
@@ -277,14 +302,17 @@ Grandia II (Europe)                                                             
 Grandia II (Japan)                                                                                         ✓      ✗     ✗
 Grauen no Torikago - Kapitel 1 - Keiyaku (Japan)                                                           ✗      ✗     ✗
 Grauen no Torikago - Kapitel 2 - Torikago (Japan)                                                          ✗      ✗     ✗
+Grauen no Torikago - Kapitel 3 - Kansei (Japan)                                                            ✗      ✗     ✗
 Grauen no Torikago - Kapitel 4 - Kaikou (Japan)                                                            ✗      ✗     ✗
 Grinch, The (Europe) (En,Fr,De,Es,It)                                                                      ✓      ✗     ✗
 Grinch, The (USA) (En,Fr,Es)                                                                               ✓      ✗     ✗
 Guilty Gear X (Japan)                                                                                      ✗      ✓     ✓
+Gunbird 2 (Japan)                                                                                          ✗      ✗     ✗
 Gundam Battle Online (Japan)                                                                               ✓      ✗     ✗
 Gundam Side Story 0079 - Rise from the Ashes - Premium Disc (Japan)                                        ✗      ✗     ✗
 Gundam Side Story 0079 - Rise from the Ashes - Special Edition (Japan)                                     ✗      ✗     ✗
 Gundam Side Story 0079 - Rise from the Ashes (Japan)                                                       ✗      ✗     ✗
+Gunspike (Japan)                                                                                           ✗      ✗     ✗
 Guru Guru Onsen 2 (Japan)                                                                                  ✗      ✗     ✗
 Guru Guru Onsen 3 (Japan)                                                                                  ✗      ✗     ✗
 Happy Breeding (Japan)                                                                                     ✗      ✗     ✗
@@ -294,6 +322,7 @@ Harusame Youbi (Japan)                                                          
 Heavy Metal - Geomatrix (Europe) (En,Fr,De,Es)                                                             ✓      ✗     ✗
 Heavy Metal - Geomatrix (Japan)                                                                            ✗      ✗     ✗
 Heisei Mahjong-sou (Japan)                                                                                 ✗      ✗     ✗
+Hello Kitty no Dream Passport 2 (Japan)                                                                    ✗      ✗     ✗
 Hello Kitty no Garden Panic (Japan)                                                                        ✓      ✗     ✗
 Hello Kitty no Lovely Fruit Park (Japan)                                                                   ✗      ✗     ✗
 Hello Kitty no Magical Block (Japan)                                                                       ✗      ✗     ✓
@@ -361,6 +390,7 @@ Konohana - True Report (Japan)                                                  
 Konohana 2 - Todokanai Requiem (Japan)                                                                     ✓      ✗     ✗
 Kuon no Kizuna - Sairinshou (Japan)                                                                        ✓      ✗     ✗
 Kuon no Kizuna - Sairinshou (Japan) (Rev A)                                                                ✓      ✗     ✗
+L.O.L. - Lack of Love (Japan)                                                                              ✗      ✓     ✓
 Lake Masters Pro - Dreamcast Plus! (Japan)                                                                 ✗      ✗     ✗
 Langrisser Millennium (Japan)                                                                              ✗      ✗     ✗
 Last Blade 2, The - Heart of the Samurai (USA)                                                             ✓      ✗     ✗
@@ -399,6 +429,7 @@ Memories Off Complete (Japan)                                                   
 Mercurius Pretty - End of the Century (Japan)                                                              ✗      ✗     ✗
 Merge - Marginal (Japan)                                                                                   ✗      ✗     ✗
 Metal Wolf (Japan)                                                                                         ✗      ✗     ✗
+Microsoft WebTV Setsuzoku Kit (Japan)                                                                      ✗      ✗     ✗
 Midway's Greatest Arcade Hits - Volume 1 (Europe)                                                          ✓      ✗     ✗
 Midway's Greatest Arcade Hits - Volume 1 (USA)                                                             ✓      ✗     ✗
 Midway's Greatest Arcade Hits - Volume 2 (USA)                                                             ✓      ✗     ✗
@@ -431,6 +462,7 @@ My Merry Maybe (Japan) (Disc 1)                                                 
 My Merry Maybe (Japan) (Disc 2)                                                                            ✗      ✗     ✗
 Nakoruru - Ano Hito kara no Okurimono (Japan)                                                              ✗      ✗     ✗
 Nanatsu no Hikan - Senritsu no Bishou (Japan)                                                              ✗      ✗     ✗
+Napple Tale - Arsia in Daydream (Japan)                                                                    ✗      ✓     ✓
 NBA 2K (Europe) (En,Fr,De,Es)                                                                              ✓      ✗     ✗
 NBA 2K (Japan)                                                                                             ✓      ✗     ✗
 NBA 2K1 (Japan)                                                                                            ✗      ✗     ✗
@@ -457,6 +489,7 @@ Nettou Golf (Japan)                                                             
 Never 7 - The End of Infinity (Japan)                                                                      ✗      ✗     ✗
 NFL 2K (Japan)                                                                                             ✗      ✗     ✗
 NFL 2K1 (Japan)                                                                                            ✗      ✗     ✗
+NFL 2K2 (Japan)                                                                                            ✗      ✗     ✗
 NFL Blitz 2000 (Europe)                                                                                    ✓      ✗     ✗
 NFL Quarterback Club 2000 (Europe)                                                                         ✓      ✗     ✗
 NFL Quarterback Club 2000 (USA)                                                                            ✓      ✗     ✓
@@ -523,6 +556,7 @@ Prismaticallization (Japan)                                                     
 Pro Mahjong Kiwame D (Japan)                                                                               ✗      ✗     ✗
 Pro Yakyuu Team de Asobou Net! (Japan)                                                                     ✓      ✗     ✗
 Pro Yakyuu Team de Asobou! (Japan)                                                                         ✓      ✗     ✗
+Pro Yakyuu Team o Tsukurou! _ Asobou! (Japan)                                                              ✗      ✗     ✗
 Pro Yakyuu Team o Tsukurou! (Japan)                                                                        ✓      ✗     ✗
 Project Berkley (Japan)                                                                                    ✗      ✗     ✗
 Psychic Force 2012 (Europe)                                                                                ✓      ✗     ✗
@@ -535,6 +569,7 @@ Quake III - Arena (USA)                                                         
 Quiz Aa Megami-sama - Tatakau Tsubasa to Tomoni (Japan)                                                    ✓      ✗     ✗
 Racing Simulation - Monaco Grand Prix (Europe) (En,Fr,De,Es,It)                                            ✓      ✗     ✗
 Railroad Tycoon II (Europe) (En,Fr,De)                                                                     ✓      ✗     ✗
+Rainbow Cotton (Japan)                                                                                     ✗      ✓     ✓
 Rayman - Kaizokusen kara no Dasshutsu! (Japan)                                                             ✗      ✗     ✗
 Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It)                                                      ✓      ✗     ✗
 Re-Volt (Japan)                                                                                            ✗      ✗     ✗
@@ -660,6 +695,7 @@ Shin Seiki Evangelion - Typing Hokan Keikaku (Japan)                            
 Shinki Sekai Evolution (Japan)                                                                             ✓      ✗     ✗
 Shinki Sekai Evolution 2 - Tooi Yakusoku (Japan)                                                           ✗      ✗     ✗
 Shinri Game, The (Japan)                                                                                   ✗      ✗     ✗
+Shirotsumesouwa - Episode of the Clovers (Japan)                                                           ✗      ✗     ✗
 Shutokou Battle (Japan)                                                                                    ✓      ✗     ✗
 Shutokou Battle 2 (Japan)                                                                                  ✓      ✗     ✗
 Silent Scope (Japan)                                                                                       ✓      ✗     ✗
@@ -709,12 +745,15 @@ Street Fighter III - 3rd Strike - Fight for the Future (Japan)                  
 Street Fighter III - W Impact (Japan)                                                                      ✓      ✗     ✗
 Street Fighter Zero 3 - Saikyo-ryu Dojo (Japan)                                                            ✓      ✗     ✗
 Street Fighter Zero 3 - Saikyo-ryu Dojo for Matching Service (Japan)                                       ✓      ✗     ✗
+Suigetsu - Mayoigokoro (Japan) (Disc 1)                                                                    ✗      ✗     ✗
+Suigetsu - Mayoigokoro (Japan) (Disc 2)                                                                    ✗      ✗     ✗
 Suika (Japan)                                                                                              ✗      ✗     ✗
 Sunrise Eiyuutan (Japan)                                                                                   ✗      ✗     ✗
 Super Euro Soccer 2000 (Japan)                                                                             ✗      ✓     ✓
 Super Magnetic Neo (Europe) (En,Fr,De)                                                                     ✓      ✗     ✗
 Super Magnetic Niuniu (Japan)                                                                              ✗      ✗     ✗
 Super Producers - Mezase Show Biz Kai (Japan)                                                              ✓      ✗     ✗
+Super Puzzle Fighter II X for Matching Service (Japan)                                                     ✗      ✗     ✗
 Super Robot Taisen Alpha (Japan)                                                                           ✓      ✗     ✗
 Super Runabout - San Francisco Edition (Europe)                                                            ✓      ✗     ✗
 Super Runabout - San Francisco Edition (Japan)                                                             ✗      ✗     ✓
@@ -759,6 +798,7 @@ Tricolore Crise (Japan)                                                         
 Triggerheart Exelica (Japan)                                                                               ✗      ✗     ✗
 Tsuki wa Higashi ni Hi wa Nishi ni - Operation Sanctuary (Japan)                                           ✗      ✗     ✗
 Tsuushin Taisen Logic Battle Daisessen (Japan)                                                             ✗      ✗     ✗
+Twinkle Star Sprites (Japan) (En,Ja,Es)                                                                    ✗      ✗     ✗
 Typing of the Date (Japan)                                                                                 ✗      ✗     ✗
 Typing of the Dead, The (Japan)                                                                            ✗      ✗     ✗
 UEFA Dream Soccer (Europe) (En,Fr,De,Es)                                                                   ✓      ✗     ✗
