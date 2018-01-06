@@ -139,9 +139,9 @@ function writeReport(system, games, thumbs) {
 				if (game.title) {
 					count.title++
 				}
-				if (boxart == '✗' || snap == '✗' || title == '✗') {
+				//if (boxart == '✗' || snap == '✗' || title == '✗') {
 					entries.push([gameName, boxart, snap, title])
-				}
+				//}
 			}
 		}
 
