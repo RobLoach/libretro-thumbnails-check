@@ -26,7 +26,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Epoch - Super Cassette Vision](out/Epoch%20-%20Super%20Cassette%20Vision.txt) | 4 / 25 | 25 / 25 | 25 / 25 | 54 / 75 | **72.00%** |
 | [Fairchild - Channel F](out/Fairchild%20-%20Channel%20F.txt) | 34 / 34 | 34 / 34 | 34 / 34 | 102 / 102 | **100.00%** |
 | [Funtech - Super Acan](out/Funtech%20-%20Super%20Acan.txt) | 9 / 9 | 9 / 9 | 9 / 9 | 27 / 27 | **100.00%** |
-| [GamePark - GP32](out/GamePark%20-%20GP32.txt) | 1 / 28 | 28 / 28 | 28 / 28 | 57 / 84 | **67.86%** |
+| [GamePark - GP32](out/GamePark%20-%20GP32.txt) | 28 / 28 | 28 / 28 | 28 / 28 | 84 / 84 | **100.00%** |
 | [GCE - Vectrex](out/GCE%20-%20Vectrex.txt) | 44 / 44 | 44 / 44 | 44 / 44 | 132 / 132 | **100.00%** |
 | [Handheld Electronic Game](out/Handheld%20Electronic%20Game.txt) | 53 / 59 | 51 / 59 | 0 / 59 | 104 / 177 | **58.76%** |
 | [Hartung - Game Master](out/Hartung%20-%20Game%20Master.txt) | 1 / 12 | 11 / 12 | 11 / 12 | 23 / 36 | **63.89%** |
@@ -40,7 +40,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [NEC - PC Engine - TurboGrafx 16](out/NEC%20-%20PC%20Engine%20-%20TurboGrafx%2016.txt) | 412 / 412 | 412 / 412 | 412 / 412 | 1236 / 1236 | **100.00%** |
 | [NEC - PC Engine CD - TurboGrafx-CD](out/NEC%20-%20PC%20Engine%20CD%20-%20TurboGrafx-CD.txt) | 35 / 374 | 8 / 374 | 8 / 374 | 51 / 1122 | **4.55%** |
 | [NEC - PC Engine SuperGrafx](out/NEC%20-%20PC%20Engine%20SuperGrafx.txt) | 5 / 5 | 5 / 5 | 5 / 5 | 15 / 15 | **100.00%** |
-| [NEC - PC-FX](out/NEC%20-%20PC-FX.txt) | 5 / 27 | 5 / 27 | 5 / 27 | 15 / 81 | **18.52%** |
+| [NEC - PC-FX](out/NEC%20-%20PC-FX.txt) | 22 / 27 | 22 / 27 | 22 / 27 | 66 / 81 | **81.48%** |
 | [Nintendo - e-Reader](out/Nintendo%20-%20e-Reader.txt) | 0 / 3094 | 0 / 3094 | 0 / 3094 | 0 / 9282 | **0.00%** |
 | [Nintendo - Family Computer Disk System](out/Nintendo%20-%20Family%20Computer%20Disk%20System.txt) | 42 / 316 | 140 / 316 | 141 / 316 | 323 / 948 | **34.07%** |
 | [Nintendo - Game Boy Advance](out/Nintendo%20-%20Game%20Boy%20Advance.txt) | 1817 / 3088 | 2853 / 3088 | 2853 / 3088 | 7523 / 9264 | **81.21%** |
@@ -52,7 +52,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Nintendo - Nintendo 64](out/Nintendo%20-%20Nintendo%2064.txt) | 898 / 950 | 945 / 950 | 945 / 950 | 2788 / 2850 | **97.82%** |
 | [Nintendo - Nintendo 64DD](out/Nintendo%20-%20Nintendo%2064DD.txt) | 11 / 13 | 6 / 13 | 5 / 13 | 22 / 39 | **56.41%** |
 | [Nintendo - Nintendo DS (Download Play)](out/Nintendo%20-%20Nintendo%20DS%20(Download%20Play).txt) | 0 / 380 | 0 / 380 | 0 / 380 | 0 / 1140 | **0.00%** |
-| [Nintendo - Nintendo DS](out/Nintendo%20-%20Nintendo%20DS.txt) | 3081 / 7022 | 10 / 7022 | 10 / 7022 | 3101 / 21066 | **14.72%** |
+| [Nintendo - Nintendo DS](out/Nintendo%20-%20Nintendo%20DS.txt) | 3535 / 7022 | 10 / 7022 | 17 / 7022 | 3562 / 21066 | **16.91%** |
 | [Nintendo - Nintendo DSi (DLC)](out/Nintendo%20-%20Nintendo%20DSi%20(DLC).txt) | 0 / 949 | 0 / 949 | 0 / 949 | 0 / 2847 | **0.00%** |
 | [Nintendo - Nintendo DSi](out/Nintendo%20-%20Nintendo%20DSi.txt) | 6 / 11 | 1 / 11 | 1 / 11 | 8 / 33 | **24.24%** |
 | [Nintendo - Nintendo Entertainment System](out/Nintendo%20-%20Nintendo%20Entertainment%20System.txt) | 1940 / 2878 | 2629 / 2878 | 2627 / 2878 | 7196 / 8634 | **83.34%** |
@@ -76,7 +76,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Sega - Mega Drive - Genesis](out/Sega%20-%20Mega%20Drive%20-%20Genesis.txt) | 1552 / 1710 | 1665 / 1710 | 1665 / 1710 | 4882 / 5130 | **95.17%** |
 | [Sega - Mega-CD - Sega CD](out/Sega%20-%20Mega-CD%20-%20Sega%20CD.txt) | 147 / 325 | 70 / 325 | 70 / 325 | 287 / 975 | **29.44%** |
 | [Sega - PICO](out/Sega%20-%20PICO.txt) | 0 / 343 | 13 / 343 | 12 / 343 | 25 / 1029 | **2.43%** |
-| [Sega - Saturn](out/Sega%20-%20Saturn.txt) | 256 / 1880 | 227 / 1880 | 229 / 1880 | 712 / 5640 | **12.62%** |
+| [Sega - Saturn](out/Sega%20-%20Saturn.txt) | 282 / 1880 | 227 / 1880 | 229 / 1880 | 738 / 5640 | **13.09%** |
 | [Sega - SG-1000](out/Sega%20-%20SG-1000.txt) | 85 / 207 | 185 / 207 | 185 / 207 | 455 / 621 | **73.27%** |
 | [Sinclair - ZX 81](out/Sinclair%20-%20ZX%2081.txt) | 400 / 420 | 419 / 420 | 14 / 420 | 833 / 1260 | **66.11%** |
 | [Sinclair - ZX Spectrum +3](out/Sinclair%20-%20ZX%20Spectrum%20+3.txt) | 0 / 130 | 0 / 130 | 0 / 130 | 0 / 390 | **0.00%** |
@@ -103,7 +103,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [VTech - CreatiVision](out/VTech%20-%20CreatiVision.txt) | 20 / 20 | 20 / 20 | 20 / 20 | 60 / 60 | **100.00%** |
 | [VTech - V.Smile](out/VTech%20-%20V.Smile.txt) | 1 / 98 | 1 / 98 | 1 / 98 | 3 / 294 | **1.02%** |
 | [Watara - Supervision](out/Watara%20-%20Supervision.txt) | 63 / 63 | 63 / 63 | 63 / 63 | 189 / 189 | **100.00%** |
-| **Total** | **23016 / 98288** | **23103 / 98288** | **22295 / 98288** | **68414 / 294864** | **23.20%** |
+| **Total** | **23540 / 98288** | **23120 / 98288** | **22319 / 98288** | **68979 / 294864** | **23.39%** |
 
 ## Build
 
