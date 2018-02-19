@@ -126,9 +126,9 @@ function writeReport(system, games, thumbs) {
 				// Use the thumbnail file name.
 				gameName = cleanGameName(gameName)
 
-				let boxart = game.boxart ? '✓' : '✗'
-				let snap = game.snap ? '✓' : '✗'
-				let title = game.title ? '✓' : '✗'
+				let boxart = game.boxart ? ' ' : '✗'
+				let snap = game.snap ? ' ' : '✗'
+				let title = game.title ? ' ' : '✗'
 
 				if (game.boxart) {
 					count.boxart++
