@@ -934,8 +934,8 @@ Catan                                                                           
 Catherine                                                                                                                          ✗      ✗     ✗
 Catherine (Demo)                                                                                                                   ✗      ✗     ✗
 Catherine (Europe)                                                                                                                 ✗      ✗     ✗
-Catherine (Japan)                                                                                                                  ✓      ✗     ✗
-Catherine (USA)                                                                                                                    ✓      ✗     ✗
+Catherine (Japan)                                                                                                                         ✗     ✗
+Catherine (USA)                                                                                                                           ✗     ✗
 Catherine Best Selection                                                                                                           ✗      ✗     ✗
 Catherine Demo                                                                                                                     ✗      ✗     ✗
 CD-Man Emulator                                                                                                                    ✗      ✗     ✗
@@ -1139,12 +1139,12 @@ Dark Sector (Japan)                                                             
 Dark Sector (USA)                                                                                                                  ✗      ✗     ✗
 Dark Souls                                                                                                                         ✗      ✗     ✗
 Dark Souls (Europe)                                                                                                                ✗      ✗     ✗
-Dark Souls (Japan)                                                                                                                 ✓      ✗     ✗
+Dark Souls (Japan)                                                                                                                        ✗     ✗
 Dark Souls (USA)                                                                                                                   ✗      ✗     ✗
 Dark Souls 2 - Scholar of the First Sin (Europe)                                                                                   ✗      ✗     ✗
 Dark Souls II                                                                                                                      ✗      ✗     ✗
 Dark Souls II (Europe)                                                                                                             ✗      ✗     ✗
-Dark Souls II (Japan)                                                                                                              ✓      ✗     ✗
+Dark Souls II (Japan)                                                                                                                     ✗     ✗
 Dark Souls II (USA)                                                                                                                ✗      ✗     ✗
 Dark Souls II_ Scholar of the First Sin (Japan)                                                                                    ✗      ✗     ✗
 Dark Souls with Artorias of the Abyss Edition (Japan)                                                                              ✗      ✗     ✗
@@ -1207,7 +1207,7 @@ Dead Rising 2 _ Off The Record (Europe)                                         
 Dead Rising 2 (Europe)                                                                                                             ✗      ✗     ✗
 Dead Rising 2 (Japan)                                                                                                              ✗      ✗     ✗
 Dead Rising 2 (PlayStation 3 the Best) (Japan)                                                                                     ✗      ✗     ✗
-Dead Rising 2 (USA)                                                                                                                ✓      ✗     ✗
+Dead Rising 2 (USA)                                                                                                                       ✗     ✗
 Dead Rising 2_ Off The Record                                                                                                      ✗      ✗     ✗
 Dead Rising 2_ Off the Record (Japan)                                                                                              ✗      ✗     ✗
 Dead Rising 2_ Off the Record (USA)                                                                                                ✗      ✗     ✗
@@ -1264,7 +1264,7 @@ Demon's Souls (Europe)                                                          
 Demon's Souls (Japan)                                                                                                              ✗      ✗     ✗
 Demon's Souls (PlayStation 3 the Best)                                                                                             ✗      ✗     ✗
 Demon's Souls (PlayStation 3 the Best) (Japan)                                                                                     ✗      ✗     ✗
-Demon's Souls (USA)                                                                                                                ✓      ✗     ✗
+Demon's Souls (USA)                                                                                                                       ✗     ✗
 Dengeki Bunko_ Fighting Climax                                                                                                     ✗      ✗     ✗
 Dengeki Bunko_ Fighting Climax (Japan)                                                                                             ✗      ✗     ✗
 Dengeki Bunko_ Fighting Climax Ignition                                                                                            ✗      ✗     ✗
@@ -1399,7 +1399,7 @@ Downtown Nekketsu Koushinkyoku_ Soreyuke Daiundoukai All-Star Special (Japan)   
 Dr. Mini Games                                                                                                                     ✗      ✗     ✗
 Dracula_ Undead Awakening                                                                                                          ✗      ✗     ✗
 Drag-On Dragoon 3                                                                                                                  ✗      ✗     ✗
-Drag-On Dragoon 3 (Japan)                                                                                                          ✓      ✗     ✗
+Drag-On Dragoon 3 (Japan)                                                                                                                 ✗     ✗
 Dragon Age II                                                                                                                      ✗      ✗     ✗
 Dragon Age II (Bioware Signature Edition) (Europe)                                                                                 ✗      ✗     ✗
 Dragon Age II (USA)                                                                                                                ✗      ✗     ✗
@@ -1458,7 +1458,7 @@ Dragon's Crown (Japan)                                                          
 Dragon's Crown (USA)                                                                                                               ✗      ✗     ✗
 Dragon's Dogma (Demo)                                                                                                              ✗      ✗     ✗
 Dragon's Dogma (Europe)                                                                                                            ✗      ✗     ✗
-Dragon's Dogma (Japan)                                                                                                             ✓      ✗     ✗
+Dragon's Dogma (Japan)                                                                                                                    ✗     ✗
 Dragon's Dogma (PlayStation 3 the Best)                                                                                            ✗      ✗     ✗
 Dragon's Dogma (PlayStation 3 the Best) (Japan)                                                                                    ✗      ✗     ✗
 Dragon's Dogma (USA)                                                                                                               ✗      ✗     ✗
@@ -1471,7 +1471,7 @@ Dragon's Lair                                                                   
 Dragon's Lair II_ Time Warp                                                                                                        ✗      ✗     ✗
 Dragon's Lair Trilogy                                                                                                              ✗      ✗     ✗
 Drakengard 3                                                                                                                       ✗      ✗     ✗
-Drakengard 3 (USA)                                                                                                                 ✓      ✗     ✗
+Drakengard 3 (USA)                                                                                                                        ✗     ✗
 Dream C Club Gogo.                                                                                                                 ✗      ✗     ✗
 Dream C Club Gogo. (Japan)                                                                                                         ✗      ✗     ✗
 Dream C Club Zero_ Complete Edipyon! (Japan)                                                                                       ✗      ✗     ✗
@@ -1879,9 +1879,9 @@ Final Fantasy XIII (Japan)                                                      
 Final Fantasy XIII (PS3 Lightning Edition)                                                                                         ✗      ✗     ✗
 Final Fantasy XIII (Ultimate Hits)                                                                                                 ✗      ✗     ✗
 Final Fantasy XIII (Ultimate Hits) (Japan)                                                                                         ✗      ✗     ✗
-Final Fantasy XIII (USA)                                                                                                           ✓      ✗     ✗
+Final Fantasy XIII (USA)                                                                                                                  ✗     ✗
 Final Fantasy XIII-2                                                                                                               ✗      ✗     ✗
-Final Fantasy XIII-2 (Europe)                                                                                                      ✓      ✗     ✗
+Final Fantasy XIII-2 (Europe)                                                                                                             ✗     ✗
 Final Fantasy XIII-2 (Japan)                                                                                                       ✗      ✗     ✗
 Final Fantasy XIII-2 (Limited Collector's Edition) (USA)                                                                           ✗      ✗     ✗
 Final Fantasy XIII-2 (Ultimate Hits)                                                                                               ✗      ✗     ✗
@@ -2113,7 +2113,7 @@ Grand Theft Auto V (Best Price Version) (Japan)                                 
 Grand Theft Auto V (Europe)                                                                                                        ✗      ✗     ✗
 Grand Theft Auto V (Japan)                                                                                                         ✗      ✗     ✗
 Grand Theft Auto V (Special Edition) (USA)                                                                                         ✗      ✗     ✗
-Grand Theft Auto V (USA)                                                                                                           ✓      ✗     ✗
+Grand Theft Auto V (USA)                                                                                                                  ✗     ✗
 Grand Theft Auto_ Episodes from Liberty City                                                                                       ✗      ✗     ✗
 Grand Theft Auto_ Episodes from Liberty City (Europe)                                                                              ✗      ✗     ✗
 Grand Theft Auto_ Episodes from Liberty City (Japan)                                                                               ✗      ✗     ✗
@@ -2273,13 +2273,13 @@ Heavy Fire_ Shattered Spear (Europe)                                            
 Heavy Fire_ Shattered Spear (USA)                                                                                                  ✗      ✗     ✗
 Heavy Rain                                                                                                                         ✗      ✗     ✗
 Heavy Rain (Demo)                                                                                                                  ✗      ✗     ✗
-Heavy Rain (Europe)                                                                                                                ✓      ✗     ✗
+Heavy Rain (Europe)                                                                                                                       ✗     ✗
 Heavy Rain (Greatest Hits) (USA)                                                                                                   ✗      ✗     ✗
 Heavy Rain (Japan)                                                                                                                 ✗      ✗     ✗
 Heavy Rain (Move Edition)                                                                                                          ✗      ✗     ✗
 Heavy Rain (Move Edition) (Europe)                                                                                                 ✗      ✗     ✗
 Heavy Rain (PlayStation 3 the Best) (Japan)                                                                                        ✗      ✗     ✗
-Heavy Rain (USA)                                                                                                                   ✓      ✗     ✗
+Heavy Rain (USA)                                                                                                                          ✗     ✗
 Heavy Rain Demo                                                                                                                    ✗      ✗     ✗
 Heavy Rain_ Move Edition                                                                                                           ✗      ✗     ✗
 Heavy Weapon_ Atomic Tank                                                                                                          ✗      ✗     ✗
@@ -2620,7 +2620,7 @@ Killer is Dead (Europe)                                                         
 Killer is Dead (Premium Edition)                                                                                                   ✗      ✗     ✗
 Killer is Dead (Premium Edition) (Japan)                                                                                           ✗      ✗     ✗
 Killer is Dead (USA)                                                                                                               ✗      ✗     ✗
-Killer Is Dead (USA)                                                                                                               ✓      ✗     ✗
+Killer Is Dead (USA)                                                                                                                      ✗     ✗
 Killzone                                                                                                                           ✗      ✗     ✗
 Killzone (Europe)                                                                                                                  ✗      ✗     ✗
 Killzone 2                                                                                                                         ✗      ✗     ✗
@@ -2629,7 +2629,7 @@ Killzone 2 (Europe)                                                             
 Killzone 2 (Japan)                                                                                                                 ✗      ✗     ✗
 Killzone 2 (PlayStation 3 the Best) (Japan)                                                                                        ✗      ✗     ✗
 Killzone 2 (PlayStation3 the Best)                                                                                                 ✗      ✗     ✗
-Killzone 2 (USA)                                                                                                                   ✓      ✗     ✗
+Killzone 2 (USA)                                                                                                                          ✗     ✗
 Killzone 2 Behind the Bullet_ Interactive Ad                                                                                       ✗      ✗     ✗
 Killzone 3                                                                                                                         ✗      ✗     ✗
 Killzone 3 (Europe)                                                                                                                ✗      ✗     ✗
@@ -2648,7 +2648,7 @@ Kingdom Hearts HD 1.5 + 2.5 ReMIX (Limited Edition)                             
 Kingdom Hearts HD 1.5 + 2.5 ReMIX (Starter Pack) (Japan)                                                                           ✗      ✗     ✗
 Kingdom Hearts HD 1.5 ReMIX                                                                                                        ✗      ✗     ✗
 Kingdom Hearts HD 1.5 ReMIX (Europe)                                                                                               ✗      ✗     ✗
-Kingdom Hearts HD 1.5 ReMIX (Japan)                                                                                                ✓      ✗     ✗
+Kingdom Hearts HD 1.5 ReMIX (Japan)                                                                                                       ✗     ✗
 Kingdom Hearts HD 1.5 ReMIX (USA)                                                                                                  ✗      ✗     ✗
 Kingdom Hearts HD 2.5 ReMIX (Europe)                                                                                               ✗      ✗     ✗
 Kingdom Hearts HD 2.5 ReMIX (Japan)                                                                                                ✗      ✗     ✗
@@ -2821,8 +2821,8 @@ LittleBigPlanet Karting (Japan)                                                 
 LocoRoco Cocoreccho!                                                                                                               ✗      ✗     ✗
 Lollipop Chainsaw                                                                                                                  ✗      ✗     ✗
 Lollipop Chainsaw (Europe)                                                                                                         ✗      ✗     ✗
-Lollipop Chainsaw (Japan)                                                                                                          ✓      ✗     ✗
-Lollipop Chainsaw (Premium Edition) (Japan)                                                                                        ✓      ✗     ✗
+Lollipop Chainsaw (Japan)                                                                                                                 ✗     ✗
+Lollipop Chainsaw (Premium Edition) (Japan)                                                                                               ✗     ✗
 Lollipop Chainsaw (USA)                                                                                                            ✗      ✗     ✗
 Lollipop Chainsaw (Valentine Edition) (Japan)                                                                                      ✗      ✗     ✗
 London 2012 - The Official Video Game of the Olympic Games                                                                         ✗      ✗     ✗
@@ -3640,7 +3640,7 @@ Ninja Gaiden Three (USA)                                                        
 Ninja Gaiden_ 3 (Demo)                                                                                                             ✗      ✗     ✗
 Ninja Gaiden_ Sigma 2 (USA)                                                                                                        ✗      ✗     ✗
 Ninokuni_ Shiroki Seihai no Joou                                                                                                   ✗      ✗     ✗
-Ninokuni_ Shiroki Seihai no Joou (Japan)                                                                                           ✓      ✗     ✗
+Ninokuni_ Shiroki Seihai no Joou (Japan)                                                                                                  ✗     ✗
 Nitro Plus Blasterz Heroines Infinite Duel                                                                                         ✗      ✗     ✗
 No More Heroes_ Eiyuutachi no Rakuen                                                                                               ✗      ✗     ✗
 No More Heroes_ Eiyuutachi no Rakuen (Japan)                                                                                       ✗      ✗     ✗
@@ -3806,8 +3806,8 @@ Penny Arcade Adventures_ On the Rain-Slick Precipice of Darkness Episode 1      
 Penny Arcade Adventures_ On the Rain-Slick Precipice of Darkness Episode 2                                                         ✗      ✗     ✗
 Persona 4 Arena                                                                                                                    ✗      ✗     ✗
 Persona 4 Arena (Europe)                                                                                                           ✗      ✗     ✗
-Persona 4 Arena (USA)                                                                                                              ✓      ✗     ✗
-Persona 4 Arena Ultimax (USA)                                                                                                      ✓      ✗     ✗
+Persona 4 Arena (USA)                                                                                                                     ✗     ✗
+Persona 4 Arena Ultimax (USA)                                                                                                             ✗     ✗
 Persona 4_ The Ultimate in Mayonaka Arena                                                                                          ✗      ✗     ✗
 Persona 4_ The Ultimate in Mayonaka Arena (Japan)                                                                                  ✗      ✗     ✗
 Persona 4_ The Ultimax Ultra Suplex Hold (Japan)                                                                                   ✗      ✗     ✗
@@ -4119,10 +4119,10 @@ Red Johnson's Chronicles                                                        
 Red Johnson's Chronicles - One Against All                                                                                         ✗      ✗     ✗
 Red Johnson's Chronicles_ One Against All                                                                                          ✗      ✗     ✗
 Red Seeds Profile                                                                                                                  ✗      ✗     ✗
-Red Seeds Profile (Japan)                                                                                                          ✓      ✗     ✗
+Red Seeds Profile (Japan)                                                                                                                 ✗     ✗
 Reel Fishing II                                                                                                                    ✗      ✗     ✗
 Remember Me                                                                                                                        ✗      ✗     ✗
-Remember Me (Europe)                                                                                                               ✓      ✗     ✗
+Remember Me (Europe)                                                                                                                      ✗     ✗
 Remember Me (USA)                                                                                                                  ✗      ✗     ✗
 Renegade Ops                                                                                                                       ✗      ✗     ✗
 Resident Evil _ Operation Raccoon City (Europe)                                                                                    ✗      ✗     ✗
@@ -4132,7 +4132,7 @@ Resident Evil 5 (Collector's Edition) (USA)                                     
 Resident Evil 5 (Demo)                                                                                                             ✗      ✗     ✗
 Resident Evil 5 (Europe)                                                                                                           ✗      ✗     ✗
 Resident Evil 5 (PlayStation 3 the Best)                                                                                           ✗      ✗     ✗
-Resident Evil 5 (USA)                                                                                                              ✓      ✗     ✗
+Resident Evil 5 (USA)                                                                                                                     ✗     ✗
 Resident Evil 5_ Gold Edition                                                                                                      ✗      ✗     ✗
 Resident Evil 5_ Gold Edition (Europe)                                                                                             ✗      ✗     ✗
 Resident Evil 5_ Gold Edition (USA)                                                                                                ✗      ✗     ✗
@@ -4562,7 +4562,7 @@ Shin Sangoku Musou_ Multi Raid 2 HD Version (Japan)                             
 Shin Toudai Shogi (Japan)                                                                                                          ✗      ✗     ✗
 Shin Toudai Shogi (MyNavi Best) (Japan)                                                                                            ✗      ✗     ✗
 Shining Resonance                                                                                                                  ✗      ✗     ✗
-Shining Resonance (Japan)                                                                                                          ✓      ✗     ✗
+Shining Resonance (Japan)                                                                                                                 ✗     ✗
 Shinsengumi Portable                                                                                                               ✗      ✗     ✗
 Shirokishi Monogatari_ Hikari to Yami no Kakusei (Japan)                                                                           ✗      ✗     ✗
 Shirokishi Monogatari_ Hikari to Yami no Kakusei (PlayStation 3 the Best) (Japan)                                                  ✗      ✗     ✗
@@ -4981,7 +4981,7 @@ Super Stardust HD                                                               
 Super Street Fighter 2 Turbo HD                                                                                                    ✗      ✗     ✗
 Super Street Fighter 4                                                                                                             ✗      ✗     ✗
 Super Street Fighter IV _ Arcade Edition (USA)                                                                                     ✗      ✗     ✗
-Super Street Fighter IV (Europe)                                                                                                   ✓      ✗     ✗
+Super Street Fighter IV (Europe)                                                                                                          ✗     ✗
 Super Street Fighter IV (PlayStation 3 the Best)                                                                                   ✗      ✗     ✗
 Super Street Fighter IV (USA)                                                                                                      ✗      ✗     ✗
 Super Street Fighter IV Arcade Edition (Japan)                                                                                     ✗      ✗     ✗
@@ -5023,7 +5023,7 @@ Tales from the Borderlands (USA)                                                
 Tales of Berseria                                                                                                                  ✗      ✗     ✗
 Tales of Graces                                                                                                                    ✗      ✗     ✗
 Tales of Graces F (Europe)                                                                                                         ✗      ✗     ✗
-Tales of Graces f (Japan)                                                                                                          ✓      ✗     ✗
+Tales of Graces f (Japan)                                                                                                                 ✗     ✗
 Tales of Graces F (PlayStation 3 the Best)                                                                                         ✗      ✗     ✗
 Tales of Graces F (PlayStation 3 the Best) (Japan)                                                                                 ✗      ✗     ✗
 Tales of Graces F (USA)                                                                                                            ✗      ✗     ✗
@@ -5051,7 +5051,7 @@ Tales of Xillia (Japan)                                                         
 Tales of Xillia (PlayStation 3 the Best) (Japan)                                                                                   ✗      ✗     ✗
 Tales of Xillia (USA)                                                                                                              ✗      ✗     ✗
 Tales of Xillia 2                                                                                                                  ✗      ✗     ✗
-Tales of Xillia 2 (Japan)                                                                                                          ✓      ✗     ✗
+Tales of Xillia 2 (Japan)                                                                                                                 ✗     ✗
 Tales of Xillia 2 (PlayStation 3 the Best) (Japan)                                                                                 ✗      ✗     ✗
 Tales of Xillia 2 (USA)                                                                                                            ✗      ✗     ✗
 Tales of Zestiria                                                                                                                  ✗      ✗     ✗
@@ -5093,7 +5093,7 @@ Tekken Hybrid                                                                   
 Tekken Hybrid (Europe)                                                                                                             ✗      ✗     ✗
 Tekken Hybrid (Japan)                                                                                                              ✗      ✗     ✗
 Tekken Hybrid (Limited Edition) (USA)                                                                                              ✗      ✗     ✗
-Tekken Hybrid (USA)                                                                                                                ✓      ✗     ✗
+Tekken Hybrid (USA)                                                                                                                       ✗     ✗
 Tekken Revolution                                                                                                                  ✗      ✗     ✗
 Tekken Tag Tournament 2                                                                                                            ✗      ✗     ✗
 Tekken Tag Tournament 2 (Europe)                                                                                                   ✗      ✗     ✗
@@ -5359,7 +5359,7 @@ The Walking Dead_ Season 2 - A Telltale Games Series (USA)                      
 The Walking Dead_ Survival Instinct (Europe)                                                                                       ✗      ✗     ✗
 The Walking Dead_ Survival Instinct (USA)                                                                                          ✗      ✗     ✗
 The Witch and the Hundred Knight (Europe)                                                                                          ✗      ✗     ✗
-The Witch and the Hundred Knight (USA)                                                                                             ✓      ✗     ✗
+The Witch and the Hundred Knight (USA)                                                                                                    ✗     ✗
 The Wolf Among Us                                                                                                                  ✗      ✗     ✗
 The Wolf Among Us (USA)                                                                                                            ✗      ✗     ✗
 Thexder Neo                                                                                                                        ✗      ✗     ✗
@@ -5654,7 +5654,7 @@ Ultimate Uncharted Pack                                                         
 Ultra Street Fighter IV                                                                                                            ✗      ✗     ✗
 Ultra Street Fighter IV (Europe)                                                                                                   ✗      ✗     ✗
 Ultra Street Fighter IV (Japan)                                                                                                    ✗      ✗     ✗
-Ultra Street Fighter IV (USA)                                                                                                      ✓      ✗     ✗
+Ultra Street Fighter IV (USA)                                                                                                             ✗     ✗
 Ultratron                                                                                                                          ✗      ✗     ✗
 Umineko no Naku Koro ni San_ Shinjitsu to Gensou no Yasoukyoku (Japan)                                                             ✗      ✗     ✗
 Umineko no Naku Koro ni_ Majo to Suiri no Rinbukyoku (Japan)                                                                       ✗      ✗     ✗
@@ -5712,7 +5712,7 @@ Valiant Hearts_ The Great War                                                   
 Valis II                                                                                                                           ✗      ✗     ✗
 Valkyria Chronicles (Demo)                                                                                                         ✗      ✗     ✗
 Valkyria Chronicles (Europe)                                                                                                       ✗      ✗     ✗
-Valkyria Chronicles (USA)                                                                                                          ✓      ✗     ✗
+Valkyria Chronicles (USA)                                                                                                                 ✗     ✗
 Vampire Rain _ Altered Species                                                                                                     ✗      ✗     ✗
 Vampire Rain_ Altered Species (Demo)                                                                                               ✗      ✗     ✗
 Vampire Rain_ Altered Species (Europe)                                                                                             ✗      ✗     ✗
@@ -5743,7 +5743,7 @@ Virtua Fighter 5                                                                
 Virtua Fighter 5 (Europe)                                                                                                          ✗      ✗     ✗
 Virtua Fighter 5 (Japan)                                                                                                           ✗      ✗     ✗
 Virtua Fighter 5 (Sega the Best) (Japan)                                                                                           ✗      ✗     ✗
-Virtua Fighter 5 (USA)                                                                                                             ✓      ✗     ✗
+Virtua Fighter 5 (USA)                                                                                                                    ✗     ✗
 Virtua Fighter 5_ Final Showdown                                                                                                   ✗      ✗     ✗
 Virtua Tennis 2009 (Europe)                                                                                                        ✗      ✗     ✗
 Virtua Tennis 2009 (USA)                                                                                                           ✗      ✗     ✗

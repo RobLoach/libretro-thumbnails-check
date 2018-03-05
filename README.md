@@ -46,13 +46,13 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Nintendo - Game Boy Advance](out/Nintendo%20-%20Game%20Boy%20Advance.txt) | 1817 / 3088 | 2853 / 3088 | 2853 / 3088 | 7523 / 9264 | **81.21%** |
 | [Nintendo - Game Boy Color](out/Nintendo%20-%20Game%20Boy%20Color.txt) | 742 / 1425 | 1172 / 1425 | 1172 / 1425 | 3086 / 4275 | **72.19%** |
 | [Nintendo - Game Boy](out/Nintendo%20-%20Game%20Boy.txt) | 1061 / 1611 | 1566 / 1611 | 1565 / 1611 | 4192 / 4833 | **86.74%** |
-| [Nintendo - GameCube](out/Nintendo%20-%20GameCube.txt) | 69 / 2761 | 1 / 2761 | 3 / 2761 | 73 / 8283 | **0.88%** |
+| [Nintendo - GameCube](out/Nintendo%20-%20GameCube.txt) | 116 / 2761 | 1 / 2761 | 3 / 2761 | 120 / 8283 | **1.45%** |
 | [Nintendo - Nintendo 3DS (DLC)](out/Nintendo%20-%20Nintendo%203DS%20(DLC).txt) | 1 / 964 | 1 / 964 | 1 / 964 | 3 / 2892 | **0.10%** |
 | [Nintendo - Nintendo 3DS](out/Nintendo%20-%20Nintendo%203DS.txt) | 22 / 1850 | 1 / 1850 | 1 / 1850 | 24 / 5550 | **0.43%** |
 | [Nintendo - Nintendo 64](out/Nintendo%20-%20Nintendo%2064.txt) | 898 / 950 | 945 / 950 | 945 / 950 | 2788 / 2850 | **97.82%** |
 | [Nintendo - Nintendo 64DD](out/Nintendo%20-%20Nintendo%2064DD.txt) | 11 / 13 | 6 / 13 | 5 / 13 | 22 / 39 | **56.41%** |
 | [Nintendo - Nintendo DS (Download Play)](out/Nintendo%20-%20Nintendo%20DS%20(Download%20Play).txt) | 0 / 380 | 0 / 380 | 0 / 380 | 0 / 1140 | **0.00%** |
-| [Nintendo - Nintendo DS](out/Nintendo%20-%20Nintendo%20DS.txt) | 3535 / 7022 | 10 / 7022 | 17 / 7022 | 3562 / 21066 | **16.91%** |
+| [Nintendo - Nintendo DS](out/Nintendo%20-%20Nintendo%20DS.txt) | 3630 / 7022 | 10 / 7022 | 17 / 7022 | 3657 / 21066 | **17.36%** |
 | [Nintendo - Nintendo DSi (DLC)](out/Nintendo%20-%20Nintendo%20DSi%20(DLC).txt) | 0 / 949 | 0 / 949 | 0 / 949 | 0 / 2847 | **0.00%** |
 | [Nintendo - Nintendo DSi](out/Nintendo%20-%20Nintendo%20DSi.txt) | 6 / 11 | 1 / 11 | 1 / 11 | 8 / 33 | **24.24%** |
 | [Nintendo - Nintendo Entertainment System](out/Nintendo%20-%20Nintendo%20Entertainment%20System.txt) | 1940 / 2878 | 2629 / 2878 | 2627 / 2878 | 7196 / 8634 | **83.34%** |
@@ -63,7 +63,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Nintendo - Super Nintendo Entertainment System](out/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System.txt) | 3318 / 3476 | 3054 / 3476 | 3054 / 3476 | 9426 / 10428 | **90.39%** |
 | [Nintendo - Virtual Boy](out/Nintendo%20-%20Virtual%20Boy.txt) | 31 / 31 | 31 / 31 | 31 / 31 | 93 / 93 | **100.00%** |
 | [Nintendo - Wii](out/Nintendo%20-%20Wii.txt) | 510 / 7270 | 2 / 7270 | 2 / 7270 | 514 / 21810 | **2.36%** |
-| [Philips - Videopac+](out/Philips%20-%20Videopac+.txt) | 0 / 32 | 32 / 32 | 32 / 32 | 64 / 96 | **66.67%** |
+| [Philips - Videopac+](out/Philips%20-%20Videopac+.txt) | 31 / 32 | 32 / 32 | 32 / 32 | 95 / 96 | **98.96%** |
 | [Quake1](out/Quake1.txt) | 4 / 4 | 4 / 4 | 4 / 4 | 12 / 12 | **100.00%** |
 | [RCA - Studio II](out/RCA%20-%20Studio%20II.txt) | 5 / 5 | 5 / 5 | 5 / 5 | 15 / 15 | **100.00%** |
 | [Rick Dangerous](out/Rick%20Dangerous.txt) | 1 / 1 | 1 / 1 | 1 / 1 | 3 / 3 | **100.00%** |
@@ -95,7 +95,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Sony - PlayStation Portable (UMD Video)](out/Sony%20-%20PlayStation%20Portable%20(UMD%20Video).txt) | 0 / 748 | 0 / 748 | 0 / 748 | 0 / 2244 | **0.00%** |
 | [Sony - PlayStation Portable](out/Sony%20-%20PlayStation%20Portable.txt) | 167 / 3419 | 63 / 3419 | 63 / 3419 | 293 / 10257 | **2.86%** |
 | [Sony - PlayStation Vita](out/Sony%20-%20PlayStation%20Vita.txt) | 2 / 210 | 1 / 210 | 1 / 210 | 4 / 630 | **0.63%** |
-| [Sony - PlayStation](out/Sony%20-%20PlayStation.txt) | 785 / 9397 | 202 / 9397 | 214 / 9397 | 1201 / 28191 | **4.26%** |
+| [Sony - PlayStation](out/Sony%20-%20PlayStation.txt) | 810 / 9397 | 202 / 9397 | 214 / 9397 | 1226 / 28191 | **4.35%** |
 | [The 3DO Company - 3DO](out/The%203DO%20Company%20-%203DO.txt) | 85 / 274 | 66 / 274 | 68 / 274 | 219 / 822 | **26.64%** |
 | [Tiger - Game.com](out/Tiger%20-%20Game.com.txt) | 0 / 22 | 22 / 22 | 22 / 22 | 44 / 66 | **66.67%** |
 | [Tomb Raider](out/Tomb%20Raider.txt) | 1 / 6 | 1 / 6 | 1 / 6 | 3 / 18 | **16.67%** |
@@ -103,7 +103,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [VTech - CreatiVision](out/VTech%20-%20CreatiVision.txt) | 20 / 20 | 20 / 20 | 20 / 20 | 60 / 60 | **100.00%** |
 | [VTech - V.Smile](out/VTech%20-%20V.Smile.txt) | 1 / 98 | 1 / 98 | 1 / 98 | 3 / 294 | **1.02%** |
 | [Watara - Supervision](out/Watara%20-%20Supervision.txt) | 63 / 63 | 63 / 63 | 63 / 63 | 189 / 189 | **100.00%** |
-| **Total** | **23540 / 98288** | **23120 / 98288** | **22319 / 98288** | **68979 / 294864** | **23.39%** |
+| **Total** | **23738 / 98288** | **23120 / 98288** | **22319 / 98288** | **69177 / 294864** | **23.46%** |
 
 ## Build
 
