@@ -52,7 +52,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Nintendo - Nintendo 64](out/Nintendo%20-%20Nintendo%2064.txt) | 898 / 950 | 945 / 950 | 945 / 950 | 2788 / 2850 | **97.82%** |
 | [Nintendo - Nintendo 64DD](out/Nintendo%20-%20Nintendo%2064DD.txt) | 11 / 13 | 6 / 13 | 5 / 13 | 22 / 39 | **56.41%** |
 | [Nintendo - Nintendo DS (Download Play)](out/Nintendo%20-%20Nintendo%20DS%20(Download%20Play).txt) | 0 / 380 | 0 / 380 | 0 / 380 | 0 / 1140 | **0.00%** |
-| [Nintendo - Nintendo DS](out/Nintendo%20-%20Nintendo%20DS.txt) | 3622 / 7036 | 10 / 7036 | 17 / 7036 | 3649 / 21108 | **17.29%** |
+| [Nintendo - Nintendo DS](out/Nintendo%20-%20Nintendo%20DS.txt) | 3668 / 7036 | 10 / 7036 | 17 / 7036 | 3695 / 21108 | **17.51%** |
 | [Nintendo - Nintendo DSi (DLC)](out/Nintendo%20-%20Nintendo%20DSi%20(DLC).txt) | 0 / 989 | 0 / 989 | 0 / 989 | 0 / 2967 | **0.00%** |
 | [Nintendo - Nintendo DSi](out/Nintendo%20-%20Nintendo%20DSi.txt) | 6 / 11 | 1 / 11 | 1 / 11 | 8 / 33 | **24.24%** |
 | [Nintendo - Nintendo Entertainment System](out/Nintendo%20-%20Nintendo%20Entertainment%20System.txt) | 1998 / 2883 | 2756 / 2883 | 2751 / 2883 | 7505 / 8649 | **86.77%** |
@@ -102,7 +102,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [VTech - CreatiVision](out/VTech%20-%20CreatiVision.txt) | 0 / 20 | 0 / 20 | 0 / 20 | 0 / 60 | **0.00%** |
 | [VTech - V.Smile](out/VTech%20-%20V.Smile.txt) | 0 / 112 | 0 / 112 | 0 / 112 | 0 / 336 | **0.00%** |
 | [Watara - Supervision](out/Watara%20-%20Supervision.txt) | 0 / 63 | 0 / 63 | 0 / 63 | 0 / 189 | **0.00%** |
-| **Total** | **23490 / 101362** | **23831 / 101362** | **22005 / 101362** | **69326 / 304086** | **22.80%** |
+| **Total** | **23536 / 101362** | **23831 / 101362** | **22005 / 101362** | **69372 / 304086** | **22.81%** |
 
 ## Build
 
