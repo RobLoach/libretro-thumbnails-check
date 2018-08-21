@@ -1,15 +1,20 @@
 Atari - 2600 Missing
 
-Boxarts    581/582  99.83%
-Snaps      579/582  99.48%
-Titles     578/582  99.31%
-Total    1738/1746  99.54%
+Boxarts    557/604  92.22%
+Snaps      557/604  92.22%
+Titles     557/604  92.22%
+Total    1671/1812  92.22%
 
 Name                                                                                   Boxart  Snap  Title
+3-D Genesis (USA) (Proto)                                                                 ✗      ✗     ✗
+3-D Ghost Attack (USA) (Proto)                                                            ✗      ✗     ✗
+3-D Havoc (USA) (Proto)                                                                   ✗      ✗     ✗
 3-D Tic-Tac-Toe (USA)                                                                     -      -     -
+3-D Zapper (USA) (Proto)                                                                  ✗      ✗     ✗
 32 in 1 Game Cartridge (Europe)                                                           -      -     -
 Acid Drop (USA)                                                                           -      -     -
 Action Force (USA)                                                                        -      -     -
+Actionauts (USA) (Proto)                                                                  ✗      ✗     ✗
 Activision Decathlon, The (USA)                                                           -      -     -
 Adventure (USA)                                                                           -      -     -
 Adventures of TRON (USA)                                                                  -      -     -
@@ -22,6 +27,7 @@ Aliens Return (Europe)                                                          
 Alligator People (USA) (Proto)                                                            -      -     -
 Alpha Beam with Ernie (USA)                                                               -      -     -
 Amidar (USA)                                                                              -      -     -
+AndroMan on the Moon (USA) (Proto)                                                        ✗      ✗     ✗
 Apples And Dolls (USA)                                                                    -      -     -
 Aquaventure (USA) (Proto)                                                                 -      -     -
 Armor Ambush (USA)                                                                        -      -     -
@@ -34,6 +40,7 @@ Astrowar (USA)                                                                  
 Atari Video Cube (USA)                                                                    -      -     -
 Atlantis (USA)                                                                            -      -     -
 Atlantis II (USA)                                                                         -      -     -
+Atom Smasher (USA) (Proto)                                                                ✗      ✗     ✗
 Bachelor Party ~ Gigolo (USA)                                                             -      -     -
 Bachelorette Party ~ Burning Desire (USA)                                                 -      -     -
 Backgammon (USA)                                                                          -      -     -
@@ -59,6 +66,7 @@ Bobby geht Heim (Europe)                                                        
 Bobby is Going Home (USA)                                                                 -      -     -
 Boggle (USA) (Proto)                                                                      -      -     -
 Boing! (USA)                                                                              -      -     -
+Bouncin' Baby Bunnies (USA) (Proto)                                                       ✗      ✗     ✗
 Bowling (USA)                                                                             -      -     -
 Boxing (USA)                                                                              -      -     -
 Brain Games (USA)                                                                         -      -     -
@@ -92,6 +100,7 @@ Circus Atari (USA)                                                              
 Coco Nuts (USA)                                                                           -      -     -
 Codebreaker (USA)                                                                         -      -     -
 Color Bar Generator (USA)                                                                 -      -     -
+Colors (USA) (Proto)                                                                      ✗      ✗     ✗
 Combat ~ Tank-Plus (USA)                                                                  -      -     -
 Combat Two (USA) (Proto)                                                                  -      -     -
 Commando (USA)                                                                            -      -     -
@@ -149,6 +158,7 @@ E.T. - The Extra-Terrestrial (USA)                                              
 Earth Dies Screaming, The (USA)                                                           -      -     -
 Eggomania (USA)                                                                           -      -     -
 Elevator Action (USA) (Proto)                                                             -      -     -
+Elf Adventure (USA) (Proto)                                                               ✗      ✗     ✗
 Eli's Ladder (USA)                                                                        -      -     -
 Elk Attack (USA) (Proto)                                                                  -      -     -
 Encounter at L-5 (USA)                                                                    -      -     -
@@ -200,7 +210,9 @@ Ghostbusters II (Europe)                                                        
 Glacier Patrol (USA)                                                                      -      -     -
 Glib - Video Word Game (USA)                                                              -      -     -
 Go Go Home Monster (USA)                                                                  -      -     -
+Going-Up (USA) (Proto)                                                                    ✗      ✗     ✗
 Golf (USA)                                                                                -      -     -
+Good Luck, Charlie Brown (USA) (Proto)                                                    ✗      ✗     ✗
 Gopher (USA)                                                                              -      -     -
 Gorf (USA)                                                                                -      -     -
 Grand Prix (USA)                                                                          -      -     -
@@ -213,21 +225,23 @@ Guardian (USA)                                                                  
 Gyruss (USA)                                                                              -      -     -
 H.E.R.O. (USA)                                                                            -      -     -
 Halloween (USA)                                                                           -      -     -
-Hangman - Spelling (USA)                                                                  -      -     -
+Hangman ~ Spelling (USA)                                                                  ✗      ✗     ✗
+Hard-Head (USA) (Proto)                                                                   ✗      ✗     ✗
+Harem (USA) (Proto)                                                                       ✗      ✗     ✗
 Haunted House (USA)                                                                       -      -     -
 Hell Driver (Europe)                                                                      -      -     -
 Hole Hunter (USA)                                                                         -      -     -
 Holey Moley (USA) (Proto)                                                                 -      -     -
-Home Run - Baseball (USA)                                                                 -      -     -
-Human Cannonball - Cannon Man (USA)                                                       -      -     -
-Hunt _ Score - Memory Match (USA)                                                         -      -     -
+Home Run ~ Baseball (USA)                                                                 ✗      ✗     ✗
+Human Cannonball ~ Cannon Man (USA)                                                       ✗      ✗     ✗
+Hunt _ Score ~ Memory Match (USA)                                                         ✗      ✗     ✗
 I Want My Mommy (USA)                                                                     -      -     -
 I.Q. 180 (USA)                                                                            -      -     -
 I.Q. Memory Teaser (Europe)                                                               -      -     -
 Ice Hockey (USA)                                                                          -      -     -
 Ikari Warriors (USA)                                                                      -      -     -
 Immies _ Aggies (USA) (Proto)                                                             -      -     -
-Indy 500 - Race (USA)                                                                     -      -     -
+Indy 500 ~ Race (USA)                                                                     ✗      ✗     ✗
 Infiltrate (USA)                                                                          -      -     -
 International Soccer (USA)                                                                -      -     -
 IQ 180 (USA)                                                                              -      -     -
@@ -256,6 +270,7 @@ Kyphus (USA) (Proto)                                                            
 Lady In Wading (USA)                                                                      -      -     -
 Laser Blast (USA)                                                                         -      -     -
 Laser Gates (USA)                                                                         -      -     -
+Lasercade (USA) (Proto)                                                                   ✗      ✗     ✗
 Lilly Adventure (Europe)                                                                  -      -     -
 Lilly Adventure (USA)                                                                     -      -     -
 Lochjaw (USA)                                                                             -      -     -
@@ -275,7 +290,8 @@ Mario Bros. (USA)                                                               
 Master Builder (USA)                                                                      -      -     -
 Masters of the Universe - The Power of He-Man (USA)                                       -      -     -
 Math Gran Prix (USA)                                                                      -      -     -
-Maze Craze - A Game of Cops 'n Robbers - Maze Mania - A Game of Cops 'n Robbers (USA)     -      -     -
+Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers (USA)     ✗      ✗     ✗
+Mazy Match (USA) (Proto)                                                                  ✗      ✗     ✗
 McDonald's - Golden Arches Adventure (USA) (Proto)                                        -      -     -
 Mega Force (USA)                                                                          -      -     -
 MegaBoy (USA)                                                                             -      -     -
@@ -287,7 +303,7 @@ Mind Maze (USA)                                                                 
 Miner 2049er - Starring Bounty Bob (USA)                                                  -      -     -
 Miner 2049er Volume II (USA)                                                              -      -     -
 Mines of Minos (USA)                                                                      -      -     -
-Miniature Golf - Arcade Golf (USA)                                                        -      -     -
+Miniature Golf ~ Arcade Golf (USA)                                                        ✗      ✗     ✗
 Miss Piggy's Wedding (USA) (Proto)                                                        -      -     -
 Missile Command (USA)                                                                     -      -     -
 Missile Control (Europe)                                                                  -      -     -
@@ -299,6 +315,7 @@ Monster Cise (USA) (Proto)                                                      
 Montezuma's Revenge - Featuring Panama Joe (USA)                                          -      -     -
 Moon Patrol (USA)                                                                         -      -     -
 Moonsweeper (USA)                                                                         -      -     -
+Morse Code Tutor (USA)                                                                    ✗      ✗     ✗
 Motocross (USA)                                                                           -      -     -
 Motocross Racer (USA)                                                                     -      -     -
 MotoRodeo (USA)                                                                           -      -     -
@@ -329,7 +346,7 @@ Open Sesame (Europe)                                                            
 Oscar's Trash Race (USA)                                                                  -      -     -
 Othello (USA)                                                                             -      -     -
 Out of Control (USA)                                                                      -      -     -
-Outlaw - Gunslinger (USA)                                                                 -      -     -
+Outlaw ~ Gunslinger (USA)                                                                 ✗      ✗     ✗
 Pac-Man (USA)                                                                             -      -     -
 Panda Chase (Europe)                                                                      -      -     -
 Parachute (Europe)                                                                        -      -     -
@@ -351,6 +368,7 @@ Piece o' Cake (USA)                                                             
 Pigs in Space - Starring Miss Piggy (USA)                                                 -      -     -
 Pitfall II - Lost Caverns (USA)                                                           -      -     -
 Pitfall! - Pitfall Harry's Jungle Adventure (USA)                                         -      -     -
+Pizza Chef (USA) (Proto)                                                                  ✗      ✗     ✗
 Planet of the Apes (USA) (Proto)                                                          -      -     -
 Planet Patrol (USA)                                                                       -      -     -
 Plaque Attack (USA)                                                                       -      -     -
@@ -362,6 +380,7 @@ Pompeii (USA) (Proto)                                                           
 Pooyan (USA)                                                                              -      -     -
 Popeye (USA)                                                                              -      -     -
 Porky's (USA)                                                                             -      -     -
+Power Lords (USA) (Proto)                                                                 ✗      ✗     ✗
 Pressure Cooker (USA)                                                                     -      -     -
 Private Eye (USA)                                                                         -      -     -
 Q-bert (USA)                                                                              -      -     -
@@ -399,14 +418,17 @@ Road Runner (USA)                                                               
 Robin Hood (USA)                                                                          -      -     -
 Robot Tank (USA)                                                                          -      -     -
 Roc 'n Rope (USA)                                                                         -      -     -
+Rocky _ Bullwinkle (USA) (Proto)                                                          ✗      ✗     ✗
 Room of Doom (USA)                                                                        -      -     -
 Rubik's Cube 3-D (USA) (Proto)                                                            -      -     -
+Rush Hour (USA) (Proto)                                                                   ✗      ✗     ✗
 S.A.C. Alert (USA) (Proto)                                                                -      -     -
 Saboteur (USA) (Proto)                                                                    -      -     -
 Save Mary! (USA) (Proto)                                                                  -      -     -
 Save Our Ship (Europe)                                                                    -      -     -
 Save our Ship (USA)                                                                       -      -     -
 Save the Whales (USA) (Proto)                                                             -      -     -
+SCRMNN (USA) (Proto)                                                                      ✗      ✗     ✗
 Sea Battle (USA)                                                                          -      -     -
 Sea Hawk (USA)                                                                            -      -     -
 Sea Hunt ~ Scuba Diver (USA)                                                              -      -     -
@@ -421,6 +443,7 @@ Shooting Arcade (USA) (Proto)                                                   
 Shuttle Orbiter (USA)                                                                     -      -     -
 Sinistar (USA) (Proto)                                                                    -      -     -
 Sir Lancelot (USA)                                                                        -      -     -
+Six Pack (USA) (Proto)                                                                    ✗      ✗     ✗
 Skate Boardin' (USA)                                                                      -      -     -
 Skeet Shoot (USA)                                                                         -      -     -
 Ski Hunt (Europe)                                                                         -      -     -
@@ -429,15 +452,15 @@ Ski Run (USA)                                                                   
 Skiing (USA)                                                                              -      -     -
 Skindiver (Europe)                                                                        -      -     -
 Sky Alien (Europe)                                                                        -      -     -
-Sky Diver - Dare Diver (USA)                                                              -      -     -
+Sky Diver ~ Dare Diver (USA)                                                              ✗      ✗     ✗
 Sky Jinks (USA)                                                                           -      -     -
 Sky Patrol (USA) (Proto)                                                                  -      -     -
 Sky Skipper (USA)                                                                         -      -     -
-Slot Machine - Slots (USA)                                                                -      -     -
-Slot Racers - Maze (USA)                                                                  -      -     -
+Slot Machine ~ Slots (USA)                                                                ✗      ✗     ✗
+Slot Racers ~ Maze (USA)                                                                  ✗      ✗     ✗
 Smurf - Rescue in Gargamel's Castle (USA)                                                 -      -     -
 Smurfs Save the Day (USA)                                                                 -      -     -
-Snail Against Squirrel (Europe)                                                           -      -     -
+Snail against Squirrel (Europe)                                                           ✗      ✗     ✗
 Sneak 'n Peek (USA)                                                                       -      -     -
 Snoopy and the Red Baron (USA)                                                            -      -     -
 Snow White and the Seven Dwarfs (USA) (Proto)                                             -      -     -
@@ -452,13 +475,14 @@ Space Invaders (USA)                                                            
 Space Jockey (USA)                                                                        -      -     -
 Space Shuttle - A Journey into Space (USA)                                                -      -     -
 Space Tunnel (USA)                                                                        -      -     -
-Space War - Space Combat (USA)                                                            -      -     -
+Space War ~ Space Combat (USA)                                                            ✗      ✗     ✗
 Spacechase (USA)                                                                          -      -     -
 SpaceMaster X-7 (USA)                                                                     -      -     -
 Spider Fighter (USA)                                                                      -      -     -
 Spider Maze (USA)                                                                         -      -     -
 Spider-Man (USA)                                                                          -      -     -
 Spike's Peak (USA)                                                                        -      -     -
+Spinning Fireball (USA) (Proto)                                                           ✗      ✗     ✗
 Spitfire Attack (USA)                                                                     -      -     -
 Springer (USA)                                                                            -      -     -
 Sprint Master (USA)                                                                       -      -     -
@@ -470,7 +494,7 @@ Sssnake (USA)                                                                   
 Stampede (USA)                                                                            -      -     -
 Star Fox (USA)                                                                            -      -     -
 Star Raiders (USA)                                                                        -      -     -
-Star Ship - Outer Space (USA)                                                             -      -     -
+Star Ship ~ Outer Space (USA)                                                             ✗      ✗     ✗
 Star Strike (USA)                                                                         -      -     -
 Star Trek - Strategic Operations Simulator (USA)                                          -      -     -
 Star Voyager (USA)                                                                        -      -     -
@@ -488,7 +512,7 @@ Stellar Track (USA)                                                             
 Stone Age (USA)                                                                           -      -     -
 Strategy X (USA)                                                                          -      -     -
 Strawberry Shortcake - Musical Match-Ups (USA)                                            -      -     -
-Street Racer - Speedway II (USA)                                                          -      -     -
+Street Racer ~ Speedway II (USA)                                                          ✗      ✗     ✗
 Stronghold (USA)                                                                          -      -     -
 Stunt Cycle (USA) (Proto)                                                                 -      -     -
 Stunt Man (USA)                                                                           -      -     -
@@ -506,7 +530,7 @@ Super Football (USA)                                                            
 Superman (USA)                                                                            -      -     -
 Surf's Up (USA) (Proto)                                                                   -      -     -
 Surfer's Paradise - But Danger Below! (Europe)                                            -      -     -
-Surround - Chase (USA)                                                                    -      -     -
+Surround ~ Chase (USA)                                                                    ✗      ✗     ✗
 Survival Island (USA)                                                                     -      -     -
 Survival Run (USA)                                                                        -      -     -
 Survival Run (USA) (Proto)                                                                -      -     -
@@ -542,26 +566,23 @@ Treasure Below (Europe)                                                         
 Treasure Island ~ Duck Shoot (Europe)                                                     -      -     -
 Trick Shot (USA)                                                                          -      -     -
 TRON - Deadly Discs (USA)                                                                 -      -     -
-Tunnel de L'Estace, Le (Europe)                                                           -      -     ✗
+Tunnel de L'Estace, Le (Europe)                                                           -      -     -
 Tunnel Runner (USA)                                                                       -      -     -
+Turbo (USA) (Proto)                                                                       ✗      ✗     ✗
 Turmoil (USA)                                                                             -      -     -
 Tutankham (USA)                                                                           -      -     -
 Universal Chaos (USA)                                                                     -      -     -
-Unknown 20th Century Fox Game (USA) (Proto)                                               -      -     -
-Unknown Activision Game #1 (USA) (Proto)                                                  -      -     -
-Unknown Activision Game #2 (USA) (Proto)                                                  -      ✗     ✗
-Unknown Datatech Game (USA)                                                               -      ✗     ✗
 Up 'n Down (USA)                                                                          -      -     -
 Vanguard (USA)                                                                            -      -     -
 Vault Assault (USA) (Unl)                                                                 -      -     -
 Venetian Blinds Demo (USA)                                                                -      -     -
 Venture (USA)                                                                             -      -     -
-Video Checkers - Checkers (USA)                                                           -      -     -
+Video Checkers ~ Checkers (USA)                                                           ✗      ✗     ✗
 Video Chess (USA)                                                                         -      -     -
 Video Jogger (USA)                                                                        -      -     -
 Video Life (USA)                                                                          -      -     -
-Video Olympics - Pong Sports (USA)                                                        -      -     -
-Video Pinball - Arcade Pinball (USA)                                                      -      -     -
+Video Olympics ~ Pong Sports (USA)                                                        ✗      ✗     ✗
+Video Pinball ~ Arcade Pinball (USA)                                                      ✗      ✗     ✗
 Video Reflex (USA)                                                                        -      -     -
 Wabbit (USA)                                                                              -      -     -
 Walker ~ Schussel Der Polizistenschreck (Europe)                                          -      -     -
@@ -582,7 +603,8 @@ World End (USA)                                                                 
 Worm War I (USA)                                                                          -      -     -
 X-Man (USA)                                                                               -      -     -
 Xenophobe (USA)                                                                           -      -     -
-Xevious (USA) (Proto)                                                                     -      -     -
+Xevious (USA) (01-18-1984) (Proto)                                                        ✗      ✗     ✗
+Xevious (USA) (08-02-1983) (Proto)                                                        ✗      ✗     ✗
 Yars' Revenge (USA)                                                                       -      -     -
 Z-Tack (USA)                                                                              -      -     -
 Zaxxon (USA)                                                                              -      -     -

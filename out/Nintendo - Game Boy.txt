@@ -1,9 +1,9 @@
 Nintendo - Game Boy Missing
 
-Boxarts  1060/1613  65.72%
-Snaps    1564/1613  96.96%
-Titles   1563/1613  96.90%
-Total    4187/4839  86.53%
+Boxarts  1053/1620  65.00%
+Snaps    1555/1620  95.99%
+Titles   1554/1620  95.93%
+Total    4162/4860  85.64%
 
 Name                                                                                            Boxart  Snap  Title
 3 Choume no Tama - Tama and Friends - 3 Choume Obake Panic!! (Japan)                               ✗      -     -
@@ -29,7 +29,7 @@ Addams Family, The (USA)                                                        
 Adventure Island (USA, Europe)                                                                     -      -     -
 Adventure Island II - Aliens in Paradise (USA, Europe)                                             -      -     -
 Adventures of Lolo (Europe) (SGB Enhanced)                                                         -      -     -
-Adventures of Pinocchio, The (Europe) (Proto) (Unl)                                                ✗      ✗     ✗
+Adventures of Pinocchio, The (Europe) (Proto)                                                      ✗      ✗     ✗
 Adventures of Rocky and Bullwinkle and Friends, The (USA)                                          -      -     -
 Adventures of Star Saver, The (USA, Europe)                                                        -      -     -
 Aero Star (Japan)                                                                                  -      -     -
@@ -157,7 +157,7 @@ Blues Brothers, The - Jukebox Adventure (Europe)                                
 Blues Brothers, The (USA, Europe)                                                                  -      -     -
 Bo Jackson - Two Games in One (USA)                                                                -      -     -
 Boggle Plus (USA)                                                                                  -      -     -
-Bokujou Monogatari GB (Japan) (Rev AB) (SGB Enhanced)                                              -      -     -
+Bokujou Monogatari GB (Japan) (Rev A) (SGB Enhanced)                                               ✗      ✗     ✗
 Bokujou Monogatari GB (Japan) (SGB Enhanced)                                                       -      -     -
 Bomb Jack (Europe)                                                                                 -      -     -
 Bomber Boy (Japan)                                                                                 -      -     -
@@ -684,8 +684,8 @@ Kirby's Star Stacker (USA, Europe) (SGB Enhanced)                               
 Kitchen Panic (Japan)                                                                              ✗      -     -
 Kiteretsu Daihyakka - Bouken Ooedo Juraki (Japan)                                                  ✗      -     -
 Kizuchi da Quiz da Gen-san da! (Japan)                                                             ✗      -     -
-Klax (Japan)                                                                                       -      -     -
-Klax (USA)                                                                                         -      -     -
+Klax (Japan) (Hudson Soft)                                                                         ✗      ✗     ✗
+Klax (USA) (Mindscape)                                                                             ✗      ✗     ✗
 Knight Quest (Japan)                                                                               -      -     -
 Knight Quest (USA)                                                                                 -      -     -
 Koi wa Kakehiki (Japan)                                                                            ✗      -     -
@@ -765,11 +765,11 @@ Makai Toushi Sa-Ga (Japan)                                                      
 Makai Toushi Sa-Ga (Japan) (Rev A)                                                                 -      -     -
 Makaimura Gaiden - The Demon Darkness (Japan)                                                      -      -     -
 Malibu Beach Volleyball (USA)                                                                      -      -     -
-Mani 4 in 1 (China) (DMG-601 CHN)                                                                  ✗      ✗     ✗
-Mani 4 in 1 (China) (DMG-602 CHN)                                                                  ✗      -     -
-Mani 4 in 1 (China) (DMG-603 CHN)                                                                  ✗      -     -
-Mani 4 in 1 (China) (DMG-604 CHN)                                                                  ✗      ✗     ✗
-Mani 4 in 1 (China) (DMG-605 CHN)                                                                  ✗      ✗     ✗
+Mani 4 in 1 (China) (DMG-601)                                                                      ✗      ✗     ✗
+Mani 4 in 1 (China) (DMG-602)                                                                      ✗      ✗     ✗
+Mani 4 in 1 (China) (DMG-603)                                                                      ✗      ✗     ✗
+Mani 4 in 1 (China) (DMG-604)                                                                      ✗      ✗     ✗
+Mani 4 in 1 (China) (DMG-605)                                                                      ✗      ✗     ✗
 Marble Madness (USA, Europe)                                                                       -      -     -
 Mario _ Yoshi (Europe)                                                                             -      -     -
 Mario no Picross (Japan) (SGB Enhanced)                                                            -      -     -
@@ -816,6 +816,7 @@ Mickey Mouse (Japan)                                                            
 Mickey Mouse II (Japan)                                                                            -      -     -
 Mickey Mouse IV (Japan)                                                                            -      -     -
 Mickey Mouse V (Japan)                                                                             -      -     -
+Mickey Mouse V (Japan) (Rev A)                                                                     ✗      ✗     ✗
 Mickey's Chase (Japan)                                                                             -      -     -
 Mickey's Dangerous Chase (Europe)                                                                  -      -     -
 Mickey's Dangerous Chase (USA)                                                                     -      -     -
@@ -1071,11 +1072,15 @@ Pocket Monsters - Aka (Japan) (SGB Enhanced)                                    
 Pocket Monsters - Ao (Japan) (SGB Enhanced)                                                        ✗      -     -
 Pocket Monsters - Midori (Japan) (Rev A) (SGB Enhanced)                                            ✗      -     -
 Pocket Monsters - Midori (Japan) (SGB Enhanced)                                                    ✗      -     -
-Pocket Monsters - Pikachu (Japan) (Rev 1) (SGB Enhanced)                                           -      -     -
-Pocket Monsters - Pikachu (Japan) (Rev 2) (SGB Enhanced)                                           -      -     -
-Pocket Monsters - Pikachu (Japan) (Rev 3) (SGB Enhanced)                                           -      -     -
+Pocket Monsters - Pikachu (Japan) (Rev A) (SGB Enhanced)                                           ✗      ✗     ✗
+Pocket Monsters - Pikachu (Japan) (Rev B) (SGB Enhanced)                                           ✗      ✗     ✗
+Pocket Monsters - Pikachu (Japan) (Rev C) (SGB Enhanced)                                           ✗      ✗     ✗
 Pocket Monsters - Pikachu (Japan) (SGB Enhanced)                                                   -      -     -
-Pocket Puyo Puyo Tsuu (Japan) (Rev 1) (SGB Enhanced) (NP)                                          ✗      ✗     ✗
+Pocket Monsters Gin (Japan) (Demo) (Kiosk, Space World, Debug)                                     ✗      ✗     ✗
+Pocket Monsters Gin (Japan) (Demo) (Kiosk, Space World, Non-Debug)                                 ✗      ✗     ✗
+Pocket Monsters Kin (Japan) (Demo) (Kiosk, Space World, Debug) (SGB Enhanced)                      ✗      ✗     ✗
+Pocket Monsters Kin (Japan) (Demo) (Kiosk, Space World, Non-Debug) (SGB Enhanced)                  ✗      ✗     ✗
+Pocket Puyo Puyo Tsuu (Japan) (Rev A) (SGB Enhanced) (NP)                                          ✗      ✗     ✗
 Pocket Puyo Puyo Tsuu (Japan) (SGB Enhanced)                                                       -      -     -
 Pocket Shougi (Japan) (SGB Enhanced)                                                               ✗      -     -
 Pocket Sonar (Japan)                                                                               ✗      -     -
@@ -1379,8 +1384,8 @@ Super Mario Land 2 - 6 Golden Coins (USA, Europe)                               
 Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev A)                                          -      -     -
 Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev B)                                          -      -     -
 Super Mario Land 2 - 6-tsu no Kinka (Japan)                                                        -      -     -
-Super Mario Land 2 - 6-tsu no Kinka (Japan) (Rev 1)                                                ✗      ✗     ✗
-Super Mario Land 2 - 6-tsu no Kinka (Japan) (Rev 2)                                                -      -     -
+Super Mario Land 2 - 6-tsu no Kinka (Japan) (Rev A)                                                ✗      ✗     ✗
+Super Mario Land 2 - 6-tsu no Kinka (Japan) (Rev B)                                                ✗      ✗     ✗
 Super Momotarou Dentetsu (Japan)                                                                   ✗      -     -
 Super Momotarou Dentetsu II (Japan)                                                                ✗      -     -
 Super Off Road (USA, Europe)                                                                       -      -     -
@@ -1453,6 +1458,7 @@ Tetris Plus (Japan) (SGB Enhanced)                                              
 Tetris Plus (USA, Europe) (SGB Enhanced)                                                           -      -     -
 Thunderbirds (Japan)                                                                               ✗      -     -
 Tintin - Prisoners of the Sun (Europe) (En,Fr,De)                                                  ✗      -     -
+Tintin in Tibet (Europe) (En,Es,It,Sv) (SGB Enhanced)                                              ✗      ✗     ✗
 Tintin in Tibet (Europe) (En,Fr,De,Nl) (SGB Enhanced)                                              -      -     -
 Tiny Toon Adventures - Babs' Big Break (USA, Europe)                                               -      -     -
 Tiny Toon Adventures - Dokidoki Sport Festival (Japan)                                             -      -     -
@@ -1562,6 +1568,7 @@ Wizardry Gaiden 2 - Kodai Koutei no Noroi (Japan)                               
 Wizardry Gaiden 3 - Yami no Seiten (Japan)                                                         ✗      -     -
 Wizards _ Warriors Chapter X - The Fortress of Fear (USA, Europe)                                  -      -     -
 Wordtris (USA)                                                                                     -      -     -
+Wordtris (USA) (Beta)                                                                              ✗      ✗     ✗
 WordZap (USA)                                                                                      -      -     -
 World Beach Volley - 1991 GB Cup (Japan)                                                           -      -     -
 World Beach Volley - 1992 GB Cup (Europe)                                                          -      -     -

@@ -1,9 +1,9 @@
 Nintendo - Nintendo 64 Missing
 
-Boxarts    898/950  94.53%
-Snaps      945/950  99.47%
-Titles     945/950  99.47%
-Total    2788/2850  97.82%
+Boxarts    898/988  90.89%
+Snaps      945/988  95.65%
+Titles     945/988  95.65%
+Total    2788/2964  94.06%
 
 Name                                                                               Boxart  Snap  Title
 007 - GoldenEye (Europe)                                                              -      -     -
@@ -150,7 +150,8 @@ Command _ Conquer (Germany)                                                     
 Command _ Conquer (USA)                                                               -      -     -
 Conker's Bad Fur Day (Europe)                                                         -      -     -
 Conker's Bad Fur Day (USA)                                                            -      -     -
-Conker's Bad Fur Day (USA) (Demo) (Kiosk, ECTS 2000)                                  -      -     -
+Conker's Bad Fur Day (USA) (Beta) (25.10.2000)                                        ✗      ✗     ✗
+Conker's Bad Fur Day (USA) (Beta) (ECTS 2000) (26.08.2000)                            ✗      ✗     ✗
 Cruis'n Exotica (USA)                                                                 -      -     -
 Cruis'n USA (Europe)                                                                  -      -     -
 Cruis'n USA (USA)                                                                     -      -     -
@@ -181,6 +182,7 @@ Diddy Kong Racing (USA) (En,Fr)                                                 
 Diddy Kong Racing (USA) (En,Fr) (Rev A)                                               -      -     -
 Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)                                   -      -     -
 Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)                                  -      -     -
+Dongwu Senlin (China) (iQue)                                                          ✗      ✗     ✗
 Donkey Kong 64 (Europe) (En,Fr,De,Es)                                                 -      -     -
 Donkey Kong 64 (Japan)                                                                -      -     -
 Donkey Kong 64 (USA)                                                                  -      -     -
@@ -233,6 +235,9 @@ F-1 World Grand Prix (Germany)                                                  
 F-1 World Grand Prix (Japan)                                                          -      -     -
 F-1 World Grand Prix (USA)                                                            -      -     -
 F-1 World Grand Prix II (Europe) (En,Fr,De,Es)                                        -      -     -
+F-Zero X - Weilai Saiche (China) (iQue)                                               ✗      ✗     ✗
+F-Zero X - Weilai Saiche (China) (v2) (iQue) (Manual)                                 ✗      ✗     ✗
+F-Zero X - Weilai Saiche (China) (v4) (iQue) (Manual)                                 ✗      ✗     ✗
 F-Zero X (Europe)                                                                     -      -     -
 F-Zero X (Japan)                                                                      -      -     -
 F-Zero X (USA)                                                                        -      -     -
@@ -341,6 +346,9 @@ International Superstar Soccer 64 (Europe)                                      
 International Superstar Soccer 64 (USA)                                               -      -     -
 International Track _ Field - Summer Games (Europe) (En,Fr,De)                        -      -     -
 International Track _ Field 2000 (USA)                                                -      -     -
+iQue Club (China) (iQue)                                                              ✗      ✗     ✗
+iQue Mario (China) (iQue)                                                             ✗      ✗     ✗
+iQue Mario (China) (v6) (iQue) (Manual)                                               ✗      ✗     ✗
 Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban! (Japan)                                -      -     -
 J.League Dynamite Soccer 64 (Japan)                                                   -      -     -
 J.League Eleven Beat 1997 (Japan)                                                     ✗      -     -
@@ -445,6 +453,10 @@ Mario Golf (Europe)                                                             
 Mario Golf (USA)                                                                      -      -     -
 Mario Golf 64 (Japan)                                                                 -      -     -
 Mario Golf 64 (Japan) (Rev A)                                                         -      -     -
+Mario Kadingche (China) (v2) (iQue) (Manual)                                          ✗      ✗     ✗
+Mario Kadingche (China) (v4) (iQue)                                                   ✗      ✗     ✗
+Mario Kadingche (China) (v5) (iQue)                                                   ✗      ✗     ✗
+Mario Kadingche (China) (v6) (iQue) (Manual)                                          ✗      ✗     ✗
 Mario Kart 64 (Europe)                                                                -      -     -
 Mario Kart 64 (Europe) (Rev A)                                                        -      -     -
 Mario Kart 64 (Japan)                                                                 -      -     -
@@ -464,6 +476,9 @@ Mario Story (Japan)                                                             
 Mario Tennis (Europe)                                                                 -      -     -
 Mario Tennis (USA)                                                                    -      -     -
 Mario Tennis 64 (Japan)                                                               -      -     -
+Mario Yisheng (China) (iQue)                                                          ✗      ✗     ✗
+Mario Yisheng (China) (v2) (iQue) (Manual)                                            ✗      ✗     ✗
+Mario Yisheng (China) (v4) (iQue) (Manual)                                            ✗      ✗     ✗
 Mega Man 64 (USA)                                                                     -      -     -
 Mega Man 64 (USA) (Beta)                                                              -      -     -
 Mia Hamm Soccer 64 (USA) (En,Es)                                                      -      -     -
@@ -665,6 +680,8 @@ Re-Volt (USA)                                                                   
 Ready 2 Rumble Boxing - Round 2 (USA)                                                 -      -     -
 Ready 2 Rumble Boxing (Europe) (En,Fr,De)                                             -      -     -
 Ready 2 Rumble Boxing (USA)                                                           -      -     -
+Rentiantang Mingxing - Daluan Dou (China) (iQue)                                      ✗      ✗     ✗
+Rentiantang Mingxing - Daluan Dou (China) (iQue) (Manual)                             ✗      ✗     ✗
 Resident Evil 2 (Europe) (En,Fr)                                                      -      -     -
 Resident Evil 2 (USA)                                                                 -      -     -
 Resident Evil 2 (USA) (Rev A)                                                         -      -     -
@@ -713,6 +730,9 @@ Shadowgate 64 - Trials of the Four Towers (Japan)                               
 Shadowgate 64 - Trials of the Four Towers (USA) (En,Es)                               -      -     -
 Shin Nihon Pro Wrestling Toukon Road - Brave Spirits (Japan)                          -      -     -
 Shin Nihon Pro Wrestling Toukon Road 2 - The Next Generation (Japan)                  -      -     -
+Shuishang Motuo (China) (iQue)                                                        ✗      ✗     ✗
+Shuishang Motuo (China) (v2) (iQue) (Manual)                                          ✗      ✗     ✗
+Shuishang Motuo (China) (v4) (iQue) (Manual)                                          ✗      ✗     ✗
 SimCity 2000 (Japan)                                                                  -      -     -
 Snobo Kids (Japan)                                                                    -      -     -
 Snow Speeder (Japan)                                                                  -      -     -
@@ -779,7 +799,7 @@ Super Smash Bros. (USA)                                                         
 Super Speed Race 64 (Japan)                                                           -      -     -
 Supercross 2000 (Europe) (En,Fr,De)                                                   -      -     -
 Supercross 2000 (USA)                                                                 -      -     -
-Superman - The New Superman Adventures (USA) (En,Fr,Es)                               ✗      ✗     ✗
+Superman - The New Superman Aventures (USA) (En,Fr,Es)                                -      -     -
 Superman (Europe) (En,Fr,De,Es,It,Nl)                                                 -      -     -
 Superman (USA) (Beta)                                                                 -      -     -
 Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan)                            ✗      -     -
@@ -941,12 +961,24 @@ WWF WrestleMania 2000 (Japan)                                                   
 WWF WrestleMania 2000 (USA)                                                           -      -     -
 Xena - Warrior Princess - The Talisman of Fate (Europe)                               -      -     -
 Xena - Warrior Princess - The Talisman of Fate (USA)                                  -      -     -
+Xingji Huohu (China) (v4) (iQue) (Manual)                                             ✗      ✗     ✗
+Xingji Huohu (China) (v5) (iQue)                                                      ✗      ✗     ✗
 Xplorer 64 (Germany) (v1.067) (Unl)                                                   ✗      -     -
 Yakouchuu II - Satsujin Kouro (Japan)                                                 -      -     -
+Yaoxi Gushi (China) (iQue)                                                            ✗      ✗     ✗
+Yaoxi Gushi (China) (v2) (iQue) (Manual)                                              ✗      ✗     ✗
+Yaoxi Gushi (China) (v4) (iQue) (Manual)                                              ✗      ✗     ✗
+Yaoxi Gushi (China) (v6) (iQue) (Manual)                                              ✗      ✗     ✗
 Yoshi Story (Japan)                                                                   -      -     -
 Yoshi's Story (Europe) (En,Fr,De)                                                     -      -     -
 Yoshi's Story (USA) (En,Ja)                                                           -      -     -
+Yueye Motuo (China) (iQue)                                                            ✗      ✗     ✗
+Yueye Motuo (China) (iQue) (Manual)                                                   ✗      ✗     ✗
 Yuke Yuke!! Trouble Makers (Japan)                                                    -      -     -
+Zelda Chuanshuo Shiguang Zhi Di (China) (Chinese Traditional) (iQue)                  ✗      ✗     ✗
+Zelda Chuanshuo Shiguang Zhi Di (China) (iQue)                                        ✗      ✗     ✗
+Zelda Chuanshuo Shiguang Zhi Di (China) (v2) (iQue) (Manual)                          ✗      ✗     ✗
+Zelda Chuanshuo Shiguang Zhi Di (China) (v4) (iQue) (Manual)                          ✗      ✗     ✗
 Zelda no Densetsu - Mujura no Kamen (Japan)                                           -      -     -
 Zelda no Densetsu - Mujura no Kamen (Japan) (GameCube Edition)                        -      -     -
 Zelda no Densetsu - Mujura no Kamen (Japan) (Rev A)                                   -      -     -
@@ -955,4 +987,10 @@ Zelda no Densetsu - Toki no Ocarina (Japan) (Rev A)                             
 Zelda no Densetsu - Toki no Ocarina (Japan) (Rev B)                                   -      -     -
 Zelda no Densetsu - Toki no Ocarina GC (Japan) (GameCube Edition)                     ✗      ✗     ✗
 Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube Edition)                 ✗      ✗     ✗
+Zhi Pian Mario (China) (iQue)                                                         ✗      ✗     ✗
+Zhi Pian Mario (China) (v2) (iQue) (Manual)                                           ✗      ✗     ✗
+Zhi Pian Mario (China) (v4) (iQue) (Manual)                                           ✗      ✗     ✗
 Zool - Majuu Tsukai Densetsu (Japan)                                                  -      -     -
+Zuhe Jiqiren (China) (iQue)                                                           ✗      ✗     ✗
+Zui Yu Fa Diqiu De Jicheng Zhe (China) (iQue)                                         ✗      ✗     ✗
+Zui Yu Fa Diqiu De Jicheng Zhe (China) (iQue) (Manual)                                ✗      ✗     ✗
