@@ -1,9 +1,9 @@
 Nintendo - Nintendo Entertainment System Missing
 
-Boxarts  1996/3134  63.69%
-Snaps    2751/3134  87.78%
-Titles   2746/3134  87.62%
-Total    7493/9402  79.70%
+Boxarts  1996/3135  63.67%
+Snaps    2751/3135  87.75%
+Titles   2746/3135  87.59%
+Total    7493/9405  79.67%
 
 Name                                                                                          Boxart  Snap  Title
 '89 Dennou Kyuusei Uranai (Japan)                                                                -      -     -
@@ -1250,6 +1250,7 @@ Hyper Sports (Japan)                                                            
 Hyper Sports (Japan) (Rev 1)                                                                     ✗      -     -
 I Love Softball (Japan)                                                                          ✗      -     -
 Ice Climber (Japan)                                                                              -      -     -
+Ice Climber (USA, Europe, Korea)                                                                 ✗      ✗     ✗
 Ice Climber (USA, Europe)                                                                        -      -     -
 Ice Hockey (Europe)                                                                              -      -     -
 Ice Hockey (USA)                                                                                 -      -     -
@@ -1585,7 +1586,7 @@ Madoola no Tsubasa (Japan) (Sample)                                             
 Mafat Conspiracy, The (USA)                                                                      -      -     -
 Magic Block (Asia) (En) (Mega Soft) (Unl)                                                        ✗      ✗     ✗
 Magic Block (Asia) (Mega Soft) (Unl)                                                             -      -     -
-Magic Bubble (Asia) (En)                                                                         ✗      ✗     ✗
+Magic Bubble (Asia) (En) (Unl)                                                                   ✗      ✗     ✗
 Magic Candle, The (Japan)                                                                        -      -     -
 Magic Carpet 1001 (USA) (Unl)                                                                    ✗      ✗     ✗
 Magic Cube (Asia) (Ja) (PAL) (Unl)                                                               ✗      -     -

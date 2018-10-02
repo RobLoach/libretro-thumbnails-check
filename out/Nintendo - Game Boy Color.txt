@@ -1,9 +1,9 @@
 Nintendo - Game Boy Color Missing
 
-Boxarts   893/1432  62.36%
-Snaps    1377/1432  96.16%
-Titles   1377/1432  96.16%
-Total    3647/4296  84.89%
+Boxarts   884/1435  61.60%
+Snaps    1368/1435  95.33%
+Titles   1368/1435  95.33%
+Total    3620/4305  84.09%
 
 Name                                                                                                             Boxart  Snap  Title
 007 - The World Is Not Enough (USA, Europe)                                                                         -      -     -
@@ -341,10 +341,10 @@ DX Jinsei Game (Japan)                                                          
 DX Monopoly GB (Japan) (SGB Enhanced) (GB Compatible)                                                               ✗      -     -
 DynaMike (Europe) (Proto)                                                                                           ✗      -     -
 E.T. - The Extra-Terrestrial - Digital Companion (USA)                                                              -      -     -
-E.T. - The Extra-Terrestrial - Escape from Planet Earth (Europe) (En,Fr,De,Es,It,Nl)                                -      -     -
-E.T. - The Extra-Terrestrial - Escape from Planet Earth (USA)                                                       -      -     -
 E.T. - The Extra-Terrestrial and the Cosmic Garden (Europe) (En,Fr,De,Es,It,Nl)                                     -      -     -
 E.T. - The Extra-Terrestrial and the Cosmic Garden (USA)                                                            -      -     -
+E.T. the Extra-Terrestrial - Escape from Planet Earth (Europe) (En,Fr,De,Es,It,Nl)                                  ✗      ✗     ✗
+E.T. the Extra-Terrestrial - Escape from Planet Earth (USA)                                                         ✗      ✗     ✗
 Earthworm Jim - Menace 2 the Galaxy (USA, Europe) (GB Compatible)                                                   -      -     -
 ECW Hardcore Revolution (USA, Europe)                                                                               -      -     -
 Elevator Action EX (Europe) (En,Fr,De,Es,It)                                                                        -      -     -
@@ -504,7 +504,7 @@ Hello Kitty no Magical Museum (Japan) (SGB Enhanced) (GB Compatible)            
 Hello Kitty no Sweet Adventure - Daniel-kun ni Aitai (Japan) (SGB Enhanced) (GB Compatible)                         ✗      -     -
 Hello Kitty to Dear Daniel no Dream Adventure (Japan)                                                               ✗      -     -
 Hello Kitty's Cube Frenzy (USA) (GB Compatible)                                                                     -      -     -
-Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl)                                                      -      -     -
+Hercules - The Legendary Journeys (USA, Europe) (En,Fr,De,Es,It,Nl)                                                 ✗      ✗     ✗
 Hero Hero Kun (Japan)                                                                                               ✗      -     -
 Heroes of Might and Magic (Europe) (En,Fr,De)                                                                       -      -     -
 Heroes of Might and Magic (USA) (En,Fr,De)                                                                          -      -     -
@@ -643,7 +643,7 @@ Legend of Zelda, The - Link's Awakening DX (USA, Europe) (SGB Enhanced) (GB Comp
 Legend of Zelda, The - Oracle of Ages (Europe) (En,Fr,De,Es,It)                                                     -      -     -
 Legend of Zelda, The - Oracle of Ages (USA)                                                                         -      -     -
 Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It)                                                  -      -     -
-Legend of Zelda, The - Oracle of Seasons (USA)                                                                      -      -     -
+Legend of Zelda, The - Oracle of Seasons (USA, Australia)                                                           ✗      ✗     ✗
 LEGO Alpha Team (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)                                                            -      -     -
 LEGO Alpha Team (USA)                                                                                               -      -     -
 LEGO Island 2 - The Brickster's Revenge (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)                                    -      -     -
@@ -783,8 +783,8 @@ Minna no Shougi - Shokyuu Hen (Japan) (GB Compatible)                           
 Minnie _ Friends - Yume no Kuni o Sagashite (Japan)                                                                 ✗      -     -
 Missile Command (Europe)                                                                                            -      -     -
 Missile Command (USA) (Rumble Version)                                                                              -      -     -
-Mission Impossible (Europe) (En,Fr,De,Es,It)                                                                        -      -     -
-Mission Impossible (USA) (En,Fr,Es)                                                                                 -      -     -
+Mission - Impossible (Europe) (En,Fr,De,Es,It)                                                                      ✗      ✗     ✗
+Mission - Impossible (USA) (En,Fr,Es)                                                                               ✗      ✗     ✗
 Mizuki Shigeru no Shin Youkaiden (Japan)                                                                            ✗      -     -
 Mobile Golf (Japan)                                                                                                 ✗      -     -
 Mobile Trainer (Japan)                                                                                              ✗      -     -
@@ -815,6 +815,7 @@ Mr Nutz (Europe) (En,Fr,De,Es,It,Nl)                                            
 Mr Nutz (USA) (En,Fr,Es)                                                                                            -      -     -
 Mr. Driller (Europe)                                                                                                -      -     -
 Mr. Driller (Japan)                                                                                                 -      -     -
+Mr. Driller (Japan) (NP)                                                                                            ✗      ✗     ✗
 Mr. Driller (USA)                                                                                                   -      -     -
 Ms. Pac-Man - Special Color Edition (USA) (SGB Enhanced) (GB Compatible)                                            -      -     -
 Ms. Pac-Man - Special Colour Edition (Europe) (GB Compatible)                                                       -      -     -
@@ -1165,6 +1166,7 @@ Soreike! Anpanman - 5-tsu no Tou no Ousama (Japan)                              
 Soreike! Anpanman - Fushigi na Nikoniko Album (Japan) (SGB Enhanced) (GB Compatible)                                ✗      -     -
 Soukoban Densetsu - Hikari to Yami no Kuni (Japan) (SGB Enhanced) (GB Compatible)                                   ✗      -     -
 Soul Getter - Houkago Bouken RPG (Japan) (GB Compatible)                                                            ✗      -     -
+South Park (USA) (Proto)                                                                                            ✗      ✗     ✗
 Space Invaders (USA, Europe) (GB Compatible)                                                                        -      -     -
 Space Invaders X (Japan) (GB Compatible)                                                                            -      -     -
 Space Invasion _ Karate Joe (Europe) (Unl)                                                                          ✗      -     -
@@ -1184,8 +1186,10 @@ Spirou Robbedoes - The Robot Invasion (Europe) (En,Fr,De,Es,It,Nl,Da)           
 SpongeBob SquarePants - Legend of the Lost Spatula (USA, Europe)                                                    -      -     -
 Spy vs. Spy (Europe) (En,Fr,De,Es,It,Nl,Sv)                                                                         -      -     -
 Spy vs. Spy (Japan)                                                                                                 -      -     -
+Spy vs. Spy (Japan) (Rev 1) (NP)                                                                                    ✗      ✗     ✗
 Spy vs. Spy (USA)                                                                                                   -      -     -
 Star Ocean - Blue Sphere (Japan) (SGB Enhanced) (GB Compatible)                                                     -      -     -
+Star Wars - Yoda Stories (USA, Europe) (GB Compatible)                                                              ✗      ✗     ✗
 Star Wars Episode I - Obi-Wan's Adventures (Europe) (En,Fr,De,Es,It)                                                -      -     -
 Star Wars Episode I - Obi-Wan's Adventures (USA)                                                                    -      -     -
 Star Wars Episode I - Racer (USA, Europe) (Rumble Version)                                                          -      -     -
@@ -1244,10 +1248,10 @@ Tarzan (France)                                                                 
 Tarzan (Germany)                                                                                                    -      -     -
 Tarzan (Japan)                                                                                                      -      -     -
 Tarzan (USA, Europe)                                                                                                -      -     -
+Tasmanian Devil - Munching Madness (Europe) (En,Fr,De,Es,It) (GB Compatible)                                        ✗      ✗     ✗
+Tasmanian Devil - Munching Madness (USA) (En,Fr,De,Es,It) (GB Compatible)                                           ✗      ✗     ✗
 Taxi 2 (France)                                                                                                     ✗      -     -
 Taxi 3 (France)                                                                                                     ✗      -     -
-Tazmanian Devil - Munching Madness (Europe) (En,Fr,De,Es,It) (GB Compatible)                                        -      -     -
-Tazmanian Devil - Munching Madness (USA) (En,Fr,De,Es,It) (GB Compatible)                                           -      -     -
 Tech Deck Skateboarding (USA, Europe)                                                                               -      -     -
 Test Drive 2001 (USA)                                                                                               -      -     -
 Test Drive 6 (Europe) (En,Fr,De,Es,It) (GB Compatible)                                                              -      -     -
@@ -1411,7 +1415,6 @@ Xtreme Wheels (Europe)                                                          
 Xtreme Wheels (USA)                                                                                                 -      -     -
 Yakouchuu GB (Japan)                                                                                                ✗      -     -
 Yars' Revenge (USA, Europe) (GB Compatible)                                                                         -      -     -
-Yoda Stories (USA, Europe) (GB Compatible)                                                                          -      -     -
 Yogi Bear - Great Balloon Blast (USA)                                                                               -      -     -
 Yu-Gi-Oh! - Dark Duel Stories (Europe)                                                                              -      -     -
 Yu-Gi-Oh! - Dark Duel Stories (USA)                                                                                 -      -     -

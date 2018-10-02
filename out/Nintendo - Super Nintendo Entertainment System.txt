@@ -1,9 +1,9 @@
 Nintendo - Super Nintendo Entertainment System Missing
 
-Boxarts   3317/3498  94.83%
-Snaps     3281/3498  93.80%
-Titles    3281/3498  93.80%
-Total    9879/10494  94.14%
+Boxarts   3313/3496  94.77%
+Snaps     3278/3496  93.76%
+Titles    3278/3496  93.76%
+Total    9869/10488  94.10%
 
 Name                                                                                     Boxart  Snap  Title
 '96 Zenkoku Koukou Soccer Senshuken (Japan)                                                 -      -     -
@@ -1286,6 +1286,7 @@ Kaite Tsukutte Asoberu Dezaemon (Japan)                                         
 Kakinoki Shougi (Japan)                                                                     -      -     -
 Kamaitachi no Yoru (Japan)                                                                  -      -     -
 Kamen Rider (Japan)                                                                         -      -     -
+Kamen Rider (Japan) (Rev 1)                                                                 ✗      ✗     ✗
 Kamen Rider SD - Shutsugeki!! Rider Machine (Japan)                                         -      -     -
 Karura Ou (Japan)                                                                           -      -     -
 Kashiwagi Shigetaka no Top Water Bassing (Japan)                                            -      -     -
@@ -1323,8 +1324,8 @@ Kidou Senshi Gundam F91 - Formula Senki 0122 (Japan)                            
 Kidou Senshi V Gundam (Japan)                                                               -      -     -
 Kidou Senshi Z Gundam - Away to the Newtype (Japan)                                         -      -     -
 Kidou Soukou Dion (Japan) (En)                                                              -      -     -
-Kikikai-kai - Nazo no Kuro Manteau (Japan)                                                  -      -     -
-Kikikai-kai - Tsukiyo Soushi (Japan)                                                        -      -     -
+Kiki Kaikai - Nazo no Kuro Manteau (Japan)                                                  ✗      ✗     ✗
+Kiki Kaikai - Tsukiyo Soushi (Japan)                                                        ✗      ✗     ✗
 Kikou Keisatsu Metal Jack (Japan)                                                           -      -     -
 Kikuni Masahiko no Jantoushi Doraou (Japan)                                                 -      -     -
 Kikuni Masahiko no Jantoushi Doraou 2 (Japan)                                               -      -     -
@@ -2060,10 +2061,7 @@ Power Rangers Zeo - Battle Racers (Europe)                                      
 Power Rangers Zeo - Battle Racers (USA)                                                     -      -     -
 Power Slide (Europe) (Proto) (1994-04-12)                                                   ✗      -     -
 Power Soukoban (Japan)                                                                      -      -     -
-PowerFest 94 - Ken Griffey Jr. Presents Major League Baseball (USA)                         -      ✗     ✗
-PowerFest 94 - Scoring (USA)                                                                ✗      ✗     ✗
-PowerFest 94 - Super Mario Bros. - The Lost Levels (USA)                                    ✗      ✗     ✗
-PowerFest 94 - Super Mario Kart (USA)                                                       ✗      ✗     ✗
+PowerFest 94 (USA)                                                                          ✗      ✗     ✗
 PowerMonger - Mashou no Bouryaku (Japan)                                                    -      -     -
 PowerMonger (Europe)                                                                        -      -     -
 Prehistorik Man (Europe) (En,Fr,De)                                                         -      -     -
@@ -2890,7 +2888,7 @@ Super R.B.I. Baseball (USA)                                                     
 Super Real Mahjong PIV (Japan)                                                              -      -     -
 Super Real Mahjong PV Paradise - All-Star 4-nin Uchi (Japan)                                -      -     -
 Super Robot Taisen EX (Japan)                                                               -      -     -
-Super Robot Taisen Gaiden - Masou Kishin - The Lord of Elemental (Japan)                    -      -     -
+Super Robot Taisen Gaiden - Masoukishin - The Lord of Elemental (Japan)                     ✗      ✗     ✗
 Super Royal Blood (Japan)                                                                   -      -     -
 Super Rugby (Japan)                                                                         -      -     -
 Super Sangokushi (Japan)                                                                    -      -     -

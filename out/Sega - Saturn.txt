@@ -1,9 +1,9 @@
 Sega - Saturn Missing
 
-Boxarts  297/1927  15.41%
-Snaps    241/1927  12.51%
-Titles   243/1927  12.61%
-Total    781/5781  13.51%
+Boxarts  299/1949  15.34%
+Snaps    243/1949  12.47%
+Titles   245/1949  12.57%
+Total    787/5847  13.46%
 
 Name                                                                                                              Boxart  Snap  Title
 2do Aru Koto wa Sando R (Japan)                                                                                      ✗      ✗     ✗
@@ -38,6 +38,7 @@ Album Club (Mune Kyun) - St. Paulia Jogakuin (Japan)                            
 Alien Trilogy (Europe) (En,Fr,Es,It) (7S)                                                                            ✗      ✗     ✗
 Alien Trilogy (Germany)                                                                                              ✗      ✗     ✗
 Alien Trilogy (Japan)                                                                                                ✗      ✗     ✗
+Alien Trilogy (Japan) (Demo)                                                                                         ✗      ✗     ✗
 Alien Trilogy (USA)                                                                                                  -      -     -
 All-Star Baseball '97 featuring Frank Thomas (USA)                                                                   ✗      ✗     ✗
 Alone in the Dark - Jack Is Back (Europe) (En,Fr,De,Es,It)                                                           ✗      ✗     ✗
@@ -175,6 +176,7 @@ Bug Too! (USA)                                                                  
 Bug Too! Motto Motto Jump Shite, Funzukechatte, Petchanko (Japan)                                                    ✗      ✗     ✗
 Bug! (Europe)                                                                                                        ✗      ✗     ✗
 Bug! (USA)                                                                                                           -      -     -
+Bug! (USA) (Demo)                                                                                                    ✗      ✗     ✗
 Bug! Jump Shite, Funzukechatte, Petchanko (Japan)                                                                    ✗      ✗     ✗
 Bulk Slash (Japan)                                                                                                   ✗      -     -
 Burning Rangers (Europe)                                                                                             -      ✗     ✗
@@ -271,6 +273,7 @@ Crypt Killer (Europe)                                                           
 Cube Battler - Story of Anna (Japan)                                                                                 ✗      ✗     ✗
 Cube Battler - Story of Shou (Japan)                                                                                 ✗      ✗     ✗
 Cubic Gallery - Edy _ Disy (Japan)                                                                                   ✗      ✗     ✗
+Culdcept (Japan) (Rev A) (10M)                                                                                       ✗      ✗     ✗
 Culdcept (Japan) (Rev B) (20M)                                                                                       ✗      ✗     ✗
 Custom Web Browser (Version 2) (USA)                                                                                 ✗      ✗     ✗
 Cyber Doll (Japan)                                                                                                   ✗      ✗     ✗
@@ -310,6 +313,7 @@ Dark Savior (Europe)                                                            
 Dark Savior (Japan)                                                                                                  ✗      ✗     ✗
 Dark Savior (USA)                                                                                                    -      -     -
 Darklight Conflict (Europe) (En,Fr,De,Es,It,Sv)                                                                      ✗      ✗     ✗
+Darklight Conflict (USA) (En,Fr,De,Es,It,Sv)                                                                         ✗      ✗     ✗
 Darkseed (Japan)                                                                                                     ✗      ✗     ✗
 Daytona USA - Championship Circuit Edition (Europe) (Rev A)                                                          ✗      ✗     ✗
 Daytona USA - Championship Circuit Edition (USA)                                                                     -      -     -
@@ -328,7 +332,9 @@ DeathMask (Japan) (Disc 1)                                                      
 DeathMask (Japan) (Disc 2)                                                                                           ✗      ✗     ✗
 DeathMask (Japan) (Disc 3)                                                                                           ✗      ✗     ✗
 DecAthlete (Japan) (1M)                                                                                              ✗      ✗     ✗
+DecAthlete (Japan) (Rev A) (10M)                                                                                     ✗      ✗     ✗
 DecAthlete (Japan) (Rev B) (20M)                                                                                     ✗      ✗     ✗
+Decathlete (USA)                                                                                                     -      -     -
 DecAthlete for SegaNet (Japan)                                                                                       ✗      ✗     ✗
 Deep Fear (Europe) (Disc 1)                                                                                          ✗      ✗     ✗
 Deep Fear (Europe) (Disc 2)                                                                                          ✗      ✗     ✗
@@ -386,8 +392,10 @@ Dino Island (Japan)                                                             
 Disc Station Bessatsu - I Miss You. Tanaka Katsumi (Japan) (1M)                                                      ✗      ✗     ✗
 Discworld (Japan)                                                                                                    ✗      ✗     ✗
 Discworld II - Missing Presumed...! (Europe) (En,Fr,De,Es,It)                                                        ✗      ✗     ✗
+DJ Wars (Japan) (Demo)                                                                                               ✗      ✗     ✗
 DJ Wars (Japan) (Rev A) (10M)                                                                                        ✗      ✗     ✗
 DoDonPachi (Japan)                                                                                                   -      -     -
+DoDonPachi (Japan) (Demo)                                                                                            ✗      ✗     ✗
 DonPachi (Japan)                                                                                                     -      -     ✗
 DonPachi (Japan) (Demo)                                                                                              ✗      ✗     ✗
 Doom (Europe)                                                                                                        ✗      ✗     ✗
@@ -410,7 +418,7 @@ Dragon's Dream (Japan)                                                          
 DragonHeart - Fire _ Steel (Europe) (En,Fr,De)                                                                       ✗      ✗     ✗
 Dream Square - Hinagata Akiko (Japan) (2M)                                                                           ✗      ✗     ✗
 Drift King Shutokou Battle '97 - Tsuchiya Keiichi _ Bandou Masaaki (Japan)                                           ✗      ✗     ✗
-Druid - Yami e no Tsuiseki-sha (Japan)                                                                               ✗      ✗     ✗
+Druid - Yami e no Tsuisekisha (Japan)                                                                                ✗      ✗     ✗
 Duke Nukem 3D (Europe)                                                                                               ✗      -     -
 Duke Nukem 3D (USA)                                                                                                  -      ✗     ✗
 Dungeon Master Nexus (Japan)                                                                                         -      ✗     ✗
@@ -509,7 +517,7 @@ Firestorm - Thunderhawk 2 (Europe) (En,Fr)                                      
 Fishing Koushien (Japan)                                                                                             ✗      ✗     ✗
 Fishing Koushien II (Japan)                                                                                          ✗      ✗     ✗
 Fist (Japan)                                                                                                         ✗      -     -
-Flash SegaSaturn - Ochikadzuki-hen (Japan)                                                                           ✗      ✗     ✗
+Flash SegaSaturn - Ochikazuki-hen (Japan)                                                                            ✗      ✗     ✗
 Flash SegaSaturn Vol. 1 (Japan) (2M)                                                                                 ✗      ✗     ✗
 Flash SegaSaturn Vol. 10 (Japan)                                                                                     ✗      ✗     ✗
 Flash SegaSaturn Vol. 11 (Japan)                                                                                     ✗      ✗     ✗
@@ -590,6 +598,7 @@ GeGeGe no Kitarou - Gentou Kaikitan (Japan)                                     
 Gekiretsu Pachinkers (Japan)                                                                                         ✗      ✗     ✗
 Gekirindan (Japan)                                                                                                   ✗      ✗     ✗
 Gekitotsu Koushien (Japan)                                                                                           ✗      -     -
+Gekitotsu Koushien (Japan) (Demo)                                                                                    ✗      ✗     ✗
 Gekka Mugentan Torico (Japan) (Disc A) (Kyouchou-hen) (2M)                                                           ✗      ✗     ✗
 Gekka Mugentan Torico (Japan) (Disc B) (Houkai-hen)                                                                  ✗      ✗     ✗
 Gekka no Kishi - Ouryuu-sen (Japan)                                                                                  ✗      ✗     ✗
@@ -732,6 +741,7 @@ Ippatsu Gyakuten - Gambling King e no Michi (Japan)                             
 Irem Arcade Classics (Japan)                                                                                         ✗      ✗     ✗
 Iron Man _ X-O Manowar in Heavy Metal (Europe)                                                                       ✗      ✗     ✗
 Iron Man _ X-O Manowar in Heavy Metal (Japan)                                                                        ✗      ✗     ✗
+Iron Man _ X-O Manowar in Heavy Metal (USA)                                                                          ✗      ✗     ✗
 Iron Storm (USA)                                                                                                     -      -     -
 Isto E Zico - Zico no Kangaeru Soccer (Japan)                                                                        ✗      ✗     ✗
 J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)                                                                   ✗      ✗     ✗
@@ -747,6 +757,7 @@ J. League Pro Soccer Club o Tsukurou! 2 (Japan) (Rev D) (41M)                   
 J. League Victory Goal '96 (Japan) (2M)                                                                              ✗      ✗     ✗
 J. League Victory Goal '97 (Japan)                                                                                   ✗      ✗     ✗
 Jantei Battle Cos-Player - Original Genga-shuu (Japan)                                                               ✗      ✗     ✗
+Jantei Battle Cos-Player (Japan) (Demo)                                                                              ✗      ✗     ✗
 Jantei Battle Cos-Player (Japan) (Disc 1)                                                                            ✗      ✗     ✗
 Japan Super Bass Classic '96 (Japan)                                                                                 ✗      ✗     ✗
 Jewels of the Oracle (Europe) (En,Ja,Fr,De)                                                                          ✗      ✗     ✗
@@ -908,6 +919,7 @@ Marie no Atelier Ver. 1.3 - Salburg no Renkinjutsushi (Japan)                   
 Mario Mushano no Chou Shougi Juku - Mario Mushano's Hyper Shogi School (Japan)                                       ✗      ✗     ✗
 Marvel Super Heroes (Europe)                                                                                         -      ✗     ✗
 Marvel Super Heroes (Japan)                                                                                          ✗      ✗     ✗
+Marvel Super Heroes (Japan) (Demo)                                                                                   ✗      ✗     ✗
 Marvel Super Heroes (USA)                                                                                            -      -     -
 Marvel Super Heroes vs. Street Fighter (Japan)                                                                       -      -     -
 Mass Destruction - Otousan ni mo Dekiru Soft (Japan)                                                                 ✗      ✗     ✗
@@ -969,7 +981,7 @@ Mortal Kombat II Kanzenban (Japan) (4S)                                         
 Mortal Kombat Trilogy (Europe)                                                                                       ✗      ✗     ✗
 Mortal Kombat Trilogy (USA)                                                                                          -      -     -
 Motteke Tamago with Ganbare! Kamonohashi (Japan)                                                                     ✗      -     -
-Moujiya (Japan)                                                                                                      ✗      ✗     ✗
+Mouja (Japan)                                                                                                        ✗      ✗     ✗
 Mouri Motonari - Chikai no Sanshi (Japan)                                                                            ✗      ✗     ✗
 Mr. Bones (Europe) (Disc 1)                                                                                          ✗      ✗     ✗
 Mr. Bones (Europe) (Disc 2)                                                                                          ✗      ✗     ✗
@@ -1059,6 +1071,7 @@ Ninja Jajamaru-kun - Onigiri Ninpouchou Gold (Japan)                            
 Ninkuu - Tsuyokina Yatsura no Daigekitotsu! (Japan)                                                                  ✗      ✗     ✗
 Ninpen Manmaru (Japan)                                                                                               ✗      -     -
 Nissan Presents - Over Drivin' GT-R (Japan)                                                                          ✗      ✗     ✗
+Nissan Presents - Over Drivin' GT-R (Japan) (Demo)                                                                   ✗      ✗     ✗
 Nissan Presents - Over Drivin' GT-R (Japan) (Rev A)                                                                  ✗      ✗     ✗
 No-appointment Gals Olympos (Japan)                                                                                  ✗      ✗     ✗
 Nobunaga no Yabou - Shouseiroku (Japan) (2M)                                                                         ✗      ✗     ✗
@@ -1075,6 +1088,7 @@ Ochigee Designer Tsukutte Pon! (Japan)                                          
 Off-World Interceptor Extreme (Europe)                                                                               ✗      ✗     ✗
 Off-World Interceptor Extreme (Japan)                                                                                ✗      ✗     ✗
 Off-World Interceptor Extreme (USA)                                                                                  -      -     -
+Oh-chan no Oekaki Logic (Japan)                                                                                      ✗      ✗     ✗
 Ojousama Express (Japan) (Disc 1)                                                                                    ✗      ✗     ✗
 Ojousama Express (Japan) (Disc 2)                                                                                    ✗      ✗     ✗
 Ojousama o Nerae!! (Japan)                                                                                           ✗      ✗     ✗
@@ -1086,7 +1100,6 @@ Olympic Soccer (Japan)                                                          
 Omakase! Savers (Japan)                                                                                              ✗      ✗     ✗
 Ooedo Renaissance (Japan)                                                                                            ✗      ✗     ✗
 Oracle no Houseki - Jewels of the Oracle (Japan) (En,Ja,Fr,De)                                                       ✗      ✗     ✗
-Ou-chan no Oekaki Logic (Japan)                                                                                      ✗      ✗     ✗
 Ousama Game (Japan) (Disc 1) (Ichigo Disc)                                                                           ✗      ✗     ✗
 Ousama Game (Japan) (Disc 2) (Momo Disc)                                                                             ✗      ✗     ✗
 Pachinko Hall - Shinsou Daikaiten (Japan)                                                                            ✗      ✗     ✗
@@ -1150,6 +1163,7 @@ Policenauts (Japan) (Disc 1)                                                    
 Policenauts (Japan) (Disc 2)                                                                                         ✗      ✗     ✗
 Policenauts (Japan) (Disc 3)                                                                                         ✗      ✗     ✗
 Popoitto Hebereke (Japan)                                                                                            ✗      ✗     ✗
+Powerslave (USA)                                                                                                     -      -     -
 Preview Sega Saturn Vol. 1 (Europe)                                                                                  ✗      ✗     ✗
 PriCla (Princess Clara) Daisakusen (Japan)                                                                           ✗      ✗     ✗
 Primal Rage (Europe) (En,Fr,De,Es,It,Pt)                                                                             ✗      ✗     ✗
@@ -1357,6 +1371,7 @@ Sega Ages - Power Drift (Japan)                                                 
 Sega Ages - Rouka ni Ichidanto R (Japan)                                                                             ✗      ✗     ✗
 Sega Ages - Shukudai ga Tanto R (Japan)                                                                              ✗      ✗     ✗
 Sega Ages - Space Harrier (Japan) (1M)                                                                               ✗      ✗     ✗
+Sega Ages - Space Harrier (Japan) (Rev A) (13M)                                                                      ✗      ✗     ✗
 Sega Ages Volume 1 (Europe)                                                                                          ✗      ✗     ✗
 Sega Ages Volume 1 (USA)                                                                                             ✗      ✗     ✗
 Sega Flash Vol. 1 (Europe)                                                                                           ✗      ✗     ✗
@@ -1564,6 +1579,7 @@ Street Fighter Alpha 2 (Europe)                                                 
 Street Fighter Alpha 2 (USA)                                                                                         -      -     -
 Street Fighter Collection (Europe) (Disc 1)                                                                          ✗      ✗     ✗
 Street Fighter Collection (Europe) (Disc 2)                                                                          ✗      ✗     ✗
+Street Fighter Collection (Japan) (Demo)                                                                             ✗      ✗     ✗
 Street Fighter Collection (Japan) (Disc 1)                                                                           ✗      ✗     ✗
 Street Fighter Collection (Japan) (Disc 2)                                                                           ✗      ✗     ✗
 Street Fighter Collection (USA) (Disc 1)                                                                             ✗      ✗     ✗
@@ -1573,6 +1589,7 @@ Street Fighter II Movie (Japan) (Disc 2)                                        
 Street Fighter Zero (Japan) (1M)                                                                                     ✗      ✗     ✗
 Street Fighter Zero (Japan) (Rev A) (10M)                                                                            ✗      ✗     ✗
 Street Fighter Zero 2 (Japan)                                                                                        -      ✗     ✗
+Street Fighter Zero 2 (Japan) (Demo)                                                                                 ✗      ✗     ✗
 Street Fighter Zero 2' (Japan)                                                                                       ✗      ✗     ✗
 Street Fighter Zero 3 (Japan)                                                                                        -      ✗     ✗
 Street Racer (Europe)                                                                                                -      -     -
@@ -1586,6 +1603,7 @@ Suchie-Pai Adventure - Doki Doki Nightmare (Japan) (Disc 1)                     
 Suchie-Pai Adventure - Doki Doki Nightmare (Japan) (Disc 2)                                                          ✗      ✗     ✗
 Sugoventure - Dragon Master Silk Gaiden (Japan)                                                                      ✗      ✗     ✗
 Suiko Enbu - Fuuun Saiki (Japan)                                                                                     ✗      -     -
+Suiko Enbu - Fuuun Saiki (Japan) (Demo)                                                                              ✗      ✗     ✗
 Suiko Enbu (Japan)                                                                                                   ✗      ✗     ✗
 Suikoden - Tendou Hyaku Hachi-sei (Japan)                                                                            ✗      ✗     ✗
 Suikoden - Tenmei no Chikai (Japan) (2M)                                                                             ✗      ✗     ✗
@@ -1600,6 +1618,7 @@ Super Real Mahjong Graffiti (Japan) (P's Club Special Edition) (2M)             
 Super Real Mahjong P7 (Japan) (P's Club Special Edition)                                                             ✗      ✗     ✗
 Super Real Mahjong PV (Japan) (P's Club Special Edition) (2M)                                                        ✗      ✗     ✗
 Super Real Mahjong PVI (Japan) (P's Club Special Edition)                                                            ✗      ✗     ✗
+Super Robot Taisen F (Japan) (Demo)                                                                                  ✗      ✗     ✗
 Super Robot Taisen F (Japan) (Rev A) (10M, 11M, 12M, 13M)                                                            -      ✗     ✗
 Super Robot Taisen F (Japan) (Rev B) (21M)                                                                           ✗      ✗     ✗
 Super Robot Taisen F Kanketsuhen (Japan) (2M, 3M)                                                                    -      ✗     ✗
@@ -1628,7 +1647,7 @@ Tantei Jinguuji Saburou - Yume no Owari ni (Japan) (3M)                         
 Tech Saturn Apr.1997 (Japan)                                                                                         ✗      ✗     ✗
 Tech Saturn Aug.1997 (Japan)                                                                                         ✗      ✗     ✗
 Tech Saturn Feb.1997 - E, Chocolate Kurereba Morau yo (Japan)                                                        ✗      ✗     ✗
-Tech Saturn Jan.1997 - Kidzuitara Gekkan-ka (Japan)                                                                  ✗      ✗     ✗
+Tech Saturn Jan.1997 - Kizuitara Gekkan-ka (Japan)                                                                   ✗      ✗     ✗
 Tech Saturn Jul.1997 (Japan)                                                                                         ✗      ✗     ✗
 Tech Saturn Jun.1997 (Japan)                                                                                         ✗      ✗     ✗
 Tech Saturn Mar.1997 - Okaeshi wa Marshmallow, Cookie, Howaito Choco (Japan)                                         ✗      ✗     ✗
@@ -1682,6 +1701,7 @@ Three Dirty Dwarves (USA) (RE)                                                  
 Thunder Force Gold Pack 1 (Japan)                                                                                    ✗      -     -
 Thunder Force Gold Pack 2 (Japan) (Rev A)                                                                            ✗      ✗     ✗
 Thunder Force V (Japan)                                                                                              -      -     -
+Thunder Force V (Japan) (Demo)                                                                                       ✗      ✗     ✗
 Thunderhawk 2 - Firestorm (Germany)                                                                                  ✗      ✗     ✗
 Thunderhawk II (Japan)                                                                                               ✗      ✗     ✗
 Thunderstrike 2 (USA)                                                                                                -      -     -
@@ -1771,6 +1791,7 @@ Virtua Fighter 2 (Europe) (Made in USA)                                         
 Virtua Fighter 2 (Europe) (Rev A) (Made in USA)                                                                      ✗      ✗     ✗
 Virtua Fighter 2 (Japan) (Demo)                                                                                      ✗      ✗     ✗
 Virtua Fighter 2 (Japan) (Rev B) (36C)                                                                               -      ✗     ✗
+Virtua Fighter 2 (Japan) (Rev C) (42M)                                                                               ✗      ✗     ✗
 Virtua Fighter 2 (USA)                                                                                               -      -     -
 Virtua Fighter 2 (USA) (RE)                                                                                          ✗      ✗     ✗
 Virtua Fighter CG Portrait Collection (Europe)                                                                       ✗      ✗     ✗
@@ -1804,6 +1825,7 @@ Virtual Casino (Japan)                                                          
 Virtual Golf (Europe)                                                                                                -      -     ✗
 Virtual Hydlide (Europe)                                                                                             ✗      ✗     ✗
 Virtual Hydlide (Japan) (2M)                                                                                         ✗      ✗     ✗
+Virtual Hydlide (USA) (P5H)                                                                                          ✗      ✗     ✗
 Virtual Kyoutei (Japan)                                                                                              ✗      ✗     ✗
 Virtual Kyoutei 2 (Japan) (2M)                                                                                       ✗      ✗     ✗
 Virtual Mahjong (Japan)                                                                                              ✗      ✗     ✗
