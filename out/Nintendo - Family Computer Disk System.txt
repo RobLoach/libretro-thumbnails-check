@@ -1,9 +1,9 @@
 Nintendo - Family Computer Disk System Missing
 
-Boxarts  273/317  86.12%
-Snaps    313/317  98.74%
-Titles   313/317  98.74%
-Total    899/951  94.53%
+Boxarts  265/319  83.07%
+Snaps    305/319  95.61%
+Titles   305/319  95.61%
+Total    875/957  91.43%
 
 Name                                                                                                                Boxart  Snap  Title
 19 - Neunzehn (Japan) [b]                                                                                              -      -     -
@@ -12,9 +12,9 @@ Adian no Tsue (Japan) (Beta)                                                    
 Ai Senshi Nicol (Japan)                                                                                                -      -     -
 Air Fortress (Japan) (Proto)                                                                                           ✗      ✗     ✗
 Aki to Tsukasa no Fushigi no Kabe (Japan) (Unl)                                                                        -      -     -
-Akumajou Dracula (Japan) (Rev 1) [b]                                                                                   -      -     -
+Akumajou Dracula (Japan)                                                                                               ✗      ✗     ✗
+Akumajou Dracula (Japan) (Rev 1)                                                                                       ✗      ✗     ✗
 Akumajou Dracula (Japan) (Rev 2) (Disk Writer)                                                                         -      -     -
-Akumajou Dracula (Japan) [b]                                                                                           -      -     -
 Akuu Senki Raijin (Japan) (Disk Writer)                                                                                -      -     -
 Aliens - Alien 2 (Japan) (Proto) [b]                                                                                   -      -     -
 All Night Nippon Super Mario Brothers (Japan) (Promotion Card)                                                         -      -     -
@@ -25,9 +25,9 @@ Backgammon (Japan)                                                              
 Bakutoushi Patton-kun (Japan)                                                                                          -      -     -
 Baseball (Japan)                                                                                                       -      -     -
 Big Challenge! Dogfight Spirit (Japan)                                                                                 -      -     -
-Big Challenge! Go! Go! Bowling (Japan)                                                                                 -      -     -
+Big Challenge! Go! Go! Bowling (Japan) [b]                                                                             ✗      ✗     ✗
 Big Challenge! Gun Fighter (Japan)                                                                                     -      -     -
-Big Challenge! Juudou Senshuken (Japan)                                                                                -      -     -
+Big Challenge! Juudou Senshuken (Japan) [b]                                                                            ✗      ✗     ✗
 Bio Miracle Bokutte Upa (Japan)                                                                                        -      -     -
 Bishoujo Alien Battle (Japan) (Alt 1) (Unl)                                                                            -      -     -
 Bishoujo Alien Battle (Japan) (Unl)                                                                                    -      -     -
@@ -227,6 +227,7 @@ Omoikkiri Tanteidan HaadoGumi - Matenrou no Chousenjou (Japan)                  
 Othello (Japan) (DV 2)                                                                                                 -      -     -
 Othello (Japan) (DV 5) (Disk Writer)                                                                                   -      -     -
 Otocky (Japan)                                                                                                         -      -     -
+Otocky (Japan) (Beta)                                                                                                  ✗      ✗     ✗
 Pac-Man (Japan) (Disk Writer)                                                                                          ✗      -     -
 Pachicom (Japan) (Disk Writer)                                                                                         ✗      -     -
 Pachinko Grand Prix (Japan) [b]                                                                                        -      -     -
@@ -280,6 +281,7 @@ Super Mario Brothers 2 (Japan) (DV 2)                                           
 Tama _ Friends - 3 Choume Daibouken (Japan)                                                                            ✗      ✗     ✗
 Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi - Shinban Tsumeshougi - Tsugi no Itte (Japan) (Disk Writer)     ✗      -     -
 Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi (Japan)                                                         -      -     -
+Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi (Japan) (Beta) (1987-11-13)                                     ✗      ✗     ✗
 Tantei Jinguuji Saburou - Kiken na Futari - Kouhen (Japan)                                                             -      -     -
 Tantei Jinguuji Saburou - Kiken na Futari - Zenpen (Japan) [b]                                                         -      -     -
 Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan)                                                 -      -     -
@@ -289,7 +291,7 @@ Tennis (Japan)                                                                  
 Tenshi Tachi no Houkago (Japan) (Disk 1) (Unl)                                                                         -      -     -
 Tenshi Tachi no Houkago (Japan) (Disk 2) (Unl)                                                                         -      -     -
 Time Twist - Rekishi no Katasumi de... - Kouhen (Japan)                                                                -      -     -
-Time Twist - Rekishi no Katasumi de... - Zenpen (Japan) [b]                                                            -      -     -
+Time Twist - Rekishi no Katasumi de... - Zenpen (Japan)                                                                ✗      ✗     ✗
 Titanic Mystery - Ao no Senritsu (Japan)                                                                               -      -     -
 Tobidase Daisakusen (Japan)                                                                                            -      -     -
 Tonkachi Editor (Japan) (Unl)                                                                                          ✗      -     -
@@ -300,8 +302,8 @@ TwinBee (Japan) (Disk Writer)                                                   
 Ultraman - Kaijuu Teikoku no Gyakushuu (Japan) (Disk Writer)                                                           -      -     -
 Ultraman - Kaijuu Teikoku no Gyakushuu (Japan) [b]                                                                     -      -     -
 Ultraman 2 - Shutsugeki Katoku Tai (Japan)                                                                             -      -     -
-Ultraman Club - Chikyuu Dakkan Sakusen (Japan)                                                                         -      -     -
-Ultraman Club - Chikyuu Dakkan Sakusen (Japan) (Rev 1)                                                                 -      -     -
+Ultraman Club - Chikyuu Dakkan Sakusen (Japan) (Rev 1) [b]                                                             ✗      ✗     ✗
+Ultraman Club - Chikyuu Dakkan Sakusen (Japan) [b]                                                                     ✗      ✗     ✗
 Volleyball (Japan)                                                                                                     -      -     -
 Vs. Excitebike (Japan)                                                                                                 -      -     -
 Wakusei Aton Gaiden (Japan) (National Tax Agency Demo)                                                                 ✗      -     -
@@ -311,7 +313,7 @@ Wrecking Crew (Japan) (Disk Writer)                                             
 Xevious (Japan) (Disk Writer)                                                                                          ✗      -     -
 Yakyuuken Part II - Gal's Dungeon (Japan) (Unl)                                                                        ✗      -     -
 Youkai Yashiki (Japan)                                                                                                 -      -     -
-Yume Koujou Doki Doki Panic (Japan) (DV 1)                                                                             -      -     -
+Yume Koujou Doki Doki Panic (Japan) (DV 1) [b]                                                                         ✗      ✗     ✗
 Yume Koujou Doki Doki Panic (Japan) (DV 2)                                                                             -      -     -
 Yuu Maze (Japan)                                                                                                       -      -     -
 Yuushi no Monshou - Deep Dungeon (Japan) (Rev 1) (Disk Writer) [b]                                                     -      -     -

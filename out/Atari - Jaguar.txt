@@ -1,67 +1,109 @@
 Atari - Jaguar Missing
 
-Boxarts    59/59  100.00%
-Snaps      59/59  100.00%
-Titles     59/59  100.00%
-Total    177/177  100.00%
+Boxarts   40/101  39.60%
+Snaps     40/101  39.60%
+Titles    40/101  39.60%
+Total    120/303  39.60%
 
-Name                                                Boxart  Snap  Title
-Air Cars (World)                                       -      -     -
-Alien vs Predator (World)                              -      -     -
-Atari Karts (World)                                    -      -     -
-Attack of the Mutant Penguins (World)                  -      -     -
-Battle Sphere Gold (World)                             -      -     -
-Brutal Sports Football (World)                         -      -     -
-Bubsy in Fractured Furry Tales (World)                 -      -     -
-Cannon Fodder (World)                                  -      -     -
-Checkered Flag (World)                                 -      -     -
-Club Drive (World)                                     -      -     -
-Cybermorph (World) (Rev 1)                             -      -     -
-Cybermorph (World) (Rev 2)                             -      -     -
-Defender 2000 (World)                                  -      -     -
-Doom (World)                                           -      -     -
-Double Dragon V - The Shadow Falls (World)             -      -     -
-Dragon - The Bruce Lee Story (World)                   -      -     -
-Evolution - Dino Dudes (World)                         -      -     -
-Fever Pitch Soccer (World) (En,Fr,De,Es,It)            -      -     -
-Fight for Life (World)                                 -      -     -
-Fight for Life (World) (Alt 1)                         -      -     -
-Flashback - The Quest for Identity (World) (En,Fr)     -      -     -
-Flip Out! (World)                                      -      -     -
-Hover Strike (World)                                   -      -     -
-Hyper Force (World)                                    -      -     -
-I-War (World)                                          -      -     -
-Iron Soldier (World) (v1.04)                           -      -     -
-Iron Soldier 2 (World)                                 -      -     -
-Kasumi Ninja (World)                                   -      -     -
-Missile Command 3D (World)                             -      -     -
-NBA Jam - Tournament Edition (World)                   -      -     -
-Pinball Fantasies (World)                              -      -     -
-Pitfall - The Mayan Adventure (World)                  -      -     -
-Power Drive Rally (World)                              -      -     -
-Protector - Special Edition (World)                    -      -     -
-Raiden (World)                                         -      -     -
-Rayman (World)                                         -      -     -
-Ruiner Pinball (World)                                 -      -     -
-Sensible Soccer - International Edition (World)        -      -     -
-Skyhammer (World)                                      -      -     -
-Soccer Kid (World)                                     -      -     -
-Space War 2000 (World)                                 -      -     -
-Super Burnout (World)                                  -      -     -
-SuperCross 3D (World)                                  -      -     -
-Syndicate (World)                                      -      -     -
-Tempest 2000 (World)                                   -      -     -
-Theme Park (World)                                     -      -     -
-Total Carnage (World)                                  -      -     -
-Towers II (World)                                      -      -     -
-Trevor McFur in the Crescent Galaxy (World)            -      -     -
-Troy Aikman NFL Football (World)                       -      -     -
-Ultra Vortek (World)                                   -      -     -
-Ultra Vortek (World) (v0.94) (Beta)                    -      -     -
-Val d'Isere Skiing and Snowboarding (World)            -      -     -
-White Men Can't Jump (World)                           -      -     -
-Wolfenstein 3D (World)                                 -      -     -
-Worms (World)                                          -      -     -
-Zero 5 (World)                                         -      -     -
-Zool 2 (World)                                         -      -     -
-Zoop! (World)                                          -      -     -
+Name                                                         Boxart  Snap  Title
+Aircars (USA)                                                   ✗      ✗     ✗
+Aircars (USA) (Beta) (1994-11-14)                               ✗      ✗     ✗
+Alien vs Predator (World)                                       -      -     -
+Alien vs Predator (World) (Beta) (1993-08-18)                   ✗      ✗     ✗
+Alien vs Predator (World) (Beta) (1993-10-13)                   ✗      ✗     ✗
+Alien vs Predator (World) (Beta) (1994-04-08)                   ✗      ✗     ✗
+Arena Football '95 (World)                                      ✗      ✗     ✗
+Atari Karts (World)                                             -      -     -
+Atari Karts (World) (Beta)                                      ✗      ✗     ✗
+Attack of the Mutant Penguins (World)                           -      -     -
+Barkley Shut Up and Jam (World)                                 ✗      ✗     ✗
+Barkley Shut Up and Jam (World) (Beta)                          ✗      ✗     ✗
+Battle Sphere (World)                                           ✗      ✗     ✗
+Battle Sphere Gold (World)                                      -      -     -
+Breakout 2000 (USA, Europe)                                     ✗      ✗     ✗
+Breakout 2000 (USA, Europe) (Beta)                              ✗      ✗     ✗
+Brett Hull Hockey (World)                                       ✗      ✗     ✗
+Brutal Sports Football (World)                                  -      -     -
+Bubsy in Fractured Furry Tales (World)                          -      -     -
+Cannon Fodder (World)                                           -      -     -
+Checkered Flag (World)                                          -      -     -
+Checkered Flag (World) (Beta) (CES 1993)                        ✗      ✗     ✗
+Club Drive (World)                                              -      -     -
+Club Drive (World) (Beta)                                       ✗      ✗     ✗
+Cybermorph (World) (Beta) (1993-08-23)                          ✗      ✗     ✗
+Cybermorph (World) (Rev A)                                      ✗      ✗     ✗
+Cybermorph (World) (Rev B)                                      ✗      ✗     ✗
+Defender 2000 (World)                                           -      -     -
+Defender 2000 (World) (Beta)                                    ✗      ✗     ✗
+Doom (World)                                                    -      -     -
+Double Dragon V - The Shadow Falls (World)                      -      -     -
+Dragon - The Bruce Lee Story (World)                            -      -     -
+Evolution - Dino Dudes (World)                                  -      -     -
+Fever Pitch Soccer (World) (En,Fr,De,Es,It)                     -      -     -
+Fight for Life (USA, Europe)                                    ✗      ✗     ✗
+Fight for Life (USA, Europe) (Beta) (1995-03-22)                ✗      ✗     ✗
+Fight for Life (USA, Europe) (Beta) (1995-09-07)                ✗      ✗     ✗
+Flashback - The Quest for Identity (World) (En,Fr)              -      -     -
+Flip Out! (World)                                               -      -     -
+Frog Feast (World)                                              ✗      ✗     ✗
+High Voltage C Maze (USA) (Demo)                                ✗      ✗     ✗
+Hover Strike (World)                                            -      -     -
+Hyper Force (World)                                             -      -     -
+I-War (USA, Europe)                                             ✗      ✗     ✗
+International Sensible Soccer (World)                           ✗      ✗     ✗
+Iron Soldier (World)                                            ✗      ✗     ✗
+Iron Soldier 2 (USA, Europe)                                    ✗      ✗     ✗
+Jack Nicklaus Cyber Golf (USA) (Demo) (1995-01-13)              ✗      ✗     ✗
+Jack Nicklaus Cyber Golf (USA) (Demo) (1995-01-16)              ✗      ✗     ✗
+Jack Nicklaus Cyber Golf (USA) (Proto) (1994-07-04)             ✗      ✗     ✗
+Kasumi Ninja (World)                                            -      -     -
+Kasumi Ninja (World) (Demo)                                     ✗      ✗     ✗
+Missile Command 3D (World)                                      -      -     -
+Missile Command VR (World) (Beta) (1995-07-05)                  ✗      ✗     ✗
+NBA Jam - Tournament Edition (USA, Europe)                      ✗      ✗     ✗
+Phase Zero (World)                                              ✗      ✗     ✗
+Pinball Fantasies (World)                                       -      -     -
+Pitfall - The Mayan Adventure (USA, Europe)                     ✗      ✗     ✗
+Plucky Duck in Hollywood Hijinks (USA) (Proto) (1994-10-28)     ✗      ✗     ✗
+Power Drive Rally (World)                                       -      -     -
+Protector - Special Edition (World)                             -      -     -
+Protector (World)                                               ✗      ✗     ✗
+Raiden (World)                                                  -      -     -
+Raiden (World) (Rev A)                                          ✗      ✗     ✗
+Rayman (World)                                                  -      -     -
+Rayman (World) (Beta 1)                                         ✗      ✗     ✗
+Rayman (World) (Beta 2)                                         ✗      ✗     ✗
+Ruiner Pinball (USA, Europe)                                    ✗      ✗     ✗
+Skyhammer (World)                                               -      -     -
+Slam Racer (USA) (Proto)                                        ✗      ✗     ✗
+Soccer Kid (World)                                              -      -     -
+Soccer Kid (World) (Beta)                                       ✗      ✗     ✗
+Space War 2000 (World)                                          -      -     -
+Super Burnout (World)                                           -      -     -
+Super Burnout (World) (Demo) (WCES 1995)                        ✗      ✗     ✗
+Supercross 3D (USA, Europe)                                     ✗      ✗     ✗
+Syndicate (World)                                               -      -     -
+Tempest 2000 (World)                                            -      -     -
+Thea Realm Fighters (USA) (Proto 1)                             ✗      ✗     ✗
+Thea Realm Fighters (USA) (Proto 2)                             ✗      ✗     ✗
+Theme Park (World)                                              -      -     -
+Tiny Toon Adventures (USA) (Proto)                              ✗      ✗     ✗
+Total Carnage (World)                                           -      -     -
+Total Carnage (World) (Beta)                                    ✗      ✗     ✗
+Towers II - Plight of the Stargazer (USA, Europe)               ✗      ✗     ✗
+Trevor McFur in the Crescent Galaxy (World)                     -      -     -
+Trevor McFur in the Crescent Galaxy (World) (Beta)              ✗      ✗     ✗
+Trevor McFur in the Crescent Galaxy (World) (Rev A)             ✗      ✗     ✗
+Troy Aikman NFL Football (World)                                -      -     -
+Ultra Vortek (World)                                            -      -     -
+Ultra Vortex (World) (Beta) (1995-03-20)                        ✗      ✗     ✗
+Val d'Isere Skiing and Snowboarding (World)                     -      -     -
+Virtual VCS (USA) (Proto)                                       ✗      ✗     ✗
+White Men Can't Jump (USA, Europe)                              ✗      ✗     ✗
+Wolfenstein 3D (World)                                          -      -     -
+Worms (USA, Europe)                                             ✗      ✗     ✗
+Zero 5 (USA, Europe)                                            ✗      ✗     ✗
+Zero 5 (USA, Europe) (Beta)                                     ✗      ✗     ✗
+Zool 2 (World)                                                  -      -     -
+Zoop (USA, Europe)                                              ✗      ✗     ✗
+Zzyorxx II (USA) (Demo)                                         ✗      ✗     ✗

@@ -1,9 +1,9 @@
 Sega - Game Gear Missing
 
-Boxarts    290/502  57.77%
-Snaps      375/502  74.70%
-Titles     375/502  74.70%
-Total    1040/1506  69.06%
+Boxarts    286/507  56.41%
+Snaps      371/507  73.18%
+Titles     371/507  73.18%
+Total    1028/1521  67.59%
 
 Name                                                                                Boxart  Snap  Title
 5 in One FunPak (USA)                                                                  ✗      ✗     ✗
@@ -27,7 +27,7 @@ Arliel - Crystal Densetsu (Japan)                                               
 Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It)                                 -      -     -
 Asterix and the Great Rescue (USA)                                                     -      -     -
 Asterix and the Secret Mission (Europe) (En,Fr,De)                                     -      -     -
-Ax Battler - A Legend of Golden Axe (USA, Europe, Brazil) (Beta) (10.08.1991)          ✗      ✗     ✗
+Ax Battler - A Legend of Golden Axe (USA, Europe, Brazil) (Beta) (1991-08-10)          ✗      ✗     ✗
 Ax Battler - A Legend of Golden Axe ~ Golden Axe (USA, Europe, Brazil)                 ✗      ✗     ✗
 Ax Battler - Golden Axe Densetsu (Japan)                                               -      -     -
 Ayrton Senna's Super Monaco GP II (Japan)                                              -      -     -
@@ -54,6 +54,7 @@ Bonkers Wax Up! (USA, Europe)                                                   
 Bram Stoker's Dracula (Europe)                                                         -      -     -
 Bram Stoker's Dracula (USA)                                                            -      -     -
 Bubble Bobble (USA)                                                                    ✗      ✗     ✗
+Bubble Bobble (USA) (Beta)                                                             ✗      ✗     ✗
 Bugs Bunny in Double Trouble (USA, Europe)                                             -      -     -
 Bust-A-Move (USA)                                                                      ✗      ✗     ✗
 Buster Ball (Japan)                                                                    -      -     -
@@ -112,6 +113,7 @@ Double Dragon (USA, Europe) (Beta)                                              
 Dr. Franken (Europe) (Proto)                                                           ✗      ✗     ✗
 Dr. Robotnik's Mean Bean Machine (USA, Europe)                                         -      -     -
 Dragon - The Bruce Lee Story (Europe)                                                  -      -     -
+Dragon - The Bruce Lee Story (Europe) (Beta)                                           ✗      ✗     ✗
 Dragon - The Bruce Lee Story (USA)                                                     -      -     -
 Dragon Crystal - Tsurani no Meikyuu (Japan)                                            -      -     -
 Dragon Crystal (USA, Europe)                                                           -      -     -
@@ -174,6 +176,7 @@ Global Gladiators (Europe)                                                      
 Gojira - Kaijuu Daishingeki (Japan)                                                    ✗      -     -
 GP Rider (Japan)                                                                       -      -     -
 GP Rider (World)                                                                       ✗      ✗     ✗
+GP Rider (World) (Beta) (1994-01-04)                                                   ✗      ✗     ✗
 Greendog - The Beached Surfer Dude! (USA, Brazil)                                      ✗      ✗     ✗
 Griffin (Japan)                                                                        -      -     -
 Gunstar Heroes (Japan)                                                                 -      -     -
@@ -189,7 +192,7 @@ Hurricanes (Europe)                                                             
 Hyokkori Hyoutan-jima - Hyoutan-jima no Daikoukai (Japan)                              ✗      -     -
 Hyper Pro Yakyuu '92 (Japan)                                                           ✗      -     -
 In the Wake of Vampire (Japan)                                                         -      -     -
-Incredible Crash Dummies, The (World)                                                  -      -     -
+Incredible Crash Dummies, The ~ Crash Dummy - Slick Bouya no Daichousen (World)        ✗      ✗     ✗
 Incredible Hulk, The (USA, Europe)                                                     -      -     -
 Indiana Jones and the Last Crusade (USA, Europe)                                       -      -     -
 Iron Man X-O Manowar in Heavy Metal (USA)                                              ✗      ✗     ✗
@@ -215,7 +218,8 @@ Jungle Strike (USA)                                                             
 Jurassic Park (Japan)                                                                  -      -     -
 Jurassic Park (USA, Europe, Brazil)                                                    ✗      ✗     ✗
 Kaitou Saint Tail (Japan)                                                              ✗      -     -
-Kawasaki Superbike Challenge (USA, Europe)                                             -      -     -
+Kawasaki Superbike Challenge (Europe)                                                  ✗      ✗     ✗
+Kawasaki Superbike Challenge (USA)                                                     ✗      ✗     ✗
 Kenyuu Densetsu Yaiba (Japan)                                                          -      -     -
 Kick _ Rush (Japan)                                                                    ✗      -     -
 Kinetic Connection (Japan)                                                             ✗      -     -
@@ -264,6 +268,7 @@ Micro Machines (USA, Europe)                                                    
 Micro Machines 2 - Turbo Tournament (Europe)                                           -      -     -
 Mighty Morphin Power Rangers - The Movie (USA, Europe)                                 -      -     -
 Mighty Morphin Power Rangers (USA, Europe)                                             -      -     -
+Mighty Morphin Power Rangers (USA, Europe) (Beta) (1994-07-16)                         ✗      ✗     ✗
 MLBPA Baseball (USA)                                                                   -      -     -
 Moldorian - Hikari to Yami no Sister (Japan)                                           ✗      -     -
 Monster Truck Wars (USA, Europe)                                                       -      -     -
@@ -295,7 +300,7 @@ Ninku (Japan)                                                                   
 Ninku 2 - Tenkuuryuu e no Michi (Japan)                                                ✗      -     -
 Ninku Gaiden - Hiroyuki Daikatsugeki (Japan)                                           ✗      -     -
 Nomo Hideo no World Series Baseball (Japan)                                            ✗      -     -
-Off the Wall (USA) (Proto) (28.06.1992)                                                ✗      ✗     ✗
+Off the Wall (USA) (Proto) (1992-06-28)                                                ✗      ✗     ✗
 Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv) (Rev 1)                                -      -     -
 Olympic Gold (Japan, USA, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv)                            ✗      ✗     ✗
 Ottifants, The (Europe) (En,Fr,De,Es,It)                                               -      -     -
@@ -304,7 +309,7 @@ OutRun (Japan, Korea)                                                           
 OutRun Europa (Europe)                                                                 ✗      ✗     ✗
 OutRun Europa (USA)                                                                    ✗      ✗     ✗
 Pac-Attack (USA)                                                                       ✗      ✗     ✗
-Pac-In-Time (USA) (Proto)                                                              ✗      ✗     ✗
+Pac-in-Time (USA) (Proto)                                                              ✗      ✗     ✗
 Pac-Man (Japan) (En)                                                                   -      -     -
 Pac-Man (USA)                                                                          -      -     -
 Panzer Dragoon Mini (Japan)                                                            ✗      -     -
@@ -342,7 +347,7 @@ Psychic World (Japan) (En)                                                      
 Psychic World (USA, Europe, Brazil)                                                    ✗      ✗     ✗
 Putt _ Putter (Japan, Korea)                                                           ✗      ✗     ✗
 Putt _ Putter (USA, Europe, Brazil)                                                    ✗      ✗     ✗
-Puyo Puyo (Japan)                                                                      -      -     -
+Puyo Puyo (Japan) (En,Ja)                                                              ✗      ✗     ✗
 Puyo Puyo Tsuu (Japan)                                                                 ✗      ✗     ✗
 Puzzle _ Action - Ichidanto-R (Japan)                                                  ✗      ✗     ✗
 Puzzle _ Action - Tanto-R (Japan)                                                      ✗      ✗     ✗
@@ -383,7 +388,7 @@ Shining Force II - The Sword of Hajya (USA)                                     
 Shinobi II - The Silent Fury (World)                                                   ✗      ✗     ✗
 Side Pocket (USA)                                                                      -      -     -
 Simpsons, The - Bart vs. the Space Mutants (USA, Europe)                               -      -     -
-Simpsons, The - Bart vs. the World (World)                                             -      -     -
+Simpsons, The - Bart vs. the World ~ Bart World (World)                                ✗      ✗     ✗
 Simpsons, The - Bartman Meets Radioactive Man (USA)                                    ✗      ✗     ✗
 Skweek (Japan)                                                                         -      -     -
 Slider (USA, Europe)                                                                   -      -     -
@@ -397,11 +402,11 @@ Sonic _ Tails 2 (Japan)                                                         
 Sonic Chaos (USA, Europe, Brazil)                                                      ✗      ✗     ✗
 Sonic Drift (Japan) (En)                                                               -      -     -
 Sonic Drift (Japan) (En) (Sample)                                                      -      -     -
-Sonic Drift 2 (World)                                                                  ✗      ✗     ✗
+Sonic Drift Racing ~ Sonic Drift 2 (World)                                             ✗      ✗     ✗
 Sonic Labyrinth (World)                                                                -      -     -
 Sonic Spinball (USA, Europe)                                                           -      -     -
 Sonic The Hedgehog - Triple Trouble (USA, Europe)                                      -      -     -
-Sonic The Hedgehog (Japan, Europe, Brazi) (Rev 1)                                      ✗      ✗     ✗
+Sonic The Hedgehog (Japan, Europe, Brazil) (Rev 1)                                     ✗      ✗     ✗
 Sonic The Hedgehog (Japan, USA)                                                        ✗      ✗     ✗
 Sonic The Hedgehog (Japan, USA) (Proto)                                                ✗      ✗     ✗
 Sonic The Hedgehog 2 (World)                                                           -      -     -
@@ -412,9 +417,9 @@ Spider-Man - Return of the Sinister Six (USA, Europe)                           
 Spider-Man - X-Men - Arcade's Revenge (USA)                                            -      -     -
 Spider-Man (USA, Europe)                                                               ✗      ✗     ✗
 Spirou (Europe) (Proto)                                                                ✗      -     -
-Sports Illustrated - Championship Football _ Baseball (USA) [b]                        ✗      ✗     ✗
+Sports Illustrated - Championship Football _ Baseball (USA)                            ✗      ✗     ✗
 Sports Trivia - Championship Edition (USA)                                             ✗      ✗     ✗
-Sports Trivia - Championship Edition (USA) (Beta) (02.05.1995)                         ✗      ✗     ✗
+Sports Trivia - Championship Edition (USA) (Beta) (1995-05-02)                         ✗      ✗     ✗
 Sports Trivia (USA)                                                                    -      -     -
 Star Trek - The Next Generation - The Advanced Holodeck Tutorial (USA)                 -      -     -
 Star Trek Generations - Beyond the Nexus (USA)                                         ✗      ✗     ✗
@@ -430,7 +435,7 @@ Super Columns (Japan)                                                           
 Super Columns (USA, Europe)                                                            -      -     -
 Super Golf (Japan)                                                                     -      -     -
 Super Golf (USA)                                                                       -      -     -
-Super Kick Off (Europe)                                                                ✗      ✗     ✗
+Super Kick Off (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)                                      ✗      ✗     ✗
 Super Momotarou Dentetsu III (Japan)                                                   ✗      -     -
 Super Monaco GP (Japan, Korea)                                                         ✗      ✗     ✗
 Super Monaco GP (USA, Europe, Brazil)                                                  ✗      ✗     ✗
@@ -468,7 +473,7 @@ Tom and Jerry - The Movie (Japan, Brazil)                                       
 Tom and Jerry - The Movie (USA, Europe)                                                -      -     -
 Torarete Tamaruka (Japan)                                                              ✗      -     -
 True Lies (World)                                                                      -      -     -
-Ultimate Soccer (Japan, Europe, Brazi) (En,Fr,De,Es,It)                                ✗      ✗     ✗
+Ultimate Soccer (Japan, Europe, Brazil) (En,Fr,De,Es,It)                               ✗      ✗     ✗
 Urban Strike (USA)                                                                     ✗      ✗     ✗
 Vampire - Master of Darkness (USA)                                                     -      -     -
 Virtua Fighter Animation (USA, Europe)                                                 -      -     -
