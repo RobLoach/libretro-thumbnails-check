@@ -1,27 +1,40 @@
 LeapFrog - Leapster Learning Game System Missing
 
-Boxarts   1/68  1.47%
-Snaps     1/68  1.47%
-Titles    0/68  0.00%
-Total    2/204  0.98%
+Boxarts   1/93  1.08%
+Snaps     1/93  1.08%
+Titles    1/93  1.08%
+Total    3/279  1.08%
 
 Name                                                            Boxart  Snap  Title
 1st Grade (USA)                                                    ✗      ✗     ✗
+A La Conquete Des Nombres (France)                                 ✗      ✗     ✗
+Adibou - A La Recherche De Robitoc (France)                        ✗      ✗     ✗
 Backyardigans, The (USA)                                           ✗      ✗     ✗
 Batman, The - Multipliziere, Dividiere und Regiere (Germany)       ✗      ✗     ✗
+Bob Leponge - Heros D'un Jour (France)                             ✗      ✗     ✗
 Cars - Supercharged (USA)                                          ✗      ✗     ✗
+Cars (France)                                                      ✗      ✗     ✗
 Cars (Germany)                                                     ✗      ✗     ✗
-Cars (USA)                                                         -      -     ✗
+Cars (Spain)                                                       ✗      ✗     ✗
+Cars (USA)                                                         -      -     -
 Cars 2 (USA)                                                       ✗      ✗     ✗
 Clifford - The Big Red Dog - Reading (USA)                         ✗      ✗     ✗
 Cosmic Math - Arcade-Style Learning! (USA)                         ✗      ✗     ✗
 Creature Create (USA)                                              ✗      ✗     ✗
 Demo - Herbst 2004 II (Germany)                                    ✗      ✗     ✗
 Digging for Dinosaurs (USA)                                        ✗      ✗     ✗
+Dis Pourquoi Kirikou (France)                                      ✗      ✗     ✗
+Disney Fairies (Spain)                                             ✗      ✗     ✗
+Disney Princesa - La Magia De Aprender (Spain)                     ✗      ✗     ✗
 Disney Princess - Worlds of Enchantment (USA)                      ✗      ✗     ✗
 Disney Princess (USA)                                              ✗      ✗     ✗
+Disney Princesse - La Magie D'Apprendre (France)                   ✗      ✗     ✗
 Disney Prinzessinnen - Zauberhaftes Lernen (Germany)               ✗      ✗     ✗
 Dora - Retter der Wildnis (Germany)                                ✗      ✗     ✗
+Dora L' Exploratrice - Au Secours Des Animaux (France)             ✗      ✗     ✗
+Dora L' Exploratrice - Le Pont Casse (France)                      ✗      ✗     ✗
+Dora the Explorer - Camping Adventure (USA)                        ✗      ✗     ✗
+Dora the Explorer - Pinata Party! (USA)                            ✗      ✗     ✗
 Dora the Explorer - Wildlife Rescue (USA) (L-MAX)                  ✗      ✗     ✗
 Findet Nemo (Germany)                                              ✗      ✗     ✗
 Finding Nemo (USA)                                                 ✗      ✗     ✗
@@ -32,6 +45,8 @@ Grundschule 1 (Germany)                                            ✗      ✗ 
 Grundschule 2 - Musik in Gefahr (Germany)                          ✗      ✗     ✗
 I Spy - Treasure Hunt (USA)                                        ✗      ✗     ✗
 Kindergarten (USA)                                                 ✗      ✗     ✗
+La Riviere Des Lapins + L'atelier De Peinture (France)             ✗      ✗     ✗
+Lapin Malin - Danse Avec Les Mots (France)                         ✗      ✗     ✗
 Learning with Leap (USA)                                           ✗      ✗     ✗
 Lernen mit Leap (Germany)                                          ✗      ✗     ✗
 Letterpillar (USA)                                                 ✗      ✗     ✗
@@ -43,7 +58,10 @@ My Amusement Park (USA)                                            ✗      ✗ 
 NASCAR (USA) (L-MAX)                                               ✗      ✗     ✗
 Number Raiders (USA)                                               ✗      ✗     ✗
 Numbers on the Run (USA) (L-MAX)                                   ✗      ✗     ✗
+Oui-Oui - Aventures Au Pays Des Jouets (France)                    ✗      ✗     ✗
+Perrito Club - I Adopta Un Nuevo Amiguito Y Aprende! (Spain)       ✗      ✗     ✗
 Pet Pals (USA)                                                     ✗      ✗     ✗
+Ratatouille (France)                                               ✗      ✗     ✗
 Ratatouille (Germany)                                              ✗      ✗     ✗
 Ratatouille (USA)                                                  ✗      ✗     ✗
 Reading with Phonics - Mole's Huge Nose (USA)                      ✗      ✗     ✗
@@ -52,7 +70,9 @@ Scholastic I Spy - Challenger (USA)                                ✗      ✗ 
 Scholastic OutWit! (USA)                                           ✗      ✗     ✗
 Scooby Doo! - Spooky Snacks! (USA)                                 ✗      ✗     ✗
 Scooby Doo! (USA)                                                  ✗      ✗     ✗
+Scooby-Doo! - Et Les Nombres Fous! (France)                        ✗      ✗     ✗
 Sonic X (USA)                                                      ✗      ✗     ✗
+Spider-Man - L'Affaire Des Mots Mysteres (France)                  ✗      ✗     ✗
 Spider-Man - Schachmatt den Schildersaboteuren! (Germany)          ✗      ✗     ✗
 Spider-Man - The Case Of The Sinister Speller (USA)                ✗      ✗     ✗
 Spider-Man - The Case of the Sinister Speller (USA) (L-MAX)        ✗      ✗     ✗
@@ -60,15 +80,20 @@ Spongebob Schwammkopf - Zeitreise durch das Wurmloch (Germany)     ✗      ✗ 
 Spongebob Schwammkopf hat alles im Griff (Germany)                 ✗      ✗     ✗
 Spongebob Squarepants - Saves the Day (USA)                        ✗      ✗     ✗
 Spongebob Squarepants - Saves the Day (USA) (L-MAX)                ✗      ✗     ✗
+SpongeBob SquarePants - Through the Wormhole (USA)                 ✗      ✗     ✗
 Star Wars - Jedi Math (USA)                                        ✗      ✗     ✗
 Star Wars - Jedi Reading (USA)                                     ✗      ✗     ✗
+Star Wars - Matematicas Jedi (USA)                                 ✗      ✗     ✗
 Talking WORDS Factory (USA)                                        ✗      ✗     ✗
+The Batman - El Poder De Los Numeros (Spain)                       ✗      ✗     ✗
 The Batman - Strength in Numbers (USA)                             ✗      ✗     ✗
 Thomas and Friends - Calling all Engines! (USA)                    ✗      ✗     ✗
 Toy Story 3 (USA)                                                  ✗      ✗     ✗
+UP (Spain)                                                         ✗      ✗     ✗
 Up (USA)                                                           ✗      ✗     ✗
 Vorschule (Germany)                                                ✗      ✗     ✗
 Wall-E (Germany)                                                   ✗      ✗     ✗
+Wall-E (Spain)                                                     ✗      ✗     ✗
 Wall-E (USA)                                                       ✗      ✗     ✗
 Weltraum-Mathe - Lernen im Arcade-Stil! (Germany)                  ✗      ✗     ✗
 Woerterjaeger - Lernen im Arcade-Stil! (Germany)                   ✗      ✗     ✗
