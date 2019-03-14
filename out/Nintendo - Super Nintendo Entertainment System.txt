@@ -1,9 +1,9 @@
 Nintendo - Super Nintendo Entertainment System Missing
 
-Boxarts   3220/3558  90.50%
-Snaps     3201/3558  89.97%
-Titles    3201/3558  89.97%
-Total    9622/10674  90.14%
+Boxarts   3226/3558  90.67%
+Snaps     3203/3558  90.02%
+Titles    3203/3558  90.02%
+Total    9632/10674  90.24%
 
 Name                                                                                        Boxart  Snap  Title
 '96 Zenkoku Koukou Soccer Senshuken (Japan)                                                    -      -     -
@@ -558,8 +558,8 @@ Dig _ Spike Volleyball (USA)                                                    
 Digimon Adventure (World) (Unl) (Pirate)                                                       ✗      ✗     ✗
 Dimension-Force (Japan) (En)                                                                   -      -     -
 Dino Dini's Soccer! (Europe) (En,Fr,De)                                                        -      -     -
-DinoCity (Europe)                                                                              ✗      ✗     ✗
-DinoCity (USA)                                                                                 ✗      ✗     ✗
+DinoCity (Europe)                                                                              -      -     -
+DinoCity (USA)                                                                                 -      -     -
 Dinowars - Kyouryuu Oukoku e no Daibouken (Japan)                                              -      -     -
 Dirt Racer (Europe) (En,Fr,De)                                                                 -      -     -
 Dirt Trax FX (Europe)                                                                          -      -     -
@@ -1423,7 +1423,7 @@ Lagoon (Germany)                                                                
 Lagoon (Japan)                                                                                 -      -     -
 Lagoon (USA)                                                                                   -      -     -
 Lamborghini - American Challenge (Europe)                                                      ✗      ✗     ✗
-Lamborghini - American Challenge (USA)                                                         ✗      ✗     ✗
+Lamborghini - American Challenge (USA)                                                         -      ✗     ✗
 Langrisser, Der (Japan)                                                                        -      -     -
 Langrisser, Der (Japan) (Rev 1)                                                                -      -     -
 Laplace no Ma (Japan)                                                                          -      -     -
@@ -1646,7 +1646,7 @@ Metal Morph (USA)                                                               
 Metal Slader Glory - Director's Cut (Japan) (NP)                                               -      -     -
 Metal Warriors (USA)                                                                           -      -     -
 Michael Andretti's Indy Car Challenge (Japan)                                                  ✗      ✗     ✗
-Michael Andretti's Indy Car Challenge (USA)                                                    ✗      ✗     ✗
+Michael Andretti's Indy Car Challenge (USA)                                                    -      ✗     ✗
 Michael Jordan - Chaos in the Windy City (Europe)                                              -      -     -
 Michael Jordan - Chaos in the Windy City (USA)                                                 -      -     -
 Mick _ Mack as the Global Gladiators (USA) (Proto) [b]                                         ✗      -     -
@@ -2519,7 +2519,7 @@ Sparkster (Japan) (En)                                                          
 Sparkster (USA)                                                                                -      -     -
 Spectre (Europe)                                                                               -      -     -
 Spectre (USA)                                                                                  -      -     -
-Speed Racer (USA)                                                                              ✗      ✗     ✗
+Speed Racer (USA)                                                                              -      ✗     ✗
 Speedy Gonzales - Los Gatos Bandidos (USA)                                                     -      -     -
 Speedy Gonzales - Los Gatos Bandidos (USA) (Rev 1)                                             -      -     -
 Speedy Gonzales in Los Gatos Bandidos (Europe) (Proto) (1995-03-02) (No. 04)                   ✗      ✗     ✗
@@ -2783,7 +2783,7 @@ Super Game Boy 2 (Japan)                                                        
 Super Genjin (Japan)                                                                           -      -     -
 Super Genjin 2 (Japan)                                                                         -      -     -
 Super Ghouls 'N Ghosts (Europe)                                                                ✗      ✗     ✗
-Super Ghouls 'N Ghosts (USA)                                                                   ✗      ✗     ✗
+Super Ghouls 'N Ghosts (USA)                                                                   -      ✗     ✗
 Super Goal! (Europe)                                                                           -      -     -
 Super Goal! 2 (USA)                                                                            -      -     -
 Super Godzilla (USA)                                                                           -      -     -
