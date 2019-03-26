@@ -19,7 +19,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [ChaiLove](out/ChaiLove.txt) | 1 / 6 | 1 / 6 | 1 / 6 | 3 / 18 | **16.67%** |
 | [Coleco - ColecoVision](out/Coleco%20-%20ColecoVision.txt) | 173 / 173 | 173 / 173 | 173 / 173 | 519 / 519 | **100.00%** |
 | [Commodore - 64](out/Commodore%20-%2064.txt) | 9 / 304 | 265 / 304 | 271 / 304 | 545 / 912 | **59.76%** |
-| [Commodore - Amiga](out/Commodore%20-%20Amiga.txt) | 0 / 3151 | 0 / 3151 | 0 / 3151 | 0 / 9453 | **0.00%** |
+| [Commodore - Amiga](out/Commodore%20-%20Amiga.txt) | 1578 / 3151 | 2037 / 3151 | 1191 / 3151 | 4806 / 9453 | **50.84%** |
 | [Dinothawr](out/Dinothawr.txt) | 1 / 1 | 1 / 1 | 1 / 1 | 3 / 3 | **100.00%** |
 | [DOOM](out/DOOM.txt) | 15 / 88 | 5 / 88 | 5 / 88 | 25 / 264 | **9.47%** |
 | [DOS](out/DOS.txt) | 9 / 13220 | 9 / 13220 | 9 / 13220 | 27 / 39660 | **0.07%** |
@@ -52,8 +52,9 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Nintendo - Game Boy](out/Nintendo%20-%20Game%20Boy.txt) | 954 / 1634 | 1413 / 1634 | 1413 / 1634 | 3780 / 4902 | **77.11%** |
 | [Nintendo - GameCube](out/Nintendo%20-%20GameCube.txt) | 123 / 2888 | 1 / 2888 | 3 / 2888 | 127 / 8664 | **1.47%** |
 | [Nintendo - Nintendo 3DS](out/Nintendo%20-%20Nintendo%203DS.txt) | 22 / 4356 | 1 / 4356 | 1 / 4356 | 24 / 13068 | **0.18%** |
+| [Nintendo - Nintendo 64](out/Nintendo%20-%20Nintendo%2064.txt) | 777 / 1025 | 801 / 1025 | 801 / 1025 | 2379 / 3075 | **77.37%** |
 | [Nintendo - Nintendo 64DD](out/Nintendo%20-%20Nintendo%2064DD.txt) | 2 / 15 | 1 / 15 | 1 / 15 | 4 / 45 | **8.89%** |
-| [Nintendo - Nintendo DS](out/Nintendo%20-%20Nintendo%20DS.txt) | 4052 / 7095 | 10 / 7095 | 17 / 7095 | 4079 / 21285 | **19.16%** |
+| [Nintendo - Nintendo DS](out/Nintendo%20-%20Nintendo%20DS.txt) | 4053 / 7095 | 11 / 7095 | 18 / 7095 | 4082 / 21285 | **19.18%** |
 | [Nintendo - Nintendo Entertainment System](out/Nintendo%20-%20Nintendo%20Entertainment%20System.txt) | 2007 / 3170 | 2751 / 3170 | 2746 / 3170 | 7504 / 9510 | **78.91%** |
 | [Nintendo - Pokemon Mini](out/Nintendo%20-%20Pokemon%20Mini.txt) | 43 / 44 | 43 / 44 | 43 / 44 | 129 / 132 | **97.73%** |
 | [Nintendo - Satellaview](out/Nintendo%20-%20Satellaview.txt) | 0 / 249 | 91 / 249 | 91 / 249 | 182 / 747 | **24.36%** |
@@ -94,7 +95,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [VTech - CreatiVision](out/VTech%20-%20CreatiVision.txt) | 20 / 20 | 20 / 20 | 20 / 20 | 60 / 60 | **100.00%** |
 | [VTech - V.Smile](out/VTech%20-%20V.Smile.txt) | 1 / 112 | 1 / 112 | 1 / 112 | 3 / 336 | **0.89%** |
 | [Watara - Supervision](out/Watara%20-%20Supervision.txt) | 63 / 63 | 63 / 63 | 63 / 63 | 189 / 189 | **100.00%** |
-| **Total** | **24828 / 125719** | **23309 / 125719** | **21510 / 125719** | **69647 / 377157** | **18.47%** |
+| **Total** | **27184 / 126744** | **26148 / 126744** | **23503 / 126744** | **76835 / 380232** | **20.21%** |
 
 ## Build
 
