@@ -33,7 +33,8 @@ var cleanGameName = batchreplace.mapReplacer({
 	'?': '_',
 	'\\': '_',
 	'|': '_',
-	'"': '_'
+	'"': '_',
+    '~': '_'
 })
 
 /**
