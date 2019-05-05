@@ -1,9 +1,9 @@
 Nintendo - Game Boy Color Missing
 
-Boxarts   780/1462  53.35%
-Snaps    1207/1462  82.56%
-Titles   1207/1462  82.56%
-Total    3194/4386  72.82%
+Boxarts   779/1466  53.14%
+Snaps    1205/1466  82.20%
+Titles   1205/1466  82.20%
+Total    3189/4398  72.51%
 
 Name                                                                                                             Boxart  Snap  Title
 007 - The World Is Not Enough (USA, Europe)                                                                         -      -     -
@@ -744,7 +744,7 @@ Mat Hoffman's Pro BMX (USA, Europe)                                             
 Matchbox Emergency Patrol (USA, Europe)                                                                             -      -     -
 Maus, Die - Verrueckte Olympiade (Germany)                                                                          ✗      -     -
 Maus, Die (Europe) (En,Fr,De,Es)                                                                                    ✗      -     -
-Maya the Bee _ Her Friends (Europe) (En,Fr,De,Es) (GB Compatible)                                                   ✗      -     -
+Maya the Bee _ Her Friends (Europe) (En,Fr,De) (GB Compatible)                                                      ✗      ✗     ✗
 Maya the Bee - Garden Adventures (Europe) (En,Fr,De,Es)                                                             ✗      -     -
 McDonald's Monogatari - Honobono Tenchou Ikusei Game (Japan)                                                        ✗      -     -
 Medarot 2 - Kabuto Version (Japan) (SGB Enhanced) (GB Compatible)                                                   ✗      -     -
@@ -955,6 +955,7 @@ Pocket Racing (Europe)                                                          
 Pocket Smash Out _ Race Time (Europe) (Unl)                                                                         ✗      -     -
 Pocket Smash Out (Europe) (Unl)                                                                                     ✗      -     -
 Pocket Soccer (Europe) (En,Fr,De,Es,It,Pt)                                                                          -      -     -
+Pokemon - Crystal Version (Australia)                                                                               ✗      ✗     ✗
 Pokemon - Crystal Version (USA, Europe)                                                                             -      -     -
 Pokemon - Crystal Version (USA, Europe) (Rev 1)                                                                     ✗      ✗     ✗
 Pokemon - Edicion Cristal (Spain)                                                                                   -      -     -
@@ -963,6 +964,7 @@ Pokemon - Edicion Plata (Spain) (SGB Enhanced) (GB Compatible)                  
 Pokemon - Gold Version (USA, Europe) (SGB Enhanced) (GB Compatible)                                                 -      -     -
 Pokemon - Goldene Edition (Germany) (SGB Enhanced) (GB Compatible)                                                  -      -     -
 Pokemon - Kristall-Edition (Germany)                                                                                -      -     -
+Pokemon - Silberne Edition (Germany) (Beta) (SGB Enhanced) (GB Compatible)                                          ✗      ✗     ✗
 Pokemon - Silberne Edition (Germany) (SGB Enhanced) (GB Compatible)                                                 -      -     -
 Pokemon - Silver Version (USA, Europe) (SGB Enhanced) (GB Compatible)                                               -      -     -
 Pokemon - Version Argent (France) (SGB Enhanced) (GB Compatible)                                                    ✗      ✗     ✗
@@ -978,7 +980,7 @@ Pokemon Pinball (Europe) (En,Fr,De,Es,It) (Rumble Version) (SGB Enhanced) (GB Co
 Pokemon Pinball (Japan) (Rumble Version) (SGB Enhanced) (GB Compatible)                                             -      -     -
 Pokemon Pinball (USA, Australia) (Rumble Version) (SGB Enhanced) (GB Compatible)                                    ✗      ✗     ✗
 Pokemon Puzzle Challenge (Europe) (En,Fr,De,Es,It)                                                                  -      -     -
-Pokemon Puzzle Challenge (USA)                                                                                      -      -     -
+Pokemon Puzzle Challenge (USA, Australia)                                                                           ✗      ✗     ✗
 Pokemon Trading Card Game (Europe) (En,Es,It) (Rev 1) (SGB Enhanced) (GB Compatible)                                ✗      ✗     ✗
 Pokemon Trading Card Game (Europe) (En,Es,It) (SGB Enhanced) (GB Compatible)                                        -      -     -
 Pokemon Trading Card Game (Europe) (En,Fr,De) (Rev 1) (SGB Enhanced) (GB Compatible)                                ✗      ✗     ✗
@@ -1072,6 +1074,7 @@ Real Pro Yakyuu! - Central League Hen (Japan) (SGB Enhanced) (GB Compatible)    
 Real Pro Yakyuu! - Pacific League Hen (Japan) (SGB Enhanced) (GB Compatible)                                        ✗      -     -
 Rescue Heroes - Fire Frenzy (USA)                                                                                   -      -     -
 Reservoir Rat (Europe) (En,Fr,De,Es,It) (GB Compatible)                                                             -      -     -
+Resident Evil (Unknown) (Demo) (Climax Entertainment)                                                               ✗      ✗     ✗
 Resident Evil (World) (Proto 1)                                                                                     ✗      ✗     ✗
 Resident Evil (World) (Proto 2)                                                                                     ✗      ✗     ✗
 Resident Evil Gaiden (Europe) (En,Fr,De,Es,It)                                                                      -      -     -
@@ -1287,6 +1290,7 @@ Test Drive Cycles (USA)                                                         
 Test Drive Le Mans (USA) (En,Fr,Es)                                                                                 -      -     -
 Test Drive Off-Road 3 (USA) (Rumble Version) (SGB Enhanced) (GB Compatible)                                         -      -     -
 Tetris Adventure - Susume Mickey to Nakama-tachi (Japan)                                                            -      -     -
+Tetris Adventure - Susume Mickey to Nakama-tachi (Japan) (Rev 1)                                                    ✗      ✗     ✗
 Tetris DX (World) (SGB Enhanced) (GB Compatible)                                                                    -      -     -
 Tezhong Budui 2 - Jidi (China) (Li Cheng) (Unl)                                                                     ✗      ✗     ✗
 TG Rally 2 (Europe)                                                                                                 -      -     -

@@ -1,9 +1,9 @@
 Nintendo - Nintendo Entertainment System Missing
 
-Boxarts  2007/3170  63.31%
-Snaps    2751/3170  86.78%
-Titles   2746/3170  86.62%
-Total    7504/9510  78.91%
+Boxarts  1997/3248  61.48%
+Snaps    2721/3248  83.77%
+Titles   2716/3248  83.62%
+Total    7434/9744  76.29%
 
 Name                                                                                          Boxart  Snap  Title
 '89 Dennou Kyuusei Uranai (Japan)                                                                -      -     -
@@ -11,6 +11,7 @@ Name                                                                            
 10-Yard Fight (Japan) (Rev 1)                                                                    -      -     -
 10-Yard Fight (USA, Europe)                                                                      -      -     -
 100 Man Dollar Kid - Maboroshi no Teiou Hen (Japan)                                              -      -     -
+110 in 1 (Unknown) (Unl) (Pirate)                                                                ✗      ✗     ✗
 1942 (Japan, USA)                                                                                -      -     -
 1943 - The Battle of Midway (Japan) (Beta)                                                       -      -     -
 1943 - The Battle of Midway (USA)                                                                -      -     -
@@ -29,6 +30,7 @@ Name                                                                            
 3D Block (Asia) (Ja) (Hwang Shinwei) (Unl)                                                       ✗      ✗     ✗
 3D Block (Asia) (Ja) (RCM Group) (Unl)                                                           ✗      ✗     ✗
 4 Nin Uchi Mahjong (Japan)                                                                       -      -     -
+4 Nin Uchi Mahjong (Japan) (Rev 1)                                                               ✗      ✗     ✗
 4 Nin Uchi Mahjong (Japan) (Rev A)                                                               -      -     -
 720 Degrees (USA)                                                                                -      -     -
 8 Eyes (Japan)                                                                                   -      -     -
@@ -100,11 +102,9 @@ Airball (Unknown) (Proto 2)                                                     
 Airball (USA) (Proto 1)                                                                          ✗      ✗     ✗
 Airball (USA) (Proto 2)                                                                          ✗      ✗     ✗
 Airwolf (Europe)                                                                                 -      -     -
-Airwolf (Europe) (Acclaim)                                                                       -      ✗     ✗
 Airwolf (Japan)                                                                                  -      -     -
 Airwolf (Japan) (Kyugo)                                                                          -      ✗     ✗
 Airwolf (USA)                                                                                    -      -     -
-Airwolf (USA) (Acclaim)                                                                          -      ✗     ✗
 Akagawa Jirou no Yuurei Ressha (Japan)                                                           -      -     -
 Akira (Japan)                                                                                    -      -     -
 Akuma no Shoutaijou (Japan)                                                                      -      -     -
@@ -177,7 +177,7 @@ Attack Animal Gakuen (Japan)                                                    
 Attack of the Killer Tomatoes (Europe)                                                           -      -     -
 Attack of the Killer Tomatoes (USA)                                                              -      -     -
 Aussie Rules Footy (Australia)                                                                   -      -     -
-Auto-Upturn (Asia) (Ja) (PAL) (Unl)                                                              -      -     -
+Auto-Upturn (Asia) (Ja) (Europe) (Unl)                                                           ✗      ✗     ✗
 Auto-Upturn (Asia) (PAL) (Unl)                                                                   -      -     -
 AV Dragon Mahjang (Japan) (Unl)                                                                  ✗      -     -
 AV Hanafuda Club (Japan) (Unl)                                                                   -      -     -
@@ -225,6 +225,7 @@ Bandit Kings of Ancient China (USA)                                             
 Bao Xiao San Guo (Asia) (Unl)                                                                    ✗      ✗     ✗
 Barbie (Europe)                                                                                  -      -     -
 Barbie (USA)                                                                                     -      -     -
+Barbie (USA) (Rev 1)                                                                             ✗      ✗     ✗
 Barbie (USA) (Rev A)                                                                             -      -     -
 Barcode World (Japan)                                                                            -      -     -
 Bard's Tale II, The - The Destiny Knight (Japan)                                                 -      -     -
@@ -244,6 +245,7 @@ Baseball Star - Mezase Sankanou!! (Japan)                                       
 Baseball Stars (USA)                                                                             -      -     -
 Baseball Stars II (USA)                                                                          -      -     -
 Bases Loaded (USA)                                                                               -      -     -
+Bases Loaded (USA) (Rev 1)                                                                       ✗      ✗     ✗
 Bases Loaded (USA) (Rev 2)                                                                       ✗      ✗     ✗
 Bases Loaded (USA) (Rev A)                                                                       -      -     -
 Bases Loaded (USA) (Rev B)                                                                       -      -     -
@@ -251,7 +253,7 @@ Bases Loaded 3 (USA)                                                            
 Bases Loaded 4 (USA)                                                                             -      -     -
 Bases Loaded II - Second Season (USA)                                                            -      -     -
 Bashi Bazook - Morphoid Masher (USA) (Proto)                                                     -      -     -
-Bashi Bazook - Morphoid Masher (USA) (Proto) (29.05.1989)                                        ✗      ✗     ✗
+Bashi Bazook - Morphoid Masher (USA) (Proto) (1989-05-29)                                        ✗      ✗     ✗
 Batman - Return of the Joker (Europe)                                                            -      -     -
 Batman - Return of the Joker (USA)                                                               -      -     -
 Batman - Return of the Joker (USA) (Beta)                                                        -      -     -
@@ -290,15 +292,17 @@ Beauty and the Beast (Europe)                                                   
 Bee 52 (USA) (Unl)                                                                               -      -     -
 Beetlejuice (USA)                                                                                -      -     -
 Best Keiba - Derby Stallion (Japan)                                                              -      -     -
+Best Keiba - Derby Stallion (Japan) (Rev 1)                                                      ✗      ✗     ✗
 Best Keiba - Derby Stallion (Japan) (Rev A)                                                      -      -     -
 Best of the Best - Championship Karate (Europe)                                                  -      -     -
 Best of the Best - Championship Karate (USA)                                                     -      -     -
 Best Play Pro Yakyuu - Shin Data (Japan)                                                         -      -     -
 Best Play Pro Yakyuu '90 (Japan)                                                                 -      -     -
 Best Play Pro Yakyuu (Japan)                                                                     -      -     -
-Best Play Pro Yakyuu (Japan) (Rev A)                                                             -      -     -
+Best Play Pro Yakyuu (Japan) (Rev 1)                                                             ✗      ✗     ✗
 Best Play Pro Yakyuu II (Japan)                                                                  -      -     -
 Best Play Pro Yakyuu Special (Japan)                                                             -      -     -
+Best Play Pro Yakyuu Special (Japan) (Rev 1)                                                     ✗      ✗     ✗
 Best Play Pro Yakyuu Special (Japan) (Rev A)                                                     -      -     -
 Bible Adventures (USA) (Unl)                                                                     -      -     -
 Bible Adventures (USA) (v1.1) (Unl)                                                              -      -     -
@@ -339,7 +343,7 @@ Blades of Steel (USA)                                                           
 Blaster Master (Europe)                                                                          -      -     -
 Blaster Master (USA)                                                                             -      -     -
 Blaster Master (USA) (Beta)                                                                      -      -     -
-Blaster Master (USA) (Beta) (20.05.1988)                                                         ✗      ✗     ✗
+Blaster Master (USA) (Beta) (1988-05-20)                                                         ✗      ✗     ✗
 Block Out (USA) (Proto)                                                                          -      ✗     ✗
 Blodia Land - Puzzle Quest (Japan)                                                               -      -     -
 Bloody Warriors - Shan-Go no Gyakushuu (Japan)                                                   -      -     -
@@ -419,6 +423,7 @@ Captain Saver (Japan)                                                           
 Captain Silver (Japan)                                                                           -      -     -
 Captain Skyhawk (Europe)                                                                         -      -     -
 Captain Skyhawk (USA)                                                                            -      -     -
+Captain Skyhawk (USA) (Rev 1)                                                                    ✗      ✗     ✗
 Captain Skyhawk (USA) (Rev A)                                                                    -      -     -
 Captain Tsubasa (Japan)                                                                          -      -     -
 Captain Tsubasa II - Super Striker (Japan)                                                       ✗      ✗     ✗
@@ -435,6 +440,7 @@ Castle Quest (Japan)                                                            
 Castlequest (USA)                                                                                -      -     -
 Castlevania (Europe)                                                                             -      -     -
 Castlevania (USA)                                                                                -      -     -
+Castlevania (USA) (Rev 1)                                                                        ✗      ✗     ✗
 Castlevania (USA) (Rev A)                                                                        -      -     -
 Castlevania II - Simon's Quest (Europe)                                                          -      -     -
 Castlevania II - Simon's Quest (USA)                                                             -      -     -
@@ -455,10 +461,11 @@ Championship Pool (USA)                                                         
 Championship Rally (Europe)                                                                      -      -     -
 Chaos World (Japan)                                                                              -      -     -
 Cheetahmen II (USA) (Unl)                                                                        -      -     -
-Chess Academy (Asia) (Ja) (NTSC) (Unl)                                                           -      -     -
+Chess Academy (Asia) (Ja) (Unl)                                                                  ✗      ✗     ✗
 Chess Academy (Asia) (NTSC) (Unl)                                                                -      -     -
 Chessmaster, The (Europe)                                                                        -      -     -
 Chessmaster, The (USA)                                                                           -      -     -
+Chessmaster, The (USA) (Rev 1)                                                                   ✗      ✗     ✗
 Chessmaster, The (USA) (Rev A)                                                                   -      ✗     ✗
 Chester Field - Ankoku Shin e no Chousen (Japan)                                                 -      -     -
 Chester Field - Ankoku Shin e no Chousen (Japan) (Beta)                                          ✗      -     -
@@ -470,8 +477,8 @@ Chik Bik Ji Jin - Saam Gwok Ji (Asia) (Unl)                                     
 Chiki Chiki Machine Mou Race (Japan)                                                             -      -     -
 Chiller (Australia) (Unl)                                                                        -      -     -
 Chiller (USA) (Unl)                                                                              -      -     -
-Chinese Checkers (Asia) (Ja) (NTSC) (Unl)                                                        -      -     -
-Chinese Checkers (Asia) (Ja) (PAL) (Unl)                                                         -      -     -
+Chinese Checkers (Asia) (Ja) (Europe) (Unl)                                                      ✗      ✗     ✗
+Chinese Checkers (Asia) (Ja) (Unl)                                                               ✗      ✗     ✗
 Chinese Checkers (Asia) (NTSC) (Unl)                                                             -      -     -
 Chinese Checkers (Asia) (PAL) (Unl)                                                              -      -     -
 Chinese KungFu (Asia) (Ja) (Unl)                                                                 ✗      -     -
@@ -526,7 +533,7 @@ Cocoron (Japan)                                                                 
 Code Name - Viper (USA)                                                                          -      -     -
 Color a Dinosaur (USA)                                                                           -      -     -
 Color a Dinosaur (USA) (Beta)                                                                    -      ✗     ✗
-Colorful Dragon (Asia) (Ja) (PAL) (Unl)                                                          ✗      -     -
+Colorful Dragon (Asia) (Ja) (Europe) (Unl)                                                       ✗      ✗     ✗
 Colorful Dragon (Asia) (PAL) (Unl)                                                               -      -     -
 Columbus - Ougon no Yoake (Japan)                                                                -      -     -
 Columbus - Ougon no Yoake (Japan) (Sample)                                                       ✗      ✗     ✗
@@ -581,7 +588,7 @@ Daiku no Gen-san 2 - Akage no Dan no Gyakushuu (Japan)                          
 Daisenryaku (Japan)                                                                              ✗      -     -
 Daiva - Imperial of Nirsartia (Japan)                                                            ✗      -     -
 Dance Aerobics (USA)                                                                             -      -     -
-Dancing Blocks (Asia) (Ja) (PAL) (Unl)                                                           ✗      -     -
+Dancing Blocks (Asia) (Ja) (Europe) (Unl)                                                        ✗      ✗     ✗
 Dancing Blocks (Asia) (PAL) (Unl)                                                                ✗      -     -
 Danny Sullivan's Indy Heat (Europe)                                                              -      -     -
 Danny Sullivan's Indy Heat (USA)                                                                 -      -     -
@@ -606,6 +613,7 @@ Datach - Ultraman Club - Supokon Fight! (Japan)                                 
 Datach - Yu Yu Hakusho - Bakutou Ankoku Bujutsukai (Japan)                                       ✗      -     -
 Datsugoku (Japan)                                                                                -      -     -
 David Crane's A Boy and His Blob - Trouble on Blobolonia (Europe)                                -      -     -
+David Crane's A Boy and His Blob - Trouble on Blobolonia (Europe) (Rev 1)                        ✗      ✗     ✗
 David Crane's A Boy and His Blob - Trouble on Blobolonia (Europe) (Rev A)                        -      -     -
 David Crane's A Boy and His Blob - Trouble on Blobolonia (USA)                                   -      -     -
 Day Dreamin' Davey (USA)                                                                         -      -     -
@@ -643,6 +651,7 @@ Destructor, El (Spain) (Gluk Video) (Unl)                                       
 Devil Man (Japan)                                                                                ✗      -     -
 Devil World (Europe)                                                                             -      -     -
 Devil World (Japan)                                                                              -      -     -
+Devil World (Japan) (Rev 1)                                                                      ✗      ✗     ✗
 Devil World (Japan) (Rev A)                                                                      -      -     -
 Dick Tracy (USA)                                                                                 -      -     -
 Die Hard (Europe)                                                                                -      -     -
@@ -698,11 +707,13 @@ Double Dragon (Europe)                                                          
 Double Dragon (USA)                                                                              -      -     -
 Double Dragon II - The Revenge (Europe)                                                          -      -     -
 Double Dragon II - The Revenge (USA)                                                             -      -     -
+Double Dragon II - The Revenge (USA) (Rev 1)                                                     ✗      ✗     ✗
 Double Dragon II - The Revenge (USA) (Rev A)                                                     -      -     -
 Double Dragon III - The Sacred Stones (Europe)                                                   -      -     -
 Double Dragon III - The Sacred Stones (USA)                                                      -      -     -
 Double Dribble (Europe)                                                                          -      -     -
 Double Dribble (USA)                                                                             -      -     -
+Double Dribble (USA) (Rev 1)                                                                     ✗      ✗     ✗
 Double Dribble (USA) (Rev A)                                                                     -      -     -
 Double Moon Densetsu (Japan)                                                                     ✗      -     -
 Double Strike - Aerial Attack Force (USA) (v1.0) (Unl)                                           -      -     -
@@ -723,6 +734,7 @@ Dr. Mario (USA) (Beta) (After 1990-04-27)                                       
 Drac's Night Out (USA) (Proto)                                                                   -      -     -
 Dragon Ball - Daimaou Fukkatsu (Japan)                                                           -      -     -
 Dragon Ball - Le Secret du Dragon (France)                                                       -      -     -
+Dragon Ball - Le Secret du Dragon (France) (Rev 1)                                               ✗      ✗     ✗
 Dragon Ball - Le Secret du Dragon (France) (Rev A)                                               -      -     -
 Dragon Ball - Shen Long no Nazo (Japan)                                                          -      -     -
 Dragon Ball 3 - Gokuu Den (Japan)                                                                -      -     -
@@ -741,10 +753,10 @@ Dragon Ninja (Japan) (Rev A)                                                    
 Dragon Power (USA)                                                                               -      -     -
 Dragon Quest (Japan)                                                                             -      -     -
 Dragon Quest II - Akuryou no Kamigami (Japan)                                                    -      -     -
-Dragon Quest III - Soshite Densetsu e... (Japan)                                                 ✗      ✗     ✗
-Dragon Quest III - Soshite Densetsu e... (Japan) (Rev 0A)                                        -      -     -
-Dragon Quest III - Soshite Densetsu e... (Japan) (Rev A)                                         ✗      ✗     ✗
-Dragon Quest III - Soshite Densetsu e... (Japan) (Rev B)                                         -      -     -
+Dragon Quest III - Soshite Densetsu e... (Japan)                                                 -      -     -
+Dragon Quest III - Soshite Densetsu e... (Japan) (Rev 0A)                                        ✗      ✗     ✗
+Dragon Quest III - Soshite Densetsu e... (Japan) (Rev 1)                                         -      -     -
+Dragon Quest III - Soshite Densetsu e... (Japan) (Rev B)                                         ✗      ✗     ✗
 Dragon Quest IV - Michibikareshi Monotachi (Japan)                                               -      -     -
 Dragon Quest IV - Michibikareshi Monotachi (Japan) (Rev 1)                                       ✗      ✗     ✗
 Dragon Quest IV - Michibikareshi Monotachi (Japan) (Rev A)                                       -      -     -
@@ -756,6 +768,7 @@ Dragon Spirit - The New Legend (USA)                                            
 Dragon Unit (Japan)                                                                              -      -     -
 Dragon Warrior (USA)                                                                             -      -     -
 Dragon Warrior (USA) (Beta)                                                                      ✗      ✗     ✗
+Dragon Warrior (USA) (Rev 1)                                                                     ✗      ✗     ✗
 Dragon Warrior (USA) (Rev A)                                                                     -      -     -
 Dragon Warrior II (USA)                                                                          -      -     -
 Dragon Warrior III (USA)                                                                         -      -     -
@@ -765,9 +778,9 @@ Dragon Wars (USA) (Proto)                                                       
 Dragon's Lair (Europe)                                                                           -      -     -
 Dragon's Lair (Japan)                                                                            -      -     -
 Dragon's Lair (USA)                                                                              -      -     -
-Dreamworld Pogie (Unknown) (Proto 1) (19.10.1993) (Unl)                                          ✗      ✗     ✗
-Dreamworld Pogie (Unknown) (Proto 2) (2016) (Unl)                                                ✗      ✗     ✗
-Dreamworld Pogie (Unknown) (Proto 3) (2017) (Unl)                                                ✗      ✗     ✗
+Dreamworld Pogie (Unknown) (Proto 1) (1993-10-19) (Unl)                                          ✗      ✗     ✗
+Dreamworld Pogie (Unknown) (Proto 2) (Unl)                                                       ✗      ✗     ✗
+Dreamworld Pogie (Unknown) (Proto 3) (Unl)                                                       ✗      ✗     ✗
 Dreamworld Pogie (Unknown) (Proto)                                                               ✗      -     -
 Dropzone (Europe)                                                                                -      -     -
 Druaga no Tou (Japan)                                                                            ✗      -     -
@@ -778,7 +791,7 @@ Duck Maze (Australia) (Unl)                                                     
 DuckTales (Europe)                                                                               -      -     -
 DuckTales (USA)                                                                                  -      -     -
 DuckTales (USA) (Beta)                                                                           -      -     -
-DuckTales (USA) (Beta) (25.05.1989)                                                              ✗      ✗     ✗
+DuckTales (USA) (Beta) (1989-05-25)                                                              ✗      ✗     ✗
 DuckTales 2 (Europe)                                                                             -      -     -
 DuckTales 2 (Europe) (Beta)                                                                      -      -     -
 DuckTales 2 (France)                                                                             -      -     -
@@ -832,7 +845,7 @@ Exodus - Journey to the Promised Land (USA) (v4.0) (Unl)                        
 Exodus - Journey to the Promised Land (USA) (v5.0) (Unl)                                         -      -     -
 Exploding Fist (USA) (Proto 1)                                                                   ✗      -     -
 Exploding Fist (USA) (Proto 2)                                                                   ✗      -     -
-Exploding Fist (USA) (Proto) (22.05.1990)                                                        ✗      ✗     ✗
+Exploding Fist (USA) (Proto) (1990-05-22)                                                        ✗      ✗     ✗
 Exploding Fist (USA) (Proto) (Earlier)                                                           ✗      ✗     ✗
 F-1 Race (Japan)                                                                                 -      -     -
 F-1 Race (Japan) (Beta)                                                                          ✗      ✗     ✗
@@ -859,6 +872,7 @@ Famicom Igo Nyuumon (Japan)                                                     
 Famicom Jump - Eiyuu Retsuden (Japan)                                                            ✗      -     -
 Famicom Jump II - Saikyou no 7 Nin (Japan)                                                       ✗      -     -
 Famicom Meijin Sen (Japan)                                                                       ✗      -     -
+Famicom Meijin Sen (Japan) (Rev 1)                                                               ✗      ✗     ✗
 Famicom Meijin Sen (Japan) (Rev A)                                                               ✗      -     -
 Famicom Shougi - Ryuuousen (Japan)                                                               ✗      -     -
 Famicom Shougi - Ryuuousen (Japan) (Beta)                                                        ✗      -     -
@@ -866,8 +880,8 @@ Famicom Top Management (Japan)                                                  
 Famicom Wars (Japan)                                                                             ✗      ✗     ✗
 Famicom Wars (Japan) (Rev 0B)                                                                    -      -     -
 Famicom Yakyuu Ban (Japan)                                                                       ✗      -     -
-Family BASIC (Japan) (Rev A)                                                                     ✗      ✗     ✗
-Family BASIC (Japan) (Rev A1)                                                                    ✗      ✗     ✗
+Family BASIC (Japan) (Rev 1)                                                                     ✗      ✗     ✗
+Family BASIC (Japan) (Rev 2)                                                                     ✗      ✗     ✗
 Family BASIC (Japan) (v1.0)                                                                      ✗      ✗     ✗
 Family BASIC (Japan) (v2.0a)                                                                     ✗      -     -
 Family BASIC (Japan) (v2.1a)                                                                     ✗      -     -
@@ -920,6 +934,7 @@ Faria - Fuuin no Tsurugi (Japan)                                                
 Faxanadu (Europe)                                                                                -      -     -
 Faxanadu (Japan)                                                                                 -      -     -
 Faxanadu (USA)                                                                                   -      -     -
+Faxanadu (USA) (Rev 1)                                                                           ✗      ✗     ✗
 Faxanadu (USA) (Rev A)                                                                           -      -     -
 FC Genjin - Freakthoropus Computerus (Japan)                                                     -      -     -
 Felix the Cat (Europe)                                                                           -      -     -
@@ -939,13 +954,13 @@ Fighting Hero (Asia) (Unl)                                                      
 Fighting Hero III (Asia) (Ja) (Unl)                                                              ✗      -     -
 Fighting Hero III (Asia) (Unl)                                                                   ✗      -     -
 Fighting Road (Japan)                                                                            ✗      -     -
-Final Combat (Asia) (Ja) (NTSC) (Unl)                                                            ✗      -     -
-Final Combat (Asia) (Ja) (PAL) (Unl)                                                             ✗      -     -
+Final Combat (Asia) (Ja) (Europe) (Unl)                                                          ✗      ✗     ✗
+Final Combat (Asia) (Ja) (Unl)                                                                   ✗      ✗     ✗
 Final Combat (Asia) (NTSC) (Unl)                                                                 ✗      -     -
 Final Combat (Asia) (PAL) (Unl)                                                                  ✗      -     -
 Final Fantasy (Japan)                                                                            ✗      ✗     ✗
 Final Fantasy (Japan) (Rev 0A)                                                                   -      -     -
-Final Fantasy (Japan) (Rev A)                                                                    ✗      ✗     ✗
+Final Fantasy (Japan) (Rev 1)                                                                    ✗      ✗     ✗
 Final Fantasy (Japan) (Rev B)                                                                    -      -     -
 Final Fantasy (USA)                                                                              -      -     -
 Final Fantasy I, II (Japan)                                                                      -      -     -
@@ -1119,7 +1134,7 @@ Great Boxing - Rush Up (Japan)                                                  
 Great Deal (Japan)                                                                               ✗      -     -
 Great Tank (Japan)                                                                               -      -     -
 Great Waldo Search, The (USA)                                                                    -      -     -
-Great Wall, The (Asia) (Ja) (PAL) (Unl)                                                          ✗      -     -
+Great Wall, The (Asia) (Ja) (Europe) (Unl)                                                       ✗      ✗     ✗
 Great Wall, The (Asia) (PAL) (Unl)                                                               ✗      -     -
 Greg Norman's Golf Power (USA)                                                                   -      -     -
 Gremlin 2 - Shinshu Tanjou (Japan)                                                               -      -     -
@@ -1154,20 +1169,21 @@ Happily Ever After (USA) (Proto)                                                
 Happily Ever After starring Snow White (USA) (Proto)                                             ✗      ✗     ✗
 Happy Birthday Bugs (Japan)                                                                      -      -     -
 Happy Camper (USA) (Proto) (Unl) [b]                                                             ✗      ✗     ✗
-Happy Pairs (Asia) (Ja) (PAL) (Unl)                                                              ✗      -     -
+Happy Pairs (Asia) (Ja) (Europe) (Unl)                                                           ✗      ✗     ✗
 Happy Pairs (Asia) (PAL) (Unl)                                                                   ✗      -     -
 Hard Drivin' (USA) (Proto) (Unl)                                                                 ✗      ✗     ✗
 Harlem Globetrotters (USA)                                                                       -      -     -
 Hatris (Japan)                                                                                   -      -     -
 Hatris (USA)                                                                                     -      -     -
 Hayauchi Super Igo (Japan)                                                                       ✗      -     -
+Hayauchi Super Igo (Japan) (Rev 1)                                                               ✗      ✗     ✗
 Heavy Barrel (Japan)                                                                             -      -     -
 Heavy Barrel (USA)                                                                               -      -     -
 Heavy Shreddin' (USA)                                                                            -      -     -
 Hebereke (Japan)                                                                                 -      -     -
 Hector '87 (Japan)                                                                               -      -     -
 Heisei Tensai Bakabon (Japan)                                                                    ✗      -     -
-Hell Fighter (Asia) (Ja) (PAL) (Unl)                                                             ✗      -     -
+Hell Fighter (Asia) (Ja) (Europe) (Unl)                                                          ✗      ✗     ✗
 Hell Fighter (Asia) (PAL) (Unl)                                                                  -      -     -
 Hello Kitty no Ohanabatake (Japan)                                                               -      -     -
 Hello Kitty World (Japan)                                                                        -      -     -
@@ -1175,10 +1191,10 @@ Heracles no Eikou - Toujin Makyou Den (Japan)                                   
 Heracles no Eikou II - Titan no Metsubou (Japan)                                                 ✗      -     -
 Hero Quest (Europe) (Proto)                                                                      ✗      -     -
 Hero Quest (USA) (Proto)                                                                         ✗      -     -
-HeroQuest (Europe) (Proto) (21.08.1992)                                                          ✗      ✗     ✗
+HeroQuest (Europe) (Proto) (1992-08-21)                                                          ✗      ✗     ✗
 HeroQuest (USA) (Proto)                                                                          ✗      ✗     ✗
 HES 6-Pak - Real Player's Pak (Australia) (Unl)                                                  ✗      ✗     ✗
-Hidden Chinese Chess - An Qi (Asia) (Ja) (NTSC) (Unl)                                            ✗      -     -
+Hidden Chinese Chess - An Qi (Asia) (Ja) (Unl)                                                   ✗      ✗     ✗
 Hidden Chinese Chess - An Qi (Asia) (NTSC) (Unl)                                                 ✗      -     -
 Higemaru - Makai-jima - Nanatsu no Shima Daibouken (Japan)                                       -      -     -
 High Speed (Europe)                                                                              -      -     -
@@ -1210,6 +1226,7 @@ Hokuto no Ken 4 - Shichisei Haken Den - Hokuto Shinken no Kanata e (Japan)      
 Hollywood Squares (USA)                                                                          -      -     -
 Holy Diver (Japan)                                                                               -      -     -
 Home Alone (USA)                                                                                 -      -     -
+Home Alone (USA) (Rev 1)                                                                         ✗      ✗     ✗
 Home Alone (USA) (Rev A)                                                                         -      -     -
 Home Alone 2 - Lost in New York (Europe)                                                         -      -     -
 Home Alone 2 - Lost in New York (USA)                                                            -      -     -
@@ -1243,8 +1260,10 @@ Huge Insect (Asia) (Ja) (Unl)                                                   
 Huge Insect (Asia) (Unl)                                                                         ✗      -     -
 Hunt for Red October, The (Europe)                                                               -      -     -
 Hunt for Red October, The (USA)                                                                  -      -     -
+Hunt for Red October, The (USA) (Rev 1)                                                          ✗      ✗     ✗
 Hunt for Red October, The (USA) (Rev A)                                                          -      -     -
 HVC Kensa Cassette Controller Test (Japan)                                                       ✗      -     -
+HVC Kensa Cassette Controller Test (Japan) (Test Program)                                        ✗      ✗     ✗
 Hyakkiyagyou (Japan)                                                                             ✗      -     -
 Hyaku no Sekai no Monogatari - The Tales on a Watery Wilderness (Japan)                          ✗      -     -
 Hydlide (USA)                                                                                    -      -     -
@@ -1262,6 +1281,7 @@ Ice Climber (USA, Europe)                                                       
 Ice Hockey (Europe)                                                                              -      -     -
 Ice Hockey (USA)                                                                                 -      -     -
 Ide Yousuke Meijin no Jissen Mahjong (Japan)                                                     ✗      ✗     ✗
+Ide Yousuke Meijin no Jissen Mahjong (Japan) (Rev 1)                                             ✗      ✗     ✗
 Ide Yousuke Meijin no Jissen Mahjong (Japan) (Rev A)                                             ✗      -     -
 Ide Yousuke Meijin no Jissen Mahjong II (Japan)                                                  ✗      -     -
 Idol Hakkenden (Japan)                                                                           ✗      -     -
@@ -1279,6 +1299,7 @@ Ikari III - The Rescue (USA)                                                    
 Ikari III (Japan)                                                                                -      -     -
 Ikari Warriors (Europe)                                                                          -      -     -
 Ikari Warriors (USA)                                                                             -      -     -
+Ikari Warriors (USA) (Rev 1)                                                                     ✗      ✗     ✗
 Ikari Warriors (USA) (Rev A)                                                                     -      -     -
 Ikari Warriors II - Victory Road (USA)                                                           -      -     -
 Ike Ike! Nekketsu Hockey-bu - Subette Koronde Dairantou (Japan)                                  -      -     -
@@ -1294,9 +1315,11 @@ Incantation (Asia) (Unl)                                                        
 Incredible Crash Dummies, The (Europe)                                                           -      -     -
 Incredible Crash Dummies, The (USA)                                                              -      -     -
 Indiana Jones and the Last Crusade (Europe)                                                      -      -     -
+Indiana Jones and the Last Crusade (USA)                                                         ✗      ✗     ✗
 Indiana Jones and the Last Crusade (USA) (Taito)                                                 -      -     -
 Indiana Jones and the Last Crusade (USA) (UBI Soft)                                              -      -     -
 Indiana Jones and the Temple of Doom (USA)                                                       -      -     -
+Indiana Jones and the Temple of Doom (USA) (Rev 1)                                               ✗      ✗     ✗
 Indiana Jones and the Temple of Doom (USA) (Rev A)                                               -      -     -
 Indiana Jones and the Temple of Doom (USA) (Unl)                                                 -      -     -
 Indora no Hikari (Japan)                                                                         ✗      -     -
@@ -1304,7 +1327,7 @@ Infiltrator (USA)                                                               
 Insector X (Japan)                                                                               -      -     -
 International Cricket (Australia)                                                                -      -     -
 International Cricket (Australia) (Beta)                                                         -      -     -
-International Cricket (Australia) (Beta) (24.08.1992)                                            ✗      ✗     ✗
+International Cricket (Australia) (Beta) (1992-08-24)                                            ✗      ✗     ✗
 Iron Tank - The Invasion of Normandy (Europe)                                                    -      -     -
 Iron Tank - The Invasion of Normandy (USA)                                                       -      -     -
 IronSword - Wizards _ Warriors II (Europe)                                                       -      -     -
@@ -1336,6 +1359,7 @@ Jarinko Chie - Bakudan Musume no Shiawase Sagashi (Japan)                       
 Jaws (USA)                                                                                       -      -     -
 Jekyll Hakase no Houma ga Toki (Japan)                                                           ✗      ✗     ✗
 Jeopardy! (USA)                                                                                  -      -     -
+Jeopardy! (USA) (Rev 1)                                                                          ✗      ✗     ✗
 Jeopardy! (USA) (Rev A)                                                                          -      -     -
 Jeopardy! 25th Anniversary Edition (USA)                                                         -      -     -
 Jeopardy! Junior Edition (USA)                                                                   -      -     -
@@ -1353,6 +1377,7 @@ Joe _ Mac - Caveman Ninja (Europe)                                              
 Joe _ Mac (USA)                                                                                  -      -     -
 John Elway's Quarterback (USA)                                                                   -      -     -
 Jongbou (Japan)                                                                                  ✗      -     -
+Jordan vs Bird - One on One (USA)                                                                ✗      ✗     ✗
 Jordan vs Bird - One On One (USA)                                                                -      -     -
 Joshua _ the Battle of Jericho (USA) (v5.0) (Unl)                                                -      -     -
 Joshua _ the Battle of Jericho (USA) (v6.0) (Unl)                                                -      -     -
@@ -1363,7 +1388,7 @@ Journey to the West (Asia) (Unl)                                                
 Joust (Japan)                                                                                    -      -     -
 Joust (USA)                                                                                      -      -     -
 Jovial Race (Asia) (En) (Unl)                                                                    ✗      ✗     ✗
-Jovial Race (Asia) (Ja) (PAL) (Unl)                                                              -      -     -
+Jovial Race (Asia) (Ja) (Europe) (Unl)                                                           ✗      ✗     ✗
 Jovial Race (Asia) (PAL) (Unl)                                                                   -      -     -
 Jovial Race (Unknown) (Unl)                                                                      -      -     -
 Joy Mech Fight (Japan)                                                                           ✗      -     -
@@ -1406,6 +1431,7 @@ Karaoke Studio (Japan)                                                          
 Karaoke Studio Senyou Cassette Vol. 1 (Japan)                                                    ✗      -     -
 Karaoke Studio Senyou Cassette Vol. 2 (Japan)                                                    ✗      -     -
 Karate Champ (USA)                                                                               -      -     -
+Karate Champ (USA) (Rev 1)                                                                       ✗      ✗     ✗
 Karate Champ (USA) (Rev A)                                                                       -      -     -
 Karate Kid, The (USA)                                                                            -      -     -
 Karateka (Japan)                                                                                 ✗      -     -
@@ -1429,10 +1455,11 @@ Kickle Cubicle (USA)                                                            
 KickMaster (USA)                                                                                 ✗      ✗     ✗
 Kid Icarus (Europe) (Rev A)                                                                      -      -     -
 Kid Icarus (USA, Europe)                                                                         -      -     -
-Kid Icarus (USA, Europe) (Rev A)                                                                 ✗      ✗     ✗
+Kid Icarus (USA, Europe) (Rev 1)                                                                 ✗      ✗     ✗
 Kid Klown in Night Mayor World (USA)                                                             -      -     -
 Kid Kool and the Quest for the Seven Wonder Herbs (USA)                                          -      -     -
 Kid Niki - Radical Ninja (USA)                                                                   -      -     -
+Kid Niki - Radical Ninja (USA) (Rev 1)                                                           ✗      ✗     ✗
 Kid Niki - Radical Ninja (USA) (Rev A)                                                           -      -     -
 Kiddy Sun in Fantasia (Asia)                                                                     ✗      ✗     ✗
 Kiddy Sun in Fantasia (Taiwan)                                                                   ✗      ✗     ✗
@@ -1564,7 +1591,7 @@ Little Red Hood - Xiao Hong Mao (Asia) (Unl)                                    
 Little Red Hood (Australia) (Unl)                                                                -      -     -
 Little Samson (Europe)                                                                           -      -     -
 Little Samson (USA)                                                                              -      -     -
-Locksmith (Asia) (Ja) (PAL) (Unl)                                                                ✗      -     -
+Locksmith (Asia) (Ja) (Europe) (Unl)                                                             ✗      ✗     ✗
 Locksmith (Asia) (PAL) (Unl)                                                                     ✗      -     -
 Lode Runner (Japan)                                                                              -      -     -
 Lode Runner (USA)                                                                                -      -     -
@@ -1575,7 +1602,7 @@ Lost Word of Jenny - Ushinawareta Message (Japan)                               
 Lot Lot (Japan)                                                                                  ✗      -     -
 Low G Man - The Low Gravity Man (Europe)                                                         -      -     -
 Low G Man - The Low Gravity Man (USA)                                                            -      -     -
-Lucky Bingo 777 (Asia) (Ja) (PAL) (Unl)                                                          ✗      -     -
+Lucky Bingo 777 (Asia) (Ja) (Europe) (Unl)                                                       ✗      ✗     ✗
 Lucky Bingo 777 (Asia) (PAL) (Unl)                                                               ✗      -     -
 Lunar Ball (Japan)                                                                               -      -     -
 Lunar Pool (Europe)                                                                              -      -     -
@@ -1586,8 +1613,10 @@ M.C. Kids (USA) (Beta)                                                          
 M.U.L.E. (USA)                                                                                   -      -     -
 M.U.S.C.L.E. - Tag Team Match (USA)                                                              -      -     -
 M82 Game Selectable Working Product Display (Europe)                                             ✗      -     -
+M82 Game Selectable Working Product Display (Europe) (Demo) (Kiosk)                              ✗      ✗     ✗
 Mach Rider (Europe)                                                                              -      -     -
 Mach Rider (Japan, USA)                                                                          -      -     -
+Mach Rider (Japan, USA) (Rev 1)                                                                  ✗      ✗     ✗
 Mach Rider (Japan, USA) (Rev A)                                                                  -      -     -
 Mad City (Japan)                                                                                 -      -     -
 Mad City (Japan) (Beta)                                                                          -      -     -
@@ -1600,7 +1629,7 @@ Magic Block (Asia) (Mega Soft) (Unl)                                            
 Magic Bubble (Asia) (En) (Unl)                                                                   ✗      ✗     ✗
 Magic Candle, The (Japan)                                                                        -      -     -
 Magic Carpet 1001 (USA) (Unl)                                                                    ✗      ✗     ✗
-Magic Cube (Asia) (Ja) (PAL) (Unl)                                                               ✗      -     -
+Magic Cube (Asia) (Ja) (Europe) (Unl)                                                            ✗      ✗     ✗
 Magic Cube (Asia) (PAL) (Unl)                                                                    ✗      -     -
 Magic Darts (Japan)                                                                              -      -     -
 Magic Darts (USA)                                                                                -      -     -
@@ -1613,8 +1642,8 @@ Magic Johnson's Fast Break (USA)                                                
 Magic Kid Googoo (Korea) (Unl)                                                                   ✗      ✗     ✗
 Magic of Scheherazade, The (USA)                                                                 -      -     -
 Magical Kid's Doropie (Japan)                                                                    -      -     -
-Magical Mathematics (Asia) (Ja) (NTSC) (Unl)                                                     ✗      -     -
-Magical Mathematics (Asia) (Ja) (PAL) (Unl)                                                      ✗      -     -
+Magical Mathematics (Asia) (Ja) (Europe) (Unl)                                                   ✗      ✗     ✗
+Magical Mathematics (Asia) (Ja) (Unl)                                                            ✗      ✗     ✗
 Magical Mathematics (Asia) (NTSC) (Unl)                                                          ✗      -     -
 Magical Mathematics (Asia) (PAL) (Unl)                                                           ✗      -     -
 Magical Taruruuto-kun - Fantastic World!! (Japan)                                                ✗      -     -
@@ -1622,7 +1651,7 @@ Magical Taruruuto-kun - Fantastic World!! (Japan) (Rev 1)                       
 Magical Taruruuto-kun 2 - Mahou Daibouken (Japan)                                                ✗      -     -
 Magician (USA)                                                                                   -      -     -
 Magician (USA) (Beta 1)                                                                          -      -     ✗
-Magician (USA) (Beta 1) (02.03.1990)                                                             ✗      ✗     ✗
+Magician (USA) (Beta 1) (1990-03-02)                                                             ✗      ✗     ✗
 Magician (USA) (Beta 2)                                                                          -      -     ✗
 Magician (USA) (Beta 3)                                                                          ✗      ✗     ✗
 Magmax (Japan)                                                                                   -      -     -
@@ -1636,6 +1665,7 @@ Mahjang Companion (Asia) (Ja) (Sachen) (Unl)                                    
 Mahjang Companion (Asia) (Sachen) (Unl)                                                          ✗      -     -
 Mahjong (Japan)                                                                                  ✗      ✗     ✗
 Mahjong (Japan) (Rev 1)                                                                          ✗      ✗     ✗
+Mahjong (Japan) (Rev 2)                                                                          ✗      ✗     ✗
 Mahjong (Japan) (Rev A)                                                                          ✗      -     -
 Mahjong (Japan) (Rev B)                                                                          ✗      -     -
 Mahjong Academy (Asia) (Ja) (Unl)                                                                ✗      -     -
@@ -1651,8 +1681,8 @@ Mahjong Taisen (Japan)                                                          
 Mahjong Trap - Si Cuan Ma Que - Zhi Fu Pian (Asia) (Unl)                                         ✗      -     -
 Mahjong Trap - Si Cuan Ma Que (Asia) (Ja) (Unl)                                                  ✗      -     -
 Mahjong Trap - Si Cuan Ma Que (Asia) (Unl)                                                       ✗      -     -
-Mahjong World, The - Ma Que Shi Jie (Asia) (Ja) (NTSC) (Unl)                                     ✗      -     -
-Mahjong World, The - Ma Que Shi Jie (Asia) (Ja) (PAL) (Unl)                                      ✗      -     -
+Mahjong World, The - Ma Que Shi Jie (Asia) (Ja) (Europe) (Unl)                                   ✗      ✗     ✗
+Mahjong World, The - Ma Que Shi Jie (Asia) (Ja) (Unl)                                            ✗      ✗     ✗
 Mahjong World, The - Ma Que Shi Jie (Asia) (NTSC) (Unl)                                          ✗      -     -
 Mahjong World, The - Ma Que Shi Jie (Asia) (PAL) (Unl)                                           ✗      -     -
 Mahou no Princess Minky Momo - Remember Dream (Japan)                                            ✗      -     -
@@ -1660,6 +1690,7 @@ Maison Ikkoku (Japan)                                                           
 Majaventure - Mahjong Senki (Japan)                                                              ✗      -     -
 Major League (Japan)                                                                             ✗      -     -
 Major League Baseball (USA)                                                                      -      -     -
+Major League Baseball (USA) (Rev 1)                                                              ✗      ✗     ✗
 Major League Baseball (USA) (Rev A)                                                              -      -     -
 Majou Densetsu II - Daimashikyou Galious (Japan)                                                 ✗      -     -
 Makai Island (USA) (Proto)                                                                       ✗      -     -
@@ -1687,7 +1718,9 @@ Mario Bros. (Europe) (Rev A)                                                    
 Mario Bros. (USA) (GameCube Edition)                                                             ✗      ✗     ✗
 Mario Bros. (World)                                                                              -      -     -
 Mario Bros. Classic (Europe)                                                                     -      -     -
+Mario is Missing! (Europe)                                                                       ✗      ✗     ✗
 Mario Is Missing! (Europe)                                                                       -      -     -
+Mario is Missing! (USA)                                                                          ✗      ✗     ✗
 Mario Is Missing! (USA)                                                                          -      -     -
 Mario Open Golf (Japan)                                                                          -      -     -
 Mario Open Golf (Japan) (Rev 1)                                                                  ✗      ✗     ✗
@@ -1697,7 +1730,7 @@ Marusa no Onna (Japan)                                                          
 Mashin Eiyuu Den Wataru Gaiden (Japan)                                                           ✗      -     -
 Mashin Eiyuuden Wataru Gaiden (Japan)                                                            ✗      ✗     ✗
 Mashou (Japan)                                                                                   -      -     -
-Master Chu and the Drunkard Hu (Asia) (Ja) (PAL) (Unl)                                           -      -     -
+Master Chu and the Drunkard Hu (Asia) (Ja) (Europe) (Unl)                                        ✗      ✗     ✗
 Master Chu and the Drunkard Hu (Asia) (PAL) (Unl)                                                -      -     -
 Master Chu and the Drunkard Hu (USA) (Unl)                                                       -      -     -
 Master Shooter (Asia) (Ja) (Unl)                                                                 ✗      -     -
@@ -1719,11 +1752,13 @@ Mega Man (USA)                                                                  
 Mega Man 2 (Europe)                                                                              -      -     -
 Mega Man 2 (USA)                                                                                 -      -     -
 Mega Man 3 (Europe)                                                                              -      -     -
+Mega Man 3 (Europe) (Rev 1)                                                                      ✗      ✗     ✗
 Mega Man 3 (Europe) (Rev A)                                                                      -      -     -
 Mega Man 3 (USA)                                                                                 -      -     -
 Mega Man 3 (USA) (Beta)                                                                          -      -     -
 Mega Man 4 (Europe)                                                                              -      -     -
 Mega Man 4 (USA)                                                                                 -      -     -
+Mega Man 4 (USA) (Rev 1)                                                                         ✗      ✗     ✗
 Mega Man 4 (USA) (Rev A)                                                                         -      -     -
 Mega Man 5 (Europe)                                                                              -      -     -
 Mega Man 5 (USA)                                                                                 -      -     -
@@ -1768,11 +1803,11 @@ Mezase Pachi Pro - Pachio-kun (Japan) (Beta)                                    
 Mezase Top Pro - Green ni Kakeru Yume (Japan)                                                    ✗      -     -
 Mezase! Top Pro - Green ni Kakeru Yume (Japan)                                                   ✗      ✗     ✗
 Michael Andretti's World GP (USA)                                                                -      -     -
-Mick _ Mack as the Global Gladiators (USA) (Proto) (09.07.1993)                                  ✗      ✗     ✗
-Mick _ Mack as the Global Gladiators (USA) (Proto) (16.06.1993)                                  ✗      ✗     ✗
-Mick _ Mack as the Global Gladiators (USA) (Proto) (28.05.1993)                                  ✗      ✗     ✗
-Mick _ Mack as the Global Gladiators (USA) (Proto) (28.05.1993) (Alt)                            ✗      ✗     ✗
-Mick _ Mack as the Global Gladiators (USA) (Proto) (30.06.1993)                                  ✗      ✗     ✗
+Mick _ Mack as the Global Gladiators (USA) (Proto) (1993-05-28)                                  ✗      ✗     ✗
+Mick _ Mack as the Global Gladiators (USA) (Proto) (1993-05-28) (Alt)                            ✗      ✗     ✗
+Mick _ Mack as the Global Gladiators (USA) (Proto) (1993-06-16)                                  ✗      ✗     ✗
+Mick _ Mack as the Global Gladiators (USA) (Proto) (1993-06-30)                                  ✗      ✗     ✗
+Mick _ Mack as the Global Gladiators (USA) (Proto) (1993-07-09)                                  ✗      ✗     ✗
 Mickey Mouse - Dream Balloon (USA) (Beta)                                                        -      -     -
 Mickey Mouse - Fushigi no Kuni no Daibouken (Japan)                                              -      -     -
 Mickey Mouse III - Yume Fuusen (Japan)                                                           -      -     -
@@ -1794,10 +1829,12 @@ Mighty Final Fight (Japan)                                                      
 Mighty Final Fight (USA)                                                                         -      -     -
 Mike Tyson's Intergalactic Power Punch (USA) (Beta) [b]                                          -      -     -
 Mike Tyson's Punch-Out!! (Europe)                                                                -      -     -
+Mike Tyson's Punch-Out!! (Europe) (Rev 1)                                                        ✗      ✗     ✗
 Mike Tyson's Punch-Out!! (Europe) (Rev A)                                                        -      -     -
 Mike Tyson's Punch-Out!! (Japan, USA)                                                            -      -     -
+Mike Tyson's Punch-Out!! (Japan, USA) (Rev 1)                                                    ✗      ✗     ✗
 Mike Tyson's Punch-Out!! (Japan, USA) (Rev A)                                                    -      -     -
-Millionaire (Asia) (Ja) (PAL) (Unl)                                                              ✗      -     -
+Millionaire (Asia) (Ja) (Europe) (Unl)                                                           ✗      ✗     ✗
 Millionaire (Asia) (PAL) (Unl)                                                                   ✗      -     -
 Millipede - Kyodai Konchuu no Gyakushuu (Japan)                                                  -      -     -
 Millipede (USA)                                                                                  -      -     -
@@ -1852,7 +1889,7 @@ Monopoly (USA)                                                                  
 Monster in My Pocket (Europe)                                                                    -      -     -
 Monster in My Pocket (USA)                                                                       -      -     -
 Monster in My Pocket (USA) (Beta)                                                                -      ✗     ✗
-Monster in My Pocket (USA) (Beta) (22.04.1991)                                                   ✗      ✗     ✗
+Monster in My Pocket (USA) (Beta) (1991-04-22)                                                   ✗      ✗     ✗
 Monster Maker - 7 Tsu no Hihou (Japan)                                                           ✗      -     -
 Monster Party (USA)                                                                              -      -     -
 Monster Truck Rally (USA)                                                                        -      -     -
@@ -1895,7 +1932,7 @@ Namcot Mahjong III - Mahjong Tengoku (Japan)                                    
 Nangoku Shirei!! - Spy vs Spy (Japan)                                                            ✗      -     -
 Nantettatte!! Baseball (Japan)                                                                   ✗      -     -
 Nantettatte!! Baseball (Japan) (Sample)                                                          ✗      -     -
-Nantettatte!! Baseball (Japan) (Sample) (22.12.1989)                                             ✗      ✗     ✗
+Nantettatte!! Baseball (Japan) (Sample) (1989-12-22)                                             ✗      ✗     ✗
 Nantettatte!! Baseball + Nantettatte!! Baseball - Ko-Game Cassette - '91 Kaimaku Hen (Japan)     ✗      ✗     ✗
 Nantettatte!! Baseball + Nantettatte!! Baseball - Ko-Game Cassette - OB All Star Hen (Japan)     ✗      ✗     ✗
 Nantettatte!! Baseball Ko-Game Set '91 Kaimakuban (Japan)                                        ✗      -     -
@@ -1931,13 +1968,14 @@ Ninja Cop Saizou (Japan)                                                        
 Ninja Crusaders - Ryuuga (Japan)                                                                 -      -     -
 Ninja Crusaders (USA)                                                                            -      -     -
 Ninja Gaiden - Episode II - The Dark Sword of Chaos (USA) (Beta) (1990-01-18)                    -      -     -
-Ninja Gaiden - Episode II - The Dark Sword of Chaos (USA) (Sample) (18.01.1990)                  ✗      ✗     ✗
+Ninja Gaiden - Episode II - The Dark Sword of Chaos (USA) (Sample) (1990-01-18)                  ✗      ✗     ✗
 Ninja Gaiden (USA)                                                                               -      -     -
 Ninja Gaiden (USA) (Beta)                                                                        -      ✗     ✗
 Ninja Gaiden II - The Dark Sword of Chaos (USA)                                                  -      -     -
 Ninja Gaiden III - The Ancient Ship of Doom (USA)                                                -      -     -
 Ninja Hattori-kun - Ninja wa Syugyou de Gozaru (Japan)                                           ✗      -     -
 Ninja Hattori-kun - Ninja wa Syugyou de Gozaru no Maki (Japan)                                   ✗      ✗     ✗
+Ninja Hattori-kun - Ninja wa Syugyou de Gozaru no Maki (Japan) (Beta)                            ✗      ✗     ✗
 Ninja Jajamaru - Ginga Daisakusen (Japan)                                                        -      -     -
 Ninja Jajamaru - Ginga Daisakusen (Japan) (Beta)                                                 -      -     -
 Ninja Jajamaru-kun (Japan)                                                                       ✗      -     -
@@ -1951,14 +1989,22 @@ Ninja-kun - Majou no Bouken (Japan) (Rev 1)                                     
 Ninjara Hoi! (Japan)                                                                             ✗      -     -
 Nintendo - NTF2 System Cartridge (USA)                                                           ✗      -     -
 Nintendo - NTF2 Test Cartridge (NES Test) (USA) (Rev 1)                                          ✗      -     -
+Nintendo - NTF2 Test Cartridge (NES Test) (USA) (Rev 1) (Test Program)                           ✗      ✗     ✗
 Nintendo - NTF2 Test Cartridge (USA)                                                             ✗      -     -
+Nintendo - NTF2 Test Cartridge (USA) (Test Program)                                              ✗      ✗     ✗
 Nintendo World Championships 1990 (USA)                                                          -      -     -
 Nintendo World Championships 1990 (USA) (Competition Cart)                                       ✗      ✗     ✗
 Nintendo World Class Service - Control Deck Test Cartridge (USA)                                 ✗      -     -
+Nintendo World Class Service - Control Deck Test Cartridge (USA) (Test Program)                  ✗      ✗     ✗
 Nintendo World Class Service - Joystick Test Cartridge (USA)                                     ✗      -     -
+Nintendo World Class Service - Joystick Test Cartridge (USA) (Test Program)                      ✗      ✗     ✗
 Nintendo World Class Service - Port Test Cartridge (USA)                                         ✗      -     -
+Nintendo World Class Service - Port Test Cartridge (USA) (Test Program)                          ✗      ✗     ✗
 Nintendo World Class Service - Power Pad Test Cartridge (USA)                                    ✗      -     -
+Nintendo World Class Service - Power Pad Test Cartridge (USA) (Test Program)                     ✗      ✗     ✗
 Nintendo World Cup (Europe)                                                                      -      -     -
+Nintendo World Cup (Europe) (Rev 1)                                                              ✗      ✗     ✗
+Nintendo World Cup (Europe) (Rev 2)                                                              ✗      ✗     ✗
 Nintendo World Cup (Europe) (Rev A)                                                              -      -     -
 Nintendo World Cup (Europe) (Rev B)                                                              -      -     -
 Nintendo World Cup (USA)                                                                         -      -     -
@@ -1970,8 +2016,9 @@ Nobunaga no Yabou - Bushou Fuuun Roku (Japan) (Rev A)                           
 Nobunaga no Yabou - Sengoku Gunyuu Den (Japan)                                                   -      -     -
 Nobunaga no Yabou - Sengoku Gunyuu Den (Japan) (Rev A)                                           -      ✗     ✗
 Nobunaga no Yabou - Sengoku Gunyuuden (Japan)                                                    ✗      ✗     ✗
-Nobunaga no Yabou - Sengoku Gunyuuden (Japan) (Rev A)                                            ✗      ✗     ✗
+Nobunaga no Yabou - Sengoku Gunyuuden (Japan) (Rev 1)                                            ✗      ✗     ✗
 Nobunaga no Yabou - Zenkoku Ban (Japan)                                                          -      -     -
+Nobunaga no Yabou - Zenkoku Ban (Japan) (Rev 1)                                                  ✗      ✗     ✗
 Nobunaga no Yabou - Zenkoku Ban (Japan) (Rev A)                                                  -      -     -
 Nobunaga's Ambition (USA)                                                                        -      -     -
 Nobunaga's Ambition II (USA)                                                                     -      -     -
@@ -1985,8 +2032,8 @@ Oeka Kids - Anpanman no Hiragana Daisuki (Japan)                                
 Oeka Kids - Anpanman to Oekaki Shiyou!! (Japan)                                                  ✗      -     -
 Oishinbo - Kyuukyoku no Menu Sanbon Shoubu (Japan)                                               ✗      -     -
 Okkotoshi Puzzle - Tonjan! (Japan)                                                               ✗      -     -
-Olympic I.Q. (Asia) (Ja) (PAL) (Unl)                                                             ✗      -     -
 Olympic I.Q. (Asia) (PAL) (Unl)                                                                  ✗      -     -
+Olympic IQ (Asia) (Ja) (Europe) (Unl)                                                            ✗      ✗     ✗
 Olympus no Tatakai (Japan)                                                                       -      -     -
 Onyanko Town (Japan)                                                                             ✗      -     -
 Operation Secret Storm (USA) (Unl)                                                               -      -     -
@@ -2091,6 +2138,7 @@ Pirates! (USA)                                                                  
 Pizza Pop! (Japan)                                                                               ✗      -     -
 Plasma Ball (Japan)                                                                              ✗      -     -
 Platoon (USA)                                                                                    -      -     -
+Platoon (USA) (Rev 1)                                                                            ✗      ✗     ✗
 Platoon (USA) (Rev A)                                                                            -      -     -
 Playbox BASIC (Japan) (v0.0) (Beta)                                                              ✗      ✗     ✗
 Pocket Zaurus - Juu Ouken no Nazo (Japan)                                                        ✗      -     -
@@ -2140,6 +2188,7 @@ Pro Sport Hockey (USA)                                                          
 Pro Wres (Japan) (FamicomBox)                                                                    ✗      ✗     ✗
 Pro Wrestling (Europe)                                                                           -      -     -
 Pro Wrestling (USA)                                                                              -      -     -
+Pro Wrestling (USA) (Rev 1)                                                                      ✗      ✗     ✗
 Pro Wrestling (USA) (Rev A)                                                                      -      -     -
 Pro Yakyuu - Family Stadium '87 (Japan)                                                          ✗      -     -
 Pro Yakyuu - Family Stadium '88 (Japan)                                                          ✗      -     -
@@ -2170,7 +2219,7 @@ Pyramid - Cleopatra Kikiippatsu (Japan) (Unl)                                   
 Pyramid (Japan) (Hacker inc.) (Unl)                                                              -      -     -
 Pyramid (USA) (Rev 1) (Unl)                                                                      -      -     -
 Pyramid (USA) (Unl)                                                                              -      -     -
-Pyramid II (Asia) (Ja) (PAL) (Unl)                                                               ✗      ✗     ✗
+Pyramid II (Asia) (Ja) (Europe) (Unl)                                                            ✗      ✗     ✗
 Pyramid II (Asia) (PAL) (Unl)                                                                    ✗      -     -
 Q Boy (Asia) (Ja) (Unl)                                                                          ✗      -     -
 Q Boy (Asia) (Unl)                                                                               ✗      -     -
@@ -2217,6 +2266,7 @@ Radia Senki - Reimei Hen (Japan)                                                
 Raf World (Japan)                                                                                -      -     -
 Raid 2020 (USA) (Unl)                                                                            -      -     -
 Raid on Bungeling Bay (Japan)                                                                    -      -     -
+Raid on Bungeling Bay (Japan) (En) (Rev 1)                                                       ✗      ✗     ✗
 Raid on Bungeling Bay (Japan) (En) (Rev A)                                                       -      -     -
 Raid on Bungeling Bay (USA)                                                                      -      -     -
 Rainbow Islands - Bubble Bobble 2 (Europe)                                                       ✗      -     -
@@ -2226,12 +2276,14 @@ Rainbow Islands (USA)                                                           
 Rally Bike (USA)                                                                                 -      -     -
 Rambo (Japan)                                                                                    -      -     -
 Rambo (USA)                                                                                      -      -     -
+Rambo (USA) (Rev 1)                                                                              ✗      ✗     ✗
 Rambo (USA) (Rev A)                                                                              -      -     -
 Rampage (USA)                                                                                    -      -     -
 Rampart (Europe)                                                                                 -      -     -
 Rampart (Europe) (Jaleco)                                                                        ✗      ✗     ✗
 Rampart (Japan)                                                                                  -      -     -
 Rampart (Japan) (Konami)                                                                         ✗      ✗     ✗
+Rampart (Japan) (Sample) (Konami)                                                                ✗      ✗     ✗
 Rampart (USA)                                                                                    -      -     -
 Rampart (USA) (Jaleco)                                                                           ✗      ✗     ✗
 Real Player's Pak (Australia) (Unl)                                                              -      -     -
@@ -2255,6 +2307,8 @@ Robin Hood - Prince of Thieves (Europe)                                         
 Robin Hood - Prince of Thieves (Germany)                                                         -      -     -
 Robin Hood - Prince of Thieves (Spain)                                                           -      -     -
 Robin Hood - Prince of Thieves (USA)                                                             -      -     -
+Robin Hood - Prince of Thieves (USA) (Beta) (1991-05-16)                                         ✗      ✗     ✗
+Robin Hood - Prince of Thieves (USA) (Rev 1)                                                     ✗      ✗     ✗
 Robin Hood - Prince of Thieves (USA) (Rev A)                                                     -      -     -
 Robo Warrior (Europe)                                                                            -      -     -
 Robo Warrior (USA)                                                                               -      -     -
@@ -2266,6 +2320,7 @@ RoboCop (USA) (Beta)                                                            
 RoboCop 2 (Europe)                                                                               -      -     -
 RoboCop 2 (Japan)                                                                                -      -     -
 RoboCop 2 (USA)                                                                                  -      -     -
+RoboCop 2 (USA) (Rev 1)                                                                          ✗      ✗     ✗
 RoboCop 2 (USA) (Rev A)                                                                          -      -     -
 RoboCop 3 (Europe)                                                                               -      -     -
 RoboCop 3 (USA)                                                                                  -      -     -
@@ -2279,7 +2334,7 @@ Rocketeer, The (USA)                                                            
 Rockin' Kats (Europe)                                                                            -      -     -
 Rockin' Kats (USA)                                                                               -      -     -
 Rockin' Kats (USA) (Beta)                                                                        ✗      ✗     ✗
-Rockin' Kats (USA) (Beta) (06.05.1991)                                                           ✗      ✗     ✗
+Rockin' Kats (USA) (Beta) (1991-05-06)                                                           ✗      ✗     ✗
 Rockman (Japan) (En)                                                                             -      -     -
 Rockman 2 - Dr. Wily no Nazo (Japan)                                                             -      -     -
 Rockman 3 - Dr. Wily no Saigo! (Japan)                                                           -      -     -
@@ -2316,6 +2371,7 @@ Rush'n Attack (Europe)                                                          
 Rush'n Attack (USA)                                                                              -      -     -
 Rygar (Europe)                                                                                   -      -     -
 Rygar (USA)                                                                                      -      -     -
+Rygar (USA) (Rev 1)                                                                              ✗      ✗     ✗
 Rygar (USA) (Rev A)                                                                              -      -     -
 S.C.A.T. - Special Cybernetic Attack Team (USA)                                                  -      -     -
 S.C.A.T. - Special Cybernetic Attack Team (USA) (Beta)                                           -      -     -
@@ -2336,10 +2392,11 @@ San Guo Zhong Lie Zhuan (China) (Unl)                                           
 Sanada Juu Yuushi (Japan)                                                                        ✗      -     -
 Sangokushi - Chuugen no Hasha (Japan)                                                            ✗      -     -
 Sangokushi (Japan)                                                                               -      -     -
+Sangokushi (Japan) (Rev 1)                                                                       ✗      ✗     ✗
 Sangokushi (Japan) (Rev A)                                                                       -      -     -
 Sangokushi II - Haou no Tairiku (Japan)                                                          ✗      -     -
 Sangokushi II (Japan)                                                                            -      -     -
-Sangokushi II (Japan) (Rev A)                                                                    ✗      ✗     ✗
+Sangokushi II (Japan) (Rev 1)                                                                    ✗      ✗     ✗
 Sangokushi II (Japan) (Rev AB)                                                                   -      -     -
 Sanma no Mei Tantei (Japan)                                                                      ✗      -     -
 Sanrio Carnival (Japan)                                                                          -      -     -
@@ -2443,23 +2500,25 @@ Shui Guo Li (Asia) (Unl)                                                        
 Side Pocket (Europe)                                                                             -      -     -
 Side Pocket (Japan)                                                                              -      -     -
 Side Pocket (USA)                                                                                -      -     -
-Sidewinder (Asia) (Ja) (PAL) (Unl)                                                               ✗      -     -
+Sidewinder (Asia) (Ja) (Europe) (Unl)                                                            ✗      ✗     ✗
 Sidewinder (Asia) (PAL) (Unl)                                                                    -      -     -
 Sidewinder (Australia) (Unl)                                                                     -      -     -
-Silent Assault (Asia) (Ja) (PAL) (Unl)                                                           -      -     -
+Silent Assault (Asia) (Ja) (Europe) (Unl)                                                        ✗      ✗     ✗
 Silent Assault (Asia) (PAL) (Unl)                                                                -      -     -
 Silent Assault (USA) (Unl)                                                                       -      -     -
 Silent Service (Europe)                                                                          -      -     -
 Silent Service (USA)                                                                             -      -     -
+Silent Service (USA) (Rev 1)                                                                     ✗      ✗     ✗
 Silent Service (USA) (Rev A)                                                                     -      -     -
 Silk Worm (USA)                                                                                  -      -     -
 Silva Saga (Japan)                                                                               ✗      -     -
-Silver Eagle (Asia) (Ja) (PAL) (Unl)                                                             ✗      -     -
+Silver Eagle (Asia) (Ja) (Europe) (Unl)                                                          ✗      ✗     ✗
 Silver Eagle (Asia) (PAL) (Unl)                                                                  ✗      -     -
 Silver Surfer (USA)                                                                              -      -     -
 SimCity (USA) (Proto)                                                                            ✗      ✗     ✗
 Simpsons, The - Bart vs. the Space Mutants (Europe)                                              -      -     -
 Simpsons, The - Bart vs. the Space Mutants (USA)                                                 -      -     -
+Simpsons, The - Bart vs. the Space Mutants (USA) (Rev 1)                                         ✗      ✗     ✗
 Simpsons, The - Bart vs. the Space Mutants (USA) (Rev A)                                         -      -     -
 Simpsons, The - Bart vs. the World (Europe)                                                      -      -     -
 Simpsons, The - Bart vs. the World (USA)                                                         -      -     -
@@ -2578,6 +2637,7 @@ Star Wars - The Empire Strikes Back (Japan)                                     
 Star Wars - The Empire Strikes Back (USA)                                                        -      -     -
 Star Wars - The Empire Strikes Back (USA) (Beta)                                                 -      -     -
 Star Wars (Europe)                                                                               -      -     -
+Star Wars (Japan)                                                                                ✗      ✗     ✗
 Star Wars (Japan) (Namco)                                                                        -      -     -
 Star Wars (Japan) (Victor)                                                                       -      -     -
 Star Wars (USA)                                                                                  -      -     -
@@ -2590,8 +2650,8 @@ Stealth ATF (USA)                                                               
 Sted - Iseki Wakusei no Yabou (Japan)                                                            ✗      -     -
 Stick Hunter - Exciting Ice Hockey (Japan)                                                       ✗      -     -
 Stinger (USA)                                                                                    -      -     -
-Strategist (Asia) (Ja) (NTSC) (Unl)                                                              ✗      -     -
-Strategist (Asia) (Ja) (PAL) (Unl)                                                               ✗      -     -
+Strategist (Asia) (Ja) (Europe) (Unl)                                                            ✗      ✗     ✗
+Strategist (Asia) (Ja) (Unl)                                                                     ✗      ✗     ✗
 Strategist (Asia) (NTSC) (Unl)                                                                   ✗      -     -
 Strategist (Asia) (PAL) (Unl)                                                                    ✗      -     -
 Street Cop (USA)                                                                                 -      -     -
@@ -2647,8 +2707,10 @@ Super Mario Bros. (World)                                                       
 Super Mario Bros. + Duck Hunt (Europe)                                                           -      -     -
 Super Mario Bros. + Duck Hunt (USA)                                                              -      -     -
 Super Mario Bros. + Duck Hunt + World Class Track Meet (USA)                                     -      -     -
+Super Mario Bros. + Duck Hunt + World Class Track Meet (USA) (Rev 1)                             ✗      ✗     ✗
 Super Mario Bros. + Duck Hunt + World Class Track Meet (USA) (Rev A)                             -      -     -
 Super Mario Bros. + Tetris + Nintendo World Cup (Europe)                                         -      -     -
+Super Mario Bros. + Tetris + Nintendo World Cup (Europe) (Rev 1)                                 ✗      ✗     ✗
 Super Mario Bros. + Tetris + Nintendo World Cup (Europe) (Rev A)                                 -      -     -
 Super Mario Bros. 2 (Europe)                                                                     -      -     -
 Super Mario Bros. 2 (USA)                                                                        -      -     -
@@ -2669,7 +2731,7 @@ Super Mario Bros. 3 (USA) (Rev A)                                               
 Super Mario USA (Japan)                                                                          -      -     -
 Super Mogura Tataki!! - Pokkun Mogurar (Japan)                                                   ✗      -     -
 Super Momotarou Dentetsu (Japan)                                                                 ✗      -     -
-Super Pang (Asia) (Ja) (PAL) (Unl)                                                               ✗      ✗     ✗
+Super Pang (Asia) (Ja) (Europe) (Unl)                                                            ✗      ✗     ✗
 Super Pang (Asia) (PAL) (Unl)                                                                    ✗      -     -
 Super Pang II (Asia) (Ja) (Unl)                                                                  ✗      -     -
 Super Pang II (Asia) (Unl)                                                                       ✗      -     -
@@ -2714,6 +2776,7 @@ Swords and Serpents (France)                                                    
 Swords and Serpents (USA)                                                                        -      -     -
 Taan Hak Fung Wan - King Tank (Asia) (Unl)                                                       ✗      ✗     ✗
 Taboo - The Sixth Sense (USA)                                                                    -      -     -
+Taboo - The Sixth Sense (USA) (Rev 1)                                                            ✗      ✗     ✗
 Taboo - The Sixth Sense (USA) (Rev A)                                                            -      -     -
 Tag Team Pro Wrestling Special (Japan) (Sample)                                                  ✗      ✗     ✗
 Tag Team Pro-Wrestling (Japan)                                                                   -      -     -
@@ -2766,6 +2829,7 @@ Tecmo Baseball (USA)                                                            
 Tecmo Bowl (Japan)                                                                               -      -     -
 Tecmo Bowl (USA)                                                                                 -      -     -
 Tecmo Bowl (USA) (Beta)                                                                          -      -     -
+Tecmo Bowl (USA) (Rev 1)                                                                         ✗      ✗     ✗
 Tecmo Bowl (USA) (Rev A)                                                                         -      -     -
 Tecmo Cup - Football Game (Europe)                                                               -      -     -
 Tecmo Cup - Football Game (Spain)                                                                -      -     -
@@ -2827,6 +2891,7 @@ Tetris (USA) (Unl)                                                              
 Tetris 2 (Europe)                                                                                -      -     -
 Tetris 2 (USA)                                                                                   -      -     -
 Tetris 2 + Bombliss (Japan)                                                                      ✗      -     -
+Tetris 2 + Bombliss (Japan) (Rev 1)                                                              ✗      ✗     ✗
 Tetris 2 + Bombliss (Japan) (Rev A)                                                              ✗      -     -
 Tetris Flash (Japan)                                                                             -      -     -
 Tetsudou Ou - Famicom Boardgame (Japan)                                                          ✗      -     -
@@ -2835,7 +2900,7 @@ Thexder (Japan)                                                                 
 Thomas the Tank Engine and Friends (USA) (Proto)                                                 ✗      -     -
 Three Stooges, The (USA)                                                                         -      -     -
 Three Stooges, The (USA) (Beta)                                                                  -      -     -
-Three Stooges, The (USA) (Beta) (23.02.1989)                                                     ✗      ✗     ✗
+Three Stooges, The (USA) (Beta) (1989-02-23)                                                     ✗      ✗     ✗
 Thunder _ Lightning (USA)                                                                        -      -     -
 Thunder Warrior (Asia) (Ja) (Unl)                                                                ✗      -     -
 Thunder Warrior (Asia) (Unl)                                                                     ✗      -     -
@@ -2843,6 +2908,7 @@ Thunderbirds (Japan)                                                            
 Thunderbirds (USA)                                                                               -      -     -
 Thundercade (USA)                                                                                -      -     -
 Tiger-Heli (Europe)                                                                              -      -     -
+Tiger-Heli (Europe) (Rev 1)                                                                      ✗      ✗     ✗
 Tiger-Heli (Europe) (Rev A)                                                                      ✗      ✗     ✗
 Tiger-Heli (Japan)                                                                               -      -     -
 Tiger-Heli (USA)                                                                                 -      -     -
@@ -2888,6 +2954,7 @@ Top Gun - The Second Mission (USA)                                              
 Top Gun (Europe)                                                                                 -      -     -
 Top Gun (Japan)                                                                                  -      -     -
 Top Gun (USA)                                                                                    -      -     -
+Top Gun (USA) (Rev 1)                                                                            ✗      ✗     ✗
 Top Gun (USA) (Rev A)                                                                            -      -     -
 Top Rider (Japan)                                                                                ✗      -     -
 Top Striker (Japan)                                                                              ✗      -     -
@@ -2904,6 +2971,7 @@ Touchdown Fever (USA)                                                           
 Touhou Kenbun Roku (Japan)                                                                       ✗      -     -
 Toukon Club (Japan)                                                                              ✗      -     -
 Toukyou Pachi-Slot Adventure (Japan)                                                             ✗      ✗     ✗
+Toukyou Pachi-Slot Adventure (Japan) (Rev 1)                                                     ✗      ✗     ✗
 Toukyou Pachi-Slot Adventure (Japan) (Rev A)                                                     ✗      -     -
 Tower of Radia (USA) (Proto)                                                                     -      -     -
 Town _ Country Surf Designs - Thrilla's Surfari (USA)                                            -      -     -
@@ -2929,7 +2997,7 @@ Tsuru Pika Hagemaru - Mezase! Tsuru Seko no Akashi (Japan)                      
 Tu Ji (Asia) (Unl)                                                                               ✗      ✗     ✗
 Turbo Racing (Europe)                                                                            -      -     -
 Twin Cobra (USA)                                                                                 -      -     -
-Twin Eagle (Asia) (Ja) (PAL) (Unl)                                                               ✗      -     -
+Twin Eagle (Asia) (Ja) (Europe) (Unl)                                                            ✗      ✗     ✗
 Twin Eagle (Asia) (PAL) (Unl)                                                                    -      -     -
 Twin Eagle (Japan)                                                                               -      -     -
 Twin Eagle (USA)                                                                                 -      -     -
@@ -2940,6 +3008,7 @@ TwinBee 3 - Poko Poko Daimaou (Japan) (Sample)                                  
 U-Force Power Games (USA) (Proto 1)                                                              ✗      ✗     ✗
 U-Force Power Games (USA) (Proto 2) [b]                                                          ✗      ✗     ✗
 U-Force Test (USA)                                                                               ✗      -     -
+U-Force Test (USA) (Test Program)                                                                ✗      ✗     ✗
 U.S. Championship V'Ball (Japan)                                                                 -      -     -
 U.S. Championship V'Ball (Japan) (Beta)                                                          -      -     -
 U.S. Championship V'Ball (Japan) (Sample)                                                        ✗      ✗     ✗
@@ -2972,6 +3041,7 @@ Universe Soldiers, The (Asia) (En) (Unl)                                        
 Universe Soldiers, The (Unknown) (Unl)                                                           ✗      -     -
 Untouchables, The (Japan)                                                                        -      -     -
 Untouchables, The (USA)                                                                          -      -     -
+Untouchables, The (USA) (Rev 1)                                                                  ✗      ✗     ✗
 Untouchables, The (USA) (Rev 2)                                                                  ✗      ✗     ✗
 Untouchables, The (USA) (Rev A)                                                                  -      -     -
 Untouchables, The (USA) (Rev B)                                                                  -      -     -
@@ -2994,6 +3064,7 @@ Venus Senki - Back the City (Japan)                                             
 Vice - Project Doom (USA)                                                                        -      -     -
 Videomation (USA)                                                                                -      -     -
 Vindicators (USA) (Unl)                                                                          -      -     -
+Virus (USA) (Beta)                                                                               ✗      ✗     ✗
 Virus (USA) (Beta) (1989)                                                                        -      -     -
 Virus (USA) (Beta) (1990-02-02)                                                                  -      -     -
 Virus (USA) (Beta) (Between 1990-02-02 _ 1990-04-27)                                             ✗      ✗     ✗
@@ -3009,6 +3080,7 @@ Wai Wai World (Japan)                                                           
 Wai Wai World 2 - SOS!! Paseri Jou (Japan)                                                       ✗      -     -
 Wai Xing Zhan Shi (Asia) (Unl)                                                                   ✗      ✗     ✗
 Wait and See (Russia) (Unl)                                                                      ✗      -     -
+Wait and See! (Russia) (Unl)                                                                     ✗      ✗     ✗
 Wall Street Kid (USA)                                                                            -      -     -
 Wally Bear and the No! Gang (USA) (Beta) (Unl)                                                   -      -     -
 Wally Bear and the No! Gang (USA) (Unl)                                                          -      -     -
@@ -3035,6 +3107,7 @@ Western Kids (Japan)                                                            
 Wheel of Fortune - Family Edition (USA)                                                          -      -     -
 Wheel of Fortune - Junior Edition (USA)                                                          -      -     -
 Wheel of Fortune (USA)                                                                           -      -     -
+Wheel of Fortune (USA) (Rev 1)                                                                   ✗      ✗     ✗
 Wheel of Fortune (USA) (Rev A)                                                                   -      -     -
 Wheel of Fortune Featuring Vanna White (USA)                                                     ✗      ✗     ✗
 Wheel of Fortune Starring Vanna White (USA)                                                      -      -     -
@@ -3056,6 +3129,7 @@ Wily _ Right no Rockboard - That's Paradise (Japan)                             
 Win, Lose or Draw (USA)                                                                          -      -     -
 Wing of Madoola, The (Japan) (Sample)                                                            ✗      -     -
 Winter Games (USA)                                                                               -      -     -
+Winter Games (USA) (Rev 1)                                                                       ✗      ✗     ✗
 Winter Games (USA) (Rev A)                                                                       -      -     -
 Wit's (Japan)                                                                                    ✗      -     -
 Wizardry - Knight of Diamonds - The Second Scenario (USA)                                        -      -     -
@@ -3065,12 +3139,13 @@ Wizardry II - Llylgamyn no Isan (Japan)                                         
 Wizardry III - Diamond no Kishi (Japan)                                                          -      -     -
 Wizards _ Warriors (Europe)                                                                      -      -     -
 Wizards _ Warriors (USA)                                                                         -      -     -
+Wizards _ Warriors (USA) (Rev 1)                                                                 ✗      ✗     ✗
 Wizards _ Warriors (USA) (Rev A)                                                                 -      -     -
 Wizards _ Warriors III - Kuros...Visions of Power (Europe)                                       -      -     -
 Wizards _ Warriors III - Kuros...Visions of Power (USA)                                          -      -     -
 Wolverine (USA)                                                                                  -      -     -
-Wonderland Dizzy (Europe) (En,Fr,Es,Nl,Pt,Pl) (2015) (Unl)                                       ✗      ✗     ✗
 Wonderland Dizzy (Europe) (En,Fr,Es,Nl,Pt,Pl) (Proto) (1993-09-24) (Unl)                         ✗      ✗     ✗
+Wonderland Dizzy (Europe) (En,Fr,Es,Nl,Pt,Pl) (Unl)                                              ✗      ✗     ✗
 Wonderland Dizzy (Unknown) (Proto) (1993-09-24) (Unl)                                            ✗      ✗     ✗
 Woody Poko (Japan)                                                                               ✗      -     -
 World Boxing (Japan)                                                                             ✗      -     -
@@ -3079,6 +3154,7 @@ World Champ - Super Boxing Great Fight (USA)                                    
 World Champ (Europe)                                                                             ✗      ✗     ✗
 World Champ (USA)                                                                                ✗      ✗     ✗
 World Class Track Meet (USA)                                                                     -      -     -
+World Class Track Meet (USA) (Rev 1)                                                             ✗      ✗     ✗
 World Class Track Meet (USA) (Rev A)                                                             -      -     -
 World Games (USA)                                                                                -      -     -
 World Grand-Prix - Pole to Finish (Japan)                                                        -      -     -
@@ -3087,6 +3163,7 @@ World of Card Games, The (Asia) (Unl)                                           
 World Super Tennis (Japan)                                                                       -      -     -
 Wrath of the Black Manta (Europe)                                                                -      -     -
 Wrath of the Black Manta (USA)                                                                   -      -     -
+Wrath of the Black Manta (USA) (Rev 1)                                                           ✗      ✗     ✗
 Wrath of the Black Manta (USA) (Rev A)                                                           -      -     -
 Wrecking Crew (World)                                                                            -      -     -
 Wurm - Journey to the Center of the Earth! (USA)                                                 -      -     -
@@ -3168,6 +3245,7 @@ Zhuang Qiu Chuan Shuo Hua Zhuang II - Ball Story (China) (Unl)                  
 Zippy Race (Japan)                                                                               ✗      -     -
 Zoda's Revenge - StarTropics II (USA)                                                            -      -     -
 Zoids - Chuuou Tairiku no Tatakai (Japan)                                                        ✗      -     -
+Zoids - Chuuou Tairiku no Tatakai (Japan) (Rev 1)                                                ✗      ✗     ✗
 Zoids - Chuuou Tairiku no Tatakai (Japan) (Rev A)                                                ✗      -     -
 Zoids 2 - Zenebas no Gyakushuu (Japan)                                                           ✗      -     -
 Zoids Mokushiroku (Japan)                                                                        ✗      -     -

@@ -1,16 +1,20 @@
 Atari - 7800 Missing
 
-Boxarts  114/114  100.00%
-Snaps    114/114  100.00%
-Titles   114/114  100.00%
-Total    342/342  100.00%
+Boxarts  114/130  87.69%
+Snaps    114/130  87.69%
+Titles   114/130  87.69%
+Total    342/390  87.69%
 
 Name                                          Boxart  Snap  Title
+32 in 1 (Australia)                              ✗      ✗     ✗
+7800 Minitor Cart (USA) (Program) (Unl)          ✗      ✗     ✗
 Ace of Aces (Europe)                             -      -     -
 Ace of Aces (USA)                                -      -     -
 Alien Brigade (Europe)                           -      -     -
 Alien Brigade (USA)                              -      -     -
 Asteroids (USA)                                  -      -     -
+Asteroids (USA) (Beta)                           ✗      ✗     ✗
+Atari 7800 Developement Card (USA)               ✗      ✗     ✗
 Ballblazer (Europe)                              -      -     -
 Ballblazer (USA)                                 -      -     -
 Barnyard Blaster (Europe)                        -      -     -
@@ -32,6 +36,8 @@ Dark Chambers (Europe)                           -      -     -
 Dark Chambers (USA)                              -      -     -
 Desert Falcon (Europe)                           -      -     -
 Desert Falcon (USA)                              -      -     -
+Diagnostic Test Cartrige (USA)                   ✗      ✗     ✗
+Diagnostic Test Cartrige (USA) (Beta)            ✗      ✗     ✗
 Dig Dug (Europe)                                 -      -     -
 Dig Dug (USA)                                    -      -     -
 Donkey Kong (Europe)                             -      -     -
@@ -48,10 +54,13 @@ Fight Night (Europe)                             -      -     -
 Fight Night (USA)                                -      -     -
 Food Fight (Europe)                              -      -     -
 Food Fight (USA)                                 -      -     -
+Food Fight (USA) (Beta)                          ✗      ✗     ✗
 Galaga (Europe)                                  -      -     -
 Galaga (USA)                                     -      -     -
+GATO (USA) (Proto)                               ✗      ✗     ✗
 Hat Trick (Europe)                               -      -     -
 Hat Trick (USA)                                  -      -     -
+High Score Cartridge (USA) (Proto)               ✗      ✗     ✗
 Ikari Warriors (Europe)                          -      -     -
 Ikari Warriors (USA)                             -      -     -
 Impossible Mission (Europe)                      -      -     -
@@ -76,6 +85,7 @@ Meltdown (USA)                                   -      -     -
 Midnight Mutants (Europe)                        -      -     -
 Midnight Mutants (USA)                           -      -     -
 Missing In Action (Unknown) (Proto)              -      -     -
+Missing in Action (USA) (Proto)                  ✗      ✗     ✗
 Motor Psycho (Europe)                            -      -     -
 Motor Psycho (USA)                               -      -     -
 Ms. Pac-Man (Europe)                             -      -     -
@@ -86,13 +96,17 @@ One-on-One Basketball (Europe)                   -      -     -
 One-on-One Basketball (USA)                      -      -     -
 Pete Rose Baseball (USA)                         -      -     -
 Pit Fighter (Unknown) (Proto)                    -      -     -
+Pit Fighter (USA) (Proto)                        ✗      ✗     ✗
 Planet Smashers (Europe)                         -      -     -
 Planet Smashers (USA)                            -      -     -
 Plutos (Unknown) (Proto)                         -      -     -
+Plutos (USA) (Proto)                             ✗      ✗     ✗
 Pole Position II (Europe)                        -      -     -
 Pole Position II (USA)                           -      -     -
+Pole Position II (USA) (Beta)                    ✗      ✗     ✗
 Rampage (USA)                                    -      -     -
 Rampart (Unknown) (Proto)                        -      -     -
+Rampart (USA) (Proto)                            ✗      ✗     ✗
 RealSports Baseball (USA)                        -      -     -
 Rescue on Fractalus (USA) (Proto)                -      -     -
 Robotron - 2084 (USA)                            -      -     -
@@ -101,6 +115,7 @@ Scrapyard Dog (USA)                              -      -     -
 Sentinel (Europe)                                -      -     -
 Sentinel (USA) (Proto)                           -      -     -
 Sirius (Unknown) (Proto)                         -      -     -
+Sirius (USA) (Proto)                             ✗      ✗     ✗
 Summer Games (USA)                               -      -     -
 Super Huey UH-IX (Europe)                        -      -     -
 Super Huey UH-IX (USA)                           -      -     -
@@ -120,3 +135,4 @@ Xenophobe (Europe)                               -      -     -
 Xenophobe (USA)                                  -      -     -
 Xevious (Europe)                                 -      -     -
 Xevious (USA)                                    -      -     -
+Xevious (USA) (Beta)                             ✗      ✗     ✗

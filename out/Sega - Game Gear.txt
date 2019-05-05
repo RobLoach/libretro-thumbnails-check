@@ -1,9 +1,9 @@
 Sega - Game Gear Missing
 
-Boxarts    286/507  56.41%
-Snaps      371/507  73.18%
-Titles     371/507  73.18%
-Total    1028/1521  67.59%
+Boxarts    286/511  55.97%
+Snaps      371/511  72.60%
+Titles     371/511  72.60%
+Total    1028/1533  67.06%
 
 Name                                                                                Boxart  Snap  Title
 5 in One FunPak (USA)                                                                  ✗      ✗     ✗
@@ -19,6 +19,7 @@ Alien 3 (USA, Europe)                                                           
 Alien Syndrome (Europe)                                                                ✗      ✗     ✗
 Alien Syndrome (Japan)                                                                 -      -     -
 Andre Agassi Tennis (USA)                                                              -      -     -
+Andre Agassi Tennis (USA) (Beta)                                                       ✗      ✗     ✗
 Arcade Classics (USA)                                                                  -      -     -
 Arch Rivals - The Arcade Game (USA)                                                    ✗      ✗     ✗
 Arena - Maze of Death ~ Arena (USA, Europe)                                            ✗      ✗     ✗
@@ -77,6 +78,7 @@ Chuck Rock (World) (Beta)                                                       
 Chuck Rock II - Son of Chuck (Europe, Brazil)                                          ✗      ✗     ✗
 Chuck Rock II - Son of Chuck (USA)                                                     -      -     -
 CJ Elephant Fugitive (USA, Europe)                                                     ✗      ✗     ✗
+CJ Elephant Fugitive (USA, Europe) (Beta)                                              ✗      ✗     ✗
 Cliffhanger (USA)                                                                      -      -     -
 Clutch Hitter (USA)                                                                    -      -     -
 Coca-Cola Kid (Japan)                                                                  -      -     -
@@ -127,6 +129,7 @@ Ecco - The Tides of Time (USA, Europe)                                          
 Ecco the Dolphin (Japan)                                                               ✗      -     -
 Ecco the Dolphin (USA, Europe, Brazil)                                                 ✗      ✗     ✗
 Ecco the Dolphin II (Japan)                                                            -      -     -
+Empire Syndicate (USA, Brazil) (Beta)                                                  ✗      ✗     ✗
 Ernie Els Golf (Europe) (En,Fr,De,Es,It)                                               -      -     -
 Eternal Legend - Eien no Densetsu (Japan)                                              -      -     -
 Evander Holyfield's 'Real Deal' Boxing (USA, Europe)                                   -      -     -
@@ -265,6 +268,7 @@ Mickey Mouse no Castle Illusion (Japan)                                         
 Mickey Mouse no Mahou no Crystal (Japan)                                               -      -     -
 Mickey's Ultimate Challenge (USA)                                                      -      -     -
 Micro Machines (USA, Europe)                                                           ✗      ✗     ✗
+Micro Machines (USA, Europe) (Beta)                                                    ✗      ✗     ✗
 Micro Machines 2 - Turbo Tournament (Europe)                                           -      -     -
 Mighty Morphin Power Rangers - The Movie (USA, Europe)                                 -      -     -
 Mighty Morphin Power Rangers (USA, Europe)                                             -      -     -
@@ -419,12 +423,12 @@ Spider-Man (USA, Europe)                                                        
 Spirou (Europe) (Proto)                                                                ✗      -     -
 Sports Illustrated - Championship Football _ Baseball (USA)                            ✗      ✗     ✗
 Sports Trivia - Championship Edition (USA)                                             ✗      ✗     ✗
-Sports Trivia - Championship Edition (USA) (Beta) (1995-05-02)                         ✗      ✗     ✗
+Sports Trivia - Championship Edition (USA) (Beta)                                      ✗      ✗     ✗
 Sports Trivia (USA)                                                                    -      -     -
 Star Trek - The Next Generation - The Advanced Holodeck Tutorial (USA)                 -      -     -
 Star Trek Generations - Beyond the Nexus (USA)                                         ✗      ✗     ✗
+Star Wars (Europe)                                                                     -      -     -
 Star Wars (USA, Europe)                                                                ✗      ✗     ✗
-Star Wars (USA, Europe) (Alt 1)                                                        ✗      ✗     ✗
 Stargate (World)                                                                       -      -     -
 Street Battle (USA) (Proto) (Unl)                                                      ✗      ✗     ✗
 Street Hero (USA) (Proto 1)                                                            ✗      -     -
@@ -450,7 +454,7 @@ Surf Ninjas (USA, Europe, Brazil)                                               
 Sylvan Tale (Japan)                                                                    -      -     -
 T2 - The Arcade Game (Japan) (En)                                                      -      -     -
 T2 - The Arcade Game (USA, Europe)                                                     -      -     -
-Tails Adventures (World) (En,Ja)                                                       -      -     -
+Tails Adventure ~ Tails Adventures (World) (En,Ja)                                     ✗      ✗     ✗
 Tails no Skypatrol (Japan)                                                             -      -     -
 Taisen Mahjong HaoPai (Japan)                                                          ✗      -     -
 Taisen Mahjong HaoPai 2 (Japan)                                                        ✗      -     -

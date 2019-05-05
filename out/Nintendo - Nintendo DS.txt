@@ -1,9 +1,9 @@
 Nintendo - Nintendo DS Missing
 
-Boxarts   4053/7095  57.12%
-Snaps       11/7095   0.16%
-Titles      18/7095   0.25%
-Total    4082/21285  19.18%
+Boxarts   4046/7120  56.83%
+Snaps       11/7120   0.15%
+Titles      18/7120   0.25%
+Total    4075/21360  19.08%
 
 Name                                                                                                                                                                              Boxart  Snap  Title
 'Chou' Kowai Hanashi DS - Ao no Shou (Japan)                                                                                                                                         -      ✗     ✗
@@ -170,7 +170,6 @@ Age of Empires - Mythologies (USA) (En,Fr)                                      
 Age of Empires - The Age of Kings (Europe) (En,Es,It)                                                                                                                                -      ✗     ✗
 Age of Empires - The Age of Kings (Europe) (En,Fr,De)                                                                                                                                -      ✗     ✗
 Age of Empires - The Age of Kings (USA)                                                                                                                                              -      ✗     ✗
-Aging Card NTR (World)                                                                                                                                                               ✗      ✗     ✗
 Aibou DS (Japan)                                                                                                                                                                     -      ✗     ✗
 Air Traffic Chaos (USA)                                                                                                                                                              -      ✗     ✗
 Akachan wa Doko kara Kuru no (Japan)                                                                                                                                                 -      ✗     ✗
@@ -864,6 +863,7 @@ Cars 2 (USA) (En,Fr,Es) (NDSi Enhanced)                                         
 Carte au Tresor, La - Le Jeu Video Officiel (France)                                                                                                                                 -      ✗     ✗
 Cartoon Network Racing (Europe) (En,Fr,De,Es,It,Sv,No,Da)                                                                                                                            -      ✗     ✗
 Cartoon Network Racing (USA) (En,Fr,Es)                                                                                                                                              -      ✗     ✗
+Cartridge Construction Kit (World) (v1.22) (Unl)                                                                                                                                     ✗      ✗     ✗
 Casper's Scare School - Classroom Capers (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)                                                                                                 -      ✗     ✗
 Casper's Scare School - Classroom Capers (USA)                                                                                                                                       -      ✗     ✗
 Casper's Scare School - Spooky Sports Day (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)                                                                                                   -      ✗     ✗
@@ -1072,6 +1072,8 @@ Code Lyoko (Europe) (En,Fr,Es,It)                                               
 Code Lyoko (USA) (En,Fr,Es)                                                                                                                                                          -      ✗     ✗
 CodeBreaker DS (World) (v2) (Unl)                                                                                                                                                    ✗      ✗     ✗
 CodeBreaker DS Lite (World) (Unl)                                                                                                                                                    ✗      ✗     ✗
+CodeFreak DS (Japan) (Unl)                                                                                                                                                           ✗      ✗     ✗
+CodeFreak DS Type II (Japan) (Unl)                                                                                                                                                   ✗      ✗     ✗
 Colin McRae - Dirt 2 (Europe) (En,Fr,De,Es,It)                                                                                                                                       -      ✗     ✗
 Color Cross (USA) (En,Fr,Es)                                                                                                                                                         -      ✗     ✗
 Colour Cross (Europe) (En,Fr,De,Es,It)                                                                                                                                               -      ✗     ✗
@@ -1131,7 +1133,7 @@ Cosmetick Paradise - Princess Life (Japan) (NDSi Enhanced)                      
 Cosmetick Paradise (Japan)                                                                                                                                                           -      ✗     ✗
 Cosmopolitan - Total Relooking (France)                                                                                                                                              -      ✗     ✗
 Cosmos Chaos (USA)                                                                                                                                                                   -      ✗     ✗
-Cosmos Chaos (USA) (Proto)                                                                                                                                                           ✗      ✗     ✗
+Cosmos Chaos (USA) (Beta)                                                                                                                                                            ✗      ✗     ✗
 Countdown - The Game (Europe) [b]                                                                                                                                                    -      ✗     ✗
 Cradle of Rome (USA) (En,Fr,De,Es,It,Nl)                                                                                                                                             -      ✗     ✗
 Cradle of Rome 2 (Europe) (En,Fr,Es,It)                                                                                                                                              -      ✗     ✗
@@ -1667,6 +1669,7 @@ Eigo o Taberu Fushigi na Ikimono - Marsh (Japan)                                
 Eigyoudou, The (Japan)                                                                                                                                                               -      ✗     ✗
 Eijukugo Target 1000 DS (Japan)                                                                                                                                                      -      ✗     ✗
 Eiken DS (Japan)                                                                                                                                                                     -      ✗     ✗
+Eiken DS (Japan) (Rev 2)                                                                                                                                                             ✗      ✗     ✗
 Eiken DS Training (Japan)                                                                                                                                                            -      ✗     ✗
 Eiken Kakomondai Shuuroku - Eiken DS 2 Deluxe (Japan)                                                                                                                                -      ✗     ✗
 Eiken-ou - 2-kyuu Hen (Japan)                                                                                                                                                        -      ✗     ✗
@@ -1763,6 +1766,7 @@ Escape the Museum (Europe) (En,Fr,It)                                           
 Escape the Museum (Europe) (En,Fr,Nl)                                                                                                                                                -      ✗     ✗
 Escape the Museum (Germany)                                                                                                                                                          -      ✗     ✗
 Escape the Museum (USA) (En,Fr,De,Es)                                                                                                                                                -      ✗     ✗
+ESSE Shikkari Kakeibo DS (Japan)                                                                                                                                                     ✗      ✗     ✗
 ESSE Shikkari Kakeibo DS (Japan) (Rev 1)                                                                                                                                             -      ✗     ✗
 Essential Sudoku DS (Europe)                                                                                                                                                         -      ✗     ✗
 Estpolis - The Lands Cursed by the Gods (Japan)                                                                                                                                      -      ✗     ✗
@@ -1816,7 +1820,7 @@ Fee Lili-Rose, La - La Magie des Fees (Europe) (En,Fr,De)                       
 Feel the Magic - XY-XX (USA) (Demo) (Kiosk)                                                                                                                                          ✗      ✗     ✗
 Feel the Magic - XY-XX (USA) (En,Ja)                                                                                                                                                 -      ✗     ✗
 Feji (Russia)                                                                                                                                                                        ✗      ✗     ✗
-Feji (Russia) (Proto)                                                                                                                                                                ✗      ✗     ✗
+Feji (Russia) (Beta)                                                                                                                                                                 ✗      ✗     ✗
 Ferrari Challenge - Trofeo Pirelli - European Series (Europe) (En,Fr,De,Es,It)                                                                                                       -      ✗     ✗
 Ferrari Challenge - Trofeo Pirelli (USA) (En,Fr)                                                                                                                                     -      ✗     ✗
 FIFA 06 (Europe) (En,Fr,De,Es,It,Nl)                                                                                                                                                 -      ✗     ✗
@@ -2518,7 +2522,7 @@ I Love Puppies (USA)                                                            
 I SPY Castle (USA)                                                                                                                                                                   -      ✗     ✗
 I Spy Fun House (Europe)                                                                                                                                                             -      ✗     ✗
 I Spy Fun House (Europe) (En,Fr,De,It,Nl)                                                                                                                                            -      ✗     ✗
-I Spy Fun House (Europe) (En,Ru) (Proto)                                                                                                                                             ✗      ✗     ✗
+I Spy Fun House (Europe) (En,Ru) (Beta)                                                                                                                                              ✗      ✗     ✗
 I Spy Fun House (USA)                                                                                                                                                                -      ✗     ✗
 I Spy Game Pack (USA)                                                                                                                                                                -      ✗     ✗
 I SPY Universe (USA)                                                                                                                                                                 -      ✗     ✗
@@ -2695,6 +2699,7 @@ Isola dei Famosi, L' (Italy)                                                    
 It's Tehodoki! Hannya Shingyou Nyuumon (Japan)                                                                                                                                       -      ✗     ✗
 Itadaki Street DS - Dragon Quest Super Mario (Japan)                                                                                                                                 -      ✗     ✗
 Item Getter - Bokura no Kagaku to Mahou no Kankei (Japan)                                                                                                                            ✗      ✗     ✗
+iTouch DS (World) (Unl)                                                                                                                                                              ✗      ✗     ✗
 Itouke no Urawaza DS (Japan)                                                                                                                                                         ✗      ✗     ✗
 Itsudemo Dokodemo - Onita Atsushi no Seiji Quiz DS (Japan)                                                                                                                           -      ✗     ✗
 Itsudemo Dokodemo Dekiru Igo - AI Igo DS (Japan)                                                                                                                                     -      ✗     ✗
@@ -3082,6 +3087,7 @@ Kochkurs - Was Wollen Wir Heute Kochen (Germany)                                
 Kochkurs - Was Wollen Wir Heute Kochen (Germany) (Rev 1)                                                                                                                             -      ✗     ✗
 Kodai Ouja Kyouryuu King - 7-tsu no Kakera (Japan)                                                                                                                                   -      ✗     ✗
 Kodawari Saihai Simulation - Ochanoma Pro Yakyuu DS - 2010 Nendo Ban (Japan)                                                                                                         -      ✗     ✗
+Kodawari Saihai Simulation - Ochanoma Pro Yakyuu DS - 2010 Nendo Ban (Japan) (Rev 1)                                                                                                 ✗      ✗     ✗
 Kodawari Saihai Simulation - Ochanoma Pro Yakyuu DS (Japan)                                                                                                                          ✗      ✗     ✗
 Kodomo no Tame no Yomi Kikase - Ehon de Asobou 1-kan (Japan)                                                                                                                         -      ✗     ✗
 Kodomo no Tame no Yomi Kikase - Ehon de Asobou 2-kan (Japan)                                                                                                                         -      ✗     ✗
@@ -3099,6 +3105,7 @@ Kokoro ga Uruou - Birei Aquarium DS - Kujira, Iruka, Penguin (Japan)            
 Kokoro ga Uruou - Birei Aquarium DS - Tetra, Guppy, Angelfish (Japan)                                                                                                                -      ✗     ✗
 Kokoro ni Shimiru - Mouhitsu de Kaku - Aida Mitsuo DS (Japan)                                                                                                                        -      ✗     ✗
 Kokoro o Yasumeru - Otona no Nurie DS (Japan)                                                                                                                                        -      ✗     ✗
+Kokoro o Yasumeru - Otona no Nurie DS (Japan) (Rev 2)                                                                                                                                ✗      ✗     ✗
 Kokoro o Yasumeru - Otona no Nurie DS 2 (Japan)                                                                                                                                      -      ✗     ✗
 Kolonisten van Catan, De (Netherlands)                                                                                                                                               -      ✗     ✗
 Koma Neko DS (Japan)                                                                                                                                                                 -      ✗     ✗
@@ -3251,7 +3258,9 @@ LEGO Batman - The Videogame (Europe) (En,Fr,De,Es,It,Da)                        
 LEGO Batman - The Videogame (Japan)                                                                                                                                                  ✗      ✗     ✗
 LEGO Batman - The Videogame (USA) (En,Fr,Es)                                                                                                                                         -      ✗     ✗
 LEGO Batman 2 - DC Super Heroes (Europe) (En,De)                                                                                                                                     -      ✗     ✗
+LEGO Batman 2 - DC Super Heroes (Europe) (En,De) (Rev 1)                                                                                                                             ✗      ✗     ✗
 LEGO Batman 2 - DC Super Heroes (Europe) (En,Fr,De,Es,It,Nl,Da)                                                                                                                      -      ✗     ✗
+LEGO Batman 2 - DC Super Heroes (Europe) (En,Fr,De,Es,It,Nl,Da) (Rev 1)                                                                                                              ✗      ✗     ✗
 LEGO Batman 2 - DC Super Heroes (Europe) (En,Fr)                                                                                                                                     -      ✗     ✗
 LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es,Pt)                                                                                                                                  -      ✗     ✗
 LEGO Battles - Ninjago (USA) (En,Fr,Es)                                                                                                                                              -      ✗     ✗
@@ -3391,7 +3400,7 @@ Lock's Quest - Shinmai Archineer no Hyakunichi Sensou (Japan)                   
 Lock's Quest (Europe) (En,Fr,De,Es,It)                                                                                                                                               -      ✗     ✗
 Lock's Quest (Europe) (En,Sv,No,Da,Fi)                                                                                                                                               -      ✗     ✗
 Lock's Quest (USA) (En,Fr)                                                                                                                                                           -      ✗     ✗
-Lock's Quest (USA) (En,Fr) (Proto)                                                                                                                                                   ✗      ✗     ✗
+Lock's Quest (USA) (En,Fr) (Beta)                                                                                                                                                    ✗      ✗     ✗
 Lode Runner (Japan)                                                                                                                                                                  -      ✗     ✗
 Logic Cubes (Europe) (En,De)                                                                                                                                                         -      ✗     ✗
 Logic Island (Europe) (En,Fr,De,Es,It) [b]                                                                                                                                           ✗      ✗     ✗
@@ -3462,6 +3471,7 @@ M_M's - Adventure (USA)                                                         
 M_M's - Break 'em (Europe) (En,Fr,De,Es,It)                                                                                                                                          -      ✗     ✗
 M_M's - Break 'em (USA)                                                                                                                                                              -      ✗     ✗
 M_M's - Break 'em (USA) (Rev 1)                                                                                                                                                      -      ✗     ✗
+M_M's - Kart Racing (USA)                                                                                                                                                            ✗      ✗     ✗
 M_M's - Kart Racing (USA) (Rev 1)                                                                                                                                                    -      ✗     ✗
 M3DS Real (World) (Unl)                                                                                                                                                              -      ✗     ✗
 M3DS Simply _ R4DS (World) (Unl)                                                                                                                                                     -      ✗     ✗
@@ -3625,6 +3635,7 @@ Mario _ Sonic at the Olympic Winter Games (USA) (En,Fr,Es)                      
 Mario _ Sonic at Vancouver Olympic (Japan)                                                                                                                                           -      ✗     ✗
 Mario Basket 3 on 3 (Japan)                                                                                                                                                          -      ✗     ✗
 Mario Hoops 3 on 3 (USA)                                                                                                                                                             -      ✗     ✗
+Mario Kart DS (Europe) (Demo) (Kiosk, Multiplayer)                                                                                                                                   ✗      ✗     ✗
 Mario Kart DS (Europe) (En,Fr,De,Es,It)                                                                                                                                              -      ✗     ✗
 Mario Kart DS (Japan)                                                                                                                                                                -      ✗     ✗
 Mario Kart DS (Japan) (Demo) (Kiosk)                                                                                                                                                 ✗      ✗     ✗
@@ -3659,12 +3670,12 @@ Mariowa Sonic - Vancouver Donggye-olympic (Korea) [b]                           
 Marker Man Adventures (USA)                                                                                                                                                          -      ✗     ✗
 Marl Oukoku no Ningyou Hime - Tenshi ga Kanaderu Ai no Uta (Japan)                                                                                                                   -      ✗     ✗
 Martin Mystery (Europe) (En,Fr,De,Es,It)                                                                                                                                             -      ✗     ✗
-Maru Goukaku - Shikaku Dasshu! 2011-Nendohan Financial Planning Ginou Kentei Shiken 2-Kyuu, 3-Kyuu (Japan) [b]                                                                       -      ✗     ✗
+Maru Goukaku - Shikaku Dasshu! 2011-Nendohan Financial Planning Ginou Kentei Shiken 2-Kyuu, 3-Kyuu (Japan)                                                                           ✗      ✗     ✗
 Maru Goukaku - Shikaku Dasshu! 2011-Nendohan Gyousei Shoshi Shiken (Japan)                                                                                                           -      ✗     ✗
 Maru Goukaku - Shikaku Dasshu! 2011-Nendohan Jouhou Security Specialist Shiken - Network Specialist Shiken (Japan)                                                                   -      ✗     ✗
 Maru Goukaku - Shikaku Dasshu! 2011-Nendohan Takken Shiken (Japan)                                                                                                                   -      ✗     ✗
 Maru Goukaku - Shikaku Dasshu! Care Manager Shiken (Japan)                                                                                                                           -      ✗     ✗
-Maru Goukaku - Shikaku Dasshu! Chuushoukigyou Shindanshi Shiken (Japan) [b]                                                                                                          -      ✗     ✗
+Maru Goukaku - Shikaku Dasshu! Chuushoukigyou Shindanshi Shiken (Japan)                                                                                                              ✗      ✗     ✗
 Maru Goukaku - Shikaku Dasshu! Financial Planning Ginou Kentei Shiken 2-kyuu, 3-kyuu (Japan)                                                                                         -      ✗     ✗
 Maru Goukaku - Shikaku Dasshu! Gyousei Shoshi Shiken (Japan)                                                                                                                         -      ✗     ✗
 Maru Goukaku - Shikaku Dasshu! Hanbaishi Kentei Shiken 2-kyuu, 3-kyuu (Japan)                                                                                                        -      ✗     ✗
@@ -3673,7 +3684,7 @@ Maru Goukaku - Shikaku Dasshu! Kaigo Fukushishi Shiken (Japan)                  
 Maru Goukaku - Shikaku Dasshu! Shakai Fukushishi Shiken (Japan)                                                                                                                      -      ✗     ✗
 Maru Goukaku - Shikaku Dasshu! Sharoushi Shiken (Japan)                                                                                                                              -      ✗     ✗
 Maru Goukaku - Shikaku Dasshu! Shouken Gaimuin Ni-Shu Shiken (Japan)                                                                                                                 -      ✗     ✗
-Maru Goukaku - Shikaku Dasshu! Special IT Passport Shiken, Kihon Jouhou Gijutsusha Shiken, Ouyou Jouhou Gijutsusha Shiken (Japan) [b]                                                -      ✗     ✗
+Maru Goukaku - Shikaku Dasshu! Special IT Passport Shiken, Kihon Jouhou Gijutsusha Shiken, Ouyou Jouhou Gijutsusha Shiken (Japan)                                                    ✗      ✗     ✗
 Maru Goukaku - Shikaku Dasshu! Special Kaigo Fukushishi Shiken (Japan)                                                                                                               -      ✗     ✗
 Maru Goukaku - Shikaku Dasshu! Special Shakai Fukushishi Shiken (Japan)                                                                                                              ✗      ✗     ✗
 Maru Goukaku - Shikaku Dasshu! Special Sharoushi Shiken (Japan)                                                                                                                      -      ✗     ✗
@@ -3741,6 +3752,7 @@ Mechanic Master 2 (USA)                                                         
 MechAssault - Phantom War (Europe) (En,Fr,De)                                                                                                                                        -      ✗     ✗
 MechAssault - Phantom War (USA)                                                                                                                                                      -      ✗     ✗
 Medarot DS - Kabuto Ver. (Japan)                                                                                                                                                     -      ✗     ✗
+Medarot DS - Kabuto Ver. (Japan) (Rev 1)                                                                                                                                             ✗      ✗     ✗
 Medarot DS - Kuwagata Ver. (Japan)                                                                                                                                                   -      ✗     ✗
 Medarot DS - Kuwagata Ver. (Japan) (Rev 1)                                                                                                                                           ✗      ✗     ✗
 Meet the Robinsons (Europe) (En,Fr,De,Es,It,Nl)                                                                                                                                      -      ✗     ✗
@@ -4067,6 +4079,7 @@ My Baby - Boy (USA) (En,Fr,Es)                                                  
 My Baby - First Steps (USA) (En,Fr,Es)                                                                                                                                               ✗      ✗     ✗
 My Baby - Girl (Europe) (En,Fr,De,Es,It,Nl,Pt)                                                                                                                                       ✗      ✗     ✗
 My Baby - Girl (USA) (En,Fr,Es)                                                                                                                                                      ✗      ✗     ✗
+My Baby - Girl (USA) (En,Fr,Es) (Majesco)                                                                                                                                            ✗      ✗     ✗
 My Baby 2 - Boy _ Girl (Europe) (En,Fr,De,Es,It,Nl)                                                                                                                                  ✗      ✗     ✗
 My Baby 3 _ Friends (Europe) (En,Fr,De,Es,It,Nl,Pt)                                                                                                                                  ✗      ✗     ✗
 My Baby 3 _ Friends (USA) (En,Fr,Es)                                                                                                                                                 ✗      ✗     ✗
@@ -4354,6 +4367,7 @@ New Super Mario Bros. (Europe) (En,Fr,De,Es,It)                                 
 New Super Mario Bros. (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk, Y78P)                                                                                                                 ✗      ✗     ✗
 New Super Mario Bros. (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)                                                                                                                       ✗      ✗     ✗
 New Super Mario Bros. (Japan)                                                                                                                                                        -      ✗     ✗
+New Super Mario Bros. (Japan) (Demo) (Kiosk)                                                                                                                                         ✗      ✗     ✗
 New Super Mario Bros. (Korea)                                                                                                                                                        ✗      ✗     ✗
 New Super Mario Bros. (USA)                                                                                                                                                          -      -     -
 New Super Mario Bros. (USA) (Demo) (Kiosk)                                                                                                                                           ✗      ✗     ✗
@@ -4410,6 +4424,7 @@ Nintendo Presents - Crossword Collection (Europe)                               
 Nintendo Presents - Style Boutique (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)                                                                                                          ✗      ✗     ✗
 Nintendo Presents - Style Boutique (Europe) (En,Fr,De,Es,It) (Rev 1)                                                                                                                 -      ✗     ✗
 Nintendo Touch Golf - Birdie Challenge (Europe) (En,Ja,Fr,De,Es,It)                                                                                                                  -      ✗     ✗
+Nintendo Zone Wireless Distribution Box DS Card (World) (Rev 2) (Wi-Fi Kiosk)                                                                                                        ✗      ✗     ✗
 Nintendo Zone Wireless Distribution Box DS Card (World) (Wi-Fi Kiosk)                                                                                                                ✗      ✗     ✗
 Nintendogs - Best Friends (USA)                                                                                                                                                      ✗      ✗     ✗
 Nintendogs - Chihuahua _ Chingudeul (Korea)                                                                                                                                          ✗      ✗     ✗
@@ -4457,6 +4472,8 @@ Nounenrei - Nou Stress Kei Atama Scan (Japan)                                   
 Nouvelles Aventures de T'choupi et Ses Amis, Les (France)                                                                                                                            ✗      ✗     ✗
 Nova Usagi no Game de Ryuugaku! DS (Japan)                                                                                                                                           ✗      ✗     ✗
 NRL Mascot Mania (Australia)                                                                                                                                                         ✗      ✗     ✗
+NTR Aging (World) (v1.0)                                                                                                                                                             ✗      ✗     ✗
+NTR Aging (World) (v6.0)                                                                                                                                                             ✗      ✗     ✗
 Nursery Mania (USA)                                                                                                                                                                  ✗      ✗     ✗
 Obunsha Deru-jun - Chiri DS (Japan)                                                                                                                                                  ✗      ✗     ✗
 Obunsha Deru-jun - Chiri DS (Japan) (Rev 1)                                                                                                                                          ✗      ✗     ✗
@@ -4491,6 +4508,7 @@ Okada Toshio no Itsumademo Debu to Omounayo - DS de Recording Diet (Japan)      
 Okaeri! Chibi-Robo! - Happy Rich Oosouji! (Japan)                                                                                                                                    -      ✗     ✗
 Oktoberfest - The Official Game (Europe) (En,Fr,De,Es,It)                                                                                                                            ✗      ✗     ✗
 OMG 26 - Our Mini Games (USA)                                                                                                                                                        ✗      ✗     ✗
+Once upon a time... - Ugly Duckling (USA) (Beta)                                                                                                                                     ✗      ✗     ✗
 One Piece - Gear Spirit (Japan)                                                                                                                                                      ✗      ✗     ✗
 One Piece - Gear Spirit (Korea)                                                                                                                                                      ✗      ✗     ✗
 One Piece - Gigant Battle! (Europe)                                                                                                                                                  -      ✗     ✗
@@ -4854,7 +4872,7 @@ Point Blank DS (USA)                                                            
 Pokemon - Black Version (USA, Europe) (NDSi Enhanced)                                                                                                                                -      ✗     ✗
 Pokemon - Black Version 2 (USA, Europe) (NDSi Enhanced)                                                                                                                              -      ✗     ✗
 Pokemon - Diamant-Edition (Germany) (Rev 5)                                                                                                                                          ✗      ✗     ✗
-Pokemon - Diamond Version (Europe) (Rev 13)                                                                                                                                          ✗      ✗     ✗
+Pokemon - Diamond Version (Europe) (Rev 5)                                                                                                                                           ✗      ✗     ✗
 Pokemon - Diamond Version (USA) (Rev 5)                                                                                                                                              -      ✗     ✗
 Pokemon - Diamond Version + Pokemon - Pearl Version (USA) (Demo) (Kiosk)                                                                                                             ✗      ✗     ✗
 Pokemon - Edicion Blanca (Spain) (NDSi Enhanced)                                                                                                                                     -      ✗     ✗
@@ -4867,19 +4885,19 @@ Pokemon - Edicion Perla (Spain) (Rev 5)                                         
 Pokemon - Edicion Plata SoulSilver (Spain)                                                                                                                                           -      ✗     ✗
 Pokemon - Edicion Platino (Spain)                                                                                                                                                    ✗      ✗     ✗
 Pokemon - Goldene Edition HeartGold (Germany)                                                                                                                                        ✗      ✗     ✗
-Pokemon - HeartGold Version (Europe) (Rev 10)                                                                                                                                        -      ✗     ✗
+Pokemon - HeartGold Version (Europe)                                                                                                                                                 ✗      ✗     ✗
 Pokemon - HeartGold Version (USA)                                                                                                                                                    -      ✗     ✗
-Pokemon - Pearl Version (Europe) (Rev 13)                                                                                                                                            ✗      ✗     ✗
+Pokemon - Pearl Version (Europe) (Rev 5)                                                                                                                                             ✗      ✗     ✗
 Pokemon - Pearl Version (USA) (Rev 5)                                                                                                                                                -      ✗     ✗
 Pokemon - Perl-Edition (Germany) (Rev 5)                                                                                                                                             ✗      ✗     ✗
 Pokemon - Platin-Edition (Germany)                                                                                                                                                   ✗      ✗     ✗
-Pokemon - Platinum Version (Europe) (Rev 10)                                                                                                                                         -      ✗     ✗
+Pokemon - Platinum Version (Europe)                                                                                                                                                  ✗      ✗     ✗
 Pokemon - Platinum Version (USA)                                                                                                                                                     ✗      ✗     ✗
 Pokemon - Platinum Version (USA) (Rev 1)                                                                                                                                             -      ✗     ✗
 Pokemon - Schwarze Edition (Germany) (NDSi Enhanced)                                                                                                                                 ✗      ✗     ✗
 Pokemon - Schwarze Edition 2 (Germany) (NDSi Enhanced)                                                                                                                               ✗      ✗     ✗
 Pokemon - Silberne Edition SoulSilver (Germany)                                                                                                                                      ✗      ✗     ✗
-Pokemon - SoulSilver Version (Europe) (Rev 10)                                                                                                                                       -      ✗     ✗
+Pokemon - SoulSilver Version (Europe)                                                                                                                                                ✗      ✗     ✗
 Pokemon - SoulSilver Version (USA)                                                                                                                                                   ✗      ✗     ✗
 Pokemon - Version Argent SoulSilver (France)                                                                                                                                         ✗      ✗     ✗
 Pokemon - Version Blanche (France) (NDSi Enhanced)                                                                                                                                   -      ✗     ✗
@@ -4995,7 +5013,7 @@ Power Pro Kun Pocket 10 (Japan)                                                 
 Power Pro Kun Pocket 11 (Japan) [b]                                                                                                                                                  ✗      ✗     ✗
 Power Pro Kun Pocket 12 (Japan) (NDSi Enhanced)                                                                                                                                      ✗      ✗     ✗
 Power Pro Kun Pocket 13 (Japan) (NDSi Enhanced)                                                                                                                                      ✗      ✗     ✗
-Power Pro Kun Pocket 14 (Japan) (NDSi Enhanced) [b]                                                                                                                                  ✗      ✗     ✗
+Power Pro Kun Pocket 14 (Japan) (NDSi Enhanced)                                                                                                                                      ✗      ✗     ✗
 Power Pro Kun Pocket 8 (Japan)                                                                                                                                                       ✗      ✗     ✗
 Power Pro Kun Pocket 9 (Japan)                                                                                                                                                       ✗      ✗     ✗
 Power Rangers - Samurai (Europe) (En,Fr,De,Es,It)                                                                                                                                    ✗      ✗     ✗
@@ -5021,6 +5039,7 @@ Prince of Persia - The Fallen King (Europe) (En,Fr,De,Es,It)                    
 Prince of Persia - The Fallen King (USA) (En,Fr,De,Es,It)                                                                                                                            -      ✗     ✗
 Prince of Persia - The Forgotten Sands (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)                                                                                                  -      ✗     ✗
 Prince of Persia - The Forgotten Sands (USA) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)                                                                                                     -      ✗     ✗
+Princess and the Frog, The - Taste of New Orleans Edition (USA) (En,Fr,Es)                                                                                                           ✗      ✗     ✗
 Princess and the Frog, The (Europe) (En,Fr,De,Es,It,Nl)                                                                                                                              ✗      ✗     ✗
 Princess and the Frog, The (Europe) (En,Sv,No,Da)                                                                                                                                    ✗      ✗     ✗
 Princess and the Frog, The (USA) (En,Fr,Es)                                                                                                                                          ✗      ✗     ✗
@@ -5069,6 +5088,7 @@ Profesor Layton y el Futuro Perdido, El (Spain)                                 
 Profesor Layton y la Caja de Pandora, El (Spain)                                                                                                                                     ✗      ✗     ✗
 Profesor Layton y la Llamada del Espectro, El (Spain)                                                                                                                                ✗      ✗     ✗
 Professeur Layton et l'Appel du Spectre (France)                                                                                                                                     ✗      ✗     ✗
+Professeur Layton et l'Appel du Spectre (France) (Demo) (Kiosk)                                                                                                                      ✗      ✗     ✗
 Professeur Layton et la Boite de Pandore (France)                                                                                                                                    ✗      ✗     ✗
 Professeur Layton et la Boite de Pandore (France) (Demo) (Kiosk)                                                                                                                     ✗      ✗     ✗
 Professeur Layton et le Destin Perdu (France)                                                                                                                                        ✗      ✗     ✗
@@ -5207,7 +5227,7 @@ Quiz Magic Academy DS (Japan) (Rev 1)                                           
 Quiz no Tabi - Tetsudou Ryojou Hen (Japan)                                                                                                                                           ✗      ✗     ✗
 Quiz Present Variety Q-Sama!! DS - Pressure Study x Atama Ga Yokunaru Drill SP (Japan)                                                                                               ✗      ✗     ✗
 Quiz Taxi (Germany) [b]                                                                                                                                                              ✗      ✗     ✗
-Quiz! Hexagon II (Japan) [b]                                                                                                                                                         ✗      ✗     ✗
+Quiz! Hexagon II (Japan)                                                                                                                                                             ✗      ✗     ✗
 Quiz! Nihongo-ou (Japan)                                                                                                                                                             ✗      ✗     ✗
 R4i (World) (Unl)                                                                                                                                                                    ✗      ✗     ✗
 Raa Raa the Noisy Lion (Europe)                                                                                                                                                      ✗      ✗     ✗
@@ -5371,6 +5391,8 @@ Rub Rabbits!, The (USA) (En,Ja,Fr,De,Es,It)                                     
 Rubik's Puzzle World (Europe) (En,Fr,De,Es,It)                                                                                                                                       ✗      ✗     ✗
 Rubik's World (USA)                                                                                                                                                                  ✗      ✗     ✗
 Rudolph - The Red-Nosed Reindeer (USA)                                                                                                                                               ✗      ✗     ✗
+Rule of Speed (Europe) (Proto 1)                                                                                                                                                     ✗      ✗     ✗
+Rule of Speed (Europe) (Proto 2)                                                                                                                                                     ✗      ✗     ✗
 Runaway - A Twist of Fate (Europe) (En,Fr,De,Es,It)                                                                                                                                  -      ✗     ✗
 Runaway - The Dream of the Turtle (Europe) (En,Fr,De,Es,It) (Rev 1)                                                                                                                  -      ✗     ✗
 Runaway - The Dream of the Turtle (Europe) (En,Fr,De)                                                                                                                                -      ✗     ✗
@@ -5412,7 +5434,7 @@ Saitou Takashi no DS de Yomu - Sanshoku Ballpen Meisaku Juku (Japan)            
 Saiyuuki Kinkaku Ginkaku no Inbou (Japan)                                                                                                                                            ✗      ✗     ✗
 Saka Tsuku DS - Touch and Direct (Japan)                                                                                                                                             ✗      ✗     ✗
 Saka Tsuku DS - Touch and Direct (Japan) (Rev 1)                                                                                                                                     ✗      ✗     ✗
-Saka Tsuku DS - World Challenge 2010 (Japan) [b]                                                                                                                                     ✗      ✗     ✗
+Saka Tsuku DS - World Challenge 2010 (Japan)                                                                                                                                         ✗      ✗     ✗
 Sakana to Asobou! - Aquazone DS - Kaisuigyo (Japan)                                                                                                                                  ✗      ✗     ✗
 Sakasete! Chibi-Robo! (Japan)                                                                                                                                                        ✗      ✗     ✗
 Sakashou DS (Japan)                                                                                                                                                                  ✗      ✗     ✗
@@ -5452,6 +5474,7 @@ Satisfashion - Rock the Runway (USA)                                            
 Sawaru Made in Wario (Japan)                                                                                                                                                         ✗      ✗     ✗
 Sawaru Made in Wario (Japan) (Rev 1)                                                                                                                                                 ✗      ✗     ✗
 Sawaru Made in Wario (Japan) (Rev 2)                                                                                                                                                 ✗      ✗     ✗
+Sawaru Made in Wario (Japan) (Rev 3)                                                                                                                                                 ✗      ✗     ✗
 SBI Group Kanshuu - Hajimeyou! Shisan Unyou DS (Japan)                                                                                                                               ✗      ✗     ✗
 SBK - Snowboard Kids (Europe) (En,Fr,De)                                                                                                                                             ✗      ✗     ✗
 SBK - Snowboard Kids (USA)                                                                                                                                                           ✗      ✗     ✗
@@ -5634,7 +5657,7 @@ Shuwa no Mori (Japan)                                                           
 Sid Meier's Civilization Revolution (Europe) (En,Fr,De,Es,It)                                                                                                                        -      ✗     ✗
 Sid Meier's Civilization Revolution (Japan)                                                                                                                                          ✗      ✗     ✗
 Sid Meier's Civilization Revolution (USA) (En,Fr,De,Es,It)                                                                                                                           -      ✗     ✗
-Sideswiped (USA) [b]                                                                                                                                                                 -      ✗     ✗
+Sideswiped (USA)                                                                                                                                                                     ✗      ✗     ✗
 Sight Training - Enjoy Exercising and Relaxing Your Eyes (Europe) (En,Fr,De,Es,It)                                                                                                   ✗      ✗     ✗
 Sight Training - Enjoy Exercising and Relaxing Your Eyes (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)                                                                                    ✗      ✗     ✗
 Sightseeing Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It) [b]                                                                                                 ✗      ✗     ✗
@@ -5934,7 +5957,7 @@ Sprung - The Dating Game (Europe)                                               
 Spy Kids - All the Time in the World (USA)                                                                                                                                           ✗      ✗     ✗
 Spyro - Shadow Legacy (Europe) (En,Fr,De,Es,It,Nl)                                                                                                                                   ✗      ✗     ✗
 Spyro - Shadow Legacy (USA)                                                                                                                                                          ✗      ✗     ✗
-Spyro - Shadow Legacy (USA) (Proto)                                                                                                                                                  ✗      ✗     ✗
+Spyro - Shadow Legacy (USA) (Beta)                                                                                                                                                   ✗      ✗     ✗
 Squeeballs Party (Europe) (En,Fr,De,Es,It) [b]                                                                                                                                       ✗      ✗     ✗
 Squeeballs Party (USA)                                                                                                                                                               ✗      ✗     ✗
 Squinkies - Surprise Inside (USA) (En,Fr) (Rev 1)                                                                                                                                    ✗      ✗     ✗
@@ -5986,6 +6009,7 @@ Strawberry Shortcake - The Four Seasons Cake (USA) (En,Fr,Es)                   
 Street Football (Europe) (En,Fr,De,Es,It)                                                                                                                                            ✗      ✗     ✗
 Strike Witches - Soukuu no Dengekisen - Shin Taichou Funtou Suru! (Japan)                                                                                                            ✗      ✗     ✗
 Strike Witches 2 - Iyasu, Naosu, Punipuni Suru (Japan) [b]                                                                                                                           ✗      ✗     ✗
+Strongest Pokemon Distribution (Japan) (Wi-Fi Kiosk) (Save Data)                                                                                                                     ✗      ✗     ✗
 Style Book - Cinnamoroll (Japan)                                                                                                                                                     ✗      ✗     ✗
 Style Book - Fushigi Boshi no Futago Hime Gyu! (Japan)                                                                                                                               ✗      ✗     ✗
 Style Book - Junior City (Japan)                                                                                                                                                     ✗      ✗     ✗
@@ -6290,7 +6314,7 @@ Tigre, El - The Adventures of Manny Rivera (USA)                                
 Tim Stockdale's Riding Star (Europe) (En,Fr,De,Es,It,Sv,No,Da) (Rev 1)                                                                                                               ✗      ✗     ✗
 Time Ace (USA)                                                                                                                                                                       ✗      ✗     ✗
 Time Hollow - Ubawareta Kako o Motomete (Japan)                                                                                                                                      ✗      ✗     ✗
-Time Hollow (Europe) (En,Fr,De,Es,It) [b]                                                                                                                                            ✗      ✗     ✗
+Time Hollow (Europe) (En,Fr,De,Es,It)                                                                                                                                                ✗      ✗     ✗
 Time Hollow (USA) (En,Fr)                                                                                                                                                            ✗      ✗     ✗
 Times Crossword Challenge, The (Europe) [b]                                                                                                                                          ✗      ✗     ✗
 Timmy Time (Europe)                                                                                                                                                                  ✗      ✗     ✗
@@ -6386,6 +6410,7 @@ Tokuten Ryoku Gakushuu DS - Chuugaku Rekishi (Japan)                            
 Tokuten Ryoku Gakushuu DS - Chuugaku Rika 1 Bunya (Japan)                                                                                                                            ✗      ✗     ✗
 Tokuten Ryoku Gakushuu DS - Chuugaku Rika 2 Bunya (Japan)                                                                                                                            ✗      ✗     ✗
 Tokuten Ryoku Gakushuu DS - Koukou Juken 5 Kyouka Pack (Japan) (CX2J)                                                                                                                ✗      ✗     ✗
+Tokuten Ryoku Gakushuu DS - Koukou Juken 5 Kyouka Pack (Japan) (Rev 1) (CX2J)                                                                                                        ✗      ✗     ✗
 Tokuten Ryoku Gakushuu DS - Koukou Juken 5 Kyouka Pack (Japan) (TQ8J)                                                                                                                ✗      ✗     ✗
 Tokuten Ryoku Gakushuu DS - Koukou Juken Eigo (Japan) [b]                                                                                                                            ✗      ✗     ✗
 Tokuten Ryoku Gakushuu DS - Koukou Juken Kokugo (Japan)                                                                                                                              ✗      ✗     ✗
@@ -6469,7 +6494,7 @@ Touch de Taikyaku! - Yawaraka Sensha (Japan)                                    
 Touch de Tanoshimu Hyakunin Isshu - DS Shigureden (Japan)                                                                                                                            ✗      ✗     ✗
 Touch Detective (France)                                                                                                                                                             ✗      ✗     ✗
 Touch Detective (USA)                                                                                                                                                                -      ✗     ✗
-Touch Detective (USA) (Proto)                                                                                                                                                        ✗      ✗     ✗
+Touch Detective (USA) (Beta)                                                                                                                                                         ✗      ✗     ✗
 Touch Detective 2 1-2 (USA)                                                                                                                                                          -      ✗     ✗
 Touch Detective II (France)                                                                                                                                                          ✗      ✗     ✗
 Touch Dictionary (Korea) (Rev 1)                                                                                                                                                     ✗      ✗     ✗

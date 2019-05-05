@@ -1,9 +1,9 @@
 Nintendo - Satellaview Missing
 
-Boxarts    0/249   0.00%
-Snaps     91/249  36.55%
-Titles    91/249  36.55%
-Total    182/747  24.36%
+Boxarts    0/253   0.00%
+Snaps     91/253  35.97%
+Titles    91/253  35.97%
+Total    182/759  23.98%
 
 Name                                                                                                   Boxart  Snap  Title
 3-ji no Wide Shou - 5 Gatsugou (Japan)                                                                    ✗      -     -
@@ -16,8 +16,8 @@ Arkanoid - Doh it Again (Japan)                                                 
 B Dash - 2 Gatsugou (Japan)                                                                               ✗      -     -
 B Dash - 3 Gatsugou (Japan)                                                                               ✗      -     -
 Bakushow Mondai no Silicon Chounaikai (2-1) + Bakushow Mondai no Silicon Chounaikai (2-8) (Japan) [b]     ✗      ✗     ✗
-Bakushow Mondai no Silicon Chounaikai (2-8) (Japan) [b]                                                   ✗      ✗     ✗
-Bakushow Mondai no Silicon Chounaikai (6-22) (Japan) [b]                                                  ✗      ✗     ✗
+Bakushow Mondai no Silicon Chounaikai (Japan) (2-8) [b]                                                   ✗      ✗     ✗
+Bakushow Mondai no Silicon Chounaikai (Japan) (6-22) [b]                                                  ✗      ✗     ✗
 Bakushow Mondai no Totsugeki! Star Pirates - Dai-2-wa (Japan)                                             ✗      ✗     ✗
 Bokujou Monogatari - Dai-2-wa (Japan) (SoundLink)                                                         ✗      ✗     ✗
 Bokujou Monogatari - Dai-4-wa (Japan) (SoundLink)                                                         ✗      ✗     ✗
@@ -162,7 +162,7 @@ Koi wa Balance - Tatoeba K-kun no Tabou na Ichinichi Hen (Japan)                
 Konae-chan no Dokidoki Penguin Kazoku (Japan) (1-4)                                                       ✗      ✗     ✗
 Konae-chan no Dokidoki Penguin Kazoku (Japan) (1-7)                                                       ✗      ✗     ✗
 Kouryaku Casino Bar Mokuyoubi - Poker (Japan)                                                             ✗      ✗     ✗
-Kouryaku Casino Bar Nichiyoubi - Roulette + Game Tora no Ooana Special (2-24) (Japan) [b]                 ✗      ✗     ✗
+Kouryaku Casino Bar Nichiyoubi - Roulette + Game Tora no Ooana Special (Japan) (2-24) [b]                 ✗      ✗     ✗
 Kouryaku Casino Bar Suiyoubi - Poker + Kouryaku Casino Bar Kinyoubi - Slots (Japan) [b]                   ✗      ✗     ✗
 Lemmings (Japan) (En)                                                                                     ✗      -     -
 Let's Pachinko Nante Gindama 1 (Japan)                                                                    ✗      -     -
@@ -187,6 +187,7 @@ Panel de Pon - Event '98 (Japan) (12-28)                                        
 Pokekame Magazine (Japan)                                                                                 ✗      -     -
 Radical Dreamers - Nusume Nai Houseki (Japan) (2-24)                                                      ✗      ✗     ✗
 Radical Dreamers - Nusume Nai Houseki (Japan) (2-3)                                                       ✗      ✗     ✗
+RPG Tsukuru - Super Dante (Japan)                                                                         ✗      ✗     ✗
 Ryouma de Yuku (Japan) (Data Pack) [b]                                                                    ✗      ✗     ✗
 Same Game - Chara Cassette (Japan) (ROM)                                                                  ✗      ✗     ✗
 Same Game - Chara Data Shuu (Japan) (ROM)                                                                 ✗      ✗     ✗
@@ -206,6 +207,8 @@ Sousa Sentai Wappers - Mission 02 (Japan)                                       
 Special Tee Shot (Japan)                                                                                  ✗      -     -
 Spriggan Powered BS - Dai-3-wa (Japan) (SoundLink)                                                        ✗      ✗     ✗
 Spriggan Powered BS - Prelude (Japan) (SoundLink)                                                         ✗      ✗     ✗
+Square Magazine (Japan) (11-07) [b]                                                                       ✗      ✗     ✗
+Square Magazine (Japan) (11-21) [b]                                                                       ✗      ✗     ✗
 Star Soldier - 2 Minute Mode (Japan) (En)                                                                 ✗      ✗     ✗
 Super Aleste (Japan)                                                                                      ✗      ✗     ✗
 Super Bomber Man (Japan) (En)                                                                             ✗      -     -
@@ -222,6 +225,7 @@ Super Ninja-kun (Japan)                                                         
 Super Puyo Puyo (Japan)                                                                                   ✗      ✗     ✗
 Super Puyo Puyo Tsuu BS Ban (Japan)                                                                       ✗      -     -
 Super Puyo Puyo Tsuu Remix (Japan) [b]                                                                    ✗      ✗     ✗
+Super Soukoban (Japan)                                                                                    ✗      ✗     ✗
 Super Tsumeshougi 1000 (Japan)                                                                            ✗      -     -
 Super Volley II (Japan) (11-3)                                                                            ✗      ✗     ✗
 Super Volley II (Japan) (12-10)                                                                           ✗      ✗     ✗

@@ -1,9 +1,9 @@
 Nintendo - GameCube Missing
 
-Boxarts  123/2888  4.26%
-Snaps      1/2888  0.03%
-Titles     3/2888  0.10%
-Total    127/8664  1.47%
+Boxarts  123/2889  4.26%
+Snaps      1/2889  0.03%
+Titles     3/2889  0.10%
+Total    127/8667  1.47%
 
 Name                                                                                                                                            Boxart  Snap  Title
 007 - Agent im Kreuzfeuer (Germany)                                                                                                                ✗      ✗     ✗
@@ -57,6 +57,7 @@ Name                                                                            
 2 Games in 1_ The SpongeBob SquarePants Movie _ Tak 2_ The Staff of Dreams (Europe)                                                                ✗      ✗     ✗
 2002 FIFA World Cup (Europe)                                                                                                                       ✗      ✗     ✗
 2002 FIFA World Cup (Europe) (Fr,Nl)                                                                                                               ✗      ✗     ✗
+2002 FIFA World Cup (France)                                                                                                                       ✗      ✗     ✗
 2002 FIFA World Cup (Germany)                                                                                                                      ✗      ✗     ✗
 2002 FIFA World Cup (Japan)                                                                                                                        ✗      ✗     ✗
 2002 FIFA World Cup (USA)                                                                                                                          ✗      ✗     ✗
@@ -70,6 +71,7 @@ Action Replay                                                                   
 Action Replay for GameCube (Europe) (Unl)                                                                                                          ✗      ✗     ✗
 Action Replay for GameCube (Europe) (Unl) (Version 1.0E)                                                                                           ✗      ✗     ✗
 Action Replay for GameCube (Europe) (Unl) (Version 1.14b)                                                                                          ✗      ✗     ✗
+Action Replay for GameCube (USA) (En,Fr,De,Es) (Unl) (Version 1.08)                                                                                ✗      ✗     ✗
 Action Replay for GameCube (USA) (Unl) (Version 1.06)                                                                                              ✗      ✗     ✗
 Action Replay for GameCube (USA) (Unl) (Version 1.12)                                                                                              ✗      ✗     ✗
 Action Replay for GameCube (USA) (Unl) (Version 1.20)                                                                                              ✗      ✗     ✗
@@ -413,7 +415,6 @@ Conflict_ Desert Storm (Europe)                                                 
 Conflict_ Desert Storm (USA)                                                                                                                       ✗      ✗     ✗
 Conflict_ Desert Storm II_ Back to Baghdad (Europe)                                                                                                ✗      ✗     ✗
 Conflict_ Desert Storm II_ Back to Baghdad (USA)                                                                                                   ✗      ✗     ✗
-Coupe du Monde FIFA 2002 (France)                                                                                                                  ✗      ✗     ✗
 Crash Bandicoot - Bakuso! Nitro Kart (Japan)                                                                                                       ✗      ✗     ✗
 Crash Bandicoot - Gatchanko World (Japan)                                                                                                          ✗      ✗     ✗
 Crash Bandicoot - The Wrath of Cortex (Europe) (En,Fr,De,Es,It,Nl) (v1.00)                                                                         ✗      ✗     ✗
@@ -744,6 +745,7 @@ Evolution Worlds (USA)                                                          
 F-Zero GX (Europe)                                                                                                                                 -      ✗     ✗
 F-Zero GX (Europe) (En,Fr,De,Es,It)                                                                                                                ✗      ✗     ✗
 F-Zero GX (Japan)                                                                                                                                  ✗      ✗     ✗
+F-Zero GX (Korea)                                                                                                                                  ✗      ✗     ✗
 F-Zero GX (USA)                                                                                                                                    -      ✗     ✗
 F1 2002 (Europe)                                                                                                                                   ✗      ✗     ✗
 F1 2002 (Europe) (En,Fr,De,It)                                                                                                                     ✗      ✗     ✗
@@ -1264,7 +1266,7 @@ Kururin Squash! (Japan)                                                         
 Kyojin no Doshin (Japan)                                                                                                                           ✗      ✗     ✗
 Lara Croft Tomb Raider - Legend (Europe)                                                                                                           ✗      ✗     ✗
 Lara Croft Tomb Raider - Legend (France)                                                                                                           ✗      ✗     ✗
-Lara Croft Tomb Raider - Legend (Germany)                                                                                                          ✗      ✗     ✗
+Lara Croft Tomb Raider - Legend (Germany) (En,Fr,De,Es,It)                                                                                         ✗      ✗     ✗
 Lara Croft Tomb Raider - Legend (USA)                                                                                                              ✗      ✗     ✗
 Lara Croft Tomb Raider_ Legend (Europe)                                                                                                            ✗      ✗     ✗
 Lara Croft Tomb Raider_ Legend (USA)                                                                                                               ✗      ✗     ✗
@@ -1369,6 +1371,7 @@ Mario Golf_ Toadstool Tour (Europe)                                             
 Mario Golf_ Toadstool Tour (USA)                                                                                                                   -      ✗     ✗
 Mario Kart - Double Dash!! (Europe) (En,Fr,De,Es,It)                                                                                               ✗      ✗     ✗
 Mario Kart - Double Dash!! (Japan)                                                                                                                 ✗      ✗     ✗
+Mario Kart - Double Dash!! (Korea)                                                                                                                 ✗      ✗     ✗
 Mario Kart - Double Dash!! (USA)                                                                                                                   -      ✗     ✗
 Mario Kart - Double Dash!! (USA) (Bonus Disc)                                                                                                      -      ✗     ✗
 Mario Kart_ Double Dash!! (Europe)                                                                                                                 -      ✗     ✗
@@ -2618,7 +2621,6 @@ Tom Clancy's Splinter Cell (Demo) (Europe)                                      
 Tom Clancy's Splinter Cell (Europe)                                                                                                                ✗      ✗     ✗
 Tom Clancy's Splinter Cell (Europe) (En,Fr,De,Es,It)                                                                                               ✗      ✗     ✗
 Tom Clancy's Splinter Cell (Europe) (En,Fr,De,Es,It) (Demo)                                                                                        ✗      ✗     ✗
-Tom Clancy's Splinter Cell (Europe) (En,Fr,De,Es,It) (Promo)                                                                                       ✗      ✗     ✗
 Tom Clancy's Splinter Cell (USA)                                                                                                                   ✗      ✗     ✗
 Tom Clancy's Splinter Cell_ Chaos Theory (Europe)                                                                                                  ✗      ✗     ✗
 Tom Clancy's Splinter Cell_ Chaos Theory (USA)                                                                                                     ✗      ✗     ✗
@@ -2736,7 +2738,6 @@ Viewtiful Joe - Red Hot Rumble (USA)                                            
 Viewtiful Joe (Europe)                                                                                                                             -      ✗     ✗
 Viewtiful Joe (Europe) (En,Fr,De,Es,It)                                                                                                            ✗      ✗     ✗
 Viewtiful Joe (Europe) (Promo)                                                                                                                     ✗      ✗     ✗
-Viewtiful Joe (Germany) (En,Fr,De,Es,It) (Demo)                                                                                                    ✗      ✗     ✗
 Viewtiful Joe (Japan)                                                                                                                              ✗      ✗     ✗
 Viewtiful Joe (Promotional demo) (Europe)                                                                                                          ✗      ✗     ✗
 Viewtiful Joe (USA)                                                                                                                                -      ✗     ✗

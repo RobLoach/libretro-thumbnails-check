@@ -1,9 +1,9 @@
 Sega - 32X Missing
 
-Boxarts    47/63  74.60%
-Snaps      47/63  74.60%
-Titles     47/63  74.60%
-Total    141/189  74.60%
+Boxarts    47/84  55.95%
+Snaps      47/84  55.95%
+Titles     47/84  55.95%
+Total    141/252  55.95%
 
 Name                                                                        Boxart  Snap  Title
 32X Sample Program - PWM Sound Demo (Unknown) (SDK Build)                      ✗      ✗     ✗
@@ -16,10 +16,31 @@ Brutal - Above the Claw (USA)                                                  �
 Chaotix ~ Knuckles' Chaotix (Japan, USA)                                       -      -     -
 ClayFighter 2 (USA) (Proto) (1995-04-28)                                       ✗      ✗     ✗
 Cosmic Carnage (Europe)                                                        -      -     -
+Cosmic Carnage (Japan) (En) (Proto) (1994-09-06)                               ✗      ✗     ✗
+Cosmic Carnage (Japan) (En) (Proto) (1994-09-21)                               ✗      ✗     ✗
+Cosmic Carnage (Unknown) (Proto) (1994-09-26)                                  ✗      ✗     ✗
+Cosmic Carnage (Unknown) (Proto) (1994-09-28)                                  ✗      ✗     ✗
+Cosmic Carnage (Unknown) (Proto) (1994-10-04)                                  ✗      ✗     ✗
+Cosmic Carnage (Unknown) (Proto) (1994-10-05)                                  ✗      ✗     ✗
+Cosmic Carnage (Unknown) (Proto) (1994-10-07)                                  ✗      ✗     ✗
+Cosmic Carnage (Unknown) (Proto) (1994-10-11)                                  ✗      ✗     ✗
 Cyber Brawl ~ Cosmic Carnage (Japan, USA)                                      -      -     -
 Darxide (Europe) (En,Fr,De,Es)                                                 -      -     -
 Doom (Europe)                                                                  -      -     -
+Doom (Europe) (Proto) (1994-10-02)                                             ✗      ✗     ✗
 Doom (Japan, USA)                                                              -      -     -
+Doom (Japan, USA) (Proto) (1994-09-06)                                         ✗      ✗     ✗
+Doom (Japan, USA) (Proto) (1994-09-09)                                         ✗      ✗     ✗
+Doom (Japan, USA) (Proto) (1994-09-14)                                         ✗      ✗     ✗
+Doom (USA) (Proto) (1994-09-21)                                                ✗      ✗     ✗
+Doom (USA) (Proto) (1994-09-23)                                                ✗      ✗     ✗
+Doom (USA) (Proto) (1994-09-25)                                                ✗      ✗     ✗
+Doom (USA) (Proto) (1994-09-27)                                                ✗      ✗     ✗
+Doom (USA) (Proto) (1994-12-01)                                                ✗      ✗     ✗
+Doom (World) (Proto) (1994-09-16)                                              ✗      ✗     ✗
+Doom RR (Japan, USA) (Proto) (1995-02-15)                                      ✗      ✗     ✗
+Doom RR (Japan, USA) (Proto) (1995-02-21)                                      ✗      ✗     ✗
+Doom RR (Japan, USA) (Proto) (1995-03-07)                                      ✗      ✗     ✗
 Ecco the Dolphin (USA) (Demo) (Developer Cart)                                 ✗      ✗     ✗
 FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv)                                    ✗      ✗     ✗
 Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe)         ✗      ✗     ✗
