@@ -24,7 +24,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Commodore - VIC-20](out/Commodore%20-%20VIC-20.txt) | 0 / 286 | 278 / 286 | 278 / 286 | 556 / 858 | **64.80%** |
 | [Dinothawr](out/Dinothawr.txt) | 1 / 1 | 1 / 1 | 1 / 1 | 3 / 3 | **100.00%** |
 | [DOOM](out/DOOM.txt) | 11 / 97 | 5 / 97 | 5 / 97 | 21 / 291 | **7.22%** |
-| [DOS](out/DOS.txt) | 9 / 13220 | 9 / 13220 | 9 / 13220 | 27 / 39660 | **0.07%** |
+| [DOS](out/DOS.txt) | 9 / 13220 | 10 / 13220 | 10 / 13220 | 29 / 39660 | **0.07%** |
 | [Emerson - Arcadia 2001](out/Emerson%20-%20Arcadia%202001.txt) | 46 / 48 | 48 / 48 | 48 / 48 | 142 / 144 | **98.61%** |
 | [Entex - Adventure Vision](out/Entex%20-%20Adventure%20Vision.txt) | 4 / 4 | 4 / 4 | 4 / 4 | 12 / 12 | **100.00%** |
 | [Epoch - Super Cassette Vision](out/Epoch%20-%20Super%20Cassette%20Vision.txt) | 25 / 25 | 25 / 25 | 25 / 25 | 75 / 75 | **100.00%** |
@@ -89,7 +89,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Sony - PlayStation 3](out/Sony%20-%20PlayStation%203.txt) | 33 / 6429 | 0 / 6429 | 0 / 6429 | 33 / 19287 | **0.17%** |
 | [Sony - PlayStation Portable](out/Sony%20-%20PlayStation%20Portable.txt) | 296 / 9120 | 67 / 9120 | 69 / 9120 | 432 / 27360 | **1.58%** |
 | [Sony - PlayStation Vita](out/Sony%20-%20PlayStation%20Vita.txt) | 2 / 240 | 1 / 240 | 1 / 240 | 4 / 720 | **0.56%** |
-| [Sony - PlayStation](out/Sony%20-%20PlayStation.txt) | 998 / 16129 | 1064 / 16129 | 211 / 16129 | 2273 / 48387 | **4.70%** |
+| [Sony - PlayStation](out/Sony%20-%20PlayStation.txt) | 998 / 16128 | 1064 / 16128 | 211 / 16128 | 2273 / 48384 | **4.70%** |
 | [The 3DO Company - 3DO](out/The%203DO%20Company%20-%203DO.txt) | 124 / 428 | 126 / 428 | 124 / 428 | 374 / 1284 | **29.13%** |
 | [Thomson - MOTO](out/Thomson%20-%20MOTO.txt) | 305 / 509 | 450 / 509 | 339 / 509 | 1094 / 1527 | **71.64%** |
 | [Tiger - Game.com](out/Tiger%20-%20Game.com.txt) | 0 / 22 | 22 / 22 | 22 / 22 | 44 / 66 | **66.67%** |
@@ -98,7 +98,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [VTech - CreatiVision](out/VTech%20-%20CreatiVision.txt) | 20 / 20 | 20 / 20 | 20 / 20 | 60 / 60 | **100.00%** |
 | [VTech - V.Smile](out/VTech%20-%20V.Smile.txt) | 0 / 136 | 0 / 136 | 0 / 136 | 0 / 408 | **0.00%** |
 | [Watara - Supervision](out/Watara%20-%20Supervision.txt) | 63 / 67 | 63 / 67 | 63 / 67 | 189 / 201 | **94.03%** |
-| **Total** | **27174 / 127757** | **26361 / 127757** | **23717 / 127757** | **77252 / 383271** | **20.16%** |
+| **Total** | **27174 / 127756** | **26362 / 127756** | **23718 / 127756** | **77254 / 383268** | **20.16%** |
 
 ## Build
 
