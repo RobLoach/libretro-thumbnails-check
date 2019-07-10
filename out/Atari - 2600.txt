@@ -1,9 +1,9 @@
 Atari - 2600 Missing
 
 Boxarts    538/622  86.50%
-Snaps      538/622  86.50%
-Titles     538/622  86.50%
-Total    1614/1866  86.50%
+Snaps      537/622  86.33%
+Titles     535/622  86.01%
+Total    1610/1866  86.28%
 
 Name                                                                                   Boxart  Snap  Title
 3-D Genesis (USA) (Proto)                                                                 ✗      ✗     ✗
@@ -161,13 +161,13 @@ Donkey Kong Junior (USA)                                                        
 Double Dragon (USA)                                                                       -      -     -
 Double Dunk (USA)                                                                         -      -     -
 Dragon Defender (Europe)                                                                  -      -     -
-Dragonfire (USA)                                                                          -      -     -
+Dragonfire (USA)                                                                          -      -     ✗
 Dragonstomper (USA)                                                                       -      -     -
 Dragster (USA)                                                                            -      -     -
 Dukes of Hazzard (USA)                                                                    -      -     -
 Dumbo's Flying Circus (USA) (Proto)                                                       -      -     -
 Dune (USA) (Proto)                                                                        -      -     -
-E.T. - The Extra-Terrestrial (USA)                                                        -      -     -
+E.T. - The Extra-Terrestrial (USA)                                                        -      ✗     -
 Earth Dies Screaming, The (USA)                                                           -      -     -
 Eggomania (USA)                                                                           -      -     -
 Elevator Action (USA) (Proto)                                                             -      -     -
@@ -181,7 +181,7 @@ Entombed (USA)                                                                  
 Escape from the Mindmaster (USA)                                                          -      -     -
 Espial (USA)                                                                              -      -     -
 Exocet (Europe)                                                                           -      -     -
-Extra Terrestrials (USA)                                                                  -      -     -
+Extra Terrestrials (USA)                                                                  -      -     ✗
 Fantastic Voyage (USA)                                                                    -      -     -
 Farmyard Fun (USA)                                                                        -      -     -
 Fast Eddie (USA)                                                                          -      -     -
@@ -194,7 +194,7 @@ Fire Fighter (USA)                                                              
 Fire Fly (USA)                                                                            -      -     -
 Fire Spinner (USA)                                                                        -      -     -
 Fireball (USA)                                                                            -      -     -
-Fishing Derby (USA)                                                                       -      -     -
+Fishing Derby (USA)                                                                       -      -     ✗
 Flag Capture ~ Capture (USA)                                                              ✗      ✗     ✗
 Flash Gordon (USA)                                                                        -      -     -
 Football (USA)                                                                            -      -     -

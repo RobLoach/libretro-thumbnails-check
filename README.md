@@ -4,7 +4,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 
 | System | Boxarts | Snaps | Tites | Total | Percent |
 | :--- | :---: | :---: | :---: | :---: | ---: |
-| [Atari - 2600](out/Atari%20-%202600.txt) | 538 / 622 | 538 / 622 | 538 / 622 | 1614 / 1866 | **86.50%** |
+| [Atari - 2600](out/Atari%20-%202600.txt) | 538 / 622 | 537 / 622 | 535 / 622 | 1610 / 1866 | **86.28%** |
 | [Atari - 5200](out/Atari%20-%205200.txt) | 106 / 106 | 106 / 106 | 106 / 106 | 318 / 318 | **100.00%** |
 | [Atari - 7800](out/Atari%20-%207800.txt) | 114 / 130 | 114 / 130 | 114 / 130 | 342 / 390 | **87.69%** |
 | [Atari - Jaguar](out/Atari%20-%20Jaguar.txt) | 59 / 104 | 59 / 104 | 58 / 104 | 176 / 312 | **56.41%** |
@@ -16,15 +16,15 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Casio - Loopy](out/Casio%20-%20Loopy.txt) | 7 / 7 | 7 / 7 | 7 / 7 | 21 / 21 | **100.00%** |
 | [Casio - PV-1000](out/Casio%20-%20PV-1000.txt) | 5 / 5 | 5 / 5 | 5 / 5 | 15 / 15 | **100.00%** |
 | [Cave Story](out/Cave%20Story.txt) | 3 / 3 | 3 / 3 | 3 / 3 | 9 / 9 | **100.00%** |
-| [ChaiLove](out/ChaiLove.txt) | 1 / 6 | 1 / 6 | 1 / 6 | 3 / 18 | **16.67%** |
+| [ChaiLove](out/ChaiLove.txt) | 1 / 6 | 5 / 6 | 1 / 6 | 7 / 18 | **38.89%** |
 | [Coleco - ColecoVision](out/Coleco%20-%20ColecoVision.txt) | 96 / 193 | 96 / 193 | 96 / 193 | 288 / 579 | **49.74%** |
 | [Commodore - 64](out/Commodore%20-%2064.txt) | 9 / 304 | 265 / 304 | 271 / 304 | 545 / 912 | **59.76%** |
 | [Commodore - Amiga](out/Commodore%20-%20Amiga.txt) | 1574 / 3151 | 2033 / 3151 | 1187 / 3151 | 4794 / 9453 | **50.71%** |
 | [Commodore - Plus-4](out/Commodore%20-%20Plus-4.txt) | 0 / 10 | 6 / 10 | 6 / 10 | 12 / 30 | **40.00%** |
 | [Commodore - VIC-20](out/Commodore%20-%20VIC-20.txt) | 0 / 286 | 278 / 286 | 278 / 286 | 556 / 858 | **64.80%** |
 | [Dinothawr](out/Dinothawr.txt) | 1 / 1 | 1 / 1 | 1 / 1 | 3 / 3 | **100.00%** |
-| [DOOM](out/DOOM.txt) | 11 / 97 | 5 / 97 | 5 / 97 | 21 / 291 | **7.22%** |
-| [DOS](out/DOS.txt) | 9 / 13220 | 10 / 13220 | 10 / 13220 | 29 / 39660 | **0.07%** |
+| [DOOM](out/DOOM.txt) | 11 / 102 | 5 / 102 | 5 / 102 | 21 / 306 | **6.86%** |
+| [DOS](out/DOS.txt) | 9 / 13220 | 18 / 13220 | 18 / 13220 | 45 / 39660 | **0.11%** |
 | [Emerson - Arcadia 2001](out/Emerson%20-%20Arcadia%202001.txt) | 46 / 48 | 48 / 48 | 48 / 48 | 142 / 144 | **98.61%** |
 | [Entex - Adventure Vision](out/Entex%20-%20Adventure%20Vision.txt) | 4 / 4 | 4 / 4 | 4 / 4 | 12 / 12 | **100.00%** |
 | [Epoch - Super Cassette Vision](out/Epoch%20-%20Super%20Cassette%20Vision.txt) | 25 / 25 | 25 / 25 | 25 / 25 | 75 / 75 | **100.00%** |
@@ -72,15 +72,15 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [RPG Maker](out/RPG%20Maker.txt) | 1 / 2 | 1 / 2 | 1 / 2 | 3 / 6 | **50.00%** |
 | [ScummVM](out/ScummVM.txt) | 12 / 1140 | 85 / 1140 | 89 / 1140 | 186 / 3420 | **5.44%** |
 | [Sega - 32X](out/Sega%20-%2032X.txt) | 47 / 84 | 47 / 84 | 47 / 84 | 141 / 252 | **55.95%** |
-| [Sega - Dreamcast](out/Sega%20-%20Dreamcast.txt) | 643 / 1207 | 206 / 1207 | 222 / 1207 | 1071 / 3621 | **29.58%** |
+| [Sega - Dreamcast](out/Sega%20-%20Dreamcast.txt) | 655 / 1207 | 206 / 1207 | 222 / 1207 | 1083 / 3621 | **29.91%** |
 | [Sega - Game Gear](out/Sega%20-%20Game%20Gear.txt) | 286 / 511 | 371 / 511 | 371 / 511 | 1028 / 1533 | **67.06%** |
 | [Sega - Master System - Mark III](out/Sega%20-%20Master%20System%20-%20Mark%20III.txt) | 248 / 568 | 246 / 568 | 236 / 568 | 730 / 1704 | **42.84%** |
-| [Sega - Mega Drive - Genesis](out/Sega%20-%20Mega%20Drive%20-%20Genesis.txt) | 1394 / 2357 | 1445 / 2357 | 1444 / 2357 | 4283 / 7071 | **60.57%** |
+| [Sega - Mega Drive - Genesis](out/Sega%20-%20Mega%20Drive%20-%20Genesis.txt) | 1394 / 2357 | 1446 / 2357 | 1445 / 2357 | 4285 / 7071 | **60.60%** |
 | [Sega - Mega-CD - Sega CD](out/Sega%20-%20Mega-CD%20-%20Sega%20CD.txt) | 191 / 462 | 105 / 462 | 105 / 462 | 401 / 1386 | **28.93%** |
 | [Sega - PICO](out/Sega%20-%20PICO.txt) | 0 / 346 | 13 / 346 | 12 / 346 | 25 / 1038 | **2.41%** |
 | [Sega - Saturn](out/Sega%20-%20Saturn.txt) | 325 / 2028 | 269 / 2028 | 269 / 2028 | 863 / 6084 | **14.18%** |
 | [Sega - SG-1000](out/Sega%20-%20SG-1000.txt) | 85 / 207 | 185 / 207 | 185 / 207 | 455 / 621 | **73.27%** |
-| [Sinclair - ZX 81](out/Sinclair%20-%20ZX%2081.txt) | 400 / 420 | 419 / 420 | 14 / 420 | 833 / 1260 | **66.11%** |
+| [Sinclair - ZX 81](out/Sinclair%20-%20ZX%2081.txt) | 392 / 420 | 411 / 420 | 14 / 420 | 817 / 1260 | **64.84%** |
 | [Sinclair - ZX Spectrum](out/Sinclair%20-%20ZX%20Spectrum.txt) | 1490 / 2499 | 2417 / 2499 | 2045 / 2499 | 5952 / 7497 | **79.39%** |
 | [SNK - Neo Geo CD](out/SNK%20-%20Neo%20Geo%20CD.txt) | 63 / 76 | 62 / 76 | 65 / 76 | 190 / 228 | **83.33%** |
 | [SNK - Neo Geo Pocket Color](out/SNK%20-%20Neo%20Geo%20Pocket%20Color.txt) | 82 / 119 | 82 / 119 | 81 / 119 | 245 / 357 | **68.63%** |
@@ -89,16 +89,17 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Sony - PlayStation 3](out/Sony%20-%20PlayStation%203.txt) | 33 / 6429 | 0 / 6429 | 0 / 6429 | 33 / 19287 | **0.17%** |
 | [Sony - PlayStation Portable](out/Sony%20-%20PlayStation%20Portable.txt) | 296 / 9120 | 67 / 9120 | 69 / 9120 | 432 / 27360 | **1.58%** |
 | [Sony - PlayStation Vita](out/Sony%20-%20PlayStation%20Vita.txt) | 2 / 240 | 1 / 240 | 1 / 240 | 4 / 720 | **0.56%** |
-| [Sony - PlayStation](out/Sony%20-%20PlayStation.txt) | 998 / 16128 | 1064 / 16128 | 211 / 16128 | 2273 / 48384 | **4.70%** |
+| [Sony - PlayStation](out/Sony%20-%20PlayStation.txt) | 1013 / 16127 | 1064 / 16127 | 211 / 16127 | 2288 / 48381 | **4.73%** |
 | [The 3DO Company - 3DO](out/The%203DO%20Company%20-%203DO.txt) | 124 / 428 | 126 / 428 | 124 / 428 | 374 / 1284 | **29.13%** |
 | [Thomson - MOTO](out/Thomson%20-%20MOTO.txt) | 305 / 509 | 450 / 509 | 339 / 509 | 1094 / 1527 | **71.64%** |
+| [TIC-80](out/TIC-80.txt) | 0 / 231 | 0 / 231 | 231 / 231 | 231 / 693 | **33.33%** |
 | [Tiger - Game.com](out/Tiger%20-%20Game.com.txt) | 0 / 22 | 22 / 22 | 22 / 22 | 44 / 66 | **66.67%** |
 | [Tomb Raider](out/Tomb%20Raider.txt) | 10 / 11 | 9 / 11 | 10 / 11 | 29 / 33 | **87.88%** |
 | [Uzebox](out/Uzebox.txt) | 0 / 65 | 0 / 65 | 0 / 65 | 0 / 195 | **0.00%** |
 | [VTech - CreatiVision](out/VTech%20-%20CreatiVision.txt) | 20 / 20 | 20 / 20 | 20 / 20 | 60 / 60 | **100.00%** |
 | [VTech - V.Smile](out/VTech%20-%20V.Smile.txt) | 0 / 136 | 0 / 136 | 0 / 136 | 0 / 408 | **0.00%** |
 | [Watara - Supervision](out/Watara%20-%20Supervision.txt) | 63 / 67 | 63 / 67 | 63 / 67 | 189 / 201 | **94.03%** |
-| **Total** | **27174 / 127756** | **26362 / 127756** | **23718 / 127756** | **77254 / 383268** | **20.16%** |
+| **Total** | **27193 / 127991** | **26366 / 127991** | **23955 / 127991** | **77514 / 383973** | **20.19%** |
 
 ## Build
 
