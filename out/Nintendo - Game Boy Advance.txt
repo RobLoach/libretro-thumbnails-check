@@ -1,9 +1,9 @@
 Nintendo - Game Boy Advance Missing
 
-Boxarts  1794/3115  57.59%
-Snaps    2809/3115  90.18%
-Titles   2809/3115  90.18%
-Total    7412/9345  79.32%
+Boxarts  1794/3151  56.93%
+Snaps    2809/3151  89.15%
+Titles   2809/3151  89.15%
+Total    7412/9453  78.41%
 
 Name                                                                                                                                                   Boxart  Snap  Title
 007 - Everything or Nothing (Japan)                                                                                                                       ✗      -     -
@@ -121,6 +121,7 @@ Name                                                                            
 3 Games in One! - Super Breakout + Millipede + Lunar Lander (USA)                                                                                         -      -     -
 3 Games in One! - Yars' Revenge + Asteroids + Pong (Europe) (En,Fr,De,Es,It)                                                                              -      -     -
 3 Games in One! - Yars' Revenge + Asteroids + Pong (USA)                                                                                                  -      -     -
+4 Games on One Game Pak (Nickelodeon Movies) (USA)                                                                                                        ✗      ✗     ✗
 4 Games on One Game Pak (Nicktoons) (USA)                                                                                                                 ✗      -     -
 4 Games on One Game Pak (Racing) (USA) (En,Fr,De,Es,It)                                                                                                   ✗      -     -
 Ab durch die Hecke (Germany)                                                                                                                              ✗      -     -
@@ -196,6 +197,36 @@ American Tail, An - Fievel's Gold Rush (USA) (En,Es)                            
 Angel Collection - Mezase! Gakuen no Fashion Leader (Japan)                                                                                               ✗      -     -
 Angel Collection 2 - Pichimo ni Narou (Japan)                                                                                                             ✗      -     -
 Angelique (Japan)                                                                                                                                         ✗      -     -
+Animal Crossing - Balloon Fight (Japan) (En)                                                                                                              ✗      ✗     ✗
+Animal Crossing - Balloon Fight (USA, Europe)                                                                                                             ✗      ✗     ✗
+Animal Crossing - Baseball (Japan) (En)                                                                                                                   ✗      ✗     ✗
+Animal Crossing - Baseball (USA, Europe)                                                                                                                  ✗      ✗     ✗
+Animal Crossing - Clu Clu Land (Japan) (En)                                                                                                               ✗      ✗     ✗
+Animal Crossing - Clu Clu Land (USA, Europe)                                                                                                              ✗      ✗     ✗
+Animal Crossing - Donkey Kong (Japan) (En)                                                                                                                ✗      ✗     ✗
+Animal Crossing - Donkey Kong (USA, Europe)                                                                                                               ✗      ✗     ✗
+Animal Crossing - Donkey Kong 3 (Japan) (En)                                                                                                              ✗      ✗     ✗
+Animal Crossing - Donkey Kong 3 (USA, Europe)                                                                                                             ✗      ✗     ✗
+Animal Crossing - Donkey Kong Jr. (Japan) (En)                                                                                                            ✗      ✗     ✗
+Animal Crossing - Donkey Kong Jr. (USA, Europe)                                                                                                           ✗      ✗     ✗
+Animal Crossing - Donkey Kong Jr. Math (Japan) (En)                                                                                                       ✗      ✗     ✗
+Animal Crossing - Donkey Kong Jr. Math (USA, Europe)                                                                                                      ✗      ✗     ✗
+Animal Crossing - Excitebike (Japan) (En)                                                                                                                 ✗      ✗     ✗
+Animal Crossing - Excitebike (USA, Europe)                                                                                                                ✗      ✗     ✗
+Animal Crossing - Golf (Japan) (En)                                                                                                                       ✗      ✗     ✗
+Animal Crossing - Golf (USA, Europe)                                                                                                                      ✗      ✗     ✗
+Animal Crossing - Ice Climber (Japan) (En)                                                                                                                ✗      ✗     ✗
+Animal Crossing - Ice Climber (USA, Europe)                                                                                                               ✗      ✗     ✗
+Animal Crossing - Mario Bros. (Japan) (En)                                                                                                                ✗      ✗     ✗
+Animal Crossing - Mario Bros. (USA, Europe)                                                                                                               ✗      ✗     ✗
+Animal Crossing - Pinball (Japan) (En)                                                                                                                    ✗      ✗     ✗
+Animal Crossing - Pinball (USA, Europe)                                                                                                                   ✗      ✗     ✗
+Animal Crossing - Soccer (Japan) (En)                                                                                                                     ✗      ✗     ✗
+Animal Crossing - Soccer (USA, Europe)                                                                                                                    ✗      ✗     ✗
+Animal Crossing - Super Mario Bros. (Japan) (En)                                                                                                          ✗      ✗     ✗
+Animal Crossing - Super Mario Bros. (USA, Europe)                                                                                                         ✗      ✗     ✗
+Animal Crossing - Tennis (Japan) (En)                                                                                                                     ✗      ✗     ✗
+Animal Crossing - Tennis (USA, Europe)                                                                                                                    ✗      ✗     ✗
 Animal Mania - Dokidoki Aishou Check (Japan)                                                                                                              ✗      -     -
 Animal Snap - Rescue Them 2 by 2 (Europe)                                                                                                                 ✗      -     -
 Animal Snap - Rescue Them 2 by 2 (USA)                                                                                                                    -      -     -
@@ -413,6 +444,7 @@ Britney's Dance Beat (Europe) (En,De)                                           
 Britney's Dance Beat (Europe) (En,Fr)                                                                                                                     -      -     -
 Britney's Dance Beat (USA)                                                                                                                                -      -     -
 Broken Circle (Europe) (En,It) (Proto)                                                                                                                    ✗      -     -
+Broken Circle (Europe) (En,It) (Unl)                                                                                                                      ✗      ✗     ✗
 Broken Sword - The Shadow of the Templars (Europe) (En,Fr,De,Es,It)                                                                                       -      -     -
 Broken Sword - The Shadow of the Templars (USA) (En,Fr,De,Es,It)                                                                                          -      -     -
 Brother Bear (Europe)                                                                                                                                     ✗      -     -
@@ -603,7 +635,6 @@ Curious George (USA)                                                            
 Custom Robo GX (Japan)                                                                                                                                    ✗      -     -
 Cyberdrive Zoids - Kijuu no Senshi Hyuu (Japan)                                                                                                           ✗      -     -
 Dai-mahjong. (Japan)                                                                                                                                      ✗      -     -
-Daigassou! Band-Brothers - Request Selection (Japan) (Expansion Cartridge)                                                                                ✗      ✗     ✗
 Daisenryaku for Game Boy Advance (Japan)                                                                                                                  ✗      -     -
 Daisuki Teddy (Japan)                                                                                                                                     ✗      -     -
 Dan Doh!! Tobase Shouri no Smile Shot (Japan)                                                                                                             ✗      -     -
@@ -749,6 +780,7 @@ Doubutsu-jima no Chobigurumi 2 - Tama-chan Monogatari (Japan)                   
 Downforce (Europe) (En,Fr,De,Es,It)                                                                                                                       -      -     -
 Downtown - Nekketsu Monogatari EX (Japan)                                                                                                                 -      -     -
 Dr. Mario _ Panel de Pon (Japan)                                                                                                                          -      -     -
+Dr. Mario (USA) (Kiosk, GameCube)                                                                                                                         ✗      ✗     ✗
 Dr. Muto (Europe) (En,Fr,De,Es,It)                                                                                                                        -      -     -
 Dr. Seuss' The Cat in the Hat (USA)                                                                                                                       ✗      ✗     ✗
 Dr. Sudoku (Europe)                                                                                                                                       -      -     -
@@ -1975,7 +2007,9 @@ Nihon Pro Mahjong Renmei Kounin - Tetsuman Advance - Menkyo Kaiden Series (Japan
 Ninja Cop (Europe)                                                                                                                                        -      -     -
 Ninja Five-0 (USA)                                                                                                                                        -      -     -
 Nintendo MP3 Player (Europe) (En,Fr,De,Es,It)                                                                                                             ✗      -     -
-Nintendo Puzzle Collection Controller (USA) (GameCube)                                                                                                    ✗      ✗     ✗
+Nintendo Puzzle Collection - Dr. Mario (Japan) (En)                                                                                                       ✗      ✗     ✗
+Nintendo Puzzle Collection - Panel de Pon (Japan)                                                                                                         ✗      ✗     ✗
+Nintendo Puzzle Collection - Yoshi no Cookie (Japan)                                                                                                      ✗      ✗     ✗
 No No No Puzzle Chailien (Japan)                                                                                                                          ✗      -     -
 No Rules - Get Phat (USA, Europe) (En,Fr,De,Es,It,Nl)                                                                                                     -      -     -
 Nobunaga Ibun (Japan)                                                                                                                                     ✗      -     -
@@ -2972,6 +3006,7 @@ WarioWare, Inc. - Mega Microgame$! (USA)                                        
 WarioWare, Inc. - Mega Microgame$! (USA) (Beta)                                                                                                           -      -     -
 WarioWare, Inc. - Mega Microgame$! (USA) (Wii U Virtual Console)                                                                                          ✗      ✗     ✗
 WarioWare, Inc. - Minigame Mania (Europe) (En,Fr,De,Es,It)                                                                                                -      -     -
+WarioWare, Inc. - Trial version (USA) (Demo) (Kiosk, GameCube)                                                                                            ✗      ✗     ✗
 Weekend Miljonairs (Netherlands)                                                                                                                          ✗      -     -
 Wer Wird Millionaer (Germany)                                                                                                                             ✗      -     -
 Whac-A-Mole (USA)                                                                                                                                         -      -     -
@@ -3112,6 +3147,7 @@ Zoey 101 (USA)                                                                  
 Zoids Legacy (USA)                                                                                                                                        -      -     -
 Zoids Saga - Fuzors (Japan)                                                                                                                               ✗      ✗     ✗
 Zoids Saga (Japan)                                                                                                                                        ✗      -     -
+Zoids Saga (Japan) (Rev 1)                                                                                                                                ✗      ✗     ✗
 Zoids Saga II (Japan)                                                                                                                                     -      -     -
 Zoku Bokura no Taiyou - Taiyou Shounen Django (Japan)                                                                                                     -      -     -
 Zoku Bokura no Taiyou - Taiyou Shounen Django (Japan) (Rev 1)                                                                                             -      -     -

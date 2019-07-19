@@ -1,9 +1,9 @@
 Sega - Mega Drive - Genesis Missing
 
-Boxarts  1394/2357  59.14%
-Snaps    1446/2357  61.35%
-Titles   1445/2357  61.31%
-Total    4285/7071  60.60%
+Boxarts  1395/2361  59.09%
+Snaps    1447/2361  61.29%
+Titles   1446/2361  61.25%
+Total    4288/7083  60.54%
 
 Name                                                                                                                      Boxart  Snap  Title
 007 Shitou - The Duel (Japan)                                                                                                -      -     -
@@ -146,7 +146,7 @@ Bad Omen (Japan, Korea)                                                         
 Bahamut Senki (Japan)                                                                                                        -      -     -
 Ball Jacks (Japan, Europe)                                                                                                   -      -     -
 Ballz (USA) (Beta) (June, 1994)                                                                                              ✗      ✗     ✗
-Ballz 3D - Fighting at its Ballziest ~ Ballz 3D - The Battle of the Ballz (USA, Europe)                                      ✗      ✗     ✗
+Ballz 3D - Fighting at Its Ballziest ~ Ballz 3D - The Battle of the Ballz (USA, Europe)                                      -      -     -
 Ballz 3D - Fighting at Its Ballziest ~ Ballz 3D - The Battle of the Ballz (USA, Europe) (Rev A) (Beta) (September, 1994)     ✗      ✗     ✗
 Bao Xiao San Guo (Taiwan) (Alt 1) (Unl)                                                                                      ✗      ✗     ✗
 Bao Xiao San Guo (Taiwan) (Unl)                                                                                              ✗      ✗     ✗
@@ -461,7 +461,7 @@ Darius II (Japan)                                                               
 Dark Castle (USA, Europe)                                                                                                    -      -     -
 Darwin 4081 (Japan, Korea)                                                                                                   -      -     -
 Darwin 4081 (Japan, Korea) (Beta) (1990-02-21)                                                                               ✗      ✗     ✗
-Dashin' Desperadoes (Europe) (Prototype)                                                                                     ✗      ✗     ✗
+Dashin' Desperadoes (Europe) (Proto)                                                                                         ✗      ✗     ✗
 Dashin' Desperadoes (USA)                                                                                                    -      -     -
 Dashin' Desperadoes (USA) (Beta)                                                                                             -      -     -
 David Crane's Amazing Tennis (USA)                                                                                           -      -     -
@@ -907,6 +907,7 @@ Judge Dredd (World) (Beta)                                                      
 JuJu Densetsu (Japan) (En)                                                                                                   ✗      ✗     ✗
 Junction (Japan, USA)                                                                                                        -      -     -
 Jungle Book, The (Europe)                                                                                                    -      -     -
+Jungle Book, The (Europe) (Beta)                                                                                             ✗      ✗     ✗
 Jungle Book, The (USA)                                                                                                       -      -     -
 Jungle Strike - Uketsugareta Kyouki (Japan)                                                                                  -      -     -
 Jungle Strike (USA, Europe)                                                                                                  -      -     -
@@ -1295,6 +1296,7 @@ NHL All-Star Hockey 95 (USA) (Beta) (1994-12-01) (Alt 1)                        
 NHL Hockey (USA)                                                                                                             -      -     -
 NHLPA Hockey 93 (USA, Europe)                                                                                                -      -     -
 NHLPA Hockey 93 (USA, Europe) (Rev A)                                                                                        ✗      ✗     ✗
+NHLPA Hockey 93 (USA, Europe) (Rev A) (Beta)                                                                                 ✗      ✗     ✗
 Nigel Mansell's World Championship Racing (Europe)                                                                           -      -     -
 Nigel Mansell's World Championship Racing (USA)                                                                              -      -     -
 Nightmare Circus (Brazil)                                                                                                    -      -     -
@@ -1791,6 +1793,7 @@ Spider-Man X-Men - Arcade's Revenge (Europe)                                    
 Spider-Man X-Men - Arcade's Revenge (USA, Europe)                                                                            ✗      ✗     ✗
 Spiritual Warfare (USA) (Unl)                                                                                                -      -     -
 Spirou (Europe) (En,Fr,De,Es)                                                                                                -      -     -
+Spirou (Europe) (En,Fr,De,Es) (Beta)                                                                                         ✗      ✗     ✗
 Splatterhouse 2 (Europe)                                                                                                     -      -     -
 Splatterhouse 2 (USA)                                                                                                        -      -     -
 Splatterhouse 2 (USA) (1992-03-02) (Sega Channel)                                                                            ✗      ✗     ✗
@@ -1879,7 +1882,7 @@ Sub-Terrania (Asia) (En) (Beta) (1994-02-02)                                    
 Sub-Terrania (Europe)                                                                                                        -      -     -
 Sub-Terrania (Unknown) (Beta) (July, 1993)                                                                                   ✗      ✗     ✗
 Sub-Terrania (USA)                                                                                                           -      -     -
-Sub-Terrania (USA) (Beta) (October,1993)                                                                                     ✗      ✗     ✗
+Sub-Terrania (USA) (Beta) (October, 1993)                                                                                    ✗      ✗     ✗
 Summer Challenge (USA, Europe) (Unl)                                                                                         -      -     -
 Sunset Riders (Europe)                                                                                                       -      -     -
 Sunset Riders (USA)                                                                                                          -      -     -
@@ -2026,6 +2029,7 @@ Time Trax (USA) (Proto)                                                         
 Tinhead (USA) (Ballistic) (April, 1994)                                                                                      ✗      ✗     ✗
 Tinhead (USA) (Spectrum HoloByte) (October, 1995)                                                                            ✗      ✗     ✗
 Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv)                                                                                 ✗      ✗     ✗
+Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv) (Beta)                                                                          ✗      ✗     ✗
 Tiny Toon Adventures - Acme All-Stars (Europe)                                                                               -      -     -
 Tiny Toon Adventures - Acme All-Stars (USA, Korea)                                                                           -      -     -
 Tiny Toon Adventures - Buster's Hidden Treasure (Europe)                                                                     -      -     -

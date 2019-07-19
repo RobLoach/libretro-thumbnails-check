@@ -232,7 +232,7 @@ Named_Boxarts/Galactic Conqueror.png
 Named_Boxarts/Galdregons Domain.png
 Named_Boxarts/Gambler, The.png
 Named_Boxarts/Garfield - Big, Fat, Hairy Deal.png
-Named_Boxarts/Garfield - WinterÂ´s Tail.png
+Named_Boxarts/Garfield - Winter's Tail.png
 Named_Boxarts/Gauntlet II.png
 Named_Boxarts/Gauntlet III.png
 Named_Boxarts/Gazza II.png
@@ -833,6 +833,7 @@ Named_Snaps/Barbarian.png
 Named_Snaps/Bard's Tale The Tales Of The Unknown.png
 Named_Snaps/Bargon Attack (Fr).png
 Named_Snaps/Bargon Attack.png
+Named_Snaps/Barsenfieber.png
 Named_Snaps/Basket Manager The.png
 Named_Snaps/Bat17.png
 Named_Snaps/Batman The Batwing.png
@@ -918,10 +919,10 @@ Named_Snaps/Border Warfare.png
 Named_Snaps/Borderzone.png
 Named_Snaps/Borodino.png
 Named_Snaps/Borrowed Time.png
-Named_Snaps/Bosse des Maths 3Ãžme La.png
-Named_Snaps/Bosse des Maths 4Ãžme La.png
-Named_Snaps/Bosse des Maths 5Ãžme La.png
-Named_Snaps/Bosse des Maths 6Ãžme La.png
+Named_Snaps/Bosse des Maths 3 La.png
+Named_Snaps/Bosse des Maths 4 La.png
+Named_Snaps/Bosse des Maths 5 La.png
+Named_Snaps/Bosse des Maths 6 La.png
 Named_Snaps/Boston Bomb Club.png
 Named_Snaps/Botics.png
 Named_Snaps/Boulder Dash Construction Kit.png
@@ -954,7 +955,6 @@ Named_Snaps/Bundesliga Manager.png
 Named_Snaps/Bunny Bricks.png
 Named_Snaps/Bureaucracy.png
 Named_Snaps/Butcher Hill.png
-Named_Snaps/BÃ·rsenfieber.png
 Named_Snaps/CJ in the USA.png
 Named_Snaps/CJS Elephants Antics.png
 Named_Snaps/Cabal.png
@@ -1090,7 +1090,7 @@ Named_Snaps/Continental Circus.png
 Named_Snaps/Cool Croc Twins.png
 Named_Snaps/Cool World.png
 Named_Snaps/Cops and Robbers Chess.png
-Named_Snaps/Corona MÃŸgica La.png
+Named_Snaps/Corona Magica La.png
 Named_Snaps/Corporation.png
 Named_Snaps/Corrupt.png
 Named_Snaps/Corruption.png
@@ -1907,7 +1907,7 @@ Named_Snaps/Marble Madness.png
 Named_Snaps/Marias Christmas Box.png
 Named_Snaps/Marque Jaune La.png
 Named_Snaps/Masque +.png
-Named_Snaps/Massacre Dans La 520Ãš Dimension.png
+Named_Snaps/Massacre Dans La 520e Dimension.png
 Named_Snaps/Masterblazer.png
 Named_Snaps/Mastermind.png
 Named_Snaps/Masters of Chaos.png
@@ -3162,6 +3162,7 @@ Named_Titles/Azarian.PNG
 Named_Titles/BAT II.png
 Named_Titles/BAT.PNG
 Named_Titles/BMX Simulator.png
+Named_Titles/Ba-rsenfieber.png
 Named_Titles/Baal.PNG
 Named_Titles/Baby Jo in Going Home.png
 Named_Titles/Back to the Future II.png
@@ -3285,10 +3286,10 @@ Named_Titles/Border Warfare.png
 Named_Titles/Borderzone.PNG
 Named_Titles/Borodino.PNG
 Named_Titles/Borrowed Time.png
-Named_Titles/Bosse des Maths 3Ãžme La.png
-Named_Titles/Bosse des Maths 4Ãžme La.png
-Named_Titles/Bosse des Maths 5Ãžme La.png
-Named_Titles/Bosse des Maths 6Ãžme La.png
+Named_Titles/Bosse des Maths 3 La.png
+Named_Titles/Bosse des Maths 4 La.png
+Named_Titles/Bosse des Maths 5 La.png
+Named_Titles/Bosse des Maths 6 La.png
 Named_Titles/Boston Bomb Club.png
 Named_Titles/Botics.PNG
 Named_Titles/Boulder Dash Construction Kit.png
@@ -3326,7 +3327,6 @@ Named_Titles/Bunny Bricks.png
 Named_Titles/Bureaucracy.PNG
 Named_Titles/Burger Man.png
 Named_Titles/Butcher Hill.png
-Named_Titles/BÃ·rsenfieber.PNG
 Named_Titles/CJ in the USA.png
 Named_Titles/CJS Elephants Antics.png
 Named_Titles/Cabal.PNG
@@ -3441,17 +3441,17 @@ Named_Titles/Companion I Opening Moves.png
 Named_Titles/Computer Scrabble DeLuxe.png
 Named_Titles/Computer Simulated Microscope.png
 Named_Titles/Conflict Europe.png
-Named_Titles/Confusion.PNG
+Named_Titles/Confusion.png
 Named_Titles/Conqueror.PNG
 Named_Titles/Conquests Of Camelot.png
 Named_Titles/Continental Circus.png
 Named_Titles/Cool Croc Twins.png
 Named_Titles/Cool World.png
 Named_Titles/Cops and Robbers Chess.png
-Named_Titles/Corona MÃŸgica La.png
-Named_Titles/Corporation.PNG
-Named_Titles/Corrupt.PNG
-Named_Titles/Corruption.PNG
+Named_Titles/Corona Magica La.png
+Named_Titles/Corporation.png
+Named_Titles/Corrupt.png
+Named_Titles/Corruption.png
 Named_Titles/Cortizone.PNG
 Named_Titles/Cosmic Pirate.png
 Named_Titles/Cougar Force.png
@@ -4192,7 +4192,7 @@ Named_Titles/Manoir Du Comte Frozarda Le.png
 Named_Titles/Marble Madness.png
 Named_Titles/Marias Christmas Box.png
 Named_Titles/Marque Jaune La.png
-Named_Titles/Massacre Dans La 520Ãš Dimension.png
+Named_Titles/Massacre Dans La 520e Dimension.png
 Named_Titles/Masterblazer.PNG
 Named_Titles/Mastermind.PNG
 Named_Titles/Masters of Chaos.PNG

@@ -1,9 +1,9 @@
 Nintendo - Game Boy Color Missing
 
 Boxarts   779/1466  53.14%
-Snaps    1205/1466  82.20%
-Titles   1205/1466  82.20%
-Total    3189/4398  72.51%
+Snaps    1194/1466  81.45%
+Titles   1194/1466  81.45%
+Total    3167/4398  72.01%
 
 Name                                                                                                             Boxart  Snap  Title
 007 - The World Is Not Enough (USA, Europe)                                                                         -      -     -
@@ -68,7 +68,7 @@ Atlantis - The Lost Empire (Europe) (En,Es,It)                                  
 Atlantis - The Lost Empire (Europe) (Fr,De,Nl)                                                                      -      -     -
 Atlantis - The Lost Empire (USA, Europe)                                                                            -      -     -
 Atsumete Asobu Kuma no Pooh-san - Mori no Takaramono (Japan)                                                        -      -     -
-ATV Racing _ Karate Joe (Europe) (Alternate) (Unl)                                                                  ✗      -     -
+ATV Racing _ Karate Joe (Europe) (Alt) (Unl)                                                                        ✗      ✗     ✗
 ATV Racing _ Karate Joe (Europe) (Unl)                                                                              ✗      -     -
 ATV Racing (Europe) (Unl)                                                                                           ✗      -     -
 Austin Powers - Oh, Behave! (Europe) (En,Fr,De,Es,It)                                                               -      -     -
@@ -93,7 +93,7 @@ Bakusou Dekotora Densetsu GB Special - Otoko Dokyou no Tenka Touitsu (Japan)    
 Bakusou Senki Metal Walker GB - Koutetsu no Yuujou (Japan) (GB Compatible)                                          -      -     -
 Bakuten Shoot Beyblade (Japan)                                                                                      ✗      -     -
 Ballistic (USA) (GB Compatible)                                                                                     -      -     -
-Balloon Fight GB (Japan) (NP, SGB Enhanced) (GB Compatible)                                                         ✗      -     -
+Balloon Fight GB (Japan) (SGB Enhanced, GB Compatible) (NP)                                                         ✗      ✗     ✗
 Barbie - Aventura Submarina (Spain) (GB Compatible)                                                                 -      -     -
 Barbie - Avventure nell'Oceano (Italy) (GB Compatible)                                                              -      -     -
 Barbie - Chasse au Tresor Sous-Marine (France) (GB Compatible)                                                      -      -     -
@@ -119,7 +119,7 @@ Battleship (USA, Europe) (GB Compatible)                                        
 BattleTanx (Europe) (En,Fr,De)                                                                                      -      -     -
 BattleTanx (USA)                                                                                                    -      -     -
 Beach'n Ball (Europe) (En,Fr,De,Es,It)                                                                              -      -     -
-Beast Fighter (Taiwan) (En) (1B-001, Sachen) (Unl)                                                                  ✗      ✗     ✗
+Beast Fighter (Taiwan) (En) (Sachen) (Unl)                                                                          ✗      ✗     ✗
 Beatmania GB - Gotcha Mix 2 (Japan)                                                                                 -      -     -
 Beatmania GB (Japan) (SGB Enhanced) (GB Compatible)                                                                 -      -     -
 Beatmania GB 2 - Gotcha Mix (Japan) (SGB Enhanced) (GB Compatible)                                                  ✗      ✗     ✗
@@ -367,7 +367,7 @@ F.A. Premier League Stars 2001, The (Europe)                                    
 F1 Championship Season 2000 (Brazil) (En,Fr,De,Es,It)                                                               ✗      ✗     ✗
 F1 Championship Season 2000 (Europe) (En,Fr,De,Es,It)                                                               ✗      -     -
 F1 Racing Championship (Europe) (En,Fr,De,Es,It)                                                                    ✗      -     -
-F1 Racing Championship (Europe) (En,Fr,De,Es,It) (Beta) (February, 2000)                                            ✗      ✗     ✗
+F1 Racing Championship (Europe) (En,Fr,De,Es,It) (Beta) (2000-02)                                                   ✗      ✗     ✗
 F1 World Grand Prix II for Game Boy Color (Europe) (En,Fr,De,Es)                                                    -      -     -
 F1 World Grand Prix II for Game Boy Color (Japan) (En,Ja)                                                           -      -     -
 F1 World Grand Prix II for Game Boy Color (USA) (En,Fr,De,Es)                                                       -      -     -
@@ -382,7 +382,7 @@ Flintstones, The - Burgertime in Bedrock (Europe) (En,Fr,De,Es,It)              
 Flintstones, The - Burgertime in Bedrock (Europe) (En,Fr,De,Es,It) (Beta)                                           -      ✗     ✗
 Flintstones, The - Burgertime in Bedrock (USA)                                                                      -      -     -
 Flipper _ Lopaka (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)                                                           ✗      -     -
-Floracy (Europe) (Proto) (10.10.2000)                                                                               ✗      ✗     ✗
+Floracy (Europe) (Proto) (2000-10-10)                                                                               ✗      ✗     ✗
 Force 21 (USA) (En,Fr,De)                                                                                           -      -     -
 Formula One 2000 (USA)                                                                                              -      -     -
 Fort Boyard (Europe) (En,Fr,De,Es,It,Nl,Pt)                                                                         ✗      -     -
@@ -423,7 +423,7 @@ Ganbare Goemon - Tengutou no Gyakushuu (Japan) (GB Compatible)                  
 Ganbare! Nippon! Olympic 2000 (Japan)                                                                               -      -     -
 GB Harobots (Japan)                                                                                                 ✗      -     -
 GB Karan Koron Gakuen - Hanafuda Mahjong (Japan)                                                                    ✗      ✗     ✗
-GB Memory Multi Menu (Japan) (NP, SGB Enhanced) (GB Compatible)                                                     ✗      -     -
+GB Memory Multi Menu (Japan) (SGB Enhanced, GB Compatible) (NP)                                                     ✗      ✗     ✗
 Geheimnis der Happy Hippo-Insel, Das (Germany)                                                                      ✗      -     -
 Gekido (Europe) (Proto)                                                                                             ✗      ✗     ✗
 Gekisou Dangun Racer - Onsoku Buster Dangun Dan (Japan)                                                             ✗      -     -
@@ -557,11 +557,11 @@ Janosch - Das grosse Panama-Spiel (Germany)                                     
 Jay und die Spielzeugdiebe (Germany)                                                                                ✗      -     -
 Jeff Gordon XS Racing (USA) (GB Compatible)                                                                         -      -     -
 Jeremy McGrath Supercross 2000 (USA, Europe)                                                                        -      -     -
-Jet de Go! - Let's go by Airliner (Japan)                                                                           ✗      ✗     ✗
+Jet de Go! - Let's Go by Airliner (Japan)                                                                           ✗      ✗     ✗
 Jim Henson's Bear in the Big Blue House (Europe) (En,Fr,De,Es,It,Nl)                                                ✗      ✗     ✗
 Jim Henson's Bear in the Big Blue House (USA) (En,Fr,De,Es,It,Nl)                                                   ✗      ✗     ✗
-Jim Henson's Muppets (Europe) (En,Fr,De,Es,It,Nl,Sv) (AP9P) (GB Compatible)                                         ✗      ✗     ✗
-Jim Henson's Muppets (Europe) (En,Fr,De,Es,It,Nl,Sv) (AX9P)                                                         ✗      ✗     ✗
+Jim Henson's Muppets (Europe) (En,Fr,De,Es,It,Nl,Sv)                                                                ✗      ✗     ✗
+Jim Henson's Muppets (Europe) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)                                                ✗      ✗     ✗
 Jim Henson's Muppets (USA)                                                                                          ✗      ✗     ✗
 Jimmy White's Cueball (Europe)                                                                                      ✗      -     -
 Jinsei Game - Tomodachi Takusan Tsukurou yo! (Japan) (SGB Enhanced) (GB Compatible)                                 ✗      -     -
@@ -573,8 +573,8 @@ Joryuu Janshi ni Chousen GB - Watashi-tachi ni Chousen Shitene! (Japan) (SGB Enh
 JumpStart Dino Adventure - Field Trip (USA)                                                                         -      -     -
 Jungle Book, The - Mowgli's Wild Adventure (Europe) (En,Fr,De,Es,It)                                                -      -     -
 Jungle Book, The - Mowgli's Wild Adventure (USA) (En,Fr,De,Es,It)                                                   -      -     -
-Jurassic Boy 2 (World) (Rev 1) (Sachen) (No Copyright) (Unl)                                                        ✗      ✗     ✗
-Jurassic Boy II + Thunder Blast Man (World) (1B-002, 1B-003, Sachen) (Unl)                                          ✗      ✗     ✗
+Jurassic Boy 2 (World) (Rev 1) (Sachen) (Unl)                                                                       ✗      ✗     ✗
+Jurassic Boy 2 (World) (Sachen) (Unl)                                                                               ✗      ✗     ✗
 Juukou Senki Bullet Battlers (Japan) (SGB Enhanced) (GB Compatible)                                                 ✗      -     -
 K.O. - The Pro Boxing (Japan)                                                                                       ✗      -     -
 Kaept'n Blaubaer - Die verrueckte Schatzsuche (Germany)                                                             ✗      -     -
@@ -587,7 +587,7 @@ Kanji Boy 2 (Japan) (SGB Enhanced) (GB Compatible)                              
 Kanji Boy 3 (Japan)                                                                                                 ✗      -     -
 Kanji de Puzzle (Japan) (GB Compatible)                                                                             ✗      -     -
 Kanzume Monsters Parfait (Japan) (SGB Enhanced) (GB Compatible)                                                     ✗      -     -
-Karamuchou wa Oosawagi! - Okawari! (Japan) (NP, SGB Enhanced) (GB Compatible)                                       ✗      -     -
+Karamuchou wa Oosawagi! - Okawari! (Japan) (SGB Enhanced, GB Compatible) (NP)                                       ✗      ✗     ✗
 Karamuchou wa Oosawagi! - Polinkies to Okashina Nakama-tachi (Japan) (SGB Enhanced) (GB Compatible)                 ✗      -     -
 Karate Joe (Europe) (Unl)                                                                                           ✗      -     -
 Kaseki Sousei Reborn II - Monster Digger (Japan) (SGB Enhanced) (GB Compatible)                                     ✗      -     -
@@ -619,7 +619,7 @@ Klustar (Europe) (En,Fr,De,Es,It) (GB Compatible)                               
 Klustar (USA) (GB Compatible)                                                                                       -      -     -
 Knockout Kings (USA, Europe)                                                                                        -      -     -
 Koenig der Loewen, Der - Simbas grosses Abenteuer (Germany)                                                         -      -     -
-Koguru Guruguru - Guruguru to Nakayoshi (Japan) (NP, SGB Enhanced) (GB Compatible)                                  ✗      -     -
+Koguru Guruguru - Guruguru to Nakayoshi (Japan) (SGB Enhanced, GB Compatible) (NP)                                  ✗      ✗     ✗
 Konami GB Collection Vol.1 (Europe) (GB Compatible)                                                                 -      -     -
 Konami GB Collection Vol.2 (Europe) (GB Compatible)                                                                 -      -     -
 Konami GB Collection Vol.3 (Europe) (GB Compatible)                                                                 -      -     -
@@ -684,18 +684,18 @@ Looney Tunes Collector - Martian Quest! (Japan)                                 
 Looney Tunes Collector - Martian Revenge! (Europe) (En,Fr,De,Es,It,Nl)                                              -      -     -
 Looney Tunes Racing (Europe) (En,Fr,De,Es,It,Nl)                                                                    -      -     -
 Looney Tunes Racing (USA) (En,Fr,De,Es,It,Nl)                                                                       -      -     -
-Loppi Puzzle Magazine - Hirameku Puzzle Dai-2-gou (Japan) (NP, SGB Enhanced) (GB Compatible)                        ✗      -     -
-Loppi Puzzle Magazine - Hirameku Puzzle Dai-2-gou (Japan) (Rev 1) (NP, SGB Enhanced) (GB Compatible)                ✗      ✗     ✗
-Loppi Puzzle Magazine - Hirameku Puzzle Dai-3-gou (Japan) (NP, SGB Enhanced) (GB Compatible)                        ✗      -     -
-Loppi Puzzle Magazine - Hirameku Puzzle Dai-3-gou (Japan) (Rev 1) (NP, SGB Enhanced) (GB Compatible)                ✗      ✗     ✗
-Loppi Puzzle Magazine - Hirameku Puzzle Soukangou (Japan) (NP, SGB Enhanced) (GB Compatible)                        ✗      -     -
-Loppi Puzzle Magazine - Hirameku Puzzle Soukangou (Japan) (Rev 1) (NP, SGB Enhanced) (GB Compatible)                ✗      ✗     ✗
-Loppi Puzzle Magazine - Kangaeru Puzzle Dai-2-gou (Japan) (NP, SGB Enhanced) (GB Compatible)                        ✗      -     -
-Loppi Puzzle Magazine - Kangaeru Puzzle Dai-2-gou (Japan) (Rev 1) (NP, SGB Enhanced) (GB Compatible)                ✗      ✗     ✗
-Loppi Puzzle Magazine - Kangaeru Puzzle Dai-3-gou (Japan) (NP, SGB Enhanced) (GB Compatible)                        ✗      -     -
-Loppi Puzzle Magazine - Kangaeru Puzzle Dai-3-gou (Japan) (Rev 1) (NP, SGB Enhanced) (GB Compatible)                ✗      ✗     ✗
-Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou (Japan) (NP, SGB Enhanced) (GB Compatible)                        ✗      -     -
-Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou (Japan) (Rev 1) (NP, SGB Enhanced) (GB Compatible)                ✗      ✗     ✗
+Loppi Puzzle Magazine - Hirameku Puzzle Dai-2-gou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)                ✗      ✗     ✗
+Loppi Puzzle Magazine - Hirameku Puzzle Dai-2-gou (Japan) (SGB Enhanced, GB Compatible) (NP)                        ✗      ✗     ✗
+Loppi Puzzle Magazine - Hirameku Puzzle Dai-3-gou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)                ✗      ✗     ✗
+Loppi Puzzle Magazine - Hirameku Puzzle Dai-3-gou (Japan) (SGB Enhanced, GB Compatible) (NP)                        ✗      ✗     ✗
+Loppi Puzzle Magazine - Hirameku Puzzle Soukangou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)                ✗      ✗     ✗
+Loppi Puzzle Magazine - Hirameku Puzzle Soukangou (Japan) (SGB Enhanced, GB Compatible) (NP)                        ✗      ✗     ✗
+Loppi Puzzle Magazine - Kangaeru Puzzle Dai-2-gou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)                ✗      ✗     ✗
+Loppi Puzzle Magazine - Kangaeru Puzzle Dai-2-gou (Japan) (SGB Enhanced, GB Compatible) (NP)                        ✗      ✗     ✗
+Loppi Puzzle Magazine - Kangaeru Puzzle Dai-3-gou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)                ✗      ✗     ✗
+Loppi Puzzle Magazine - Kangaeru Puzzle Dai-3-gou (Japan) (SGB Enhanced, GB Compatible) (NP)                        ✗      ✗     ✗
+Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)                ✗      ✗     ✗
+Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou (Japan) (SGB Enhanced, GB Compatible) (NP)                        ✗      ✗     ✗
 Love Hina Party (Japan)                                                                                             ✗      -     -
 Love Hina Pocket (Japan)                                                                                            ✗      -     -
 Love Hina Pocket (Japan) (Rev 1)                                                                                    ✗      ✗     ✗
@@ -1295,7 +1295,7 @@ Tetris DX (World) (SGB Enhanced) (GB Compatible)                                
 Tezhong Budui 2 - Jidi (China) (Li Cheng) (Unl)                                                                     ✗      ✗     ✗
 TG Rally 2 (Europe)                                                                                                 -      -     -
 Three Lions (Europe) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)                                                         -      -     -
-Thunder Blast Man (Europe) (1B-003, Sachen) (Unl)                                                                   ✗      ✗     ✗
+Thunder Blast Man (Europe) (Sachen) (Unl)                                                                           ✗      ✗     ✗
 Thunderbirds (Europe)                                                                                               -      -     -
 Thunderbirds (Europe) (En,Fr,De,Es,It)                                                                              -      -     -
 Tiger Woods PGA Tour 2000 (USA, Europe) (GB Compatible)                                                             -      -     -

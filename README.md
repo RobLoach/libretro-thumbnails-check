@@ -4,7 +4,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 
 | System | Boxarts | Snaps | Tites | Total | Percent |
 | :--- | :---: | :---: | :---: | :---: | ---: |
-| [Atari - 2600](out/Atari%20-%202600.txt) | 538 / 622 | 537 / 622 | 535 / 622 | 1610 / 1866 | **86.28%** |
+| [Atari - 2600](out/Atari%20-%202600.txt) | 516 / 702 | 515 / 702 | 513 / 702 | 1544 / 2106 | **73.31%** |
 | [Atari - 5200](out/Atari%20-%205200.txt) | 106 / 106 | 106 / 106 | 106 / 106 | 318 / 318 | **100.00%** |
 | [Atari - 7800](out/Atari%20-%207800.txt) | 114 / 130 | 114 / 130 | 114 / 130 | 342 / 390 | **87.69%** |
 | [Atari - Jaguar](out/Atari%20-%20Jaguar.txt) | 59 / 104 | 59 / 104 | 58 / 104 | 176 / 312 | **56.41%** |
@@ -23,7 +23,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Commodore - Plus-4](out/Commodore%20-%20Plus-4.txt) | 0 / 10 | 6 / 10 | 6 / 10 | 12 / 30 | **40.00%** |
 | [Commodore - VIC-20](out/Commodore%20-%20VIC-20.txt) | 0 / 286 | 278 / 286 | 278 / 286 | 556 / 858 | **64.80%** |
 | [Dinothawr](out/Dinothawr.txt) | 1 / 1 | 1 / 1 | 1 / 1 | 3 / 3 | **100.00%** |
-| [DOOM](out/DOOM.txt) | 11 / 102 | 5 / 102 | 5 / 102 | 21 / 306 | **6.86%** |
+| [DOOM](out/DOOM.txt) | 14 / 102 | 12 / 102 | 13 / 102 | 39 / 306 | **12.75%** |
 | [DOS](out/DOS.txt) | 9 / 13220 | 18 / 13220 | 18 / 13220 | 45 / 39660 | **0.11%** |
 | [Emerson - Arcadia 2001](out/Emerson%20-%20Arcadia%202001.txt) | 46 / 48 | 48 / 48 | 48 / 48 | 142 / 144 | **98.61%** |
 | [Entex - Adventure Vision](out/Entex%20-%20Adventure%20Vision.txt) | 4 / 4 | 4 / 4 | 4 / 4 | 12 / 12 | **100.00%** |
@@ -47,35 +47,35 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [NEC - PC Engine CD - TurboGrafx-CD](out/NEC%20-%20PC%20Engine%20CD%20-%20TurboGrafx-CD.txt) | 31 / 183 | 19 / 183 | 19 / 183 | 69 / 549 | **12.57%** |
 | [NEC - PC Engine SuperGrafx](out/NEC%20-%20PC%20Engine%20SuperGrafx.txt) | 5 / 5 | 5 / 5 | 5 / 5 | 15 / 15 | **100.00%** |
 | [NEC - PC-FX](out/NEC%20-%20PC-FX.txt) | 15 / 51 | 14 / 51 | 14 / 51 | 43 / 153 | **28.10%** |
-| [Nintendo - e-Reader](out/Nintendo%20-%20e-Reader.txt) | 0 / 3193 | 0 / 3193 | 0 / 3193 | 0 / 9579 | **0.00%** |
-| [Nintendo - Family Computer Disk System](out/Nintendo%20-%20Family%20Computer%20Disk%20System.txt) | 265 / 320 | 305 / 320 | 305 / 320 | 875 / 960 | **91.15%** |
-| [Nintendo - Game Boy Advance](out/Nintendo%20-%20Game%20Boy%20Advance.txt) | 1794 / 3115 | 2809 / 3115 | 2809 / 3115 | 7412 / 9345 | **79.32%** |
-| [Nintendo - Game Boy Color](out/Nintendo%20-%20Game%20Boy%20Color.txt) | 779 / 1466 | 1205 / 1466 | 1205 / 1466 | 3189 / 4398 | **72.51%** |
-| [Nintendo - Game Boy](out/Nintendo%20-%20Game%20Boy.txt) | 954 / 1634 | 1413 / 1634 | 1413 / 1634 | 3780 / 4902 | **77.11%** |
-| [Nintendo - GameCube](out/Nintendo%20-%20GameCube.txt) | 123 / 2889 | 1 / 2889 | 3 / 2889 | 127 / 8667 | **1.47%** |
-| [Nintendo - Nintendo 3DS](out/Nintendo%20-%20Nintendo%203DS.txt) | 22 / 4363 | 1 / 4363 | 1 / 4363 | 24 / 13089 | **0.18%** |
-| [Nintendo - Nintendo 64](out/Nintendo%20-%20Nintendo%2064.txt) | 779 / 1023 | 803 / 1023 | 803 / 1023 | 2385 / 3069 | **77.71%** |
-| [Nintendo - Nintendo 64DD](out/Nintendo%20-%20Nintendo%2064DD.txt) | 6 / 15 | 3 / 15 | 3 / 15 | 12 / 45 | **26.67%** |
-| [Nintendo - Nintendo DS](out/Nintendo%20-%20Nintendo%20DS.txt) | 4046 / 7120 | 11 / 7120 | 18 / 7120 | 4075 / 21360 | **19.08%** |
+| [Nintendo - e-Reader](out/Nintendo%20-%20e-Reader.txt) | 0 / 3196 | 0 / 3196 | 0 / 3196 | 0 / 9588 | **0.00%** |
+| [Nintendo - Family Computer Disk System](out/Nintendo%20-%20Family%20Computer%20Disk%20System.txt) | 266 / 322 | 306 / 322 | 306 / 322 | 878 / 966 | **90.89%** |
+| [Nintendo - Game Boy Advance](out/Nintendo%20-%20Game%20Boy%20Advance.txt) | 1794 / 3151 | 2809 / 3151 | 2809 / 3151 | 7412 / 9453 | **78.41%** |
+| [Nintendo - Game Boy Color](out/Nintendo%20-%20Game%20Boy%20Color.txt) | 779 / 1466 | 1194 / 1466 | 1194 / 1466 | 3167 / 4398 | **72.01%** |
+| [Nintendo - Game Boy](out/Nintendo%20-%20Game%20Boy.txt) | 950 / 1641 | 1408 / 1641 | 1408 / 1641 | 3766 / 4923 | **76.50%** |
+| [Nintendo - GameCube](out/Nintendo%20-%20GameCube.txt) | 120 / 2889 | 1 / 2889 | 3 / 2889 | 124 / 8667 | **1.43%** |
+| [Nintendo - Nintendo 3DS](out/Nintendo%20-%20Nintendo%203DS.txt) | 22 / 4371 | 1 / 4371 | 1 / 4371 | 24 / 13113 | **0.18%** |
+| [Nintendo - Nintendo 64](out/Nintendo%20-%20Nintendo%2064.txt) | 902 / 1025 | 936 / 1025 | 936 / 1025 | 2774 / 3075 | **90.21%** |
+| [Nintendo - Nintendo 64DD](out/Nintendo%20-%20Nintendo%2064DD.txt) | 7 / 15 | 3 / 15 | 3 / 15 | 13 / 45 | **28.89%** |
+| [Nintendo - Nintendo DS](out/Nintendo%20-%20Nintendo%20DS.txt) | 4017 / 7142 | 11 / 7142 | 18 / 7142 | 4046 / 21426 | **18.88%** |
 | [Nintendo - Nintendo DSi](out/Nintendo%20-%20Nintendo%20DSi.txt) | 7 / 13 | 2 / 13 | 1 / 13 | 10 / 39 | **25.64%** |
-| [Nintendo - Nintendo Entertainment System](out/Nintendo%20-%20Nintendo%20Entertainment%20System.txt) | 1997 / 3248 | 2721 / 3248 | 2716 / 3248 | 7434 / 9744 | **76.29%** |
+| [Nintendo - Nintendo Entertainment System](out/Nintendo%20-%20Nintendo%20Entertainment%20System.txt) | 1997 / 3285 | 2721 / 3285 | 2716 / 3285 | 7434 / 9855 | **75.43%** |
 | [Nintendo - Pokemon Mini](out/Nintendo%20-%20Pokemon%20Mini.txt) | 44 / 44 | 43 / 44 | 43 / 44 | 130 / 132 | **98.48%** |
-| [Nintendo - Satellaview](out/Nintendo%20-%20Satellaview.txt) | 0 / 253 | 91 / 253 | 91 / 253 | 182 / 759 | **23.98%** |
+| [Nintendo - Satellaview](out/Nintendo%20-%20Satellaview.txt) | 0 / 255 | 92 / 255 | 92 / 255 | 184 / 765 | **24.05%** |
 | [Nintendo - Sufami Turbo](out/Nintendo%20-%20Sufami%20Turbo.txt) | 0 / 13 | 13 / 13 | 13 / 13 | 26 / 39 | **66.67%** |
-| [Nintendo - Super Nintendo Entertainment System](out/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System.txt) | 3221 / 3575 | 3199 / 3575 | 3199 / 3575 | 9619 / 10725 | **89.69%** |
+| [Nintendo - Super Nintendo Entertainment System](out/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System.txt) | 3215 / 3593 | 3193 / 3593 | 3193 / 3593 | 9601 / 10779 | **89.07%** |
 | [Nintendo - Virtual Boy](out/Nintendo%20-%20Virtual%20Boy.txt) | 29 / 31 | 29 / 31 | 29 / 31 | 87 / 93 | **93.55%** |
-| [Nintendo - Wii](out/Nintendo%20-%20Wii.txt) | 640 / 10201 | 2 / 10201 | 2 / 10201 | 644 / 30603 | **2.10%** |
+| [Nintendo - Wii](out/Nintendo%20-%20Wii.txt) | 639 / 10232 | 2 / 10232 | 2 / 10232 | 643 / 30696 | **2.09%** |
 | [Philips - Videopac+](out/Philips%20-%20Videopac+.txt) | 32 / 32 | 32 / 32 | 32 / 32 | 96 / 96 | **100.00%** |
 | [Quake1](out/Quake1.txt) | 4 / 4 | 4 / 4 | 4 / 4 | 12 / 12 | **100.00%** |
 | [RCA - Studio II](out/RCA%20-%20Studio%20II.txt) | 5 / 5 | 5 / 5 | 5 / 5 | 15 / 15 | **100.00%** |
 | [Rick Dangerous](out/Rick%20Dangerous.txt) | 1 / 1 | 1 / 1 | 1 / 1 | 3 / 3 | **100.00%** |
 | [RPG Maker](out/RPG%20Maker.txt) | 1 / 2 | 1 / 2 | 1 / 2 | 3 / 6 | **50.00%** |
-| [ScummVM](out/ScummVM.txt) | 12 / 1140 | 85 / 1140 | 89 / 1140 | 186 / 3420 | **5.44%** |
+| [ScummVM](out/ScummVM.txt) | 17 / 1140 | 88 / 1140 | 90 / 1140 | 195 / 3420 | **5.70%** |
 | [Sega - 32X](out/Sega%20-%2032X.txt) | 47 / 84 | 47 / 84 | 47 / 84 | 141 / 252 | **55.95%** |
 | [Sega - Dreamcast](out/Sega%20-%20Dreamcast.txt) | 655 / 1207 | 206 / 1207 | 222 / 1207 | 1083 / 3621 | **29.91%** |
 | [Sega - Game Gear](out/Sega%20-%20Game%20Gear.txt) | 286 / 511 | 371 / 511 | 371 / 511 | 1028 / 1533 | **67.06%** |
 | [Sega - Master System - Mark III](out/Sega%20-%20Master%20System%20-%20Mark%20III.txt) | 248 / 568 | 246 / 568 | 236 / 568 | 730 / 1704 | **42.84%** |
-| [Sega - Mega Drive - Genesis](out/Sega%20-%20Mega%20Drive%20-%20Genesis.txt) | 1394 / 2357 | 1446 / 2357 | 1445 / 2357 | 4285 / 7071 | **60.60%** |
+| [Sega - Mega Drive - Genesis](out/Sega%20-%20Mega%20Drive%20-%20Genesis.txt) | 1395 / 2361 | 1447 / 2361 | 1446 / 2361 | 4288 / 7083 | **60.54%** |
 | [Sega - Mega-CD - Sega CD](out/Sega%20-%20Mega-CD%20-%20Sega%20CD.txt) | 191 / 462 | 105 / 462 | 105 / 462 | 401 / 1386 | **28.93%** |
 | [Sega - PICO](out/Sega%20-%20PICO.txt) | 0 / 346 | 13 / 346 | 12 / 346 | 25 / 1038 | **2.41%** |
 | [Sega - Saturn](out/Sega%20-%20Saturn.txt) | 325 / 2028 | 269 / 2028 | 269 / 2028 | 863 / 6084 | **14.18%** |
@@ -86,20 +86,20 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [SNK - Neo Geo Pocket Color](out/SNK%20-%20Neo%20Geo%20Pocket%20Color.txt) | 82 / 119 | 82 / 119 | 81 / 119 | 245 / 357 | **68.63%** |
 | [SNK - Neo Geo Pocket](out/SNK%20-%20Neo%20Geo%20Pocket.txt) | 6 / 10 | 6 / 10 | 6 / 10 | 18 / 30 | **60.00%** |
 | [Sony - PlayStation 2](out/Sony%20-%20PlayStation%202.txt) | 1139 / 16236 | 1 / 16236 | 1 / 16236 | 1141 / 48708 | **2.34%** |
-| [Sony - PlayStation 3](out/Sony%20-%20PlayStation%203.txt) | 33 / 6429 | 0 / 6429 | 0 / 6429 | 33 / 19287 | **0.17%** |
-| [Sony - PlayStation Portable](out/Sony%20-%20PlayStation%20Portable.txt) | 296 / 9120 | 67 / 9120 | 69 / 9120 | 432 / 27360 | **1.58%** |
+| [Sony - PlayStation 3](out/Sony%20-%20PlayStation%203.txt) | 33 / 6448 | 0 / 6448 | 0 / 6448 | 33 / 19344 | **0.17%** |
+| [Sony - PlayStation Portable](out/Sony%20-%20PlayStation%20Portable.txt) | 296 / 9121 | 67 / 9121 | 69 / 9121 | 432 / 27363 | **1.58%** |
 | [Sony - PlayStation Vita](out/Sony%20-%20PlayStation%20Vita.txt) | 2 / 240 | 1 / 240 | 1 / 240 | 4 / 720 | **0.56%** |
-| [Sony - PlayStation](out/Sony%20-%20PlayStation.txt) | 1013 / 16127 | 1064 / 16127 | 211 / 16127 | 2288 / 48381 | **4.73%** |
+| [Sony - PlayStation](out/Sony%20-%20PlayStation.txt) | 1003 / 16127 | 1122 / 16127 | 211 / 16127 | 2336 / 48381 | **4.83%** |
 | [The 3DO Company - 3DO](out/The%203DO%20Company%20-%203DO.txt) | 124 / 428 | 126 / 428 | 124 / 428 | 374 / 1284 | **29.13%** |
 | [Thomson - MOTO](out/Thomson%20-%20MOTO.txt) | 305 / 509 | 450 / 509 | 339 / 509 | 1094 / 1527 | **71.64%** |
-| [TIC-80](out/TIC-80.txt) | 0 / 231 | 0 / 231 | 231 / 231 | 231 / 693 | **33.33%** |
-| [Tiger - Game.com](out/Tiger%20-%20Game.com.txt) | 0 / 22 | 22 / 22 | 22 / 22 | 44 / 66 | **66.67%** |
+| [TIC-80](out/TIC-80.txt) | 0 / 233 | 0 / 233 | 233 / 233 | 233 / 699 | **33.33%** |
+| [Tiger - Game.com](out/Tiger%20-%20Game.com.txt) | 21 / 22 | 22 / 22 | 22 / 22 | 65 / 66 | **98.48%** |
 | [Tomb Raider](out/Tomb%20Raider.txt) | 10 / 11 | 9 / 11 | 10 / 11 | 29 / 33 | **87.88%** |
 | [Uzebox](out/Uzebox.txt) | 0 / 65 | 0 / 65 | 0 / 65 | 0 / 195 | **0.00%** |
 | [VTech - CreatiVision](out/VTech%20-%20CreatiVision.txt) | 20 / 20 | 20 / 20 | 20 / 20 | 60 / 60 | **100.00%** |
 | [VTech - V.Smile](out/VTech%20-%20V.Smile.txt) | 0 / 136 | 0 / 136 | 0 / 136 | 0 / 408 | **0.00%** |
 | [Watara - Supervision](out/Watara%20-%20Supervision.txt) | 63 / 67 | 63 / 67 | 63 / 67 | 189 / 201 | **94.03%** |
-| **Total** | **27193 / 127991** | **26366 / 127991** | **23955 / 127991** | **77514 / 383973** | **20.19%** |
+| **Total** | **27273 / 128265** | **26526 / 128265** | **24058 / 128265** | **77857 / 384795** | **20.23%** |
 
 ## Build
 

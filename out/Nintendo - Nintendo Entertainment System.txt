@@ -1,9 +1,9 @@
 Nintendo - Nintendo Entertainment System Missing
 
-Boxarts  1997/3248  61.48%
-Snaps    2721/3248  83.77%
-Titles   2716/3248  83.62%
-Total    7434/9744  76.29%
+Boxarts  1997/3285  60.79%
+Snaps    2721/3285  82.83%
+Titles   2716/3285  82.68%
+Total    7434/9855  75.43%
 
 Name                                                                                          Boxart  Snap  Title
 '89 Dennou Kyuusei Uranai (Japan)                                                                -      -     -
@@ -67,6 +67,7 @@ Adventure Island 3 (USA)                                                        
 Adventure Island Classic (Europe)                                                                -      -     -
 Adventure Island II (USA)                                                                        -      -     -
 Adventure Island II (USA) (Beta)                                                                 ✗      ✗     ✗
+Adventure Island III (Europe) (Proto)                                                            ✗      ✗     ✗
 Adventure Island Part II, The (Europe)                                                           -      -     -
 Adventures in the Magic Kingdom (Europe)                                                         -      -     -
 Adventures in the Magic Kingdom (USA)                                                            -      -     -
@@ -112,6 +113,7 @@ Akuma-kun - Makai no Wana (Japan)                                               
 Akumajou Densetsu (Japan)                                                                        -      -     -
 Akumajou Dracula (Japan)                                                                         -      -     -
 Akumajou Special - Boku Dracula-kun (Japan)                                                      -      -     -
+Akumajou Special - Boku Dracula-kun (Japan) (Castlevania Anniversary Collection)                 ✗      ✗     ✗
 Al Unser Jr. Turbo Racing (USA)                                                                  -      -     -
 Aladdin (Europe)                                                                                 -      -     -
 Alex DeMeo's Race America (USA)                                                                  -      ✗     ✗
@@ -130,6 +132,7 @@ Alpha Mission (USA)                                                             
 Amagon (USA)                                                                                     -      -     -
 America Daitouryou Senkyo (Japan)                                                                -      -     -
 America Oudan Ultra Quiz - Shijou Saidai no Tatakai (Japan)                                      -      -     -
+America Oudan Ultra Quiz - Shijou Saidai no Tatakai (Japan) (Rev 1)                              ✗      ✗     ✗
 American Dream (Japan)                                                                           -      -     -
 American Football - Touchdown Fever (Japan)                                                      -      ✗     ✗
 American Gladiators (USA)                                                                        -      -     -
@@ -212,6 +215,8 @@ Bakushou!! Jinsei Gekijou 3 (Japan)                                             
 Ballblazer (Japan)                                                                               -      -     -
 Balloon Fight (Europe)                                                                           -      -     -
 Balloon Fight (Japan)                                                                            -      -     -
+Balloon Fight (Japan) (En)                                                                       ✗      ✗     ✗
+Balloon Fight (Japan) (En) (GameCube Edition)                                                    ✗      ✗     ✗
 Balloon Fight (USA)                                                                              -      -     -
 Baltron (Japan)                                                                                  -      -     -
 Baltron (Japan) (Beta)                                                                           -      -     -
@@ -237,7 +242,10 @@ Bard's Tale, The (USA)                                                          
 Barker Bill's Trick Shooting (Europe)                                                            -      -     -
 Barker Bill's Trick Shooting (USA)                                                               -      -     -
 Baseball (Japan)                                                                                 -      -     -
+Baseball (Japan) (En)                                                                            ✗      ✗     ✗
+Baseball (Japan) (En) (GameCube Edition)                                                         ✗      ✗     ✗
 Baseball (USA, Europe)                                                                           -      -     -
+Baseball (USA, Europe) (GameCube Edition)                                                        ✗      ✗     ✗
 Baseball (USA) (GameCube Edition)                                                                -      ✗     ✗
 Baseball Fighter (Japan)                                                                         -      -     -
 Baseball Simulator 1.000 (USA)                                                                   -      -     -
@@ -523,6 +531,7 @@ Classic Concentration (USA)                                                     
 Cliffhanger (USA)                                                                                -      -     -
 Clu Clu Land (USA) (GameCube Edition)                                                            ✗      ✗     ✗
 Clu Clu Land (World)                                                                             -      -     -
+Clu Clu Land (World) (GameCube Edition)                                                          ✗      ✗     ✗
 Cobra Command (Japan)                                                                            -      -     -
 Cobra Command (USA)                                                                              -      -     -
 Cobra Mission (Asia) (Ja) (Unl)                                                                  ✗      -     -
@@ -665,7 +674,8 @@ Digger T. Rock - The Legend of the Lost City (Europe)                           
 Digital Devil Story - Megami Tensei (Japan)                                                      -      -     -
 Digital Devil Story - Megami Tensei II (Japan)                                                   -      -     -
 Digital Devil Story - Megami Tensei II (Japan) (Rev A)                                           -      ✗     ✗
-Dino Hockey (USA) (Proto)                                                                        ✗      ✗     ✗
+Dino Hockey (USA) (Proto 1)                                                                      ✗      ✗     ✗
+Dino Hockey (USA) (Proto 2)                                                                      ✗      ✗     ✗
 Dino-Hockey (USA) (Proto)                                                                        ✗      ✗     ✗
 Dirty Harry (USA)                                                                                -      -     -
 Dizzy the Adventurer (USA) (Aladdin Compact Cartridge) (Unl)                                     -      -     -
@@ -680,20 +690,25 @@ Dong Dong Nao 1 (Asia) (Ja) (Unl)                                               
 Dong Dong Nao 1 (Asia) (Unl)                                                                     -      -     -
 Dong Dong Nao II - Guo Zhong Ying Wen (Yi) (Asia) (Ja) (Unl)                                     ✗      -     -
 Dong Dong Nao II - Guo Zhong Ying Wen (Yi) (Asia) (Unl)                                          ✗      -     -
-Donkey Kong - Original Edition (USA) (Virtual Console)                                           ✗      ✗     ✗
+Donkey Kong - Original Edition (Europe) (Wii Virtual Console)                                    ✗      ✗     ✗
+Donkey Kong - Original Edition (USA) (3DS Virtual Console)                                       ✗      ✗     ✗
 Donkey Kong (Japan)                                                                              -      -     -
 Donkey Kong (USA) (GameCube Edition)                                                             ✗      ✗     ✗
 Donkey Kong (World) (Rev 1)                                                                      ✗      ✗     ✗
+Donkey Kong (World) (Rev 1) (GameCube Edition)                                                   ✗      ✗     ✗
 Donkey Kong (World) (Rev A)                                                                      -      -     -
 Donkey Kong 3 (World)                                                                            -      -     -
+Donkey Kong 3 (World) (GameCube Edition)                                                         ✗      ✗     ✗
 Donkey Kong Classics (USA, Europe)                                                               -      -     -
 Donkey Kong Jr. (Japan)                                                                          -      -     -
 Donkey Kong Jr. (USA) (GameCube Edition)                                                         ✗      ✗     ✗
 Donkey Kong Jr. (World) (Rev 1)                                                                  ✗      ✗     ✗
+Donkey Kong Jr. (World) (Rev 1) (GameCube Edition)                                               ✗      ✗     ✗
 Donkey Kong Jr. (World) (Rev A)                                                                  -      -     -
 Donkey Kong Jr. + Jr. Lesson (Japan)                                                             ✗      -     -
 Donkey Kong Jr. Math (USA, Europe)                                                               -      -     -
 Donkey Kong Jr. no Sansuu Asobi (Japan)                                                          -      -     -
+Donkey Kong Jr. no Sansuu Asobi (Japan) (GameCube Edition)                                       ✗      ✗     ✗
 Dooly Bravo Land (Korea) (Unl)                                                                   ✗      ✗     ✗
 Door Door (Japan)                                                                                ✗      -     -
 Doraemon - Giga Zombie no Gyakushuu (Japan)                                                      ✗      -     -
@@ -836,6 +851,7 @@ Esper Bouken Tai (Japan)                                                        
 Esper Dream 2 - Aratanaru Tatakai (Japan)                                                        -      -     -
 Excitebike (Europe)                                                                              -      -     -
 Excitebike (Japan, USA)                                                                          -      -     -
+Excitebike (Japan, USA) (GameCube Edition)                                                       ✗      ✗     ✗
 Excitebike (USA) (GameCube Edition)                                                              -      ✗     ✗
 Exciting Boxing (Japan)                                                                          ✗      -     -
 Exciting Rally - World Rally Championship (Japan)                                                -      -     -
@@ -1051,7 +1067,8 @@ Gardman (Asia) (Unl)                                                            
 Garfield - A Week of Garfield (Japan)                                                            ✗      -     -
 Garfield - A Week of Garfield (Japan) (Sample)                                                   ✗      -     -
 Garfield no Isshukan (Japan)                                                                     ✗      ✗     ✗
-Garfield no Isshukan (Japan) (Sample)                                                            ✗      ✗     ✗
+Garfield no Isshukan (Japan) (Beta 1)                                                            ✗      ✗     ✗
+Garfield no Isshukan (Japan) (Beta 2)                                                            ✗      ✗     ✗
 Gargoyle's Quest II (Europe)                                                                     -      -     -
 Gargoyle's Quest II (USA)                                                                        -      -     -
 Garry Kitchen's Battletank (USA)                                                                 ✗      ✗     ✗
@@ -1087,6 +1104,7 @@ Gimmi a Break - Shijou Saikyou no Quiz Ou Ketteisen (Japan)                     
 Gimmi a Break - Shijou Saikyou no Quiz Ou Ketteisen 2 (Japan)                                    ✗      -     -
 Gimmick! (Japan)                                                                                 -      -     -
 Gimmick! (Japan) (Beta)                                                                          ✗      ✗     ✗
+Gimmick! (Japan) (Memorial Series - Sunsoft Vol. 6)                                              ✗      ✗     ✗
 Ginga Eiyuu Densetsu (Japan)                                                                     ✗      -     -
 Ginga no Sannin (Japan)                                                                          ✗      -     -
 Gluk the Thunder Warrior (Spain) (Gluk Video) (Unl)                                              ✗      ✗     ✗
@@ -1102,7 +1120,10 @@ Godzilla 2 - War of the Monsters (USA)                                          
 Gojira (Japan)                                                                                   -      -     -
 Golf '92, The (Japan)                                                                            ✗      -     -
 Golf (Europe)                                                                                    -      -     -
+Golf (Europe) (GameCube Edition)                                                                 ✗      ✗     ✗
 Golf (Japan)                                                                                     -      -     -
+Golf (Japan) (En)                                                                                ✗      ✗     ✗
+Golf (Japan) (En) (GameCube Edition)                                                             ✗      ✗     ✗
 Golf (USA)                                                                                       -      -     -
 Golf Club - Birdy Rush (Japan)                                                                   ✗      -     -
 Golf Grand Slam (Japan)                                                                          -      -     -
@@ -1112,6 +1133,7 @@ Golgo 13 - Daiisshou - Kamigami no Tasogare (Japan)                             
 Golgo 13 - Dainishou - Icarus no Nazo (Japan)                                                    -      -     -
 Golgo 13 - Top Secret Episode (USA)                                                              -      -     -
 Gomoku Narabe (Japan)                                                                            ✗      -     -
+Gomoku Narabe (Japan) (GameCube Edition)                                                         ✗      ✗     ✗
 Goonies (Japan)                                                                                  -      -     -
 Goonies 2 - Fratelli Saigo no Chousen (Japan)                                                    -      -     -
 Goonies II, The - Fratelli Saigo no Chousen (Japan) (Beta)                                       -      -     -
@@ -1216,6 +1238,7 @@ Hit Marmot (Asia) (Unl)                                                         
 Hit the Ice - VHL - The Video Hockey League (USA) (Proto)                                        ✗      -     -
 Hit the Ice (USA) (Proto)                                                                        ✗      ✗     ✗
 Hitler no Fukkatsu - Top Secret (Japan)                                                          -      -     -
+Hitler no Fukkatsu - Top Secret (Japan) (Beta)                                                   ✗      ✗     ✗
 Hogan's Alley (World)                                                                            -      -     -
 Hokkaidou Rensa Satsujin - Okhotsk ni Kiyu (Japan)                                               ✗      -     -
 Hokuto no Ken (Japan)                                                                            -      -     -
@@ -1276,6 +1299,7 @@ Hyper Sports (Japan)                                                            
 Hyper Sports (Japan) (Rev 1)                                                                     ✗      -     -
 I Love Softball (Japan)                                                                          ✗      -     -
 Ice Climber (Japan)                                                                              -      -     -
+Ice Climber (Japan) (En)                                                                         ✗      ✗     ✗
 Ice Climber (USA, Europe, Korea)                                                                 ✗      ✗     ✗
 Ice Climber (USA, Europe)                                                                        -      -     -
 Ice Hockey (Europe)                                                                              -      -     -
@@ -1453,6 +1477,7 @@ Kick Off (Europe)                                                               
 Kickle Cubicle (Europe)                                                                          -      -     -
 Kickle Cubicle (USA)                                                                             -      -     -
 KickMaster (USA)                                                                                 ✗      ✗     ✗
+Kid Dracula (USA, Europe) (Castlevania Anniversary Collection)                                   ✗      ✗     ✗
 Kid Icarus (Europe) (Rev A)                                                                      -      -     -
 Kid Icarus (USA, Europe)                                                                         -      -     -
 Kid Icarus (USA, Europe) (Rev 1)                                                                 ✗      ✗     ✗
@@ -1555,7 +1580,9 @@ Legend of Zelda, The (Europe)                                                   
 Legend of Zelda, The (Europe) (Rev 1)                                                            ✗      ✗     ✗
 Legend of Zelda, The (Europe) (Rev A)                                                            -      -     -
 Legend of Zelda, The (USA)                                                                       -      -     -
+Legend of Zelda, The (USA) (Collector's Edition)                                                 ✗      ✗     ✗
 Legend of Zelda, The (USA) (Rev 1)                                                               ✗      ✗     ✗
+Legend of Zelda, The (USA) (Rev 1) (GameCube Edition)                                            ✗      ✗     ✗
 Legend of Zelda, The (USA) (Rev A)                                                               -      -     -
 Legend of Zelda, The (USA) (Rev A) (GameCube Edition)                                            ✗      ✗     ✗
 Legend of Zelda, The (USA) (Rev B) (GameCube Edition)                                            ✗      ✗     ✗
@@ -1666,6 +1693,7 @@ Mahjang Companion (Asia) (Sachen) (Unl)                                         
 Mahjong (Japan)                                                                                  ✗      ✗     ✗
 Mahjong (Japan) (Rev 1)                                                                          ✗      ✗     ✗
 Mahjong (Japan) (Rev 2)                                                                          ✗      ✗     ✗
+Mahjong (Japan) (Rev 2) (GameCube Edition)                                                       ✗      ✗     ✗
 Mahjong (Japan) (Rev A)                                                                          ✗      -     -
 Mahjong (Japan) (Rev B)                                                                          ✗      -     -
 Mahjong Academy (Asia) (Ja) (Unl)                                                                ✗      -     -
@@ -1717,6 +1745,7 @@ Mario Bros. (Europe) (PAL-MC-0, Classic Series)                                 
 Mario Bros. (Europe) (Rev A)                                                                     -      -     -
 Mario Bros. (USA) (GameCube Edition)                                                             ✗      ✗     ✗
 Mario Bros. (World)                                                                              -      -     -
+Mario Bros. (World) (GameCube Edition)                                                           ✗      ✗     ✗
 Mario Bros. Classic (Europe)                                                                     -      -     -
 Mario is Missing! (Europe)                                                                       ✗      ✗     ✗
 Mario Is Missing! (Europe)                                                                       -      -     -
@@ -1845,6 +1874,7 @@ Mindseeker (Japan)                                                              
 Minelvaton Saga - Ragon no Fukkatsu (Japan)                                                      -      -     -
 Mini Putt (Japan)                                                                                -      -     -
 Minna no Taabou no Nakayoshi Daisakusen (Japan)                                                  ✗      -     -
+Minna no Taabou no Nakayoshi Daisakusen (Japan) (Rev 2)                                          ✗      ✗     ✗
 Miracle Piano Teaching System, The (France)                                                      ✗      -     -
 Miracle Piano Teaching System, The (Germany)                                                     ✗      -     -
 Miracle Piano Teaching System, The (USA)                                                         ✗      -     -
@@ -2123,6 +2153,8 @@ Pin Bot (USA)                                                                   
 Pinball (Europe)                                                                                 ✗      ✗     ✗
 Pinball (Europe) (Rev A)                                                                         -      -     -
 Pinball (Japan, USA)                                                                             ✗      ✗     ✗
+Pinball (Japan, USA) (GameCube Edition)                                                          ✗      ✗     ✗
+Pinball (Japan) (En) (GameCube Edition)                                                          ✗      ✗     ✗
 Pinball (USA) (GameCube Edition)                                                                 ✗      ✗     ✗
 Pinball (World)                                                                                  -      -     -
 Pinball Quest (Australia)                                                                        -      -     -
@@ -2701,6 +2733,8 @@ Super Dodge Ball (USA)                                                          
 Super Dyna'mix Badminton (Japan)                                                                 ✗      -     -
 Super Glove Ball (USA)                                                                           -      -     -
 Super Jeopardy! (USA)                                                                            -      -     -
+Super Mario Bros. - 25th Anniversary (Australia) (Wii Virtual Console)                           ✗      ✗     ✗
+Super Mario Bros. - 25th Anniversary (Japan) (En) (Wii Virtual Console)                          ✗      ✗     ✗
 Super Mario Bros. (Europe)                                                                       ✗      ✗     ✗
 Super Mario Bros. (Europe) (Rev A)                                                               -      -     -
 Super Mario Bros. (World)                                                                        -      -     -
@@ -2718,7 +2752,6 @@ Super Mario Bros. 2 (USA) (Beta)                                                
 Super Mario Bros. 2 (USA) (Rev 1)                                                                ✗      ✗     ✗
 Super Mario Bros. 2 (USA) (Rev A)                                                                -      -     -
 Super Mario Bros. 25 Shuunen Version (Japan) (En) (Promo, Virtual Console)                       ✗      ✗     ✗
-Super Mario Bros. 25 Shuunen Version (Japan) (En) (Promo, Wii U Virtual Console)                 ✗      ✗     ✗
 Super Mario Bros. 3 (Europe)                                                                     -      -     -
 Super Mario Bros. 3 (Europe) (Wii VC)                                                            ✗      ✗     ✗
 Super Mario Bros. 3 (Europe) (Wii Virtual Console)                                               ✗      ✗     ✗
@@ -2869,6 +2902,7 @@ Tenka no Goikenban - Mito Koumon (Japan)                                        
 Tenkaichi Bushi - Keru Naguuru (Japan)                                                           ✗      -     -
 Tennis (Europe)                                                                                  -      -     -
 Tennis (Japan, USA)                                                                              -      -     -
+Tennis (Japan, USA) (GameCube Edition)                                                           ✗      ✗     ✗
 Tennis (USA) (GameCube Edition)                                                                  ✗      ✗     ✗
 Terao no Dosukoi Oozumou (Japan)                                                                 ✗      -     -
 Terminator 2 - Judgment Day (Europe)                                                             -      -     -
@@ -3052,6 +3086,7 @@ USA Ice Hockey in FC (Japan)                                                    
 Ushio to Tora - Shinen no Taiyou (Japan)                                                         ✗      -     -
 Utsurun Desu - Kawauso Hawaii e Iku (Japan)                                                      ✗      ✗     ✗
 Utsurun Desu (Japan)                                                                             ✗      -     -
+UWC (USA) (Proto)                                                                                ✗      ✗     ✗
 Valkyrie no Bouken - Toki no Kagi Densetsu (Japan)                                               ✗      -     -
 Vegas Connection - Casino kara Ai o Komete (Japan)                                               ✗      -     -
 Vegas Dream (USA)                                                                                -      -     -
@@ -3093,6 +3128,7 @@ War in the Gulf (Brazil) (CCE, Gluk Video) (Unl)                                
 War in the Gulf ~ Guerra del Golfo, La (Brazil, Spain) (CCE, Gluk Video) (Unl)                   ✗      ✗     ✗
 War on Wheels (USA) (Proto)                                                                      ✗      ✗     ✗
 Wario no Mori (Japan)                                                                            -      -     -
+Wario no Mori (Japan) (En)                                                                       ✗      ✗     ✗
 Wario's Woods (Europe)                                                                           -      -     -
 Wario's Woods (USA)                                                                              -      -     -
 Warpman (Japan)                                                                                  -      -     -
@@ -3227,6 +3263,7 @@ Zelda II - The Adventure of Link (Europe) (Rev 2)                               
 Zelda II - The Adventure of Link (Europe) (Rev A)                                                -      -     -
 Zelda II - The Adventure of Link (Europe) (Rev B)                                                -      -     -
 Zelda II - The Adventure of Link (USA)                                                           -      -     -
+Zelda II - The Adventure of Link (USA) (Collector's Edition)                                     ✗      ✗     ✗
 Zelda II - The Adventure of Link (USA) (GameCube Edition)                                        ✗      ✗     ✗
 Zelda no Densetsu 1 - The Hyrule Fantasy (Japan)                                                 -      -     -
 Zen - Intergalactic Ninja (Europe)                                                               -      -     -
