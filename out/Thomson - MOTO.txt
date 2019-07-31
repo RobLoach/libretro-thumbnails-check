@@ -1,9 +1,9 @@
 Thomson - MOTO Missing
 
-Boxarts    305/509  59.92%
-Snaps      450/509  88.41%
-Titles     339/509  66.60%
-Total    1094/1527  71.64%
+Boxarts   250/509  49.12%
+Snaps     375/509  73.67%
+Titles    281/509  55.21%
+Total    906/1527  59.33%
 
 Name                                              Boxart  Snap  Title
 1789                                                 -      -     -
@@ -17,15 +17,15 @@ Airbus                                               -      -     -
 Alienator                                            ✗      -     -
 America's Cup                                        -      -     -
 Amito8net 7                                          ✗      ✗     ✗
-Androïdes + Editeur                                  -      -     -
+Androïdes + Editeur                                  ✗      ✗     ✗
 Aquanaute                                            -      -     -
-Araignées                                            ✗      -     -
+Araignées                                            ✗      ✗     ✗
 Arcade 1                                             ✗      -     ✗
 Arkanoid                                             -      -     -
 Armada                                               -      -     -
-Arsène Lapin                                         -      -     -
-Astérix Chez Rahazade                                -      -     -
-Astérix Et La Potion Magique                         -      -     -
+Arsène Lapin                                         ✗      ✗     ✗
+Astérix Chez Rahazade                                ✗      ✗     ✗
+Astérix Et La Potion Magique                         ✗      ✗     ✗
 Asteroides                                           ✗      -     ✗
 Astromus                                             ✗      -     -
 Atlantis                                             -      -     -
@@ -79,7 +79,7 @@ Challenge  (Minipuce)                                -      ✗     ✗
 Challenge (Coktelvision)                             -      -     ✗
 Challenge Voile                                      -      -     -
 Chasseur Omega                                       -      -     -
-Château Noir Et Dragons Rouges                       ✗      -     -
+Château Noir Et Dragons Rouges                       ✗      ✗     ✗
 Chenille                                             ✗      -     ✗
 Chicago 90                                           -      -     -
 Choplifter                                           -      -     -
@@ -103,7 +103,7 @@ Compilation Disk Num 14                              ✗      -     ✗
 Compilation Disk Num 18                              ✗      ✗     ✗
 Compilation Jeux 14                                  ✗      ✗     ✗
 Connexion                                            -      -     -
-Contrôle Aérien                                      -      -     -
+Contrôle Aérien                                      ✗      ✗     ✗
 Coq Inn                                              ✗      -     -
 Crazy Cars                                           -      -     -
 Crocky 2                                             -      -     -
@@ -117,9 +117,9 @@ D And a - Donjon Et Aventure                         ✗      ✗     ✗
 Dakar 4x4                                            -      -     -
 Dakar Moto                                           -      -     -
 Dca                                                  ✗      -     ✗
-Défi Au Tarot                                        -      -     -
+Défi Au Tarot                                        ✗      ✗     ✗
 Delos Attack                                         ✗      -     -
-Démineur                                             ✗      -     -
+Démineur                                             ✗      ✗     ✗
 Des Chiffres Et Des Lettres                          -      -     -
 Devant Derriere                                      ✗      -     -
 Dianne, Mission Rubidiums                            -      -     -
@@ -136,16 +136,16 @@ Eliminator                                           -      -     -
 Empire                                               -      -     -
 Enduro Racer                                         -      -     -
 Energic                                              ✗      -     -
-Enigmatika 1ère Série                                -      -     -
-Enigmatika 2e Série                                  -      -     ✗
-Enigmatika 4e Série                                  -      -     ✗
-Enigmatika 5e Série                                  -      -     ✗
+Enigmatika 1ère Série                                ✗      ✗     ✗
+Enigmatika 2e Série                                  ✗      ✗     ✗
+Enigmatika 4e Série                                  ✗      ✗     ✗
+Enigmatika 5e Série                                  ✗      ✗     ✗
 Entropie                                             -      -     -
-Erébus                                               -      -     -
+Erébus                                               ✗      ✗     ✗
 Extra-mission                                        -      -     -
 F.b.i.                                               -      -     -
 F15 Strike Eagle                                     -      -     -
-Félonies                                             -      -     -
+Félonies                                             ✗      ✗     ✗
 Fire                                                 ✗      -     ✗
 Fish                                                 ✗      -     -
 Flash Point                                          -      -     -
@@ -160,14 +160,14 @@ GameOver                                             ✗      -     -
 Garden Party                                         -      -     -
 Gasp 8x8                                             ✗      ✗     ✗
 Gemini                                               -      -     -
-Géodyssée                                            -      -     -
+Géodyssée                                            ✗      ✗     ✗
 Ghostbusters                                         ✗      ✗     ✗
 Glouton                                              ✗      -     -
 Glouton Titus                                        ✗      -     -
 Gobeur                                               ✗      -     ✗
 Graal                                                -      -     -
 Grand Prix 500cc                                     -      -     -
-Grand Siècle                                         -      -     -
+Grand Siècle                                         ✗      ✗     ✗
 Gravitron, Valse Galactique                          -      -     -
 Greatest Collection, The                             ✗      -     ✗
 Green Beret                                          -      -     -
@@ -186,7 +186,7 @@ Infierno                                             ✗      -     -
 Initiation Aux Echecs                                -      -     -
 Inspecteur Gadget                                    -      -     -
 Intox Et Zoe                                         -      -     -
-Intrigue à Paris                                     -      ✗     -
+Intrigue à Paris                                     ✗      ✗     ✗
 Invasion                                             -      -     -
 Isabelle Et Le Dragon                                ✗      -     -
 Island                                               -      -     -
@@ -196,7 +196,7 @@ James Debug - Le Grand Saut                          -      -     -
 Jeu De Dames                                         -      -     -
 Jeu Du Dictionnaire                                  ✗      -     ✗
 Jeu Guinness Des Records                             ✗      -     ✗
-Jeu Météo                                            ✗      -     -
+Jeu Météo                                            ✗      ✗     ✗
 Jeu Mondial Des Inventions                           ✗      -     -
 Jeu Vi 6                                             ✗      ✗     ✗
 Jeu Viii 8                                           ✗      ✗     ✗
@@ -213,7 +213,7 @@ Jumpman                                              ✗      -     ✗
 Jungle Hero                                          ✗      -     -
 Kandy Krush Java                                     ✗      -     ✗
 Kanicula                                             -      -     -
-Karaté                                               -      -     -
+Karaté                                               ✗      ✗     ✗
 Keep Yourself Alive                                  -      -     -
 Keykong                                              ✗      -     ✗
 Khronos                                              -      -     -
@@ -222,24 +222,24 @@ Kingkong                                             ✗      -     ✗
 Krakout                                              -      -     -
 Kung Fou                                             -      -     -
 L'affaire Sydney                                     -      -     -
-L'affaire Véra Cruz                                  -      -     -
+L'affaire Véra Cruz                                  ✗      ✗     ✗
 L'aigle D'or                                         -      -     -
 L'albatros                                           ✗      -     -
-L'evadé De Tapiocatraz                               -      -     -
+L'evadé De Tapiocatraz                               ✗      ✗     ✗
 L'helicoptere                                        ✗      ✗     ✗
 L'heritage                                           -      ✗     -
-L'héritage 2                                         ✗      -     -
+L'héritage 2                                         ✗      ✗     ✗
 L'usine Infernale                                    -      -     ✗
 La Geste D'artillac                                  -      -     -
 La Grignote 2                                        ✗      -     -
-La Maison Hantée                                     ✗      -     -
-La Malédiction De Thaar                              -      -     -
+La Maison Hantée                                     ✗      ✗     ✗
+La Malédiction De Thaar                              ✗      ✗     ✗
 La Marque Jaune                                      ✗      -     ✗
 La Mascotte                                          ✗      -     ✗
 La Mine Aux Diamants                                 -      -     -
 La Nuit Des Templiers                                -      -     -
-La Planète Bleue                                     -      -     ✗
-La Planète Inconnue                                  -      -     -
+La Planète Bleue                                     ✗      ✗     ✗
+La Planète Inconnue                                  ✗      ✗     ✗
 La Princesse Riim                                    -      -     ✗
 La Securite Social - En Jeu                          ✗      -     ✗
 La Trilogie Du Temple D'apshai                       -      -     ✗
@@ -248,35 +248,35 @@ Labyrinthe                                           ✗      -     ✗
 Labyrinthe Semi 3d                                   ✗      -     ✗
 Labyrinthe Survie                                    -      -     -
 Las Vegas                                            -      -     -
-Le 5ème Axe                                          -      -     -
-Le Bagh Chal (tigre Et Chèvres)                      -      -     ✗
-Le Château De La Mort                                -      -     -
+Le 5ème Axe                                          ✗      ✗     ✗
+Le Bagh Chal (tigre Et Chèvres)                      ✗      ✗     ✗
+Le Château De La Mort                                ✗      ✗     ✗
 Le Chateau Des Sphinx                                ✗      -     ✗
 Le Compte Est Rond                                   -      -     -
-Le Crépuscule Du Naja                                ✗      -     -
-Le Général                                           ✗      -     -
+Le Crépuscule Du Naja                                ✗      ✗     ✗
+Le Général                                           ✗      ✗     ✗
 Le Jeu Des Marelles                                  -      -     -
 Le Jeu Des Petits Chevaux                            ✗      -     -
-Le Maléfice Des Atlantes                             -      -     -
+Le Maléfice Des Atlantes                             ✗      ✗     ✗
 Le Masque Du Graille                                 ✗      -     -
-Le Métallurgiste                                     ✗      -     -
+Le Métallurgiste                                     ✗      ✗     ✗
 Le Millionnaire                                      ✗      -     -
-Le Mystère De Ming-fonko                             ✗      -     -
-Le Mystère De Paris                                  -      -     -
+Le Mystère De Ming-fonko                             ✗      ✗     ✗
+Le Mystère De Paris                                  ✗      ✗     ✗
 Le Pirate Gogol                                      ✗      ✗     ✗
 Le Plus Beau Puzzle                                  ✗      -     -
 Le Talisman D'osiris                                 ✗      -     -
 Le Temple De Quauhtli                                -      -     -
 Le Temps D'une Histoire                              -      ✗     ✗
-Le Trésor Des Baskerville                            -      -     ✗
-Le Trésor Des Rats D'egout                           ✗      -     -
-Le Trésor Du Pirate                                  -      -     -
-Légende                                              -      -     ✗
+Le Trésor Des Baskerville                            ✗      ✗     ✗
+Le Trésor Des Rats D'egout                           ✗      ✗     ✗
+Le Trésor Du Pirate                                  ✗      ✗     ✗
+Légende                                              ✗      ✗     ✗
 Lemmings                                             ✗      -     ✗
 Les 7 Magiciens                                      -      -     -
 Les Athletes                                         -      -     ✗
 Les Cartes Du Temps                                  ✗      ✗     ✗
-Les Cavernes De Thénébé                              -      -     -
+Les Cavernes De Thénébé                              ✗      ✗     ✗
 Les Chevaliers                                       -      -     ✗
 Les Chevaliers De L'an Mil                           -      -     ✗
 Les Contes De Monte-crypto                           ✗      -     ✗
@@ -284,7 +284,7 @@ Les Dieux De La Glisse                               -      -     -
 Les Dieux De La Mer                                  -      -     -
 Les Dieux Du Stade                                   -      -     -
 Les Dieux Du Stade 2                                 -      -     -
-Les Enquêtes De Monsieur Théophile                   -      -     -
+Les Enquêtes De Monsieur Théophile                   ✗      ✗     ✗
 Les Mutants                                          -      -     -
 Les Passagers Du Vent                                -      -     -
 Les Passagers Du Vent 2                              ✗      -     ✗
@@ -293,7 +293,7 @@ Les Ripoux                                           ✗      -     ✗
 Longueur                                             ✗      -     ✗
 Lorann                                               -      -     -
 Loto                                                 -      -     ✗
-Lucky Luke - Nitroglycérine                          -      -     -
+Lucky Luke - Nitroglycérine                          ✗      ✗     ✗
 Macadam Bumper                                       -      -     -
 Mach 3                                               -      -     -
 Maddog                                               -      -     -
@@ -304,18 +304,18 @@ Marathon Cosmique                                    ✗      -     -
 Marche À L'ombre                                     -      -     -
 Masque +                                             -      -     ✗
 Maxi Bourse International                            -      -     ✗
-Mégawatt                                             -      -     -
-Mélimémot                                            -      -     -
+Mégawatt                                             ✗      ✗     ✗
+Mélimémot                                            ✗      ✗     ✗
 Melodia                                              -      ✗     ✗
-Mémo7                                                ✗      -     -
-Mémory                                               ✗      -     -
+Mémo7                                                ✗      ✗     ✗
+Mémory                                               ✗      ✗     ✗
 Menace Sur L'arctique                                -      -     -
-Mes Premiers Mots Croisés                            -      -     -
-Météo 7                                              -      -     -
-Météorisque                                          -      -     ✗
-Métro                                                -      -     ✗
+Mes Premiers Mots Croisés                            ✗      ✗     ✗
+Météo 7                                              ✗      ✗     ✗
+Météorisque                                          ✗      ✗     ✗
+Métro                                                ✗      ✗     ✗
 Meurtre À Grande Vitesse                             -      -     -
-Meurtres En Série                                    ✗      -     ✗
+Meurtres En Série                                    ✗      ✗     ✗
 Meurtres Sur L'atlantique                            -      -     -
 Mewilo                                               ✗      -     ✗
 Mgt                                                  -      -     -
@@ -331,7 +331,7 @@ Missiles                                             ✗      -     ✗
 Mission                                              ✗      -     -
 Mission Delta                                        -      -     -
 Mission Pas Possible                                 -      -     -
-Mission Très Spéciale                                ✗      -     ✗
+Mission Très Spéciale                                ✗      ✗     ✗
 Mission U-72                                         ✗      -     -
 Missions En Rafale                                   -      -     -
 Monopolic                                            -      -     -
@@ -342,14 +342,14 @@ Mur De Briques                                       ✗      ✗     ✗
 Mur7300                                              ✗      ✗     ✗
 Naval                                                ✗      ✗     ✗
 Night Flight                                         ✗      -     -
-Numéro 10                                            -      -     -
-Numéro 10 Mexico 86                                  ✗      -     -
-Océania                                              -      -     -
+Numéro 10                                            ✗      ✗     ✗
+Numéro 10 Mexico 86                                  ✗      ✗     ✗
+Océania                                              ✗      ✗     ✗
 Octogonus                                            -      -     -
 Ok Cowboy                                            -      -     -
 Olympic                                              ✗      ✗     ✗
-Oméga Planète Invisible                              -      -     -
-Opération Némo                                       -      -     ✗
+Oméga Planète Invisible                              ✗      ✗     ✗
+Opération Némo                                       ✗      ✗     ✗
 Orbital Mission                                      -      -     -
 Oth-a                                                ✗      ✗     ✗
 Othello                                              ✗      -     ✗
@@ -360,7 +360,7 @@ Pack Succes                                          -      ✗     ✗
 Pacman 2                                             ✗      -     -
 Pancho                                               -      -     ✗
 Panique Atomique Chez Novasprites                    -      -     ✗
-Pépito Log'1                                         -      -     ✗
+Pépito Log'1                                         ✗      ✗     ✗
 Peter Pan                                            -      -     ✗
 Pilonnage                                            ✗      -     ✗
 Pilot                                                -      -     -
@@ -369,7 +369,7 @@ Pilote And Pingo                                     ✗      ✗     ✗
 Ping-pong                                            ✗      ✗     ✗
 Pingo                                                -      -     -
 Piramide                                             ✗      ✗     -
-Planète Morte                                        -      -     ✗
+Planète Morte                                        ✗      ✗     ✗
 Plymouth-newport                                     -      -     -
 Pock                                                 ✗      -     ✗
 Poke And Pac - Jeu                                   ✗      ✗     ✗
@@ -378,7 +378,7 @@ Politik Poker                                        -      -     ✗
 Politique Economique                                 -      -     -
 Pop Pop                                              -      -     -
 Popeye                                               ✗      ✗     -
-Poséïdon                                             -      -     -
+Poséïdon                                             ✗      ✗     ✗
 Pour 20 Millions De Dollars                          -      -     -
 Poussball                                            -      -     -
 Pousspan                                             -      -     ✗
@@ -398,15 +398,15 @@ Raid Sur La Manche                                   ✗      -     ✗
 Raid Sur Tenere                                      -      -     -
 Ranger 3                                             -      -     ✗
 Raquette                                             ✗      -     ✗
-Régates                                              -      -     -
+Régates                                              ✗      ✗     ✗
 Renegade                                             -      -     -
-Réussites                                            -      -     ✗
+Réussites                                            ✗      ✗     ✗
 Reverse                                              -      -     -
-Révolution                                           ✗      -     ✗
+Révolution                                           ✗      ✗     ✗
 Risk                                                 ✗      -     ✗
 Road Killer                                          -      -     ✗
 Robinson Crusoe                                      -      -     ✗
-Rodéo                                                -      -     -
+Rodéo                                                ✗      ✗     ✗
 Roger Et Paulo                                       -      -     -
 Romulus, Rome Et Moi                                 -      -     ✗
 Rotorwar                                             -      -     -
@@ -431,8 +431,8 @@ Snaky                                                ✗      -     -
 Sokoban                                              ✗      -     ✗
 Soleil Noir                                          -      -     -
 Sorcery                                              -      -     -
-Sorcière                                             ✗      -     -
-Sortilèges                                           -      -     -
+Sorcière                                             ✗      ✗     ✗
+Sortilèges                                           ✗      ✗     ✗
 Sos Space                                            -      -     -
 Space Game                                           ✗      -     ✗
 Space Racer                                          -      -     -
@@ -442,7 +442,7 @@ Space600                                             ✗      -     ✗
 Speedway                                             -      -     -
 Spindizzy                                            -      -     ✗
 Spix                                                 -      -     -
-Sports D'eté                                         -      -     -
+Sports D'eté                                         ✗      ✗     ✗
 Stanley                                              -      -     -
 Star Maze                                            ✗      -     ✗
 Star-trek                                            ✗      -     ✗
@@ -452,7 +452,7 @@ Stone Zone                                           -      -     -
 Stratac                                              -      -     ✗
 Stress                                               -      -     ✗
 Strip 21                                             ✗      -     -
-Super Androïdes                                      -      -     ✗
+Super Androïdes                                      ✗      ✗     ✗
 Super Business                                       -      ✗     ✗
 Super Flippard                                       -      -     ✗
 Super Jimmie                                         -      -     -
@@ -463,14 +463,14 @@ Sympuz                                               -      -     -
 T.n.t.                                               -      -     -
 Taquin                                               ✗      -     ✗
 Tarot                                                ✗      -     -
-Télédomino                                           ✗      -     -
-Télérama N°1                                         -      -     -
-Télérama N°2                                         -      -     -
+Télédomino                                           ✗      ✗     ✗
+Télérama N°1                                         ✗      ✗     ✗
+Télérama N°2                                         ✗      ✗     ✗
 Tetris Gd                                            ✗      -     -
 Tetris Jb                                            ✗      -     ✗
 Tetris Yr                                            ✗      -     ✗
-Théogiciels Loisir 1                                 ✗      -     -
-Thésaurus                                            -      -     -
+Théogiciels Loisir 1                                 ✗      ✗     ✗
+Thésaurus                                            ✗      ✗     ✗
 Thom-puzz                                            -      -     -
 Threshold                                            ✗      -     ✗
 Tic-tac                                              -      -     -
@@ -492,7 +492,7 @@ Troff                                                -      -     -
 Tron                                                 ✗      -     ✗
 Troubadours                                          -      -     ✗
 Turbo Cup                                            -      -     -
-Turlogh Le Rôdeur                                    ✗      -     ✗
+Turlogh Le Rôdeur                                    ✗      ✗     ✗
 Tyrann                                               -      -     -
 Une Affaire En Or                                    -      -     -
 Vampir Action                                        ✗      -     ✗
@@ -512,6 +512,6 @@ Wormy                                                -      -     -
 X-ray                                                -      -     ✗
 Y                                                    ✗      ✗     ✗
 Yahtzee                                              ✗      -     -
-Yéti                                                 -      -     -
+Yéti                                                 ✗      ✗     ✗
 Yie Ar Kung Fu 2                                     -      -     -
 Zaptrak                                              -      -     ✗

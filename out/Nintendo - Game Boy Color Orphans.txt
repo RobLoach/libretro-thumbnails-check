@@ -1,9 +1,6 @@
 Nintendo - Game Boy Color Orphans
 
-Named_Boxarts/Adventures of Elmo in Grouchland, The (Europe) (GB Compatible).png
-Named_Boxarts/Adventures of Elmo in Grouchland, The (USA) (GB Compatible).png
-Named_Boxarts/Arcade Hits - Joust _ Defender (USA, Europe) (GB Compatible).png
-Named_Boxarts/Arcade Hits - Moon Patrol _ Spy Hunter (USA, Europe) (GB Compatible).png
+.travis.yml
 Named_Boxarts/Asterix - Search for Dogmatix (Europe) (En,Fr,De,Es,It,Nl).png
 Named_Boxarts/Barbie - Shelly Club (Europe) (En,Fr,De,Es,It).png
 Named_Boxarts/Bear in the Big Blue House (Europe) (En,Fr,De,Es,It,Nl).png
@@ -44,8 +41,6 @@ Named_Boxarts/Legend of Zelda, The - Oracle of Seasons (USA).png
 Named_Boxarts/Legend of the River King GB (USA) (SGB Enhanced) (GB Compatible).png
 Named_Boxarts/Lemmings (USA).png
 Named_Boxarts/Magical Tetris Challenge (Europe) (En,Fr,De,Es,It,Nl,Sv) (Rev A).png
-Named_Boxarts/Mission Impossible (Europe) (En,Fr,De,Es,It).png
-Named_Boxarts/Mission Impossible (USA) (En,Fr,Es).png
 Named_Boxarts/Monsters, Inc. (Europe) (Rev A).png
 Named_Boxarts/Mortal Kombat 4 (Germany) (SGB Enhanced) (GB Compatible).png
 Named_Boxarts/Mr Nutz (Europe) (En,Fr,De,Es,It,Nl).png
@@ -53,9 +48,6 @@ Named_Boxarts/Mr Nutz (USA) (En,Fr,Es).png
 Named_Boxarts/Muppets, The (Europe) (En,Fr,De,Es,It,Nl,Sv) (AP9P) (GB Compatible).png
 Named_Boxarts/Muppets, The (Europe) (En,Fr,De,Es,It,Nl,Sv) (AX9P).png
 Named_Boxarts/Muppets, The (USA).png
-Named_Boxarts/NBA In the Zone (USA) (Rev A) (SGB Enhanced) (GB Compatible).png
-Named_Boxarts/NBA In the Zone 2000 (Europe).png
-Named_Boxarts/NBA In the Zone 2000 (USA).png
 Named_Boxarts/NBA Jam '99 (USA, Europe) (GB Compatible).png
 Named_Boxarts/NBA Pro '99 (Europe) (SGB Enhanced) (GB Compatible).png
 Named_Boxarts/NFL Blitz (USA) (GB Compatible).png
@@ -120,10 +112,6 @@ Named_Boxarts/Yoda Stories (USA, Europe) (GB Compatible).png
 Named_Boxarts/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev A) (SGB Enhanced) (GB Compatible).png
 Named_Boxarts/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev B) (SGB Enhanced) (GB Compatible).png
 Named_Snaps/ATV Racing _ Karate Joe (Europe) (Alternate) (Unl).png
-Named_Snaps/Adventures of Elmo in Grouchland, The (Europe) (GB Compatible).png
-Named_Snaps/Adventures of Elmo in Grouchland, The (USA) (GB Compatible).png
-Named_Snaps/Arcade Hits - Joust _ Defender (USA, Europe) (GB Compatible).png
-Named_Snaps/Arcade Hits - Moon Patrol _ Spy Hunter (USA, Europe) (GB Compatible).png
 Named_Snaps/Asterix - Search for Dogmatix (Europe) (En,Fr,De,Es,It,Nl).png
 Named_Snaps/Asterix _ Obelix vs Caesar (Europe) (En,Fr,De,Es,Nl) (GB Compatible).png
 Named_Snaps/Balloon Fight GB (Japan) (NP, SGB Enhanced) (GB Compatible).png
@@ -217,8 +205,6 @@ Named_Snaps/Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou (Japan) (Rev A) (N
 Named_Snaps/Magical Tetris Challenge (Europe) (En,Fr,De,Es,It,Nl,Sv) (Rev A).png
 Named_Snaps/Majokko Mari-chan no Kisekae Monogatari (Japan) (Rev A) (SGB Enhanced) (GB Compatible).png
 Named_Snaps/Maya the Bee _ Her Friends (Europe) (En,Fr,De,Es) (GB Compatible).png
-Named_Snaps/Mission Impossible (Europe) (En,Fr,De,Es,It).png
-Named_Snaps/Mission Impossible (USA) (En,Fr,Es).png
 Named_Snaps/Monster Traveler (Japan) (Rev A).png
 Named_Snaps/Monsters, Inc. (Europe) (Rev A).png
 Named_Snaps/Moorhen 3 - The Chicken Chase! (Europe) (En,Fr,De,Es,It).png
@@ -229,9 +215,6 @@ Named_Snaps/Muppets, The (Europe) (En,Fr,De,Es,It,Nl,Sv) (AP9P) (GB Compatible).
 Named_Snaps/Muppets, The (Europe) (En,Fr,De,Es,It,Nl,Sv) (AX9P).png
 Named_Snaps/Muppets, The (USA).png
 Named_Snaps/N.Y. Race (Europe) (En,Fr,De,Es,It,Pt).png
-Named_Snaps/NBA In the Zone (USA) (Rev A) (SGB Enhanced) (GB Compatible).png
-Named_Snaps/NBA In the Zone 2000 (Europe).png
-Named_Snaps/NBA In the Zone 2000 (USA).png
 Named_Snaps/NBA Jam '99 (USA, Europe) (GB Compatible).png
 Named_Snaps/NBA Pro '99 (Europe) (SGB Enhanced) (GB Compatible).png
 Named_Snaps/NFL Blitz (USA) (GB Compatible).png
@@ -331,10 +314,6 @@ Named_Snaps/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev A) (SGB Enhanc
 Named_Snaps/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev B) (SGB Enhanced) (GB Compatible).png
 Named_Snaps/Zoids - Jashin Fukkatsu! Genobreaker Hen (Japan) (Rev A) (SGB Enhanced) (GB Compatible).png
 Named_Titles/ATV Racing _ Karate Joe (Europe) (Alternate) (Unl).png
-Named_Titles/Adventures of Elmo in Grouchland, The (Europe) (GB Compatible).png
-Named_Titles/Adventures of Elmo in Grouchland, The (USA) (GB Compatible).png
-Named_Titles/Arcade Hits - Joust _ Defender (USA, Europe) (GB Compatible).png
-Named_Titles/Arcade Hits - Moon Patrol _ Spy Hunter (USA, Europe) (GB Compatible).png
 Named_Titles/Asterix - Search for Dogmatix (Europe) (En,Fr,De,Es,It,Nl).png
 Named_Titles/Asterix _ Obelix vs Caesar (Europe) (En,Fr,De,Es,Nl) (GB Compatible).png
 Named_Titles/Balloon Fight GB (Japan) (NP, SGB Enhanced) (GB Compatible).png
@@ -428,8 +407,6 @@ Named_Titles/Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou (Japan) (Rev A) (
 Named_Titles/Magical Tetris Challenge (Europe) (En,Fr,De,Es,It,Nl,Sv) (Rev A).png
 Named_Titles/Majokko Mari-chan no Kisekae Monogatari (Japan) (Rev A) (SGB Enhanced) (GB Compatible).png
 Named_Titles/Maya the Bee _ Her Friends (Europe) (En,Fr,De,Es) (GB Compatible).png
-Named_Titles/Mission Impossible (Europe) (En,Fr,De,Es,It).png
-Named_Titles/Mission Impossible (USA) (En,Fr,Es).png
 Named_Titles/Monster Traveler (Japan) (Rev A).png
 Named_Titles/Monsters, Inc. (Europe) (Rev A).png
 Named_Titles/Moorhen 3 - The Chicken Chase! (Europe) (En,Fr,De,Es,It).png
@@ -440,9 +417,6 @@ Named_Titles/Muppets, The (Europe) (En,Fr,De,Es,It,Nl,Sv) (AP9P) (GB Compatible)
 Named_Titles/Muppets, The (Europe) (En,Fr,De,Es,It,Nl,Sv) (AX9P).png
 Named_Titles/Muppets, The (USA).png
 Named_Titles/N.Y. Race (Europe) (En,Fr,De,Es,It,Pt).png
-Named_Titles/NBA In the Zone (USA) (Rev A) (SGB Enhanced) (GB Compatible).png
-Named_Titles/NBA In the Zone 2000 (Europe).png
-Named_Titles/NBA In the Zone 2000 (USA).png
 Named_Titles/NBA Jam '99 (USA, Europe) (GB Compatible).png
 Named_Titles/NBA Pro '99 (Europe) (SGB Enhanced) (GB Compatible).png
 Named_Titles/NFL Blitz (USA) (GB Compatible).png
@@ -541,4 +515,3 @@ Named_Titles/Yu-Gi-Oh! Duel Monsters III - Sanseisenshin Kourin (Japan).png
 Named_Titles/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev A) (SGB Enhanced) (GB Compatible).png
 Named_Titles/Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev B) (SGB Enhanced) (GB Compatible).png
 Named_Titles/Zoids - Jashin Fukkatsu! Genobreaker Hen (Japan) (Rev A) (SGB Enhanced) (GB Compatible).png
-Nintendo - Game Boy Color.dat

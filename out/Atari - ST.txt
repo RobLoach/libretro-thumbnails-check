@@ -1,9 +1,9 @@
 Atari - ST Missing
 
-Boxarts   124/404  30.69%
-Snaps     144/404  35.64%
-Titles    123/404  30.45%
-Total    391/1212  32.26%
+Boxarts   129/404  31.93%
+Snaps     162/404  40.10%
+Titles    142/404  35.15%
+Total    433/1212  35.73%
 
 Name                                                                                           Boxart  Snap  Title
 10th Frame (Europe)                                                                               ✗      -     ✗
@@ -20,7 +20,7 @@ Advanced Rugby Simulator (Europe)                                               
 Adventures of Robin Hood, The (Europe) (En,Fr,De,It)                                              -      ✗     ✗
 Afterburner (Europe)                                                                              -      -     ✗
 Alien World (Europe)                                                                              -      -     ✗
-Alternate Reality - The City (Europe) (v3.0)                                                      ✗      ✗     ✗
+Alternate Reality - The City (Europe) (v3.0)                                                      ✗      -     -
 Anarchy (Europe)                                                                                  -      ✗     ✗
 Another World (Europe)                                                                            -      ✗     ✗
 Apprentice (Europe)                                                                               ✗      ✗     ✗
@@ -32,9 +32,9 @@ Atax (Europe)                                                                   
 Atomix (Europe)                                                                                   -      ✗     ✗
 Backgammon Royale (Europe) (En,Fr,De) (v2.50 4 Jan 91)                                            -      ✗     ✗
 Bad Dudes vs. Dragon Ninja (Europe)                                                               ✗      ✗     ✗
-Balance of Power - The 1990 Edition (Europe)                                                      -      ✗     ✗
+Balance of Power - The 1990 Edition (Europe)                                                      -      -     -
 Ballistix (Europe)                                                                                -      ✗     ✗
-Barbarian - The Ultimate Warrior (Europe)                                                         -      ✗     ✗
+Barbarian - The Ultimate Warrior (Europe)                                                         -      ✗     -
 Battle Chess (Europe)                                                                             -      ✗     ✗
 Battle Probe (Europe)                                                                             ✗      ✗     ✗
 Battlehawks 1942 (Europe) (v1.0 3.1.89)                                                           -      ✗     ✗
@@ -121,19 +121,19 @@ Erik (Europe)                                                                   
 ESWAT (Europe)                                                                                    ✗      ✗     ✗
 Exolon (Europe)                                                                                   -      ✗     ✗
 Eye of Horus (Europe)                                                                             -      -     -
-F-15 Strike Eagle (Europe) (v703.01)                                                              ✗      ✗     ✗
+F-15 Strike Eagle (Europe) (v703.01)                                                              -      -     -
 F-19 Stealth Fighter (Europe) (v1.02)                                                             ✗      -     -
-Face-Off Ice Hockey (Europe) (En,Fr,De,Es,It)                                                     ✗      ✗     ✗
-Fire and Brimstone (Europe)                                                                       ✗      ✗     ✗
-Fire and Forget (Europe)                                                                          ✗      ✗     ✗
-Fire and Forget II - The Death Convoy (Europe)                                                    ✗      ✗     ✗
+Face-Off Ice Hockey (Europe) (En,Fr,De,Es,It)                                                     ✗      -     -
+Fire and Brimstone (Europe)                                                                       -      -     -
+Fire and Forget (Europe)                                                                          ✗      -     -
+Fire and Forget II - The Death Convoy (Europe)                                                    ✗      -     -
 Flimbo's Quest (Europe)                                                                           -      ✗     ✗
 Football Manager (Europe)                                                                         ✗      ✗     ✗
 Football Manager 2 (Europe)                                                                       -      -     -
 Foundation's Waste (Europe) (Budget - Klassix)                                                    -      ✗     ✗
 Foundation's Waste (Europe) (Coverdisk - The One - Issue 22) (Amiga + ST)                         -      ✗     ✗
 Full Metal Planete (Europe)                                                                       ✗      -     -
-Future Basketball (Europe)                                                                        ✗      ✗     ✗
+Future Basketball (Europe)                                                                        ✗      -     -
 Future Wars - Time Travellers (Europe)                                                            ✗      ✗     ✗
 Galaxy Force II (Europe)                                                                          ✗      ✗     ✗
 Game Over II (Europe)                                                                             ✗      ✗     ✗
@@ -217,7 +217,7 @@ Mega Twins (Europe)                                                             
 Mercenary - Escape from Targ _ The Second City (Europe) (Compilation - Premier Collection II)     ✗      -     -
 Metro-Cross (Europe)                                                                              -      -     -
 Mindwheel (Europe)                                                                                ✗      ✗     ✗
-Missing - One Droid (Europe)                                                                      ✗      ✗     ✗
+Missing - One Droid (Europe)                                                                      ✗      -     -
 Mission Genocide (Europe)                                                                         ✗      ✗     ✗
 Monster Business (Europe) (Amiga + ST)                                                            ✗      ✗     ✗
 Mousetrap + Plutos (Europe) (Summer Pack)                                                         ✗      ✗     ✗
@@ -225,9 +225,9 @@ Never Mind (Europe)                                                             
 Nigel Mansell's World Championship (Europe)                                                       -      ✗     ✗
 Night Shift (Europe)                                                                              -      -     -
 Night Walk (Europe)                                                                               ✗      ✗     ✗
-Ninja Rabbits (Europe)                                                                            -      ✗     ✗
-Ninja Remix (Europe)                                                                              ✗      ✗     ✗
-Nitro Boost Challenge (Europe)                                                                    -      ✗     ✗
+Ninja Rabbits (Europe)                                                                            -      -     -
+Ninja Remix (Europe)                                                                              -      -     -
+Nitro Boost Challenge (Europe)                                                                    -      -     -
 No Excuses (Europe) (En,Fr,De,It)                                                                 ✗      ✗     ✗
 North and South (Europe) (En,Fr,De,Es,It)                                                         -      -     -
 Obliterator (Europe)                                                                              -      -     -
@@ -248,7 +248,7 @@ Pandora (Europe)                                                                
 Paperboy (Europe) (Compilation - Finale)                                                          -      -     -
 Passengers on the Wind 2 (Europe)                                                                 -      -     -
 Pawn, The (Europe) (v2.1)                                                                         -      -     -
-Pengy _ Cosmos (Europe) (Quartet Gold)                                                            ✗      ✗     ✗
+Pengy _ Cosmos (Europe) (Quartet Gold)                                                            -      -     -
 Pharaoh III (Europe)                                                                              -      -     -
 Pictionary - The Game of Quick Draw (Europe)                                                      ✗      ✗     ✗
 Pipe Mania (Europe)                                                                               ✗      ✗     ✗
@@ -257,7 +257,7 @@ Player Manager (Europe) (Compilation - Football Crazy Challenge)                
 Police Quest - In Pursuit of the Death Angel (Europe) (v2.0G 12.3.87)                             -      -     ✗
 Populous - The Promised Lands (Europe) (Amiga + ST) (Addon)                                       -      -     -
 PowerBoat USA - Offshore Superboat Racing (Europe)                                                ✗      ✗     ✗
-Powerplay - The Game of the Gods (Europe)                                                         ✗      ✗     ✗
+Powerplay - The Game of the Gods (Europe)                                                         ✗      -     -
 President is Missing, The (Europe)                                                                -      -     -
 Prince (Europe)                                                                                   ✗      ✗     ✗
 Prison (Europe) (En,Fr,De,It)                                                                     ✗      ✗     ✗
@@ -282,14 +282,14 @@ Roadwars + Q Ball (Europe) (Summer Pack)                                        
 RoboCop (Europe)                                                                                  -      ✗     ✗
 Rock Star Ate My Hamster (Europe)                                                                 ✗      ✗     ✗
 Rocket Ranger (Europe) (TRIAD Volume 3)                                                           ✗      ✗     ✗
-Rody and Mastico II (Europe)                                                                      ✗      ✗     ✗
-Rody et Mastico III (France)                                                                      -      ✗     ✗
+Rody and Mastico II (Europe)                                                                      ✗      -     -
+Rody et Mastico III (France)                                                                      -      -     -
 Rotor (Europe)                                                                                    -      -     -
 Saint and Greavsie (Europe)                                                                       ✗      ✗     ✗
 Sargon III (Europe)                                                                               ✗      -     -
 SAS Combat Simulator (Europe)                                                                     -      -     -
 Savage (Europe)                                                                                   ✗      ✗     ✗
-Scooby-Doo and Scrappy-Doo (Europe)                                                               ✗      ✗     ✗
+Scooby-Doo and Scrappy-Doo (Europe)                                                               -      ✗     ✗
 Screaming Wings (Europe) (Quartet Gold)                                                           ✗      ✗     ✗
 Seconds Out (Europe)                                                                              ✗      ✗     ✗
 Seven Gates of Jambala, The (Europe)                                                              -      -     -
@@ -408,5 +408,5 @@ World Class Leader Board + Gazza's Super Soccer + Continental Circus (Europe) (G
 Wrangler (Europe)                                                                                 ✗      ✗     ✗
 X-Out (Europe)                                                                                    -      -     -
 Xenon (Europe) (Budget - 16 Blitz)                                                                -      -     -
-Yogi's Big Clean Up (Europe)                                                                      ✗      ✗     ✗
-Yogi's Great Escape (Europe)                                                                      ✗      ✗     ✗
+Yogi's Big Clean Up (Europe)                                                                      ✗      -     -
+Yogi's Great Escape (Europe)                                                                      ✗      -     -

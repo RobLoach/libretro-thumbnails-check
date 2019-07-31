@@ -1,5 +1,6 @@
 Nintendo - Satellaview Orphans
 
+.travis.yml
 Named_Snaps/AK LIVE Hit Gang (Japan) [b].png
 Named_Snaps/BS Dragon Quest I (Japan) (BS SoundLink) [b].png
 Named_Snaps/BS F-Zero Grand Prix - Dai-1-shuu - Knight League (Japan) (BS SoundLink).png
@@ -69,7 +70,7 @@ Named_Snaps/Konae-chan no Dokidoki Penguin Kazoku (Japan).png
 Named_Snaps/Media Strawberry Volume 12 (Japan).png
 Named_Snaps/Panel de Pon - Event '98 (Japan).png
 Named_Snaps/Radical Dreamers - Nusume Nai Houseki (Japan).png
-Named_Snaps/SD Gundam G Next - Unit & Map Collection (Japan) (BSROM).png
+Named_Snaps/SD Gundam G Next - Unit _ Map Collection (Japan) (BSROM).png
 Named_Snaps/Same Game - Chara Cassette (Japan) (BSROM).png
 Named_Snaps/Same Game - Chara Data Shuu (Japan) (BSROM).png
 Named_Snaps/Satella Walker 2 - Sate Bou o Sukuidase! (Japan) (BS SoundLink).png
@@ -155,7 +156,7 @@ Named_Titles/Konae-chan no Dokidoki Penguin Kazoku (Japan).png
 Named_Titles/Media Strawberry Volume 12 (Japan).png
 Named_Titles/Panel de Pon - Event '98 (Japan).png
 Named_Titles/Radical Dreamers - Nusume Nai Houseki (Japan).png
-Named_Titles/SD Gundam G Next - Unit & Map Collection (Japan) (BSROM).png
+Named_Titles/SD Gundam G Next - Unit _ Map Collection (Japan) (BSROM).png
 Named_Titles/Same Game - Chara Cassette (Japan) (BSROM).png
 Named_Titles/Same Game - Chara Data Shuu (Japan) (BSROM).png
 Named_Titles/Satella Walker 2 - Sate Bou o Sukuidase! (Japan) (BS SoundLink).png

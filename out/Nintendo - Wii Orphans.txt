@@ -1,5 +1,6 @@
 Nintendo - Wii Orphans
 
+.travis.yml
 Named_Boxarts/1,000,000 Dollar Pyramid (USA).png
 Named_Boxarts/101 Sports Party Megamix (USA).png
 Named_Boxarts/101 in 1 Party Megamix (USA).png
@@ -152,7 +153,7 @@ Named_Boxarts/Disney - Phineas And Ferb - Across The 2nd Dimension (USA).png
 Named_Boxarts/Disney - Phineas and Ferb - Quest for Cool Stuff (USA).png
 Named_Boxarts/Disney - Pirates of the Caribbean - At World's End (USA).png
 Named_Boxarts/Disney - Planes (USA).png
-Named_Boxarts/Disney - Planes Fire & Rescue (USA).png
+Named_Boxarts/Disney - Planes Fire _ Rescue (USA).png
 Named_Boxarts/Disney - Tangled The Video Game (USA).png
 Named_Boxarts/Disney - The Princess and the Frog (USA).png
 Named_Boxarts/Disney - The Princess and the Frog - Riverboat Jazz Edition (USA).png
@@ -205,8 +206,8 @@ Named_Boxarts/DreamWorks - Shrek Forever After (USA).png
 Named_Boxarts/DreamWorks - Shrek the Third (USA).png
 Named_Boxarts/DreamWorks - Shrek's Carnival Craze (USA).png
 Named_Boxarts/DreamWorks - Super Star Kartz (USA).png
-Named_Boxarts/DreamWorks - The Croods Prehistoric Party! & Rise of the Guardians (USA).png
 Named_Boxarts/DreamWorks - The Croods Prehistoric Party! (USA).png
+Named_Boxarts/DreamWorks - The Croods Prehistoric Party! _ Rise of the Guardians (USA).png
 Named_Boxarts/DreamWorks - Turbo Super Stunt Squad (USA).png
 Named_Boxarts/Dreamworks - Madagascar 3 The Video Game (USA).png
 Named_Boxarts/Dreamworks - Madagascar Kartz (USA).png
@@ -260,7 +261,7 @@ Named_Boxarts/Green Day Rock Band (USA).png
 Named_Boxarts/Green Lantern - Rise of the Manhunters (USA).png
 Named_Boxarts/Gremlins - Gizmo (USA).png
 Named_Boxarts/Grey's Anatomy - The Video Game (USA).png
-Named_Boxarts/Grim Adventures of Billy & Mandy (USA).png
+Named_Boxarts/Grim Adventures of Billy _ Mandy (USA).png
 Named_Boxarts/Guilty Gear - XX Accent Core (USA).png
 Named_Boxarts/Guilty Gear - XX Accent Core Plus (USA).png
 Named_Boxarts/Guinness World Records - The Video Game (USA).png
@@ -270,17 +271,17 @@ Named_Boxarts/Guitar Hero - Smash Hits (USA).png
 Named_Boxarts/Guitar Hero - Van Halen (USA).png
 Named_Boxarts/Guitar Hero - Warriors of Rock (USA).png
 Named_Boxarts/Guitar Hero - World Tour (USA).png
-Named_Boxarts/Guitar Hero III & Guitar Hero Aerosmith Dual Pack (USA).png
 Named_Boxarts/Guitar Hero III - Legends of Rock (USA).png
+Named_Boxarts/Guitar Hero III _ Guitar Hero Aerosmith Dual Pack (USA).png
 Named_Boxarts/Gummy Bears - Magical Medallion (USA).png
 Named_Boxarts/Gummy Bears - Minigolf (USA).png
-Named_Boxarts/Gunblade - NY & L.A. Machineguns Arcade Hits Pack (USA).png
+Named_Boxarts/Gunblade - NY _ L.A. Machineguns Arcade Hits Pack (USA).png
 Named_Boxarts/Hardy Boys - The Hidden Theft (USA).png
 Named_Boxarts/Harry Potter and the Deathly Hallows - Part 1 (USA).png
 Named_Boxarts/Harry Potter and the Deathly Hallows - Part 2 (USA).png
 Named_Boxarts/Harvest Moon - Tree of Tranquility (USA).png
 Named_Boxarts/Hasbro - Family Game Night (USA).png
-Named_Boxarts/Hasbro - Family Game Night 1 & 2 Bundle (USA).png
+Named_Boxarts/Hasbro - Family Game Night 1 _ 2 Bundle (USA).png
 Named_Boxarts/Hasbro - Family Game Night 2 (USA).png
 Named_Boxarts/Hasbro - Family Game Night 3 (USA).png
 Named_Boxarts/Hasbro - Family Game Night Fun Pack (USA).png
@@ -297,7 +298,7 @@ Named_Boxarts/History Channel - Battle for the Pacific (USA).png
 Named_Boxarts/Hooked Again - Real Motion Fishing (USA).png
 Named_Boxarts/Horrible Histories Ruthless Romans (USA).png
 Named_Boxarts/Hot Wheels - Track Attack (USA).png
-Named_Boxarts/House of the Dead - 2 & 3 Return (USA).png
+Named_Boxarts/House of the Dead - 2 _ 3 Return (USA).png
 Named_Boxarts/House of the Dead - Overkill (USA).png
 Named_Boxarts/Hysteria Hospital - Emergency Ward (USA).png
 Named_Boxarts/Ice Age - Dawn of the Dinosaurs (USA).png
@@ -364,13 +365,8 @@ Named_Boxarts/Littlest Pet Shop Friends (USA).png
 Named_Boxarts/London Taxi - Rush Hour (USA).png
 Named_Boxarts/Lord of the Rings - Aragorn's Quest (USA).png
 Named_Boxarts/Lost in Blue - Shipwrecked (USA).png
-Named_Boxarts/M&M's Adventure (USA).png
-Named_Boxarts/M&M's Beach Party (USA).png
-Named_Boxarts/M&M's Kart Racing (USA).png
 Named_Boxarts/Mad Dog McCree - Gunslinger Pack (USA).png
 Named_Boxarts/Marble Saga - Kororinpa (USA).png
-Named_Boxarts/Mario & Sonic at the Olympic Games (USA).png
-Named_Boxarts/Mario & Sonic at the Olympic Winter Games (USA).png
 Named_Boxarts/Mario Power Tennis - New Play Control (USA).png
 Named_Boxarts/Mario and Sonic at the London 2012 Olympic Games (USA).png
 Named_Boxarts/Marvel Super Hero Squad - Comic Combat (USA).png
@@ -484,7 +480,7 @@ Named_Boxarts/Real Heroes - Firefighter (USA).png
 Named_Boxarts/Rebel Raiders - Operation Nighthawk (USA).png
 Named_Boxarts/Reload - Target Down (USA).png
 Named_Boxarts/Remington Great American Bird Hunt and Shimano Xtreme Fishing (USA).png
-Named_Boxarts/Ringling Bros and Barnum & Bailey Circus (USA).png
+Named_Boxarts/Ringling Bros and Barnum _ Bailey Circus (USA).png
 Named_Boxarts/Rock 'n' Roll Adventures (USA).png
 Named_Boxarts/Rock Band Country Track Pack (USA).png
 Named_Boxarts/Rock Band Country Track Pack 2 (USA).png
@@ -500,7 +496,7 @@ Named_Boxarts/Rooms - The Main Building (USA).png
 Named_Boxarts/Rudolph The Red Nosed Reindeer (USA).png
 Named_Boxarts/SCORE International Baja 1000 (USA).png
 Named_Boxarts/Safecracker - The Ultimate Puzzle Adventure (USA).png
-Named_Boxarts/Sam & Max Season 2 - Beyond Time and Space (USA).png
+Named_Boxarts/Sam _ Max Season 2 - Beyond Time and Space (USA).png
 Named_Boxarts/Sam and Max - Season 1 (USA).png
 Named_Boxarts/Santa Claus Is Comin' To Town (USA).png
 Named_Boxarts/Scene It - Bright Lights, Big Screen (USA).png
@@ -509,7 +505,7 @@ Named_Boxarts/Scooby Doo - First Frights (USA).png
 Named_Boxarts/Scooby-Doo and the Spooky Swamp (USA).png
 Named_Boxarts/Secret Files 2 Puritas Cordis (USA).png
 Named_Boxarts/Secret Saturdays - Beasts of the 5th Sun (USA).png
-Named_Boxarts/Sega Fun Pack Sonic and the Secret Rings & Super Monkey Ball Banana Blitz (USA).png
+Named_Boxarts/Sega Fun Pack Sonic and the Secret Rings _ Super Monkey Ball Banana Blitz (USA).png
 Named_Boxarts/Sega Superstar Tennis (USA).png
 Named_Boxarts/Sengoku Basara - Samurai Heroes (USA).png
 Named_Boxarts/Sesame Street - Cookie's Counting Carnival (USA).png
@@ -525,7 +521,7 @@ Named_Boxarts/Sim City Creator (USA).png
 Named_Boxarts/Sims 3 (USA).png
 Named_Boxarts/Sin and Punishment Star Successor (USA).png
 Named_Boxarts/Sing 4 - The Hits Edition (USA).png
-Named_Boxarts/Ski & Shoot (USA).png
+Named_Boxarts/Ski _ Shoot (USA).png
 Named_Boxarts/Ski-Doo Snowmobile Challenge (USA).png
 Named_Boxarts/Sky Crawlers - Innocent Aces (USA).png
 Named_Boxarts/Skylanders - Giants (USA).png
@@ -562,7 +558,6 @@ Named_Boxarts/Summer Athletics - The Ultimate Challenge (USA).png
 Named_Boxarts/Super Mario All-Stars 25th Anniversary (USA).png
 Named_Boxarts/Super Mario Galaxy  (USA).png
 Named_Boxarts/Super Monkey Ball - Banana Blitz (USA).png
-Named_Boxarts/Super Monkey Ball - Step & Roll (USA).png
 Named_Boxarts/Super Swing Golf - Season 2 (USA).png
 Named_Boxarts/TMNT - Smash-Up Cowabunga (USA).png
 Named_Boxarts/Tale of Despereaux (USA).png
@@ -576,7 +571,7 @@ Named_Boxarts/The Sims 2 Castaway (USA).png
 Named_Boxarts/The Sims 2 Pets (USA).png
 Named_Boxarts/The Ultimate Battle of the Sexes (USA).png
 Named_Boxarts/The Voice I Want You (USA).png
-Named_Boxarts/Thomas & Friends -  Hero of the Rails (USA).png
+Named_Boxarts/Thomas _ Friends -  Hero of the Rails (USA).png
 Named_Boxarts/Thor - God of Thunder (USA).png
 Named_Boxarts/Thrillville Off the Rails (USA).png
 Named_Boxarts/Tiger Woods PGA Tour 09 (USA).png
@@ -612,13 +607,12 @@ Named_Boxarts/WWE SmackDown vs. RAW 2008 (USA).png
 Named_Boxarts/WWE SmackDown vs. RAW 2009 (USA).png
 Named_Boxarts/WWE SmackDown vs. RAW 2010 (USA).png
 Named_Boxarts/WWE Smackdown vs RAW 2011 (USA).png
-Named_Boxarts/Wacky Races - Crash & Dash (USA).png
+Named_Boxarts/Wacky Races - Crash _ Dash (USA).png
 Named_Boxarts/Wacky World Of Sports (USA).png
 Named_Boxarts/Walk It Out (USA).png
 Named_Boxarts/Wario Land Shake It (USA).png
 Named_Boxarts/We Love Golf (USA).png
 Named_Boxarts/We Sing UK Hits (USA).png
-Named_Boxarts/We Ski & Snowboard (USA).png
 Named_Boxarts/We Wish You A Merry Christmas (USA).png
 Named_Boxarts/Where's Waldo The Fantastic Journey (USA).png
 Named_Boxarts/Who Wants to be a Millionaire - 3rd Edition (USA).png
@@ -631,7 +625,7 @@ Named_Boxarts/Winter Sports 2 - The Next Challenge (USA).png
 Named_Boxarts/Winter Sports 2008 - The Ultimate Challenge (USA).png
 Named_Boxarts/Winter Sports 3 - The Great Tournament (USA).png
 Named_Boxarts/Wipeout (USA).png
-Named_Boxarts/Wipeout Create & Crash (USA).png
+Named_Boxarts/Wipeout Create _ Crash (USA).png
 Named_Boxarts/Wonder World (USA).png
 Named_Boxarts/World Championship Poker Featuring Howard Lederer All In (USA).png
 Named_Boxarts/World Series of Poker Tournament of Champions (USA).png

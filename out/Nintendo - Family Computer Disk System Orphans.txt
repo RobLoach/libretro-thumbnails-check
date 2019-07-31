@@ -1,11 +1,9 @@
 Nintendo - Family Computer Disk System Orphans
 
+.travis.yml
 Named_Boxarts/Big Challenge! Go! Go! Bowling (Japan).png
 Named_Boxarts/Big Challenge! Juudou Senshuken (Japan).png
 Named_Boxarts/Idol Hotline - Nakayama Miho no Tokimeki High School (Japan).png
-Named_Boxarts/Kikikai-kai - Dotou Hen (Japan) (Rev 1) (Disk Writer).png
-Named_Boxarts/Kikikai-kai - Dotou Hen (Japan).png
-Named_Boxarts/Tama & Friends - 3 Choume Daibouken (Japan).png
 Named_Boxarts/Time Twist - Rekishi no Katasumi de... - Zenpen (Japan) [b].png
 Named_Boxarts/Ultraman Club - Chikyuu Dakkan Sakusen (Japan) (Rev 1).png
 Named_Boxarts/Ultraman Club - Chikyuu Dakkan Sakusen (Japan).png
@@ -13,9 +11,6 @@ Named_Boxarts/Yume Koujou Doki Doki Panic (Japan) (DV 1).png
 Named_Boxarts/Zelda no Densetsu - The Hyrule Fantasy (Japan) (Nintendo Classic Mini Family Computer).png
 Named_Snaps/Big Challenge! Go! Go! Bowling (Japan).png
 Named_Snaps/Big Challenge! Juudou Senshuken (Japan).png
-Named_Snaps/Kikikai-kai - Dotou Hen (Japan) (Rev 1) (Disk Writer).png
-Named_Snaps/Kikikai-kai - Dotou Hen (Japan).png
-Named_Snaps/Tama & Friends - 3 Choume Daibouken (Japan).png
 Named_Snaps/Time Twist - Rekishi no Katasumi de... - Zenpen (Japan) [b].png
 Named_Snaps/Ultraman Club - Chikyuu Dakkan Sakusen (Japan) (Rev 1).png
 Named_Snaps/Ultraman Club - Chikyuu Dakkan Sakusen (Japan).png
@@ -23,9 +18,6 @@ Named_Snaps/Yume Koujou Doki Doki Panic (Japan) (DV 1).png
 Named_Snaps/Zelda no Densetsu - The Hyrule Fantasy (Japan) (Nintendo Classic Mini Family Computer).png
 Named_Titles/Big Challenge! Go! Go! Bowling (Japan).png
 Named_Titles/Big Challenge! Juudou Senshuken (Japan).png
-Named_Titles/Kikikai-kai - Dotou Hen (Japan) (Rev 1) (Disk Writer).png
-Named_Titles/Kikikai-kai - Dotou Hen (Japan).png
-Named_Titles/Tama & Friends - 3 Choume Daibouken (Japan).png
 Named_Titles/Time Twist - Rekishi no Katasumi de... - Zenpen (Japan) [b].png
 Named_Titles/Ultraman Club - Chikyuu Dakkan Sakusen (Japan) (Rev 1).png
 Named_Titles/Ultraman Club - Chikyuu Dakkan Sakusen (Japan).png

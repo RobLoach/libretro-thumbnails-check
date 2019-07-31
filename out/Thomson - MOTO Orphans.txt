@@ -1,10 +1,199 @@
 Thomson - MOTO Orphans
 
+.travis.yml
+Named_Boxarts/Androides + Editeur.png
+Named_Boxarts/Arsene Lapin.png
+Named_Boxarts/Asterix Chez Rahazade.png
+Named_Boxarts/Asterix Et La Potion Magique.png
 Named_Boxarts/Blue War 2.png
+Named_Boxarts/Controle Aerien.png
+Named_Boxarts/Defi Au Tarot.png
+Named_Boxarts/Enigmatika 1ere Serie.png
+Named_Boxarts/Enigmatika 2e Serie.png
+Named_Boxarts/Enigmatika 4e Serie.png
+Named_Boxarts/Enigmatika 5e Serie.png
+Named_Boxarts/Erebus.png
 Named_Boxarts/Ernest.png
-Named_Boxarts/Fantôme City.png
+Named_Boxarts/Fantome City.png
+Named_Boxarts/Felonies.png
+Named_Boxarts/Geodyssee.png
+Named_Boxarts/Grand Siecle.png
+Named_Boxarts/Intrigue a Paris.png
+Named_Boxarts/Karate.png
+Named_Boxarts/L'affaire Vera Cruz.png
+Named_Boxarts/L'evade De Tapiocatraz.png
+Named_Boxarts/La Malediction De Thaar.png
+Named_Boxarts/La Planete Bleue.png
+Named_Boxarts/La Planete Inconnue.png
+Named_Boxarts/Le 5eme Axe.png
+Named_Boxarts/Le Bagh Chal (tigre Et Chevres).png
+Named_Boxarts/Le Chateau De La Mort.png
+Named_Boxarts/Le Malefice Des Atlantes.png
+Named_Boxarts/Le Mystere De Paris.png
+Named_Boxarts/Le Tresor Des Baskerville.png
+Named_Boxarts/Le Tresor Du Pirate.png
+Named_Boxarts/Legende.png
+Named_Boxarts/Les Cavernes De Thenebe.png
+Named_Boxarts/Les Enquetes De Monsieur Theophile.png
+Named_Boxarts/Lucky Luke - Nitroglycerine.png
+Named_Boxarts/Megawatt.png
+Named_Boxarts/Melimemot.png
+Named_Boxarts/Mes Premiers Mots Croises.png
+Named_Boxarts/Meteo 7.png
+Named_Boxarts/Meteorisque.png
+Named_Boxarts/Metro.png
+Named_Boxarts/Numero 10.png
+Named_Boxarts/Oceania.png
+Named_Boxarts/Omega Planete Invisible.png
+Named_Boxarts/Operation Nemo.png
+Named_Boxarts/Pepito Log'1.png
+Named_Boxarts/Planete Morte.png
+Named_Boxarts/Poseidon.png
+Named_Boxarts/Regates.png
+Named_Boxarts/Reussites.png
+Named_Boxarts/Rodeo.png
+Named_Boxarts/Sortileges.png
+Named_Boxarts/Sports D'ete.png
+Named_Boxarts/Super Androides.png
+Named_Boxarts/Telerama N1.png
+Named_Boxarts/Telerama N2.png
+Named_Boxarts/Thesaurus.png
+Named_Boxarts/Yeti.png
+Named_Snaps/Androides + Editeur.png
+Named_Snaps/Araignees.png
+Named_Snaps/Arsene Lapin.png
+Named_Snaps/Asterix Chez Rahazade.png
+Named_Snaps/Asterix Et La Potion Magique.png
 Named_Snaps/Blue War 2.png
+Named_Snaps/Chateau Noir Et Dragons Rouges.png
+Named_Snaps/Controle Aerien.png
+Named_Snaps/Defi Au Tarot.png
+Named_Snaps/Demineur.png
+Named_Snaps/Enigmatika 1ere Serie.png
+Named_Snaps/Enigmatika 2e Serie.png
+Named_Snaps/Enigmatika 4e Serie.png
+Named_Snaps/Enigmatika 5e Serie.png
+Named_Snaps/Erebus.png
 Named_Snaps/Ernest.png
-Named_Snaps/Fantôme City.png
+Named_Snaps/Fantome City.png
+Named_Snaps/Felonies.png
+Named_Snaps/Geodyssee.png
+Named_Snaps/Grand Siecle.png
+Named_Snaps/Jeu Meteo.png
+Named_Snaps/Karate.png
+Named_Snaps/L'affaire Vera Cruz.png
+Named_Snaps/L'evade De Tapiocatraz.png
+Named_Snaps/L'heritage 2.png
+Named_Snaps/La Maison Hantee.png
+Named_Snaps/La Malediction De Thaar.png
+Named_Snaps/La Planete Bleue.png
+Named_Snaps/La Planete Inconnue.png
+Named_Snaps/Le 5eme Axe.png
+Named_Snaps/Le Bagh Chal (tigre Et Chevres).png
+Named_Snaps/Le Chateau De La Mort.png
+Named_Snaps/Le Crepuscule Du Naja.png
+Named_Snaps/Le General.png
+Named_Snaps/Le Malefice Des Atlantes.png
+Named_Snaps/Le Metallurgiste.png
+Named_Snaps/Le Mystere De Ming-fonko.png
+Named_Snaps/Le Mystere De Paris.png
+Named_Snaps/Le Tresor Des Baskerville.png
+Named_Snaps/Le Tresor Des Rats D'egout.png
+Named_Snaps/Le Tresor Du Pirate.png
+Named_Snaps/Legende.png
+Named_Snaps/Les Cavernes De Thenebe.png
+Named_Snaps/Les Enquetes De Monsieur Theophile.png
+Named_Snaps/Lucky Luke - Nitroglycerine.png
+Named_Snaps/Megawatt.png
+Named_Snaps/Melimemot.png
+Named_Snaps/Memo7.png
+Named_Snaps/Memory.png
+Named_Snaps/Mes Premiers Mots Croises.png
+Named_Snaps/Meteo 7.png
+Named_Snaps/Meteorisque.png
+Named_Snaps/Metro.png
+Named_Snaps/Meurtres En Serie.png
+Named_Snaps/Mission Tres Speciale.png
+Named_Snaps/Numero 10 Mexico 86.png
+Named_Snaps/Numero 10.png
+Named_Snaps/Oceania.png
+Named_Snaps/Omega Planete Invisible.png
+Named_Snaps/Operation Nemo.png
+Named_Snaps/Pepito Log'1.png
+Named_Snaps/Planete Morte.png
+Named_Snaps/Poseidon.png
+Named_Snaps/Regates.png
+Named_Snaps/Reussites.png
+Named_Snaps/Revolution.png
+Named_Snaps/Rodeo.png
+Named_Snaps/Sorciere.png
+Named_Snaps/Sortileges.png
+Named_Snaps/Sports D'ete.png
+Named_Snaps/Super Androides.png
+Named_Snaps/Teledomino.png
+Named_Snaps/Telerama N1.png
+Named_Snaps/Telerama N2.png
+Named_Snaps/Theogiciels Loisir 1.png
+Named_Snaps/Thesaurus.png
+Named_Snaps/Turlogh Le Rodeur.png
+Named_Snaps/Yeti.png
+Named_Titles/Androides + Editeur.png
+Named_Titles/Araignees.png
+Named_Titles/Arsene Lapin.png
+Named_Titles/Asterix Chez Rahazade.png
+Named_Titles/Asterix Et La Potion Magique.png
+Named_Titles/Chateau Noir Et Dragons Rouges.png
+Named_Titles/Controle Aerien.png
+Named_Titles/Defi Au Tarot.png
+Named_Titles/Demineur.png
+Named_Titles/Enigmatika 1ere Serie.png
+Named_Titles/Erebus.png
 Named_Titles/Ernest.png
-Named_Titles/Fantôme City.png
+Named_Titles/Fantome City.png
+Named_Titles/Felonies.png
+Named_Titles/Geodyssee.png
+Named_Titles/Grand Siecle.png
+Named_Titles/Intrigue a Paris.png
+Named_Titles/Jeu Meteo.png
+Named_Titles/Karate.png
+Named_Titles/L'affaire Vera Cruz.png
+Named_Titles/L'evade De Tapiocatraz.png
+Named_Titles/L'heritage 2.png
+Named_Titles/La Maison Hantee.png
+Named_Titles/La Malediction De Thaar.png
+Named_Titles/La Planete Inconnue.png
+Named_Titles/Le 5eme Axe.png
+Named_Titles/Le Chateau De La Mort.png
+Named_Titles/Le Crepuscule Du Naja.png
+Named_Titles/Le General.png
+Named_Titles/Le Malefice Des Atlantes.png
+Named_Titles/Le Metallurgiste.png
+Named_Titles/Le Mystere De Ming-fonko.png
+Named_Titles/Le Mystere De Paris.png
+Named_Titles/Le Tresor Des Rats D'egout.png
+Named_Titles/Le Tresor Du Pirate.png
+Named_Titles/Les Cavernes De Thenebe.png
+Named_Titles/Les Enquetes De Monsieur Theophile.png
+Named_Titles/Lucky Luke - Nitroglycerine.png
+Named_Titles/Megawatt.png
+Named_Titles/Melimemot.png
+Named_Titles/Memo7.png
+Named_Titles/Memory.png
+Named_Titles/Mes Premiers Mots Croises.png
+Named_Titles/Meteo 7.png
+Named_Titles/Numero 10 Mexico 86.png
+Named_Titles/Numero 10.png
+Named_Titles/Oceania.png
+Named_Titles/Omega Planete Invisible.png
+Named_Titles/Poseidon.png
+Named_Titles/Regates.png
+Named_Titles/Rodeo.png
+Named_Titles/Sorciere.png
+Named_Titles/Sortileges.png
+Named_Titles/Sports D'ete.png
+Named_Titles/Teledomino.png
+Named_Titles/Telerama N1.png
+Named_Titles/Telerama N2.png
+Named_Titles/Theogiciels Loisir 1.png
+Named_Titles/Thesaurus.png
+Named_Titles/Yeti.png

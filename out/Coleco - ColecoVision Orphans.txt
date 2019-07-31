@@ -1,38 +1,13 @@
 Coleco - ColecoVision Orphans
 
-Named_Boxarts/2010 - The Graphic Action Game (USA, Europe).png
-Named_Boxarts/BC's Quest for Tires (USA, Europe).png
-Named_Boxarts/BC's Quest for Tires II - Grog's Revenge (USA, Europe) (Alt 1).png
-Named_Boxarts/BC's Quest for Tires II - Grog's Revenge (USA, Europe).png
+.travis.yml
 Named_Boxarts/Brain Strainers (USA, Europe).png
-Named_Boxarts/Bump 'N' Jump (USA, Europe) (Beta).png
-Named_Boxarts/Bump 'N' Jump (USA, Europe).png
-Named_Boxarts/Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta).png
-Named_Boxarts/Cabbage Patch Kids Picture Show (USA, Europe).png
-Named_Boxarts/Choplifter (USA, Europe).png
-Named_Boxarts/Chuck Norris - Super Kicks (USA).png
-Named_Boxarts/Congo Bongo (USA, Europe).png
-Named_Boxarts/Cosmic Crisis (USA).png
 Named_Boxarts/Cosmo Challenge (1997)(de Kogel, Marcel)(PD).png
 Named_Boxarts/Cosmo Fighter 2 (1997)(Red Bullet)(PD).png
 Named_Boxarts/Dacman V1.2b by Daniel Bienvenu (Aug 01) (2000) (PD).png
-Named_Boxarts/Dam Busters, The (USA, Europe).png
 Named_Boxarts/Death Race (PD).png
-Named_Boxarts/Donkey Kong (USA, Europe) (Adam).png
-Named_Boxarts/Donkey Kong (USA, Europe).png
-Named_Boxarts/Donkey Kong Jr (USA, Europe).png
-Named_Boxarts/Dr. Seuss's Fix-Up the Mix-Up Puzzler (USA, Europe).png
-Named_Boxarts/Dukes of Hazzard, The (USA, Europe).png
-Named_Boxarts/Escape from the MindMaster (USA) (Proto).png
-Named_Boxarts/Evolution (USA).png
-Named_Boxarts/Flipper Slipper (USA).png
-Named_Boxarts/Fortune Builder (USA, Europe).png
 Named_Boxarts/From Out of the Jungle - Tarzan (USA).png
-Named_Boxarts/Frontline (USA, Europe) (Alt 1).png
-Named_Boxarts/Frontline (USA, Europe).png
 Named_Boxarts/Galaxian (USA) (Alt 1).png
-Named_Boxarts/Gateway to Apshai (USA).png
-Named_Boxarts/H.E.R.O (USA).png
 Named_Boxarts/Illusions (USA, Europe).png
 Named_Boxarts/James Bond (USA).png
 Named_Boxarts/Juke Box (USA).png
@@ -91,35 +66,9 @@ Named_Boxarts/Victory (USA, Europe).png
 Named_Boxarts/Video Hustler (Europe) (Proto).png
 Named_Boxarts/War Games (USA, Europe).png
 Named_Boxarts/Wizard of Id's Wizmath (USA).png
-Named_Snaps/2010 - The Graphic Action Game (USA, Europe).png
-Named_Snaps/BC's Quest for Tires (USA, Europe).png
-Named_Snaps/BC's Quest for Tires II - Grog's Revenge (USA, Europe) (Alt 1).png
-Named_Snaps/BC's Quest for Tires II - Grog's Revenge (USA, Europe).png
 Named_Snaps/Brain Strainers (USA, Europe).png
-Named_Snaps/Bump 'N' Jump (USA, Europe) (Beta).png
-Named_Snaps/Bump 'N' Jump (USA, Europe).png
-Named_Snaps/Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta).png
-Named_Snaps/Cabbage Patch Kids Picture Show (USA, Europe).png
-Named_Snaps/Choplifter (USA, Europe).png
-Named_Snaps/Chuck Norris - Super Kicks (USA).png
-Named_Snaps/Congo Bongo (USA, Europe).png
-Named_Snaps/Cosmic Crisis (USA).png
-Named_Snaps/Dam Busters, The (USA, Europe).png
-Named_Snaps/Donkey Kong (USA, Europe) (Adam).png
-Named_Snaps/Donkey Kong (USA, Europe).png
-Named_Snaps/Donkey Kong Jr (USA, Europe).png
-Named_Snaps/Dr. Seuss's Fix-Up the Mix-Up Puzzler (USA, Europe).png
-Named_Snaps/Dukes of Hazzard, The (USA, Europe).png
-Named_Snaps/Escape from the MindMaster (USA) (Proto).png
-Named_Snaps/Evolution (USA).png
-Named_Snaps/Flipper Slipper (USA).png
-Named_Snaps/Fortune Builder (USA, Europe).png
 Named_Snaps/From Out of the Jungle - Tarzan (USA).png
-Named_Snaps/Frontline (USA, Europe) (Alt 1).png
-Named_Snaps/Frontline (USA, Europe).png
 Named_Snaps/Galaxian (USA) (Alt 1).png
-Named_Snaps/Gateway to Apshai (USA).png
-Named_Snaps/H.E.R.O (USA).png
 Named_Snaps/Illusions (USA, Europe).png
 Named_Snaps/James Bond (USA).png
 Named_Snaps/Juke Box (USA).png
@@ -168,35 +117,9 @@ Named_Snaps/Victory (USA, Europe).png
 Named_Snaps/Video Hustler (Europe) (Proto).png
 Named_Snaps/War Games (USA, Europe).png
 Named_Snaps/Wizard of Id's Wizmath (USA).png
-Named_Titles/2010 - The Graphic Action Game (USA, Europe).png
-Named_Titles/BC's Quest for Tires (USA, Europe).png
-Named_Titles/BC's Quest for Tires II - Grog's Revenge (USA, Europe) (Alt 1).png
-Named_Titles/BC's Quest for Tires II - Grog's Revenge (USA, Europe).png
 Named_Titles/Brain Strainers (USA, Europe).png
-Named_Titles/Bump 'N' Jump (USA, Europe) (Beta).png
-Named_Titles/Bump 'N' Jump (USA, Europe).png
-Named_Titles/Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta).png
-Named_Titles/Cabbage Patch Kids Picture Show (USA, Europe).png
-Named_Titles/Choplifter (USA, Europe).png
-Named_Titles/Chuck Norris - Super Kicks (USA).png
-Named_Titles/Congo Bongo (USA, Europe).png
-Named_Titles/Cosmic Crisis (USA).png
-Named_Titles/Dam Busters, The (USA, Europe).png
-Named_Titles/Donkey Kong (USA, Europe) (Adam).png
-Named_Titles/Donkey Kong (USA, Europe).png
-Named_Titles/Donkey Kong Jr (USA, Europe).png
-Named_Titles/Dr. Seuss's Fix-Up the Mix-Up Puzzler (USA, Europe).png
-Named_Titles/Dukes of Hazzard, The (USA, Europe).png
-Named_Titles/Escape from the MindMaster (USA) (Proto).png
-Named_Titles/Evolution (USA).png
-Named_Titles/Flipper Slipper (USA).png
-Named_Titles/Fortune Builder (USA, Europe).png
 Named_Titles/From Out of the Jungle - Tarzan (USA).png
-Named_Titles/Frontline (USA, Europe) (Alt 1).png
-Named_Titles/Frontline (USA, Europe).png
 Named_Titles/Galaxian (USA) (Alt 1).png
-Named_Titles/Gateway to Apshai (USA).png
-Named_Titles/H.E.R.O (USA).png
 Named_Titles/Illusions (USA, Europe).png
 Named_Titles/James Bond (USA).png
 Named_Titles/Juke Box (USA).png

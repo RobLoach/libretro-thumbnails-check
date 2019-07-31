@@ -1,5 +1,6 @@
 Atari - ST Orphans
 
+.travis.yml
 Named_Boxarts/3D Construction Kit.png
 Named_Boxarts/9 Lives.png
 Named_Boxarts/A320 Airbus.png
@@ -136,7 +137,7 @@ Named_Boxarts/Corruption (USA).png
 Named_Boxarts/Corruption.png
 Named_Boxarts/Cosmic Pirate.png
 Named_Boxarts/Count Duckula.png
-Named_Boxarts/Crafton & Xunk.png
+Named_Boxarts/Crafton _ Xunk.png
 Named_Boxarts/Crash Garrett.png
 Named_Boxarts/Crazy Cars II.png
 Named_Boxarts/Crazy Cars III.png
@@ -202,7 +203,6 @@ Named_Boxarts/Extravaganza.png
 Named_Boxarts/Eye of Horus 2.png
 Named_Boxarts/Eye of Horus 3.png
 Named_Boxarts/F-15 Strike Eagle II.png
-Named_Boxarts/F-15 Strike Eagle.png
 Named_Boxarts/F-16 Combat Pilot.png
 Named_Boxarts/F29 Retaliator.png
 Named_Boxarts/Falcon (De).png
@@ -217,9 +217,8 @@ Named_Boxarts/Fiendish Freddy's Big Top O' Fun.png
 Named_Boxarts/Fighter Bomber.png
 Named_Boxarts/Fighting Soccer.png
 Named_Boxarts/Final Command.png
-Named_Boxarts/Fire And Brimstone.png
 Named_Boxarts/Fire and Ice.png
-Named_Boxarts/Fish!.png
+Named_Boxarts/Fish.png
 Named_Boxarts/Flight Of The Intruder.png
 Named_Boxarts/Flood.png
 Named_Boxarts/Forgotten Worlds.png
@@ -401,7 +400,6 @@ Named_Boxarts/Nightbreed.png
 Named_Boxarts/Nil Dieu Vivant (Fr).png
 Named_Boxarts/Nine Princes in Amber.png
 Named_Boxarts/Ninja Mission.png
-Named_Boxarts/Ninja Remix.png
 Named_Boxarts/Ninja Spirit.png
 Named_Boxarts/Ninja Warriors, The (16 Blitz Tronix).png
 Named_Boxarts/Ninja Warriors, The.png
@@ -426,7 +424,6 @@ Named_Boxarts/Paladin.png
 Named_Boxarts/Paradroid 90.png
 Named_Boxarts/Passing Shot.png
 Named_Boxarts/Pegasus.png
-Named_Boxarts/Pengy.png
 Named_Boxarts/Personal Nightmare.png
 Named_Boxarts/Peter Beardsley's International Football.png
 Named_Boxarts/Phantasie II.png
@@ -487,8 +484,8 @@ Named_Boxarts/Robozone (Fr).png
 Named_Boxarts/Rock N Roll.png
 Named_Boxarts/Rocket Ranger.png
 Named_Boxarts/Rodland.png
-Named_Boxarts/Rody & Mastico IV - Rody Noel.png
-Named_Boxarts/Rody & Mastico.png
+Named_Boxarts/Rody _ Mastico (Europe).png
+Named_Boxarts/Rody _ Mastico IV - Rody Noel.png
 Named_Boxarts/Rotox.png
 Named_Boxarts/Running Man, The.png
 Named_Boxarts/S.T.U.N. Runner.png
@@ -501,7 +498,6 @@ Named_Boxarts/STOS Maestro.png
 Named_Boxarts/STOS Sprites 600.png
 Named_Boxarts/STOS The Games Creator.png
 Named_Boxarts/Savage.png
-Named_Boxarts/Scooby Doo & Scrappy Doo.png
 Named_Boxarts/Scoop Junior.png
 Named_Boxarts/Scrabble Deluxe.png
 Named_Boxarts/Scrabble.png
@@ -597,7 +593,7 @@ Named_Boxarts/Time Machine.png
 Named_Boxarts/Time Soldier.png
 Named_Boxarts/Tiny Skweeks.png
 Named_Boxarts/Toki.png
-Named_Boxarts/Tom & Jerry.png
+Named_Boxarts/Tom _ Jerry.png
 Named_Boxarts/Torvak The Warrior.png
 Named_Boxarts/Total Eclipse.png
 Named_Boxarts/Tower Toppler.png
@@ -704,7 +700,7 @@ Named_Snaps/Advanced Galactic Empire.png
 Named_Snaps/Advanced Rugby Simulator.png
 Named_Snaps/Advanced Ski Simulator.png
 Named_Snaps/Advantage Tennis.png
-Named_Snaps/Adventures of Quik & Silva The.png
+Named_Snaps/Adventures of Quik _ Silva The.png
 Named_Snaps/Adventures of Robin Hood The.png
 Named_Snaps/Affaire L'.png
 Named_Snaps/African Raiders.png
@@ -736,7 +732,6 @@ Named_Snaps/Alpha Waves.png
 Named_Snaps/Alphamax.png
 Named_Snaps/Alpine Games.png
 Named_Snaps/Altered Beast.png
-Named_Snaps/Alternate Reality The City.png
 Named_Snaps/Amazeing.png
 Named_Snaps/Amazing Spider-Man The.png
 Named_Snaps/Amazon.png
@@ -815,7 +810,6 @@ Named_Snaps/Bad Dudes vs Dragon Ninja.png
 Named_Snaps/Badlands Pete.png
 Named_Snaps/Badlands.png
 Named_Snaps/Baker Street Detective.png
-Named_Snaps/Balance of Power The 1990 Edition.png
 Named_Snaps/Balance of Power.png
 Named_Snaps/Ball Game The.png
 Named_Snaps/Ball Zone.png
@@ -879,7 +873,6 @@ Named_Snaps/Biohazard II.png
 Named_Snaps/Bionic Commando.png
 Named_Snaps/Bismarck.png
 Named_Snaps/Bivouac.png
-Named_Snaps/Black & White.png
 Named_Snaps/Black Box.png
 Named_Snaps/Black Cauldron The.png
 Named_Snaps/Black Dawn.png
@@ -887,6 +880,7 @@ Named_Snaps/Black Gold.png
 Named_Snaps/Black Hornet.png
 Named_Snaps/Black Sect.png
 Named_Snaps/Black Tiger.png
+Named_Snaps/Black _ White.png
 Named_Snaps/Blackscar Mountain.png
 Named_Snaps/Blastaball.png
 Named_Snaps/Blinkys Scary School.png
@@ -1102,7 +1096,7 @@ Named_Snaps/Count Duckula.png
 Named_Snaps/Countout.png
 Named_Snaps/Crack Down.png
 Named_Snaps/Crack'ed.png
-Named_Snaps/Crafton & Xunk.png
+Named_Snaps/Crafton _ Xunk.png
 Named_Snaps/Crapman.png
 Named_Snaps/Crash Garrett.png
 Named_Snaps/Crazy Cars II.png
@@ -1333,7 +1327,6 @@ Named_Snaps/Extensor.png
 Named_Snaps/Exterminate.png
 Named_Snaps/Exterminator.png
 Named_Snaps/F-15 Strike Eagle II.png
-Named_Snaps/F-15 Strike Eagle.png
 Named_Snaps/F-16 Combat Pilot.png
 Named_Snaps/F1 Tornado.png
 Named_Snaps/F1.png
@@ -1341,12 +1334,11 @@ Named_Snaps/F16.png
 Named_Snaps/F29 Retaliator Special Preview Mission.png
 Named_Snaps/F29 Retaliator.png
 Named_Snaps/Face Off.png
-Named_Snaps/Face-Off.png
 Named_Snaps/Fahrenheit 451.png
 Named_Snaps/Falcon Mission Disk Volume I.png
 Named_Snaps/Falcon Mission Disk Volume II.png
 Named_Snaps/Falcon.png
-Named_Snaps/Fall & Fit.png
+Named_Snaps/Fall _ Fit.png
 Named_Snaps/Fallen Angel.png
 Named_Snaps/Fallers.png
 Named_Snaps/Famous Five The-Five On A Treasure Island.png
@@ -1370,9 +1362,6 @@ Named_Snaps/Final Blow.png
 Named_Snaps/Final Command.png
 Named_Snaps/Final Day The.png
 Named_Snaps/Final Fight.png
-Named_Snaps/Fire & Forget II The Death Convoy.png
-Named_Snaps/Fire & Forget.png
-Named_Snaps/Fire And Brimstone.png
 Named_Snaps/Fire Brigade.png
 Named_Snaps/Fire Force.png
 Named_Snaps/Fire Rescue.png
@@ -1398,7 +1387,7 @@ Named_Snaps/Flimbos Quest.png
 Named_Snaps/Flintstones.png
 Named_Snaps/Flip Flop.png
 Named_Snaps/Flip Side.png
-Named_Snaps/Flip-it & Magnose Water Carriers From Mars.png
+Named_Snaps/Flip-it _ Magnose Water Carriers From Mars.png
 Named_Snaps/Flood.png
 Named_Snaps/Floyd The Droid On The Run.png
 Named_Snaps/Flugsimulator II.png
@@ -1439,7 +1428,6 @@ Named_Snaps/Fun School 3 (Under 5s).png
 Named_Snaps/Fun School 4 (5 to 7s).png
 Named_Snaps/Fun School 4 (Under 5s).png
 Named_Snaps/Fussball-ST.png
-Named_Snaps/Future Basketball.png
 Named_Snaps/Future Sport.png
 Named_Snaps/Future Wars Time Travellers.png
 Named_Snaps/Fuzzball.png
@@ -1960,7 +1948,7 @@ Named_Snaps/Microbrevet Histoire.png
 Named_Snaps/Microprose Formula One Grand Prix.png
 Named_Snaps/Microprose Golf.png
 Named_Snaps/Microprose Soccer.png
-Named_Snaps/Midi Maze Editor & Maze Convertor.png
+Named_Snaps/Midi Maze Editor _ Maze Convertor.png
 Named_Snaps/Midi Maze Editor.png
 Named_Snaps/Midi Maze II Patched.png
 Named_Snaps/Midi Maze II.png
@@ -1978,7 +1966,7 @@ Named_Snaps/Millipede.png
 Named_Snaps/Mind Forever Voyaging A.png
 Named_Snaps/Mindbender.png
 Named_Snaps/Mindshadow.png
-Named_Snaps/Mine & Markt.png
+Named_Snaps/Mine _ Markt.png
 Named_Snaps/Minefield.png
 Named_Snaps/Mines of Lithiad The.png
 Named_Snaps/Mini Golf.png
@@ -1987,7 +1975,6 @@ Named_Snaps/Missile Command (Atari Corporation).png
 Named_Snaps/Missile Command (Mono)(Atari Corporation).png
 Named_Snaps/Missile Command.png
 Named_Snaps/Missile.png
-Named_Snaps/Missing One Droid.png
 Named_Snaps/Mission Elevator.png
 Named_Snaps/Mission En Rafale.png
 Named_Snaps/Mission X.png
@@ -2061,11 +2048,8 @@ Named_Snaps/Nightbreed.png
 Named_Snaps/Nil Dieu Vivant.png
 Named_Snaps/Nine Princes in Amber.png
 Named_Snaps/Ninja Mission.png
-Named_Snaps/Ninja Rabbits.png
-Named_Snaps/Ninja Remix.png
 Named_Snaps/Ninja Spirit.png
 Named_Snaps/Ninja Warriors The.png
-Named_Snaps/Nitro Boost Challenge.png
 Named_Snaps/Nitro.png
 Named_Snaps/No Buddies Land.png
 Named_Snaps/No Excuses.png
@@ -2174,7 +2158,6 @@ Named_Snaps/Patrician The.png
 Named_Snaps/Patrizier Der.png
 Named_Snaps/Pegasus.png
 Named_Snaps/Penguin.png
-Named_Snaps/Pengy.png
 Named_Snaps/Penta.png
 Named_Snaps/Perfect Match.png
 Named_Snaps/Perry Mason The Case of the Mandarin Murder.png
@@ -2243,7 +2226,6 @@ Named_Snaps/Powerdrome.png
 Named_Snaps/Powermonger WW1.png
 Named_Snaps/Powermonger.png
 Named_Snaps/Powerplay Das Spiel der Gotter.png
-Named_Snaps/Powerplay The Game of the Gods.png
 Named_Snaps/Precipice.png
 Named_Snaps/Predator II.png
 Named_Snaps/Predator.png
@@ -2331,7 +2313,7 @@ Named_Snaps/Return to Genesis.png
 Named_Snaps/Revenge of the Mutant Camels.png
 Named_Snaps/Rick Dangerous II.png
 Named_Snaps/Rick Dangerous.png
-Named_Snaps/Riddle & Rime's.png
+Named_Snaps/Riddle _ Rimes.png
 Named_Snaps/Rings of Medusa II The Return of Medusa.png
 Named_Snaps/Rings of Medusa.png
 Named_Snaps/Rings of Zilfin.png
@@ -2368,12 +2350,10 @@ Named_Snaps/Rockfall Special Edition.png
 Named_Snaps/Rockfall.png
 Named_Snaps/Rockford.png
 Named_Snaps/Rodland.png
-Named_Snaps/Rody & Mastico II.png
-Named_Snaps/Rody & Mastico III.png
-Named_Snaps/Rody & Mastico IV Rody Noel.png
-Named_Snaps/Rody & Mastico V.png
-Named_Snaps/Rody & Mastico VI.png
-Named_Snaps/Rody & Mastico.png
+Named_Snaps/Rody _ Mastico IV Rody Noel.png
+Named_Snaps/Rody _ Mastico V.png
+Named_Snaps/Rody _ Mastico VI.png
+Named_Snaps/Rody _ Mastico.png
 Named_Snaps/Roger.png
 Named_Snaps/Rogue Trooper.png
 Named_Snaps/Roll It.png
@@ -2496,7 +2476,7 @@ Named_Snaps/Skidz.png
 Named_Snaps/Skooter.png
 Named_Snaps/Skorapy.png
 Named_Snaps/Skrull.png
-Named_Snaps/Skull & Crossbones.png
+Named_Snaps/Skull _ Crossbones.png
 Named_Snaps/Skweek Demo.png
 Named_Snaps/Skweek.png
 Named_Snaps/Sky Blaster.png
@@ -2507,7 +2487,7 @@ Named_Snaps/Skychase.png
 Named_Snaps/Skyfox II The Cygnus Conflict.png
 Named_Snaps/Skyfox.png
 Named_Snaps/Skyrider.png
-Named_Snaps/Slackskin & Flint.png
+Named_Snaps/Slackskin _ Flint.png
 Named_Snaps/Slap Fight.png
 Named_Snaps/Slap N Tickle.png
 Named_Snaps/Slayer.png
@@ -2532,7 +2512,7 @@ Named_Snaps/Solit.png
 Named_Snaps/Solomons Key.png
 Named_Snaps/Son Shu Shi.png
 Named_Snaps/Sonic Boom.png
-Named_Snaps/Sooty & Sweep.png
+Named_Snaps/Sooty _ Sweep.png
 Named_Snaps/Sorcerer Lord.png
 Named_Snaps/Sorcerer.png
 Named_Snaps/Sorcerors Appraisal The.png
@@ -2771,9 +2751,9 @@ Named_Snaps/Tir Na Nog.png
 Named_Snaps/Titan Find (Demo).png
 Named_Snaps/Titanic Blinky.png
 Named_Snaps/Titus the Fox.png
-Named_Snaps/Toil & Trouble.png
+Named_Snaps/Toil _ Trouble.png
 Named_Snaps/Toki.png
-Named_Snaps/Tom & Jerry.png
+Named_Snaps/Tom _ Jerry.png
 Named_Snaps/Tomb of Death.png
 Named_Snaps/Tomtar.png
 Named_Snaps/Tonic Tile.png
@@ -2929,7 +2909,7 @@ Named_Snaps/Well 'Ard.png
 Named_Snaps/Welltris.png
 Named_Snaps/West Phaser.png
 Named_Snaps/Western Games.png
-Named_Snaps/Whiplash & Wagonwheel.png
+Named_Snaps/Whiplash _ Wagonwheel.png
 Named_Snaps/Whipper Snappers Race.png
 Named_Snaps/Whitewater Madness.png
 Named_Snaps/Who Framed Roger Rabbit.png
@@ -2985,9 +2965,7 @@ Named_Snaps/YAGC Yet Another Game of Chess.png
 Named_Snaps/Yacoo.png
 Named_Snaps/Yatzy.png
 Named_Snaps/Ynis Witrin Isle of Glass.png
-Named_Snaps/Yogi Bear & Friends in the Greed Monster.png
-Named_Snaps/Yogis Big Clean Up.png
-Named_Snaps/Yogis Great Escape.png
+Named_Snaps/Yogi Bear _ Friends in the Greed Monster.png
 Named_Snaps/Yolanda.png
 Named_Snaps/Yomo.png
 Named_Snaps/Yuppie's Revenge.png
@@ -3059,7 +3037,7 @@ Named_Titles/Advanced Ski Simulator.png
 Named_Titles/Advantage Tennis.png
 Named_Titles/Adventure.PNG
 Named_Titles/Adventurer The.png
-Named_Titles/Adventures of Quik & Silva The.png
+Named_Titles/Adventures of Quik _ Silva The.png
 Named_Titles/Adventures of Robin Hood The.png
 Named_Titles/African Raiders.png
 Named_Titles/After the War.png
@@ -3093,7 +3071,6 @@ Named_Titles/Alpha Waves.png
 Named_Titles/Alphamax.PNG
 Named_Titles/Alpine Games.png
 Named_Titles/Altered Beast.png
-Named_Titles/Alternate Reality The City.png
 Named_Titles/Amazeing.PNG
 Named_Titles/Amazing Spider-Man The.png
 Named_Titles/Amazon.PNG
@@ -3176,7 +3153,6 @@ Named_Titles/Bad Dudes vs Dragon Ninja.png
 Named_Titles/Badlands Pete.png
 Named_Titles/Badlands.PNG
 Named_Titles/Baker Street Detective.png
-Named_Titles/Balance of Power The 1990 Edition.png
 Named_Titles/Balance of Power.png
 Named_Titles/Ball Game The.png
 Named_Titles/Ball Zone.png
@@ -3191,7 +3167,6 @@ Named_Titles/Bank Buster.png
 Named_Titles/Bank-It.PNG
 Named_Titles/Barbarian II The Dungeon of Drax.png
 Named_Titles/Barbarian II.png
-Named_Titles/Barbarian The Ultimate Warrior.png
 Named_Titles/Barbarian.PNG
 Named_Titles/Bard's Tale The Tales Of The Unknown.png
 Named_Titles/Bargon Attack.png
@@ -3239,7 +3214,6 @@ Named_Titles/Biohazard II.png
 Named_Titles/Bionic Commando.PNG
 Named_Titles/Bismarck.PNG
 Named_Titles/Bivouac.PNG
-Named_Titles/Black & White.png
 Named_Titles/Black Box.png
 Named_Titles/Black Cauldron The.png
 Named_Titles/Black Dawn.png
@@ -3248,6 +3222,7 @@ Named_Titles/Black Hornet.png
 Named_Titles/Black Lamp.png
 Named_Titles/Black Sect.png
 Named_Titles/Black Tiger.png
+Named_Titles/Black _ White.png
 Named_Titles/Blackscar Mountain.PNG
 Named_Titles/Blastaball.PNG
 Named_Titles/Blasteroids.PNG
@@ -3461,7 +3436,7 @@ Named_Titles/Counter Atak.png
 Named_Titles/Countout.PNG
 Named_Titles/Crack Down.png
 Named_Titles/Crack'ed.PNG
-Named_Titles/Crafton & Xunk.png
+Named_Titles/Crafton _ Xunk.png
 Named_Titles/Crapman.PNG
 Named_Titles/Crash Garrett.png
 Named_Titles/Crazy Cars II.png
@@ -3676,17 +3651,15 @@ Named_Titles/Extensor.PNG
 Named_Titles/Exterminate.PNG
 Named_Titles/Exterminator.PNG
 Named_Titles/F-15 Strike Eagle II.png
-Named_Titles/F-15 Strike Eagle.png
 Named_Titles/F-16 Combat Pilot.png
 Named_Titles/F1 Tornado.png
 Named_Titles/F29 Retaliator Special Preview Mission.png
 Named_Titles/F29 Retaliator.png
 Named_Titles/Face Off.png
-Named_Titles/Face-Off.PNG
 Named_Titles/Falcon Mission Disk Volume I.png
 Named_Titles/Falcon Mission Disk Volume II.png
 Named_Titles/Falcon.PNG
-Named_Titles/Fall & Fit.png
+Named_Titles/Fall _ Fit.png
 Named_Titles/Fallen Angel.png
 Named_Titles/Fallers.PNG
 Named_Titles/Famous Five The-Five On A Treasure Island.png
@@ -3708,17 +3681,14 @@ Named_Titles/Final Blow.png
 Named_Titles/Final Command.png
 Named_Titles/Final Day The.png
 Named_Titles/Final Fight.png
-Named_Titles/Fire & Forget II The Death Convoy.png
-Named_Titles/Fire & Forget.png
-Named_Titles/Fire And Brimstone.png
 Named_Titles/Fire Brigade.png
 Named_Titles/Fire Force.png
 Named_Titles/Fire Rescue.png
 Named_Titles/Fire Snare.png
 Named_Titles/Fire and Ice.png
-Named_Titles/Fire.PNG
+Named_Titles/Fire.png
 Named_Titles/Fireblaster.PNG
-Named_Titles/Firehawk.PNG
+Named_Titles/Firehawk.png
 Named_Titles/Firestar.PNG
 Named_Titles/Firezone.PNG
 Named_Titles/First Person Pinball.png
@@ -3735,7 +3705,7 @@ Named_Titles/Flimbos Quest.png
 Named_Titles/Flintstones.PNG
 Named_Titles/Flip Flop.png
 Named_Titles/Flip Side.png
-Named_Titles/Flip-it & Magnose Water Carriers From Mars.png
+Named_Titles/Flip-it _ Magnose Water Carriers From Mars.png
 Named_Titles/Flood.PNG
 Named_Titles/Floyd The Droid On The Run.png
 Named_Titles/Flugsimulator II.png
@@ -3766,7 +3736,6 @@ Named_Titles/From Little Acorns.png
 Named_Titles/Frontier Elite II.png
 Named_Titles/Fugger Die.png
 Named_Titles/Fussball-ST.PNG
-Named_Titles/Future Basketball.png
 Named_Titles/Future Sport.png
 Named_Titles/Future Wars Time Travellers.png
 Named_Titles/Fuzzball.PNG
@@ -4239,7 +4208,7 @@ Named_Titles/Microbrevet Histoire.png
 Named_Titles/Microprose Formula One Grand Prix.png
 Named_Titles/Microprose Golf.png
 Named_Titles/Microprose Soccer.png
-Named_Titles/Midi Maze Editor & Maze Convertor.png
+Named_Titles/Midi Maze Editor _ Maze Convertor.png
 Named_Titles/Midi Maze Editor.png
 Named_Titles/Midi Maze II Patched.png
 Named_Titles/Midi Maze II.png
@@ -4256,14 +4225,13 @@ Named_Titles/Millipede.PNG
 Named_Titles/Mind Forever Voyaging A.png
 Named_Titles/Mindbender.PNG
 Named_Titles/Mindshadow.PNG
-Named_Titles/Mine & Markt.png
+Named_Titles/Mine _ Markt.png
 Named_Titles/Minefield.PNG
 Named_Titles/Mines of Lithiad The.png
 Named_Titles/Mini Golf.png
 Named_Titles/Mirela.PNG
 Named_Titles/Missile Command.png
 Named_Titles/Missile.PNG
-Named_Titles/Missing One Droid.png
 Named_Titles/Mission Elevator.PNG
 Named_Titles/Mission En Rafale.png
 Named_Titles/Mission X.png
@@ -4332,11 +4300,8 @@ Named_Titles/Nightbreed.PNG
 Named_Titles/Nil Dieu Vivant.png
 Named_Titles/Nine Princes in Amber.png
 Named_Titles/Ninja Mission.png
-Named_Titles/Ninja Rabbits.png
-Named_Titles/Ninja Remix.png
 Named_Titles/Ninja Spirit.png
 Named_Titles/Ninja Warriors The.png
-Named_Titles/Nitro Boost Challenge.png
 Named_Titles/Nitro.PNG
 Named_Titles/No Buddies Land.png
 Named_Titles/No Excuses.png
@@ -4431,7 +4396,6 @@ Named_Titles/Patrician The.png
 Named_Titles/Patrizier Der.png
 Named_Titles/Pegasus.PNG
 Named_Titles/Penguin.PNG
-Named_Titles/Pengy.PNG
 Named_Titles/Penta.PNG
 Named_Titles/Perfect Match.png
 Named_Titles/Perry Mason The Case of the Mandarin Murder.png
@@ -4492,7 +4456,6 @@ Named_Titles/Power Up plus.png
 Named_Titles/Powerdrome.PNG
 Named_Titles/Powermonger.PNG
 Named_Titles/Powerplay Das Spiel der Gotter.png
-Named_Titles/Powerplay The Game of the Gods.png
 Named_Titles/Precipice.PNG
 Named_Titles/Predator II.png
 Named_Titles/Predator.PNG
@@ -4573,7 +4536,7 @@ Named_Titles/Return to Genesis.png
 Named_Titles/Revenge of the Mutant Camels.png
 Named_Titles/Rick Dangerous II.png
 Named_Titles/Rick Dangerous.png
-Named_Titles/Riddle & Rime's.png
+Named_Titles/Riddle _ Rime's.png
 Named_Titles/Rings of Medusa II The Return of Medusa.png
 Named_Titles/Rings of Medusa.png
 Named_Titles/Rings of Zilfin.png
@@ -4605,12 +4568,10 @@ Named_Titles/Rockfall Special Edition.png
 Named_Titles/Rockfall.PNG
 Named_Titles/Rockford.PNG
 Named_Titles/Rodland.PNG
-Named_Titles/Rody & Mastico II.png
-Named_Titles/Rody & Mastico III.png
-Named_Titles/Rody & Mastico IV Rody Noel.png
-Named_Titles/Rody & Mastico V.png
-Named_Titles/Rody & Mastico VI.png
-Named_Titles/Rody & Mastico.png
+Named_Titles/Rody _ Mastico IV Rody Noel.png
+Named_Titles/Rody _ Mastico V.png
+Named_Titles/Rody _ Mastico VI.png
+Named_Titles/Rody _ Mastico.png
 Named_Titles/Roger.PNG
 Named_Titles/Rogue Trooper.png
 Named_Titles/Roll It.png
@@ -4722,7 +4683,7 @@ Named_Titles/Skidz.PNG
 Named_Titles/Skooter.PNG
 Named_Titles/Skorapy.PNG
 Named_Titles/Skrull.PNG
-Named_Titles/Skull & Crossbones.png
+Named_Titles/Skull _ Crossbones.png
 Named_Titles/Skweek Demo.png
 Named_Titles/Skweek.PNG
 Named_Titles/Sky Blaster.png
@@ -4733,7 +4694,7 @@ Named_Titles/Skychase.PNG
 Named_Titles/Skyfox II The Cygnus Conflict.png
 Named_Titles/Skyfox.PNG
 Named_Titles/Skyrider.PNG
-Named_Titles/Slackskin & Flint.png
+Named_Titles/Slackskin _ Flint.png
 Named_Titles/Slap Fight.png
 Named_Titles/Slap N Tickle.png
 Named_Titles/Slayer.PNG
@@ -4757,7 +4718,7 @@ Named_Titles/Solit.PNG
 Named_Titles/Solomons Key.png
 Named_Titles/Son Shu Shi.png
 Named_Titles/Sonic Boom.png
-Named_Titles/Sooty & Sweep.png
+Named_Titles/Sooty _ Sweep.png
 Named_Titles/Sorcerer Lord.png
 Named_Titles/Sorcerer.PNG
 Named_Titles/Sorcerors Appraisal The.png
@@ -4976,9 +4937,9 @@ Named_Titles/Tip Off.png
 Named_Titles/Tir Na Nog.png
 Named_Titles/Titanic Blinky.png
 Named_Titles/Titus the Fox.png
-Named_Titles/Toil & Trouble.png
+Named_Titles/Toil _ Trouble.png
 Named_Titles/Toki.PNG
-Named_Titles/Tom & Jerry.png
+Named_Titles/Tom _ Jerry.png
 Named_Titles/Tomb of Death.png
 Named_Titles/Tomtar.PNG
 Named_Titles/Tonic Tile.png
@@ -5124,7 +5085,7 @@ Named_Titles/Well 'Ard.png
 Named_Titles/Welltris.PNG
 Named_Titles/West Phaser.PNG
 Named_Titles/Western Games.png
-Named_Titles/Whiplash & Wagonwheel.png
+Named_Titles/Whiplash _ Wagonwheel.png
 Named_Titles/Whipper Snappers Race.png
 Named_Titles/Whitewater Madness.png
 Named_Titles/Who Framed Roger Rabbit.png
@@ -5176,9 +5137,7 @@ Named_Titles/YAGC Yet Another Game of Chess.png
 Named_Titles/Yacoo.PNG
 Named_Titles/Yatzy.PNG
 Named_Titles/Ynis Witrin Isle of Glass.png
-Named_Titles/Yogi Bear & Friends in the Greed Monster.png
-Named_Titles/Yogis Big Clean Up.png
-Named_Titles/Yogis Great Escape.png
+Named_Titles/Yogi Bear _ Friends in the Greed Monster.png
 Named_Titles/Yolanda.PNG
 Named_Titles/Yomo.PNG
 Named_Titles/Yuppie's Revenge.png

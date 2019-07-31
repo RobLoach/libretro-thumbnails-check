@@ -1,10 +1,11 @@
 Mattel - Intellivision Orphans
 
+.travis.yml
 Named_Boxarts/4-TRIS (2000)(Zbiciak, Joseph)(PD).png
 Named_Boxarts/4-TRIS (World).png
 Named_Boxarts/ABPA Backgammon (World).png
-Named_Boxarts/Advanced Dungeons & Dragons (World).png
-Named_Boxarts/Advanced Dungeons & Dragons - Treasure of Tarmin (World).png
+Named_Boxarts/Advanced Dungeons _ Dragons (World).png
+Named_Boxarts/Advanced Dungeons _ Dragons - Treasure of Tarmin (World).png
 Named_Boxarts/Armor Battle (World).png
 Named_Boxarts/Astrosmash (World).png
 Named_Boxarts/Atlantis (World).png
@@ -87,8 +88,8 @@ Named_Boxarts/River Raid (World).png
 Named_Boxarts/Robot Rubble (World).png
 Named_Boxarts/Royal Dealer (World).png
 Named_Boxarts/Safecracker (World).png
-Named_Boxarts/Same Game & Robots (World) alt.png
-Named_Boxarts/Same Game & Robots (World).png
+Named_Boxarts/Same Game _ Robots (World) alt.png
+Named_Boxarts/Same Game _ Robots (World).png
 Named_Boxarts/Scooby Doo's Maze Chase (World).png
 Named_Boxarts/Sewer Sam (World).png
 Named_Boxarts/Shark! Shark! (World).png
@@ -108,7 +109,7 @@ Named_Boxarts/Sub Hunt (World).png
 Named_Boxarts/Super Cobra (World).png
 Named_Boxarts/Super Pro Decathlon (World).png
 Named_Boxarts/Super Pro Football (World).png
-Named_Boxarts/Swords & Serpents (World).png
+Named_Boxarts/Swords _ Serpents (World).png
 Named_Boxarts/TRON - Deadly Discs (World).png
 Named_Boxarts/TRON - Maze-A-Tron (World).png
 Named_Boxarts/TRON - Solar Sailer (World).png
@@ -134,8 +135,8 @@ Named_Boxarts/Zaxxon (World).png
 Named_Snaps/4-TRIS (2000)(Zbiciak, Joseph)(PD) (1).png
 Named_Snaps/4-TRIS (World).png
 Named_Snaps/ABPA Backgammon (World).png
-Named_Snaps/Advanced Dungeons & Dragons (World).png
-Named_Snaps/Advanced Dungeons & Dragons - Treasure of Tarmin (World).png
+Named_Snaps/Advanced Dungeons _ Dragons (World).png
+Named_Snaps/Advanced Dungeons _ Dragons - Treasure of Tarmin (World).png
 Named_Snaps/Air Strike (1982) (Mattel).png
 Named_Snaps/Armor Battle (World).png
 Named_Snaps/Astrosmash (World).png
@@ -247,7 +248,7 @@ Named_Snaps/Super Cobra (World).png
 Named_Snaps/Super Masters! (1982) (Mattel).png
 Named_Snaps/Super Pro Decathlon (World).png
 Named_Snaps/Super Pro Football (World).png
-Named_Snaps/Swords & Serpents (World).png
+Named_Snaps/Swords _ Serpents (World).png
 Named_Snaps/TRON - Deadly Discs (World).png
 Named_Snaps/TRON - Maze-A-Tron (World).png
 Named_Snaps/TRON - Solar Sailer (World).png
@@ -272,7 +273,7 @@ Named_Snaps/Worm Whomper (World).png
 Named_Snaps/Zaxxon (World).png
 Named_Titles/4-TRIS (2000)(Zbiciak, Joseph)(PD).png
 Named_Titles/ABPA Backgammon (World).png
-Named_Titles/Advanced Dungeons & Dragons (World).png
+Named_Titles/Advanced Dungeons _ Dragons (World).png
 Named_Titles/Air Strike (1982) (Mattel).png
 Named_Titles/All-Star Major League Baseball (1983) (Mattel).png
 Named_Titles/Armor Battle (World).png
@@ -384,7 +385,7 @@ Named_Titles/Super Cobra (World).png
 Named_Titles/Super Masters! (1982) (Mattel).png
 Named_Titles/Super Pro Decathlon (World).png
 Named_Titles/Super Pro Football (World).png
-Named_Titles/Swords & Serpents (World).png
+Named_Titles/Swords _ Serpents (World).png
 Named_Titles/TRON - Deadly Discs (World).png
 Named_Titles/TRON - Maze-A-Tron (World).png
 Named_Titles/TRON - Solar Sailer (World).png
