@@ -34,12 +34,12 @@ Ax Battler - Golden Axe Densetsu (Japan)                                        
 Ayrton Senna's Super Monaco GP II (Japan)                                              -      -     -
 Ayrton Senna's Super Monaco GP II (USA, Europe, Brazil)                                ✗      ✗     ✗
 Ayrton Senna's Super Monaco GP II (USA, Europe, Brazil) (Beta)                         ✗      ✗     ✗
-Baku Baku Animal - Sekai Shiikugakari Senshu-ken (Japan)                               -      -     -
 Baku Baku Animal (Europe)                                                              -      -     -
 Baku Baku Animal (USA)                                                                 -      -     -
+Baku Baku Animal - Sekai Shiikugakari Senshu-ken (Japan)                               -      -     -
 Barbie Super Model (USA) (Proto)                                                       ✗      ✗     ✗
-Bare Knuckle ~ Streets of Rage (World)                                                 -      -     -
 Bare Knuckle II ~ Streets of Rage 2 ~ Streets of Rage II (World)                       -      -     -
+Bare Knuckle ~ Streets of Rage (World)                                                 -      -     -
 Batman Forever (World)                                                                 -      -     -
 Batman Returns (World)                                                                 -      -     -
 Batter Up (USA)                                                                        ✗      ✗     ✗
@@ -60,6 +60,8 @@ Bugs Bunny in Double Trouble (USA, Europe)                                      
 Bust-A-Move (USA)                                                                      ✗      ✗     ✗
 Buster Ball (Japan)                                                                    -      -     -
 Buster Fight (Japan)                                                                   -      -     -
+CJ Elephant Fugitive (USA, Europe)                                                     ✗      ✗     ✗
+CJ Elephant Fugitive (USA, Europe) (Beta)                                              ✗      ✗     ✗
 Caesars Palace (USA)                                                                   -      -     -
 Captain America and the Avengers (USA)                                                 ✗      ✗     ✗
 Car Licence (Japan)                                                                    ✗      -     -
@@ -77,8 +79,6 @@ Chuck Rock (World)                                                              
 Chuck Rock (World) (Beta)                                                              -      -     -
 Chuck Rock II - Son of Chuck (Europe, Brazil)                                          ✗      ✗     ✗
 Chuck Rock II - Son of Chuck (USA)                                                     -      -     -
-CJ Elephant Fugitive (USA, Europe)                                                     ✗      ✗     ✗
-CJ Elephant Fugitive (USA, Europe) (Beta)                                              ✗      ✗     ✗
 Cliffhanger (USA)                                                                      -      -     -
 Clutch Hitter (USA)                                                                    -      -     -
 Coca-Cola Kid (Japan)                                                                  -      -     -
@@ -100,8 +100,8 @@ Defenders of Oasis (USA, Europe)                                                
 Defenders of Oasis (USA, Europe) (Beta)                                                -      -     -
 Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It)     -      -     -
 Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA, Brazil)                 ✗      ✗     ✗
-Desert Strike - Return to the Gulf (USA)                                               -      -     -
 Desert Strike (Europe) (En,Fr,De,Es)                                                   -      -     -
+Desert Strike - Return to the Gulf (USA)                                               -      -     -
 Devilish (Europe, Brazil)                                                              ✗      ✗     ✗
 Devilish (Japan)                                                                       -      -     -
 Devilish (USA)                                                                         -      -     -
@@ -117,8 +117,8 @@ Dr. Robotnik's Mean Bean Machine (USA, Europe)                                  
 Dragon - The Bruce Lee Story (Europe)                                                  -      -     -
 Dragon - The Bruce Lee Story (Europe) (Beta)                                           ✗      ✗     ✗
 Dragon - The Bruce Lee Story (USA)                                                     -      -     -
-Dragon Crystal - Tsurani no Meikyuu (Japan)                                            -      -     -
 Dragon Crystal (USA, Europe)                                                           -      -     -
+Dragon Crystal - Tsurani no Meikyuu (Japan)                                            -      -     -
 Dropzone (Europe)                                                                      -      -     -
 Dunk Kids (Japan)                                                                      -      -     -
 Dynamite Headdy (Japan)                                                                -      -     -
@@ -137,6 +137,9 @@ Excellent Dizzy Collection, The (Europe)                                        
 F-15 Strike Eagle (USA, Europe)                                                        -      -     -
 F1 - World Championship Edition (Europe)                                               ✗      -     -
 F1~ Formula One (USA, Europe)                                                          ✗      ✗     ✗
+FIFA International Soccer (Japan)                                                      -      -     -
+FIFA International Soccer (USA, Europe)                                                -      -     -
+FIFA Soccer 96 (USA, Europe) (En,Fr,De,Es)                                             -      -     -
 Faceball 2000 (Japan)                                                                  ✗      -     -
 Factory Panic (Europe, Brazil)                                                         ✗      ✗     ✗
 Fantastic Dizzy (Europe) (En,Fr,De,Es,It)                                              -      -     -
@@ -144,9 +147,6 @@ Fantasy Zone (USA, Brazil)                                                      
 Fantasy Zone Gear ~ Fantasy Zone (Japan, Europe)                                       ✗      ✗     ✗
 Fatal Fury Special (Europe)                                                            -      -     -
 Fatal Fury Special (USA)                                                               -      -     -
-FIFA International Soccer (Japan)                                                      -      -     -
-FIFA International Soccer (USA, Europe)                                                -      -     -
-FIFA Soccer 96 (USA, Europe) (En,Fr,De,Es)                                             -      -     -
 Foreman for Real (Japan, USA)                                                          ✗      ✗     ✗
 Frank Thomas Big Hurt Baseball (USA)                                                   -      -     -
 Fray - Shugyou Hen (Japan)                                                             -      -     -
@@ -158,6 +158,15 @@ G-LOC - Air Battle (Japan)                                                      
 G-LOC - Air Battle (Japan) (Rev 1)                                                     ✗      -     -
 G-LOC - Air Battle (USA, Europe, Brazil)                                               ✗      ✗     ✗
 G-Sonic ~ Sonic Blast (World)                                                          -      -     -
+GG Aleste (Japan)                                                                      ✗      -     -
+GG Aleste II ~ Power Strike II (Japan, Europe)                                         -      -     -
+GG Portrait - Pai Chen (Japan)                                                         ✗      -     -
+GG Portrait - Yuuki Akira (Japan)                                                      ✗      -     -
+GG Shinobi ~ Shinobi (World) (Rev 1)                                                   ✗      ✗     ✗
+GG Shinobi, The (Japan)                                                                -      -     -
+GP Rider (Japan)                                                                       -      -     -
+GP Rider (World)                                                                       ✗      ✗     ✗
+GP Rider (World) (Beta) (1994-01-04)                                                   ✗      ✗     ✗
 Galaga '91 (Japan)                                                                     ✗      -     -
 Galaga 2 (Europe)                                                                      ✗      -     -
 Gamble Panic (Japan)                                                                   ✗      -     -
@@ -169,17 +178,8 @@ Gear Stadium (Japan)                                                            
 Gear Stadium Heiseiban (Japan)                                                         ✗      -     -
 Gear Works (USA)                                                                       -      -     -
 George Foreman's KO Boxing (USA, Europe)                                               -      -     -
-GG Aleste (Japan)                                                                      ✗      -     -
-GG Aleste II ~ Power Strike II (Japan, Europe)                                         -      -     -
-GG Portrait - Pai Chen (Japan)                                                         ✗      -     -
-GG Portrait - Yuuki Akira (Japan)                                                      ✗      -     -
-GG Shinobi ~ Shinobi (World) (Rev 1)                                                   ✗      ✗     ✗
-GG Shinobi, The (Japan)                                                                -      -     -
 Global Gladiators (Europe)                                                             ✗      ✗     ✗
 Gojira - Kaijuu Daishingeki (Japan)                                                    ✗      -     -
-GP Rider (Japan)                                                                       -      -     -
-GP Rider (World)                                                                       ✗      ✗     ✗
-GP Rider (World) (Beta) (1994-01-04)                                                   ✗      ✗     ✗
 Greendog - The Beached Surfer Dude! (USA, Brazil)                                      ✗      ✗     ✗
 Griffin (Japan)                                                                        -      -     -
 Gunstar Heroes (Japan)                                                                 -      -     -
@@ -207,8 +207,8 @@ James Pond 3 - Operation Starfi5h (Europe)                                      
 James Pond II - Codename RoboCod (Europe)                                              -      -     -
 James Pond II - Codename RoboCod (USA)                                                 -      -     -
 Jang Pung II (Korea) (Unl)                                                             ✗      -     -
-Jeopardy! - Sports Edition (USA)                                                       ✗      ✗     ✗
 Jeopardy! (USA)                                                                        -      -     -
+Jeopardy! - Sports Edition (USA)                                                       ✗      ✗     ✗
 Joe Montana Football (Japan)                                                           -      -     -
 Joe Montana Football (USA, Europe)                                                     -      -     -
 Journey from Darkness - Strider Returns (USA, Europe)                                  -      -     -
@@ -243,6 +243,7 @@ Lion King, The (USA)                                                            
 Lost World, The - Jurassic Park (USA)                                                  -      -     -
 Lucky Dime Caper Starring Donald Duck, The (USA, Europe, Brazil)                       ✗      ✗     ✗
 Lunar - Sanposuru Gakuen (Japan)                                                       -      -     -
+MLBPA Baseball (USA)                                                                   -      -     -
 Madden 96 (USA, Europe)                                                                -      -     -
 Madden NFL 95 (USA)                                                                    -      -     -
 Madou Monogatari A - Dokidoki Vacation (Japan)                                         ✗      -     -
@@ -270,34 +271,33 @@ Mickey's Ultimate Challenge (USA)                                               
 Micro Machines (USA, Europe)                                                           ✗      ✗     ✗
 Micro Machines (USA, Europe) (Beta)                                                    ✗      ✗     ✗
 Micro Machines 2 - Turbo Tournament (Europe)                                           -      -     -
-Mighty Morphin Power Rangers - The Movie (USA, Europe)                                 -      -     -
 Mighty Morphin Power Rangers (USA, Europe)                                             -      -     -
 Mighty Morphin Power Rangers (USA, Europe) (Beta) (1994-07-16)                         ✗      ✗     ✗
-MLBPA Baseball (USA)                                                                   -      -     -
+Mighty Morphin Power Rangers - The Movie (USA, Europe)                                 -      -     -
 Moldorian - Hikari to Yami no Sister (Japan)                                           ✗      -     -
 Monster Truck Wars (USA, Europe)                                                       -      -     -
 Monster World II - Dragon no Wana (Japan)                                              ✗      -     -
-Mortal Kombat - Shinken Kourin Densetsu (Japan)                                        -      -     -
 Mortal Kombat (USA, Europe)                                                            -      -     -
+Mortal Kombat - Shinken Kourin Densetsu (Japan)                                        -      -     -
 Mortal Kombat 3 (Europe)                                                               -      -     -
 Mortal Kombat II (World)                                                               -      -     -
 Ms. Pac-Man (USA)                                                                      -      -     -
-Nazo Puyo (Japan)                                                                      ✗      -     -
-Nazo Puyo (Japan) (Rev 1)                                                              ✗      -     -
-Nazo Puyo 2 (Japan)                                                                    ✗      -     -
-Nazo Puyo Arle no Roux (Japan)                                                         ✗      -     -
-Nazo Puyo Arle no Roux (Japan) (Development Edition)                                   ✗      -     -
 NBA Action Starring David Robinson (USA, Brazil)                                       ✗      ✗     ✗
-NBA Jam - Tournament Edition (World)                                                   -      -     -
 NBA Jam (Japan)                                                                        -      -     -
-NBA Jam (USA, Europe)                                                                  -      -     -
 NBA Jam (USA) (Rev 1)                                                                  -      -     -
-Neko Daisuki! (Japan)                                                                  ✗      -     -
+NBA Jam (USA, Europe)                                                                  -      -     -
+NBA Jam - Tournament Edition (World)                                                   -      -     -
 NFL '95 (USA)                                                                          -      -     -
 NFL Quarterback Club (World)                                                           -      -     -
 NFL Quarterback Club 96 (USA)                                                          ✗      ✗     ✗
 NHL All-Star Hockey (USA)                                                              -      -     -
 NHL Hockey (USA, Europe)                                                               -      -     -
+Nazo Puyo (Japan)                                                                      ✗      -     -
+Nazo Puyo (Japan) (Rev 1)                                                              ✗      -     -
+Nazo Puyo 2 (Japan)                                                                    ✗      -     -
+Nazo Puyo Arle no Roux (Japan)                                                         ✗      -     -
+Nazo Puyo Arle no Roux (Japan) (Development Edition)                                   ✗      -     -
+Neko Daisuki! (Japan)                                                                  ✗      -     -
 Ninja Gaiden (Japan)                                                                   -      -     -
 Ninja Gaiden (USA, Europe, Brazil)                                                     ✗      ✗     ✗
 Ninku (Japan)                                                                          ✗      -     -
@@ -312,10 +312,14 @@ OutRun (Europe, Brazil)                                                         
 OutRun (Japan, Korea)                                                                  ✗      ✗     ✗
 OutRun Europa (Europe)                                                                 ✗      ✗     ✗
 OutRun Europa (USA)                                                                    ✗      ✗     ✗
+PGA Tour 96 (USA, Europe)                                                              -      -     -
+PGA Tour Golf (USA) (Rev 1)                                                            -      -     -
+PGA Tour Golf (USA, Europe)                                                            -      -     -
+PGA Tour Golf II (USA, Europe)                                                         -      -     -
 Pac-Attack (USA)                                                                       ✗      ✗     ✗
-Pac-in-Time (USA) (Proto)                                                              ✗      ✗     ✗
 Pac-Man (Japan) (En)                                                                   -      -     -
 Pac-Man (USA)                                                                          -      -     -
+Pac-in-Time (USA) (Proto)                                                              ✗      ✗     ✗
 Panzer Dragoon Mini (Japan)                                                            ✗      -     -
 Paperboy (USA, Europe)                                                                 -      -     -
 Paperboy 2 (USA)                                                                       ✗      ✗     ✗
@@ -324,10 +328,6 @@ Pengo (Europe)                                                                  
 Pengo (Japan)                                                                          -      -     -
 Pet Club - Inu Daisuki! (Japan)                                                        ✗      ✗     ✗
 Pete Sampras Tennis (USA, Europe)                                                      ✗      ✗     ✗
-PGA Tour 96 (USA, Europe)                                                              -      -     -
-PGA Tour Golf (USA, Europe)                                                            -      -     -
-PGA Tour Golf (USA) (Rev 1)                                                            -      -     -
-PGA Tour Golf II (USA, Europe)                                                         -      -     -
 Phantasy Star Adventure (Japan)                                                        ✗      -     -
 Phantasy Star Gaiden (Japan)                                                           ✗      -     -
 Phantom 2040 (USA, Europe)                                                             -      -     -
@@ -353,9 +353,9 @@ Putt _ Putter (Japan, Korea)                                                    
 Putt _ Putter (USA, Europe, Brazil)                                                    ✗      ✗     ✗
 Puyo Puyo (Japan) (En,Ja)                                                              ✗      ✗     ✗
 Puyo Puyo Tsuu (Japan)                                                                 ✗      ✗     ✗
+Puzzle Bobble (Japan)                                                                  -      -     -
 Puzzle _ Action - Ichidanto-R (Japan)                                                  ✗      ✗     ✗
 Puzzle _ Action - Tanto-R (Japan)                                                      ✗      ✗     ✗
-Puzzle Bobble (Japan)                                                                  -      -     -
 Quest for the Shaven Yak Starring Ren Hoek _ Stimpy (USA, Europe)                      -      -     -
 Quiz Gear Fight!!, The (Japan)                                                         ✗      -     -
 R.B.I. Baseball '94 (USA)                                                              -      -     -
@@ -372,11 +372,11 @@ RoboCop 3 (World)                                                               
 RoboCop versus The Terminator (USA, Europe)                                            -      -     -
 Royal Stone - Hirakareshi Toki no Tobira (Japan)                                       -      -     -
 Ryuukyuu (Japan)                                                                       -      -     -
+SD Gundam - Winner's History (Japan)                                                   ✗      -     -
 Samurai Shodown (USA)                                                                  -      -     -
 Samurai Spirits (Japan)                                                                -      -     -
 Scratch Golf (Japan)                                                                   -      -     -
 Scratch Golf (USA)                                                                     -      -     -
-SD Gundam - Winner's History (Japan)                                                   ✗      -     -
 Sega Game Pack 4 in 1 (Europe)                                                         -      -     -
 Sega Game Pack 4 in 1 (Europe) (Beta)                                                  -      -     -
 Sensible Soccer - European Champions (Europe)                                          ✗      ✗     ✗
@@ -400,31 +400,31 @@ Smurfs Travel the World, The (Europe) (En,Fr,De,Es)                             
 Smurfs, The (Europe) (En,Fr,De,Es)                                                     ✗      -     -
 Solitaire FunPak (USA)                                                                 -      -     -
 Solitaire Poker (USA, Europe)                                                          -      -     -
-Sonic _ Tails (Japan) (En)                                                             -      -     -
-Sonic _ Tails (Japan) (En) (Sample)                                                    -      -     -
-Sonic _ Tails 2 (Japan)                                                                -      -     -
 Sonic Chaos (USA, Europe, Brazil)                                                      ✗      ✗     ✗
 Sonic Drift (Japan) (En)                                                               -      -     -
 Sonic Drift (Japan) (En) (Sample)                                                      -      -     -
 Sonic Drift Racing ~ Sonic Drift 2 (World)                                             ✗      ✗     ✗
 Sonic Labyrinth (World)                                                                -      -     -
 Sonic Spinball (USA, Europe)                                                           -      -     -
-Sonic The Hedgehog - Triple Trouble (USA, Europe)                                      -      -     -
 Sonic The Hedgehog (Japan, Europe, Brazil) (Rev 1)                                     ✗      ✗     ✗
 Sonic The Hedgehog (Japan, USA)                                                        ✗      ✗     ✗
 Sonic The Hedgehog (Japan, USA) (Proto)                                                ✗      ✗     ✗
+Sonic The Hedgehog - Triple Trouble (USA, Europe)                                      -      -     -
 Sonic The Hedgehog 2 (World)                                                           -      -     -
 Sonic The Hedgehog 2 (World) (Auto Demo)                                               -      -     -
+Sonic _ Tails (Japan) (En)                                                             -      -     -
+Sonic _ Tails (Japan) (En) (Sample)                                                    -      -     -
+Sonic _ Tails 2 (Japan)                                                                -      -     -
 Soukoban (Japan)                                                                       ✗      -     -
 Space Harrier (World)                                                                  -      -     -
+Spider-Man (USA, Europe)                                                               ✗      ✗     ✗
 Spider-Man - Return of the Sinister Six (USA, Europe)                                  -      -     -
 Spider-Man - X-Men - Arcade's Revenge (USA)                                            -      -     -
-Spider-Man (USA, Europe)                                                               ✗      ✗     ✗
 Spirou (Europe) (Proto)                                                                ✗      -     -
 Sports Illustrated - Championship Football _ Baseball (USA)                            ✗      ✗     ✗
+Sports Trivia (USA)                                                                    -      -     -
 Sports Trivia - Championship Edition (USA)                                             ✗      ✗     ✗
 Sports Trivia - Championship Edition (USA) (Beta)                                      ✗      ✗     ✗
-Sports Trivia (USA)                                                                    -      -     -
 Star Trek - The Next Generation - The Advanced Holodeck Tutorial (USA)                 -      -     -
 Star Trek Generations - Beyond the Nexus (USA)                                         ✗      ✗     ✗
 Star Wars (Europe)                                                                     -      -     -
@@ -479,10 +479,12 @@ Torarete Tamaruka (Japan)                                                       
 True Lies (World)                                                                      -      -     -
 Ultimate Soccer (Japan, Europe, Brazil) (En,Fr,De,Es,It)                               ✗      ✗     ✗
 Urban Strike (USA)                                                                     ✗      ✗     ✗
+VR Troopers (USA, Europe, Brazil)                                                      ✗      ✗     ✗
 Vampire - Master of Darkness (USA)                                                     -      -     -
 Virtua Fighter Animation (USA, Europe)                                                 -      -     -
 Virtua Fighter Mini (Japan)                                                            ✗      -     -
-VR Troopers (USA, Europe, Brazil)                                                      ✗      ✗     ✗
+WWF Raw (USA, Europe)                                                                  -      -     -
+WWF Wrestlemania - Steel Cage Challenge (USA, Europe)                                  ✗      ✗     ✗
 Wagyan Land (Japan)                                                                    -      -     -
 Wheel of Fortune (USA)                                                                 -      -     -
 WildSnake (USA) (Proto)                                                                ✗      ✗     ✗
@@ -491,9 +493,9 @@ Winter Olympics (Japan) (En,Fr,De,Es,It,Pt,Sv,No)                               
 Winter Olympics (USA, Europe) (En,Fr,De,Es,It,Pt,Sv,No)                                ✗      ✗     ✗
 Wizard Pinball (Europe)                                                                -      -     -
 Wolfchild (Europe)                                                                     -      -     -
-Wonder Boy - The Dragon's Trap (Europe)                                                -      -     -
 Wonder Boy (Europe)                                                                    -      -     -
 Wonder Boy (Japan)                                                                     -      -     -
+Wonder Boy - The Dragon's Trap (Europe)                                                -      -     -
 Wonder Boy III - The Dragon's Trap (Europe) (Beta)                                     ✗      -     -
 Woody Pop (Japan) (En)                                                                 ✗      ✗     ✗
 Woody Pop (USA, Europe, Brazil)                                                        ✗      ✗     ✗
@@ -503,11 +505,9 @@ World Derby (Japan)                                                             
 World Series Baseball '95 (USA)                                                        -      -     -
 World Series Baseball (USA)                                                            -      -     -
 World Series Baseball (USA) (Rev 1)                                                    -      -     -
-WWF Raw (USA, Europe)                                                                  -      -     -
-WWF Wrestlemania - Steel Cage Challenge (USA, Europe)                                  ✗      ✗     ✗
+X-Men (USA)                                                                            -      -     -
 X-Men - Gamemaster's Legacy (USA, Europe)                                              -      -     -
 X-Men - Mojo World (USA)                                                               ✗      ✗     ✗
-X-Men (USA)                                                                            -      -     -
 Yogi Bear in Yogi Bear's Goldrush (Europe) (Proto)                                     ✗      ✗     ✗
 Yu Yu Hakusho - Horobishimono no Gyakushuu (Japan)                                     -      -     -
 Yu Yu Hakusho II - Gekitou! Nanakyou no Tatakai (Japan)                                ✗      ✗     ✗

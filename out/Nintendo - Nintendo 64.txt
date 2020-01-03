@@ -1,9 +1,9 @@
 Nintendo - Nintendo 64 Missing
 
-Boxarts   902/1025  88.00%
-Snaps     936/1025  91.32%
-Titles    936/1025  91.32%
-Total    2774/3075  90.21%
+Boxarts   903/1027  87.93%
+Snaps     935/1027  91.04%
+Titles    935/1027  91.04%
+Total    2773/3081  90.00%
 
 Name                                                                               Boxart  Snap  Title
 007 - The World Is Not Enough (Europe) (En,Fr,De)                                     -      -     -
@@ -12,11 +12,12 @@ Name                                                                            
 1080 TenEighty Snowboarding (Europe) (En,Ja,Fr,De)                                    -      -     -
 1080 TenEighty Snowboarding (Japan, USA) (En,Ja)                                      -      -     -
 40 Winks (Europe) (En,Es,It) (Proto) (1999-10-07)                                     -      -     -
-64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan)                         -      -     -
 64 Hanafuda - Tenshi no Yakusoku (Japan)                                              -      -     -
 64 Oozumou (Japan)                                                                    -      -     -
 64 Oozumou 2 (Japan)                                                                  -      -     -
 64 Trump Collection - Alice no Wakuwaku Trump World (Japan)                           -      -     -
+64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan)                         -      -     -
+AI Shougi 3 (Japan)                                                                   -      -     -
 Action Replay Pro 64 (Europe) (v3.0) (Unl)                                            ✗      -     -
 Action Replay Pro 64 (Europe) (v3.3) (Unl)                                            ✗      -     -
 AeroFighters Assault (Europe) (En,Fr,De)                                              -      -     -
@@ -25,7 +26,6 @@ AeroGauge (Europe) (En,Fr,De)                                                   
 AeroGauge (Japan) (Demo) (Kiosk)                                                      -      -     -
 AeroGauge (Japan) (Rev 1)                                                             -      -     -
 AeroGauge (USA)                                                                       -      -     -
-AI Shougi 3 (Japan)                                                                   -      -     -
 Aidyn Chronicles - The First Mage (Europe)                                            -      -     -
 Aidyn Chronicles - The First Mage (USA)                                               -      -     -
 Aidyn Chronicles - The First Mage (USA) (Beta) (2000-02-10)                           ✗      ✗     ✗
@@ -68,9 +68,9 @@ Bass Rush - ECOGEAR PowerWorm Championship (Japan)                              
 Bassmasters 2000 (USA)                                                                -      -     -
 Batman Beyond - Return of the Joker (USA)                                             -      -     -
 Batman of the Future - Return of the Joker (Europe) (En,Fr,De)                        -      -     -
+BattleTanx (USA)                                                                      -      -     -
 BattleTanx - Global Assault (Europe) (En,Fr,De)                                       -      -     -
 BattleTanx - Global Assault (USA)                                                     -      -     -
-BattleTanx (USA)                                                                      -      -     -
 Battlezone - Rise of the Black Dogs (USA)                                             -      -     -
 Beetle Adventure Racing! (Europe) (En,Fr,De)                                          -      -     -
 Beetle Adventure Racing! (Japan)                                                      -      -     -
@@ -90,13 +90,13 @@ Body Harvest (USA)                                                              
 Bokujou Monogatari 2 (Japan)                                                          -      -     -
 Bokujou Monogatari 2 (Japan) (Rev 1)                                                  -      -     -
 Bokujou Monogatari 2 (Japan) (Rev 2)                                                  -      -     -
-Bomberman 64 - The Second Attack! (USA)                                               -      -     -
 Bomberman 64 (Europe)                                                                 -      -     -
-Bomberman 64 (Japan)                                                                  ✗      ✗     ✗
+Bomberman 64 (Japan)                                                                  -      ✗     ✗
 Bomberman 64 (USA)                                                                    -      -     -
-Bomberman Hero - Mirian Oujo o Sukue! (Japan)                                         ✗      ✗     ✗
+Bomberman 64 - The Second Attack! (USA)                                               -      -     -
 Bomberman Hero (Europe)                                                               -      -     -
 Bomberman Hero (USA)                                                                  -      -     -
+Bomberman Hero - Mirian Oujo o Sukue! (Japan)                                         -      ✗     ✗
 Bottom of the 9th (USA)                                                               -      -     -
 Brunswick Circuit Pro Bowling (USA)                                                   -      -     -
 Buck Bumble (Europe) (En,Fr,De,Es,It)                                                 -      -     -
@@ -116,12 +116,12 @@ California Speed (USA)                                                          
 Carmageddon 64 (Europe) (En,Fr,De,Es)                                                 -      -     -
 Carmageddon 64 (Europe) (En,Fr,Es,It)                                                 -      -     -
 Carmageddon 64 (USA)                                                                  -      -     -
-Castlevania - Legacy of Darkness (Europe) (En,Fr,De)                                  -      -     -
-Castlevania - Legacy of Darkness (USA)                                                -      -     -
 Castlevania (Europe) (En,Fr,De)                                                       -      -     -
 Castlevania (USA)                                                                     -      -     -
 Castlevania (USA) (Rev 1)                                                             -      -     -
 Castlevania (USA) (Rev 2)                                                             -      -     -
+Castlevania - Legacy of Darkness (Europe) (En,Fr,De)                                  -      -     -
+Castlevania - Legacy of Darkness (USA)                                                -      -     -
 Centre Court Tennis (Europe)                                                          -      -     -
 Chameleon Twist (Europe)                                                              -      -     -
 Chameleon Twist (Japan)                                                               -      -     -
@@ -213,11 +213,11 @@ Duke Nukem 64 (Europe)                                                          
 Duke Nukem 64 (Europe) (Beta)                                                         -      -     -
 Duke Nukem 64 (France)                                                                -      -     -
 Duke Nukem 64 (USA)                                                                   -      -     -
-Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)                                            -      -     -
-Earthworm Jim 3D (USA)                                                                -      -     -
 ECW Hardcore Revolution (Europe)                                                      -      -     -
 ECW Hardcore Revolution (Germany)                                                     ✗      ✗     ✗
 ECW Hardcore Revolution (USA)                                                         -      -     -
+Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)                                            -      -     -
+Earthworm Jim 3D (USA)                                                                -      -     -
 Eikou no Saint Andrews (Japan)                                                        -      -     -
 Eltale Monsters (Japan)                                                               -      -     -
 Excitebike 64 (Europe)                                                                -      -     -
@@ -238,24 +238,24 @@ F-1 World Grand Prix (Germany)                                                  
 F-1 World Grand Prix (Japan)                                                          -      -     -
 F-1 World Grand Prix (USA)                                                            -      -     -
 F-1 World Grand Prix II (Europe) (En,Fr,De,Es)                                        -      -     -
-F-Zero X - Weilai Saiche (China) (iQue)                                               ✗      ✗     ✗
-F-Zero X - Weilai Saiche (China) (v2) (iQue) (Manual)                                 ✗      ✗     ✗
-F-Zero X - Weilai Saiche (China) (v4) (iQue) (Manual)                                 ✗      ✗     ✗
 F-Zero X (Europe)                                                                     -      -     -
 F-Zero X (Japan)                                                                      -      -     -
 F-Zero X (USA)                                                                        -      -     -
+F-Zero X - Weilai Saiche (China) (iQue)                                               ✗      ✗     ✗
+F-Zero X - Weilai Saiche (China) (v2) (iQue) (Manual)                                 ✗      ✗     ✗
+F-Zero X - Weilai Saiche (China) (v4) (iQue) (Manual)                                 ✗      ✗     ✗
 F1 Pole Position 64 (Europe) (En,Fr,De)                                               -      -     -
 F1 Pole Position 64 (USA) (En,Fr,De)                                                  -      -     -
 F1 Racing Championship (Brazil) (En,Fr)                                               -      -     -
 F1 Racing Championship (Europe) (En,Fr,De,Es,It)                                      -      -     -
-Famista 64 (Japan)                                                                    -      -     -
-FIFA - Road to World Cup 98 - World Cup e no Michi (Japan)                            -      -     -
 FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv)                           -      -     -
 FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv)                              -      -     -
+FIFA - Road to World Cup 98 - World Cup e no Michi (Japan)                            -      -     -
 FIFA 64 (Europe) (En,Fr,De)                                                           -      -     -
 FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)                                            -      -     -
 FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv)                                               -      -     -
 FIFA Soccer 64 (USA) (En,Fr,De)                                                       -      -     -
+Famista 64 (Japan)                                                                    -      -     -
 Fighter Destiny 2 (USA)                                                               -      -     -
 Fighters Destiny (Europe)                                                             -      -     -
 Fighters Destiny (France)                                                             -      -     -
@@ -270,10 +270,13 @@ Forsaken (Europe) (En,Fr,Es,It)                                                 
 Forsaken (Germany)                                                                    -      -     -
 Forsaken 64 (USA)                                                                     -      -     -
 Fox Sports College Hoops '99 (USA)                                                    -      -     -
-Frogger 2 (USA) (Proto)                                                               -      -     -
+Frogger 2 (USA) (Proto 1)                                                             ✗      ✗     ✗
+Frogger 2 (USA) (Proto 2)                                                             ✗      ✗     ✗
 Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan)            -      -     -
 G.A.S.P!! Fighters' NEXTream (Europe)                                                 -      -     -
 G.A.S.P!! Fighters' NEXTream (Japan)                                                  -      -     -
+GT 64 - Championship Edition (Europe) (En,Fr,De)                                      -      -     -
+GT 64 - Championship Edition (USA)                                                    -      -     -
 GameBooster 64 (Europe) (v1.1) (Unl)                                                  ✗      -     -
 GameBooster 64 (USA) (v1.1) (Unl)                                                     ✗      -     -
 GameShark Pro (USA) (v2.0) (Unl)                                                      ✗      -     -
@@ -301,8 +304,7 @@ Golden Nugget 64 (USA)                                                          
 GoldenEye 007 (Europe)                                                                -      -     -
 GoldenEye 007 (Japan)                                                                 -      -     -
 GoldenEye 007 (USA)                                                                   -      -     -
-GT 64 - Championship Edition (Europe) (En,Fr,De)                                      -      -     -
-GT 64 - Championship Edition (USA)                                                    -      -     -
+HSV Adventure Racing! (Australia)                                                     -      -     -
 Hamster Monogatari 64 (Japan)                                                         -      -     -
 Harukanaru Augusta - Masters '98 (Japan)                                              -      -     -
 Harvest Moon 64 (USA)                                                                 -      -     -
@@ -325,7 +327,6 @@ Hoshi no Kirby 64 (Japan) (Rev 2)                                               
 Hoshi no Kirby 64 (Japan) (Rev 3)                                                     -      -     -
 Hot Wheels - Turbo Racing (Europe) (En,Fr,De)                                         -      -     -
 Hot Wheels - Turbo Racing (USA)                                                       -      -     -
-HSV Adventure Racing! (Australia)                                                     -      -     -
 Human Grand Prix - The New Generation (Japan)                                         -      -     -
 Hybrid Heaven (Europe) (En,Fr,De)                                                     -      -     -
 Hybrid Heaven (Japan)                                                                 -      -     -
@@ -335,9 +336,9 @@ Hydro Thunder (France)                                                          
 Hydro Thunder (USA)                                                                   -      -     -
 Hyper Olympics in Nagano 64 (Japan)                                                   -      -     -
 Ide Yosuke no Mahjong Juku (Japan)                                                    -      -     -
-Iggy-kun no Bura Bura Poyon (Japan)                                                   -      -     -
 Iggy's Reckin' Balls (Europe)                                                         -      -     -
 Iggy's Reckin' Balls (USA)                                                            -      -     -
+Iggy-kun no Bura Bura Poyon (Japan)                                                   -      -     -
 In-Fisherman - Bass Hunter 64 (Europe)                                                -      -     -
 In-Fisherman - Bass Hunter 64 (USA)                                                   -      -     -
 Indiana Jones and the Infernal Machine (Australia) (Proto)                            -      -     -
@@ -353,7 +354,6 @@ International Superstar Soccer 64 (Europe)                                      
 International Superstar Soccer 64 (USA)                                               -      -     -
 International Track _ Field - Summer Games (Europe) (En,Fr,De)                        -      -     -
 International Track _ Field 2000 (USA)                                                -      -     -
-iQue Club (China) (v3) (iQue)                                                         ✗      ✗     ✗
 Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban! (Japan)                                -      -     -
 J.League Dynamite Soccer 64 (Japan)                                                   -      -     -
 J.League Eleven Beat 1997 (Japan)                                                     -      -     -
@@ -410,6 +410,8 @@ Knockout Kings 2000 (Europe)                                                    
 Knockout Kings 2000 (USA)                                                             -      -     -
 Kobe Bryant in NBA Courtside (Europe)                                                 -      -     -
 Kobe Bryant in NBA Courtside (USA)                                                    -      -     -
+LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)                                  -      -     -
+LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)                                     -      -     -
 Last Legion UX (Japan)                                                                -      -     -
 Legend of Zelda, The - Majora's Mask (Europe) (Collector's Edition)                   ✗      ✗     ✗
 Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es)                           -      -     -
@@ -419,9 +421,6 @@ Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Wii Virtual Console
 Legend of Zelda, The - Majora's Mask (USA)                                            -      -     -
 Legend of Zelda, The - Majora's Mask (USA) (Collector's Edition)                      ✗      ✗     ✗
 Legend of Zelda, The - Majora's Mask (USA) (Demo) (Kiosk)                             -      -     -
-Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (Debug Version)        -      -     -
-Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube)             -      -     -
-Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)                -      -     -
 Legend of Zelda, The - Ocarina of Time (Europe) (Collector's Edition)                 ✗      ✗     ✗
 Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De)                            -      -     -
 Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev 1)                    -      -     -
@@ -429,14 +428,18 @@ Legend of Zelda, The - Ocarina of Time (USA)                                    
 Legend of Zelda, The - Ocarina of Time (USA) (Collector's Edition)                    ✗      ✗     ✗
 Legend of Zelda, The - Ocarina of Time (USA) (Rev 1)                                  -      -     -
 Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)                                  -      -     -
-LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)                                  -      -     -
-LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)                                     -      -     -
+Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (Debug Version)        -      -     -
+Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube)             -      -     -
+Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)                -      -     -
 Let's Smash (Japan)                                                                   -      -     -
 Lode Runner 3-D (Europe) (En,Fr,De,Es,It)                                             -      -     -
 Lode Runner 3-D (Japan)                                                               -      -     -
 Lode Runner 3-D (USA)                                                                 -      -     -
 Lylat Wars (Australia) (En,Fr,De)                                                     -      -     -
 Lylat Wars (Europe) (En,Fr,De)                                                        -      -     -
+MRC - Multi-Racing Championship (Europe) (En,Fr,De)                                   -      -     -
+MRC - Multi-Racing Championship (Japan)                                               -      -     -
+MRC - Multi-Racing Championship (USA)                                                 -      -     -
 Mace - The Dark Age (Europe)                                                          -      -     -
 Mace - The Dark Age (USA)                                                             -      -     -
 Madden Football 64 (Europe)                                                           -      -     -
@@ -470,7 +473,6 @@ Mario Kart 64 (Europe) (Rev 1)                                                  
 Mario Kart 64 (Japan)                                                                 -      -     -
 Mario Kart 64 (Japan) (Rev 1)                                                         -      -     -
 Mario Kart 64 (USA)                                                                   -      -     -
-Mario no Photopie (Japan)                                                             -      -     -
 Mario Party (Europe) (En,Fr,De)                                                       -      -     -
 Mario Party (Japan)                                                                   -      -     -
 Mario Party (USA)                                                                     -      -     -
@@ -493,6 +495,7 @@ Mario Tennis 64 (Japan) (Wii Virtual Console)                                   
 Mario Yisheng (China) (iQue)                                                          ✗      ✗     ✗
 Mario Yisheng (China) (v2) (iQue) (Manual)                                            ✗      ✗     ✗
 Mario Yisheng (China) (v4) (iQue) (Manual)                                            ✗      ✗     ✗
+Mario no Photopie (Japan)                                                             -      -     -
 Mega Man 64 (USA)                                                                     -      -     -
 Mega Man 64 (USA) (Beta)                                                              -      -     -
 Mia Hamm Soccer 64 (USA) (En,Es)                                                      -      -     -
@@ -515,9 +518,10 @@ Mission - Impossible (France)                                                   
 Mission - Impossible (Germany)                                                        -      -     -
 Mission - Impossible (Italy)                                                          -      -     -
 Mission - Impossible (Spain)                                                          -      -     -
+Mission - Impossible (Spain) (Rev 1)                                                  ✗      ✗     ✗
 Mission - Impossible (USA)                                                            -      -     -
-Monaco Grand Prix - Racing Simulation 2 (Europe) (En,Fr,Es,It)                        -      -     -
 Monaco Grand Prix (USA)                                                               -      -     -
+Monaco Grand Prix - Racing Simulation 2 (Europe) (En,Fr,Es,It)                        -      -     -
 Monopoly (USA)                                                                        -      -     -
 Monster Truck Madness 64 (Europe) (En,Fr,De,Es,It)                                    -      -     -
 Monster Truck Madness 64 (USA)                                                        -      -     -
@@ -531,28 +535,16 @@ Mortal Kombat Trilogy (USA)                                                     
 Mortal Kombat Trilogy (USA) (Beta) (1996-05-13)                                       ✗      ✗     ✗
 Mortal Kombat Trilogy (USA) (Rev 1)                                                   -      -     -
 Mortal Kombat Trilogy (USA) (Rev 2)                                                   -      -     -
-MRC - Multi-Racing Championship (Europe) (En,Fr,De)                                   -      -     -
-MRC - Multi-Racing Championship (Japan)                                               -      -     -
-MRC - Multi-Racing Championship (USA)                                                 -      -     -
 Ms. Pac-Man - Maze Madness (USA)                                                      -      -     -
 Mystical Ninja 2 Starring Goemon (Europe) (En,Fr,De)                                  -      -     -
 Mystical Ninja Starring Goemon (Europe)                                               -      -     -
 Mystical Ninja Starring Goemon (USA)                                                  -      -     -
-Nagano Winter Olympics '98 (Europe)                                                   -      -     -
-Nagano Winter Olympics '98 (USA)                                                      -      -     -
-Namco Museum 64 (USA)                                                                 -      -     -
 NASCAR 2000 (USA)                                                                     -      -     -
 NASCAR 99 (Europe) (En,Fr,De)                                                         -      -     -
 NASCAR 99 (USA)                                                                       -      -     -
 NBA Courtside 2 featuring Kobe Bryant (USA)                                           -      -     -
 NBA Hangtime (Europe)                                                                 -      -     -
 NBA Hangtime (USA)                                                                    -      -     -
-NBA in the Zone '98 (Japan)                                                           -      -     -
-NBA in the Zone '98 (USA)                                                             -      -     -
-NBA in the Zone '99 (USA)                                                             -      -     -
-NBA in the Zone 2 (Japan)                                                             -      -     -
-NBA in the Zone 2000 (Europe)                                                         -      -     -
-NBA in the Zone 2000 (USA)                                                            -      -     -
 NBA Jam 2000 (Europe)                                                                 -      -     -
 NBA Jam 2000 (USA)                                                                    -      -     -
 NBA Jam 99 (Europe)                                                                   -      -     -
@@ -564,11 +556,14 @@ NBA Live 99 (USA) (En,Fr,De,Es,It)                                              
 NBA Pro 98 (Europe)                                                                   -      -     -
 NBA Pro 99 (Europe)                                                                   -      -     -
 NBA Showtime - NBA on NBC (USA)                                                       -      -     -
-Neon Genesis Evangelion (Japan)                                                       -      -     -
-New Tetris, The (Europe)                                                              -      -     -
-New Tetris, The (USA)                                                                 -      -     -
-NFL Blitz - Special Edition (USA)                                                     -      -     -
+NBA in the Zone '98 (Japan)                                                           -      -     -
+NBA in the Zone '98 (USA)                                                             -      -     -
+NBA in the Zone '99 (USA)                                                             -      -     -
+NBA in the Zone 2 (Japan)                                                             -      -     -
+NBA in the Zone 2000 (Europe)                                                         -      -     -
+NBA in the Zone 2000 (USA)                                                            -      -     -
 NFL Blitz (USA)                                                                       -      -     -
+NFL Blitz - Special Edition (USA)                                                     -      -     -
 NFL Blitz 2000 (USA)                                                                  -      -     -
 NFL Blitz 2000 (USA) (Rev 1)                                                          -      -     -
 NFL Blitz 2001 (USA)                                                                  -      -     -
@@ -587,29 +582,38 @@ NHL Breakaway 98 (USA)                                                          
 NHL Breakaway 99 (Europe)                                                             -      -     -
 NHL Breakaway 99 (USA)                                                                -      -     -
 NHL Pro 99 (Europe)                                                                   -      -     -
+Nagano Winter Olympics '98 (Europe)                                                   -      -     -
+Nagano Winter Olympics '98 (USA)                                                      -      -     -
+Namco Museum 64 (USA)                                                                 -      -     -
+Neon Genesis Evangelion (Japan)                                                       -      -     -
+New Tetris, The (Europe)                                                              -      -     -
+New Tetris, The (USA)                                                                 -      -     -
 Nightmare Creatures (USA)                                                             -      -     -
 Nintama Rantarou 64 Game Gallery (Japan)                                              -      -     -
 Nintendo All-Star! Dairantou Smash Brothers (Japan)                                   -      -     -
 Nuclear Strike 64 (Europe) (En,Fr)                                                    -      -     -
 Nuclear Strike 64 (Germany)                                                           -      -     -
 Nuclear Strike 64 (USA)                                                               -      -     -
-Nushi Zuri 64 - Shiokaze ni Notte (Japan)                                             -      -     -
 Nushi Zuri 64 (Japan)                                                                 -      -     -
 Nushi Zuri 64 (Japan) (Rev 1)                                                         -      -     -
+Nushi Zuri 64 - Shiokaze ni Notte (Japan)                                             -      -     -
 O.D.T. (Europe) (En,Fr,De,Es,It) (Proto)                                              -      -     -
 O.D.T. (USA) (En,Fr,Es) (Proto)                                                       -      -     -
 Off Road Challenge (Europe)                                                           -      -     -
 Off Road Challenge (USA)                                                              -      -     -
 Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1)                             -      -     -
 Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console)       ✗      ✗     ✗
-Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Wii Virtual Console)         ✗      ✗     ✗
 Ogre Battle 64 - Person of Lordly Caliber (USA)                                       -      -     -
 Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1)                               -      -     -
+Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Wii Virtual Console)         ✗      ✗     ✗
 Olympic Hockey 98 (Europe) (En,Fr,De,Es)                                              -      -     -
 Olympic Hockey 98 (Japan)                                                             -      -     -
 Olympic Hockey 98 (USA)                                                               -      -     -
 Onegai Monsters (Japan)                                                               -      -     -
 Operation WinBack (Europe) (En,Fr,De,Es,It)                                           -      -     -
+PD Ultraman Battle Collection 64 (Japan)                                              ✗      -     -
+PGA European Tour (USA)                                                               -      -     -
+PGA European Tour Golf (Europe) (En,Fr,De,Es,It)                                      -      -     -
 Pachinko 365 Nichi (Japan)                                                            ✗      -     -
 Paper Mario (Europe) (En,Fr,De,Es)                                                    -      -     -
 Paper Mario (Europe) (En,Fr,De,Es) (Wii Virtual Console)                              ✗      ✗     ✗
@@ -617,7 +621,6 @@ Paper Mario (USA)                                                               
 Paperboy (Europe)                                                                     -      -     -
 Paperboy (USA)                                                                        -      -     -
 Parlor! Pro 64 - Pachinko Jikki Simulation Game (Japan)                               ✗      -     -
-PD Ultraman Battle Collection 64 (Japan)                                              ✗      -     -
 Penny Racers (Europe)                                                                 -      -     -
 Penny Racers (USA)                                                                    -      -     -
 Perfect Dark (Europe) (Debug Version) (2000-04-26)                                    ✗      ✗     ✗
@@ -626,8 +629,6 @@ Perfect Dark (Japan)                                                            
 Perfect Dark (USA)                                                                    -      -     -
 Perfect Dark (USA) (Debug Version) (2000-03-22)                                       ✗      ✗     ✗
 Perfect Dark (USA) (Rev 1)                                                            -      -     -
-PGA European Tour (USA)                                                               -      -     -
-PGA European Tour Golf (Europe) (En,Fr,De,Es,It)                                      -      -     -
 Pikachuu Genki de Chuu (Japan)                                                        -      -     -
 Pilotwings 64 (Europe) (En,Fr,De)                                                     -      -     -
 Pilotwings 64 (Japan)                                                                 -      -     -
@@ -685,6 +686,9 @@ Quake (USA)                                                                     
 Quake II (Europe)                                                                     -      -     -
 Quake II (USA)                                                                        -      -     -
 Quest 64 (USA)                                                                        -      -     -
+RR64 - Ridge Racer 64 (Europe)                                                        -      -     -
+RR64 - Ridge Racer 64 (USA)                                                           -      -     -
+RTL World League Soccer 2000 (Germany)                                                -      -     -
 Racing Simulation 2 (Germany)                                                         -      -     -
 Rakugakids (Europe)                                                                   -      -     -
 Rakugakids (Japan)                                                                    -      -     -
@@ -702,9 +706,9 @@ Razmoket, Les - La Chasse aux Tresors (France)                                  
 Razor Freestyle Scooter (USA)                                                         -      -     -
 Re-Volt (Europe) (En,Fr,De,Es)                                                        -      -     -
 Re-Volt (USA)                                                                         -      -     -
-Ready 2 Rumble Boxing - Round 2 (USA)                                                 -      -     -
 Ready 2 Rumble Boxing (Europe) (En,Fr,De)                                             -      -     -
 Ready 2 Rumble Boxing (USA)                                                           -      -     -
+Ready 2 Rumble Boxing - Round 2 (USA)                                                 -      -     -
 Rentiantang Mingxing - Daluan Dou (China) (iQue)                                      ✗      ✗     ✗
 Rentiantang Mingxing - Daluan Dou (China) (iQue) (Manual)                             ✗      ✗     ✗
 Resident Evil 2 (Europe) (En,Fr)                                                      -      -     -
@@ -722,9 +726,6 @@ Rocket - Robot on Wheels (Europe) (En,Fr,De)                                    
 Rocket - Robot on Wheels (USA)                                                        -      -     -
 Rockman Dash - Hagane no Boukenshin (Japan)                                           -      -     -
 Ronaldinho's Soccer 64 (Brazil) (Unl) (Pirate)                                        ✗      ✗     ✗
-RR64 - Ridge Racer 64 (Europe)                                                        -      -     -
-RR64 - Ridge Racer 64 (USA)                                                           -      -     -
-RTL World League Soccer 2000 (Germany)                                                -      -     -
 Rugrats - Die grosse Schatzsuche (Germany)                                            -      -     -
 Rugrats - Scavenger Hunt (USA)                                                        -      -     -
 Rugrats - Treasure Hunt (Europe)                                                      -      -     -
@@ -734,6 +735,7 @@ Rush 2 - Extreme Racing USA (Europe) (En,Fr,De,Es,It,Nl)                        
 Rush 2 - Extreme Racing USA (USA)                                                     -      -     -
 S.C.A.R.S. (Europe) (En,Fr,De)                                                        -      -     -
 S.C.A.R.S. (USA)                                                                      -      -     -
+SD Hiryuu no Ken Densetsu (Japan)                                                     -      -     -
 Saikyou Habu Shougi (Japan)                                                           -      -     -
 San Francisco Rush - Extreme Racing (Europe) (En,Fr,De)                               -      -     -
 San Francisco Rush - Extreme Racing (USA) (En,Fr,De)                                  -      -     -
@@ -743,7 +745,6 @@ San Francisco Rush 2049 (USA)                                                   
 Scooby-Doo! - Classic Creep Capers (Europe)                                           -      -     -
 Scooby-Doo! - Classic Creep Capers (USA)                                              -      -     -
 Scooby-Doo! - Classic Creep Capers (USA) (Rev 1)                                      -      -     -
-SD Hiryuu no Ken Densetsu (Japan)                                                     -      -     -
 Sesame Street - Elmo's Letter Adventure (USA)                                         -      -     -
 Sesame Street - Elmo's Number Journey (USA)                                           -      -     -
 Shadow Man (Brazil)                                                                   ✗      -     -
@@ -771,12 +772,12 @@ Snowboard Kids (USA)                                                            
 Snowboard Kids 2 (Australia)                                                          -      -     -
 Snowboard Kids 2 (USA)                                                                -      -     -
 Sonic Wings Assault (Japan)                                                           -      -     -
-South Park - Chef's Luv Shack (Europe)                                                -      -     -
-South Park - Chef's Luv Shack (USA)                                                   -      -     -
 South Park (Brazil)                                                                   -      -     -
 South Park (Europe) (En,Fr,Es)                                                        -      -     -
 South Park (Germany)                                                                  -      -     -
 South Park (USA)                                                                      -      -     -
+South Park - Chef's Luv Shack (Europe)                                                -      -     -
+South Park - Chef's Luv Shack (USA)                                                   -      -     -
 South Park Rally (Europe)                                                             -      -     -
 South Park Rally (USA)                                                                -      -     -
 Space Dynamites (Japan)                                                               -      -     -
@@ -831,12 +832,13 @@ Super Smash Bros. (USA)                                                         
 Super Speed Race 64 (Japan)                                                           -      -     -
 Supercross 2000 (Europe) (En,Fr,De)                                                   -      -     -
 Supercross 2000 (USA)                                                                 -      -     -
-Superman - The New Superman Aventures (USA) (En,Fr,Es)                                -      -     -
 Superman (Europe) (En,Fr,De,Es,It,Nl)                                                 -      -     -
 Superman (USA) (Beta) (1998-09-06)                                                    ✗      ✗     ✗
+Superman - The New Superman Aventures (USA) (En,Fr,Es)                                -      -     -
 Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan)                            ✗      -     -
 Sydney 2000 (Europe) (Proto)                                                          ✗      -     -
 Sydney 2000 (USA) (Proto)                                                             ✗      -     -
+TG Rally 2 (Europe)                                                                   -      -     -
 Tamiya Racing 64 (USA) (Proto)                                                        ✗      ✗     ✗
 Tarzan (Europe)                                                                       -      -     -
 Tarzan (France)                                                                       -      -     -
@@ -848,15 +850,14 @@ Telefoot Soccer 2000 (France)                                                   
 Tetris 64 (Japan) (En)                                                                -      -     -
 Tetrisphere (Europe)                                                                  -      -     -
 Tetrisphere (USA)                                                                     -      -     -
-TG Rally 2 (Europe)                                                                   -      -     -
 Tigger's Honey Hunt (Europe) (En,Fr,De,Es,It,Nl,Da)                                   -      -     -
 Tigger's Honey Hunt (USA)                                                             -      -     -
-Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl)                          -      -     -
-Tom and Jerry in Fists of Furry (USA)                                                 -      -     -
 Tom Clancy's Rainbow Six (Europe)                                                     -      -     -
 Tom Clancy's Rainbow Six (France)                                                     -      -     -
 Tom Clancy's Rainbow Six (Germany)                                                    -      -     -
 Tom Clancy's Rainbow Six (USA)                                                        -      -     -
+Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl)                          -      -     -
+Tom and Jerry in Fists of Furry (USA)                                                 -      -     -
 Tommy Thunder (USA) (Proto)                                                           ✗      -     -
 Tonic Trouble (Europe) (En,Fr,De,Es,It)                                               -      -     -
 Tonic Trouble (USA) (Rev 1)                                                           -      -     -
@@ -882,10 +883,10 @@ Top Gear Rally 2 (Europe)                                                       
 Top Gear Rally 2 (Europe) (Beta) (1999-08-31)                                         ✗      ✗     ✗
 Top Gear Rally 2 (Japan)                                                              -      -     -
 Top Gear Rally 2 (USA)                                                                -      -     -
-Toy Story 2 - Buzz l'Eclair a la Rescousse! (France)                                  -      -     -
 Toy Story 2 - Buzz Lightyear to the Rescue! (Europe)                                  -      -     -
 Toy Story 2 - Buzz Lightyear to the Rescue! (USA)                                     -      -     -
 Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1)                             -      -     -
+Toy Story 2 - Buzz l'Eclair a la Rescousse! (France)                                  -      -     -
 Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany)                   -      -     -
 Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany) (Rev 1)           -      -     -
 Transformers - Beast Wars Metals 64 (Japan)                                           -      -     -
@@ -924,12 +925,12 @@ Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan)              
 V-Rally Edition 99 (Europe) (En,Fr,De)                                                -      -     -
 V-Rally Edition 99 (Japan)                                                            -      -     -
 V-Rally Edition 99 (USA)                                                              -      -     -
-Vigilante 8 - 2nd Offense (Europe)                                                    -      -     -
-Vigilante 8 - 2nd Offense (USA)                                                       -      -     -
 Vigilante 8 (Europe)                                                                  -      -     -
 Vigilante 8 (France)                                                                  -      -     -
 Vigilante 8 (Germany)                                                                 -      -     -
 Vigilante 8 (USA)                                                                     -      -     -
+Vigilante 8 - 2nd Offense (Europe)                                                    -      -     -
+Vigilante 8 - 2nd Offense (USA)                                                       -      -     -
 Violence Killer - Turok New Generation (Japan)                                        -      -     -
 Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl)                                         -      -     -
 Virtual Chess 64 (USA) (En,Fr,Es)                                                     -      -     -
@@ -937,6 +938,27 @@ Virtual Pool 64 (Europe)                                                        
 Virtual Pool 64 (USA)                                                                 -      -     -
 Virtual Pro Wrestling 2 - Oudou Keishou (Japan)                                       -      -     -
 Virtual Pro Wrestling 64 (Japan)                                                      -      -     -
+WCW Backstage Assault (USA)                                                           -      -     -
+WCW Mayhem (Europe)                                                                   -      -     -
+WCW Mayhem (USA)                                                                      -      -     -
+WCW Nitro (USA)                                                                       -      -     -
+WCW vs. nWo - World Tour (Europe)                                                     -      -     -
+WCW vs. nWo - World Tour (USA)                                                        -      -     -
+WCW vs. nWo - World Tour (USA) (Rev 1)                                                -      -     -
+WCW-nWo Revenge (Europe)                                                              -      -     -
+WCW-nWo Revenge (USA)                                                                 -      -     -
+WWF Attitude (Europe)                                                                 -      -     -
+WWF Attitude (Germany)                                                                -      -     -
+WWF Attitude (USA)                                                                    -      -     -
+WWF No Mercy (Europe)                                                                 -      -     -
+WWF No Mercy (Europe) (Rev 1)                                                         -      -     -
+WWF No Mercy (USA)                                                                    -      -     -
+WWF No Mercy (USA) (Rev 1)                                                            -      -     -
+WWF War Zone (Europe)                                                                 -      -     -
+WWF War Zone (USA)                                                                    -      -     -
+WWF WrestleMania 2000 (Europe)                                                        -      -     -
+WWF WrestleMania 2000 (Japan)                                                         -      -     -
+WWF WrestleMania 2000 (USA)                                                           -      -     -
 Waialae Country Club - True Golf Classics (Europe)                                    -      -     -
 Waialae Country Club - True Golf Classics (Europe) (Rev 1)                            -      -     -
 Waialae Country Club - True Golf Classics (USA)                                       -      -     -
@@ -955,24 +977,15 @@ Wayne Gretzky's 3D Hockey (Europe) (En,Fr,De,Es)                                
 Wayne Gretzky's 3D Hockey (Japan)                                                     -      -     -
 Wayne Gretzky's 3D Hockey (USA)                                                       -      -     -
 Wayne Gretzky's 3D Hockey (USA) (Rev 1)                                               -      -     -
-WCW Backstage Assault (USA)                                                           -      -     -
-WCW Mayhem (Europe)                                                                   -      -     -
-WCW Mayhem (USA)                                                                      -      -     -
-WCW Nitro (USA)                                                                       -      -     -
-WCW vs. nWo - World Tour (Europe)                                                     -      -     -
-WCW vs. nWo - World Tour (USA)                                                        -      -     -
-WCW vs. nWo - World Tour (USA) (Rev 1)                                                -      -     -
-WCW-nWo Revenge (Europe)                                                              -      -     -
-WCW-nWo Revenge (USA)                                                                 -      -     -
 Wetrix (Europe) (En,Fr,De,Es,It,Nl)                                                   -      -     -
 Wetrix (Japan)                                                                        -      -     -
 Wetrix (USA) (En,Fr,De,Es,It,Nl)                                                      -      -     -
 Wheel of Fortune (USA)                                                                -      -     -
 Wild Choppers (Japan)                                                                 -      -     -
 Wildwaters (USA) (Proto)                                                              ✗      -     -
-WinBack - Covert Operations (USA)                                                     -      -     -
 WinBack (Japan)                                                                       -      -     -
 WinBack (Japan) (Rev 1)                                                               -      -     -
+WinBack - Covert Operations (USA)                                                     -      -     -
 Wipeout 64 (Europe)                                                                   -      -     -
 Wipeout 64 (Europe) (Beta)                                                            ✗      ✗     ✗
 Wipeout 64 (USA)                                                                      -      -     -
@@ -983,18 +996,6 @@ World Driver Championship (Europe) (En,Fr,De,Es,It)                             
 World Driver Championship (USA)                                                       -      -     -
 Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)                                         -      -     -
 Worms Armageddon (USA) (En,Fr,Es)                                                     -      -     -
-WWF Attitude (Europe)                                                                 -      -     -
-WWF Attitude (Germany)                                                                -      -     -
-WWF Attitude (USA)                                                                    -      -     -
-WWF No Mercy (Europe)                                                                 -      -     -
-WWF No Mercy (Europe) (Rev 1)                                                         -      -     -
-WWF No Mercy (USA)                                                                    -      -     -
-WWF No Mercy (USA) (Rev 1)                                                            -      -     -
-WWF War Zone (Europe)                                                                 -      -     -
-WWF War Zone (USA)                                                                    -      -     -
-WWF WrestleMania 2000 (Europe)                                                        -      -     -
-WWF WrestleMania 2000 (Japan)                                                         -      -     -
-WWF WrestleMania 2000 (USA)                                                           -      -     -
 Xena - Warrior Princess - The Talisman of Fate (Europe)                               -      -     -
 Xena - Warrior Princess - The Talisman of Fate (USA)                                  -      -     -
 Xingji Huohu (China) (v4) (iQue) (Manual)                                             ✗      ✗     ✗
@@ -1031,3 +1032,4 @@ Zool - Majuu Tsukai Densetsu (Japan)                                            
 Zuhe Jiqiren (China) (iQue)                                                           ✗      ✗     ✗
 Zui Yu Fa Diqiu De Jicheng Zhe (China) (iQue)                                         ✗      ✗     ✗
 Zui Yu Fa Diqiu De Jicheng Zhe (China) (iQue) (Manual)                                ✗      ✗     ✗
+iQue Club (China) (v3) (iQue)                                                         ✗      ✗     ✗

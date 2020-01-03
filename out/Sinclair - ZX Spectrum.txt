@@ -38,16 +38,18 @@ A-Maze (K'Soft Ltd)                                                             
 A.R.C.O.S. (Kabuto Factory)                                                                                          ✗      -     -
 A.T.A.C. (Gadtek Games)                                                                                              ✗      -     -
 A.T.R.A.M (Websters Software)                                                                                        ✗      -     -
+ACE (Cascade Games Ltd)                                                                                              -      -     ✗
+ACE 2- The Ultimate Head to Head Conflict (Cascade Games Ltd)                                                        -      ✗     ✗
+APB (Domark Ltd)                                                                                                     -      -     -
+ATF (Digital Integration)                                                                                            -      -     -
 Abadia del Crimen, La (Opera Soft S.A.)                                                                              ✗      -     -
 AbcZX (Compiuter Soft)                                                                                               -      -     ✗
 Abington                                                                                                             ✗      -     ✗
 Abu Simbel Profanation (Dinamic Software)                                                                            ✗      -     -
 Abyss (CCS)                                                                                                          -      -     -
 Accelerator (Century City Software Ltd)                                                                              -      -     -
-ACE (Cascade Games Ltd)                                                                                              -      -     ✗
-ACE 2- The Ultimate Head to Head Conflict (Cascade Games Ltd)                                                        -      ✗     ✗
-Ace in the H.O.L.E. (Kayde Software Ltd)                                                                             -      -     ✗
 Ace Low (CCS)                                                                                                        -      -     ✗
+Ace in the H.O.L.E. (Kayde Software Ltd)                                                                             -      -     ✗
 Ace of Aces (US Gold Ltd)                                                                                            -      -     -
 Achus Babilonia (Penazo Soft)                                                                                        ✗      -     -
 Acolyte (Video Images)                                                                                               ✗      -     -
@@ -79,9 +81,9 @@ Adventure D- Espionage Island (Artic Computing Ltd)                             
 Adventure E- Golden Apple (Artic Computing Ltd)                                                                      ✗      ✗     ✗
 Adventure F- Eye of Bain (Artic Computing Ltd)                                                                       ✗      ✗     ✗
 Adventure G- Ground Zero (Artic Computing Ltd)                                                                       ✗      ✗     ✗
-Adventure in Bristol (Garry Lancaster)                                                                               -      -     -
 Adventure Island (Contrast Software)                                                                                 ✗      -     -
 Adventure Quest (Level 9 Computing Ltd)                                                                              -      -     ✗
+Adventure in Bristol (Garry Lancaster)                                                                               -      -     -
 Adventureland (Adventure International)                                                                              -      -     -
 Adventurer's Nightmare (Wicosoft)                                                                                    ✗      -     -
 Adventures in the Lost Valley (Mega-Soft [2])                                                                        ✗      -     -
@@ -136,9 +138,9 @@ Alien Research Centre (Zenobi Software)                                         
 Alien Swarm (Titan Programs Ltd)                                                                                     -      -     -
 Alien Syndrome (ACE Software [1])                                                                                    -      -     -
 Aliens (Professional Software)                                                                                       -      -     -
+All Present And Correct (Bob's Stuff)                                                                                ✗      -     -
 All in a Day's Work (Zenobi Software)                                                                                ✗      -     -
 All or Nothing (Abbex Electronics Ltd)                                                                               -      -     -
-All Present And Correct (Bob's Stuff)                                                                                ✗      -     -
 All-American Basketball (Zeppelin Games Ltd)                                                                         ✗      -     -
 Alma de Guerrero (Beyker Soft)                                                                                       ✗      -     -
 Alpine Games (Atlantis Software Ltd)                                                                                 -      -     -
@@ -183,7 +185,6 @@ Antics (Bug-Byte Software Ltd)                                                  
 Antteroo (Central Solutions)                                                                                         -      -     -
 Anttilis Mission, The (Compass Software)                                                                             ✗      -     -
 Apache Raid!! (Pirate Software Ltd)                                                                                  -      -     -
-APB (Domark Ltd)                                                                                                     -      -     -
 Apfel-Kobold (Happy Computer)                                                                                        ✗      -     ✗
 Apollo 11 (Darkstar)                                                                                                 -      -     -
 Apple Catcher (ZX Computing)                                                                                         ✗      -     ✗
@@ -228,7 +229,6 @@ Astroclone (Hewson Consultants Ltd)                                             
 Astronut (Software Projects Ltd)                                                                                     -      -     -
 Astroplaner (Romik Software)                                                                                         -      -     -
 Ataque a la Flota (Sound-on-Sound)                                                                                   -      -     -
-ATF (Digital Integration)                                                                                            -      -     -
 Athlete (Buffer Micro Ltd)                                                                                           -      -     -
 Atlantis (Anirog Software)                                                                                           -      -     -
 Atlantis Adventure (M_J Software)                                                                                    ✗      -     -
@@ -262,6 +262,13 @@ Awari (The Home Computer Advanced Course)                                       
 Axe of Kolt, The (FSF Adventures)                                                                                    -      -     -
 Aztec Assault (Zenobi Software)                                                                                      ✗      -     -
 B.C. Bill (Imagine Software Ltd)                                                                                     ✗      -     -
+BASIC Rally (Masters Games)                                                                                          -      -     ✗
+BBC Mastermind Quizmaster (Mirrorsoft Ltd)                                                                           ✗      -     -
+BC's Quest for Tires (Software Projects Ltd)                                                                         -      -     -
+BMX Jungle Bike (Reelax Games)                                                                                       -      -     -
+BMX Kidz (Firebird Software Ltd)                                                                                     -      -     -
+BMX Ninja (Alternative Software Ltd)                                                                                 -      -     -
+BMX Racers (Mastertronic Ltd)                                                                                        -      -     -
 Babaliba (Dinamic Software)                                                                                          ✗      -     -
 Back to Skool (Microsphere)                                                                                          -      -     -
 Backgammon (CDS Microsystems)                                                                                        ✗      -     -
@@ -271,8 +278,8 @@ Backgammon (Pi Software)                                                        
 Backgammon (Sinclair Research Ltd)                                                                                   ✗      -     -
 Badlands (Domark Ltd)                                                                                                -      -     -
 Ball Breaker (CRL Group PLC)                                                                                         -      -     -
-Ball by Ball (Video Software Ltd)                                                                                    -      -     -
 Ball Crazy (Mastertronic Added Dimension)                                                                            -      -     -
+Ball by Ball (Video Software Ltd)                                                                                    -      -     -
 Ball, The (Futuresoft)                                                                                               ✗      -     -
 Ballade du Lutin, La (Loriciels)                                                                                     ✗      -     -
 Ballbreaker II (CRL Group PLC)                                                                                       -      -     -
@@ -293,7 +300,6 @@ Barrowquest (CCS)                                                               
 Base Invaders (Magination Software)                                                                                  ✗      -     -
 Base Invaders (Work Force)                                                                                           -      -     -
 Base, The (The Guild)                                                                                                ✗      -     -
-BASIC Rally (Masters Games)                                                                                          -      -     ✗
 Basil the Great Mouse Detective (Gremlin Graphics Software Ltd)                                                      -      -     -
 Basket (Software mb)                                                                                                 -      -     -
 Basque Terrorists Loose in Dartford (Infected Software)                                                              ✗      -     -
@@ -302,19 +308,18 @@ Batalla Naval (Taller de Aplicaciones Informaticas)                             
 Batman (Ocean Software Ltd)                                                                                          -      -     -
 Batman- The Movie (Ocean Software Ltd)                                                                               -      ✗     ✗
 Battle 1917 (CCS)                                                                                                    -      -     -
+Battle Ships (Encore)                                                                                                -      ✗     -
+Battle Valley (Rack-It)                                                                                              -      -     ✗
 Battle for Midway (PSS)                                                                                              ✗      -     -
 Battle of Britain (Microgame Simulations)                                                                            -      -     -
 Battle of Britain (PSS)                                                                                              -      -     -
 Battle of the Planets (Mikro-Gen Ltd)                                                                                -      -     -
 Battle of the Toothpaste Tubes (K-Tel Productions)                                                                   ✗      -     -
-Battle Ships (Encore)                                                                                                -      ✗     -
-Battle Valley (Rack-It)                                                                                              -      -     ✗
 Battle-Field (Atlantis Software Ltd)                                                                                 -      -     -
 Battlezone (Quicksilva Ltd)                                                                                          -      -     -
 Batty (Hit-Pak)                                                                                                      ✗      -     -
 Bazooka Bill (Melbourne House)                                                                                       -      -     -
-BBC Mastermind Quizmaster (Mirrorsoft Ltd)                                                                           ✗      -     -
-BC's Quest for Tires (Software Projects Ltd)                                                                         -      -     -
+BeTiled! (Computer Emuzone)                                                                                          -      -     -
 Beach Buggy Simulator (Silverbird Software Ltd)                                                                      -      -     -
 Beach Volley (Ocean Software Ltd)                                                                                    -      -     -
 Beach-Head (US Gold Ltd)                                                                                             -      -     -
@@ -340,7 +345,6 @@ Behold Atlantis (Zenobi Software)                                               
 Beneath Folly (The Fiend)                                                                                            ✗      -     -
 Bermuda Triangle, The (Zenobi Software)                                                                              ✗      -     -
 Bestial Warrior (Dinamic Software)                                                                                   ✗      -     -
-BeTiled! (Computer Emuzone)                                                                                          -      -     -
 Beverly Hills Cop (Tynesoft)                                                                                         -      -     -
 Bewarehouse (Positive Image)                                                                                         -      -     -
 Beyond El Dorado (Zenobi Software)                                                                                   ✗      -     -
@@ -398,16 +402,12 @@ Blockbusters- Gold Run (Macsen Software)                                        
 Blokman (Your Computer)                                                                                              ✗      -     ✗
 Blood 'n' Guts (Quicksilva Ltd)                                                                                      -      -     -
 Blood Brothers (Gremlin Graphics Software Ltd)                                                                       -      -     -
-Blood of Bogmole, The (Compass Software)                                                                             -      -     -
 Blood Valley (Gremlin Graphics Software Ltd)                                                                         -      -     -
+Blood of Bogmole, The (Compass Software)                                                                             -      -     -
 Bloody (Grupo Editorial SYGRAN S.A.)                                                                                 -      -     -
 Blue Max (US Gold Ltd)                                                                                               -      -     -
 Blue Riband (CCS)                                                                                                    -      -     -
 Blue Thunder (Richard Wilcox Software)                                                                               ✗      -     -
-BMX Jungle Bike (Reelax Games)                                                                                       -      -     -
-BMX Kidz (Firebird Software Ltd)                                                                                     -      -     -
-BMX Ninja (Alternative Software Ltd)                                                                                 -      -     -
-BMX Racers (Mastertronic Ltd)                                                                                        -      -     -
 Boardroom (M.A. Lovell Software)                                                                                     -      -     -
 Boat Run (unpublished)                                                                                               ✗      -     ✗
 Bobby Bearing (The Edge)                                                                                             ✗      -     -
@@ -522,6 +522,7 @@ By Right of Birth (Adventure Probe Software)                                    
 Byte (CCS)                                                                                                           -      -     -
 Byte Bitten (Firebird Software Ltd)                                                                                  -      -     -
 C5 Clive (Scorpio Gamesworld Ltd)                                                                                    -      -     -
+CORE (A'n'F Software)                                                                                                -      -     -
 Cabman (Micro Power Ltd)                                                                                             ✗      -     -
 Cagara (Players Software)                                                                                            -      -     -
 Cage Match (Entertainment USA)                                                                                       -      -     -
@@ -562,12 +563,12 @@ Castle Adventure (Walter Pooley)                                                
 Castle Blackstar (SCR Adventures)                                                                                    ✗      -     -
 Castle Colditz (Felix Software)                                                                                      -      -     -
 Castle Master (Incentive Software Ltd)                                                                               -      -     -
-Castle of Doom, The (Fantasy Software [2])                                                                           ✗      -     -
-Castle of the Skull Lord (Samurai Software)                                                                          ✗      -     -
 Castle Quest (Scorpio Gamesworld Ltd)                                                                                -      -     -
 Castle Quest (Wildest Dreams)                                                                                        ✗      -     ✗
 Castle Thade (Spectrum Adventure Exchange Club)                                                                      ✗      -     -
 Castle Warlock (Adventure Probe Software)                                                                            -      -     -
+Castle of Doom, The (Fantasy Software [2])                                                                           ✗      -     -
+Castle of the Skull Lord (Samurai Software)                                                                          ✗      -     -
 Castle, The (Bug-Byte Software Ltd)                                                                                  -      -     -
 Castlemaze Adventure (Duckworth Educational Computing)                                                               ✗      -     ✗
 Catch 23 (Martech Games Ltd)                                                                                         -      -     -
@@ -616,8 +617,8 @@ Chaser (Your Computer)                                                          
 Chatbox (Cheetah Marketing Ltd)                                                                                      ✗      -     ✗
 Chequered Flag (Sinclair Research Ltd)                                                                               ✗      -     -
 Cheril of the Bosque (Ubhres Productions)                                                                            -      -     -
-Chess - The Turk (Oxford Computer Publishing)                                                                        -      -     -
 Chess (Sinclair Research Ltd)                                                                                        ✗      -     -
+Chess - The Turk (Oxford Computer Publishing)                                                                        -      -     -
 Chess Player, The (Quicksilva Ltd)                                                                                   ✗      -     ✗
 Chess Tutor (Artic Computing Ltd)                                                                                    -      -     ✗
 Chessmaster 2000, The (Dro Soft)                                                                                     -      -     -
@@ -654,9 +655,9 @@ Citadel, The (Zenobi Software)                                                  
 City (Docimodus)                                                                                                     -      -     -
 City Defence (Hansesoft GmbH)                                                                                        -      -     -
 City Lander (Sinclair User)                                                                                          ✗      -     ✗
+City Slicker (Hewson Consultants Ltd)                                                                                -      -     -
 City of 'Ehdollah, The (Goldstar)                                                                                    -      -     -
 City of Death (Red Shift Ltd)                                                                                        -      -     -
-City Slicker (Hewson Consultants Ltd)                                                                                -      -     -
 City, The (King Software)                                                                                            ✗      -     -
 Cityfighter (Choice Software Ltd)                                                                                    -      -     -
 Civil Service (Zenobi Software)                                                                                      ✗      -     -
@@ -735,7 +736,6 @@ Copper (Vectis Software)                                                        
 Copper Hopper (ESP [1])                                                                                              ✗      -     -
 Copter (Omega Software Ltd)                                                                                          -      -     -
 Coracle (Cronosoft [2])                                                                                              -      -     -
-CORE (A'n'F Software)                                                                                                -      -     -
 Corn Cropper (CCS)                                                                                                   ✗      -     ✗
 Cornish Riviera (Dee-Kay Systems)                                                                                    -      -     -
 Cornish Venturer (Dee-Kay Systems)                                                                                   ✗      -     -
@@ -817,10 +817,10 @@ Crypt, The (Carnell Software Ltd)                                               
 Crystal Castles (US Gold Ltd)                                                                                        -      -     -
 Crystal Cavern, The (Handasoft)                                                                                      ✗      -     ✗
 Crystal Frog, The (Kerian UK Ltd)                                                                                    -      -     -
-Crystal of Chantie, The (Pelagon Software)                                                                           ✗      -     -
-Crystal of Power, The (Fantasy Software [2])                                                                         ✗      -     -
 Crystal Quest (Keith Burnard)                                                                                        ✗      -     ✗
 Crystal Quest (Pocket Money Software)                                                                                -      -     -
+Crystal of Chantie, The (Pelagon Software)                                                                           ✗      -     -
+Crystal of Power, The (Fantasy Software [2])                                                                         ✗      -     -
 Crystals of Doom (Time Assassin)                                                                                     ✗      -     -
 Cube (CCS)                                                                                                           -      -     -
 Cubey (Chad Software)                                                                                                -      -     -
@@ -891,9 +891,9 @@ Dartz (Automata UK Ltd)                                                         
 Das Boersenspiel                                                                                                     ✗      -     ✗
 Davy Jones Locker (River Software)                                                                                   ✗      -     -
 Dawnssley (Top Ten Software)                                                                                         -      -     -
+Day Trip (Leslie Floyd)                                                                                              ✗      -     -
 Day in the Life, A (Micromega)                                                                                       -      -     -
 Day of the Match (Video Software Ltd)                                                                                -      -     -
-Day Trip (Leslie Floyd)                                                                                              ✗      -     -
 Days of Thunder (Mindscape International Inc)                                                                        -      -     -
 De-Fusion (Lyndenhurst Ltd)                                                                                          -      -     -
 Deactivators (Reaktor)                                                                                               -      -     -
@@ -909,14 +909,14 @@ Death Before Dishonour (Alternative Software Ltd)                               
 Death Bringer (The Guild)                                                                                            ✗      -     -
 Death Chess 5000 (Artic Computing Ltd)                                                                               -      -     -
 Death Cruiser (Noble House Software)                                                                                 ✗      -     -
-Death in Russia 1941 (MC Lothlorien Ltd)                                                                             -      -     -
-Death in the Snow 1812 (MC Lothlorien Ltd)                                                                           ✗      -     -
-Death or Glory (CRL Group PLC)                                                                                       -      -     -
 Death Pit (Durell Software Ltd)                                                                                      -      -     -
 Death Star (Rabbit Software Ltd)                                                                                     -      -     -
 Death Star Interceptor (System 3 Software Ltd)                                                                       -      -     -
 Death Wake (Quicksilva Ltd)                                                                                          -      -     -
 Death Wish 3 (Gremlin Graphics Software Ltd)                                                                         -      -     -
+Death in Russia 1941 (MC Lothlorien Ltd)                                                                             -      -     -
+Death in the Snow 1812 (MC Lothlorien Ltd)                                                                           ✗      -     -
+Death or Glory (CRL Group PLC)                                                                                       -      -     -
 Death's Head Hole (Peaksoft)                                                                                         ✗      -     ✗
 Deathball (Alpha-Omega Software)                                                                                     -      -     -
 Deathchase (Micromega)                                                                                               -      -     -
@@ -941,8 +941,8 @@ Delta Wing (Creative Sparks)                                                    
 Deltic Fleet Manager (Dee-Kay Systems)                                                                               -      -     -
 Demi-God (Softel)                                                                                                    ✗      -     -
 Demolition (Dorling Kindersley Software)                                                                             ✗      -     -
-Demon from the Darkside (Compass Software)                                                                           -      -     -
 Demon Knight (ASP Software Ltd)                                                                                      -      -     ✗
+Demon from the Darkside (Compass Software)                                                                           -      -     -
 Demon's Revenge (Firebird Software Ltd)                                                                              -      -     -
 Denis through the Drinking Glass (Applications Software Specialities)                                                ✗      -     -
 Depot Master Finsbury Park (Ashley Greenup)                                                                          ✗      -     -
@@ -972,8 +972,8 @@ Devil's Crown (Mastertronic Ltd)                                                
 Devil's Descent (Pocket Money Software)                                                                              -      -     -
 Devil's Hand, The (Compass Software)                                                                                 -      -     -
 Devil's Island (Gilsoft International)                                                                               -      -     -
-Devils of the Deep (Richard Shepherd Software Ltd)                                                                   -      -     -
 Devils Sceptre                                                                                                       ✗      -     ✗
+Devils of the Deep (Richard Shepherd Software Ltd)                                                                   -      -     -
 Dex (Cheese Freak Software)                                                                                          ✗      -     -
 Di-Lithium Lift (Hewson Consultants Ltd)                                                                             -      -     -
 Diablo King (Cibercomp S.A.)                                                                                         -      -     -
@@ -1005,10 +1005,10 @@ Disposable Heroes (The Power House)                                             
 Dix Mille (CCS)                                                                                                      -      -     -
 Dizzy Dice (Players Software)                                                                                        -      -     -
 Do Not Pass Go (Work Force)                                                                                          -      -     ✗
+DoDo (Blaby Computer Games)                                                                                          -      -     -
 Doc the Destroyer (Melbourne House)                                                                                  -      -     -
 Doctor What! (CRL Group PLC)                                                                                         -      -     -
 Dodgy Geezers (Melbourne House)                                                                                      -      -     -
-DoDo (Blaby Computer Games)                                                                                          -      -     -
 Dodo and Damn (R.C.L. Software)                                                                                      ✗      -     -
 Dogfight- 2187 (Starlight Software)                                                                                  ✗      ✗     ✗
 Dogsbody (Bug-Byte Software Ltd)                                                                                     -      -     -
@@ -1022,8 +1022,8 @@ Domino (Sound-on-Sound)                                                         
 Domino (VideoSpectrum)                                                                                               ✗      -     -
 Dominoes (CDS Microsystems)                                                                                          ✗      -     -
 Dominoes (Micromega)                                                                                                 -      -     ✗
-Don't Panic - Panic Now (Dented Designs)                                                                             ✗      -     -
 Don't Panic (Firebird Software Ltd)                                                                                  -      -     -
+Don't Panic - Panic Now (Dented Designs)                                                                             ✗      -     -
 Don't Say It, Spray It (Pirate Software Ltd)                                                                         ✗      -     -
 Donkey Kong (Ocean Software Ltd)                                                                                     -      -     -
 Doombase (Sparklers)                                                                                                 -      -     -
@@ -1039,8 +1039,8 @@ Double Dragon II- The Revenge (Virgin Mastertronic Ltd)                         
 Double Take (Ocean Software Ltd)                                                                                     -      -     -
 Double Xinox (ZX-Masters Software)                                                                                   ✗      -     -
 Double, The (Scanatron)                                                                                              -      -     -
-Down to Earth (Firebird Software Ltd)                                                                                -      -     -
 Down Under (Hansesoft GmbH)                                                                                          ✗      -     -
+Down to Earth (Firebird Software Ltd)                                                                                -      -     -
 Downhill Champion (Lambourne Games)                                                                                  ✗      -     -
 Dr. Doom's Revenge! (Empire Software)                                                                                -      -     -
 Dr. Fanfalen y la Loca Mansion del Terror, El (Josep Coletas Caubet)                                                 -      -     -
@@ -1053,14 +1053,14 @@ Dracula's Castle (CP Software)                                                  
 Draculas Diamanten                                                                                                   ✗      -     ✗
 Dragnet (Taskmaster Software)                                                                                        ✗      -     -
 Dragon Maze (Macronics Systems Ltd)                                                                                  ✗      -     ✗
-Dragon of Notacare, The (David Edgar)                                                                                ✗      -     -
 Dragon Slayer (Dream World Adventures)                                                                               ✗      -     -
 Dragon Slayer (Pocket Money Software)                                                                                -      -     -
 Dragon Spirit (Domark Ltd)                                                                                           -      -     -
 Dragon Star (Scorpio Gamesworld Ltd)                                                                                 -      -     -
-Dragon-Quest (Zenobi Software)                                                                                       ✗      -     -
+Dragon of Notacare, The (David Edgar)                                                                                ✗      -     -
 Dragon's Lair (Software Projects Ltd)                                                                                -      -     -
 Dragon's Lair II- Escape from Singe's Castle (Software Projects Ltd)                                                 ✗      ✗     ✗
+Dragon-Quest (Zenobi Software)                                                                                       ✗      -     -
 Dragonfire (Cheetahsoft Ltd)                                                                                         -      -     -
 Dragonia (Astros Productions)                                                                                        ✗      -     -
 Dragons of Flame (US Gold Ltd)                                                                                       -      -     -
@@ -1096,8 +1096,8 @@ Dun Darach (Gargoyle Games)                                                     
 Dundee's European Challenge (Season Soft)                                                                            -      -     -
 Dungeon Adventure (Level 9 Computing Ltd)                                                                            ✗      -     ✗
 Dungeon Dare (Central Solutions)                                                                                     -      -     -
-Dungeon of Torgar (The Guild)                                                                                        -      -     -
 Dungeon Romp, A (Zenobi Software)                                                                                    ✗      -     -
+Dungeon of Torgar (The Guild)                                                                                        -      -     -
 Dungeon, The                                                                                                         ✗      -     -
 Dungeon, The (Dave Newton)                                                                                           ✗      -     ✗
 Dungeons (J.M. Allen)                                                                                                ✗      -     -
@@ -1177,9 +1177,9 @@ Escape from Omicron (Video Showcase)                                            
 Escape from Prison Planet (Peter Clark)                                                                              ✗      -     -
 Escape from Pulsar 7 (Digital Fantasia)                                                                              -      -     -
 Escape from Sylon 6 (King Software)                                                                                  -      -     -
+Escape from Time (Sinclair Programs)                                                                                 ✗      -     ✗
 Escape from the Planet of the Robot Monsters (Domark Ltd)                                                            -      -     -
 Escape from the Shire (D.N.D. Software)                                                                              ✗      -     -
-Escape from Time (Sinclair Programs)                                                                                 ✗      -     ✗
 Escape into Space (Kelsoft)                                                                                          ✗      -     -
 Escape of the Snails (Herve Ast)                                                                                     ✗      -     -
 Escape-MCP (Rabbit Software Ltd)                                                                                     ✗      -     -
@@ -1231,8 +1231,8 @@ Extraordinarios Casos del Dr. Van Halen Volumen 2 Relato III- El Hijo del Crepus
 Extreme (Digital Integration)                                                                                        -      -     -
 Extricator, The (Precision Games)                                                                                    ✗      -     -
 Eye (Endurance Games)                                                                                                -      -     -
-Eye of the Star Warrior, The (Sunshine Books Ltd)                                                                    -      -     -
 Eye of Vartan (Pocket Money Software)                                                                                -      -     -
+Eye of the Star Warrior, The (Sunshine Books Ltd)                                                                    -      -     -
 F-1 (Zigurat Software)                                                                                               -      -     -
 F-15 Strike Eagle (MicroProse Software Ltd)                                                                          -      -     -
 F-16 Combat Pilot (Digital Integration)                                                                              -      -     -
@@ -1291,9 +1291,9 @@ Final Frontier, The (Gadtek Games)                                              
 Final Matrix, The (Gremlin Graphics Software Ltd)                                                                    -      -     -
 Final Mission, The (Incentive Software Ltd)                                                                          -      -     -
 Finders Keepers (Mastertronic Ltd)                                                                                   -      -     -
-Fire and Forget (Titus)                                                                                              -      -     -
 Fire Hawks (Postern Ltd)                                                                                             -      -     ✗
 Fire Ruby, The (Zenobi Software)                                                                                     ✗      -     -
+Fire and Forget (Titus)                                                                                              -      -     -
 Firebirds (Softek)                                                                                                   -      -     -
 Firefly (Ocean Software Ltd)                                                                                         ✗      -     -
 Firelance (Hamster Software)                                                                                         ✗      -     -
@@ -1471,17 +1471,21 @@ LumASCII (Bob's Stuff)                                                          
 S.M.A.S.H.E.D. (Alternative Software Ltd)                                                                            -      -     -
 S.O.S. (Mastertronic Ltd)                                                                                            -      -     ✗
 S.T.I. (Bug-Byte Software Ltd)                                                                                       -      -     -
+SOS (Visions Software Factory Ltd)                                                                                   ✗      -     -
+SQIJ! (The Power House)                                                                                              -      -     ✗
+SUperquiz 1 (The Scripture Union)                                                                                    -      -     -
+SUperquiz 2 (The Scripture Union)                                                                                    -      -     -
 Sabat of Milton Gordon, The (The Adventure Club)                                                                     ✗      -     ✗
-Saga of a Mad Barbarian (Psychaedelic Hedgehog Software)                                                             ✗      -     -
 Saga of Erik the Viking, The (Mosaic Publishing Ltd)                                                                 -      -     -
+Saga of a Mad Barbarian (Psychaedelic Hedgehog Software)                                                             ✗      -     -
 Salvage (LiveWire Software)                                                                                          -      -     -
 Sandman Cometh, The (Star Dreams)                                                                                    ✗      -     -
 Savage Island 1 (Adventure International)                                                                            -      -     -
 Savage Island 2 (Adventure International)                                                                            -      -     -
 Scoop (Sentient Software Ltd)                                                                                        ✗      -     -
 Scrolls of Thram, The (Leslie Marwick)                                                                               ✗      -     -
-Sea of Zirun (Gilsoft International)                                                                                 ✗      -     -
 Sea Spray Incident, The (Scorpio Gamesworld Ltd)                                                                     ✗      -     -
+Sea of Zirun (Gilsoft International)                                                                                 ✗      -     -
 Seabase Delta (Firebird Software Ltd)                                                                                -      -     -
 Sealed City, The (Central Solutions)                                                                                 ✗      -     -
 Search for the Wonderful Whotsit, The (Adventure Probe Software)                                                     -      -     -
@@ -1562,8 +1566,8 @@ Skelby - The Schizophrenic Droid (QBIT)                                         
 Ski Star 2000 (Richard Shepherd Software Ltd)                                                                        -      -     -
 Skool Daze (Microsphere)                                                                                             -      -     -
 Skuldugery (K'Soft Ltd)                                                                                              -      -     ✗
-Skull _ Crossbones (Domark Ltd)                                                                                      ✗      -     -
 Skull (Games Machine Ltd)                                                                                            -      -     -
+Skull _ Crossbones (Domark Ltd)                                                                                      ✗      -     -
 Sky Diver (Micro Press [1])                                                                                          ✗      -     ✗
 Sky Ranger (Microsphere)                                                                                             -      -     -
 Sky Runner (Cascade Games Ltd)                                                                                       -      -     -
@@ -1640,7 +1644,6 @@ Sorcerer's Castle (Mikro-Gen Ltd)                                               
 Sorcerer's Mountain (Martin Sykes)                                                                                   -      -     -
 Sorcery (Virgin Games Ltd)                                                                                           -      -     -
 Sorderon's Shadow (Beyond Software)                                                                                  -      -     -
-SOS (Visions Software Factory Ltd)                                                                                   ✗      -     -
 Soul of a Robot (Mastertronic Ltd)                                                                                   -      -     -
 Souls of Darkon (Taskset Ltd)                                                                                        -      -     -
 Soupcon of Trouble, A (Adventure Probe Software)                                                                     -      -     ✗
@@ -1724,7 +1727,6 @@ Spiky Harold (Firebird Software Ltd)                                            
 Spirits (Topo Soft)                                                                                                  -      -     -
 Spitfire 40 (Mirrorsoft Ltd)                                                                                         -      -     -
 Splat! (Incentive Software Ltd)                                                                                      ✗      -     -
-splATTR (Bob's Stuff)                                                                                                ✗      -     -
 Split Personalities (Domark Ltd)                                                                                     -      -     -
 Splitting Images (Domark Ltd)                                                                                        -      -     -
 Spoof (Runesoft)                                                                                                     -      -     -
@@ -1745,7 +1747,6 @@ Spy vs Spy III- Arctic Antics (Databyte)                                        
 Spyplane (Gilsoft International)                                                                                     -      -     -
 Spyship SOS (Dynamic Software)                                                                                       ✗      -     -
 Spytrek Adventure (Americana Software Ltd)                                                                           -      -     -
-SQIJ! (The Power House)                                                                                              -      -     ✗
 St. Crippens (Sparklers)                                                                                             -      -     -
 St. Petersburg Ikon, The (R.D. Foord Software)                                                                       ✗      -     -
 Stack Up (Zeppelin Games Ltd)                                                                                        -      -     -
@@ -1768,10 +1769,10 @@ Star Quest (Church Army Resource Centre)                                        
 Star Searcher (Scorpio Software)                                                                                     -      -     ✗
 Star Trader (Bug-Byte Software Ltd)                                                                                  ✗      -     -
 Star Trader's Luck (Jorge Arroyo Gonzalez)                                                                           ✗      -     ✗
-Star Trek - The Computer Program (R_R Software Ltd)                                                                  ✗      -     ✗
 Star Trek (Gemini Software)                                                                                          -      -     -
 Star Trek (Impact Software [1])                                                                                      -      ✗     ✗
 Star Trek (Mikro-Gen Ltd)                                                                                            -      ✗     -
+Star Trek - The Computer Program (R_R Software Ltd)                                                                  ✗      -     ✗
 Star Trek 3000 (DK'Tronics Ltd)                                                                                      -      -     -
 Star Trek 3050 (Microparadise Software)                                                                              -      -     -
 Star Trip (Pegasus Software)                                                                                         ✗      -     ✗
@@ -1824,7 +1825,6 @@ Stranded (Cronosoft [2])                                                        
 Stranded (Zenobi Software)                                                                                           ✗      -     -
 Stranded 2.5 (Bob's Stuff)                                                                                           ✗      -     -
 Stranded 2.5 (Cronosoft [2])                                                                                         -      -     -
-strangel (Sendy)                                                                                                     ✗      -     -
 Strangeloop (Virgin Games Ltd)                                                                                       -      -     -
 Strategy 1 - Invasion (ASP Software Ltd)                                                                             -      -     -
 Strategy, 3D (Quicksilva Ltd)                                                                                        -      -     -
@@ -1834,8 +1834,8 @@ Street Cred' Boxing (Players Premier)                                           
 Street Cred' Football (Players Premier)                                                                              -      -     -
 Street Gang (Players Software)                                                                                       -      -     -
 Street Hassle (Melbourne House)                                                                                      ✗      -     -
-Street Hawk - Subscribers Edition (Ocean Software Ltd)                                                               ✗      -     -
 Street Hawk (Ocean Software Ltd)                                                                                     ✗      -     -
+Street Hawk - Subscribers Edition (Ocean Software Ltd)                                                               ✗      -     -
 Street Racer (Profisoft [1])                                                                                         ✗      -     -
 Strike (Mastertronic Added Dimension)                                                                                -      -     -
 Strike Attack (Micro-Mart Software)                                                                                  -      -     -
@@ -1881,8 +1881,8 @@ Super Chopper (Software Supersavers Ltd)                                        
 Super Cycle (US Gold Ltd)                                                                                            -      -     -
 Super Draughts (Quickbeam Software)                                                                                  -      -     ✗
 Super Golf (QBIT)                                                                                                    ✗      -     -
-Super Gran - The Adventure (Tynesoft)                                                                                ✗      -     -
 Super Gran (Tynesoft)                                                                                                -      -     -
+Super Gran - The Adventure (Tynesoft)                                                                                ✗      -     -
 Super League (Cross Software)                                                                                        -      -     ✗
 Super Monaco GP (US Gold Ltd)                                                                                        -      -     -
 Super Mutt (Silversoft Ltd)                                                                                          ✗      -     -
@@ -1898,11 +1898,13 @@ Super Spy (Richard Shepherd Software Ltd)                                       
 Super Stock Car (Mastertronic Plus)                                                                                  -      -     -
 Super Trolley (Mastertronic Ltd)                                                                                     -      -     -
 Super Trux (Elite Systems Ltd)                                                                                       -      -     -
+SuperCom (Atlantis Software Ltd)                                                                                     -      -     -
+SuperTed (Longman Software)                                                                                          -      -     -
+SuperTed- The Search for Spot (Alternative Software Ltd)                                                             ✗      ✗     ✗
 Superball (Axis Software)                                                                                            -      -     ✗
 Superchess (CP Software)                                                                                             ✗      -     ✗
 Superchess 3 (CP Software)                                                                                           ✗      -     -
 Superchess II (CP Software)                                                                                          ✗      -     ✗
-SuperCom (Atlantis Software Ltd)                                                                                     -      -     -
 Superdeflex (Llamasoft)                                                                                              ✗      -     -
 Superleague Soccer (Impressions Ltd)                                                                                 -      -     -
 Superman - The Man of Steel (Tynesoft)                                                                               -      -     -
@@ -1910,12 +1912,8 @@ Superman- The Game (Firebird Software Ltd)                                      
 Supernova (Astral Software Ltd)                                                                                      ✗      -     -
 Superpower (CCS)                                                                                                     -      -     -
 Superpower (Howard Marketing)                                                                                        -      -     -
-SUperquiz 1 (The Scripture Union)                                                                                    -      -     -
-SUperquiz 2 (The Scripture Union)                                                                                    -      -     -
 Supersnails (Games Machine Ltd)                                                                                      -      -     -
 Supersports (Gremlin Graphics Software Ltd)                                                                          -      -     -
-SuperTed (Longman Software)                                                                                          -      -     -
-SuperTed- The Search for Spot (Alternative Software Ltd)                                                             ✗      ✗     ✗
 SurfChamp (New Concepts Ltd)                                                                                         ✗      -     -
 Surround (Micro Press [1])                                                                                           ✗      -     ✗
 Survival (Central Solutions)                                                                                         -      -     -
@@ -1934,13 +1932,15 @@ Sword of the Samurai (Zeppelin Games Ltd)                                       
 Swordfight (Sunshine Books Ltd)                                                                                      -      -     -
 Swords _ Sorcery (PSS)                                                                                               -      -     -
 Syntax (Blue Ribbon Software)                                                                                        -      -     -
-System 15000 - 2nd Edition (Craig Communications Ltd)                                                                -      -     -
 System 15000 (Craig Communications Ltd)                                                                              -      -     -
+System 15000 - 2nd Edition (Craig Communications Ltd)                                                                -      -     -
 System 8 (Blue Ribbon Software)                                                                                      -      -     -
 Szorejto Jatek (Laszlo Nyitrai)                                                                                      ✗      -     -
+T'Was a Time of Dread (Zenobi Software)                                                                              ✗      -     -
 T-Bird (Mastertronic Plus)                                                                                           -      -     ✗
 T.L.L. (Vortex Software)                                                                                             -      -     -
-T'Was a Time of Dread (Zenobi Software)                                                                              ✗      -     -
+THIMBLE (Triumph Game Labs)                                                                                          ✗      -     -
+TT Racer (Digital Integration)                                                                                       -      -     -
 Table Football (Budgie Budget Software)                                                                              -      -     ✗
 Tachyon Command (Century Software [1])                                                                               -      -     -
 Taffy Turner (Silversoft Ltd)                                                                                        -      -     -
@@ -1973,8 +1973,8 @@ Tarzan (Wicosoft)                                                               
 Task Force (Abbex Electronics Ltd)                                                                                   -      -     -
 Task Force (Players Premier)                                                                                         -      -     -
 Tattoo (Dream World Adventures)                                                                                      ✗      -     ✗
-Tau Ceti - The Special Edition (CRL Group PLC)                                                                       -      -     -
 Tau Ceti (CRL Group PLC)                                                                                             -      -     -
+Tau Ceti - The Special Edition (CRL Group PLC)                                                                       -      -     -
 Tax Returns (Zenobi Software)                                                                                        ✗      -     -
 Taxi! (Digital Integration)                                                                                          -      -     -
 Taxman Cometh, The (Zenobi Software)                                                                                 ✗      -     -
@@ -1990,8 +1990,8 @@ Teladon (Destiny Software)                                                      
 Telly Wise (Fastback)                                                                                                -      -     -
 Tempest (EMM Software)                                                                                               ✗      -     -
 Tempest (Mikro-Gen Ltd)                                                                                              -      -     ✗
-Temple of Vran (Incentive Software Ltd)                                                                              -      -     -
 Temple Terror (Atlantis Software Ltd)                                                                                -      -     -
+Temple of Vran (Incentive Software Ltd)                                                                              -      -     -
 Ten Green Bottles (Zenobi Software)                                                                                  ✗      -     -
 Ten Little Adventurers (Adventure Probe Software)                                                                    -      -     ✗
 Ten Little Indians (Digital Fantasia)                                                                                ✗      -     -
@@ -2037,7 +2037,6 @@ They Stole a Million (39 Steps)                                                 
 Thief (Corrupt Code)                                                                                                 ✗      -     -
 Thief in the Night, A (Westy Productions)                                                                            ✗      -     -
 Thief's Tale, A (The Guild)                                                                                          ✗      -     -
-THIMBLE (Triumph Game Labs)                                                                                          ✗      -     -
 Thing Bounces Back (Gremlin Graphics Software Ltd)                                                                   -      -     -
 Thing! (Players Software)                                                                                            -      -     -
 Thingy and the Doodahs (Americana Software Ltd)                                                                      -      -     -
@@ -2065,7 +2064,6 @@ Time Flight (The Power House)                                                   
 Time Lords Amulet, The (Steven Kendall)                                                                              ✗      -     -
 Time Machine (Activision Inc)                                                                                        -      -     -
 Time Machine, The (Digital Fantasia)                                                                                 -      -     -
-Time of the End (Mandarin Software)                                                                                  -      -     -
 Time Out (Zafiro Software Division)                                                                                  -      -     -
 Time Quest (Peter L. Robinson)                                                                                       ✗      ✗     ✗
 Time Quest (Scorpio Gamesworld Ltd)                                                                                  ✗      -     -
@@ -2076,11 +2074,12 @@ Time Tunnels (Christopher James Software Ltd)                                   
 Time Watch (Matthew Wilson)                                                                                          ✗      -     -
 Time Wreck (Sparklers)                                                                                               -      -     -
 Time Zone (R.D. Foord Software)                                                                                      ✗      ✗     ✗
+Time of the End (Mandarin Software)                                                                                  -      -     -
 Time-Gate (Quicksilva Ltd)                                                                                           ✗      -     ✗
 Time-Line (Gilsoft International)                                                                                    ✗      -     ✗
+TimeTrax (Mind Games)                                                                                                -      -     -
 Timebomb (CDS Microsystems)                                                                                          -      -     ✗
 Timequest (Mikro-Gen Ltd)                                                                                            -      -     -
-TimeTrax (Mind Games)                                                                                                -      -     -
 Timezone (Atlantis Software Ltd)                                                                                     -      -     -
 Tinderbox (Gremlin Graphics Software Ltd)                                                                            -      -     -
 Tintin on the Moon (Infogrames)                                                                                      -      -     -
@@ -2121,15 +2120,15 @@ Towdie (Ultrasoft [2])                                                          
 Tower of Despair (Games Workshop)                                                                                    -      -     -
 Tower of Evil (Creative Sparks)                                                                                      -      -     -
 Tower of Light (Caris Software)                                                                                      -      -     -
-Track and Field (Ocean Software Ltd)                                                                                 ✗      -     -
 Track Suit Manager (Goliath Games)                                                                                   -      -     -
+Track and Field (Ocean Software Ltd)                                                                                 ✗      -     -
 Trackbasher (Ashley Greenup)                                                                                         -      -     -
 Trader Trilogy, The (Pixel Productions)                                                                              -      -     -
 Trading Game, The (Reelax Games)                                                                                     -      -     -
 Trail (Pocket Money Software)                                                                                        ✗      -     -
 Trail (Star Software)                                                                                                ✗      -     -
-Trailblazer (Gremlin Graphics Software Ltd)                                                                          -      -     -
 TrailRacer (Jorgen Bech)                                                                                             ✗      -     -
+Trailblazer (Gremlin Graphics Software Ltd)                                                                          -      -     -
 Train Game, The (Microsphere)                                                                                        ✗      -     ✗
 Train- Escape to Normandy, The (Electronic Arts)                                                                     ✗      ✗     ✗
 Trans-Atlantic Balloon Challenge (Virgin Games Ltd)                                                                  -      -     -
@@ -2183,10 +2182,9 @@ Trondheim Bors (Ness Data)                                                      
 Tronn 2                                                                                                              ✗      -     ✗
 Tronn 3                                                                                                              ✗      -     ✗
 Troon (Hornby Software)                                                                                              ✗      -     ✗
-Trouble at Bridgeton (The Adventure Workshop)                                                                        ✗      -     ✗
 Trouble Brewin (Silversoft Ltd)                                                                                      -      -     -
+Trouble at Bridgeton (The Adventure Workshop)                                                                        ✗      -     ✗
 Trouble with Trolls (Zenobi Software)                                                                                ✗      -     -
-TT Racer (Digital Integration)                                                                                       -      -     -
 Tuareg (Topo Soft)                                                                                                   -      -     -
 Tubaruba (Firebird Software Ltd)                                                                                     -      -     -
 Tube Train Terror (JRS Software Ltd)                                                                                 ✗      -     ✗
@@ -2216,9 +2214,9 @@ Tycoon, The Crossword Business Game (Duckworth Educational Computing_Newtech Pub
 Type-Rope (Mastertronic Ltd)                                                                                         -      -     -
 Tyrant of Athens (MC Lothlorien Ltd)                                                                                 -      -     ✗
 U-Boat (EMS Software)                                                                                                ✗      -     -
-Uchi Mata (Martech Games Ltd)                                                                                        -      -     -
 UDG-Tris (Jose Juan Rodenas Garcia)                                                                                  ✗      -     ✗
 UGH! (Softek International Ltd)                                                                                      -      ✗     ✗
+Uchi Mata (Martech Games Ltd)                                                                                        -      -     -
 Ukladanka                                                                                                            ✗      -     ✗
 Ulises (Opera Soft S.A.)                                                                                             -      -     -
 Ultima Ratio (Firebird Software Ltd)                                                                                 -      -     -
@@ -2246,8 +2244,8 @@ Use Your Loaf (The Guild)                                                       
 Usurper (Assassin Software)                                                                                          ✗      -     -
 Utility Cubicles, The (Stuart J. Hill)                                                                               ✗      -     -
 Uwol, Quest for Money (Ubhres Productions)                                                                           -      -     -
-V - The Silver Saucer (Micronet 800 Telesoftware)                                                                    ✗      -     -
 V (Ocean Software Ltd)                                                                                               -      -     -
+V - The Silver Saucer (Micronet 800 Telesoftware)                                                                    ✗      -     -
 Valhalla (Legend [1])                                                                                                -      -     -
 Valkyrie 17 (The RamJam Corporation)                                                                                 ✗      -     -
 Valley of the Dead (Pocket Money Software)                                                                           -      -     -
@@ -2299,21 +2297,22 @@ Voodoo Castle (Adventure International)                                         
 Vortex, 3D (J.K. Greye Enterprises Ltd)                                                                              -      -     -
 Voyage into the Unknown (Mastertronic Ltd)                                                                           -      -     -
 Vurro Olimpic (LOKOsoft)                                                                                             ✗      -     -
-W_H_B (Bob Smith [1])                                                                                                ✗      -     -
 W-H-B (Bob's Stuff)                                                                                                  ✗      -     ✗
 W.A.R. (Martech Games Ltd)                                                                                           -      -     -
+WEC Le Mans (Imagine Software Ltd)                                                                                   ✗      -     -
+W_H_B (Bob Smith [1])                                                                                                ✗      -     -
 Wally Kong (Walltone Software)                                                                                       -      -     -
 Wanderer (Elite Systems Ltd)                                                                                         ✗      -     -
 Wanted- Monty Mole (Gremlin Graphics Software Ltd)                                                                   ✗      ✗     ✗
 War 70 (CCS)                                                                                                         -      -     -
 War Cars Construction Set (Firebird Software Ltd)                                                                    -      -     ✗
 War Game (Abbex Electronics Ltd)                                                                                     ✗      -     -
-War in Middle Earth (Melbourne House)                                                                                -      -     -
-War in the East (Tk Computerware)                                                                                    ✗      -     ✗
 War Machine (Players Premier)                                                                                        -      -     -
-War of the Worlds, The (CRL Group PLC)                                                                               ✗      -     -
 War Tower (LOKOsoft)                                                                                                 ✗      -     -
 War Zone (CCS)                                                                                                       -      -     -
+War in Middle Earth (Melbourne House)                                                                                -      -     -
+War in the East (Tk Computerware)                                                                                    ✗      -     ✗
+War of the Worlds, The (CRL Group PLC)                                                                               ✗      -     -
 War-Lord                                                                                                             ✗      -     -
 Warlock of Firetop Mountain, The (Puffin Books)                                                                      ✗      -     -
 Warlock's Treasure, The (CRL Group PLC)                                                                              ✗      -     -
@@ -2327,7 +2326,6 @@ Waterloo (KW Software)                                                          
 Waxworks (Digital Fantasia)                                                                                          -      -     -
 Way of the Exploding Fist, The (Melbourne House)                                                                     -      -     -
 Weaver of Her Dreams, The (8th Day Software)                                                                         ✗      -     -
-WEC Le Mans (Imagine Software Ltd)                                                                                   ✗      -     -
 Weetabix Versus the Titchies (Weetabix Ltd)                                                                          -      -     -
 Well 2, The (Beyker Soft)                                                                                            ✗      -     ✗
 Well of Zol, The (Zenobi Software)                                                                                   ✗      -     -
@@ -2369,7 +2367,6 @@ William Wobbler (Wizard Computer Games)                                         
 Willow Pattern (Firebird Software Ltd)                                                                               ✗      -     -
 Willy on a Transatlantic Cruise (Herve Ast)                                                                          ✗      -     ✗
 Willy the Hacker (Geoff Eddy)                                                                                        ✗      -     -
-willy to the rescue! (Sendy)                                                                                         ✗      -     -
 Willy's Afterlife (Adban de Corcy)                                                                                   ✗      -     -
 Willy's New Hat                                                                                                      ✗      -     -
 Wimbledon (T.J. Adcock)                                                                                              -      -     -
@@ -2386,10 +2383,10 @@ Witchcraft Edicion Oro (Josep Coletas Caubet)                                   
 Witchfiend (Strobe [A Flash of Brilliance])                                                                          -      -     -
 Wiz-Biz (Alternative Software Ltd)                                                                                   -      -     -
 Wizard Akyrz, The (Digital Fantasia)                                                                                 ✗      -     -
+Wizard Warz (Go!)                                                                                                    -      -     -
 Wizard of Oz, The (Zenobi Software)                                                                                  ✗      -     -
 Wizard of Tallyron, The (C_VG)                                                                                       ✗      -     -
 Wizard of Wor (Weird Science Software)                                                                               ✗      -     -
-Wizard Warz (Go!)                                                                                                    -      -     -
 Wizard's Lair (Bubble Bus Software)                                                                                  -      -     -
 Wizard's Orb, The (C. Davie_Gordon Yacomine)                                                                         ✗      -     -
 Wizard's Scrolls, The (East Midlands Software)                                                                       ✗      -     -
@@ -2416,16 +2413,16 @@ World Cup Football (Artic Computing Ltd)                                        
 World Cup Glory (Challenge Software)                                                                                 -      -     -
 World Flags (Micro-Mart Software)                                                                                    -      -     -
 World Heavyweight Boxing (Herron Software)                                                                           ✗      -     -
-World of Grand Prix Racing - 1950s All Time Greats, The (Lambourne Games)                                            -      -     ✗
-World of Grand Prix Racing - 1960s All Time Greats, The (Lambourne Games)                                            -      -     ✗
-World of Grand Prix Racing - 1993 (Lambourne Games)                                                                  -      -     ✗
-World of Soccer (Challenge Software)                                                                                 -      -     -
 World Rugby (Zeppelin Games Ltd)                                                                                     ✗      -     -
 World Series Baseball (Imagine Software Ltd)                                                                         -      -     -
 World Series Basketball (Imagine Software Ltd)                                                                       -      -     -
 World Soccer (Zeppelin Games Ltd)                                                                                    -      -     -
 World Soccer League (E_J Software)                                                                                   -      -     -
 World War 1 (MC Lothlorien Ltd)                                                                                      -      -     -
+World of Grand Prix Racing - 1950s All Time Greats, The (Lambourne Games)                                            -      -     ✗
+World of Grand Prix Racing - 1960s All Time Greats, The (Lambourne Games)                                            -      -     ✗
+World of Grand Prix Racing - 1993 (Lambourne Games)                                                                  -      -     ✗
+World of Soccer (Challenge Software)                                                                                 -      -     -
 Worm (Sinclair Programs)                                                                                             ✗      -     ✗
 Worm Attack (Pulsonic)                                                                                               -      -     -
 Worse Things Happen at Sea (Silversoft Ltd)                                                                          -      -     -
@@ -2435,6 +2432,8 @@ Wriggler (Romantic Robot UK Ltd)                                                
 Wulfpack (Blue Ribbon Software)                                                                                      -      -     -
 Wychwood (Larsoft)                                                                                                   ✗      -     -
 X=Y=Z (Bob's Stuff)                                                                                                  ✗      -     -
+XIV-2 (Pandovisia Software)                                                                                          ✗      ✗     ✗
+XOR (Logotron Ltd)                                                                                                   -      ✗     ✗
 Xadom (Quicksilva Ltd)                                                                                               -      -     -
 Xanagrams (Postern Ltd)                                                                                              -      -     -
 Xanthius (Players Software)                                                                                          -      -     -
@@ -2447,8 +2446,6 @@ Xeno (A'n'F Software)                                                           
 Xeno II (Anirog Software)                                                                                            -      -     -
 Xenon (Melbourne House)                                                                                              -      -     -
 Xevious (US Gold Ltd)                                                                                                -      -     -
-XIV-2 (Pandovisia Software)                                                                                          ✗      ✗     ✗
-XOR (Logotron Ltd)                                                                                                   -      ✗     ✗
 Xtroth - The Adventure (Automata UK Ltd)                                                                             ✗      -     -
 Xybots (Domark Ltd)                                                                                                  -      -     -
 Yabba Dabba Doo! (Quicksilva Ltd)                                                                                    -      -     -
@@ -2462,12 +2459,20 @@ Yes, Prime Minister (Mosaic Publishing Ltd)                                     
 Yeti (Destiny Software)                                                                                              -      -     -
 Yie Ar Kung-Fu (Imagine Software Ltd)                                                                                -      -     -
 Yie Ar Kung-Fu 2 (Imagine Software Ltd)                                                                              -      -     -
-Yogi Bear _ Friends- The Greed Monster (Hi-Tec Software Ltd)                                                         ✗      ✗     ✗
 Yogi Bear (Piranha)                                                                                                  -      -     -
+Yogi Bear _ Friends- The Greed Monster (Hi-Tec Software Ltd)                                                         ✗      ✗     ✗
 Yomp (Virgin Games Ltd)                                                                                              -      -     -
 Young Ones, The (Orpheus Ltd)                                                                                        -      -     -
 Yuppie (Mental Images)                                                                                               ✗      -     ✗
 Z-Man (DJL Software Ltd)                                                                                             -      -     -
+ZX Berserk (Jega Software)                                                                                           ✗      -     ✗
+ZX Columns (Compiler Software)                                                                                       -      -     -
+ZX Gorilla (Panik Software)                                                                                          ✗      -     ✗
+ZX Mines 2 (Compiler Software)                                                                                       ✗      -     -
+ZX Poker (Compiler Software)                                                                                         -      -     -
+ZX Reversi (CP Software)                                                                                             -      -     -
+ZX Trek (Impact Software [1])                                                                                        ✗      -     -
+ZXSimon (Compiuter Soft)                                                                                             -      -     ✗
 Zampabolas (System 4)                                                                                                -      -     -
 Zany Adventure (Timothy Betts_Steve Parry)                                                                           ✗      -     -
 Zaraks (CRL Group PLC)                                                                                               -      -     -
@@ -2492,16 +2497,11 @@ Zoot (Bug-Byte Software Ltd)                                                    
 Zorro (US Gold Ltd)                                                                                                  -      -     -
 Zub (Mastertronic Added Dimension)                                                                                   -      -     -
 Zut Alors! (Aryxoft)                                                                                                 ✗      -     ✗
-ZX Berserk (Jega Software)                                                                                           ✗      -     ✗
-ZX Columns (Compiler Software)                                                                                       -      -     -
-ZX Gorilla (Panik Software)                                                                                          ✗      -     ✗
-ZX Mines 2 (Compiler Software)                                                                                       ✗      -     -
-ZX Poker (Compiler Software)                                                                                         -      -     -
-ZX Reversi (CP Software)                                                                                             -      -     -
-ZX Trek (Impact Software [1])                                                                                        ✗      -     -
-ZXSimon (Compiuter Soft)                                                                                             -      -     ✗
 Zybex (Zeppelin Games Ltd)                                                                                           -      -     -
 Zynaps (Hewson Consultants Ltd)                                                                                      -      -     -
 Zythum (Mirrorsoft Ltd)                                                                                              -      -     -
 Zzoom (Imagine Software Ltd)                                                                                         ✗      -     -
 Zzzz (Mastertronic Ltd)                                                                                              -      -     -
+splATTR (Bob's Stuff)                                                                                                ✗      -     -
+strangel (Sendy)                                                                                                     ✗      -     -
+willy to the rescue! (Sendy)                                                                                         ✗      -     -

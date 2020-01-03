@@ -26,9 +26,9 @@ Adventure A - Planet of Death (Artic)                                      ✗  
 Adventure A - Planet of Death (Sinclair Research)                          ✗      ✗     ✗
 Adventure B - Inca Curse (Artic)                                           ✗      ✗     ✗
 Adventure B - Inca Curse (Sinclair Research)                               ✗      ✗     ✗
+Adventure C (Monochrome) (Artic)                                           -      -     ✗
 Adventure C - Ship of Doom (Artic)                                         ✗      ✗     ✗
 Adventure C - The Ship of Doom (Sinclair Research)                         ✗      ✗     ✗
-Adventure C (Monochrome) (Artic)                                           -      -     ✗
 Adventure D - Espionage Island (Artic)                                     ✗      ✗     ✗
 Adventure D - Espionage Island (Sinclair Research)                         ✗      ✗     ✗
 Adventure One (Abersoft)                                                   -      -     ✗
@@ -74,15 +74,15 @@ Castle Adventure (Brown inlay) (CDS Micro Systems)                         -    
 Castle Adventure (CDS Micro Systems)                                       -      -     ✗
 Catacombs (J. K. Greye)                                                    -      -     ✗
 Cave Crusade (AWA Software)                                                -      -     ✗
-Centipede (dktronics) (dK'tronics)                                         -      -     ✗
 Centipede (Green cover) (dK'tronics)                                       -      -     ✗
 Centipede (Llamasoft)                                                      -      -     ✗
+Centipede (dktronics) (dK'tronics)                                         -      -     ✗
 Challenge (Micromega)                                                      -      -     ✗
 Champions! (Peaksoft)                                                      -      -     ✗
 Chess (Timex)                                                              -      -     ✗
 Chrs Demo (Quicksilva)                                                     -      -     ✗
-City of Xon (Pleasantrees)                                                 -      -     ✗
 City Patrol (Sinclair Research)                                            -      -     ✗
+City of Xon (Pleasantrees)                                                 -      -     ✗
 Clever Clogs Whizz Quiz for age 7+ (Computertutor)                         -      -     ✗
 Club Record Controller (Sinclair Research)                                 -      -     ✗
 Club Records (W. H. Smith)                                                 -      -     ✗
@@ -99,8 +99,8 @@ Cosmic Guerilla (Quicksilva)                                               -    
 Counter Attack (Woodside Software)                                         -      -     ✗
 Critical Path Analysis (Hilderbay)                                         -      -     ✗
 Critical Path Analysis (Timex)                                             -      -     ✗
-Croaka-Crawla (Quicksilva)                                                 -      -     ✗
 CroZXy Road                                                                ✗      -     -
+Croaka-Crawla (Quicksilva)                                                 -      -     ✗
 D Coder (Cosma)                                                            -      -     ✗
 Dallas (French) (Cases Computer Simulations)                               -      -     ✗
 Dictator (Bug Byte)                                                        -      -     ✗
@@ -117,6 +117,7 @@ Electronics (Spectre)                                                      -    
 Encounter (Quicksilva)                                                     -      -     ✗
 Escape From Manhattan (Computer Rentals)                                   -      -     ✗
 Escape from Shazzar (International Publishing and Software Inc.)           -      -     ✗
+FUNdamentals of Math (Timex)                                               -      -     ✗
 Fast Load Save (Musamy Software)                                           -      -     ✗
 Flight Simulation (Sinclair Research)                                      -      -     ✗
 Flug-Simulation (Sinclair Research)                                        -      -     ✗
@@ -134,7 +135,6 @@ Frogger (Sega) (Timex)                                                     -    
 Froggy (DJL Software)                                                      -      -     ✗
 Frogs (Mikro-Gen)                                                          -      -     ✗
 Fun Fair Adventure (Fawkes Computing)                                      -      -     ✗
-FUNdamentals of Math (Timex)                                               -      -     ✗
 Galactic Gunner (Timex)                                                    -      -     ✗
 Galactic Patrol (Computer Rentals)                                         -      -     ✗
 Galactic Patrol (Omega re-release) (Omega)                                 -      -     ✗
@@ -161,13 +161,13 @@ Guitar For Beginners (Timex)                                               -    
 Gulp (Mindware)                                                            -      -     ✗
 Gulp 2 (Campbell Systems)                                                  -      -     ✗
 Gulpman (Micromega)                                                        -      -     ✗
+HRG 7.0 (Unknown)                                                          -      -     ✗
 Haute Resolution (Pluto)                                                   -      -     ✗
 Heating System Analyzer (Timex)                                            -      -     ✗
 High Res (Macronics)                                                       -      -     ✗
 Hopper (PSS)                                                               -      -     ✗
 Hopper (Truck) (PSS)                                                       -      -     ✗
 House of Death (A. J. Rushton)                                             -      -     ✗
-HRG 7.0 (Unknown)                                                          -      -     ✗
 Impact!                                                                    ✗      -     -
 Introduction To Chemistry (Timex)                                          -      -     ✗
 Invaders (A. G. Software)                                                  -      -     ✗
@@ -193,6 +193,8 @@ Language Usage (Timex)                                                     -    
 Lap Record (Macronics)                                                     -      -     ✗
 Lost Island (JRS Software)                                                 -      -     ✗
 Lunar Rescue (Mikro-Gen)                                                   -      -     ✗
+MCoder (PSS)                                                               -      -     ✗
+MCoder 11 (PSS)                                                            -      -     ✗
 Machine Code Test Tool (F. O. Ainley)                                      -      -     ✗
 Manufacturing Control (Timex)                                              -      -     ✗
 Marine Rescue (International Publishing and Software Inc.)                 -      -     ✗
@@ -202,11 +204,9 @@ Mazogs (Bug Byte)                                                          -    
 Mazogs (Gladstone) (Gladstone Electronics)                                 -      -     ✗
 Mazogs (Monochrome) (Bug Byte)                                             -      -     ✗
 Mazogs (Softsync)                                                          -      -     ✗
-MCoder (PSS)                                                               -      -     ✗
-MCoder 11 (PSS)                                                            -      -     ✗
 Merchant of Venus (Crystal)                                                -      -     ✗
-Meteor Storm (dK'tronics)                                                  -      -     ✗
 Meteor Storm (Fast Master) (dK'tronics)                                    -      -     ✗
+Meteor Storm (dK'tronics)                                                  -      -     ✗
 Micro Mouse goes de-bugging (Lothlorien)                                   -      -     ✗
 Mind vs. Machine (2-Bit Software)                                          -      -     ✗
 Miner Man                                                                  ✗      -     -
@@ -260,11 +260,12 @@ QS Defenda (Big picture) (Quicksilva)                                      -    
 QS Defenda (Number) (Quicksilva)                                           -      -     ✗
 QS Defenda (Quicksilva)                                                    -      -     ✗
 QS Invaders (Big picture) (Quicksilva)                                     -      -     ✗
-QS Invaders (Number, Upside down) (Quicksilva)                             -      -     ✗
 QS Invaders (Number) (Quicksilva)                                          -      -     ✗
+QS Invaders (Number, Upside down) (Quicksilva)                             -      -     ✗
 QS Invaders (Quicksilva)                                                   -      -     ✗
 QS Scramble (Number) (Quicksilva)                                          -      -     ✗
 Quack!                                                                     ✗      -     -
+RPN Calculator (Zeta Software)                                             ✗      -     ✗
 Ram Runner (Timex)                                                         -      -     ✗
 Real Estate Investment Analysis (Timex)                                    -      -     ✗
 Rebound                                                                    ✗      -     -
@@ -275,7 +276,6 @@ Reversi also known as Othello (Sinclair Research)                          -    
 Robbers of the Lost Tomb (Timeworks)                                       -      -     ✗
 Rocket Man (Software Farm)                                                 -      -     ✗
 Roman Empire (Lothlorien)                                                  -      -     ✗
-RPN Calculator (Zeta Software)                                             ✗      -     ✗
 Rubik Cube (Alt) (CDS Micro Systems)                                       -      -     ✗
 Rubik Cube (Brown inlay) (CDS Micro Systems)                               -      -     ✗
 Sabotage (Sinclair Research)                                               -      -     ✗
@@ -288,8 +288,8 @@ Sea Wolf (Newer) (Stephen Hartley Computing)                               -    
 Sea Wolf (Stephen Hartley Computing)                                       -      -     ✗
 Similes Countdown (AVC Software)                                           -      -     ✗
 Space Intruders (Hewson Consultants)                                       -      -     ✗
-Space Invaders (dK'tronics)                                                -      -     ✗
 Space Invaders (Mikro-Gen)                                                 -      -     ✗
+Space Invaders (dK'tronics)                                                -      -     ✗
 Space Invaders 3K (Macronics)                                              -      -     ✗
 Space Man Apollo (ICT)                                                     -      -     ✗
 Space Mission (Gem Software)                                               -      -     ✗
@@ -369,6 +369,8 @@ U-Bend                                                                     ✗  
 UDG (dK'tronics)                                                           -      -     ✗
 UFO (Protek)                                                               -      -     ✗
 UFO + 3D Maze (Babtech)                                                    -      -     ✗
+VU-CALC (Sinclair Research)                                                -      -     ✗
+VU-CALC (Timex)                                                            -      -     ✗
 Variance Analyzer (Zeta Software)                                          ✗      -     ✗
 Vector Mathematics (W. H. Smith)                                           -      -     ✗
 Video Graffiti (AGF Hardware)                                              -      -     ✗
@@ -379,18 +381,11 @@ Video-View (Video Software)                                                -    
 Viewtext (U.S. release) (Bug Byte)                                         -      -     ✗
 Virus                                                                      ✗      -     -
 Volcanic Dungeon (Carnell)                                                 -      -     ✗
-VU-CALC (Sinclair Research)                                                -      -     ✗
-VU-CALC (Timex)                                                            -      -     ✗
 Warlord (Lothlorien)                                                       -      -     ✗
 Winged Avenger (Work Force)                                                -      -     ✗
 Word Processor (Alan's Recordings)                                         -      -     ✗
 Word Test (Mindware)                                                       -      -     ✗
 World Cup Football (Test your knowledge of) (M. A. Smith)                  -      -     ✗
-Zac-Man (Macronics)                                                        -      -     ✗
-Zaraks (Computer Rentals)                                                  -      -     ✗
-Zombies_Sword of Peace (Artic)                                             -      -     ✗
-Zuckman (Black inlay) (DJL Software)                                       -      -     ✗
-Zuckman (White inlay) (DJL Software)                                       -      -     ✗
 ZX Action Pack (Axis)                                                      -      -     ✗
 ZX Assembler (Artic)                                                       -      -     ✗
 ZX Assembler (International Publishing and Software Inc.)                  -      -     ✗
@@ -402,8 +397,8 @@ ZX Bug V3.125 (Monochrome Inlay) (Artic)                                   -    
 ZX Chess I (Black inlay) (Artic)                                           -      -     ✗
 ZX Chess II (Artic)                                                        -      -     ✗
 ZX Chess II (Black inlay) (Artic)                                          -      -     ✗
-ZX Chess II (Improved) (Artic)                                             -      -     ✗
 ZX Chess II (IPS) (International Publishing and Software Inc.)             -      -     ✗
+ZX Chess II (Improved) (Artic)                                             -      -     ✗
 ZX Forth (Artic)                                                           -      -     ✗
 ZX Forth (International Publishing and Software Inc.)                      -      -     ✗
 ZX Othello (Moi)                                                           -      -     ✗
@@ -411,7 +406,6 @@ ZX Pro_File (Thomas B. Woods)                                              -    
 ZX-Compiler (Silversoft)                                                   -      -     ✗
 ZX-MC (Picturesque)                                                        -      -     ✗
 ZX-Sideprint (Microsphere)                                                 -      -     ✗
-ZXagon                                                                     ✗      -     -
 ZXAS (Bug Byte)                                                            -      -     ✗
 ZXAS (Gladstone) (Gladstone Electronics)                                   -      -     ✗
 ZXAS (Monochrome) (Bug Byte)                                               -      -     ✗
@@ -426,3 +420,9 @@ ZXM Sound Box Super Editor (Timedata)                                      -    
 ZXTK (Bug Byte)                                                            -      -     ✗
 ZXTK (Printed instructions) (Bug Byte)                                     -      -     ✗
 ZXTK (Yellow) (Bug Byte)                                                   -      -     ✗
+ZXagon                                                                     ✗      -     -
+Zac-Man (Macronics)                                                        -      -     ✗
+Zaraks (Computer Rentals)                                                  -      -     ✗
+Zombies_Sword of Peace (Artic)                                             -      -     ✗
+Zuckman (Black inlay) (DJL Software)                                       -      -     ✗
+Zuckman (White inlay) (DJL Software)                                       -      -     ✗

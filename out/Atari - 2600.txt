@@ -1,9 +1,9 @@
 Atari - 2600 Missing
 
-Boxarts    516/702  73.50%
-Snaps      515/702  73.36%
-Titles     513/702  73.08%
-Total    1544/2106  73.31%
+Boxarts    523/703  74.40%
+Snaps      523/703  74.40%
+Titles     521/703  74.11%
+Total    1567/2109  74.30%
 
 Name                                                                                   Boxart  Snap  Title
 3-D Genesis (USA) (Proto)                                                                 ✗      ✗     ✗
@@ -29,7 +29,7 @@ Air Raid (USA)                                                                  
 Air Raiders (Europe)                                                                      ✗      ✗     ✗
 Air Raiders (USA)                                                                         -      -     -
 Air-Sea Battle (Europe)                                                                   ✗      ✗     ✗
-Air-Sea Battle ~ Target Fun (Japan, USA)                                                  ✗      ✗     ✗
+Air-Sea Battle ~ Target Fun (Japan, USA)                                                  -      -     -
 Airlock (Europe)                                                                          ✗      ✗     ✗
 Airlock (USA)                                                                             -      -     -
 Airlock (USA) (Proto)                                                                     ✗      ✗     ✗
@@ -40,7 +40,7 @@ Alligator People (USA) (Proto)                                                  
 Alpha Beam (Europe) (Beta) (1983-06-03)                                                   ✗      ✗     ✗
 Alpha Beam (Japan, USA) (Beta) (1982-12-22)                                               ✗      ✗     ✗
 Alpha Beam with Ernie (Europe)                                                            ✗      ✗     ✗
-Alpha Beam with Ernie (Japan, USA)                                                        ✗      ✗     ✗
+Alpha Beam with Ernie (Japan, USA)                                                        -      -     -
 Amidar (Europe)                                                                           ✗      ✗     ✗
 Amidar (USA)                                                                              -      -     -
 AndroMan on the Moon (USA) (Proto)                                                        ✗      ✗     ✗
@@ -63,6 +63,11 @@ Atlantis (Europe)                                                               
 Atlantis (USA)                                                                            -      -     -
 Atlantis II (USA)                                                                         -      -     -
 Atom Smasher (USA) (Proto)                                                                ✗      ✗     ✗
+BASIC Programming (Europe)                                                                ✗      ✗     ✗
+BASIC Programming (USA)                                                                   -      -     -
+BMX Air Master (Australia)                                                                ✗      ✗     ✗
+BMX Air Master (Europe)                                                                   ✗      ✗     ✗
+BMX Air Master (USA)                                                                      -      -     -
 Bachelor Party (USA)                                                                      ✗      ✗     ✗
 Bachelorette Party (USA)                                                                  ✗      ✗     ✗
 Backgammon (Europe)                                                                       ✗      ✗     ✗
@@ -74,9 +79,7 @@ Barnstorming (Europe)                                                           
 Barnstorming (USA)                                                                        -      -     -
 Base Attack (Europe)                                                                      ✗      ✗     ✗
 Basic Math (Europe)                                                                       ✗      ✗     ✗
-Basic Math (USA)                                                                          ✗      ✗     ✗
-BASIC Programming (Europe)                                                                ✗      ✗     ✗
-BASIC Programming (USA)                                                                   -      -     -
+Basic Math (USA)                                                                          -      -     -
 Basketball (Europe)                                                                       ✗      ✗     ✗
 Basketball (USA)                                                                          -      -     -
 Battlezone (Europe)                                                                       ✗      ✗     ✗
@@ -89,7 +92,7 @@ Beany Bopper (Brazil) (Unl)                                                     
 Beany Bopper (USA)                                                                        -      -     -
 Beat'Em _ Eat'Em (Brazil) (Unl)                                                           ✗      ✗     ✗
 Beat'Em _ Eat'Em (Europe)                                                                 ✗      ✗     ✗
-Beat'Em _ Eat'Em (USA)                                                                    ✗      ✗     ✗
+Beat'Em _ Eat'Em (USA)                                                                    -      -     -
 Berenstain Bears (USA)                                                                    -      -     -
 Bermuda Triangle (Europe)                                                                 ✗      ✗     ✗
 Bermuda Triangle (USA)                                                                    -      -     -
@@ -107,9 +110,6 @@ Black Jack (USA)                                                                
 Blueprint (Europe)                                                                        ✗      ✗     ✗
 Blueprint (USA)                                                                           -      -     -
 Blueprint (USA) (Beta)                                                                    ✗      ✗     ✗
-BMX Air Master (Australia)                                                                ✗      ✗     ✗
-BMX Air Master (Europe)                                                                   ✗      ✗     ✗
-BMX Air Master (USA)                                                                      -      -     -
 Bobby is Going Home (Brazil) (Europe) (Unl)                                               ✗      ✗     ✗
 Bobby is Going Home (Brazil) (Unl)                                                        ✗      ✗     ✗
 Bobby is Going Home (Europe)                                                              ✗      ✗     ✗
@@ -128,7 +128,7 @@ Boxing (USA)                                                                    
 Brain Games (Europe)                                                                      ✗      ✗     ✗
 Brain Games (USA)                                                                         -      -     -
 Breakout (Europe)                                                                         ✗      ✗     ✗
-Breakout ~ Breakaway IV (Japan, USA)                                                      ✗      ✗     ✗
+Breakout ~ Breakaway IV (Japan, USA)                                                      -      -     -
 Bridge (Europe)                                                                           ✗      ✗     ✗
 Bridge (USA)                                                                              -      -     -
 Bridge (USA) (v1.1)                                                                       ✗      ✗     ✗
@@ -163,10 +163,10 @@ Centipede (Europe) (Beta)                                                       
 Centipede (Japan, USA)                                                                    ✗      ✗     ✗
 Challenge (Canada)                                                                        ✗      ✗     ✗
 Challenge of.... NEXAR, The (Europe)                                                      ✗      ✗     ✗
-Challenge of.... NEXAR, The (USA)                                                         ✗      ✗     ✗
+Challenge of.... NEXAR, The (USA)                                                         -      -     -
 Championship Soccer (Europe)                                                              ✗      ✗     ✗
-Championship Soccer ~ Soccer (USA)                                                        ✗      ✗     ✗
-Chase the Chuck Wagon (USA)                                                               ✗      ✗     ✗
+Championship Soccer ~ Soccer (USA)                                                        -      -     -
+Chase the Chuck Wagon (USA)                                                               ✗      -     -
 Checkers (USA)                                                                            -      -     -
 China Syndrome (Europe)                                                                   ✗      ✗     ✗
 China Syndrome (USA)                                                                      -      -     -
@@ -182,8 +182,8 @@ Col 'N' (Europe) (Unl)                                                          
 Color Bar Generator (USA)                                                                 -      -     -
 Colors (Europe) (Proto)                                                                   ✗      ✗     ✗
 Combat (Europe)                                                                           ✗      ✗     ✗
-Combat ~ Tank-Plus (USA)                                                                  ✗      ✗     ✗
 Combat Two (USA) (Proto)                                                                  -      -     -
+Combat ~ Tank-Plus (USA)                                                                  ✗      ✗     ✗
 Commando (Europe)                                                                         ✗      ✗     ✗
 Commando (USA)                                                                            -      -     -
 Commando (USA) (Alt 1)                                                                    ✗      ✗     ✗
@@ -326,13 +326,13 @@ Hunt _ Score ~ Memory Match (USA)                                               
 I Want My Mommy (USA)                                                                     -      -     -
 I.Q. 180 (USA)                                                                            -      -     -
 I.Q. Memory Teaser (Europe)                                                               -      -     -
+IQ 180 (USA)                                                                              -      -     -
 Ice Hockey (USA)                                                                          -      -     -
 Ikari Warriors (USA)                                                                      -      -     -
 Immies _ Aggies (USA) (Proto)                                                             -      -     -
 Indy 500 ~ Race (USA)                                                                     ✗      ✗     ✗
 Infiltrate (USA)                                                                          -      -     -
 International Soccer (USA)                                                                -      -     -
-IQ 180 (USA)                                                                              -      -     -
 Ixion (USA) (Proto)                                                                       -      -     -
 James Bond 007 (USA)                                                                      -      -     -
 Jawbreaker (USA)                                                                          -      -     -
@@ -407,9 +407,9 @@ Montezuma's Revenge - Featuring Panama Joe (USA)                                
 Moon Patrol (USA)                                                                         -      -     -
 Moonsweeper (USA)                                                                         -      -     -
 Morse Code Tutor (USA)                                                                    ✗      ✗     ✗
+MotoRodeo (USA)                                                                           -      -     -
 Motocross (USA)                                                                           -      -     -
 Motocross Racer (USA)                                                                     -      -     -
-MotoRodeo (USA)                                                                           -      -     -
 Mountain King (USA)                                                                       -      -     -
 Mouse Trap (Europe)                                                                       ✗      ✗     ✗
 Mouse Trap (USA)                                                                          -      -     -
@@ -429,8 +429,8 @@ Nuts (Europe)                                                                   
 Nuts (USA)                                                                                -      -     -
 O Monstro Marinho (Europe)                                                                -      -     -
 Obelix (USA)                                                                              -      -     -
-Off the Wall (USA)                                                                        -      -     -
 Off Your Rocker (USA) (Proto)                                                             -      -     -
+Off the Wall (USA)                                                                        -      -     -
 Official Frogger, The (USA)                                                               -      -     -
 Oink! (USA)                                                                               -      -     -
 Omega Race (USA)                                                                          -      -     -
@@ -463,8 +463,8 @@ Pigs in Space - Starring Miss Piggy (USA)                                       
 Pitfall II - Lost Caverns (USA)                                                           -      -     -
 Pitfall! - Pitfall Harry's Jungle Adventure (USA)                                         -      -     -
 Pizza Chef (USA) (Proto)                                                                  ✗      ✗     ✗
-Planet of the Apes (USA) (Proto)                                                          -      -     -
 Planet Patrol (USA)                                                                       -      -     -
+Planet of the Apes (USA) (Proto)                                                          -      -     -
 Plaque Attack (USA)                                                                       -      -     -
 Pleiades (USA) (Proto)                                                                    -      -     -
 Polaris (USA)                                                                             -      -     -
@@ -477,6 +477,7 @@ Porky's (USA)                                                                   
 Power Lords (USA) (Proto)                                                                 ✗      ✗     ✗
 Pressure Cooker (USA)                                                                     -      -     -
 Private Eye (USA)                                                                         -      -     -
+Pursuit of the Pink Panther (USA) (Proto)                                                 ✗      ✗     ✗
 Pygmy (Europe)                                                                            ✗      ✗     ✗
 Q-bert (USA)                                                                              -      -     -
 Q-bert's Qubes (USA)                                                                      -      -     -
@@ -519,12 +520,12 @@ Rubik's Cube (USA)                                                              
 Rubik's Cube 3-D (USA) (Proto)                                                            -      -     -
 Rush Hour (USA) (Proto)                                                                   ✗      ✗     ✗
 S.A.C. Alert (USA) (Proto)                                                                -      -     -
+SCRMNN (USA) (Proto)                                                                      ✗      ✗     ✗
 Saboteur (USA) (Proto)                                                                    -      -     -
 Save Mary! (USA) (Proto)                                                                  -      -     -
 Save Our Ship (Europe)                                                                    -      -     -
 Save our Ship (USA)                                                                       -      -     -
 Save the Whales (USA) (Proto)                                                             -      -     -
-SCRMNN (USA) (Proto)                                                                      ✗      ✗     ✗
 Sea Battle (USA)                                                                          -      -     -
 Sea Hawk (USA)                                                                            -      -     -
 Sea Hunt ~ Scuba Diver (USA)                                                              ✗      ✗     ✗
@@ -573,8 +574,8 @@ Space Jockey (USA)                                                              
 Space Shuttle - A Journey into Space (USA)                                                -      -     -
 Space Tunnel (USA)                                                                        -      -     -
 Space War ~ Space Combat (USA)                                                            ✗      ✗     ✗
-Spacechase (USA)                                                                          -      -     -
 SpaceMaster X-7 (USA)                                                                     -      -     -
+Spacechase (USA)                                                                          -      -     -
 Spider Fighter (USA)                                                                      -      -     -
 Spider Maze (USA)                                                                         -      -     -
 Spider-Man (USA)                                                                          -      -     -
@@ -600,9 +601,9 @@ Star Wars - Return of the Jedi - Death Star Battle (USA)                        
 Star Wars - Return of the Jedi - Ewok Adventure (USA) (Proto)                             -      -     -
 Star Wars - The Arcade Game (USA)                                                         -      -     -
 Star Wars - The Empire Strikes Back (USA)                                                 -      -     -
+StarMaster (USA)                                                                          -      -     -
 Stargate (USA)                                                                            -      -     -
 Stargunner (USA)                                                                          -      -     -
-StarMaster (USA)                                                                          -      -     -
 Steeplechase (Europe)                                                                     -      -     -
 Steeplechase (USA)                                                                        -      -     -
 Stellar Track (USA)                                                                       -      -     -
@@ -633,10 +634,11 @@ Survival Run (USA)                                                              
 Survival Run (USA) (Proto)                                                                -      -     -
 Sweat! The Decathalon Game (USA)                                                          -      -     -
 Sword of Saros (USA)                                                                      -      -     -
-Swordfight (USA)                                                                          -      -     -
 SwordQuest - EarthWorld (USA)                                                             -      -     -
 SwordQuest - FireWorld (USA)                                                              -      -     -
 SwordQuest - WaterWorld (USA)                                                             -      -     -
+Swordfight (USA)                                                                          -      -     -
+TRON - Deadly Discs (USA)                                                                 -      -     -
 Tac-Scan (USA)                                                                            -      -     -
 Tanks But no Tanks (USA)                                                                  -      -     -
 Tapeworm (USA)                                                                            -      -     -
@@ -662,9 +664,8 @@ Track and Field (USA)                                                           
 Treasure Below (Europe)                                                                   -      -     -
 Treasure Island ~ Duck Shoot (Europe)                                                     ✗      ✗     ✗
 Trick Shot (USA)                                                                          -      -     -
-TRON - Deadly Discs (USA)                                                                 -      -     -
-Tunnel de L'Estace, Le (Europe)                                                           -      -     -
 Tunnel Runner (USA)                                                                       -      -     -
+Tunnel de L'Estace, Le (Europe)                                                           -      -     -
 Turbo (USA) (Proto)                                                                       ✗      ✗     ✗
 Turmoil (USA)                                                                             -      -     -
 Tutankham (USA)                                                                           -      -     -

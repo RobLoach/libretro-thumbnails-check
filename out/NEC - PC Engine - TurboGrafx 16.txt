@@ -1,13 +1,14 @@
 NEC - PC Engine - TurboGrafx 16 Missing
 
-Boxarts    370/401  92.27%
-Snaps      369/401  92.02%
-Titles     370/401  92.27%
-Total    1109/1203  92.19%
+Boxarts    363/401  90.52%
+Snaps      362/401  90.27%
+Titles     363/401  90.52%
+Total    1088/1203  90.44%
 
 Name                                                                  Boxart  Snap  Title
 1943 Kai (Japan)                                                         -      -     -
 21 Emon - Mezase Hotel Ou!! (Japan)                                      -      -     -
+AV Poker - World Gambler (Japan) (Unl)                                   -      -     -
 Adventure Island (Japan)                                                 -      -     -
 Aero Blasters (Japan)                                                    -      -     -
 Aero Blasters (USA)                                                      -      -     -
@@ -23,7 +24,6 @@ Appare! Gateball (Japan)                                                 -      
 Armed F (Japan)                                                          -      -     -
 Artist Tool (Japan)                                                      -      -     -
 Atomic Robo-Kid Special (Japan)                                          -      -     -
-AV Poker - World Gambler (Japan) (Unl)                                   -      -     -
 Ballistix (Japan)                                                        -      -     -
 Ballistix (USA)                                                          -      -     -
 Bari Bari Densetsu (Japan)                                               -      -     -
@@ -38,18 +38,18 @@ Blazing Lazers (USA)                                                     -      
 Blodia (Japan)                                                           -      -     -
 Bloody Wolf (USA)                                                        -      -     -
 Bodycon Quest II (Japan) (Unl)                                           -      -     -
-Bomberman - Users Battle (Japan)                                         -      -     -
+Bomber Man '93 (Japan)                                                   ✗      ✗     ✗
+Bomber Man '93 (USA)                                                     ✗      ✗     ✗
+Bomber Man '93 (USA, Europe) (Virtual Console)                           ✗      ✗     ✗
+Bomber Man '94 (Japan)                                                   ✗      ✗     ✗
+Bomber Man (Japan)                                                       ✗      ✗     ✗
+Bomber Man (USA)                                                         ✗      ✗     ✗
 Bomberman '93 - Special Version (Japan)                                  -      -     -
-Bomberman '93 (Japan)                                                    -      -     -
-Bomberman '93 (USA, Europe) (Virtual Console)                            ✗      ✗     ✗
-Bomberman '93 (USA)                                                      -      -     -
-Bomberman '94 (Japan)                                                    -      -     -
-Bomberman (Japan)                                                        -      -     -
-Bomberman (USA)                                                          -      -     -
+Bomberman - Users Battle (Japan)                                         -      -     -
 Bonk 3 - Bonk's Big Adventure (USA)                                      -      -     -
 Bonk's Adventure (USA)                                                   -      -     -
-Bonk's Revenge (USA, Europe) (Virtual Console)                           ✗      ✗     ✗
 Bonk's Revenge (USA)                                                     -      -     -
+Bonk's Revenge (USA, Europe) (Virtual Console)                           ✗      ✗     ✗
 Bouken Danshaku Don - The Lost Sunheart (Japan)                          -      -     -
 Boxyboy (USA)                                                            -      -     -
 Bravoman (USA)                                                           -      -     -
@@ -84,10 +84,10 @@ Darius Alpha (Japan) (SG Enhanced)                                       -      
 Darius Plus (Japan) (SG Enhanced)                                        -      -     -
 Darkwing Duck (USA)                                                      -      -     -
 Davis Cup Tennis (USA)                                                   -      -     -
-Dead Moon - Getsu Sekai no Akumu (Japan)                                 -      -     -
 Dead Moon (USA)                                                          -      -     -
-Deep Blue - Kaitei Shinwa (Japan)                                        -      -     -
+Dead Moon - Getsu Sekai no Akumu (Japan)                                 -      -     -
 Deep Blue (USA)                                                          -      -     -
+Deep Blue - Kaitei Shinwa (Japan)                                        -      -     -
 Detana!! TwinBee (Japan)                                                 -      -     -
 Devil Crash - Naxat Pinball (Japan)                                      -      -     -
 Devil's Crush (USA)                                                      -      -     -
@@ -100,7 +100,7 @@ Double Dungeons (Japan)                                                  -      
 Double Dungeons (USA)                                                    -      -     -
 Download (Japan)                                                         -      -     -
 Dragon Egg! (Japan)                                                      -      -     -
-Dragon Saber - After Story of Dragon Spirit (Japan)                      -      -     -
+Dragon Saber (Japan)                                                     ✗      ✗     ✗
 Dragon Spirit (Japan)                                                    -      -     -
 Dragon Spirit (USA)                                                      -      -     -
 Dragon's Curse (USA)                                                     -      -     -
@@ -113,7 +113,7 @@ Energy (Japan)                                                           -      
 Eternal City - Toshi Tensou Keikaku (Japan)                              -      -     -
 F-1 Dream (Japan)                                                        -      -     -
 F-1 Pilot - You're King of Kings (Japan)                                 -      -     -
-F1 Circus '91 - World Championship (Japan)                               -      -     -
+F1 Circus '91 (Japan)                                                    ✗      ✗     ✗
 F1 Circus '92 - The Speed of Sound (Japan)                               -      -     -
 F1 Circus (Japan)                                                        -      -     -
 F1 Triple Battle (Japan)                                                 -      -     -
@@ -125,8 +125,8 @@ Final Blaster (Japan)                                                    -      
 Final Lap Twin (Japan)                                                   -      -     -
 Final Lap Twin (USA)                                                     -      -     -
 Final Match Tennis (Japan)                                               -      -     -
-Final Soldier - Special Version (Japan) (En)                             -      -     -
 Final Soldier (Japan) (En)                                               -      -     -
+Final Soldier - Special Version (Japan) (En)                             -      -     -
 Fire Pro Wrestling - Combination Tag (Japan)                             -      -     -
 Fire Pro Wrestling 2 - 2nd Bout (Japan)                                  -      -     -
 Fire Pro Wrestling 3 - Legend Bout (Japan)                               -      -     -
@@ -140,15 +140,15 @@ Galaga '90 (USA)                                                         -      
 Ganbare! Golf Boys (Japan)                                               -      -     -
 Gekisha Boy (Japan)                                                      -      -     -
 Genji Tsuushin Agedama (Japan)                                           -      -     -
-Genpei Toumaden - Kan no Ni (Japan)                                      -      -     -
 Genpei Toumaden (Japan)                                                  -      -     -
+Genpei Toumaden - Kan no Ni (Japan)                                      -      -     -
 Ghost Manor (USA)                                                        -      -     -
 Gokuraku! Chuuka Taisen (Japan)                                          -      -     -
 Gomola Speed (Japan)                                                     -      -     -
 Gradius (Japan)                                                          -      -     -
 Gunboat (USA)                                                            -      -     -
-Gunhed - Special Version (Japan)                                         -      -     -
 Gunhed (Japan)                                                           -      -     -
+Gunhed - Special Version (Japan)                                         -      -     -
 Hana Taaka Daka! (Japan)                                                 -      -     -
 Hanii in the Sky (Japan)                                                 -      -     -
 Hanii on the Road (Japan)                                                -      -     -
@@ -225,6 +225,7 @@ Moto Roader (Japan)                                                      -      
 Moto Roader (USA)                                                        -      -     -
 Moto Roader II (Japan)                                                   -      -     -
 Mr. Heli no Daibouken (Japan)                                            -      -     -
+NHK Taiga Drama - Taiheiki (Japan)                                       -      -     -
 Narazumono Sentou Butai - Bloody Wolf (Japan)                            -      -     -
 Naxat Open (Japan)                                                       -      -     -
 Naxat Stadium (Japan)                                                    -      -     -
@@ -239,7 +240,6 @@ Neutopia II (Japan)                                                      -      
 Neutopia II (USA)                                                        -      -     -
 New Adventure Island (USA)                                               -      -     -
 NewZealand Story, The (Japan)                                            -      -     -
-NHK Taiga Drama - Taiheiki (Japan)                                       -      -     -
 Night Creatures (USA)                                                    -      -     -
 Niko Niko Pun (Japan)                                                    -      -     -
 Ninja Ryuukenden (Japan) (En,Ja,Zh)                                      ✗      ✗     ✗
@@ -254,13 +254,6 @@ Out Live (Japan)                                                         -      
 Out Run (Japan)                                                          -      -     -
 Override (Japan)                                                         -      -     -
 P-47 - The Freedom Fighter (Japan)                                       -      -     -
-Pac-Land (Japan)                                                         -      -     -
-Pac-Land (USA)                                                           -      -     -
-Pachio-kun - Juuban Shoubu (Japan)                                       -      -     -
-Paranoia (Japan)                                                         -      -     -
-Parasol Stars - The Story of Bubble Bobble III (Japan)                   ✗      ✗     ✗
-Parasol Stars - The Story of Bubble Bobble III (USA)                     -      -     -
-Parodius Da! - Shinwa kara Owarai e (Japan)                              -      -     -
 PC Denjin - Punkic Cyborgs (Japan)                                       -      -     -
 PC Genjin - Pithecanthropus Computerurus (Japan)                         -      -     -
 PC Genjin 2 - Pithecanthropus Computerurus (Japan)                       -      -     -
@@ -268,6 +261,13 @@ PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Virtual Console)     ✗    
 PC Genjin 3 - Pithecanthropus Computerurus (Japan)                       -      -     -
 PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Sample)              ✗      ✗     ✗
 PC Pachi-Slot - Idol Gambler (Japan) (Unl)                               ✗      ✗     ✗
+Pac-Land (Japan)                                                         -      -     -
+Pac-Land (USA)                                                           -      -     -
+Pachio-kun - Juuban Shoubu (Japan)                                       -      -     -
+Paranoia (Japan)                                                         -      -     -
+Parasol Stars - The Story of Bubble Bobble III (Japan)                   ✗      ✗     ✗
+Parasol Stars - The Story of Bubble Bobble III (USA)                     -      -     -
+Parodius Da! - Shinwa kara Owarai e (Japan)                              -      -     -
 Populous (Japan)                                                         -      -     -
 Power Drift (Japan)                                                      -      -     -
 Power Eleven (Japan)                                                     -      -     -
@@ -313,16 +313,16 @@ Shiryou Sensen - War of the Dead (Japan)                                 -      
 Shockman (USA)                                                           -      -     -
 Shougi Shodan Icchokusen (Japan)                                         -      -     -
 Shougi Shoshinsha Muyou (Japan)                                          -      -     -
-SideArms - Hyper Dyne (Japan)                                            -      -     -
 SideArms (USA)                                                           ✗      ✗     ✗
+SideArms - Hyper Dyne (Japan)                                            -      -     -
 Silent Debuggers (Japan)                                                 -      -     -
 Silent Debuggers (USA)                                                   -      -     -
 Sindibad - Chitei no Daimakyuu (Japan)                                   -      -     -
 Sinistron (USA)                                                          -      -     -
 Skweek (Japan)                                                           -      -     -
-Soldier Blade - Special Version (Japan)                                  -      -     -
 Soldier Blade (Japan)                                                    -      -     -
 Soldier Blade (USA)                                                      -      -     -
+Soldier Blade - Special Version (Japan)                                  -      -     -
 Somer Assault (USA)                                                      -      -     -
 Son Son II (Japan)                                                       -      -     -
 Sonic Spike - World Championship Beach Volleyball (USA)                  -      -     -
@@ -345,6 +345,12 @@ Super Star Soldier (USA)                                                 -      
 Super Volley Ball (Japan)                                                ✗      ✗     ✗
 Super Volleyball (USA)                                                   -      -     -
 Susanoou Densetsu (Japan)                                                -      -     -
+TV Sports Basketball (Japan)                                             -      -     -
+TV Sports Basketball (USA)                                               -      -     -
+TV Sports Football (Japan)                                               -      -     -
+TV Sports Football (USA)                                                 -      -     -
+TV Sports Hockey (Japan)                                                 -      -     -
+TV Sports Hockey (USA)                                                   -      -     -
 Taito Chase H.Q. (Japan)                                                 -      -     -
 Takahashi Meijin no Shin Bouken-jima (Japan)                             -      -     -
 Takeda Shingen (Japan)                                                   -      -     -
@@ -371,18 +377,12 @@ Tricky Kick (USA)                                                        -      
 Tsuppari Oozumou - Heisei Ban (Japan)                                    -      -     -
 Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan)                  -      -     -
 Turrican (USA)                                                           -      -     -
-TV Sports Basketball (Japan)                                             -      -     -
-TV Sports Basketball (USA)                                               -      -     -
-TV Sports Football (Japan)                                               -      -     -
-TV Sports Football (USA)                                                 -      -     -
-TV Sports Hockey (Japan)                                                 -      -     -
-TV Sports Hockey (USA)                                                   -      -     -
 USA Pro Basketball (Japan)                                               -      -     -
 Valkyrie no Densetsu (Japan)                                             -      -     -
 Veigues - Tactical Gladiator (Japan)                                     -      -     -
 Veigues - Tactical Gladiator (USA)                                       -      -     -
-Victory Run - Eikou no 13,000km (Japan)                                  ✗      ✗     ✗
 Victory Run (USA)                                                        -      -     -
+Victory Run - Eikou no 13,000km (Japan)                                  ✗      ✗     ✗
 Vigilante (Japan)                                                        -      -     -
 Vigilante (USA)                                                          -      -     -
 Violent Soldier (Japan)                                                  -      -     -
@@ -394,8 +394,8 @@ Winning Shot (Japan)                                                     -      
 Wonder Momo (Japan)                                                      -      -     -
 World Beach Volley (Japan)                                               -      -     -
 World Circuit (Japan)                                                    -      -     -
-World Class Baseball (USA, Europe) (Virtual Console)                     ✗      ✗     ✗
 World Class Baseball (USA)                                               -      -     -
+World Class Baseball (USA, Europe) (Virtual Console)                     ✗      ✗     ✗
 World Court Tennis (USA)                                                 -      -     -
 World Jockey (Japan)                                                     -      -     -
 World Sports Competition (USA)                                           -      -     -

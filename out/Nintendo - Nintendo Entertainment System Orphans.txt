@@ -1,6 +1,5 @@
 Nintendo - Nintendo Entertainment System Orphans
 
-.travis.yml
 Named_Boxarts/1991 Du Ma Racing (Asia).png
 Named_Boxarts/Airwolf (Europe) (Acclaim).png
 Named_Boxarts/Airwolf (USA) (Acclaim).png
@@ -37,6 +36,7 @@ Named_Snaps/Cosmos Cop (Asia) (Unl).png
 Named_Snaps/Creatom (Unknown) (Unl).png
 Named_Snaps/Dancing Blocks (Asia) (Ja) (PAL) (Unl).png
 Named_Snaps/Demon Sword - Release the Power (USA).png
+Named_Snaps/EarthBound Beginnings (USA) (Virtual Console).png
 Named_Snaps/Escape from Atlantis, The (USA) (Proto2) (Unl).png
 Named_Snaps/Final Combat (Asia) (Ja) (NTSC) (Unl).png
 Named_Snaps/Final Combat (Asia) (Ja) (PAL) (Unl).png
@@ -59,6 +59,7 @@ Named_Snaps/Magical Mathematics (Asia) (Ja) (PAL) (Unl).png
 Named_Snaps/Mahjong World, The - Ma Que Shi Jie (Asia) (Ja) (NTSC) (Unl).png
 Named_Snaps/Mahjong World, The - Ma Que Shi Jie (Asia) (Ja) (PAL) (Unl).png
 Named_Snaps/Master Chu and the Drunkard Hu (Asia) (Ja) (PAL) (Unl).png
+Named_Snaps/Micro Mages (USA) (Unl).png
 Named_Snaps/Millionaire (Asia) (Ja) (PAL) (Unl).png
 Named_Snaps/Ningen Heiki - Dead Fox (Japan).png
 Named_Snaps/Olympic I.Q. (Asia) (Ja) (PAL) (Unl).png
@@ -75,11 +76,13 @@ Named_Snaps/Silver Eagle (Asia) (Ja) (PAL) (Unl).png
 Named_Snaps/Sou Setsu Ryuu (Japan).png
 Named_Snaps/Strategist (Asia) (Ja) (NTSC) (Unl).png
 Named_Snaps/Strategist (Asia) (Ja) (PAL) (Unl).png
+Named_Snaps/Super Bat Puncher (USA) (Proto) (Unl).png
 Named_Snaps/Super Pang (Asia) (PAL) (Ja) (Unl).png
 Named_Snaps/Teletime (Homebrew).png
 Named_Snaps/Twin Dragons.png
 Named_Snaps/Twin Eagle (Asia) (Ja) (PAL) (Unl).png
 Named_Snaps/Venice Beach Volleyball (Asia) (Ja) (Unl).png
+Named_Snaps/Wonderland Dizzy (Europe) (En,Fr,Es,Nl,Pt,Pl) (2015) (Unl).png
 Named_Titles/AV Kyuukyoku Mahjong 2 (Asia) (Ja) (Unl).png
 Named_Titles/Airball (Unknown) (Proto1).png
 Named_Titles/Airball (Unknown) (Proto2).png
@@ -124,6 +127,7 @@ Named_Titles/Magician (USA) (Beta2).png
 Named_Titles/Mahjong World, The - Ma Que Shi Jie (Asia) (Ja) (NTSC) (Unl).png
 Named_Titles/Mahjong World, The - Ma Que Shi Jie (Asia) (Ja) (PAL) (Unl).png
 Named_Titles/Master Chu and the Drunkard Hu (Asia) (Ja) (PAL) (Unl).png
+Named_Titles/Micro Mages (USA) (Unl).png
 Named_Titles/Millionaire (Asia) (Ja) (PAL) (Unl).png
 Named_Titles/Ningen Heiki - Dead Fox (Japan).png
 Named_Titles/Olympic I.Q. (Asia) (Ja) (PAL) (Unl).png
@@ -139,6 +143,7 @@ Named_Titles/Silver Eagle (Asia) (Ja) (PAL) (Unl).png
 Named_Titles/Sou Setsu Ryuu (Japan).png
 Named_Titles/Strategist (Asia) (Ja) (NTSC) (Unl).png
 Named_Titles/Strategist (Asia) (Ja) (PAL) (Unl).png
+Named_Titles/Super Bat Puncher (USA) (Proto) (Unl).png
 Named_Titles/Super Pang (Asia) (PAL) (Ja) (Unl).png
 Named_Titles/Teletime (Homebrew).png
 Named_Titles/Twin Dragons.png

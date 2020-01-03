@@ -1,9 +1,9 @@
 DOOM Missing
 
-Boxarts  14/102  13.73%
-Snaps    12/102  11.76%
-Titles   13/102  12.75%
-Total    39/306  12.75%
+Boxarts  14/106  13.21%
+Snaps    12/106  11.32%
+Titles   17/106  16.04%
+Total    43/318  13.52%
 
 Name                                                                     Boxart  Snap  Title
 Action Doom 2 - Urban Brawl                                                 ✗      ✗     ✗
@@ -38,6 +38,8 @@ Doom II - Hell on Earth (BFG Edition)                                       ✗ 
 Doom II - Hell on Earth (BFG Edition) (PlayStation 3 _ Xbox 360)            ✗      ✗     ✗
 Doom II - Hell on Earth (Classic Complete) (PlayStation 3)                  ✗      ✗     ✗
 Doom II - Hell on Earth (Tapwave Zodiac)                                    ✗      ✗     ✗
+Doom II - Hell on Earth (XBLA)                                              ✗      ✗     ✗
+Doom II - Hell on Earth (Xbox)                                              ✗      ✗     ✗
 Doom II - Hell on Earth (v1.666)                                            ✗      ✗     ✗
 Doom II - Hell on Earth (v1.666) (German)                                   ✗      ✗     ✗
 Doom II - Hell on Earth (v1.7)                                              ✗      ✗     ✗
@@ -45,8 +47,6 @@ Doom II - Hell on Earth (v1.7a)                                             ✗ 
 Doom II - Hell on Earth (v1.8)                                              ✗      ✗     ✗
 Doom II - Hell on Earth (v1.8) (French)                                     ✗      ✗     ✗
 Doom II - Hell on Earth (v1.9)                                              -      -     -
-Doom II - Hell on Earth (XBLA)                                              ✗      ✗     ✗
-Doom II - Hell on Earth (Xbox)                                              ✗      ✗     ✗
 Doom II - No Rest for the Living (BFG Edition)                              ✗      -     ✗
 Final Doom - Evilution                                                      -      -     -
 Final Doom - Evilution (Classic Complete) (PlayStation 3)                   ✗      ✗     ✗
@@ -66,11 +66,11 @@ Harmony (v1.1)                                                              ✗ 
 Hell to Pay                                                                 -      -     -
 Hell to Pay (Demo)                                                          ✗      ✗     -
 Heretic                                                                     ✗      ✗     ✗
-Heretic - Shadow of the Serpent Riders (v1.3)                               -      ✗     ✗
 Heretic (Demo)                                                              ✗      ✗     ✗
+Heretic (Wide Area Beta)                                                    ✗      ✗     ✗
 Heretic (v1.2)                                                              -      ✗     ✗
 Heretic (v1.2) (Demo)                                                       -      ✗     ✗
-Heretic (Wide Area Beta)                                                    ✗      ✗     ✗
+Heretic - Shadow of the Serpent Riders (v1.3)                               -      ✗     ✗
 Hexen - Beyond Heretic                                                      ✗      ✗     ✗
 Hexen - Beyond Heretic (Beta) (Demo)                                        ✗      ✗     ✗
 Hexen - Beyond Heretic (Demo)                                               ✗      ✗     ✗
@@ -85,26 +85,30 @@ Kick Attack for Ultimate Doom                                               ✗ 
 Lost Episodes of Doom, The                                                  -      -     ✗
 Master Levels for Doom II                                                   ✗      ✗     ✗
 Master Levels for Doom II (Classic Complete) (PlayStation 3)                ✗      -     ✗
+PSXDoom (v2.135)                                                            ✗      ✗     ✗
 Perdition's Gate                                                            -      -     -
 Perdition's Gate (Demo)                                                     ✗      ✗     -
-PSXDoom (v2.135)                                                            ✗      ✗     ✗
 Rise Of The Wool Ball (v1.3)                                                ✗      ✗     ✗
-SIGIL (v1.0)                                                                ✗      ✗     ✗
-SIGIL (v1.0) (Compatible Edition)                                           ✗      ✗     ✗
-SIGIL (v1.1)                                                                ✗      ✗     ✗
-SIGIL (v1.1) (Compatible Edition)                                           ✗      ✗     ✗
+SIGIL (v1.0)                                                                ✗      ✗     -
+SIGIL (v1.0) (Compatible Edition)                                           ✗      ✗     -
+SIGIL (v1.1)                                                                ✗      ✗     -
+SIGIL (v1.1) (Compatible Edition)                                           ✗      ✗     -
+SIGIL (v1.2)                                                                ✗      ✗     ✗
+SIGIL (v1.2) (Compatible Edition)                                           ✗      ✗     ✗
+SIGIL (v1.21)                                                               ✗      ✗     ✗
+SIGIL (v1.21) (Compatible Edition)                                          ✗      ✗     ✗
 SIGIL Buckethead Music                                                      ✗      ✗     ✗
 SIGIL Buckethead Music (Compatible Edition)                                 ✗      ✗     ✗
 Strife                                                                      ✗      ✗     ✗
-Strife - Veteran Edition                                                    ✗      ✗     ✗
-Strife - Veteran Edition (v1.1)                                             ✗      ✗     ✗
-Strife - Veteran Edition (v1.2)                                             ✗      ✗     ✗
 Strife (Demo)                                                               ✗      ✗     ✗
 Strife (v1.1) (Demo)                                                        ✗      ✗     ✗
 Strife (v1.2)                                                               ✗      ✗     ✗
+Strife - Veteran Edition                                                    ✗      ✗     ✗
+Strife - Veteran Edition (v1.1)                                             ✗      ✗     ✗
+Strife - Veteran Edition (v1.2)                                             ✗      ✗     ✗
 Ultimate Doom, The                                                          -      -     -
-Ultimate Doom, The (BFG Edition, Classic Complete) (PlayStation 3)          ✗      ✗     ✗
 Ultimate Doom, The (BFG Edition)                                            ✗      ✗     ✗
 Ultimate Doom, The (BFG Edition) (Xbox 360)                                 ✗      ✗     ✗
+Ultimate Doom, The (BFG Edition, Classic Complete) (PlayStation 3)          ✗      ✗     ✗
 Ultimate Doom, The (XBLA)                                                   ✗      ✗     ✗
 Ultimate Doom, The (Xbox)                                                   ✗      ✗     ✗

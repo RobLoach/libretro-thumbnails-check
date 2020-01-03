@@ -62,9 +62,9 @@ Chuugaku Hisshuu Eisakubun (Chuugaku 2-Nen) (Japan) (40kB) (SC-3000)       ✗  
 Chuugaku Hisshuu Eitango (Chuugaku 1-Nen) (Japan) (SC-3000)                ✗      -     -
 Chuugaku Hisshuu Eitango (Chuugaku 2-Nen) (Japan) (16kB) (SC-3000)         ✗      -     -
 Chuugaku Hisshuu Eitango (Chuugaku 2-Nen) (Japan) (40kB) (SC-3000)         ✗      -     -
-Congo Bongo (Japan, Europe) (Rev 1)                                        -      -     -
 Congo Bongo (Japan)                                                        -      -     -
 Congo Bongo (Japan) (Rev 1) (40kB)                                         -      -     -
+Congo Bongo (Japan, Europe) (Rev 1)                                        -      -     -
 Dokidoki Penguin Land (Japan)                                              -      -     -
 Dragon Wang (Japan)                                                        -      -     -
 Dragon Wang (Japan) (Alt 1)                                                ✗      -     -
@@ -80,13 +80,13 @@ Flicky (Japan)                                                             -    
 Flicky (Japan) (Rev 1)                                                     ✗      -     -
 Flicky (Taiwan)                                                            ✗      -     -
 Flipper (Taiwan)                                                           ✗      -     -
+GP World (Japan)                                                           -      -     -
+GP World (Japan) (Rev 1)                                                   ✗      -     -
+GP World (Taiwan)                                                          ✗      -     -
 Galaga (Taiwan)                                                            ✗      -     -
 Girl's Garden (Japan)                                                      -      -     -
 Girl's Garden (Taiwan)                                                     ✗      -     -
 Golgo 13 (Japan)                                                           -      -     -
-GP World (Japan)                                                           -      -     -
-GP World (Japan) (Rev 1)                                                   ✗      -     -
-GP World (Taiwan)                                                          ✗      -     -
 Gulkave (Japan)                                                            -      -     -
 Guzzler (Japan) (Othello Multivision)                                      -      -     -
 Guzzler (Taiwan) (Othello Multivision)                                     -      -     -
@@ -132,17 +132,17 @@ Okamoto Ayako no Match Play Golf (Taiwan) (Othello Multivision)            ✗  
 Orguss (Japan, Europe)                                                     -      -     -
 Othello (Japan)                                                            -      -     -
 Othello (Taiwan)                                                           ✗      -     -
-Pacar (Japan, Europe)                                                      -      -     -
 Pacar (Japan) (40kB)                                                       ✗      -     -
+Pacar (Japan, Europe)                                                      -      -     -
 Pacar (Taiwan)                                                             ✗      -     -
 Pachinko (Japan)                                                           -      -     -
 Pachinko II (Japan)                                                        -      -     -
 Pachinko II (Taiwan)                                                       ✗      -     -
 Pippols (Taiwan)                                                           ✗      ✗     ✗
-Pitfall II - The Lost Caverns (Japan)                                      -      -     -
-Pitfall II - The Lost Caverns (Japan) (Rev 1)                              ✗      -     -
 Pitfall II (Taiwan) (Chinese Logo)                                         ✗      -     -
 Pitfall II (Taiwan) (English Logo)                                         ✗      -     -
+Pitfall II - The Lost Caverns (Japan)                                      -      -     -
+Pitfall II - The Lost Caverns (Japan) (Rev 1)                              ✗      -     -
 Pop Flamer (Japan, Europe)                                                 -      -     -
 Pop Flamer (Taiwan)                                                        ✗      -     -
 Q-bert (Japan) (Othello Multivision)                                       -      -     -
@@ -153,6 +153,7 @@ Road Fighter (Taiwan) (Jumbo)                                              ✗  
 Rock n' Bolt (Japan)                                                       -      -     -
 Rock n' Bolt (Taiwan) (Chinese Logo)                                       ✗      -     -
 Rock n' Bolt (Taiwan) (English Logo)                                       ✗      ✗     ✗
+SG-1000 M2 Test Cartridge (Japan)                                          ✗      -     -
 Safari Hunting (Japan)                                                     -      -     -
 Safari Hunting (Taiwan)                                                    ✗      -     -
 Safari Race (Europe)                                                       ✗      -     -
@@ -160,13 +161,12 @@ Safari Race (Japan)                                                        -    
 Safari Race (Taiwan)                                                       ✗      -     -
 San-nin Mahjong (Japan)                                                    ✗      -     -
 San-nin Mahjong (Taiwan)                                                   ✗      -     -
-Sega Flipper (Japan, Europe)                                               -      -     -
 Sega Flipper (Japan) (40kB)                                                ✗      -     -
+Sega Flipper (Japan, Europe)                                               -      -     -
 Sega-Galaga (Japan) (16kB)                                                 -      -     -
 Sega-Galaga (Japan) (40kB)                                                 -      -     -
 Sekaishi Nenpyou (Japan) (SC-3000)                                         ✗      -     -
 Serizawa Hachidan no Tsumeshougi (Japan)                                   -      -     -
-SG-1000 M2 Test Cartridge (Japan)                                          ✗      -     -
 Shinnyushain Tooru Kun (Japan)                                             -      -     -
 Sindbad Mystery (Japan, Europe)                                            -      -     -
 Sindbad Mystery (Taiwan)                                                   ✗      -     -
@@ -182,9 +182,9 @@ Space Slalom (Japan)                                                       -    
 Star Force (Japan)                                                         -      -     -
 Star Force (Taiwan)                                                        ✗      -     -
 Star Force (Taiwan) (Alt 1)                                                ✗      -     -
+Star Jacker (Japan)                                                        -      -     -
 Star Jacker (Japan, Europe) (Rev 1)                                        -      -     -
 Star Jacker (Japan, Europe) (Rev 2)                                        -      -     -
-Star Jacker (Japan)                                                        -      -     -
 Star Jacker (Taiwan)                                                       -      -     -
 Star Soldier (Taiwan)                                                      ✗      ✗     ✗
 Super Tank (Japan)                                                         -      -     -
@@ -203,8 +203,8 @@ Uranai Angel Cutie (Japan) (SC-3000)                                       ✗  
 Wonder Boy (Japan)                                                         -      -     -
 Wonder Boy (Japan) (Rev 1)                                                 ✗      -     -
 Wonder Boy (Taiwan)                                                        ✗      -     -
-Yamato (Japan, Europe)                                                     -      -     -
 Yamato (Japan) (40kB)                                                      ✗      -     -
+Yamato (Japan, Europe)                                                     -      -     -
 Yamato (Taiwan)                                                            ✗      -     -
 Yie Ar Kung-Fu II (Taiwan)                                                 ✗      ✗     ✗
 Zaxxon (Japan)                                                             -      -     -

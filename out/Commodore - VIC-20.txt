@@ -1,9 +1,9 @@
 Commodore - VIC-20 Missing
 
 Boxarts    0/286   0.00%
-Snaps    278/286  97.20%
-Titles   278/286  97.20%
-Total    556/858  64.80%
+Snaps    281/286  98.25%
+Titles   281/286  98.25%
+Total    562/858  65.50%
 
 Name                                                           Boxart  Snap  Title
 A.E. (World)                                                      ✗      -     -
@@ -31,10 +31,10 @@ Atlantis (Europe)                                                 ✗      -    
 Atlantis (Japan, USA)                                             ✗      -     -
 Attack of the Mutant Camels (World)                               ✗      -     -
 Avenger (Japan, USA)                                              ✗      -     -
-Bandits (Japan, USA)                                              ✗      -     -
-Bank Robber (World)                                               ✗      -     -
 BASIC 4.0 (World) (Program)                                       ✗      -     -
 BASIC V5 (World) (Program)                                        ✗      -     -
+Bandits (Japan, USA)                                              ✗      -     -
+Bank Robber (World)                                               ✗      -     -
 Battlezone (Japan, USA)                                           ✗      -     -
 Black Hole (Europe)                                               ✗      -     -
 Black Hole (Japan, USA)                                           ✗      -     -
@@ -155,10 +155,10 @@ Number Nabber, Shape Grabber (Japan, USA)                         ✗      -    
 Omega Race (Japan, USA)                                           ✗      -     -
 Outworld (Europe)                                                 ✗      -     -
 Outworld (Japan, USA)                                             ✗      -     -
+PET Loader (Europe) (Program)                                     ✗      -     -
 Pac-Man (World)                                                   ✗      -     -
 Pac-Man (World) (Alt 1)                                           ✗      -     -
 Personal Finance (World) (Program)                                ✗      -     -
-PET Loader (Europe) (Program)                                     ✗      -     -
 Pharaoh's Curse (World)                                           ✗      -     -
 Pharaoh's Curse (World) (Alt 1)                                   ✗      -     -
 Pinball (Europe)                                                  ✗      -     -
@@ -210,7 +210,7 @@ Skibbereen (Europe)                                               ✗      -    
 Skibbereen (Japan, USA)                                           ✗      -     -
 Skyblazer (Japan, USA)                                            ✗      -     -
 Snake Byte (Japan, USA)                                           ✗      -     -
-Space Ric-O-Shay (Japan, USA)                                     ✗      ✗     ✗
+Space Ric-O-Shay (Japan, USA) [b]                                 ✗      -     -
 Space Snake (Netherlands)                                         ✗      -     -
 Speed Math _ Bingo Math (Japan, USA)                              ✗      -     -
 Speed Math _ Bingo Math (Japan, USA) (Alt 1)                      ✗      -     -
@@ -252,7 +252,7 @@ Tutankham (World)                                                 ✗      -    
 Type Attack (Japan, USA)                                          ✗      -     -
 Typo (Japan, USA)                                                 ✗      -     -
 VC Extra (World) (Program)                                        ✗      -     -
-VC Song-Cartridge - Inventio-Pac (Germany) (Program)              ✗      ✗     ✗
+VC Song-Cartridge - Inventio-Pac (Germany) (Program) [b]          ✗      -     -
 VC Song-Cartridge - The Mad Boogy (Germany) (Alt 1) (Program)     ✗      -     -
 VC Song-Cartridge - The Mad Boogy (Germany) (Program)             ✗      -     -
 VC Song-Cartridge - The Synthe-Song (Germany) (Program)           ✗      -     -
@@ -265,7 +265,7 @@ VIC Forth (World) (v1.1) (Program)                                ✗      -    
 VIC Graph (World) (Program)                                       ✗      -     -
 VIC Music Composer, The (Japan, USA) (Alt 1) (Program)            ✗      -     -
 VIC Music Composer, The (Japan, USA) (Program)                    ✗      -     -
-VIC Rabbit (World) (Program)                                      ✗      ✗     ✗
+VIC Rabbit (World) (Program) [b]                                  ✗      -     -
 VIC Radar Rat Race (Europe)                                       ✗      -     -
 VIC Radar Rat Race (Japan, USA)                                   ✗      -     -
 VIC Radar Rat Race (Japan, USA) (Alt 1)                           ✗      -     -
@@ -276,8 +276,8 @@ VIC Super Slot (Japan, USA) (Alt 1)                               ✗      -    
 VICMon (World) (SYS 24576) (Program)                              ✗      -     -
 VICMon (World) (SYS 45056) (Program)                              ✗      -     -
 VICMon 2 (World) (SYS 24576) (Program)                            ✗      -     -
-Victerm 40 (World) (Program)                                      ✗      -     -
 VicTool (World) (SYS 45056) (Program)                             ✗      -     -
+Victerm 40 (World) (Program)                                      ✗      -     -
 Video Vermin (World)                                              ✗      -     -
 Videomania (Europe)                                               ✗      -     -
 Videomania (Japan, USA)                                           ✗      -     -

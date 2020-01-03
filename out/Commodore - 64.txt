@@ -30,11 +30,11 @@ Astroblitz (USA, Europe)                                                        
 Attack of the Mutant Camels (USA)                                                                                ✗      -     -
 Avenger (Japan) (v02) (MAX)                                                                                      -      -     -
 Avenger (USA, Europe) (v03) (MAX)                                                                                -      -     -
+BC's Quest for Tires (USA, Europe)                                                                               ✗      -     -
 BadLands (USA, Europe)                                                                                           ✗      -     -
 Batman - The Movie (Europe)                                                                                      ✗      -     -
 Battle Command (Europe)                                                                                          ✗      -     -
 Battlezone (USA, Europe)                                                                                         ✗      -     -
-BC's Quest for Tires (USA, Europe)                                                                               ✗      -     -
 Beamrider (USA, Europe)                                                                                          ✗      -     -
 Big Bird's Funhouse (USA, Europe)                                                                                ✗      -     -
 Big Bird's Special Delivery (USA, Europe)                                                                        ✗      -     -
@@ -48,6 +48,7 @@ Bug Crusher (USA, Europe)                                                       
 C-64 Diagnostic (USA, Europe) (Rev 586220) (Program)                                                             ✗      -     -
 C-64 Import Test Diag (USA, Europe) (Program)                                                                    ✗      -     -
 C64-FORTH (USA, Europe) (Program)                                                                                ✗      -     -
+COMAL 80 (USA, Europe) (Program)                                                                                 ✗      -     -
 Calc Result - The Spread Sheet - Advanced (USA, Europe) (Program)                                                ✗      -     -
 Calc Result - The Spread Sheet - Easy (USA, Europe) (Alt 1) (Program)                                            ✗      ✗     ✗
 Calc Result - The Spread Sheet - Easy (USA, Europe) (Program)                                                    ✗      ✗     ✗
@@ -63,7 +64,6 @@ Clowns (Japan) (v02) (MAX)                                                      
 Coccinelle cherche dessinateur (France)                                                                          ✗      -     -
 Coco-Notes featuring... the Jazz Scats! (USA, Europe)                                                            ✗      -     -
 Colossus Chess + Silicon Syborgs + International Football (USA, Europe) (Super Games)                            ✗      -     -
-COMAL 80 (USA, Europe) (Program)                                                                                 ✗      -     -
 Commodore 64 Diagnostic (USA, Europe) (Program)                                                                  ✗      -     -
 Congo Bongo (USA, Europe)                                                                                        ✗      -     -
 Conrad Disk Booster (Germany) (Program)                                                                          ✗      -     -
@@ -120,11 +120,11 @@ Gridrunner (USA, Europe)                                                        
 Gridrunner II - Attack of the Mutant Camels (USA)                                                                ✗      -     -
 Gyruss (USA, Europe)                                                                                             ✗      -     -
 H.E.R.O. - Helicopter Emergency Rescue Operation (USA, Europe)                                                   ✗      -     -
-Halftime Battlin' Bands featuring... the Jazz Scats! (USA, Europe)                                               ✗      -     -
-Happy-Packer (Germany) (Program)                                                                                 ✗      -     -
 HES Mon 64 (USA, Europe) (Program)                                                                               ✗      -     -
 HES Mon 64 (USA, Europe) (Proto) (Program)                                                                       ✗      -     -
 HES Writer 64 (USA, Europe) (Program)                                                                            ✗      -     -
+Halftime Battlin' Bands featuring... the Jazz Scats! (USA, Europe)                                               ✗      -     -
+Happy-Packer (Germany) (Program)                                                                                 ✗      -     -
 Hop Along Counting (USA, Europe)                                                                                 ✗      -     -
 Human Skeleton Tutorial (USA)                                                                                    ✗      -     -
 Hypra-Disk-Modul II (Germany) (Program)                                                                          ✗      -     -
@@ -145,13 +145,15 @@ Kung-Fu Master (USA, Europe)                                                    
 Laser Cycles (USA, Europe)                                                                                       ✗      -     -
 Lazarian (USA, Europe)                                                                                           ✗      -     -
 Lazer Zone (USA, Europe)                                                                                         ✗      -     -
+LeMans (USA, Europe) (MAX)                                                                                       ✗      -     -
 Leader Board - Pro Golf Simulator (USA, Europe)                                                                  ✗      -     -
 Learning with Leeper (USA, Europe)                                                                               ✗      -     -
-LeMans (USA, Europe) (MAX)                                                                                       ✗      -     -
 Linking Logic (USA, Europe)                                                                                      ✗      -     -
 Lode Runner (USA, Europe)                                                                                        ✗      -     -
 Logic Levels (USA, Europe)                                                                                       ✗      -     -
 Lunar Leeper (USA, Europe)                                                                                       ✗      -     -
+MAX BASIC (Japan) (MAX)                                                                                          ✗      -     -
+MINI BASIC I (Japan) (MAX)                                                                                       ✗      -     -
 Magic Desk I - Type and File (USA, Europe) (CCS) (Program)                                                       ✗      ✗     ✗
 Magic Desk I - Type and File (USA, Europe) (VICE) (Program)                                                      ✗      -     -
 Magic Formel (USA, Europe) (v1.2) (Program)                                                                      ✗      -     -
@@ -159,13 +161,11 @@ Magic Voice (USA, Europe) (Program)                                             
 Mario's Brewery (USA, Europe)                                                                                    ✗      -     -
 MasterType (USA, Europe)                                                                                         ✗      -     -
 Math Mileage (USA, Europe)                                                                                       ✗      -     -
-MAX BASIC (Japan) (MAX)                                                                                          ✗      -     -
 Maze Man (USA, Europe)                                                                                           ✗      ✗     ✗
 Maze Master (USA, Europe)                                                                                        ✗      -     -
 Memory Manor (USA, Europe)                                                                                       ✗      -     -
 MicroProse Soccer + Rick Dangerous + Stunt Car Racer (Europe) (Power Play)                                       ✗      -     -
 Miner 2049er Starring Bounty Bob (USA, Europe)                                                                   ✗      ✗     ✗
-MINI BASIC I (Japan) (MAX)                                                                                       ✗      -     -
 Minnesota Fat's Pool Challenger (USA)                                                                            ✗      -     -
 Mole Attack (Japan) (v01) (MAX)                                                                                  ✗      -     -
 Money Wars (Japan) (v01) (MAX)                                                                                   ✗      -     -
@@ -191,6 +191,7 @@ Number Tumblers (USA, Europe)                                                   
 Oil's Well (USA, Europe)                                                                                         ✗      ✗     -
 Omega Race (Japan) (v02) (MAX)                                                                                   ✗      -     -
 Omega Race (USA, Europe)                                                                                         ✗      -     -
+PS-64 (Finland) (v2.00) (Program)                                                                                ✗      -     -
 Pac-Man (USA, Europe)                                                                                            ✗      -     -
 Pagefox (Finland) (Program)                                                                                      ✗      ✗     ✗
 Paint Brush (USA, Europe)                                                                                        ✗      -     -
@@ -210,8 +211,8 @@ Popeye (USA, Europe)                                                            
 Power Cartridge (USA, Europe) (Program)                                                                          ✗      -     -
 Princess and the Frog (USA, Europe)                                                                              ✗      -     -
 Professional Skateboard Simulator + Fast Food + Pro Tennis Simulator (USA, Europe) (Fun Play)                    ✗      -     -
-PS-64 (Finland) (v2.00) (Program)                                                                                ✗      -     -
 Q-bert (USA, Europe)                                                                                             ✗      -     -
+REX-Ramfloppy (USA, Europe) (v4.0) (Program)                                                                     ✗      -     -
 Rack 'em Up! (USA, Europe)                                                                                       ✗      -     -
 Radar Rat Race (Japan) (v02) (Alt 1) (MAX)                                                                       ✗      -     -
 Radar Rat Race (Japan) (v02) (MAX)                                                                               ✗      -     -
@@ -224,7 +225,6 @@ Rechenlowe, Der - Fit in Multiplikation und Division - 2.-3. Schuljahr (Germany)
 Rechenlowe, Der - Fit in Multiplikation und Division - 3.-4. Schuljahr (Germany)                                 ✗      -     -
 Rechtschreiblowe, Der - Fit in Rechtschreibung - 3.-4. Schuljahr (Germany)                                       ✗      -     -
 Retro Ball (USA, Europe)                                                                                         ✗      -     -
-REX-Ramfloppy (USA, Europe) (v4.0) (Program)                                                                     ✗      -     -
 River Raid (USA, Europe)                                                                                         ✗      -     -
 Road Race (Japan) (v02) (MAX)                                                                                    ✗      -     -
 RoboCop 2 (Europe)                                                                                               ✗      -     -

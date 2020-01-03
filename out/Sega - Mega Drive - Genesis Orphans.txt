@@ -1,6 +1,5 @@
 Sega - Mega Drive - Genesis Orphans
 
-.travis.yml
 Named_Boxarts/16 Zhang Ma Jiang (China) (Unl).png
 Named_Boxarts/3-in1 Super HangON - World Chhamp. Soccer - Columns.png
 Named_Boxarts/688 Attack Sub (Europe).png
@@ -54,6 +53,7 @@ Named_Boxarts/Brian Lara Cricket 96 (Europe) (March 1996).png
 Named_Boxarts/Bubsy II (Europe).png
 Named_Boxarts/Bubsy in Claws Encounters of the Furred Kind (Europe).png
 Named_Boxarts/Buck Rogers - Countdown to Doomsday (Europe).png
+Named_Boxarts/Budokan - The Martial Spirit (USA).png
 Named_Boxarts/Bugs Bunny in Double Trouble (Europe).png
 Named_Boxarts/Bulls versus Blazers and the NBA Playoffs (USA).png
 Named_Boxarts/Bulls versus Lakers and the NBA Playoffs (USA).png
@@ -383,6 +383,7 @@ Named_Boxarts/Shadowrun (Japan).png
 Named_Boxarts/Shaq-Fu (Europe).png
 Named_Boxarts/Shining in the Darkness (Japan).png
 Named_Boxarts/Shining in the Darkness (USA).png
+Named_Boxarts/Show do Milhao Volume 2 (Brazil) (Alt 1).png
 Named_Boxarts/Side Pocket (Japan).png
 Named_Boxarts/Simpsons, The - Bart vs the Space Mutants (USA, Europe).png
 Named_Boxarts/Simpsons, The - Bart's Nightmare (Europe).png
@@ -396,7 +397,6 @@ Named_Boxarts/Sonic Spinball (USA) (Alt 1).png
 Named_Boxarts/Sonic The Hedgehog (USA).png
 Named_Boxarts/Sonic The Hedgehog 2 (Europe).png
 Named_Boxarts/Sonic The Hedgehog 2 (USA).png
-Named_Boxarts/Sonic The Hedgehog 3 (Europe).png
 Named_Boxarts/Sonic _ Knuckles (Europe).png
 Named_Boxarts/Sonic _ Knuckles + Sonic The Hedgehog (Japan, Korea) (Sonic _ Knuckles + Sonic The Hedgehog (JK)).png
 Named_Boxarts/Sorcerer's Kingdom (USA) (v1.1).png
@@ -465,6 +465,8 @@ Named_Boxarts/Thunder Force III (USA).png
 Named_Boxarts/TinHead (USA) (Ballistic) (April, 1994).png
 Named_Boxarts/TinHead (USA).png
 Named_Boxarts/Tintin au Tibet (Europe) (En,Fr,De,Es,Nl,Sv).png
+Named_Boxarts/Tiny Toon Adventures - Acme All-Stars (Europe).png
+Named_Boxarts/Tiny Toon Adventures - Acme All-Stars (USA, Korea).png
 Named_Boxarts/ToeJam _ Earl (Europe).png
 Named_Boxarts/ToeJam _ Earl (World).png
 Named_Boxarts/ToeJam _ Earl in Panic on Funkotron (Asia).png
@@ -551,6 +553,7 @@ Named_Snaps/Bonanza Bros. (World) (Rev B).png
 Named_Snaps/Brett Hull Hockey '95 (USA).png
 Named_Snaps/Brian Lara Cricket 96 (Europe) (April 1996).png
 Named_Snaps/Brian Lara Cricket 96 (Europe) (March 1996).png
+Named_Snaps/Budokan - The Martial Spirit (USA).png
 Named_Snaps/Cadash (USA, Korea).png
 Named_Snaps/Captain Planet and the Planeteers (USA).png
 Named_Snaps/Castle of Illusion - Fushigi no Oshiro Daibouken (Japan).png
@@ -629,6 +632,7 @@ Named_Snaps/J. League Pro Striker (Japan) (v1.0).png
 Named_Snaps/J. League Pro Striker (Japan) (v1.3).png
 Named_Snaps/James Bond 007 - The Duel (Europe) (Rev A).png
 Named_Snaps/Jewel Master (USA, Europe) (Rev A).png
+Named_Snaps/Jim Power - The Arcade Game (USA) (Proto) [b].png
 Named_Snaps/Jiu Ji Ma Jiang II - Ye Yan Bian (China) (Unl).png
 Named_Snaps/JuJu Densetsu ~ Toki - Going Ape Spit (World) (Rev A).png
 Named_Snaps/JuJu Densetsu ~ Toki - Going Ape Spit (World).png
@@ -682,6 +686,7 @@ Named_Snaps/Pete Sampras Tennis (USA, Europe) (J-Cart) (MDST6636).png
 Named_Snaps/Pete Sampras Tennis (USA, Europe) (J-Cart) (MDSTEE 13).png
 Named_Snaps/Pete Sampras Tennis (USA, Europe) (J-Cart).png
 Named_Snaps/Phantom 2040 (Europe).png
+Named_Snaps/Pier Solar and the Great Architects (World) (En,Es,Pt) (Rev C) (Unl).png
 Named_Snaps/Pink Goes to Hollywood (USA) (Beta).png
 Named_Snaps/Pirates of Dark Water, The (USA) (January 1994).png
 Named_Snaps/Pirates of Dark Water, The (USA, Europe) (May 1994).png
@@ -711,6 +716,7 @@ Named_Snaps/SeaQuest DSV (Europe).png
 Named_Snaps/SeaQuest DSV (USA).png
 Named_Snaps/Sensible Soccer - International Edition (Europe) (En,Fr,De,It).png
 Named_Snaps/Shadowrun (Japan).png
+Named_Snaps/Show do Milhao Volume 2 (Brazil) (Alt 1).png
 Named_Snaps/Shui Hu - Feng Yun Zhuan (China) (Unl).png
 Named_Snaps/Shui Hu Zhuan (China) (Unl).png
 Named_Snaps/Side Pocket (Japan).png
@@ -718,9 +724,9 @@ Named_Snaps/Smurfs, The (Europe) (En,Fr,De,Es,It) (Rev A).png
 Named_Snaps/Soleil (Japan) (Beta).png
 Named_Snaps/Sonic 3D Blast (USA) (Beta).png
 Named_Snaps/Sonic Compilation ~ Sonic Classics (World) (v1.1).png
+Named_Snaps/Sonic Crackers (Japan) (Proto).png
 Named_Snaps/Sonic Spinball (USA) (Alt 1).png
 Named_Snaps/Sonic The Hedgehog 2 (World) (Beta 1).png
-Named_Snaps/Sonic The Hedgehog 3 (Europe).png
 Named_Snaps/Sonic _ Knuckles + Sonic The Hedgehog (Japan, Korea) (Sonic _ Knuckles + Sonic The Hedgehog (JK)).png
 Named_Snaps/Sorcerer's Kingdom (USA) (v1.1).png
 Named_Snaps/Spider-Man (USA) (Acclaim) (Beta) (Earlier).png
@@ -753,12 +759,15 @@ Named_Snaps/Sylvester _ Tweety in Cagey Capers (USA, Europe).png
 Named_Snaps/Sylvester and Tweety in Cagey Capers (USA) (Beta).png
 Named_Snaps/T2 - The Arcade Game (USA) (Beta).png
 Named_Snaps/Taiwan Daheng (China) (Unl).png
+Named_Snaps/Tanglewood (USA) (Unl).png
 Named_Snaps/Tecmo Cup (Japan) (Proto) [b].png
 Named_Snaps/Tecmo Super Bowl (USA) (October 1993).png
 Named_Snaps/Tecmo Super Bowl (USA) (September 1993).png
 Named_Snaps/TinHead (USA) (Ballistic) (April, 1994).png
 Named_Snaps/TinHead (USA).png
 Named_Snaps/Tintin au Tibet (Europe) (En,Fr,De,Es,Nl,Sv).png
+Named_Snaps/Tiny Toon Adventures - Acme All-Stars (Europe).png
+Named_Snaps/Tiny Toon Adventures - Acme All-Stars (USA, Korea).png
 Named_Snaps/ToeJam _ Earl (World).png
 Named_Snaps/ToeJam _ Earl in Panic on Funkotron (Asia).png
 Named_Snaps/Tom and Jerry - Frantic Antics (USA) (1993).png
@@ -820,6 +829,7 @@ Named_Titles/Bonanza Bros. (World) (Rev B).png
 Named_Titles/Brett Hull Hockey '95 (USA).png
 Named_Titles/Brian Lara Cricket 96 (Europe) (April 1996).png
 Named_Titles/Brian Lara Cricket 96 (Europe) (March 1996).png
+Named_Titles/Budokan - The Martial Spirit (USA).png
 Named_Titles/Cadash (USA, Korea).png
 Named_Titles/Captain Planet and the Planeteers (USA).png
 Named_Titles/Castle of Illusion - Fushigi no Oshiro Daibouken (Japan).png
@@ -898,6 +908,7 @@ Named_Titles/J. League Pro Striker (Japan) (v1.0).png
 Named_Titles/J. League Pro Striker (Japan) (v1.3).png
 Named_Titles/James Bond 007 - The Duel (Europe) (Rev A).png
 Named_Titles/Jewel Master (USA, Europe) (Rev A).png
+Named_Titles/Jim Power - The Arcade Game (USA) (Proto) [b].png
 Named_Titles/Jiu Ji Ma Jiang II - Ye Yan Bian (China) (Unl).png
 Named_Titles/JuJu Densetsu ~ Toki - Going Ape Spit (World) (Rev A).png
 Named_Titles/JuJu Densetsu ~ Toki - Going Ape Spit (World).png
@@ -980,6 +991,7 @@ Named_Titles/SeaQuest DSV (Europe).png
 Named_Titles/SeaQuest DSV (USA).png
 Named_Titles/Sensible Soccer - International Edition (Europe) (En,Fr,De,It).png
 Named_Titles/Shadowrun (Japan).png
+Named_Titles/Show do Milhao Volume 2 (Brazil) (Alt 1).png
 Named_Titles/Shui Hu - Feng Yun Zhuan (China) (Unl).png
 Named_Titles/Shui Hu Zhuan (China) (Unl).png
 Named_Titles/Side Pocket (Japan).png
@@ -987,9 +999,9 @@ Named_Titles/Smurfs, The (Europe) (En,Fr,De,Es,It) (Rev A).png
 Named_Titles/Soleil (Japan) (Beta).png
 Named_Titles/Sonic 3D Blast (USA) (Beta).png
 Named_Titles/Sonic Compilation ~ Sonic Classics (World) (v1.1).png
+Named_Titles/Sonic Crackers (Japan) (Proto).png
 Named_Titles/Sonic Spinball (USA) (Alt 1).png
 Named_Titles/Sonic The Hedgehog 2 (World) (Beta 1).png
-Named_Titles/Sonic The Hedgehog 3 (Europe).png
 Named_Titles/Sonic _ Knuckles + Sonic The Hedgehog (Japan, Korea) (Sonic _ Knuckles + Sonic The Hedgehog (JK)).png
 Named_Titles/Sorcerer's Kingdom (USA) (v1.1).png
 Named_Titles/Spider-Man (USA) (Acclaim) (Beta) (Earlier).png
@@ -1028,6 +1040,8 @@ Named_Titles/Tecmo Super Bowl (USA) (September 1993).png
 Named_Titles/TinHead (USA) (Ballistic) (April, 1994).png
 Named_Titles/TinHead (USA).png
 Named_Titles/Tintin au Tibet (Europe) (En,Fr,De,Es,Nl,Sv).png
+Named_Titles/Tiny Toon Adventures - Acme All-Stars (Europe).png
+Named_Titles/Tiny Toon Adventures - Acme All-Stars (USA, Korea).png
 Named_Titles/ToeJam _ Earl (World).png
 Named_Titles/ToeJam _ Earl in Panic on Funkotron (Asia).png
 Named_Titles/Tom and Jerry - Frantic Antics (USA) (1993).png

@@ -1,6 +1,5 @@
 Nintendo - Super Nintendo Entertainment System Orphans
 
-.travis.yml
 Named_Boxarts/ActRaiser (Japan) (BS).png
 Named_Boxarts/ActRaiser (Japan).png
 Named_Boxarts/ActRaiser 2 (Europe) (En,Fr,De).png
@@ -12,10 +11,10 @@ Named_Boxarts/Arkanoid - Doh It Again (Europe).png
 Named_Boxarts/Arkanoid - Doh It Again (Japan) (BS).png
 Named_Boxarts/Assault Suits Valken (Japan).png
 Named_Boxarts/Batman Returns (Japan) (Sample).png
-Named_Boxarts/Bazoe! Mahou Sekai (Japan).png
 Named_Boxarts/Big Sky Trooper (USA) (Beta).png
 Named_Boxarts/Bounty Sword (Japan) (Beta).png
 Named_Boxarts/Bubsy in - Claws Encounters of the Furred Kind (Europe) (Accolade).png
+Named_Boxarts/Chou Mahou Tairiku Wozz (Japan).png
 Named_Boxarts/Cutthroat Island (Europe).png
 Named_Boxarts/Cutthroat Island (USA).png
 Named_Boxarts/Cybernator (USA) (Beta).png
@@ -37,21 +36,28 @@ Named_Boxarts/J.League Soccer Prime Goal (Japan) (Rev 1).png
 Named_Boxarts/J.League Soccer Prime Goal (Japan).png
 Named_Boxarts/J.League Soccer Prime Goal 2 (Japan).png
 Named_Boxarts/J.League Soccer Prime Goal 3 (Japan).png
+Named_Boxarts/Joe _ Mac 2 - Lost in the Tropics (USA) (Beta).png
 Named_Boxarts/Kid Klown in Crazy Chase (USA) (Beta).png
 Named_Boxarts/Kikikai-kai - Nazo no Kuro Manteau (Japan).png
 Named_Boxarts/Kikikai-kai - Tsukiyo Soushi (Japan).png
 Named_Boxarts/King Arthur's World (USA) (Beta).png
 Named_Boxarts/King of the Monsters 2 - The Next Thing (Japan).png
+Named_Boxarts/Kishin Kourinden Oni (Japan) (Beta).png
+Named_Boxarts/Kishin Kourinden Oni (Japan).png
 Named_Boxarts/Lamborghini American Challenge (Europe).png
 Named_Boxarts/Lamborghini American Challenge (USA).png
+Named_Boxarts/Lost Vikings, The (USA) (Beta).png
 Named_Boxarts/Magical Quest Starring Mickey Mouse, The (USA) (Beta).png
 Named_Boxarts/Magical Quest con Topolino, The (Italy).png
+Named_Boxarts/Mazinger Z (Japan) (Putative Beta).png
 Named_Boxarts/Metal Jack (USA) (Proto).png
 Named_Boxarts/Michael Andretti's IndyCar Challenge (Japan).png
 Named_Boxarts/Michael Andretti's IndyCar Challenge (USA).png
 Named_Boxarts/Mickey to Minnie - Magical Adventure 2 (Japan) (Sample).png
+Named_Boxarts/Mortal Kombat (Europe) (Beta).png
 Named_Boxarts/Mortal Kombat 3 (USA) (Beta 1).png
 Named_Boxarts/Mortal Kombat 3 (USA) (Beta 2).png
+Named_Boxarts/Mr Nutz (USA) (En,Fr) (Beta).png
 Named_Boxarts/Mr. Bloopy - Saves the World (USA) (Proto) (1994-06-21 Level 11-G).png
 Named_Boxarts/Mr. Bloopy - Saves the World (USA) (Proto) (1994-06-21 Levels 000).png
 Named_Boxarts/Mr. Bloopy - Saves the World (USA) (Proto) (1994-06-22 Levels-B).png
@@ -59,15 +65,18 @@ Named_Boxarts/Mr. Tuff (USA) (En,Fr,De) (Proto) (1994-07-12).png
 Named_Boxarts/NBA Jam (USA) (Beta).png
 Named_Boxarts/NBA Pro Basketball - Bulls vs Blazers (Japan).png
 Named_Boxarts/NFL Football (Europe) (Proto).png
+Named_Boxarts/Nigel Mansell's World Championship Racing (Europe) (Gremlin Graphics).png
 Named_Boxarts/Nintendo Power Menu Program (Japan) (NP).png
-Named_Boxarts/Pagemaster, The (USA) (Beta 2).png
+Named_Boxarts/Pagemaster, The (USA) (Beta 1) [b].png
 Named_Boxarts/Pierre le Chef Is... Out to Lunch (Europe).png
 Named_Boxarts/Pikiinya! (Japan) (Beta).png
+Named_Boxarts/Pinball Dreams (Europe) (Beta 1).png
 Named_Boxarts/Pirates of Dark Water, The (Europe) (Sample).png
 Named_Boxarts/Pop'n TwinBee - Rainbow Bell Adventures (Germany).png
-Named_Boxarts/Power Instinct (USA) (Beta).png
 Named_Boxarts/PowerFest 94 - Ken Griffey Jr. Presents Major League Baseball (USA).png
+Named_Boxarts/Push-Over (USA) (En,Fr,De,Es) (Beta).png
 Named_Boxarts/Radical Rex (USA) (Beta).png
+Named_Boxarts/Road Runner (Europe) (Beta).png
 Named_Boxarts/Rock n' Roll Racing (Europe).png
 Named_Boxarts/Rock n' Roll Racing (Japan).png
 Named_Boxarts/Rock n' Roll Racing (USA) (Beta).png
@@ -86,12 +95,15 @@ Named_Boxarts/SimCity 2000 (Japan).png
 Named_Boxarts/Sound Factory (Japan) (En) (Proto).png
 Named_Boxarts/Speed Racer in My Most Dangerous Adventures (USA).png
 Named_Boxarts/Speedy Gonzales in Los Gatos Bandidos (USA) (Beta).png
+Named_Boxarts/Sports Illustrated Championship Football _ Baseball (USA) (Beta).png
 Named_Boxarts/Star Fox 2 (Japan) (Proto 1).png
 Named_Boxarts/Star Fox 2 (Japan) (Proto 4).png
 Named_Boxarts/Star Trek - Deep Space Nine - Crossroads of Time (USA) (Beta).png
 Named_Boxarts/Striker (Europe) (En,Fr,De,Es,It,Nl,Sv) (Beta).png
+Named_Boxarts/Super Bomber Man 3 (Japan) (Beta).png
 Named_Boxarts/Super Bomberman (USA) (Sample).png
 Named_Boxarts/Super Buster Bros. (USA) (Beta).png
+Named_Boxarts/Super Chase H.Q. (Europe).png
 Named_Boxarts/Super Chinese World 2 - Uchuuichi Butou Taikai (Japan) (Beta).png
 Named_Boxarts/Super Chinese World 2 - Uchuuichi Butou Taikai (Japan) (Sample).png
 Named_Boxarts/Super Drift Out - World Rally Championships (USA) (Proto).png
@@ -106,7 +118,6 @@ Named_Boxarts/Super Gussun Oyoyo (Japan) (Beta).png
 Named_Boxarts/Super Gussun Oyoyo (Japan) (Sample).png
 Named_Boxarts/Super James Pond II (Europe).png
 Named_Boxarts/Super Mario World 2 - Yoshi's Island (USA) (Rev 1).png
-Named_Boxarts/Super Off Road - The Baja (USA) (Beta).png
 Named_Boxarts/Super Okumanchouja Game (Japan) (Rev 1) (NP).png
 Named_Boxarts/Super Oozumou - Nessen Ooichiban (Japan) (Beta).png
 Named_Boxarts/Super Robot Taisen Gaiden - Masou Kishin - The Lord of Elemental (Japan).png
@@ -116,11 +127,16 @@ Named_Boxarts/Super Tetris 2 + Bombliss (Japan) (En) (Genteiban).png
 Named_Boxarts/TKO Super Championship Boxing (USA) (Sample).png
 Named_Boxarts/Tecmo Super NBA Basketball (USA) (Beta).png
 Named_Boxarts/Tecmo Super NBA Basketball (USA).png
+Named_Boxarts/Terminator, The (Europe) (Beta).png
 Named_Boxarts/Time Slip (Europe).png
 Named_Boxarts/Time Slip (USA).png
 Named_Boxarts/Tuff E Nuff (Europe).png
+Named_Boxarts/Ultima - Runes of Virtue II (USA) (Beta) (1994-xx-xx).png
+Named_Boxarts/Ultima VI - Itsuwari no Yogensha (Japan) (Beta).png
 Named_Boxarts/Val d'Isere Championship (France) (Beta) (1993-10-27).png
 Named_Boxarts/Val d'Isere Championship (France).png
+Named_Boxarts/Virtual Soccer (USA) (Proto) [b].png
+Named_Boxarts/Wild Guns (Japan) (Beta).png
 Named_Boxarts/Wild Guns (Japan) (Sample).png
 Named_Boxarts/World Class Rugby (France).png
 Named_Boxarts/World Soccer (Europe).png
@@ -187,7 +203,6 @@ Named_Snaps/BS Zelda no Densetsu - Inishie no Sekiban - Dai-4-wa (Japan) (BS).pn
 Named_Snaps/BS Zelda no Densetsu Map 2 - Dai-4-wa (Japan) (BS) [b].png
 Named_Snaps/Bakusho Mondai no Shirikon Chounaikai (Japan) (BS).png
 Named_Snaps/Batman Returns (Japan) (Sample).png
-Named_Snaps/Bazoe! Mahou Sekai (Japan).png
 Named_Snaps/Big Sky Trooper (USA) (Beta).png
 Named_Snaps/Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan) (ST).png
 Named_Snaps/Bokujou Monogatari (Japan) (BS) [b].png
@@ -196,6 +211,7 @@ Named_Snaps/Bokujou Monogatari - Da-4-wa (Japan) (BS).png
 Named_Snaps/Bubsy in - Claws Encounters of the Furred Kind (Europe) (Accolade).png
 Named_Snaps/Cheap de Gorgeous Vol. 1 (Japan) (BS).png
 Named_Snaps/Choplifter III - Rescue-Survive (USA) (Beta) [b].png
+Named_Snaps/Chou Mahou Tairiku Wozz (Japan).png
 Named_Snaps/Chrono Trigger - Character Zukan (Japan) (BS).png
 Named_Snaps/Chrono Trigger - Jet Bike Special (Japan) (BS).png
 Named_Snaps/Chrono Trigger - Music Library (Japan) (BS).png
@@ -264,6 +280,7 @@ Named_Snaps/J.League Soccer Prime Goal (Japan).png
 Named_Snaps/J.League Soccer Prime Goal 2 (Japan).png
 Named_Snaps/J.League Soccer Prime Goal 3 (Japan).png
 Named_Snaps/Jewel of Live (Japan) (BS).png
+Named_Snaps/Joe _ Mac 2 - Lost in the Tropics (USA) (Beta).png
 Named_Snaps/Kaizou Chounin Shubibinman Zero (Japan) (BS).png
 Named_Snaps/Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (BS).png
 Named_Snaps/Kid Klown no Crazy Chase (Japan) (BS).png
@@ -275,6 +292,8 @@ Named_Snaps/Kirby no Omochabako - Baseball (Japan) (BS).png
 Named_Snaps/Kirby no Omochabako - Guruguru Ball (Japan) (BS).png
 Named_Snaps/Kirby no Omochabako - Hoshi Kuzushi (Japan) (BS).png
 Named_Snaps/Kirby no Omochabako - Pinball (Japan) (BS).png
+Named_Snaps/Kishin Kourinden Oni (Japan) (Beta).png
+Named_Snaps/Kishin Kourinden Oni (Japan).png
 Named_Snaps/Kodomo Chousadan Mighty Pockets - Chousa 1 - Junk-ya Black no Ie (Japan) (BS).png
 Named_Snaps/Kodomo Chousadan Mighty Pockets - Chousa 2 - Hanzai Toshi Big Apple (Japan) (BS).png
 Named_Snaps/Kodomo Chousadan Mighty Pockets - Chousa 3 - Kyakusen Queen Patra no Nazo (Japan) (BS).png
@@ -288,25 +307,30 @@ Named_Snaps/Let's Pachinko Nante Gindama 2 (Japan) (BS).png
 Named_Snaps/Let's Pachinko Nante Gindama 3 (Japan) (BS).png
 Named_Snaps/Let's Pachinko Nante Gindama 4 (Japan) (BS).png
 Named_Snaps/Lord Monarch (Japan) (BS).png
+Named_Snaps/Lost Vikings, The (USA) (Beta).png
 Named_Snaps/Lufia _ The Fortress of Doom (USA).png
 Named_Snaps/MARIA - Part 1 (Japan) (BS).png
 Named_Snaps/Magical Quest Starring Mickey Mouse, The (USA) (Beta).png
 Named_Snaps/Magical Quest con Topolino, The (Italy).png
 Named_Snaps/Mario Paint - BS Ban (Japan) (BS).png
 Named_Snaps/Mario Paint - Yuushou Naizou Ban (Japan) (BS).png
+Named_Snaps/Mazinger Z (Japan) (Putative Beta).png
 Named_Snaps/Media Strawberry Volume 12 (Japan) (BS).png
 Named_Snaps/Michael Andretti's IndyCar Challenge (Japan).png
 Named_Snaps/Michael Andretti's IndyCar Challenge (USA).png
 Named_Snaps/Mickey to Minnie - Magical Adventure 2 (Japan) (Sample).png
 Named_Snaps/Monopoly 2 BS - Red Cup (Japan) (BS).png
 Named_Snaps/Monopoly 2 BS - Yellow Cup (Japan) (BS).png
+Named_Snaps/Mortal Kombat (Europe) (Beta).png
 Named_Snaps/Mortal Kombat 3 (USA) (Beta 2).png
+Named_Snaps/Mr Nutz (USA) (En,Fr) (Beta).png
 Named_Snaps/Mr. Bloopy - Saves the World (USA) (Proto) (1994-06-21 Level 11-G).png
 Named_Snaps/Mr. Bloopy - Saves the World (USA) (Proto) (1994-06-21 Levels 000).png
 Named_Snaps/Mr. Bloopy - Saves the World (USA) (Proto) (1994-06-22 Levels-B).png
 Named_Snaps/Mr. Tuff (USA) (En,Fr,De) (Proto) (1994-07-12).png
 Named_Snaps/NBA Pro Basketball - Bulls vs Blazers (Japan).png
 Named_Snaps/NFL Football (Europe) (Proto).png
+Named_Snaps/Nigel Mansell's World Championship Racing (Europe) (Gremlin Graphics).png
 Named_Snaps/Nintama Rantarou 2 (Japan) (BS).png
 Named_Snaps/Nintendo Power Magazine 107 (Japan) (BS).png
 Named_Snaps/Nintendo Power Menu Program (Japan) (NP).png
@@ -316,17 +340,20 @@ Named_Snaps/Pac-in-Time (Europe) (Beta).png
 Named_Snaps/Pac-in-Time (Europe).png
 Named_Snaps/Pac-in-Time (Japan).png
 Named_Snaps/Pac-in-Time (USA).png
+Named_Snaps/Pagemaster, The (USA) (Beta 1) [b].png
 Named_Snaps/Panel de Pon - Event '98 (Japan) (BS).png
 Named_Snaps/Picachu (World) (Unl) (Pirate).png
 Named_Snaps/Pierre le Chef Is... Out to Lunch (Europe).png
+Named_Snaps/Pinball Dreams (Europe) (Beta 1).png
 Named_Snaps/Poi Poi Ninja World (Japan) (ST).png
 Named_Snaps/Pokekame Magazine (Japan) (BS).png
 Named_Snaps/Pop'n TwinBee (Japan) (Putative Sample) [b].png
 Named_Snaps/Pop'n TwinBee - Rainbow Bell Adventures (Germany).png
-Named_Snaps/Power Instinct (USA) (Beta).png
+Named_Snaps/Push-Over (USA) (En,Fr,De,Es) (Beta).png
 Named_Snaps/Puyo Puyo Tsuu BS Ban (Japan) (BS).png
 Named_Snaps/Radical Dreamers - Nusume Nai Houseki (Japan) (BS).png
 Named_Snaps/Radical Rex (USA) (Beta).png
+Named_Snaps/Road Runner (Europe) (Beta).png
 Named_Snaps/Rock n' Roll Racing (Europe).png
 Named_Snaps/Rock n' Roll Racing (Japan).png
 Named_Snaps/Rock n' Roll Racing (USA) (Beta).png
@@ -341,6 +368,13 @@ Named_Snaps/SD Gundam Generation - Ichinen Sensouki (Japan) (ST).png
 Named_Snaps/SD Gundam Generation - Zanscare Senki (Japan) (ST).png
 Named_Snaps/SD Ultra Battle - Seven Densetsu (Japan) (ST).png
 Named_Snaps/SD Ultra Battle - Ultraman Densetsu (Japan) (ST).png
+Named_Snaps/SM Choukyoushi Hitomi (Japan) (Unl) [b].png
+Named_Snaps/SM Choukyoushi Hitomi - Bangai Hen (Japan) (Unl) [b].png
+Named_Snaps/SM Choukyoushi Hitomi - Bangai Hen 2 - Maki no Love Love Panic (Japan) (Unl) [b].png
+Named_Snaps/SM Choukyoushi Hitomi - Test Version (Japan) (Unl) [b].png
+Named_Snaps/SM Choukyoushi Hitomi Vol. 2 - Trial Version (Japan) (Unl) [b].png
+Named_Snaps/SM Choukyoushi Hitomi Vol. 2 Remix (Japan) (Unl) [b].png
+Named_Snaps/SM Choukyoushi Hitomi Vol. 3 - Test Version (Japan) (Unl) [b].png
 Named_Snaps/Same Game - Chara Cassette (Japan) (BSROM).png
 Named_Snaps/Same Game - Chara Data Shuu (Japan) (BSROM).png
 Named_Snaps/Satella Walker 2 - Sate Bou o Sukuidase! (Japan) (BS).png
@@ -363,6 +397,8 @@ Named_Snaps/Sousa Sentai Wappers - Soushuuhen (Japan) (BS).png
 Named_Snaps/Special Tee Shot (Japan) (BS).png
 Named_Snaps/Speed Racer in My Most Dangerous Adventures (USA).png
 Named_Snaps/Speedy Gonzales in Los Gatos Bandidos (USA) (Beta).png
+Named_Snaps/Spider-Man and the X-Men in Arcade's Revenge (USA) (Beta) [b].png
+Named_Snaps/Sports Illustrated Championship Football _ Baseball (USA) (Beta).png
 Named_Snaps/Spriggan Powered BS - Prelude (Japan) (BS).png
 Named_Snaps/Star Fox 2 (Japan) (Proto 1).png
 Named_Snaps/Star Fox 2 (Japan) (Proto 4).png
@@ -370,7 +406,9 @@ Named_Snaps/Star Trek - Deep Space Nine - Crossroads of Time (USA) (Beta).png
 Named_Snaps/Striker (Europe) (En,Fr,De,Es,It,Nl,Sv) (Beta).png
 Named_Snaps/Super Bomber Man (Japan) (En) (BS).png
 Named_Snaps/Super Bomber Man 2 (Japan) (BS).png
+Named_Snaps/Super Bomber Man 3 (Japan) (Beta).png
 Named_Snaps/Super Buster Bros. (USA) (Beta).png
+Named_Snaps/Super Chase H.Q. (Europe).png
 Named_Snaps/Super Chinese World 2 - Uchuuichi Butou Taikai (Japan) (Sample).png
 Named_Snaps/Super Drift Out - World Rally Championships (USA) (Proto).png
 Named_Snaps/Super E.D.F. (Japan) (BS).png
@@ -387,7 +425,6 @@ Named_Snaps/Super Mahjong Taikai (Japan) (BS).png
 Named_Snaps/Super Mario World 2 - Yoshi's Island (USA) (Rev 1).png
 Named_Snaps/Super Nazo Puyo - Rulue no Roux (Japan) (BS).png
 Named_Snaps/Super Ninja-kun (Japan) (BS).png
-Named_Snaps/Super Off Road - The Baja (USA) (Beta).png
 Named_Snaps/Super Robot Taisen Gaiden - Masou Kishin - The Lord of Elemental (Japan).png
 Named_Snaps/Super Star Wars (USA) (Beta 2) [b].png
 Named_Snaps/Super Tetris 2 + Bombliss (Japan) (En) (Genteiban).png
@@ -397,21 +434,28 @@ Named_Snaps/Sutte Hakkun - 98 Event Version (Japan) (BS).png
 Named_Snaps/Sutte Hakkun - BS Version 2 (Japan) (xxxx-06-03) (BS).png
 Named_Snaps/Sutte Hakkun - BS Version 2 (Japan) (xxxx-10-08) (BS).png
 Named_Snaps/Sutte Hakkun - Event Version (Japan) (BS).png
+Named_Snaps/Sydney Hunter and the Caverns of Death (USA) (Unl).png
 Named_Snaps/Sylvester and Tweety (USA) (Proto 1).png
 Named_Snaps/TKO Super Championship Boxing (USA) (Sample).png
 Named_Snaps/Table Game Daisyugo!! Shougi Mahjong Hanafuda (Japan) (BS).png
+Named_Snaps/Taiwan 16 Mahjong II - Horoscope Girls Edition (Hong Kong) (Unl) [b].png
 Named_Snaps/Tamori no Picross (Japan) (6-13) (BS).png
 Named_Snaps/Tamori no Picross (Japan) (6-26) (BS) [b].png
 Named_Snaps/Tecmo Super NBA Basketball (USA).png
+Named_Snaps/Terminator, The (Europe) (Beta).png
 Named_Snaps/Time Slip (Europe).png
 Named_Snaps/Time Slip (USA).png
 Named_Snaps/Treasure Conflix (Japan) (BS).png
 Named_Snaps/Tuff E Nuff (Europe).png
+Named_Snaps/Ultima - Runes of Virtue II (USA) (Beta) (1994-xx-xx).png
+Named_Snaps/Ultima VI - Itsuwari no Yogensha (Japan) (Beta).png
 Named_Snaps/Undake 30 Same Game Daisakusen - Mario Version (Japan).png
 Named_Snaps/Val d'Isere Championship (France) (Beta) (1993-10-27).png
 Named_Snaps/Val d'Isere Championship (France).png
+Named_Snaps/Virtual Soccer (USA) (Proto) [b].png
 Named_Snaps/Waiwai Check - 3-7 Gou (Japan) (BS).png
 Named_Snaps/Wario no Mori - Futatabi (Japan) (BS).png
+Named_Snaps/Wild Guns (Japan) (Beta).png
 Named_Snaps/Wild Guns (Japan) (Sample).png
 Named_Snaps/Wizardry V - Saika no Chuushin (Japan) (BS).png
 Named_Snaps/World Class Rugby (France).png
@@ -486,7 +530,6 @@ Named_Titles/BS Zelda no Densetsu - Inishie no Sekiban - Dai-4-wa (Japan) (BS).p
 Named_Titles/BS Zelda no Densetsu Map 2 - Dai-4-wa (Japan) (BS) [b].png
 Named_Titles/Bakusho Mondai no Shirikon Chounaikai (Japan) (BS).png
 Named_Titles/Batman Returns (Japan) (Sample).png
-Named_Titles/Bazoe! Mahou Sekai (Japan).png
 Named_Titles/Beethoven's 2nd (USA) (Beta).png
 Named_Titles/Big Sky Trooper (USA) (Beta).png
 Named_Titles/Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan) (ST).png
@@ -496,6 +539,7 @@ Named_Titles/Bokujou Monogatari - Da-4-wa (Japan) (BS).png
 Named_Titles/Bubsy in - Claws Encounters of the Furred Kind (Europe) (Accolade).png
 Named_Titles/Cheap de Gorgeous Vol. 1 (Japan) (BS).png
 Named_Titles/Choplifter III - Rescue-Survive (USA) (Beta) [b].png
+Named_Titles/Chou Mahou Tairiku Wozz (Japan).png
 Named_Titles/Chrono Trigger - Character Zukan (Japan) (BS).png
 Named_Titles/Chrono Trigger - Jet Bike Special (Japan) (BS).png
 Named_Titles/Chrono Trigger - Music Library (Japan) (BS).png
@@ -564,6 +608,7 @@ Named_Titles/J.League Soccer Prime Goal (Japan).png
 Named_Titles/J.League Soccer Prime Goal 2 (Japan).png
 Named_Titles/J.League Soccer Prime Goal 3 (Japan).png
 Named_Titles/Jewel of Live (Japan) (BS).png
+Named_Titles/Joe _ Mac 2 - Lost in the Tropics (USA) (Beta).png
 Named_Titles/Kaizou Chounin Shubibinman Zero (Japan) (BS).png
 Named_Titles/Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (BS).png
 Named_Titles/Kid Klown no Crazy Chase (Japan) (BS).png
@@ -575,6 +620,8 @@ Named_Titles/Kirby no Omochabako - Baseball (Japan) (BS).png
 Named_Titles/Kirby no Omochabako - Guruguru Ball (Japan) (BS).png
 Named_Titles/Kirby no Omochabako - Hoshi Kuzushi (Japan) (BS).png
 Named_Titles/Kirby no Omochabako - Pinball (Japan) (BS).png
+Named_Titles/Kishin Kourinden Oni (Japan) (Beta).png
+Named_Titles/Kishin Kourinden Oni (Japan).png
 Named_Titles/Kodomo Chousadan Mighty Pockets - Chousa 1 - Junk-ya Black no Ie (Japan) (BS).png
 Named_Titles/Kodomo Chousadan Mighty Pockets - Chousa 2 - Hanzai Toshi Big Apple (Japan) (BS).png
 Named_Titles/Kodomo Chousadan Mighty Pockets - Chousa 3 - Kyakusen Queen Patra no Nazo (Japan) (BS).png
@@ -588,25 +635,30 @@ Named_Titles/Let's Pachinko Nante Gindama 2 (Japan) (BS).png
 Named_Titles/Let's Pachinko Nante Gindama 3 (Japan) (BS).png
 Named_Titles/Let's Pachinko Nante Gindama 4 (Japan) (BS).png
 Named_Titles/Lord Monarch (Japan) (BS).png
+Named_Titles/Lost Vikings, The (USA) (Beta).png
 Named_Titles/Lufia _ The Fortress of Doom (USA).png
 Named_Titles/MARIA - Part 1 (Japan) (BS).png
 Named_Titles/Magical Quest Starring Mickey Mouse, The (USA) (Beta).png
 Named_Titles/Magical Quest con Topolino, The (Italy).png
 Named_Titles/Mario Paint - BS Ban (Japan) (BS).png
 Named_Titles/Mario Paint - Yuushou Naizou Ban (Japan) (BS).png
+Named_Titles/Mazinger Z (Japan) (Putative Beta).png
 Named_Titles/Media Strawberry Volume 12 (Japan) (BS).png
 Named_Titles/Michael Andretti's IndyCar Challenge (Japan).png
 Named_Titles/Michael Andretti's IndyCar Challenge (USA).png
 Named_Titles/Mickey to Minnie - Magical Adventure 2 (Japan) (Sample).png
 Named_Titles/Monopoly 2 BS - Red Cup (Japan) (BS).png
 Named_Titles/Monopoly 2 BS - Yellow Cup (Japan) (BS).png
+Named_Titles/Mortal Kombat (Europe) (Beta).png
 Named_Titles/Mortal Kombat 3 (USA) (Beta 2).png
+Named_Titles/Mr Nutz (USA) (En,Fr) (Beta).png
 Named_Titles/Mr. Bloopy - Saves the World (USA) (Proto) (1994-06-21 Level 11-G).png
 Named_Titles/Mr. Bloopy - Saves the World (USA) (Proto) (1994-06-21 Levels 000).png
 Named_Titles/Mr. Bloopy - Saves the World (USA) (Proto) (1994-06-22 Levels-B).png
 Named_Titles/Mr. Tuff (USA) (En,Fr,De) (Proto) (1994-07-12).png
 Named_Titles/NBA Pro Basketball - Bulls vs Blazers (Japan).png
 Named_Titles/NFL Football (Europe) (Proto).png
+Named_Titles/Nigel Mansell's World Championship Racing (Europe) (Gremlin Graphics).png
 Named_Titles/Nintama Rantarou 2 (Japan) (BS).png
 Named_Titles/Nintendo Power Magazine 107 (Japan) (BS).png
 Named_Titles/Nintendo Power Menu Program (Japan) (NP).png
@@ -616,17 +668,20 @@ Named_Titles/Pac-in-Time (Europe) (Beta).png
 Named_Titles/Pac-in-Time (Europe).png
 Named_Titles/Pac-in-Time (Japan).png
 Named_Titles/Pac-in-Time (USA).png
+Named_Titles/Pagemaster, The (USA) (Beta 1) [b].png
 Named_Titles/Panel de Pon - Event '98 (Japan) (BS).png
 Named_Titles/Picachu (World) (Unl) (Pirate).png
 Named_Titles/Pierre le Chef Is... Out to Lunch (Europe).png
+Named_Titles/Pinball Dreams (Europe) (Beta 1).png
 Named_Titles/Poi Poi Ninja World (Japan) (ST).png
 Named_Titles/Pokekame Magazine (Japan) (BS).png
 Named_Titles/Pop'n TwinBee (Japan) (Putative Sample) [b].png
 Named_Titles/Pop'n TwinBee - Rainbow Bell Adventures (Germany).png
-Named_Titles/Power Instinct (USA) (Beta).png
+Named_Titles/Push-Over (USA) (En,Fr,De,Es) (Beta).png
 Named_Titles/Puyo Puyo Tsuu BS Ban (Japan) (BS).png
 Named_Titles/Radical Dreamers - Nusume Nai Houseki (Japan) (BS).png
 Named_Titles/Radical Rex (USA) (Beta).png
+Named_Titles/Road Runner (Europe) (Beta).png
 Named_Titles/Rock n' Roll Racing (Europe).png
 Named_Titles/Rock n' Roll Racing (Japan).png
 Named_Titles/Rock n' Roll Racing (USA) (Beta).png
@@ -641,6 +696,13 @@ Named_Titles/SD Gundam Generation - Ichinen Sensouki (Japan) (ST).png
 Named_Titles/SD Gundam Generation - Zanscare Senki (Japan) (ST).png
 Named_Titles/SD Ultra Battle - Seven Densetsu (Japan) (ST).png
 Named_Titles/SD Ultra Battle - Ultraman Densetsu (Japan) (ST).png
+Named_Titles/SM Choukyoushi Hitomi (Japan) (Unl) [b].png
+Named_Titles/SM Choukyoushi Hitomi - Bangai Hen (Japan) (Unl) [b].png
+Named_Titles/SM Choukyoushi Hitomi - Bangai Hen 2 - Maki no Love Love Panic (Japan) (Unl) [b].png
+Named_Titles/SM Choukyoushi Hitomi - Test Version (Japan) (Unl) [b].png
+Named_Titles/SM Choukyoushi Hitomi Vol. 2 - Trial Version (Japan) (Unl) [b].png
+Named_Titles/SM Choukyoushi Hitomi Vol. 2 Remix (Japan) (Unl) [b].png
+Named_Titles/SM Choukyoushi Hitomi Vol. 3 - Test Version (Japan) (Unl) [b].png
 Named_Titles/Same Game - Chara Cassette (Japan) (BSROM).png
 Named_Titles/Same Game - Chara Data Shuu (Japan) (BSROM).png
 Named_Titles/Satella Walker 2 - Sate Bou o Sukuidase! (Japan) (BS).png
@@ -663,6 +725,8 @@ Named_Titles/Sousa Sentai Wappers - Soushuuhen (Japan) (BS).png
 Named_Titles/Special Tee Shot (Japan) (BS).png
 Named_Titles/Speed Racer in My Most Dangerous Adventures (USA).png
 Named_Titles/Speedy Gonzales in Los Gatos Bandidos (USA) (Beta).png
+Named_Titles/Spider-Man and the X-Men in Arcade's Revenge (USA) (Beta) [b].png
+Named_Titles/Sports Illustrated Championship Football _ Baseball (USA) (Beta).png
 Named_Titles/Spriggan Powered BS - Prelude (Japan) (BS).png
 Named_Titles/Star Fox 2 (Japan) (Proto 1).png
 Named_Titles/Star Fox 2 (Japan) (Proto 4).png
@@ -670,7 +734,9 @@ Named_Titles/Star Trek - Deep Space Nine - Crossroads of Time (USA) (Beta).png
 Named_Titles/Striker (Europe) (En,Fr,De,Es,It,Nl,Sv) (Beta).png
 Named_Titles/Super Bomber Man (Japan) (En) (BS).png
 Named_Titles/Super Bomber Man 2 (Japan) (BS).png
+Named_Titles/Super Bomber Man 3 (Japan) (Beta).png
 Named_Titles/Super Buster Bros. (USA) (Beta).png
+Named_Titles/Super Chase H.Q. (Europe).png
 Named_Titles/Super Chinese World 2 - Uchuuichi Butou Taikai (Japan) (Sample).png
 Named_Titles/Super Drift Out - World Rally Championships (USA) (Proto).png
 Named_Titles/Super E.D.F. (Japan) (BS).png
@@ -687,7 +753,6 @@ Named_Titles/Super Mahjong Taikai (Japan) (BS).png
 Named_Titles/Super Mario World 2 - Yoshi's Island (USA) (Rev 1).png
 Named_Titles/Super Nazo Puyo - Rulue no Roux (Japan) (BS).png
 Named_Titles/Super Ninja-kun (Japan) (BS).png
-Named_Titles/Super Off Road - The Baja (USA) (Beta).png
 Named_Titles/Super Robot Taisen Gaiden - Masou Kishin - The Lord of Elemental (Japan).png
 Named_Titles/Super Star Wars (USA) (Beta 2) [b].png
 Named_Titles/Super Tetris 2 + Bombliss (Japan) (En) (Genteiban).png
@@ -700,18 +765,24 @@ Named_Titles/Sutte Hakkun - Event Version (Japan) (BS).png
 Named_Titles/Sylvester and Tweety (USA) (Proto 1).png
 Named_Titles/TKO Super Championship Boxing (USA) (Sample).png
 Named_Titles/Table Game Daisyugo!! Shougi Mahjong Hanafuda (Japan) (BS).png
+Named_Titles/Taiwan 16 Mahjong II - Horoscope Girls Edition (Hong Kong) (Unl) [b].png
 Named_Titles/Tamori no Picross (Japan) (6-13) (BS).png
 Named_Titles/Tamori no Picross (Japan) (6-26) (BS) [b].png
 Named_Titles/Tecmo Super NBA Basketball (USA).png
+Named_Titles/Terminator, The (Europe) (Beta).png
 Named_Titles/Time Slip (Europe).png
 Named_Titles/Time Slip (USA).png
 Named_Titles/Treasure Conflix (Japan) (BS).png
 Named_Titles/Tuff E Nuff (Europe).png
+Named_Titles/Ultima - Runes of Virtue II (USA) (Beta) (1994-xx-xx).png
+Named_Titles/Ultima VI - Itsuwari no Yogensha (Japan) (Beta).png
 Named_Titles/Undake 30 Same Game Daisakusen - Mario Version (Japan).png
 Named_Titles/Val d'Isere Championship (France) (Beta) (1993-10-27).png
 Named_Titles/Val d'Isere Championship (France).png
+Named_Titles/Virtual Soccer (USA) (Proto) [b].png
 Named_Titles/Waiwai Check - 3-7 Gou (Japan) (BS).png
 Named_Titles/Wario no Mori - Futatabi (Japan) (BS).png
+Named_Titles/Wild Guns (Japan) (Beta).png
 Named_Titles/Wild Guns (Japan) (Sample).png
 Named_Titles/Wizardry V - Saika no Chuushin (Japan) (BS).png
 Named_Titles/World Class Rugby (France).png

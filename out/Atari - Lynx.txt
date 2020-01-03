@@ -1,9 +1,9 @@
 Atari - Lynx Missing
 
-Boxarts    83/90  92.22%
-Snaps      83/90  92.22%
-Titles     83/90  92.22%
-Total    249/270  92.22%
+Boxarts    86/92  93.48%
+Snaps      86/92  93.48%
+Titles     86/92  93.48%
+Total    258/276  93.48%
 
 Name                                                              Boxart  Snap  Title
 A.P.B. (USA, Europe)                                                 -      -     -
@@ -37,7 +37,7 @@ Fat Bobby (USA, Europe)                                              -      -   
 Fidelity Ultimate Chess Challenge, The (USA, Europe)                 -      -     -
 Gates of Zendocon (USA, Europe)                                      -      -     -
 Gauntlet - The Third Encounter (USA, Europe)                         -      -     -
-Gauntlet - The Third Encounter (USA, Europe) (Beta) (1990-06-04)     ✗      ✗     ✗
+Gauntlet - The Third Encounter (USA, Europe) (Beta) (1990-06-04)     -      -     -
 Gordo 106 (USA, Europe)                                              -      -     -
 Hard Drivin' (USA, Europe)                                           -      -     -
 Hockey (USA, Europe)                                                 -      -     -
@@ -53,9 +53,10 @@ Lemmings (USA, Europe)                                               -      -   
 Lexis (USA)                                                          -      -     -
 Loopz (USA) (Proto)                                                  -      -     -
 Lynx Casino (USA, Europe)                                            -      -     -
-Lynx II Production Test Program (USA)                                ✗      ✗     ✗
-Malibu Bikini Volleyball (USA, Europe)                               -      -     -
+Lynx II Production Test Program (USA)                                -      -     -
+Lynx II Production Test Program (USA) (v0.02) (Proto)                ✗      ✗     ✗
 Malibu Bikini Volleyball (USA) (Beta) (1993-05-11)                   ✗      ✗     ✗
+Malibu Bikini Volleyball (USA, Europe)                               -      -     -
 Marlboro Go! (Europe) (Proto)                                        -      -     -
 Ms. Pac-Man (USA, Europe)                                            -      -     -
 NFL Football (USA, Europe)                                           -      -     -
@@ -67,7 +68,8 @@ Pinball Jam (USA, Europe)                                            -      -   
 Pit-Fighter (USA, Europe)                                            -      -     -
 Power Factor (USA, Europe)                                           -      -     -
 QIX (USA, Europe)                                                    -      -     -
-Raiden (USA)                                                         ✗      ✗     ✗
+Raiden (USA)                                                         -      -     -
+Raiden (USA) (v3.0) (Beta)                                           ✗      ✗     ✗
 Rampage (USA, Europe)                                                -      -     -
 Rampart (USA, Europe)                                                -      -     -
 Road Riot 4WD (USA) (Proto 1)                                        ✗      ✗     ✗

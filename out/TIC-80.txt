@@ -1,241 +1,693 @@
 TIC-80 Missing
 
-Boxarts    0/233    0.00%
-Snaps      0/233    0.00%
-Titles   233/233  100.00%
-Total    233/699   33.33%
+Boxarts   684/685  99.85%
+Snaps      18/685   2.63%
+Titles    222/685  32.41%
+Total    924/2055  44.96%
 
-Name                                 Boxart  Snap  Title
-12 Paces Joe                            ✗      ✗     -
-15 Minutes To Live                      ✗      ✗     -
-2 Player Bomberman                      ✗      ✗     -
-2048 TIC-80 Version                     ✗      ✗     -
-8 Bit Panda                             ✗      ✗     -
-8 Bit Panda 3D Glasses Edition          ✗      ✗     -
-8 Bit Panda Cheat Version               ✗      ✗     -
-8 Bit Panda Invisable Editon            ✗      ✗     -
-8 Bit Panda Virtual Boy Edition         ✗      ✗     -
-8 Bit Panda Whiteout Challenge          ✗      ✗     -
-A Blobfish Out Of Water                 ✗      ✗     -
-A Clicker                               ✗      ✗     -
-Air Hockey                              ✗      ✗     -
-Amrogue                                 ✗      ✗     -
-Ant Racer                               ✗      ✗     -
-Ark2 K S Arithmetic                     ✗      ✗     -
-Asprin                                  ✗      ✗     -
-Asteroids                               ✗      ✗     -
-Balloon And Cactus A Love Story         ✗      ✗     -
-Balloon Punch                           ✗      ✗     -
-Balmung                                 ✗      ✗     -
-Bare Bones                              ✗      ✗     -
-Battle                                  ✗      ✗     -
-Bejeweled                               ✗      ✗     -
-Binary Road                             ✗      ✗     -
-Bird Jumper                             ✗      ✗     -
-Bitmaze                                 ✗      ✗     -
-Blast 80                                ✗      ✗     -
-Block Walk                              ✗      ✗     -
-Blue S Dance Show                       ✗      ✗     -
-Boom Bushes                             ✗      ✗     -
-Bouncelot                               ✗      ✗     -
-Breakout Test                           ✗      ✗     -
-Brickgame                               ✗      ✗     -
-Call Of The Trees                       ✗      ✗     -
-Can T Stop                              ✗      ✗     -
-Candytic                                ✗      ✗     -
-Cap Hell                                ✗      ✗     -
-Cars                                    ✗      ✗     -
-Cauliflower Power                       ✗      ✗     -
-Celeste                                 ✗      ✗     -
-Character Generator Shooting            ✗      ✗     -
-City Building Similuator                ✗      ✗     -
-Clicker                                 ✗      ✗     -
-Comets                                  ✗      ✗     -
-Conway S Game Of Life                   ✗      ✗     -
-Cookie Clicker                          ✗      ✗     -
-Cookie Clicker The First Version        ✗      ✗     -
-Cool And New RPG                        ✗      ✗     -
-Cpong                                   ✗      ✗     -
-Crab Run                                ✗      ✗     -
-Croco Craze                             ✗      ✗     -
-Cubes Charmer                           ✗      ✗     -
-Curse Of Kildren                        ✗      ✗     -
-Dangerous Dave                          ✗      ✗     -
-Deadly Skeltons                         ✗      ✗     -
-Door                                    ✗      ✗     -
-Doors Of Doom                           ✗      ✗     -
-Double Sided                            ✗      ✗     -
-Dreas Up                                ✗      ✗     -
-Dungeon Walker                          ✗      ✗     -
-Eden The Fox Prototype Beta             ✗      ✗     -
-Entropipes                              ✗      ✗     -
-Entropipes Graphics Mod                 ✗      ✗     -
-Everdawn                                ✗      ✗     -
-Evolution                               ✗      ✗     -
-Eyesoul                                 ✗      ✗     -
-First Game                              ✗      ✗     -
-Flappy Bird                             ✗      ✗     -
-Flappy Bird Test                        ✗      ✗     -
-Flappy Bird Tic Edition                 ✗      ✗     -
-Flippy                                  ✗      ✗     -
-Flock Block                             ✗      ✗     -
-Flower Farm                             ✗      ✗     -
-Fluffy Balloon                          ✗      ✗     -
-FPS80                                   ✗      ✗     -
-FPS80 Cheat Version                     ✗      ✗     -
-Frogger                                 ✗      ✗     -
-Gametest                                ✗      ✗     -
-Genius                                  ✗      ✗     -
-Genjuumin Shooting                      ✗      ✗     -
-Ghost N Coin                            ✗      ✗     -
-Giah                                    ✗      ✗     -
-Google Dino                             ✗      ✗     -
-Gravitron Experiment                    ✗      ✗     -
-Gruniozerca Carrot Hunt                 ✗      ✗     -
-Guess The Number                        ✗      ✗     -
-Gusdraw                                 ✗      ✗     -
-Hangerjam                               ✗      ✗     -
-Health Care                             ✗      ✗     -
-Hello Kitty S Maze                      ✗      ✗     -
-Herbert The Ghost                       ✗      ✗     -
-Hi Ex                                   ✗      ✗     -
-I Wonder If I Had A Younger Sister      ✗      ✗     -
-Impossible FPS80                        ✗      ✗     -
-Impossible Pong                         ✗      ✗     -
-Indiana Jones 1                         ✗      ✗     -
-Jetpac                                  ✗      ✗     -
-Katzu                                   ✗      ✗     -
-Kirbong                                 ✗      ✗     -
-Kitty Guy S Keyboard Training           ✗      ✗     -
-Komet                                   ✗      ✗     -
-Lander                                  ✗      ✗     -
-Landing                                 ✗      ✗     -
-Lavender Woods                          ✗      ✗     -
-Lcd Tetris                              ✗      ✗     -
-Level Down                              ✗      ✗     -
-Lights Off                              ✗      ✗     -
-Little Bat                              ✗      ✗     -
-Lost In Space                           ✗      ✗     -
-M3                                      ✗      ✗     -
-Mainfighter                             ✗      ✗     -
-Mainfighter Graphics Mod                ✗      ✗     -
-Mario                                   ✗      ✗     -
-Mario Bros                              ✗      ✗     -
-Minecraft                               ✗      ✗     -
-Miners                                  ✗      ✗     -
-Minesweeper                             ✗      ✗     -
-Missile Rain                            ✗      ✗     -
-Mole                                    ✗      ✗     -
-Mouzi Ii                                ✗      ✗     -
-Music Studio                            ✗      ✗     -
-Mystery House                           ✗      ✗     -
-Newtototone                             ✗      ✗     -
-Nexus Space                             ✗      ✗     -
-Nights Score Attack TIC-80 Ver          ✗      ✗     -
-Oneminuteescape                         ✗      ✗     -
-Orbis                                   ✗      ✗     -
-Oseo                                    ✗      ✗     -
-Ourgame English Translation             ✗      ✗     -
-Paint                                   ✗      ✗     -
-Pastry Clicker                          ✗      ✗     -
-Patato Man                              ✗      ✗     -
-Penguin Adventure                       ✗      ✗     -
-Pixel Jump                              ✗      ✗     -
-Pixel Jump Ii Release                   ✗      ✗     -
-Pokemongol Igo                          ✗      ✗     -
-Pokey The Golden Hedgehog 2 Alpha 2     ✗      ✗     -
-Pokey The Hedgehog                      ✗      ✗     -
-Polylines                               ✗      ✗     -
-Pong In Tic80                           ✗      ✗     -
-Pony Pong Is Actually Breakout          ✗      ✗     -
-Powder Game                             ✗      ✗     -
-Powder Sandbox v10                      ✗      ✗     -
-Problems                                ✗      ✗     -
-Pseudo 3D Road                          ✗      ✗     -
-Push Em                                 ✗      ✗     -
-Quest For Glory                         ✗      ✗     -
-Racer Z                                 ✗      ✗     -
-Raycast Racer                           ✗      ✗     -
-Rayportal                               ✗      ✗     -
-Rc Flight Simulator                     ✗      ✗     -
-Rebonde                                 ✗      ✗     -
-Rebound 2 2 Revelations                 ✗      ✗     -
-Rebound 2 Electric Boogaloo             ✗      ✗     -
-Release Chasing                         ✗      ✗     -
-Rescuecopter                            ✗      ✗     -
-RPG                                     ✗      ✗     -
-RPS                                     ✗      ✗     -
-Run Run Run                             ✗      ✗     -
-Sardelny                                ✗      ✗     -
-Secret Agents                           ✗      ✗     -
-Shadow Over The Twelve Lands            ✗      ✗     -
-Sheep Run                               ✗      ✗     -
-Shootanoid                              ✗      ✗     -
-Shredder Boy                            ✗      ✗     -
-Simon                                   ✗      ✗     -
-Simple Maze Game                        ✗      ✗     -
-Simple Snake Game                       ✗      ✗     -
-Simplepong                              ✗      ✗     -
-Slide Color                             ✗      ✗     -
-Slider                                  ✗      ✗     -
-Small Snake                             ✗      ✗     -
-Snake Game                              ✗      ✗     -
-Space Pet Rescue                        ✗      ✗     -
-Space Race Df 9                         ✗      ✗     -
-Space Thing                             ✗      ✗     -
-Spacer Shiper Shooter                   ✗      ✗     -
-Starship                                ✗      ✗     -
-Stele                                   ✗      ✗     -
-Stop The Slimes                         ✗      ✗     -
-Street Shooter                          ✗      ✗     -
-Streko                                  ✗      ✗     -
-Structure Mania                         ✗      ✗     -
-Stuck In A Timeloop                     ✗      ✗     -
-Super Hexagon                           ✗      ✗     -
-Super Monkeyball                        ✗      ✗     -
-Supernova                               ✗      ✗     -
-Tag                                     ✗      ✗     -
-Tanks                                   ✗      ✗     -
-Ten                                     ✗      ✗     -
-Terror Instinct                         ✗      ✗     -
-Tetris Update 1                         ✗      ✗     -
-Text Invaders                           ✗      ✗     -
-Text Invaders Whiteout Edition          ✗      ✗     -
-The Dark Tower                          ✗      ✗     -
-The Hunt For Some Gold                  ✗      ✗     -
-The Right Coin                          ✗      ✗     -
-The Sky House                           ✗      ✗     -
-TheTextQuest                            ✗      ✗     -
-This Is My Mech                         ✗      ✗     -
-Tic Command                             ✗      ✗     -
-Tic Pong                                ✗      ✗     -
-Tic Sweeper 0 9                         ✗      ✗     -
-Tic Tac Toe                             ✗      ✗     -
-Tic War                                 ✗      ✗     -
-Ticaruga                                ✗      ✗     -
-Tichess                                 ✗      ✗     -
-Ticlines                                ✗      ✗     -
-Ticris                                  ✗      ✗     -
-Tim Mit                                 ✗      ✗     -
-Tiny Dungeon                            ✗      ✗     -
-Tiny Life                               ✗      ✗     -
-Tiny Trek                               ✗      ✗     -
-Titlescreen                             ✗      ✗     -
-Toetac Tic                              ✗      ✗     -
-Tsnake                                  ✗      ✗     -
-Turns Of War                            ✗      ✗     -
-Unknown Grounds                         ✗      ✗     -
-Unko Hunter Yakiu                       ✗      ✗     -
-Vogeljagd                               ✗      ✗     -
-Vvvvvv TIC-80 Demake                    ✗      ✗     -
-Wall Ball                               ✗      ✗     -
-Warg                                    ✗      ✗     -
-Warm Wheels                             ✗      ✗     -
-Wcq No 6                                ✗      ✗     -
-West Trade                              ✗      ✗     -
-Westfarm                                ✗      ✗     -
-Where S Ditto                           ✗      ✗     -
-Witchem Up                              ✗      ✗     -
-Wizards                                 ✗      ✗     -
-Worm Game                               ✗      ✗     -
-Yitzi                                   ✗      ✗     -
+Name                                                   Boxart  Snap  Title
+15                                                        -      ✗     ✗
+1 Bit Data                                                -      ✗     ✗
+12 Paces Joe                                              -      -     -
+15 Minutes To Live                                        -      -     -
+2 Bit Sprite                                              -      ✗     ✗
+2 Player Bomberman                                        -      -     -
+2048 TIC-80 Version                                       -      -     ✗
+29 In 1                                                   -      ✗     ✗
+29 In 1 Color                                             -      ✗     ✗
+29 In 1 Geometry                                          -      ✗     ✗
+32 Colours                                                -      ✗     ✗
+3D Demo                                                   -      ✗     ✗
+3D Test                                                   -      ✗     ✗
+4 Guys 4 Player Hello World Cartridge                     -      ✗     ✗
+5 Bit Square Wave 8 Bit Square Wave Sound Test            -      ✗     ✗
+5 New Palettes In Palette Demo                            -      ✗     ✗
+8 Bit Panda                                               -      -     -
+8 Bit Panda 3D Glasses Edition                            -      -     -
+8 Bit Panda Cheat Version                                 -      -     -
+8 Bit Panda Invisable Editon                              -      -     -
+8 Bit Panda Ost Oscilloscope View                         -      ✗     ✗
+8 Bit Panda Virtual Boy Edition                           -      -     -
+8 Bit Panda Whiteout Challenge                            -      -     -
+99 In 1 10 11 17                                          -      ✗     ✗
+A Blobfish Out Of Water                                   -      ✗     -
+A Clicker                                                 -      ✗     -
+A Couple Of Songs I Made Today                            -      ✗     ✗
+A Great Of Scanline Tricks                                -      ✗     ✗
+Aabb For Babbies                                          -      ✗     ✗
+Adventure Game Sample                                     -      ✗     ✗
+Air Hockey                                                -      ✗     -
+Aligned Movement Demo                                     -      ✗     ✗
+All Mario Blocks                                          -      ✗     ✗
+Amrogue                                                   -      ✗     -
+An Arpeggio Song                                          -      ✗     ✗
+Animation                                                 -      ✗     ✗
+Animation Demo                                            -      ✗     ✗
+Another Noise                                             -      ✗     ✗
+Ant Racer                                                 -      ✗     -
+Ark2 K S Arithmetic                                       -      ✗     -
+Asprin                                                    ✗      ✗     -
+Asteroids                                                 -      ✗     -
+Atari Bass Demo                                           -      ✗     ✗
+Auto Tile                                                 -      ✗     ✗
+Bad Apple                                                 -      ✗     ✗
+Ball                                                      -      ✗     ✗
+Ballistic                                                 -      ✗     ✗
+Balloon And Cactus A Love Story                           -      ✗     -
+Balloon Punch                                             -      ✗     -
+Balmung                                                   -      -     -
+Bananaparty                                               -      ✗     ✗
+Bare Bones                                                -      ✗     -
+Barrys Tea For Beginners                                  -      ✗     ✗
+Bars                                                      -      ✗     ✗
+Battle                                                    -      ✗     -
+Bb                                                        -      ✗     ✗
+Bejeweled                                                 -      ✗     -
+Bfs Pathfinding                                           -      ✗     ✗
+Bigspr                                                    -      ✗     ✗
+Binary Road                                               -      ✗     -
+Bird Jumper                                               -      ✗     -
+Bitmaze                                                   -      ✗     -
+Black Onyax                                               -      ✗     ✗
+Blast 80                                                  -      ✗     -
+Block Walk                                                -      ✗     -
+Blue S Dance Show                                         -      ✗     -
+Boom Bushes                                               -      ✗     -
+Bouncelot                                                 -      ✗     -
+Bouncing Ball                                             -      ✗     ✗
+Bouncing Ball Demo                                        -      ✗     ✗
+Bouncing Pong                                             -      ✗     ✗
+Bouncing Thing                                            -      ✗     ✗
+Bouncy Ball                                               -      ✗     ✗
+Boxing                                                    -      ✗     ✗
+Breakout Test                                             -      ✗     -
+Brickgame                                                 -      ✗     -
+Btn Demo Lua                                              -      ✗     ✗
+Btn Demo Moon                                             -      ✗     ✗
+Btnp Demo Lua                                             -      ✗     ✗
+Btnp Demo Moon                                            -      ✗     ✗
+Bump Collision Detection Library                          -      ✗     ✗
+Button Timing Reaction Game                               -      ✗     ✗
+Byte Magazine                                             -      ✗     ✗
+Calc                                                      -      ✗     ✗
+Call Of The Trees                                         -      ✗     -
+Camera Tutorial                                           -      ✗     ✗
+Can T Stop                                                -      ✗     -
+Candytic                                                  -      ✗     -
+Cannon In D                                               -      ✗     ✗
+Cap Hell                                                  -      ✗     -
+Cars                                                      -      ✗     -
+Cat At Home                                               -      ✗     ✗
+Cat Puking Simulator                                      -      ✗     ✗
+Cauliflower Power                                         -      -     -
+Cave Story Moonsong                                       -      ✗     ✗
+Celeste                                                   -      ✗     -
+Character Generator Shooting                              -      ✗     -
+Chest Demo                                                -      ✗     ✗
+Chiptune Made By Rushjet1                                 -      ✗     ✗
+Circ Demo 2 Lua                                           -      ✗     ✗
+Circ Demo 2 Moon                                          -      ✗     ✗
+Circ Demo Lua                                             -      ✗     ✗
+Circ Demo Moon                                            -      ✗     ✗
+Circb Demo Lua                                            -      ✗     ✗
+Circb Demo Moon                                           -      ✗     ✗
+Circle Animation Demo                                     -      ✗     ✗
+Circle Motion                                             -      ✗     ✗
+City Building Similuator                                  -      ✗     -
+Clicker                                                   -      ✗     -
+Clingy                                                    -      ✗     ✗
+Cls Demo Lua                                              -      ✗     ✗
+Cls Demo Moon                                             -      ✗     ✗
+Code Wars 80                                              -      ✗     ✗
+Code Wars 80 L S                                          -      ✗     ✗
+Coin Grab                                                 -      ✗     ✗
+Coin Rush                                                 -      ✗     ✗
+Collision Sample                                          -      ✗     ✗
+Color Fight                                               -      ✗     ✗
+Color Functions                                           -      ✗     ✗
+Color Wars                                                -      ✗     ✗
+Comet Apocalypse                                          -      ✗     ✗
+Comets                                                    -      ✗     -
+Compare Original And Edited Images                        -      ✗     ✗
+Conway S Game Of Life                                     -      ✗     -
+Cook It                                                   -      ✗     ✗
+Cookie Clicker                                            -      ✗     -
+Cookie Clicker The First Version                          -      ✗     -
+Cool And New RPG                                          -      ✗     -
+Coordinate System Demo Lua                                -      ✗     ✗
+Coordinate System Demo Moon                               -      ✗     ✗
+Copper Bar                                                -      ✗     ✗
+Cos                                                       -      ✗     ✗
+Cpc Cauldron Music                                        -      ✗     ✗
+Cpc464 Roland In Time Music                               -      ✗     ✗
+Cpong                                                     -      ✗     -
+Crab Run                                                  -      ✗     -
+Crazy Bus Music Port                                      -      ✗     ✗
+Croco Craze                                               -      ✗     -
+Cross Scanline Demo                                       -      ✗     ✗
+Crt Filter Demo                                           -      ✗     ✗
+Cubes Charmer                                             -      ✗     -
+Curse Of Kildren                                          -      ✗     -
+Dangerous Dave                                            -      ✗     ✗
+David The Run                                             -      ✗     ✗
+Deadly Skeltons                                           -      ✗     -
+Deltarune Rude Buster                                     -      ✗     ✗
+Deltarune The World Revolving                             -      ✗     ✗
+Demo Clock                                                -      ✗     ✗
+Demo Song                                                 -      ✗     ✗
+Demo1                                                     -      ✗     ✗
+Demogen Number One                                        -      ✗     ✗
+Desert Simulator 2018                                     -      ✗     ✗
+Desertsim18 Quakelike3D                                   -      ✗     ✗
+Does He Know The Way                                      -      ✗     ✗
+Dog Venture                                               -      ✗     ✗
+Door                                                      -      ✗     -
+Doors Of Doom                                             -      ✗     -
+Double Sided                                              -      ✗     -
+Drag N Drop Demo                                          -      ✗     ✗
+Dragon Slanyer                                            -      ✗     ✗
+Dreas Up                                                  -      ✗     -
+Duck Game 11                                              -      ✗     ✗
+Duckling                                                  -      ✗     ✗
+Duder Musical                                             -      ✗     ✗
+Duder Musical 2                                           -      ✗     ✗
+Duder Musical 2 Extended Full Coming Soon                 -      ✗     ✗
+Duder Musical 2 Extended Full Version                     -      ✗     ✗
+Dungeon Walker                                            -      ✗     -
+Dvd Screensaver                                           -      ✗     ✗
+Eden The Fox Prototype Beta                               -      ✗     -
+Eggcat Demo                                               -      ✗     ✗
+Elementary Cellular Automaton                             -      ✗     ✗
+Embers                                                    -      ✗     ✗
+Emoji                                                     -      ✗     ✗
+Entropipes                                                -      ✗     -
+Entropipes Graphics Mod                                   -      ✗     -
+Escape Room                                               -      ✗     ✗
+Everdawn                                                  -      ✗     -
+Evolution                                                 -      ✗     -
+Ewpratten Animation                                       -      ✗     ✗
+Exit Api Command Demo Lua                                 -      ✗     ✗
+Experiment Screen Moving                                  -      ✗     ✗
+Eyesoul                                                   -      ✗     -
+FPS80                                                     -      -     -
+FPS80 Cheat Version                                       -      ✗     -
+Fac                                                       -      ✗     ✗
+Fade Test                                                 -      ✗     ✗
+Faded                                                     -      ✗     ✗
+Fallspire                                                 -      ✗     ✗
+Fast Textured Raycaster                                   -      ✗     ✗
+Fennel Life                                               -      ✗     ✗
+Fire                                                      -      ✗     ✗
+Fire Alarm                                                -      ✗     ✗
+Fire Demo                                                 -      ✗     ✗
+Fire Pen                                                  -      ✗     ✗
+First Game                                                -      ✗     -
+Flappy Bird                                               -      ✗     -
+Flappy Bird TIC Edition                                   -      ✗     ✗
+Flappy Bird Test                                          -      ✗     -
+Flippy                                                    -      ✗     -
+Flock Block                                               -      ✗     -
+Floppy Bird                                               -      ✗     ✗
+Flower Farm                                               -      ✗     -
+Fluffy Balloon                                            -      ✗     -
+Flux Tweening Library                                     -      ✗     ✗
+Flying Toasters                                           -      ✗     ✗
+Font Lua                                                  -      ✗     ✗
+Font Moon                                                 -      ✗     ✗
+Font Sinus Scroll                                         -      ✗     ✗
+Foubars                                                   -      ✗     ✗
+Frequency Divider Demo                                    -      ✗     ✗
+Frequency Sweep Demo                                      -      ✗     ✗
+Frogger                                                   -      ✗     -
+Funky Stars                                               -      ✗     ✗
+Game                                                      -      ✗     ✗
+Game Of Life                                              -      ✗     ✗
+Game Title                                                -      ✗     ✗
+Gamepad Show                                              -      ✗     ✗
+Gametest                                                  -      ✗     -
+Genetic Algorithm                                         -      ✗     ✗
+Genius                                                    -      ✗     -
+Genjuumin Shooting                                        -      ✗     -
+Ghost N Coin                                              -      ✗     -
+Ghostmark                                                 -      ✗     ✗
+Giah                                                      -      ✗     -
+Glitch Word Search                                        -      ✗     ✗
+Google Dino                                               -      ✗     -
+Gradient Demo                                             -      ✗     ✗
+Gravitron Experiment                                      -      ✗     -
+Grid Based Camera                                         -      ✗     ✗
+Grow Quickly                                              -      ✗     ✗
+Gruniozerca Carrot Hunt                                   -      ✗     -
+Guess The Number                                          -      ✗     -
+Guitar Sound In TIC-80                                    -      ✗     ✗
+Gusdraw                                                   -      ✗     -
+Gxscc Not A Medley                                        -      ✗     ✗
+Hack Code From Cover                                      -      ✗     ✗
+Hallways                                                  -      ✗     ✗
+Hangerjam                                                 -      ✗     -
+Happy December Day                                        -      ✗     ✗
+Happy New Year                                            -      ✗     ✗
+Happytune Jpsalt                                          -      ✗     ✗
+Health Care                                               -      ✗     -
+Hello Bot                                                 -      ✗     ✗
+Hello Kitty S Maze                                        -      ✗     -
+Hello World                                               -      ✗     ✗
+Hello World Cartridge With Minecraft Wool Palette         -      ✗     ✗
+Hello World Corrupted Editon                              -      ✗     ✗
+Hello World Creepypasta                                   -      ✗     ✗
+Hello World V2                                            -      ✗     ✗
+Herbert The Ghost                                         -      ✗     -
+Hi Ex                                                     -      ✗     -
+Hold Button Demo                                          -      ✗     ✗
+Homing Ships Particles                                    -      ✗     ✗
+Hyperscale Engine Demo                                    -      ✗     ✗
+I Wonder If I Had A Younger Sister                        -      ✗     -
+IIIII                                                     -      ✗     ✗
+Ice Cream Truck                                           -      ✗     ✗
+Iichan Demo                                               -      ✗     ✗
+Image Decoder                                             -      ✗     ✗
+Impossible FPS80                                          -      ✗     -
+Impossible Pong                                           -      ✗     -
+Inception                                                 -      ✗     ✗
+Indiana Jones 1                                           -      ✗     -
+Infinite Map                                              -      ✗     ✗
+Init Demo Lua                                             -      ✗     ✗
+Init Demo Moon                                            -      ✗     ✗
+Input Tester                                              -      ✗     ✗
+Its A Final Countdown                                     -      ✗     ✗
+Jetpac                                                    -      ✗     -
+Johannes Itten Colour Contrast Demo                       -      ✗     ✗
+Kana Moji                                                 -      ✗     ✗
+Katzu                                                     -      ✗     -
+Kde Demo                                                  -      ✗     ✗
+Kirbong                                                   -      ✗     -
+Kitty Guy S Keyboard Training                             -      ✗     -
+Komet                                                     -      ✗     -
+Lander                                                    -      ✗     -
+Landing                                                   -      ✗     -
+Langton S Ant                                             -      ✗     ✗
+Lavender Woods                                            -      ✗     -
+Lcd Tetris                                                -      ✗     -
+Ld39                                                      -      ✗     ✗
+Lda 1800 Sta8300 G Sound Chip Music Test                  -      ✗     ✗
+Legend Of Zola Tune Wip                                   -      ✗     ✗
+Level Down                                                -      ✗     -
+Lights Off                                                -      ✗     -
+Line Demo                                                 -      ✗     ✗
+Line Demo Lua                                             -      ✗     ✗
+Line Demo Moon                                            -      ✗     ✗
+Lines                                                     -      ✗     ✗
+Linetri                                                   -      ✗     ✗
+Linetri 2                                                 -      ✗     ✗
+Lissajous Curve                                           -      ✗     ✗
+Little Bat                                                -      ✗     -
+Lost In Space                                             -      ✗     -
+Love Story                                                -      ✗     ✗
+Lua Vararg Demo                                           -      ✗     ✗
+Lume Functions Geared Towards Gamedev                     -      ✗     ✗
+Lzw Image Compression Demo                                -      ✗     ✗
+M3                                                        -      ✗     -
+Madphysicist                                              -      ✗     ✗
+Magicjs                                                   -      ✗     ✗
+Magiclua                                                  -      ✗     ✗
+Mainfighter                                               -      ✗     -
+Mainfighter Graphics Mod                                  -      ✗     -
+Mandelbrot And Julia Fractals                             -      ✗     ✗
+Mandelbrot Set                                            -      ✗     ✗
+Map Mset Test                                             -      ✗     ✗
+Map Mset Test 2                                           -      ✗     ✗
+Map Rotation                                              -      ✗     ✗
+Map Smooth Scrolling                                      -      ✗     ✗
+Map Trick Flashing Opacity                                -      ✗     ✗
+Mario                                                     -      ✗     -
+Mario Bros                                                -      -     -
+Mario Bros Demo                                           -      ✗     ✗
+Master Nama 8000 In Hello World                           -      ✗     ✗
+Master Nama Intro                                         -      ✗     ✗
+Math Noise                                                -      ✗     ✗
+Math Sign Simulation Lua                                  -      ✗     ✗
+Matrix Effect                                             -      ✗     ✗
+Maze Generator                                            -      ✗     ✗
+Mega Rocket                                               -      ✗     ✗
+Megaforce Song                                            -      ✗     ✗
+Megalovania Music Demo                                    -      ✗     ✗
+Megaman Demo                                              -      ✗     ✗
+Memory Puzzle                                             -      ✗     ✗
+Message Demo                                              -      ✗     ✗
+Messing Around With Sprite                                -      ✗     ✗
+Messy Mess                                                -      ✗     ✗
+Metaball Demo                                             -      ✗     ✗
+Metallica Covers                                          -      ✗     ✗
+Micro Mages Title Screen                                  -      ✗     ✗
+Micro Platformer Starter Kit                              -      ✗     ✗
+Microrom Pre Alpha 0 00                                   -      ✗     ✗
+Min Max Demo Lua                                          -      ✗     ✗
+Minecraft                                                 -      ✗     -
+Minecraft Platform Player Test                            -      ✗     ✗
+Minefield                                                 -      ✗     ✗
+Miners                                                    -      ✗     -
+Minesweeper                                               -      ✗     -
+Minicraft 2 D                                             -      ✗     ✗
+Missile Rain                                              -      ✗     -
+Mml Play Sample                                           -      ✗     ✗
+Mode7                                                     -      ✗     ✗
+Modelrenderer                                             -      ✗     ✗
+Mole                                                      -      ✗     -
+Moteur De Collision RPG                                   -      ✗     ✗
+Motion                                                    -      ✗     ✗
+Motion 2                                                  -      ✗     ✗
+Motion Graphics 1                                         -      ✗     ✗
+Motion Graphics 2                                         -      ✗     ✗
+Mouse Demo 2 Lua                                          -      ✗     ✗
+Mouse Demo 2 Moon                                         -      ✗     ✗
+Mouse Demo Lua                                            -      ✗     ✗
+Mouse Demo Moon                                           -      ✗     ✗
+Mouse Detection Demo                                      -      ✗     ✗
+Mouse Recorder                                            -      ✗     ✗
+Mouzi Ii                                                  -      ✗     -
+Mset Demo Lua                                             -      ✗     ✗
+Mset Demo Moon                                            -      ✗     ✗
+Multiplied Sine Waves Demo                                -      ✗     ✗
+Munching Squares                                          -      ✗     ✗
+Music Box                                                 -      ✗     ✗
+Music Demo                                                -      ✗     ✗
+Music Demo 2                                              -      ✗     ✗
+Music Demo 3                                              -      ✗     ✗
+Music Studio                                              -      ✗     -
+Music Test                                                -      ✗     ✗
+My First Authentic Chip Short                             -      ✗     ✗
+Mystery House                                             -      ✗     -
+Mystery House J                                           -      ✗     ✗
+New Type Of Music                                         -      ✗     ✗
+Newtototone                                               -      ✗     -
+Nexus Space                                               -      ✗     -
+Ngon Sample                                               -      ✗     ✗
+Nights Score Attack TIC-80 Ver                            -      ✗     -
+Ninja Outrun                                              -      ✗     ✗
+Noise Uses Sound                                          -      ✗     ✗
+Nyanyanyanyanyanyanya                                     -      ✗     ✗
+OOPClass Inheritance                                      -      ✗     ✗
+OneMinuteEscape                                           -      ✗     ✗
+Onqpno                                                    -      ✗     ✗
+Orbis                                                     -      ✗     -
+Orbit Simulator 0 1                                       -      ✗     ✗
+Oseo                                                      -      ✗     -
+Ourgame English Translation                               -      ✗     -
+Paint                                                     -      ✗     -
+Palette Demo                                              -      ✗     ✗
+Palette Demo Moon                                         -      ✗     ✗
+Parallax Text Scroll                                      -      ✗     ✗
+Paralympic Race                                           -      ✗     ✗
+Particle Generator                                        -      ✗     ✗
+Particle Test                                             -      ✗     ✗
+Particle Test 2                                           -      ✗     ✗
+Pastry Clicker                                            -      ✗     -
+Pasture                                                   -      ✗     ✗
+Patato Man                                                -      ✗     -
+Patato Man Mashup Cannon In D Music                       -      ✗     ✗
+Patnashki                                                 -      ✗     ✗
+Pc Speaker In TIC-80                                      -      ✗     ✗
+Peek Poke Demo Lua                                        -      ✗     ✗
+Peek Poke Demo Moon                                       -      ✗     ✗
+Penguin Adventure                                         -      ✗     -
+Penguinland Fuss                                          -      ✗     ✗
+Person Display                                            -      ✗     ✗
+Phline Function Demo                                      -      ✗     ✗
+Pickaxe Demo                                              -      ✗     ✗
+Pilot8 Soundtrack Conversion                              -      ✗     ✗
+Pix Ball                                                  -      ✗     ✗
+Pix Demo 2 Lua                                            -      ✗     ✗
+Pix Demo 2 Moon                                           -      ✗     ✗
+Pix Demo Lua                                              -      ✗     ✗
+Pix Demo Moon                                             -      ✗     ✗
+Pixel Jump                                                -      ✗     -
+Pixel Jump Ii Release                                     -      ✗     -
+Pixel Mouse Sandbox                                       -      ✗     ✗
+Plasma Test                                               -      ✗     ✗
+Platformer Demo                                           -      ✗     ✗
+Platformer Tutorial                                       -      ✗     ✗
+Pmem Demo Lua                                             -      ✗     ✗
+Pmem Demo Moon                                            -      ✗     ✗
+Points Within A Rectangular Domain                        -      ✗     ✗
+Poke Demo 2 Lua                                           -      ✗     ✗
+Poke Demo 2 Moon                                          -      ✗     ✗
+Poke Demo Lua                                             -      ✗     ✗
+Poke Demo Moon                                            -      ✗     ✗
+Poke4 Demo Lua                                            -      ✗     ✗
+Poke4 Demo Moon                                           -      ✗     ✗
+Pokemongol Igo                                            -      ✗     -
+Pokey The Golden Hedgehog 2 Alpha 2                       -      ✗     -
+Pokey The Hedgehog                                        -      ✗     -
+Pokey The Hedgehog 2 Alpha 2 Ost Oscilloscope View        -      ✗     ✗
+Polka                                                     -      ✗     ✗
+Polylines                                                 -      ✗     -
+Pong In Tic80                                             -      ✗     -
+Pony Pong Is Actually Breakout                            -      ✗     -
+Portal Caster                                             -      ✗     ✗
+Powder Game                                               -      ✗     -
+Powder Sandbox v10                                        -      ✗     -
+Pridx Betcher Ost Music Enormous Paro                     -      ✗     ✗
+Pridx Betcher Ost Music Mayor Chase                       -      ✗     ✗
+Print Demo Lua                                            -      ✗     ✗
+Print Demo Moon                                           -      ✗     ✗
+Print Demo Scale                                          -      ✗     ✗
+Probablyanunplayablegame Tic                              -      ✗     ✗
+Problems                                                  -      ✗     -
+Pseudo 3D Road                                            -      ✗     -
+Pslib                                                     -      ✗     ✗
+Psychedemoica                                             -      ✗     ✗
+Pumpkin Halloween Demo                                    -      ✗     ✗
+Push Em                                                   -      ✗     -
+Push The Pawn                                             -      ✗     ✗
+Quarternion                                               -      ✗     ✗
+Quest For Glory                                           -      ✗     -
+Quick Test With Namco Pac Man Waveform Prom               -      ✗     ✗
+RPG                                                       -      ✗     -
+RPS                                                       -      ✗     -
+Racer Z                                                   -      ✗     -
+Rad Bot Demo Email Protected                              -      ✗     ✗
+Radar Demo                                                -      ✗     ✗
+Rain                                                      -      ✗     ✗
+Random                                                    -      ✗     ✗
+Ray Tracing                                               -      ✗     ✗
+Raycast                                                   -      ✗     ✗
+Raycast Racer                                             -      ✗     -
+Raycasting                                                -      ✗     ✗
+Rayportal                                                 -      ✗     -
+Rc Flight Simulator                                       -      ✗     -
+Real Trace Traceback                                      -      ✗     ✗
+Rebonde                                                   -      ✗     -
+Rebound 2 2 Revelations                                   -      ✗     -
+Rebound 2 Electric Boogaloo                               -      ✗     -
+Rect Demo Lua                                             -      ✗     ✗
+Rect Demo Moon                                            -      ✗     ✗
+Rect4 Ngle                                                -      ✗     ✗
+Rectangular Tiles                                         -      ✗     ✗
+Rectb Demo 2 Lua                                          -      ✗     ✗
+Rectb Demo 2 Moon                                         -      ✗     ✗
+Rectb Demo Lua                                            -      ✗     ✗
+Rectb Demo Moon                                           -      ✗     ✗
+Recursive Tentacle                                        -      ✗     ✗
+Release Chasing                                           -      ✗     -
+Remap Demo                                                -      ✗     ✗
+Remap Demo Moon                                           -      ✗     ✗
+Repuraber Song                                            -      ✗     ✗
+Rescuecopter                                              -      ✗     -
+Reset Demo Lua                                            -      ✗     ✗
+Return Of Yakyuken                                        -      ✗     ✗
+Ripples Demo By Email Protected                           -      ✗     ✗
+Rle Demo                                                  -      ✗     ✗
+Rope                                                      -      ✗     ✗
+Ror Chanson D Automne                                     -      ✗     ✗
+Rotate                                                    -      ✗     ✗
+Rotating Earth                                            -      ✗     ✗
+Rotating Map                                              -      ✗     ✗
+Rubber                                                    -      ✗     ✗
+Run Run Run                                               -      ✗     -
+Runjumpdie                                                -      ✗     ✗
+Same 2                                                    -      ✗     ✗
+Sandbox                                                   -      ✗     ✗
+Sardelny                                                  -      ✗     -
+Scanline Demo Lua                                         -      ✗     ✗
+Scanline Screen Border                                    -      ✗     ✗
+Schoolproject                                             -      ✗     ✗
+Sci Fi Kouluprojekti                                      -      ✗     ✗
+Scn Color Emphasis                                        -      ✗     ✗
+Screen Failure                                            -      ✗     ✗
+Screen Giltch Demo Lua                                    -      ✗     ✗
+Secret Agents                                             -      ✗     -
+Sfx Demo Lua                                              -      ✗     ✗
+Sfx Demo Moon                                             -      ✗     ✗
+Shadow Over The Twelve Lands                              -      ✗     -
+Share Songs Of Different Rhythms                          -      ✗     ✗
+Sheep Run                                                 -      ✗     -
+Shootanoid                                                -      ✗     -
+Show Api Globals                                          -      ✗     ✗
+Shredder Boy                                              -      ✗     -
+Sijofsjfsoeife                                            -      ✗     ✗
+Simon                                                     -      ✗     -
+Simple Collision                                          -      ✗     ✗
+Simple Curve Editor                                       -      ✗     ✗
+Simple Game                                               -      ✗     ✗
+Simple Maze Game                                          -      ✗     -
+Simple Snake Game                                         -      ✗     -
+Simplepong                                                -      ✗     -
+Sinewaves Rule My Life                                    -      ✗     ✗
+Sitting In The Snow                                       -      ✗     ✗
+Slide Color                                               -      ✗     -
+Slider                                                    -      ✗     -
+Sliding Puzzle                                            -      ✗     ✗
+Small Snake                                               -      ✗     -
+Smoke Particle                                            -      ✗     ✗
+Sn76489 Music Simulation                                  -      ✗     ✗
+Snake                                                     -      ✗     ✗
+Snake Game                                                -      ✗     -
+Snake Tutorial                                            -      ✗     ✗
+Some Same Game                                            -      ✗     ✗
+Sorting                                                   -      ✗     ✗
+Soteria                                                   -      ✗     ✗
+Sound Demo                                                -      ✗     ✗
+Sound Surface                                             -      ✗     ✗
+Space Pet Rescue                                          -      ✗     -
+Space Pong                                                -      ✗     ✗
+Space Race Df 9                                           -      ✗     -
+Space Shooter Demo                                        -      ✗     ✗
+Space Thing                                               -      ✗     -
+Spacequest                                                -      ✗     ✗
+Spacer Shiper Shooter                                     -      ✗     -
+Spacer Shipper Shooter                                    -      ✗     ✗
+Spr Demo Lua                                              -      ✗     ✗
+Spr Demo Moon                                             -      ✗     ✗
+Spr Test                                                  -      ✗     ✗
+Sprite Exploder                                           -      ✗     ✗
+Sprite Glitch                                             -      ✗     ✗
+Squashy Port                                              -      ✗     ✗
+Star16 Palette Demo                                       -      ✗     ✗
+Star16 Palette Picture Art                                -      ✗     ✗
+Stars Scroll                                              -      ✗     ✗
+Starship                                                  -      ✗     -
+Start With Nothing                                        -      ✗     ✗
+Static Amiga                                              -      ✗     ✗
+Static Demo                                               -      ✗     ✗
+Stele                                                     -      -     -
+Stop The Slimes                                           -      ✗     -
+Street Shooter                                            -      ✗     -
+Streko                                                    -      ✗     -
+Structure Mania                                           -      ✗     -
+Stuck In A Timeloop                                       -      ✗     -
+Sunset Demo                                               -      ✗     ✗
+Super Hexagon                                             -      ✗     -
+Super Monkeyball                                          -      ✗     -
+Supernova                                                 -      -     -
+TIC Command                                               -      ✗     ✗
+TIC Fog Demo                                              -      ✗     ✗
+TIC Lasanga                                               -      ✗     ✗
+TIC Man Alpha                                             -      ✗     ✗
+TIC Pong                                                  -      ✗     ✗
+TIC Rap                                                   -      ✗     ✗
+TIC Sweeper 0 9                                           -      ✗     ✗
+TIC Sweeper Ost Oscilloscope View                         -      ✗     ✗
+TIC Tac Toe                                               -      ✗     ✗
+TIC War                                                   -      ✗     ✗
+TIC-80 Glitch Effect                                      -      ✗     ✗
+TIC-80 Message Style 1                                    -      ✗     ✗
+TIC-80 Tilte Screen                                       -      ✗     ✗
+Tag                                                       -      ✗     -
+Tank Warfare                                              -      ✗     ✗
+Tank Warfare Demo                                         -      ✗     ✗
+Tanks                                                     -      ✗     -
+Ten                                                       -      ✗     -
+Terrain Demo                                              -      ✗     ✗
+Terror Instinct                                           -      ✗     -
+Test Circle                                               -      ✗     ✗
+Test1                                                     -      ✗     ✗
+Tetrawall                                                 -      ✗     ✗
+Tetris Update 1                                           -      ✗     -
+Tetris World                                              -      ✗     ✗
+Text And Star Demo                                        -      ✗     ✗
+Text Invaders                                             -      ✗     -
+Text Invaders Whiteout Edition                            -      -     -
+Textri                                                    -      ✗     ✗
+Textri Test                                               -      ✗     ✗
+Th4 Bad Apple                                             -      ✗     ✗
+The Dark Tower                                            -      ✗     -
+The Hunt For Some Gold                                    -      ✗     -
+The Music Demo Cartridge But With Distorted Waveforms     -      ✗     ✗
+The Right Coin                                            -      ✗     -
+The Sky House                                             -      ✗     -
+The Snow Gliding                                          -      ✗     ✗
+The Spectre                                               -      ✗     ✗
+TheTextQuest                                              -      ✗     -
+Thingamajig                                               -      ✗     ✗
+This Is My Mech                                           -      ✗     -
+Threes                                                    -      ✗     ✗
+Ticalovania                                               -      ✗     ✗
+Ticaruga                                                  -      ✗     -
+Ticced Off                                                -      ✗     ✗
+Tichess                                                   -      ✗     -
+Ticlines                                                  -      ✗     -
+Ticris                                                    -      ✗     -
+Ticuare Gamepad                                           -      ✗     ✗
+Ticuare Gamepad Cursor                                    -      ✗     ✗
+Ticuare Mouse                                             -      ✗     ✗
+Ticuare V0 8 0                                            -      ✗     ✗
+Tim Mit                                                   -      ✗     -
+Time Demo Lua                                             -      ✗     ✗
+Time Demo Moon                                            -      ✗     ✗
+Tiny Dungeon                                              -      ✗     -
+Tiny Life                                                 -      ✗     -
+Tiny Snake                                                -      ✗     ✗
+Tiny Trek                                                 -      ✗     -
+Titlescreen                                               -      ✗     -
+Todor                                                     -      ✗     ✗
+Toetac Tic                                                -      ✗     -
+Trace Demo                                                -      ✗     ✗
+Trace Demo Lua                                            -      ✗     ✗
+Trace Demo Moon                                           -      ✗     ✗
+Tracker Test                                              -      ✗     ✗
+Trails                                                    -      ✗     ✗
+Tri Demo Lua                                              -      ✗     ✗
+Tri Demo Moon                                             -      ✗     ✗
+Tri Random                                                -      ✗     ✗
+Tsnake                                                    -      ✗     -
+Tunnel                                                    -      ✗     ✗
+Turns Of War                                              -      -     -
+Tvtetris                                                  -      ✗     ✗
+Ufo Battle                                                -      ✗     ✗
+Undertale Song That Might Play When You Fight Sans        -      ✗     ✗
+Undertale Spider Dance                                    -      ✗     ✗
+Unknown Grounds                                           -      ✗     -
+Unko Hunter Yakiu                                         -      ✗     -
+Upscaled 64 X64 Lua                                       -      ✗     ✗
+Utf 8 Print Example                                       -      ✗     ✗
+VVVVVV TIC-80 Demake                                      -      ✗     ✗
+Variables And Spr Test                                    -      ✗     ✗
+Vogeljagd                                                 -      ✗     -
+Voronoi Diagram                                           -      ✗     ✗
+Voxel Sprites                                             -      ✗     ✗
+Voxelon                                                   -      ✗     ✗
+WCQ No 6                                                  -      ✗     ✗
+Walk                                                      -      ✗     ✗
+Wall Ball                                                 -      ✗     -
+Warg                                                      -      ✗     -
+Warm Wheels                                               -      ✗     -
+Water Bubbles                                             -      ✗     ✗
+Water Wave Demo                                           -      ✗     ✗
+Water Works Bureau                                        -      ✗     ✗
+Wave                                                      -      ✗     ✗
+West Trade                                                -      ✗     -
+Westfarm                                                  -      ✗     -
+Where S Ditto                                             -      ✗     -
+Whitestone Survival                                       -      ✗     ✗
+Why Not Frog                                              -      ✗     ✗
+Wire World Cellular Automation                            -      ✗     ✗
+Witchem Up                                                -      ✗     -
+Wizards                                                   -      ✗     -
+Woah Another Thing From Stinker                           -      ✗     ✗
+Worm Game                                                 -      ✗     -
+Yin Yang                                                  -      ✗     ✗
+Yitzi                                                     -      ✗     -
+Zombiehunt                                                -      ✗     ✗
+Zx Spectrum Screen Loader                                 -      ✗     ✗
+Zx Spectrum Screen Loader 2                               -      ✗     ✗
+Zynecoin Adventure                                        -      ✗     ✗

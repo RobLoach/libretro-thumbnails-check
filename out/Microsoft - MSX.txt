@@ -225,6 +225,7 @@ D-Day (Japan)                                                   -      -     -
 D-Day (Japan) (Alt 1)                                           -      -     -
 D-Day (Japan) (Alt 2)                                           -      -     -
 D-Day (Japan) (Alt 3)                                           -      -     -
+DX7 Voicing Program (Japan) (Program)                           -      ✗     ✗
 Daidasso (Japan)                                                ✗      -     -
 Daiva Story 4 - Asura's Bloodfeud (Japan)                       -      -     -
 Dam Busters, The (Japan)                                        -      -     -
@@ -268,7 +269,6 @@ Dungeon Hunter (Japan)                                          -      -     -
 Dungeon Master (Japan)                                          -      -     -
 Dunk Shot (Japan)                                               -      -     -
 Dunk Shot (Japan) (Alt 1)                                       -      -     -
-DX7 Voicing Program (Japan) (Program)                           -      ✗     ✗
 Dynamite Bowl (Japan)                                           -      -     -
 Eagle Fighter (Japan)                                           -      -     -
 Eagle Fighter (Japan) (Alt 1)                                   -      -     -
@@ -294,6 +294,12 @@ Exoide-Z Area 5 (Japan)                                         -      -     -
 F-1 Spirit - The Way to Formula-1 (Japan)                       -      -     -
 F-1 Spirit - The Way to Formula-1 (Japan) (Alt 1)               -      -     -
 F16 Fighting Falcon (Japan)                                     -      -     -
+FB-01 Voicing Program (Japan) (Program)                         -      ✗     ✗
+FM Music Composer (Japan) (Program)                             -      -     -
+FM Music Composer II (Japan) (Program)                          -      ✗     ✗
+FM Music Macro (Japan) (Program)                                -      ✗     ✗
+FM Pana Amusement Cartridge (Japan) (Program)                   -      ✗     ✗
+FM Voicing Program (Japan) (Program)                            -      ✗     ✗
 Fa Tetris (Korea) (Unl)                                         -      -     -
 Fairy (Japan)                                                   -      -     -
 Fairy Land Story, The (Japan)                                   -      -     -
@@ -305,7 +311,6 @@ Fandom Library #3 (Japan)                                       ✗      -     -
 Fantasy Zone (Japan)                                            -      -     -
 Farm Kit (Europe) (Program)                                     -      -     -
 Fathom (Japan)                                                  -      -     -
-FB-01 Voicing Program (Japan) (Program)                         -      ✗     ✗
 Final Justice (Japan)                                           ✗      -     -
 Final Justice (Japan) (Alt 1)                                   ✗      -     -
 Final Justice (Japan) (Alt 2)                                   ✗      -     -
@@ -313,9 +318,9 @@ Final Mahjong (Japan)                                           -      -     -
 Final Zone Wolf (Japan)                                         -      -     -
 Fire Rescue (Japan)                                             -      -     -
 Fire Rescue (Japan) (Alt 1)                                     -      -     -
-Flappy - Limited 85 (Japan)                                     -      -     -
 Flappy (Japan)                                                  -      -     -
 Flappy (Japan) (Alt 1)                                          -      -     -
+Flappy - Limited 85 (Japan)                                     -      -     -
 Flash Point (Korea) (Alt 1) (Unl)                               -      ✗     ✗
 Flash Point (Korea) (Unl)                                       -      ✗     ✗
 Flash Splash (Japan)                                            -      -     -
@@ -326,11 +331,6 @@ Flight Deck (Japan) (Alt 1)                                     -      -     -
 Flight Simulator (Japan)                                        -      -     -
 Flipper Slipper (Japan)                                         -      -     -
 Flipper Slipper (Japan) (Alt 1)                                 -      -     -
-FM Music Composer (Japan) (Program)                             -      -     -
-FM Music Composer II (Japan) (Program)                          -      ✗     ✗
-FM Music Macro (Japan) (Program)                                -      ✗     ✗
-FM Pana Amusement Cartridge (Japan) (Program)                   -      ✗     ✗
-FM Voicing Program (Japan) (Program)                            -      ✗     ✗
 Formation Z (Japan)                                             -      -     -
 Formation Z (Japan) (Alt 1)                                     -      -     -
 Frogger (Japan)                                                 -      -     -
@@ -343,6 +343,7 @@ Fruit Search (Japan) (Alt 1)                                    -      -     -
 Funky Mouse (Japan)                                             -      -     -
 Futbol (Spain)                                                  -      -     -
 Fuun Takeshijyou (Japan)                                        ✗      -     -
+GP World (Japan)                                                ✗      -     -
 Galaga (Japan)                                                  ✗      -     -
 Galaga (Japan) (Alt 1)                                          ✗      -     -
 Galaga (Japan) (Alt 2)                                          ✗      -     -
@@ -380,7 +381,6 @@ Gomok Narabe - Omo Go (Japan) (Alt 1)                           ✗      -     -
 Goonies, The (Japan)                                            ✗      -     -
 Goonies, The (Japan) (Alt 1)                                    ✗      -     -
 Goonies, The (Japan) (Alt 2)                                    ✗      -     -
-GP World (Japan)                                                ✗      -     -
 Green Beret (Europe)                                            ✗      -     -
 Green Beret (Europe) (Alt 1)                                    ✗      -     -
 Grog's Revenge (Japan)                                          ✗      -     -
@@ -447,9 +447,9 @@ Ice World (Japan)                                               ✗      -     -
 Iga Ninpouten - Small Ninja (Japan)                             ✗      -     -
 Iga Ninpouten 2 - Small Ninja 2 (Japan)                         ✗      -     -
 Indian no Bouken (Japan)                                        ✗      -     -
+Iriegas (Japan)                                                 ✗      -     -
 Iriegas - Theseus (Japan)                                       ✗      -     -
 Iriegas - Theseus (Japan) (Alt 1)                               ✗      -     -
-Iriegas (Japan)                                                 ✗      -     -
 Issunhoushi No Donnamondai (Japan)                              ✗      -     -
 Issunhoushi No Donnamondai (Japan) (Alt 1)                      ✗      -     -
 J.P. Winkle (Japan)                                             ✗      -     -
@@ -483,11 +483,11 @@ Keystone Kapers (Japan) (Alt 1)                                 ✗      -     -
 Kick It (Japan)                                                 ✗      -     -
 Kick It (Japan) (Alt 1)                                         ✗      -     -
 Kinasai (Japan) (Unl)                                           ✗      -     -
-King _ Balloon (Japan)                                          ✗      -     -
-King _ Balloon (Japan) (Alt 1)                                  ✗      -     -
 King Knight (Japan)                                             ✗      -     -
 King Knight (Japan) (Alt 1)                                     ✗      -     -
 King Knight (Japan) (Alt 2)                                     ✗      -     -
+King _ Balloon (Japan)                                          ✗      -     -
+King _ Balloon (Japan) (Alt 1)                                  ✗      -     -
 King's Valley (Japan, Europe)                                   ✗      -     -
 King's Valley (Japan, Europe) (Alt 1)                           ✗      -     -
 King's Valley (Japan, Europe) (Alt 2)                           ✗      -     -
@@ -552,6 +552,22 @@ Lord Over (Japan)                                               ✗      -     -
 Lot Lot (Japan)                                                 ✗      -     -
 Lunar Ball (Japan)                                              ✗      -     -
 M36 - A Life Planet (Japan)                                     ✗      -     -
+MIDI Macro (Japan) (Program)                                    ✗      ✗     ✗
+MSX 21 (Japan)                                                  ✗      -     -
+MSX Audio (Japan) (FS-CA1) (Program)                            ✗      ✗     ✗
+MSX Audio (Japan) (HX-MU900) (Program)                          ✗      -     -
+MSX Baseball (Japan)                                            ✗      -     -
+MSX Baseball (Japan) (Alt 1)                                    ✗      -     -
+MSX Baseball II National (Japan)                                ✗      -     -
+MSX Basic-kun (Japan) (Program)                                 ✗      ✗     ✗
+MSX Basic-kun Plus (Japan) (Program)                            ✗      ✗     ✗
+MSX Bunsetsu Henkan Jisyo (Japan) (Program)                     ✗      ✗     ✗
+MSX Derby (Japan)                                               ✗      -     -
+MSX Rugby (Japan)                                               ✗      -     -
+MSX Soccer (Japan)                                              ✗      -     -
+MSX Soccer (Japan) (Alt 1)                                      ✗      -     -
+MSX-Aid (Japan) (Program)                                       ✗      ✗     ✗
+MSX-Logo (Netherlands) (Program)                                ✗      -     -
 Mac Attack (Europe)                                             ✗      -     -
 Machinegun Joe vs The Mafia (Japan)                             ✗      -     -
 Macross (Japan)                                                 ✗      -     -
@@ -580,7 +596,6 @@ Megalopolis SOS (Japan) (Alt 1)                                 ✗      -     -
 Megalopolis SOS (Japan) (Alt 2)                                 ✗      -     -
 Meikyuu Shinwa (Japan)                                          ✗      -     -
 Meikyuu Shinwa (Japan) (Alt 1)                                  ✗      -     -
-MIDI Macro (Japan) (Program)                                    ✗      ✗     ✗
 Midnight Brothers (Japan)                                       ✗      -     -
 Midnight Brothers (Japan) (Alt 1)                               ✗      -     -
 Midnight Building (Japan)                                       ✗      -     -
@@ -617,21 +632,6 @@ Mr. Chin (Japan)                                                ✗      -     -
 Mr. Do (Japan)                                                  ✗      -     -
 Mr. Do vs Unicorns (Japan)                                      ✗      -     -
 Mr. Do's Wild Ride (Japan)                                      ✗      -     -
-MSX 21 (Japan)                                                  ✗      -     -
-MSX Audio (Japan) (FS-CA1) (Program)                            ✗      ✗     ✗
-MSX Audio (Japan) (HX-MU900) (Program)                          ✗      -     -
-MSX Baseball (Japan)                                            ✗      -     -
-MSX Baseball (Japan) (Alt 1)                                    ✗      -     -
-MSX Baseball II National (Japan)                                ✗      -     -
-MSX Basic-kun (Japan) (Program)                                 ✗      ✗     ✗
-MSX Basic-kun Plus (Japan) (Program)                            ✗      ✗     ✗
-MSX Bunsetsu Henkan Jisyo (Japan) (Program)                     ✗      ✗     ✗
-MSX Derby (Japan)                                               ✗      -     -
-MSX Rugby (Japan)                                               ✗      -     -
-MSX Soccer (Japan)                                              ✗      -     -
-MSX Soccer (Japan) (Alt 1)                                      ✗      -     -
-MSX-Aid (Japan) (Program)                                       ✗      ✗     ✗
-MSX-Logo (Netherlands) (Program)                                ✗      -     -
 Mugen Senshi Valis - The Fantasm Soldier (Japan)                ✗      -     -
 Music Editor (Japan) (Program)                                  ✗      -     -
 Music Harmonizer 3 (Japan) (Program)                            ✗      -     -
@@ -640,10 +640,10 @@ Musiwriter (Japan) (Program)                                    ✗      -     -
 Nausicaa (Japan)                                                ✗      -     -
 Nemesis (Japan, Europe)                                         ✗      -     -
 Nemesis (Japan, Europe) (Alt 1)                                 ✗      -     -
+Nemesis 2 (Japan) (Demo)                                        ✗      -     -
 Nemesis 2 (Japan, Europe)                                       ✗      -     -
 Nemesis 2 (Japan, Europe) (Alt 1)                               ✗      -     -
 Nemesis 2 (Japan, Europe) (Beta)                                ✗      -     -
-Nemesis 2 (Japan) (Demo)                                        ✗      -     -
 Nemesis 3 - The Eve of Destruction (Japan, Europe)              ✗      -     -
 Nemesis 3 - The Eve of Destruction (Japan, Europe) (Alt 1)      ✗      -     -
 Nemesis 3 - The Eve of Destruction (Japan, Europe) (Alt 2)      ✗      -     -
@@ -854,6 +854,7 @@ Sweet Acorn (Japan) (Alt 1)                                     ✗      -     -
 Swing (Japan)                                                   ✗      -     -
 Swing (Japan) (Alt 1)                                           ✗      -     -
 Syougun (Japan)                                                 ✗      -     -
+TZR - Grand Prix Rider (Japan)                                  ✗      -     -
 Tank Battalion (Japan)                                          ✗      -     -
 Tatica (Japan)                                                  ✗      -     -
 Tawara-kun (Japan)                                              ✗      -     -
@@ -899,7 +900,6 @@ Twin Bee (Japan) (Alt 1)                                        ✗      -     -
 Twin Bee (Japan) (Alt 2)                                        ✗      -     -
 Twin Bee (Japan) (Alt 3)                                        ✗      -     -
 Twin Hammer (Europe)                                            ✗      -     -
-TZR - Grand Prix Rider (Japan)                                  ✗      -     -
 Ultraman (Japan)                                                ✗      -     -
 Vaxol - Heavy Armed Storm Vehicle (Japan)                       ✗      -     -
 Venus Fire (Japan)                                              ✗      -     -
