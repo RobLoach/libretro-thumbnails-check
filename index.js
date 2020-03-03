@@ -163,7 +163,7 @@ function writeReport(system, games, thumbs) {
 		let orphans = ''
 		for (let o in thumbs) {
 			// Ignore the .git folder.
-			if (thumbs[o].indexOf('.git') < 0 && thumbs[o].indexOf('.travis.') < 0) {
+			if (thumbs[o].indexOf('.git') < 0 && thumbs[o].indexOf('.travis.') < 0 && thumbs[o] != '.travis.yml') {
 				orphans += '\n' + thumbs[o].replace(system + '/', '').replace(libretroThumbnailsPath, '')
 			}
 		}
