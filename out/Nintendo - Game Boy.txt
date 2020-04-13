@@ -1,9 +1,9 @@
 Nintendo - Game Boy Missing
 
-Boxarts   950/1644  57.79%
-Snaps    1408/1644  85.64%
-Titles   1408/1644  85.64%
-Total    3766/4932  76.36%
+Boxarts   970/1647  58.89%
+Snaps    1428/1647  86.70%
+Titles   1407/1647  85.43%
+Total    3805/4941  77.01%
 
 Name                                                                                                                                                        Boxart  Snap  Title
 3 Choume no Tama - Tama and Friends - 3 Choume Obake Panic!! (Japan)                                                                                           ✗      -     -
@@ -66,7 +66,7 @@ Animal Breeder (Japan) (SGB Enhanced)                                           
 Animal Breeder 2 (Japan) (SGB Enhanced)                                                                                                                        ✗      -     -
 Animaniacs (Europe) (SGB Enhanced)                                                                                                                             -      -     -
 Animaniacs (USA) (SGB Enhanced)                                                                                                                                -      -     -
-Another Bible (Japan) (SGB Enhanced)                                                                                                                           ✗      -     -
+Another Bible (Japan) (SGB Enhanced)                                                                                                                           -      -     -
 Aoki Densetsu Shoot! (Japan) (SGB Enhanced)                                                                                                                    ✗      -     -
 Arcade Classic No. 1 - Asteroids _ Missile Command (USA, Europe) (SGB Enhanced)                                                                                -      -     -
 Arcade Classic No. 2 - Centipede _ Millipede (USA, Europe) (SGB Enhanced)                                                                                      -      -     -
@@ -298,10 +298,11 @@ Darkwing Duck (Germany)                                                         
 Darkwing Duck (Spain)                                                                                                                                          -      ✗     ✗
 Darkwing Duck (USA)                                                                                                                                            -      -     -
 David Crane's The Rescue of Princess Blobette (Europe)                                                                                                         ✗      ✗     ✗
-David Crane's The Rescue of Princess Blobette (USA)                                                                                                            ✗      ✗     ✗
+David Crane's The Rescue of Princess Blobette (USA)                                                                                                            -      -     ✗
 Days of Thunder (USA, Europe)                                                                                                                                  -      -     -
 Dead Heat Scramble (Japan)                                                                                                                                     -      -     -
 Dead Heat Scramble (USA)                                                                                                                                       -      -     -
+Death Track (Europe) (Proto)                                                                                                                                   ✗      ✗     ✗
 Dennis (Europe)                                                                                                                                                -      -     -
 Dennis the Menace (USA)                                                                                                                                        -      -     -
 Desert Strike - Return to the Gulf (Europe) (SGB Enhanced)                                                                                                     -      -     -
@@ -317,12 +318,12 @@ Dino Breeder 2 (Japan) (SGB Enhanced)                                           
 Dirty Racing (Japan)                                                                                                                                           ✗      -     -
 Dodge Boy (Japan)                                                                                                                                              ✗      -     -
 Donkey Kong (Japan, USA) (SGB Enhanced)                                                                                                                        -      -     -
-Donkey Kong (World) (Rev 1) (SGB Enhanced)                                                                                                                     ✗      ✗     ✗
+Donkey Kong (World) (Rev 1) (SGB Enhanced)                                                                                                                     -      -     ✗
 Donkey Kong Land (Japan) (SGB Enhanced)                                                                                                                        -      -     -
 Donkey Kong Land (USA, Europe) (SGB Enhanced)                                                                                                                  -      -     -
 Donkey Kong Land 2 (USA, Europe) (SGB Enhanced)                                                                                                                -      -     -
 Donkey Kong Land III (USA, Europe) (Beta)                                                                                                                      -      -     -
-Donkey Kong Land III (USA, Europe) (Rev 1) (SGB Enhanced)                                                                                                      ✗      ✗     ✗
+Donkey Kong Land III (USA, Europe) (Rev 1) (SGB Enhanced)                                                                                                      -      -     ✗
 Donkey Kong Land III (USA, Europe) (SGB Enhanced)                                                                                                              -      -     -
 Doraemon - Taiketsu HimitsuDougu!! (Japan)                                                                                                                     ✗      -     -
 Doraemon 2 - Animal Planet Densetsu (Japan)                                                                                                                    ✗      -     -
@@ -350,7 +351,7 @@ Dr. Franken (USA)                                                               
 Dr. Franken II (USA, Europe) (En,Fr,De,Es,It,Nl,Sv)                                                                                                            -      -     -
 Dr. Mario (World)                                                                                                                                              -      -     -
 Dr. Mario (World) (Beta)                                                                                                                                       -      ✗     ✗
-Dr. Mario (World) (Rev 1)                                                                                                                                      ✗      ✗     ✗
+Dr. Mario (World) (Rev 1)                                                                                                                                      -      -     ✗
 Dracula Densetsu (Japan)                                                                                                                                       -      -     -
 Dracula Densetsu II (Japan)                                                                                                                                    -      -     -
 Dragon Ball Z - Gokuu Gekitouden (Japan) (SGB Enhanced)                                                                                                        ✗      -     -
@@ -382,7 +383,7 @@ Elite Soccer (USA) (SGB Enhanced)                                               
 Exodus - Journey to the Promised Land (USA) (Unl)                                                                                                              ✗      -     -
 Extra Bases (USA)                                                                                                                                              ✗      ✗     ✗
 F-1 Race (World)                                                                                                                                               -      -     -
-F-1 Race (World) (Rev 1)                                                                                                                                       ✗      ✗     ✗
+F-1 Race (World) (Rev 1)                                                                                                                                       -      -     ✗
 F-1 Spirit (Japan)                                                                                                                                             -      -     -
 F-15 Strike Eagle (USA, Europe)                                                                                                                                -      -     -
 F-15 Strike Eagle II (USA, Europe) (Beta) (1992-07)                                                                                                            ✗      ✗     ✗
@@ -406,7 +407,7 @@ Ferrari (Japan)                                                                 
 Ferrari Grand Prix Challenge (USA, Europe)                                                                                                                     -      -     -
 Fidgetts, The (Japan)                                                                                                                                          -      -     -
 Fidgetts, The (USA, Europe) (En,Fr,De,Es,It,Nl,Sv)                                                                                                             -      -     -
-Fighting Simulator 2 in 1 - Flying Warriors (USA, Europe)                                                                                                      ✗      ✗     ✗
+Fighting Simulator 2 in 1 - Flying Warriors (USA, Europe)                                                                                                      -      -     ✗
 Final Fantasy Adventure (USA)                                                                                                                                  -      -     -
 Final Fantasy Legend II (USA)                                                                                                                                  -      -     -
 Final Fantasy Legend III (USA)                                                                                                                                 -      -     -
@@ -459,7 +460,7 @@ Game Boy Wars Turbo (Japan) (SGB Enhanced)                                      
 Game Boy Wars Turbo - Famitsu Version (Japan) (SGB Enhanced)                                                                                                   -      -     -
 Game Genie (USA) (v2.1) (Unl)                                                                                                                                  ✗      -     -
 Game _ Watch Gallery (Europe) (SGB Enhanced)                                                                                                                   -      -     -
-Game _ Watch Gallery (USA) (Rev 1) (SGB Enhanced)                                                                                                              ✗      ✗     ✗
+Game _ Watch Gallery (USA) (Rev 1) (SGB Enhanced)                                                                                                              -      -     ✗
 Game _ Watch Gallery (USA) (SGB Enhanced)                                                                                                                      -      -     -
 Game de Hakken!! Tamagotchi (Japan) (SGB Enhanced)                                                                                                             -      -     -
 Game de Hakken!! Tamagotchi - Osutchi to Mesutchi (Japan) (SGB Enhanced)                                                                                       ✗      -     -
@@ -547,7 +548,7 @@ Great Greed (USA)                                                               
 Gremlins 2 - The New Batch (World)                                                                                                                             -      -     -
 HAL Wrestling (USA)                                                                                                                                            -      -     -
 HAL Wrestling (USA) (Beta)                                                                                                                                     -      -     -
-Hammerin' Harry - Ghost Building Company (Europe)                                                                                                              -      -     -
+Hammerin' Harry (Europe)                                                                                                                                       ✗      ✗     ✗
 Harvest Moon GB (USA) (SGB Enhanced)                                                                                                                           -      -     -
 Hatris (Japan, USA)                                                                                                                                            -      -     -
 Hayaoshi Quiz - Ouza Ketteisen (Japan) (SGB Enhanced)                                                                                                          ✗      -     -
@@ -592,7 +593,7 @@ Hunt for Red October, The (USA, Europe)                                         
 Hyper Black Bass '95 (Japan) (En,Ja)                                                                                                                           ✗      -     -
 Hyper Black Bass (Japan) (En,Ja)                                                                                                                               -      -     -
 Hyper Dunk (Europe)                                                                                                                                            -      -     -
-Hyper Lode Runner (World) (Rev 1)                                                                                                                              ✗      ✗     ✗
+Hyper Lode Runner (World) (Rev 1)                                                                                                                              -      -     ✗
 Ikari no Yousai (Japan)                                                                                                                                        -      -     -
 Ikari no Yousai 2 (Japan)                                                                                                                                      ✗      -     -
 In Your Face (USA)                                                                                                                                             -      -     -
@@ -736,7 +737,7 @@ Legend of Zelda, The - Link's Awakening (France)                                
 Legend of Zelda, The - Link's Awakening (Germany)                                                                                                              -      -     -
 Legend of Zelda, The - Link's Awakening (USA, Europe)                                                                                                          -      -     -
 Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev 1)                                                                                                  ✗      ✗     ✗
-Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev 2)                                                                                                  ✗      ✗     ✗
+Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev 2)                                                                                                  -      -     ✗
 Legend of the River King GB (Australia) (SGB Enhanced)                                                                                                         -      -     -
 Legend of the River King GB (USA) (SGB Enhanced)                                                                                                               -      -     -
 Lemmings (Europe)                                                                                                                                              -      -     -
@@ -834,7 +835,7 @@ Mick _ Mack as the Global Gladiators (USA) (Proto) (1993-10-04)                 
 Mick _ Mack as the Global Gladiators (USA) (Proto) (1994-01-18)                                                                                                ✗      ✗     ✗
 Mickey Mouse (Europe)                                                                                                                                          -      -     -
 Mickey Mouse (Japan)                                                                                                                                           -      -     -
-Mickey Mouse - Magic Wands! (USA, Europe) (SGB Enhanced)                                                                                                       ✗      ✗     ✗
+Mickey Mouse - Magic Wands! (USA, Europe) (SGB Enhanced)                                                                                                       ✗      -     ✗
 Mickey Mouse II (Japan)                                                                                                                                        -      -     -
 Mickey Mouse IV - Mahou no Labyrinth (Japan)                                                                                                                   ✗      ✗     ✗
 Mickey Mouse V (Japan)                                                                                                                                         -      -     -
@@ -933,7 +934,7 @@ NHL Hockey 95 (USA, Europe) (SGB Enhanced)                                      
 NIV Bible _ the 20 Lost Levels of Joshua (USA) (Unl)                                                                                                           ✗      -     -
 Nada Asatarou _ Kojima Takeo no Jissen Mahjong Kyoushitsu (Japan) (SGB Enhanced)                                                                               ✗      -     -
 Nada Asatarou no Powerful Mahjong - Tsugi no Itte 100 Dai (Japan)                                                                                              ✗      -     -
-Nail 'n Scale (USA, Europe)                                                                                                                                    ✗      ✗     ✗
+Nail 'n Scale (USA, Europe)                                                                                                                                    -      -     ✗
 Nakajima Satoru - F-1 Hero GB - World Championship '91 (Japan)                                                                                                 ✗      -     -
 Nakajima Satoru Kanshuu - F-1 Hero GB '92 - The Graded Driver (Japan)                                                                                          -      -     -
 Namco Classic (Japan)                                                                                                                                          ✗      -     -
@@ -996,6 +997,7 @@ Olympic Summer Games (USA, Europe) (SGB Enhanced)                               
 Olympic Winter Games - Lillehammer '94 (USA)                                                                                                                   ✗      ✗     ✗
 Oni II - Oni Densetsu (Japan)                                                                                                                                  ✗      -     -
 Oni III - Kuro no Hakaishin (Japan)                                                                                                                            ✗      -     -
+Oni IV (Japan) (Beta)                                                                                                                                          ✗      ✗     ✗
 Oni IV - Kijin no Ketsuzoku (Japan)                                                                                                                            ✗      -     -
 Oni V - Oni wo Tsugumono (Japan) (SGB Enhanced)                                                                                                                ✗      ✗     ✗
 Onigashima Pachinkoten (Japan)                                                                                                                                 ✗      -     -
@@ -1121,7 +1123,7 @@ Pokemon - Version Rouge (France) (SGB Enhanced)                                 
 Pokemon - Versione Blu (Italy) (SGB Enhanced)                                                                                                                  -      -     -
 Pokemon - Versione Gialla - Speciale Edizione Pikachu (Italy) (CGB+SGB Enhanced)                                                                               ✗      ✗     ✗
 Pokemon - Versione Rossa (Italy) (SGB Enhanced)                                                                                                                -      -     -
-Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced)                                                                            ✗      ✗     ✗
+Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced)                                                                            -      -     ✗
 Pokonyan! - Yume no Daibouken (Japan) (SGB Enhanced)                                                                                                           ✗      -     -
 Ponta to Hinako no Chindouchuu - Yuujou Hen (Japan)                                                                                                            ✗      -     -
 Pop Up (Europe)                                                                                                                                                -      -     -
@@ -1143,6 +1145,7 @@ Power Racer (USA)                                                               
 Prehistorik Man (USA, Europe)                                                                                                                                  -      -     -
 Pri Pri - Primitive Princess! (Japan)                                                                                                                          ✗      -     -
 Primal Rage (USA, Europe)                                                                                                                                      -      -     -
+Primal Rage (USA, Europe) (Beta)                                                                                                                               ✗      ✗     ✗
 Prince of Persia (Europe) (En,Fr,De,Es,It)                                                                                                                     -      -     -
 Prince of Persia (Europe) (En,Fr,De,Es,It) (Beta)                                                                                                              ✗      ✗     ✗
 Prince of Persia (Japan)                                                                                                                                       -      -     -
@@ -1305,14 +1308,14 @@ Small Soldiers (USA, Europe) (SGB Enhanced)                                     
 Smurfs Nightmare, The (Europe) (En,Fr,De,Es)                                                                                                                   -      -     -
 Smurfs Travel the World, The (Europe) (En,Fr,De,Es)                                                                                                            -      -     -
 Smurfs, The (Europe) (En,Fr,De,Es)                                                                                                                             -      -     -
-Smurfs, The (USA, Europe) (En,Fr,De) (Rev 1) (SGB Enhanced)                                                                                                    ✗      ✗     ✗
+Smurfs, The (USA, Europe) (En,Fr,De) (Rev 1) (SGB Enhanced)                                                                                                    -      -     ✗
 Sneaky Snakes (USA, Europe)                                                                                                                                    -      -     -
 Snoopy - Magic Show (Japan)                                                                                                                                    -      -     -
 Snoopy no Hajimete no Otsukai (Japan) (SGB Enhanced)                                                                                                           ✗      -     -
-Snoopy's Magic Show (USA, Europe)                                                                                                                              ✗      ✗     ✗
+Snoopy's Magic Show (USA, Europe)                                                                                                                              -      -     ✗
 Snow Bros. Jr. (Japan)                                                                                                                                         -      -     -
 Snow Brothers (Europe)                                                                                                                                         ✗      ✗     ✗
-Snow Brothers (USA)                                                                                                                                            ✗      ✗     ✗
+Snow Brothers (USA)                                                                                                                                            -      -     ✗
 Soccer (Europe, Australia) (En,Fr,De) (SGB Enhanced)                                                                                                           ✗      ✗     ✗
 Soccer (Japan)                                                                                                                                                 ✗      -     -
 Soccer Boy (Japan)                                                                                                                                             -      -     -
@@ -1367,7 +1370,7 @@ Star Trek Generations - Beyond the Nexus (Europe) (SGB Enhanced)                
 Star Trek Generations - Beyond the Nexus (USA) (SGB Enhanced)                                                                                                  -      -     -
 Star Wars (Europe)                                                                                                                                             -      -     -
 Star Wars (USA)                                                                                                                                                -      -     -
-Star Wars (USA, Europe) (Rev 1)                                                                                                                                ✗      ✗     ✗
+Star Wars (USA, Europe) (Rev 1)                                                                                                                                -      -     ✗
 Star Wars - The Empire Strikes Back (USA)                                                                                                                      -      -     -
 Star Wars - The Empire Strikes Back (USA, Europe)                                                                                                              ✗      ✗     ✗
 StarHawk (Europe)                                                                                                                                              ✗      ✗     ✗
@@ -1375,7 +1378,7 @@ Stargate (USA, Europe)                                                          
 Stop That Roach! (USA)                                                                                                                                         -      -     -
 Street Fighter II (Japan) (SGB Enhanced)                                                                                                                       -      -     -
 Street Fighter II (USA) (SGB Enhanced)                                                                                                                         -      -     -
-Street Fighter II (USA, Europe) (Rev 1) (SGB Enhanced)                                                                                                         ✗      ✗     ✗
+Street Fighter II (USA, Europe) (Rev 1) (SGB Enhanced)                                                                                                         -      -     ✗
 Street Racer (Japan)                                                                                                                                           -      -     -
 Street Racer (USA, Europe)                                                                                                                                     -      -     -
 Sumo Fighter (USA)                                                                                                                                             -      -     -
@@ -1403,10 +1406,10 @@ Super Hunchback (USA)                                                           
 Super James Pond (Europe)                                                                                                                                      -      -     -
 Super Kick Off (Europe) (En,Fr,De,It,Nl)                                                                                                                       -      -     -
 Super Mario Land (World)                                                                                                                                       -      -     -
-Super Mario Land (World) (Rev 1)                                                                                                                               ✗      ✗     ✗
+Super Mario Land (World) (Rev 1)                                                                                                                               -      -     ✗
 Super Mario Land 2 - 6 Golden Coins (USA, Europe)                                                                                                              -      -     -
 Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev 1)                                                                                                      ✗      ✗     ✗
-Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev 2)                                                                                                      ✗      ✗     ✗
+Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev 2)                                                                                                      -      -     ✗
 Super Mario Land 2 - 6-tsu no Kinka (Japan)                                                                                                                    -      -     -
 Super Mario Land 2 - 6-tsu no Kinka (Japan) (Rev 1)                                                                                                            ✗      ✗     ✗
 Super Mario Land 2 - 6-tsu no Kinka (Japan) (Rev 2)                                                                                                            -      -     -
@@ -1472,12 +1475,12 @@ Terminator 2 - Judgment Day (USA, Europe)                                       
 Tesserae (Europe) (En,Fr,De,Es,It)                                                                                                                             -      -     -
 Tesserae (USA)                                                                                                                                                 -      -     -
 Tetris (Japan) (En)                                                                                                                                            -      -     -
-Tetris (World) (Rev 1)                                                                                                                                         ✗      ✗     ✗
+Tetris (World) (Rev 1)                                                                                                                                         -      -     ✗
 Tetris 2 (USA)                                                                                                                                                 -      -     -
 Tetris 2 (USA, Europe) (Rev 1) (SGB Enhanced)                                                                                                                  ✗      ✗     ✗
 Tetris 2 (USA, Europe) (SGB Enhanced)                                                                                                                          -      -     -
 Tetris Attack (USA) (SGB Enhanced)                                                                                                                             -      -     -
-Tetris Attack (USA, Europe) (Rev 1) (SGB Enhanced)                                                                                                             ✗      ✗     ✗
+Tetris Attack (USA, Europe) (Rev 1) (SGB Enhanced)                                                                                                             -      -     ✗
 Tetris Blast (USA, Europe) (SGB Enhanced)                                                                                                                      -      -     -
 Tetris Flash (Japan) (SGB Enhanced)                                                                                                                            -      -     -
 Tetris Plus (Japan) (SGB Enhanced)                                                                                                                             -      -     -

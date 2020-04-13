@@ -1,13 +1,13 @@
 SNK - Neo Geo Pocket Color Missing
 
-Boxarts   81/116  69.83%
-Snaps     81/116  69.83%
-Titles    80/116  68.97%
-Total    242/348  69.54%
+Boxarts   88/116  75.86%
+Snaps     84/116  72.41%
+Titles    83/116  71.55%
+Total    255/348  73.28%
 
 Name                                                                                            Boxart  Snap  Title
 Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan)     -      -     -
-Baseball Stars Color - Pocket Sports Series (World) (En,Ja)                                        ✗      ✗     ✗
+Baseball Stars Color - Pocket Sports Series (World) (En,Ja)                                        -      -     -
 Big Bang Pro Wrestling (Japan) (En,Ja)                                                             -      -     -
 Bikkuriman 2000 - Viva! Pocket Festival! (Japan)                                                   -      -     ✗
 Biomotor Unitron (Japan)                                                                           -      -     -
@@ -38,7 +38,7 @@ Fantastic Night Dreams - Cotton (Japan)                                         
 Faselei! (Europe)                                                                                  -      -     -
 Faselei! (Japan)                                                                                   -      -     -
 Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)                                      -      -     -
-Ganbare Neo Poke-kun (Kari) (Japan)                                                                ✗      ✗     ✗
+Ganbare Neo Poke-kun (Kari) (Japan)                                                                -      -     -
 Infinity Cure (Japan)                                                                              -      -     -
 Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan)                                -      -     -
 King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)                                      -      -     -
@@ -46,7 +46,7 @@ King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja) (Beta)            
 King of Fighters R-2 Version 2 - Pocket Fighting Series (World) (En,Ja) (Beta)                     ✗      ✗     ✗
 King of Fighters, The - Battle de Paradise (Japan)                                                 -      -     -
 Koi Koi Mahjong (Japan)                                                                            -      -     -
-Last Blade, The - Beyond the Destiny (USA, Europe)                                                 ✗      ✗     ✗
+Last Blade, The - Beyond the Destiny (USA, Europe)                                                 -      -     -
 Magical Drop Pocket (Japan)                                                                        -      -     -
 Magical Drop Pocket (Japan) (Beta)                                                                 ✗      ✗     ✗
 Magical Drop Pocket (USA, Europe)                                                                  -      -     -
@@ -90,10 +90,10 @@ Pocket Love - if (Japan)                                                        
 Pocket Reversi (Europe)                                                                            -      -     -
 Pocket Reversi (Japan)                                                                             -      -     -
 Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)                                         -      -     -
-Puyo Pop (World) (En,Ja)                                                                           ✗      ✗     ✗
-Puyo Pop (World) (En,Ja) (Beta)                                                                    ✗      ✗     ✗
-Puzzle Bobble Mini (Japan, Europe)                                                                 ✗      ✗     ✗
-Puzzle Bobble Mini (Japan, Europe) (En,Ja) (Beta)                                                  ✗      ✗     ✗
+Puyo Pop (World) (En,Ja)                                                                           -      ✗     ✗
+Puyo Pop (World) (En,Ja) (Beta)                                                                    -      ✗     ✗
+Puzzle Bobble Mini (Japan, Europe)                                                                 -      ✗     ✗
+Puzzle Bobble Mini (Japan, Europe) (En,Ja) (Beta)                                                  -      ✗     ✗
 Puzzle Link (Europe)                                                                               -      -     -
 Puzzle Link 2 (USA, Europe)                                                                        -      -     -
 Renketsu Puzzle Tsunagete Pon! Color (Japan)                                                       -      -     -

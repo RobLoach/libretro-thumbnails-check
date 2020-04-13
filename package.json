@@ -34,6 +34,6 @@
     "text-table": "^0.2.0"
   },
   "config": {
-    "libretro-thumbnails-path": "../libretro-thumbnails"
+    "libretro-thumbnails-path": "/var/www/thumbnails.libretro.com"
   }
 }

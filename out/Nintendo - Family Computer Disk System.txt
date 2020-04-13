@@ -1,22 +1,21 @@
 Nintendo - Family Computer Disk System Missing
 
-Boxarts   265/370  71.62%
-Snaps     305/370  82.43%
-Titles    305/370  82.43%
-Total    875/1110  78.83%
+Boxarts   236/371  63.61%
+Snaps     276/371  74.39%
+Titles    276/371  74.39%
+Total    788/1113  70.80%
 
 Name                                                                                                                Boxart  Snap  Title
-19 - Neunzehn (Japan) [b]                                                                                              -      -     -
 Adian no Tsue (Japan)                                                                                                  -      -     -
 Adian no Tsue (Japan) (Beta)                                                                                           -      -     -
 Ai Senshi Nicol (Japan)                                                                                                -      -     -
 Air Fortress (Japan) (Proto)                                                                                           ✗      ✗     ✗
 Aki to Tsukasa no Fushigi no Kabe (Japan) (Unl)                                                                        -      -     -
-Akumajou Dracula (Japan) (Rev 1) [b]                                                                                   -      -     -
+Akumajou Dracula (Japan)                                                                                               ✗      ✗     ✗
+Akumajou Dracula (Japan) (Rev 1)                                                                                       ✗      ✗     ✗
 Akumajou Dracula (Japan) (Rev 2) (Disk Writer)                                                                         -      -     -
 Akumajou Dracula (Japan) (Rev 2) (NCMFC)                                                                               ✗      ✗     ✗
 Akumajou Dracula (Japan) (Rev 2) (Wii Virtual Console)                                                                 ✗      ✗     ✗
-Akumajou Dracula (Japan) [b]                                                                                           -      -     -
 Akuu Senki Raijin (Japan) (Beta) (1987-10-14)                                                                          ✗      ✗     ✗
 Akuu Senki Raijin (Japan) (Disk Writer)                                                                                -      -     -
 Aliens - Alien 2 (Japan) (Proto) [b]                                                                                   -      -     -
@@ -28,7 +27,7 @@ Backgammon (Japan)                                                              
 Bakutoushi Patton-kun (Japan)                                                                                          -      -     -
 Baseball (Japan)                                                                                                       -      -     -
 Big Challenge! Dogfight Spirit (Japan)                                                                                 -      -     -
-Big Challenge! Go! Go! Bowling (Japan) [b]                                                                             ✗      ✗     ✗
+Big Challenge! Go! Go! Bowling (Japan)                                                                                 -      -     -
 Big Challenge! Gun Fighter (Japan)                                                                                     -      -     -
 Big Challenge! Juudou Senshuken (Japan) [b]                                                                            ✗      ✗     ✗
 Bio Miracle Bokutte Upa (Japan)                                                                                        -      -     -
@@ -45,18 +44,18 @@ Bishoujo Sexy Puzzle (Japan) (Unl)                                              
 Bishoujo Sexy Slot (Japan) (Unl)                                                                                       -      -     -
 Bishoujo Shashinkan - Moving School (Japan) (Unl)                                                                      -      -     -
 Bishoujo Shashinkan - Studio Cut (Japan) (Unl)                                                                         -      -     -
-Bodycon Quest I - Abakareshi Musume Tachi (Japan) (Disk 1) (Unl)                                                       -      -     -
-Bodycon Quest I - Abakareshi Musume Tachi (Japan) (Disk 2) (Unl)                                                       -      -     -
+Bodycon Quest I - Abakareshi Musumetachi (Japan) (Disk 1) (Unl)                                                        ✗      ✗     ✗
+Bodycon Quest I - Abakareshi Musumetachi (Japan) (Disk 2) (Unl)                                                        ✗      ✗     ✗
 Bomber Man (Japan) (Disk Writer)                                                                                       -      -     -
 Breeder (Japan) [b]                                                                                                    -      -     -
+Bubble Bobble (Japan)                                                                                                  ✗      ✗     ✗
 Bubble Bobble (Japan) (Wii Virtual Console)                                                                            ✗      ✗     ✗
-Bubble Bobble (Japan) [b]                                                                                              -      -     -
 BurgerTime (Japan) (Disk Writer)                                                                                       -      -     -
 BurgerTime (Japan) (Wii Virtual Console)                                                                               ✗      ✗     ✗
 Casino de Pink (Japan) (Unl) [b]                                                                                       -      -     -
 Chitei Tairiku Ordola (Japan)                                                                                          -      -     -
 Cleopatra no Mahou (Japan) [b]                                                                                         -      -     -
-Clu Clu Land (Japan) (En) (Disk Writer)                                                                                ✗      ✗     ✗
+Clu Clu Land (Japan) (En) (Disk Writer) [b]                                                                            ✗      ✗     ✗
 Clu Clu Land (Japan) (En) (GameCube, Virtual Console)                                                                  ✗      ✗     ✗
 Clu Clu Land (Japan) (En) (Switch Online)                                                                              ✗      ✗     ✗
 Cocona World (Japan)                                                                                                   -      -     -
@@ -86,13 +85,14 @@ Dr. Chaos - Jigoku no Tobira (Japan)                                            
 Dracula II - Noroi no Fuuin (Japan)                                                                                    -      -     -
 Dracula II - Noroi no Fuuin (Japan) (Virtual Console)                                                                  ✗      ✗     ✗
 Druid - Kyoufu no Tobira (Japan)                                                                                       -      -     -
+Druid - Kyoufu no Tobira (Japan) (Beta) (1987-12-xx)                                                                   ✗      ✗     ✗
 Egger Land (Japan)                                                                                                     -      -     -
 Egger Land - Souzou e no Tabidachi (Japan) (Beta)                                                                      ✗      ✗     ✗
 Egger Land - Souzou e no Tabidachi (Japan) (Disk Writer)                                                               -      -     -
 Electrician (Japan)                                                                                                    -      -     -
 Emi-chan no Moero Yakyuuken! (Japan) (Unl)                                                                             -      -     -
+Esper Dream (Japan) (Rev 1) (Disk Writer) [b]                                                                          ✗      ✗     ✗
 Esper Dream (Japan) (Rev 1) (Wii Virtual Console)                                                                      ✗      ✗     ✗
-Esper Dream (Japan) (Rev 1) [b]                                                                                        -      -     -
 Esper Dream (Japan) [b]                                                                                                -      -     -
 Exciting Baseball (Japan)                                                                                              -      -     -
 Exciting Basket (Japan)                                                                                                -      -     -
@@ -110,7 +110,7 @@ Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 8) (Disk Writer)               
 Famicom Mukashibanashi - Shin Onigashima - Kouhen (Japan)                                                              -      -     -
 Famicom Mukashibanashi - Shin Onigashima - Kouhen (Japan) (Virtual Console)                                            ✗      ✗     ✗
 Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 1) [b]                                                   -      -     -
-Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 2) [b]                                                   -      -     -
+Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 2) (Disk Writer) [b]                                     ✗      ✗     ✗
 Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 3) (3DS Virtual Console)                                 ✗      ✗     ✗
 Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 3) (Wii and Wii U Virtual Console)                       ✗      ✗     ✗
 Famicom Mukashibanashi - Yuuyuuki - Kouhen (Japan)                                                                     -      -     -
@@ -125,7 +125,7 @@ Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Kouhen (Japan) (DV 4) (Wi
 Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan)                                                  -      -     -
 Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan) (3DS Virtual Console)                            ✗      ✗     ✗
 Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan) (Wii Virtual Console)                            ✗      ✗     ✗
-Family Composer (Japan)                                                                                                -      -     -
+Family Composer (Japan) (Disk Writer)                                                                                  ✗      ✗     ✗
 Famimaga Disk Vol. 1 - Hong Kong (Japan)                                                                               -      -     -
 Famimaga Disk Vol. 2 - Panic Space (Japan) (Disk Writer)                                                               ✗      -     -
 Famimaga Disk Vol. 3 - All 1 (Japan) (Disk Writer)                                                                     ✗      -     -
@@ -152,7 +152,7 @@ Game no Tatsujin - Money Wars (Japan) (Unl)                                     
 German Tanteidan MarinGumi - Maruhi Jigomar Sousa File (Japan)                                                         -      -     -
 Ginga Denshou - Galaxy Odyssey (Japan)                                                                                 -      -     -
 Gokuraku Yuugi - Game Tengoku (Japan)                                                                                  -      -     -
-Golf (Japan)                                                                                                           -      -     -
+Golf (Japan) (Disk Writer)                                                                                             ✗      ✗     ✗
 Golf (Japan) (Rev 1)                                                                                                   -      -     -
 Golf - Japan Course (Japan) (DV 0)                                                                                     -      -     -
 Golf - Japan Course (Japan) (DV 2)                                                                                     -      -     -
@@ -180,7 +180,7 @@ I Am a Teacher - Super Mario no Sweater (Japan) [b]                             
 I Am a Teacher - Teami no Kiso (Japan)                                                                                 -      -     -
 Ice Climber (Japan) (Disk Writer)                                                                                      -      -     -
 Ice Hockey (Japan)                                                                                                     -      -     -
-Ice Hockey (Japan) (Wii Virtual Console)                                                                               ✗      ✗     ✗
+Ice Hockey (Japan) (Wii Virtual Console, Switch Online)                                                                ✗      ✗     ✗
 Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 10)                                                   ✗      -     -
 Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 4) [b]                                                -      -     -
 Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 6) [b]                                                -      -     -
@@ -209,15 +209,15 @@ Knight Move (Japan) (Rev 1) (Disk Writer)                                       
 Kobayashi Hitomi Shocking Tennis (Japan) (Unl)                                                                         -      -     -
 Kobayashi Hitomi no Hold Up (Japan) (Unl)                                                                              -      -     -
 Konamic Ice Hockey (Japan)                                                                                             -      -     -
+Konamic Tennis (Japan)                                                                                                 ✗      ✗     ✗
 Konamic Tennis (Japan) (Beta)                                                                                          ✗      ✗     ✗
-Konamic Tennis (Japan) [b]                                                                                             -      -     -
 Koneko Monogatari - The Adventures of Chatran (Japan)                                                                  -      -     -
 Koneko Monogatari - The Adventures of Chatran (Japan) (Sample)                                                         -      -     -
 Kosodate Gokko (Japan) (Unl)                                                                                           ✗      -     -
 Link no Bouken - The Legend of Zelda 2 (Japan)                                                                         -      -     -
 Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1)                                                                 -      -     -
 Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1) (Collector's Edition)                                           ✗      ✗     ✗
-Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1) (NCMFC)                                                         ✗      ✗     ✗
+Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1) (NCMFC, Switch Online)                                          ✗      ✗     ✗
 Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1) (Wii Virtual Console)                                           ✗      ✗     ✗
 Lipstick #1 - Lolita Hen (Japan) (Unl)                                                                                 -      -     -
 Lipstick #2 - Joshi Gakusei Hen (Japan) (Unl)                                                                          -      -     -
@@ -236,37 +236,38 @@ Matou no Houkai - The Hero of Babel (Japan)                                     
 Meikyuu Jiin Dababa (Japan)                                                                                            -      -     -
 Metroid (Japan) (Rev 1)                                                                                                -      -     -
 Metroid (Japan) (Rev 2)                                                                                                -      -     -
-Metroid (Japan) (Rev 3) (NCMFC)                                                                                        ✗      ✗     ✗
+Metroid (Japan) (Rev 3) (NCMFC, Switch Online)                                                                         ✗      ✗     ✗
 Metroid (Japan) (Rev 3) (Wii Virtual Console)                                                                          ✗      ✗     ✗
 Metroid (Japan) (Rev 3) [b]                                                                                            -      -     -
 Michael English Daibouken (Japan)                                                                                      -      -     -
 Michael English Daibouken (Japan) (Sample)                                                                             -      -     -
 Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan)                                                                      -      -     -
 Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan) (Rev 1)                                                              -      -     -
-Monitor Puzzle Kinetic Connection, The - Kineco (Japan)                                                                -      -     -
-Monitor Puzzle Kinetic Connection, The - Kineco II (Japan) (Disk Writer) [b]                                           -      -     -
+Monitor Puzzle Kineko, The - Kinetic Connection (Japan)                                                                ✗      ✗     ✗
+Monitor Puzzle Kineko, The - Kinetic Connection II (Japan) (Disk Writer) [b]                                           ✗      ✗     ✗
 Monty on the Run - Monty no Doki Doki Dai Dassou (Japan)                                                               -      -     -
 Moonball Magic (Japan) (Disk Writer)                                                                                   -      -     -
 Namida no Soukoban Special (Japan)                                                                                     -      -     -
-Nankin no Adventure (Japan) [b]                                                                                        -      -     -
+Nankin no Adventure (Japan) (Disk Writer) [b]                                                                          ✗      ✗     ✗
 Nazo no Kabe - Block Kuzushi (Japan) [b]                                                                               -      -     -
 Nazo no Murasamejou (Japan)                                                                                            -      -     -
 Nazo no Murasamejou (Japan) (3DS Virtual Console)                                                                      ✗      ✗     ✗
 Nazo no Murasamejou (Japan) (GameCube)                                                                                 ✗      ✗     ✗
 Nazo no Murasamejou (Japan) (Wii and Wii U Virtual Console)                                                            ✗      ✗     ✗
-Nazoler Land - Dai 2 Gou (Japan)                                                                                       -      -     -
-Nazoler Land - Dai 3 Gou (Japan)                                                                                       -      -     -
-Nazoler Land - Soukan Gou (Japan)                                                                                      -      -     -
+Nazoler Land - Dainigou (Japan)                                                                                        ✗      ✗     ✗
+Nazoler Land - Daisangou (Japan)                                                                                       ✗      ✗     ✗
+Nazoler Land - Soukangou (Japan)                                                                                       ✗      ✗     ✗
 Nazoler Land Special!! - Quiz Ou wo Sagase (Japan) [b]                                                                 -      -     -
+Neunzehn - 19 (Japan)                                                                                                  ✗      ✗     ✗
 Omoikkiri Tanteidan HaadoGumi - Matenrou no Chousenjou (Japan)                                                         -      -     -
-Othello (Japan) (DV 2)                                                                                                 -      -     -
-Othello (Japan) (DV 5) (Disk Writer)                                                                                   -      -     -
+Othello (Japan)                                                                                                        ✗      ✗     ✗
+Othello (Japan) (Disk Writer)                                                                                          ✗      ✗     ✗
 Otocky (Japan)                                                                                                         -      -     -
 Otocky (Japan) (Beta)                                                                                                  ✗      ✗     ✗
 Pac-Man (Japan) (Disk Writer)                                                                                          ✗      -     -
 Pachicom (Japan) (Disk Writer)                                                                                         ✗      -     -
-Pachinko Grand Prix (Japan) [b]                                                                                        -      -     -
-Patlabor - The Mobile Police - Dai 2 Shoutai Shutsudou Seyo! (Japan) [b]                                               -      -     -
+Pachinko Grand Prix (Japan)                                                                                            ✗      ✗     ✗
+Patlabor - The Mobile Police - Daini Shoutai Shutsudou seyo! (Japan) (Disk Writer) [b]                                 ✗      ✗     ✗
 Pinball (Japan) (Disk Writer)                                                                                          ✗      -     -
 Pro Golfer Saru - Kage no Tournament (Japan)                                                                           -      -     -
 Pro Wres (Japan) (En)                                                                                                  ✗      ✗     ✗
@@ -277,9 +278,9 @@ Putt Putt Golf (Japan)                                                          
 Puzzle Boys (Japan) (Disk Writer)                                                                                      ✗      -     -
 Quick Hunter (Japan) (Unl)                                                                                             -      -     -
 Quick Hunter - Parameter Disk Vol.1 (Japan) (Unl)                                                                      -      -     -
-Radical Bomber!! Jirai-kun (Japan)                                                                                     -      -     -
-Reflect World (Japan) [b]                                                                                              -      -     -
-Relics - Ankoku Yousai (Japan) [b]                                                                                     -      -     -
+Radical Bomber!! Jirai-kun (Japan) (Disk Writer)                                                                       ✗      ✗     ✗
+Reflect World (Japan)                                                                                                  ✗      ✗     ✗
+Relics - Ankoku Yousai (Japan)                                                                                         ✗      ✗     ✗
 Replicart (Japan)                                                                                                      -      -     -
 Risa no Yousei Densetsu (Japan)                                                                                        -      -     -
 Roger Rabbit (Japan)                                                                                                   -      -     -
@@ -297,7 +298,7 @@ Sailor Fuku Bishoujo Zukan Vol. 5 (Japan) (Unl)                                 
 Sailor Fuku Bishoujo Zukan Vol. 6 (Japan) (Unl)                                                                        ✗      -     -
 Samurai Sword (Japan)                                                                                                  -      -     -
 Santa Claus no Takarabako (Japan)                                                                                      -      -     -
-Section-Z (Japan) [b]                                                                                                  -      -     -
+Section-Z (Japan)                                                                                                      ✗      ✗     ✗
 Seiken Psychocalibur - Majuu no Mori Densetsu (Japan)                                                                  -      -     -
 Sexy Invaders (Japan) (Unl)                                                                                            -      -     -
 Sexy Yakyuuken Adventure II - Gal's Dungeon Part II (Japan) (Unl)                                                      -      -     -
@@ -318,8 +319,8 @@ Super Mario Brothers (Japan)                                                    
 Super Mario Brothers 2 (Japan) (DV 0)                                                                                  -      -     -
 Super Mario Brothers 2 (Japan) (DV 0) (GameCube, Wii Virtual Console)                                                  ✗      ✗     ✗
 Super Mario Brothers 2 (Japan) (DV 2)                                                                                  -      -     -
-Super Mario Brothers 2 (Japan) (DV 2) (3DS Virtual Console)                                                            ✗      ✗     ✗
-Tama _ Friends - 3 Choume Daibouken (Japan)                                                                            -      -     -
+Super Mario Brothers 2 (World) (DV 2) (3DS Virtual Console, Switch Online)                                             ✗      ✗     ✗
+Tama _ Friends - Sanchoume Daibouken (Japan)                                                                           ✗      ✗     ✗
 Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi (Japan)                                                         -      -     -
 Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi (Japan) (Beta) (1987-11-13)                                     ✗      ✗     ✗
 Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi - Shinban Tsumeshougi - Tsugi no Itte (Japan) (Disk Writer)     ✗      -     -
@@ -332,24 +333,24 @@ Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan) (Rev 1) (
 Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan) (Rev 1) (Wii Virtual Console)                   ✗      ✗     ✗
 Tarot Uranai (Japan)                                                                                                   -      -     -
 Tennis (Japan)                                                                                                         -      -     -
-Tenshi Tachi no Houkago (Japan) (Disk 1) (Unl)                                                                         -      -     -
-Tenshi Tachi no Houkago (Japan) (Disk 2) (Unl)                                                                         -      -     -
+Tenshitachi no Houkago (Japan) (Disk 1) (Unl)                                                                          ✗      ✗     ✗
+Tenshitachi no Houkago (Japan) (Disk 2) (Unl)                                                                          ✗      ✗     ✗
 Time Twist - Rekishi no Katasumi de... - Kouhen (Japan)                                                                -      -     -
-Time Twist - Rekishi no Katasumi de... - Zenpen (Japan)                                                                ✗      ✗     ✗
+Time Twist - Rekishi no Katasumi de... - Zenpen (Japan) [b]                                                            -      -     -
 Titanic Mystery - Ao no Senritsu (Japan)                                                                               -      -     -
 Tobidase Daisakusen (Japan)                                                                                            -      -     -
 Tonkachi Editor (Japan) (Unl)                                                                                          ✗      -     -
 Tooyama no Kinsan Space Chou - Mr. Gold (Japan)                                                                        -      -     -
 Topple Zip (Japan) [b]                                                                                                 -      -     -
-Transformers - The Headmasters (Japan) [b]                                                                             -      -     -
+Transformers - The Headmasters (Japan) (Disk Writer) [b]                                                               ✗      ✗     ✗
 TwinBee (Japan) (Disk Writer)                                                                                          -      -     -
 Ultraman - Kaijuu Teikoku no Gyakushuu (Japan) (Disk Writer)                                                           -      -     -
 Ultraman - Kaijuu Teikoku no Gyakushuu (Japan) [b]                                                                     -      -     -
-Ultraman 2 - Shutsugeki Katoku Tai (Japan)                                                                             -      -     -
+Ultraman 2 - Shutsugeki Katokutai (Japan)                                                                              ✗      ✗     ✗
 Ultraman Club - Chikyuu Dakkan Sakusen (Japan) (Rev 1) [b]                                                             ✗      ✗     ✗
 Ultraman Club - Chikyuu Dakkan Sakusen (Japan) [b]                                                                     ✗      ✗     ✗
 Volleyball (Japan)                                                                                                     -      -     -
-Volleyball (Japan) (Wii Virtual Console)                                                                               ✗      ✗     ✗
+Volleyball (Japan) (Wii Virtual Console, Switch Online)                                                                ✗      ✗     ✗
 Vs. Excitebike (Japan) (En)                                                                                            ✗      ✗     ✗
 Vs. Excitebike (Japan) (En) (Wii U Virtual Console)                                                                    ✗      ✗     ✗
 Vs. Excitebike (World) (Switch Online)                                                                                 ✗      ✗     ✗
@@ -363,8 +364,8 @@ Youkai Yashiki (Japan)                                                          
 Yume Koujou Doki Doki Panic (Japan) (DV 1) [b]                                                                         ✗      ✗     ✗
 Yume Koujou Doki Doki Panic (Japan) (DV 2)                                                                             -      -     -
 Yuu Maze (Japan)                                                                                                       -      -     -
+Yuushi no Monshou - Deep Dungeon (Japan)                                                                               ✗      ✗     ✗
 Yuushi no Monshou - Deep Dungeon (Japan) (Rev 1) (Disk Writer) [b]                                                     -      -     -
-Yuushi no Monshou - Deep Dungeon (Japan) [b]                                                                           -      -     -
 Zanac (Japan)                                                                                                          -      -     -
 Zanac (Japan) (Wii Virtual Console)                                                                                    ✗      ✗     ✗
 Zatsugaku Olympic Quiz - Watanabe Wataru Hen (Japan) (Unl)                                                             ✗      -     -
@@ -374,5 +375,5 @@ Zelda no Densetsu - The Hyrule Fantasy (Japan) (Beta)                           
 Zelda no Densetsu - The Hyrule Fantasy (Japan) (Collector's Edition)                                                   ✗      ✗     ✗
 Zelda no Densetsu - The Hyrule Fantasy (Japan) (GameCube)                                                              ✗      ✗     ✗
 Zelda no Densetsu - The Hyrule Fantasy (Japan) (Rev 1)                                                                 -      -     -
-Zelda no Densetsu - The Hyrule Fantasy (Japan) (Rev 1) (NCMFC)                                                         ✗      ✗     ✗
+Zelda no Densetsu - The Hyrule Fantasy (Japan) (Rev 1) (NCMFC, Switch Online)                                          ✗      ✗     ✗
 Zelda no Densetsu - The Hyrule Fantasy (Japan) (Wii Virtual Console)                                                   ✗      ✗     ✗

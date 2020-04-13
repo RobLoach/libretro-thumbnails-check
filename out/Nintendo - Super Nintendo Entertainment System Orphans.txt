@@ -15,8 +15,6 @@ Named_Boxarts/Big Sky Trooper (USA) (Beta).png
 Named_Boxarts/Bounty Sword (Japan) (Beta).png
 Named_Boxarts/Bubsy in - Claws Encounters of the Furred Kind (Europe) (Accolade).png
 Named_Boxarts/Chou Mahou Tairiku Wozz (Japan).png
-Named_Boxarts/Cutthroat Island (Europe).png
-Named_Boxarts/Cutthroat Island (USA).png
 Named_Boxarts/Cybernator (USA) (Beta).png
 Named_Boxarts/Deae Tonosama - Appare Ichiban (Japan).png
 Named_Boxarts/Do-Re-Mi Fantasy - Milon no Dokidoki Daibouken (Japan).png
@@ -77,10 +75,6 @@ Named_Boxarts/PowerFest 94 - Ken Griffey Jr. Presents Major League Baseball (USA
 Named_Boxarts/Push-Over (USA) (En,Fr,De,Es) (Beta).png
 Named_Boxarts/Radical Rex (USA) (Beta).png
 Named_Boxarts/Road Runner (Europe) (Beta).png
-Named_Boxarts/Rock n' Roll Racing (Europe).png
-Named_Boxarts/Rock n' Roll Racing (Japan).png
-Named_Boxarts/Rock n' Roll Racing (USA) (Beta).png
-Named_Boxarts/Rock n' Roll Racing (USA).png
 Named_Boxarts/Rockman X3 (Japan) (Beta).png
 Named_Boxarts/Ryuuki Heidan Danzarb (Japan).png
 Named_Boxarts/SeaQuest DSV (Europe).png
@@ -93,11 +87,15 @@ Named_Boxarts/Shinseiki GPX Cyber Formula (Japan).png
 Named_Boxarts/Shounen Ninja Sasuke (Japan) (Sample).png
 Named_Boxarts/SimCity 2000 (Japan).png
 Named_Boxarts/Sound Factory (Japan) (En) (Proto).png
+Named_Boxarts/Space Invaders (Europe).png
 Named_Boxarts/Speed Racer in My Most Dangerous Adventures (USA).png
 Named_Boxarts/Speedy Gonzales in Los Gatos Bandidos (USA) (Beta).png
 Named_Boxarts/Sports Illustrated Championship Football _ Baseball (USA) (Beta).png
 Named_Boxarts/Star Fox 2 (Japan) (Proto 1).png
 Named_Boxarts/Star Fox 2 (Japan) (Proto 4).png
+Named_Boxarts/Star Fox 2 (Japan).png
+Named_Boxarts/Star Fox 2 (USA).png
+Named_Boxarts/Star Ocean (Japan) [T-En by DeJap v1.0].png
 Named_Boxarts/Star Trek - Deep Space Nine - Crossroads of Time (USA) (Beta).png
 Named_Boxarts/Striker (Europe) (En,Fr,De,Es,It,Nl,Sv) (Beta).png
 Named_Boxarts/Super Bomber Man 3 (Japan) (Beta).png
@@ -106,14 +104,13 @@ Named_Boxarts/Super Buster Bros. (USA) (Beta).png
 Named_Boxarts/Super Chase H.Q. (Europe).png
 Named_Boxarts/Super Chinese World 2 - Uchuuichi Butou Taikai (Japan) (Beta).png
 Named_Boxarts/Super Chinese World 2 - Uchuuichi Butou Taikai (Japan) (Sample).png
+Named_Boxarts/Super Daikoukai Jidai (Japan) (Rev 1) (NP).png
 Named_Boxarts/Super Drift Out - World Rally Championships (USA) (Proto).png
 Named_Boxarts/Super Fire Pro Wrestling 3 (Japan) (Sample).png
 Named_Boxarts/Super Formation Soccer 95 della Serie A (Japan) (UCC Xaqua Version).png
 Named_Boxarts/Super Formation Soccer 95 della Serie A (Japan).png
 Named_Boxarts/Super Game Boy (Japan).png
 Named_Boxarts/Super Game Boy (Japan, USA) (Beta).png
-Named_Boxarts/Super Ghouls'n Ghosts (Europe).png
-Named_Boxarts/Super Ghouls'n Ghosts (USA).png
 Named_Boxarts/Super Gussun Oyoyo (Japan) (Beta).png
 Named_Boxarts/Super Gussun Oyoyo (Japan) (Sample).png
 Named_Boxarts/Super James Pond II (Europe).png
@@ -125,11 +122,13 @@ Named_Boxarts/Super Shanghai - Dragon's Eye (Japan) (Activision).png
 Named_Boxarts/Super Star Wars (USA) (Beta 2) [b].png
 Named_Boxarts/Super Tetris 2 + Bombliss (Japan) (En) (Genteiban).png
 Named_Boxarts/TKO Super Championship Boxing (USA) (Sample).png
+Named_Boxarts/Tales of Phantasia (Japan) [T-En by DeJap v1.2] [Add by Spinner 8 and friends v1.0].png
 Named_Boxarts/Tecmo Super NBA Basketball (USA) (Beta).png
 Named_Boxarts/Tecmo Super NBA Basketball (USA).png
 Named_Boxarts/Terminator, The (Europe) (Beta).png
 Named_Boxarts/Time Slip (Europe).png
 Named_Boxarts/Time Slip (USA).png
+Named_Boxarts/Total Carnage (USA) (Beta 2).png
 Named_Boxarts/Tuff E Nuff (Europe).png
 Named_Boxarts/Ultima - Runes of Virtue II (USA) (Beta) (1994-xx-xx).png
 Named_Boxarts/Ultima VI - Itsuwari no Yogensha (Japan) (Beta).png
@@ -141,6 +140,7 @@ Named_Boxarts/Wild Guns (Japan) (Sample).png
 Named_Boxarts/World Class Rugby (France).png
 Named_Boxarts/World Soccer (Europe).png
 Named_Boxarts/Yoshi's Cookie (USA) (Beta).png
+Named_Boxarts/Ys V - Kefin, Lost Kingdom of Sand (Japan) [T-En by Aeon Genesis v1.00] [n].png
 Named_Snaps/3-ji no Wide Shou - 5 Gatsugou (Japan) (BS).png
 Named_Snaps/3-ji no Wide Shou - 6 Gatsugou (Japan) (BS).png
 Named_Snaps/AK LIVE Hit Gang (Japan) (BS) [b].png
@@ -220,8 +220,6 @@ Named_Snaps/Columbus no Tamagoyaki - Dai-2-kai (Japan) (BS).png
 Named_Snaps/Columbus no Tamagoyaki - Dai-3-kai (Japan) (BS).png
 Named_Snaps/Crayon Shin-chan - Nagagutsu Dobon!! (Japan) (ST).png
 Named_Snaps/Cu-On-Pa SFC (Japan) (BS).png
-Named_Snaps/Cutthroat Island (Europe).png
-Named_Snaps/Cutthroat Island (USA).png
 Named_Snaps/Cybernator (USA) (Beta).png
 Named_Snaps/Daibakushou Jinsei Gekijou (Japan) (BS).png
 Named_Snaps/Dandan Belt Conveyor - Gyuunyuu no Maki (Japan) (BS).png
@@ -309,6 +307,7 @@ Named_Snaps/Let's Pachinko Nante Gindama 4 (Japan) (BS).png
 Named_Snaps/Lord Monarch (Japan) (BS).png
 Named_Snaps/Lost Vikings, The (USA) (Beta).png
 Named_Snaps/Lufia _ The Fortress of Doom (USA).png
+Named_Snaps/M.A.C.S. Basic Rifle Marksmanship (USA) [b].png
 Named_Snaps/MARIA - Part 1 (Japan) (BS).png
 Named_Snaps/Magical Quest Starring Mickey Mouse, The (USA) (Beta).png
 Named_Snaps/Magical Quest con Topolino, The (Italy).png
@@ -354,10 +353,6 @@ Named_Snaps/Puyo Puyo Tsuu BS Ban (Japan) (BS).png
 Named_Snaps/Radical Dreamers - Nusume Nai Houseki (Japan) (BS).png
 Named_Snaps/Radical Rex (USA) (Beta).png
 Named_Snaps/Road Runner (Europe) (Beta).png
-Named_Snaps/Rock n' Roll Racing (Europe).png
-Named_Snaps/Rock n' Roll Racing (Japan).png
-Named_Snaps/Rock n' Roll Racing (USA) (Beta).png
-Named_Snaps/Rock n' Roll Racing (USA).png
 Named_Snaps/Ryuuki Heidan Danzarb (Japan).png
 Named_Snaps/SD Gundam G Next - Unit _ Map Collection (Japan) (BSROM).png
 Named_Snaps/SD Gundam Generation - Axis Senki (Japan) (ST).png
@@ -394,6 +389,7 @@ Named_Snaps/Sound Journal for Lovers - Valentine Special Vol. 1 (Japan) (BS).png
 Named_Snaps/Sousa Sentai Wappers - Mission 01 (Japan) (BS).png
 Named_Snaps/Sousa Sentai Wappers - Mission 02 (Japan) (BS).png
 Named_Snaps/Sousa Sentai Wappers - Soushuuhen (Japan) (BS).png
+Named_Snaps/Space Invaders (Europe).png
 Named_Snaps/Special Tee Shot (Japan) (BS).png
 Named_Snaps/Speed Racer in My Most Dangerous Adventures (USA).png
 Named_Snaps/Speedy Gonzales in Los Gatos Bandidos (USA) (Beta).png
@@ -402,6 +398,9 @@ Named_Snaps/Sports Illustrated Championship Football _ Baseball (USA) (Beta).png
 Named_Snaps/Spriggan Powered BS - Prelude (Japan) (BS).png
 Named_Snaps/Star Fox 2 (Japan) (Proto 1).png
 Named_Snaps/Star Fox 2 (Japan) (Proto 4).png
+Named_Snaps/Star Fox 2 (Japan).png
+Named_Snaps/Star Fox 2 (USA).png
+Named_Snaps/Star Ocean (Japan) [T-En by DeJap v1.0].png
 Named_Snaps/Star Trek - Deep Space Nine - Crossroads of Time (USA) (Beta).png
 Named_Snaps/Striker (Europe) (En,Fr,De,Es,It,Nl,Sv) (Beta).png
 Named_Snaps/Super Bomber Man (Japan) (En) (BS).png
@@ -417,8 +416,6 @@ Named_Snaps/Super Fire Pro Wrestling (Japan) (BS).png
 Named_Snaps/Super Formation Soccer 95 della Serie A (Japan) (UCC Xaqua Version).png
 Named_Snaps/Super Formation Soccer 95 della Serie A (Japan).png
 Named_Snaps/Super Game Boy (Japan).png
-Named_Snaps/Super Ghouls'n Ghosts (Europe).png
-Named_Snaps/Super Ghouls'n Ghosts (USA).png
 Named_Snaps/Super Gussun Oyoyo (Japan) (Sample).png
 Named_Snaps/Super James Pond II (Europe).png
 Named_Snaps/Super Mahjong Taikai (Japan) (BS).png
@@ -439,12 +436,14 @@ Named_Snaps/Sylvester and Tweety (USA) (Proto 1).png
 Named_Snaps/TKO Super Championship Boxing (USA) (Sample).png
 Named_Snaps/Table Game Daisyugo!! Shougi Mahjong Hanafuda (Japan) (BS).png
 Named_Snaps/Taiwan 16 Mahjong II - Horoscope Girls Edition (Hong Kong) (Unl) [b].png
+Named_Snaps/Tales of Phantasia (Japan) [T-En by DeJap v1.2] [Add by Spinner 8 and friends v1.0].png
 Named_Snaps/Tamori no Picross (Japan) (6-13) (BS).png
 Named_Snaps/Tamori no Picross (Japan) (6-26) (BS) [b].png
 Named_Snaps/Tecmo Super NBA Basketball (USA).png
 Named_Snaps/Terminator, The (Europe) (Beta).png
 Named_Snaps/Time Slip (Europe).png
 Named_Snaps/Time Slip (USA).png
+Named_Snaps/Total Carnage (USA) (Beta 2).png
 Named_Snaps/Treasure Conflix (Japan) (BS).png
 Named_Snaps/Tuff E Nuff (Europe).png
 Named_Snaps/Ultima - Runes of Virtue II (USA) (Beta) (1994-xx-xx).png
@@ -462,6 +461,7 @@ Named_Snaps/World Class Rugby (France).png
 Named_Snaps/World Soccer (Europe).png
 Named_Snaps/X (Japan) (Proto).png
 Named_Snaps/Yoshi no Panepon - BS Ban (Japan) (En,Ja) (BS).png
+Named_Snaps/Ys V - Kefin, Lost Kingdom of Sand (Japan) [T-En by Aeon Genesis v1.00] [n].png
 Named_Snaps/Yung Hakase no Shinsatsushitsu - Dai-1-gou (Japan) (BS).png
 Named_Snaps/Yung Hakase no Shinsatsushitsu - Dai-2-gou (Japan) (BS).png
 Named_Snaps/Yuuki Nae no GE-MU no Tsubo (Japan) (BS).png
@@ -548,8 +548,6 @@ Named_Titles/Columbus no Tamagoyaki - Dai-2-kai (Japan) (BS).png
 Named_Titles/Columbus no Tamagoyaki - Dai-3-kai (Japan) (BS).png
 Named_Titles/Crayon Shin-chan - Nagagutsu Dobon!! (Japan) (ST).png
 Named_Titles/Cu-On-Pa SFC (Japan) (BS).png
-Named_Titles/Cutthroat Island (Europe).png
-Named_Titles/Cutthroat Island (USA).png
 Named_Titles/Cybernator (USA) (Beta).png
 Named_Titles/Daibakushou Jinsei Gekijou (Japan) (BS).png
 Named_Titles/Dandan Belt Conveyor - Gyuunyuu no Maki (Japan) (BS).png
@@ -637,6 +635,7 @@ Named_Titles/Let's Pachinko Nante Gindama 4 (Japan) (BS).png
 Named_Titles/Lord Monarch (Japan) (BS).png
 Named_Titles/Lost Vikings, The (USA) (Beta).png
 Named_Titles/Lufia _ The Fortress of Doom (USA).png
+Named_Titles/M.A.C.S. Basic Rifle Marksmanship (USA) [b].png
 Named_Titles/MARIA - Part 1 (Japan) (BS).png
 Named_Titles/Magical Quest Starring Mickey Mouse, The (USA) (Beta).png
 Named_Titles/Magical Quest con Topolino, The (Italy).png
@@ -682,10 +681,6 @@ Named_Titles/Puyo Puyo Tsuu BS Ban (Japan) (BS).png
 Named_Titles/Radical Dreamers - Nusume Nai Houseki (Japan) (BS).png
 Named_Titles/Radical Rex (USA) (Beta).png
 Named_Titles/Road Runner (Europe) (Beta).png
-Named_Titles/Rock n' Roll Racing (Europe).png
-Named_Titles/Rock n' Roll Racing (Japan).png
-Named_Titles/Rock n' Roll Racing (USA) (Beta).png
-Named_Titles/Rock n' Roll Racing (USA).png
 Named_Titles/Ryuuki Heidan Danzarb (Japan).png
 Named_Titles/SD Gundam G Next - Unit _ Map Collection (Japan) (BSROM).png
 Named_Titles/SD Gundam Generation - Axis Senki (Japan) (ST).png
@@ -722,6 +717,7 @@ Named_Titles/Sound Journal for Lovers - Valentine Special Vol. 1 (Japan) (BS).pn
 Named_Titles/Sousa Sentai Wappers - Mission 01 (Japan) (BS).png
 Named_Titles/Sousa Sentai Wappers - Mission 02 (Japan) (BS).png
 Named_Titles/Sousa Sentai Wappers - Soushuuhen (Japan) (BS).png
+Named_Titles/Space Invaders (Europe).png
 Named_Titles/Special Tee Shot (Japan) (BS).png
 Named_Titles/Speed Racer in My Most Dangerous Adventures (USA).png
 Named_Titles/Speedy Gonzales in Los Gatos Bandidos (USA) (Beta).png
@@ -730,6 +726,9 @@ Named_Titles/Sports Illustrated Championship Football _ Baseball (USA) (Beta).pn
 Named_Titles/Spriggan Powered BS - Prelude (Japan) (BS).png
 Named_Titles/Star Fox 2 (Japan) (Proto 1).png
 Named_Titles/Star Fox 2 (Japan) (Proto 4).png
+Named_Titles/Star Fox 2 (Japan).png
+Named_Titles/Star Fox 2 (USA).png
+Named_Titles/Star Ocean (Japan) [T-En by DeJap v1.0].png
 Named_Titles/Star Trek - Deep Space Nine - Crossroads of Time (USA) (Beta).png
 Named_Titles/Striker (Europe) (En,Fr,De,Es,It,Nl,Sv) (Beta).png
 Named_Titles/Super Bomber Man (Japan) (En) (BS).png
@@ -745,8 +744,6 @@ Named_Titles/Super Fire Pro Wrestling (Japan) (BS).png
 Named_Titles/Super Formation Soccer 95 della Serie A (Japan) (UCC Xaqua Version).png
 Named_Titles/Super Formation Soccer 95 della Serie A (Japan).png
 Named_Titles/Super Game Boy (Japan).png
-Named_Titles/Super Ghouls'n Ghosts (Europe).png
-Named_Titles/Super Ghouls'n Ghosts (USA).png
 Named_Titles/Super Gussun Oyoyo (Japan) (Sample).png
 Named_Titles/Super James Pond II (Europe).png
 Named_Titles/Super Mahjong Taikai (Japan) (BS).png
@@ -766,12 +763,14 @@ Named_Titles/Sylvester and Tweety (USA) (Proto 1).png
 Named_Titles/TKO Super Championship Boxing (USA) (Sample).png
 Named_Titles/Table Game Daisyugo!! Shougi Mahjong Hanafuda (Japan) (BS).png
 Named_Titles/Taiwan 16 Mahjong II - Horoscope Girls Edition (Hong Kong) (Unl) [b].png
+Named_Titles/Tales of Phantasia (Japan) [T-En by DeJap v1.2] [Add by Spinner 8 and friends v1.0].png
 Named_Titles/Tamori no Picross (Japan) (6-13) (BS).png
 Named_Titles/Tamori no Picross (Japan) (6-26) (BS) [b].png
 Named_Titles/Tecmo Super NBA Basketball (USA).png
 Named_Titles/Terminator, The (Europe) (Beta).png
 Named_Titles/Time Slip (Europe).png
 Named_Titles/Time Slip (USA).png
+Named_Titles/Total Carnage (USA) (Beta 2).png
 Named_Titles/Treasure Conflix (Japan) (BS).png
 Named_Titles/Tuff E Nuff (Europe).png
 Named_Titles/Ultima - Runes of Virtue II (USA) (Beta) (1994-xx-xx).png
@@ -789,6 +788,7 @@ Named_Titles/World Class Rugby (France).png
 Named_Titles/World Soccer (Europe).png
 Named_Titles/X (Japan) (Proto).png
 Named_Titles/Yoshi no Panepon - BS Ban (Japan) (En,Ja) (BS).png
+Named_Titles/Ys V - Kefin, Lost Kingdom of Sand (Japan) [T-En by Aeon Genesis v1.00] [n].png
 Named_Titles/Yung Hakase no Shinsatsushitsu - Dai-1-gou (Japan) (BS).png
 Named_Titles/Yung Hakase no Shinsatsushitsu - Dai-2-gou (Japan) (BS).png
 Named_Titles/Yuuki Nae no GE-MU no Tsubo (Japan) (BS).png
