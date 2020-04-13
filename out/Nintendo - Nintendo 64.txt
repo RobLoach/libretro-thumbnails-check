@@ -1,9 +1,9 @@
 Nintendo - Nintendo 64 Missing
 
-Boxarts   903/1027  87.93%
-Snaps     935/1027  91.04%
-Titles    935/1027  91.04%
-Total    2773/3081  90.00%
+Boxarts   902/1028  87.74%
+Snaps     934/1028  90.86%
+Titles    934/1028  90.86%
+Total    2770/3084  89.82%
 
 Name                                                                               Boxart  Snap  Title
 007 - The World Is Not Enough (Europe) (En,Fr,De)                                     -      -     -
@@ -277,6 +277,7 @@ G.A.S.P!! Fighters' NEXTream (Europe)                                           
 G.A.S.P!! Fighters' NEXTream (Japan)                                                  -      -     -
 GT 64 - Championship Edition (Europe) (En,Fr,De)                                      -      -     -
 GT 64 - Championship Edition (USA)                                                    -      -     -
+GT 64 - Championship Edition (USA) (Beta) (1998-05-25)                                ✗      ✗     ✗
 GameBooster 64 (Europe) (v1.1) (Unl)                                                  ✗      -     -
 GameBooster 64 (USA) (v1.1) (Unl)                                                     ✗      -     -
 GameShark Pro (USA) (v2.0) (Unl)                                                      ✗      -     -
@@ -616,7 +617,6 @@ PGA European Tour (USA)                                                         
 PGA European Tour Golf (Europe) (En,Fr,De,Es,It)                                      -      -     -
 Pachinko 365 Nichi (Japan)                                                            ✗      -     -
 Paper Mario (Europe) (En,Fr,De,Es)                                                    -      -     -
-Paper Mario (Europe) (En,Fr,De,Es) (Wii Virtual Console)                              ✗      ✗     ✗
 Paper Mario (USA)                                                                     -      -     -
 Paperboy (Europe)                                                                     -      -     -
 Paperboy (USA)                                                                        -      -     -
@@ -719,7 +719,8 @@ Road Rash 64 (USA)                                                              
 Roadsters (Europe) (En,Fr,De,Es,It,Nl)                                                -      -     -
 Roadsters (USA) (En,Fr,Es)                                                            -      -     -
 Robot Poncots 64 - 7tsu no Umi no Caramel (Japan)                                     -      -     -
-Robotech - Crystal Dreams (USA) (Proto)                                               -      -     -
+Robotech - Crystal Dreams (USA) (Proto 1)                                             ✗      ✗     ✗
+Robotech - Crystal Dreams (USA) (Proto 2)                                             ✗      ✗     ✗
 Robotron 64 (Europe)                                                                  -      -     -
 Robotron 64 (USA)                                                                     -      -     -
 Rocket - Robot on Wheels (Europe) (En,Fr,De)                                          -      -     -

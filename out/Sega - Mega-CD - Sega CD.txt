@@ -1,9 +1,9 @@
 Sega - Mega-CD - Sega CD Missing
 
-Boxarts   192/485  39.59%
-Snaps     170/485  35.05%
-Titles    171/485  35.26%
-Total    533/1455  36.63%
+Boxarts   191/492  38.82%
+Snaps     170/492  34.55%
+Titles    171/492  34.76%
+Total    532/1476  36.04%
 
 Name                                                                      Boxart  Snap  Title
 3 Ninjas Kick Back (USA)                                                     -      -     -
@@ -62,6 +62,9 @@ Brutal - Paws of Fury (USA)                                                  -  
 Bug Blasters - The Exterminators (USA) (Unl) (Rerelease)                     ✗      ✗     ✗
 Burai - Yatsudama no Yuushi Densetsu (Japan)                                 ✗      ✗     ✗
 Burning Fists - Force Striker (USA) (Unl)                                    ✗      ✗     ✗
+CD Sonic The Hedgehog (Japan) (Beta 1)                                       ✗      ✗     ✗
+CD Sonic The Hedgehog (Japan) (Beta 2)                                       ✗      ✗     ✗
+CD Sonic The Hedgehog (Japan) (Beta 3)                                       ✗      ✗     ✗
 Cadillacs and Dinosaurs - The Second Cataclysm (USA, Brazil)                 ✗      ✗     ✗
 Captain Tsubasa (Japan)                                                      -      -     -
 Championship Soccer '94 (USA)                                                -      -     -
@@ -288,9 +291,9 @@ Pier Solar and the Great Architects Enhanced Soundtrack Disc (USA)           ✗
 Pitfall - The Mayan Adventure (Europe)                                       -      ✗     ✗
 Pitfall - The Mayan Adventure (Europe) (Demo)                                ✗      ✗     ✗
 Pitfall - The Mayan Adventure (USA)                                          -      -     -
-Popful Mail (Japan)                                                          -      ✗     ✗
-Popful Mail (Japan) (Sample)                                                 ✗      ✗     ✗
 Popful Mail (USA)                                                            -      -     -
+PopfulMail (Japan)                                                           ✗      ✗     ✗
+PopfulMail (Japan) (Sample)                                                  ✗      ✗     ✗
 Power Factory (Europe)                                                       ✗      ✗     ✗
 Power Factory (USA)                                                          ✗      ✗     ✗
 Power Monger (USA)                                                           -      -     -
@@ -335,6 +338,7 @@ Samurai Shodown (USA)                                                        -  
 Sangokushi III (Japan)                                                       ✗      -     -
 Secret of Monkey Island, The (Japan)                                         ✗      ✗     ✗
 Secret of Monkey Island, The (USA)                                           ✗      ✗     ✗
+Sega CD Demo (Japan) (Proto)                                                 ✗      ✗     ✗
 Sega Classic Arcade Collection - Limited Edition (Japan)                     ✗      ✗     ✗
 Sega Classics Arcade Collection (USA) (4-in-1)                               ✗      ✗     ✗
 Sega Classics Arcade Collection (USA) (4-in-1) (Rev 2)                       ✗      ✗     ✗
@@ -396,11 +400,14 @@ Sol-Feace (Europe) (Alt)                                                     ✗
 Sol-Feace (Japan)                                                            -      ✗     ✗
 Sol-Feace (USA) (Rev 2)                                                      ✗      ✗     ✗
 Sonic CD (Europe)                                                            ✗      ✗     ✗
-Sonic CD (Japan) (Demo)                                                      ✗      ✗     ✗
-Sonic CD (USA) (RE125) (Alt)                                                 ✗      ✗     ✗
+Sonic CD (Europe) (Beta 1)                                                   ✗      ✗     ✗
+Sonic CD (Europe) (Beta 2)                                                   ✗      ✗     ✗
+Sonic CD (USA) (Beta)                                                        ✗      ✗     ✗
 Sonic MegaMix (USA) (Unl)                                                    ✗      ✗     ✗
 Sonic The Hedgehog CD (Japan)                                                -      -     -
-Sonic The Hedgehog CD (Japan) (Beta)                                         ✗      ✗     ✗
+Sonic The Hedgehog CD (Japan) (Beta 1)                                       ✗      ✗     ✗
+Sonic The Hedgehog CD (Japan) (Beta 2)                                       ✗      ✗     ✗
+Sonic The Hedgehog CD (Japan) (Demo)                                         ✗      ✗     ✗
 SoulStar (Europe) (Demo)                                                     ✗      ✗     ✗
 SoulStar (Europe) (En,Fr,De)                                                 ✗      ✗     ✗
 SoulStar (Japan)                                                             ✗      ✗     ✗
@@ -423,7 +430,7 @@ Super Strike Trilogy (USA) (Unl)                                             ✗
 Supreme Warrior (Europe) (Disc 1)                                            ✗      ✗     ✗
 Supreme Warrior (Europe) (Disc 1) (Mega-CD 32X)                              ✗      ✗     ✗
 Supreme Warrior (Europe) (Disc 2)                                            ✗      ✗     ✗
-Supreme Warrior (Europe) (Disc 2) (Mega CD-32X)                              ✗      ✗     ✗
+Supreme Warrior (Europe) (Disc 2) (Mega-CD 32X)                              ✗      ✗     ✗
 Supreme Warrior (USA) (Disc 1) (Fire _ Earth)                                ✗      ✗     ✗
 Supreme Warrior (USA) (Disc 1) (Fire _ Earth) (Sega CD 32X)                  ✗      ✗     ✗
 Supreme Warrior (USA) (Disc 2) (Wind _ Fang Tu)                              ✗      ✗     ✗

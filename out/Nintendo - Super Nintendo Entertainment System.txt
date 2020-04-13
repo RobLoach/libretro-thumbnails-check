@@ -1,9 +1,9 @@
 Nintendo - Super Nintendo Entertainment System Missing
 
-Boxarts   3201/3621  88.40%
-Snaps     3189/3621  88.07%
-Titles    3171/3621  87.57%
-Total    9561/10863  88.01%
+Boxarts   3209/3629  88.43%
+Snaps     3193/3629  87.99%
+Titles    3176/3629  87.52%
+Total    9578/10887  87.98%
 
 Name                                                                                        Boxart  Snap  Title
 '96 Zenkoku Koukou Soccer Senshuken (Japan)                                                    -      -     -
@@ -483,8 +483,8 @@ Crayon Shin-chan - Arashi o Yobu Enji (Japan)                                   
 Crayon Shin-chan 2 - Daimaou no Gyakushuu (Japan)                                              -      -     -
 Crystal Beans from Dungeon Explorer (Japan)                                                    -      -     -
 Cu-On-Pa SFC (Japan)                                                                           -      -     -
-CutThroat Island (Europe)                                                                      ✗      ✗     ✗
-CutThroat Island (USA)                                                                         ✗      ✗     ✗
+CutThroat Island (Europe)                                                                      -      -     -
+CutThroat Island (USA)                                                                         -      -     -
 Cyber Knight (Japan)                                                                           -      -     -
 Cyber Knight II - Chikyuu Teikoku no Yabou (Japan)                                             -      -     -
 Cyber Spin (USA)                                                                               -      -     -
@@ -1174,7 +1174,7 @@ International Tennis Tour (USA)                                                 
 Ippatsu Gyakuten (Japan)                                                                       -      -     -
 Irem Skins Game, The (USA)                                                                     -      -     -
 Irem Skins Game, The (USA) (Arcade)                                                            -      ✗     ✗
-Iron Commando (Europe) (Proto) [b]                                                             ✗      -     -
+Iron Commando (Europe) (Proto) [b]                                                             -      -     -
 Iron Commando - Koutetsu no Senshi (Japan)                                                     -      -     -
 Isozuri - Ritou Hen (Japan)                                                                    -      -     -
 Itadaki Street 2 - Neon Sign wa Barairo ni (Japan)                                             -      -     -
@@ -1229,6 +1229,7 @@ Jeopardy! - Sports Edition (USA)                                                
 Jerry Boy (Japan)                                                                              -      -     -
 Jetsons, The - Invasion of the Planet Pirates (USA)                                            -      -     -
 Jigsaw Party (Japan)                                                                           -      -     -
+Jigsaw Party (Japan) (Beta) (1994-03-25)                                                       ✗      ✗     ✗
 Jikkyou Oshaberi Parodius (Japan)                                                              -      -     -
 Jikkyou Power Pro Wrestling '96 - Max Voltage (Japan)                                          -      -     -
 Jikkyou Powerful Pro Yakyuu '94 (Japan)                                                        -      -     -
@@ -1253,6 +1254,7 @@ Jim Power - The Lost Dimension in 3D (USA)                                      
 Jimmy Connors Pro Tennis Tour (Europe)                                                         -      -     -
 Jimmy Connors Pro Tennis Tour (France)                                                         -      -     -
 Jimmy Connors Pro Tennis Tour (Germany)                                                        -      -     -
+Jimmy Connors Pro Tennis Tour (Germany) (Beta)                                                 ✗      ✗     ✗
 Jimmy Connors Pro Tennis Tour (Japan)                                                          -      -     -
 Jimmy Connors Pro Tennis Tour (USA)                                                            -      -     -
 Jimmy Houston's Bass Tournament U.S.A. (USA)                                                   -      -     -
@@ -1394,6 +1396,7 @@ King of the Monsters (Europe)                                                   
 King of the Monsters (Japan)                                                                   -      -     -
 King of the Monsters (USA)                                                                     -      -     -
 King of the Monsters 2 (USA)                                                                   -      -     -
+King of the Monsters 2 (USA) (Beta)                                                            ✗      ✗     ✗
 King of the Monsters 2 - Next Thing (Japan)                                                    ✗      ✗     ✗
 Kingyo Chuuihou! - Tobidase! Game Gakuen (Japan)                                               -      -     -
 Kinnikuman - Dirty Challenger (Japan)                                                          -      -     -
@@ -1529,6 +1532,7 @@ Lost Vikings, The (USA) (Beta 2)                                                
 Lothar Matthaeus Super Soccer (Germany)                                                        -      -     -
 Love Quest (Japan)                                                                             -      -     -
 Lucky Luke (Europe) (En,Fr,De,Es)                                                              -      -     -
+Lucky Luke (Europe) (En,Fr,De,Es) (Beta)                                                       ✗      ✗     ✗
 Lufia (Europe)                                                                                 -      -     -
 Lufia (Germany)                                                                                -      -     -
 Lufia (Netherlands)                                                                            -      -     -
@@ -1537,7 +1541,7 @@ Lufia II - Rise of the Sinistrals (USA)                                         
 Lufia _ the Fortress of Doom (USA)                                                             -      ✗     ✗
 Lufia _ the Fortress of Doom (USA) (Beta)                                                      -      ✗     ✗
 Lupin Sansei - Densetsu no Hihou o Oe! (Japan)                                                 -      -     -
-M.A.C.S. Basic Rifle Marksmanship (USA) [b]                                                    ✗      -     -
+MACS Basic Rifle Marksmanship (USA) [b]                                                        ✗      ✗     ✗
 MLBPA Baseball (USA)                                                                           -      -     -
 MVP Baseball (Japan) (En)                                                                      -      -     -
 Madden NFL '94 (Europe)                                                                        -      -     -
@@ -1552,6 +1556,7 @@ Madou Monogatari - Hanamaru Daiyouchienji (Japan)                               
 Maerchen Adventure Cotton 100% (Japan)                                                         -      -     -
 Magic Boy (Europe)                                                                             -      -     -
 Magic Boy (USA)                                                                                -      -     -
+Magic Boy (USA) (Beta) (1993-03-03)                                                            ✗      ✗     ✗
 Magic Johnson no Super Slam Dunk (Japan) (En)                                                  -      -     -
 Magic Knight Rayearth (Japan)                                                                  -      -     -
 Magic Sword (Europe)                                                                           -      -     -
@@ -2259,10 +2264,10 @@ RoboCop 3 (USA) (Arcade)                                                        
 RoboCop versus The Terminator (Europe)                                                         -      -     -
 RoboCop versus The Terminator (USA)                                                            -      -     -
 Robotrek (USA)                                                                                 -      -     -
-Rock 'N' Roll Racing (Europe)                                                                  ✗      ✗     ✗
-Rock N' Roll Racing (Japan)                                                                    ✗      ✗     ✗
-Rock N' Roll Racing (USA)                                                                      ✗      ✗     ✗
-Rock N' Roll Racing (USA) (Beta)                                                               ✗      ✗     ✗
+Rock 'N' Roll Racing (Europe)                                                                  -      -     -
+Rock N' Roll Racing (Japan)                                                                    -      -     -
+Rock N' Roll Racing (USA)                                                                      -      -     -
+Rock N' Roll Racing (USA) (Beta)                                                               -      -     -
 Rock _ Roll Racing (Europe) (Beta)                                                             -      -     -
 Rocketeer, The (USA)                                                                           -      -     -
 Rockman 7 - Shukumei no Taiketsu! (Japan)                                                      -      -     -
@@ -2548,7 +2553,7 @@ Space Ace (USA) (Beta)                                                          
 Space Bazooka (Japan)                                                                          -      -     -
 Space Football - One on One (USA)                                                              -      -     -
 Space Funky B.O.B. (Japan)                                                                     -      -     -
-Space Invaders (Europe)                                                                        -      -     -
+Space Invaders (Australia)                                                                     ✗      ✗     ✗
 Space Invaders (USA)                                                                           -      -     -
 Space Invaders - The Original Game (Japan)                                                     -      -     -
 Space Megaforce (USA)                                                                          -      -     -
@@ -2600,12 +2605,12 @@ Star Fox (Japan) (Rev 1)                                                        
 Star Fox (USA)                                                                                 -      -     -
 Star Fox (USA) (Rev 1)                                                                         ✗      ✗     ✗
 Star Fox (USA) (Rev 2)                                                                         -      -     -
-Star Fox 2 (Japan)                                                                             -      -     -
-Star Fox 2 (Japan) (En) (Proto 2) (1994-05-06)                                                 ✗      ✗     ✗
-Star Fox 2 (Japan) (En) (Proto 3) (1994-05-13)                                                 ✗      ✗     ✗
-Star Fox 2 (Japan) (Proto 1) (1994-04-15)                                                      ✗      ✗     ✗
-Star Fox 2 (Japan) (Proto 4) (1995-06-22)                                                      ✗      ✗     ✗
-Star Fox 2 (USA)                                                                               -      -     -
+Star Fox 2 (Japan) (Beta) (1994-04-15)                                                         ✗      ✗     ✗
+Star Fox 2 (Japan) (Beta) (1994-05-06)                                                         ✗      ✗     ✗
+Star Fox 2 (Japan) (Beta) (1994-05-13)                                                         ✗      ✗     ✗
+Star Fox 2 (Japan) (Beta) (1995-06-22)                                                         ✗      ✗     ✗
+Star Fox 2 (Japan) (Super Famicom Classic Mini)                                                ✗      ✗     ✗
+Star Fox 2 (USA) (SNES Mini)                                                                   ✗      ✗     ✗
 Star Ocean (Japan)                                                                             -      -     -
 Star Trek - Deep Space Nine - Crossroads of Time (Europe)                                      -      -     -
 Star Trek - Deep Space Nine - Crossroads of Time (USA)                                         -      -     -
@@ -2644,6 +2649,7 @@ Street Fighter II (USA) (Beta) (1992-04-03)                                     
 Street Fighter II Turbo (Europe)                                                               -      -     -
 Street Fighter II Turbo (Europe) (Rev 1)                                                       -      -     -
 Street Fighter II Turbo (Japan)                                                                -      -     -
+Street Fighter II Turbo (Japan) (Rev 1) (Virtual Console)                                      ✗      ✗     ✗
 Street Fighter II Turbo (USA)                                                                  -      -     -
 Street Fighter II Turbo (USA) (Rev 1)                                                          -      -     -
 Street Fighter Zero 2 (Japan)                                                                  -      -     -
@@ -2759,7 +2765,7 @@ Super Conflict (USA)                                                            
 Super Copa (Brazil) (Es,Pt)                                                                    -      -     -
 Super Cup Soccer (Japan) (En)                                                                  -      -     -
 Super Daikoukai Jidai (Japan)                                                                  -      -     -
-Super Daikoukai Jidai (Japan) (Rev 1) (NP)                                                     -      ✗     ✗
+Super Daikoukai Jidai (Japan) (Rev 1)                                                          ✗      ✗     ✗
 Super Dany (France)                                                                            -      -     -
 Super Dany (France) (Beta)                                                                     -      -     -
 Super Disc (Japan) (En) (v0.95) (Proto)                                                        ✗      ✗     ✗
@@ -2829,8 +2835,8 @@ Super Game Boy 2 SGB2-CPU (Japan) (Enhancement Chip)                            
 Super Game Boy SGB-CPU (World) (Enhancement Chip)                                              ✗      ✗     ✗
 Super Genjin (Japan)                                                                           -      -     -
 Super Genjin 2 (Japan)                                                                         -      -     -
-Super Ghouls 'N Ghosts (Europe)                                                                ✗      ✗     ✗
-Super Ghouls 'N Ghosts (USA)                                                                   -      -     ✗
+Super Ghouls 'N Ghosts (Europe)                                                                -      -     -
+Super Ghouls 'N Ghosts (USA)                                                                   -      -     -
 Super Goal! (Europe)                                                                           -      -     -
 Super Goal! 2 (USA)                                                                            -      -     -
 Super Godzilla (USA)                                                                           -      -     -
@@ -2915,7 +2921,7 @@ Super Mario World (USA)                                                         
 Super Mario World - Super Mario Bros. 4 (Japan)                                                -      -     -
 Super Mario World 2 - Yoshi's Island (Europe) (En,Fr,De)                                       -      -     -
 Super Mario World 2 - Yoshi's Island (Europe) (En,Fr,De) (Rev 1)                               -      -     -
-Super Mario World 2 - Yoshi's Island (Europe) (En,Fr,De) (Rev 2)                               ✗      ✗     ✗
+Super Mario World 2 - Yoshi's Island (Europe) (En,Fr,De) (Rev 2)                               -      -     -
 Super Mario World 2 - Yoshi's Island (USA)                                                     -      -     -
 Super Mario World 2 - Yoshi's Island (USA, Asia) (Rev 1)                                       -      -     -
 Super Metroid (Europe) (En,Fr,De)                                                              -      -     -
@@ -3046,7 +3052,7 @@ Super Star Wars - The Empire Strikes Back (USA)                                 
 Super Star Wars - The Empire Strikes Back (USA) (Rev 1)                                        -      -     -
 Super Street Fighter II (Europe)                                                               -      -     -
 Super Street Fighter II (USA)                                                                  -      -     -
-Super Street Fighter II (USA) (Rev 1)                                                          ✗      ✗     ✗
+Super Street Fighter II (USA) (Rev 1)                                                          -      -     -
 Super Street Fighter II - The New Challengers (Japan)                                          -      -     -
 Super Strike Eagle (Europe) (En,Fr,De,Es,It)                                                   -      -     -
 Super Strike Eagle (USA)                                                                       -      -     -
@@ -3143,6 +3149,7 @@ Tales of Phantasia (Japan)                                                      
 Tamagotch Town (Japan) (NP)                                                                    ✗      -     -
 Targa (Europe) (Proto)                                                                         ✗      ✗     ✗
 Tarot Mystery (Japan)                                                                          -      -     -
+Tarzan - Lord of the Jungle (USA) (Proto)                                                      ✗      ✗     ✗
 Tatakae Genshijin 2 - Rookie no Bouken (Japan) (En)                                            -      -     -
 Tatakae Genshijin 3 - Shuyaku wa Yappari Joe _ Mac (Japan)                                     -      -     -
 Taz-Mania (Europe)                                                                             -      -     -
@@ -3280,7 +3287,8 @@ Torneko no Daibouken - Fushigi no Dungeon (Japan) (Rev 1)                       
 Total Carnage (Europe)                                                                         -      -     -
 Total Carnage (USA)                                                                            -      -     -
 Total Carnage (USA) (Beta 1)                                                                   -      -     -
-Total Carnage (USA) (Beta 2)                                                                   -      -     -
+Total Carnage (USA) (Beta 2) (1993-06-10)                                                      ✗      ✗     ✗
+Total Carnage (USA) (Beta 3)                                                                   ✗      ✗     ✗
 Total Football (Europe) (Proto)                                                                ✗      ✗     ✗
 Tottemo! Lucky Man - Lucky Cookie Roulette de Totsugekii (Japan)                               -      -     -
 Touge Densetsu - Saisoku Battle (Japan)                                                        -      -     -
@@ -3294,11 +3302,11 @@ Toys - Let the Toy Wars begin! (USA)                                            
 Traverse - Starlight _ Prairie (Japan)                                                         -      -     -
 Treasure Hunter G (Japan)                                                                      -      -     -
 Tri-Star (USA) (Unl)                                                                           ✗      -     -
-Trials of Mana (World)                                                                         ✗      -     -
+Trials of Mana (World)                                                                         -      -     -
 Trials of Mana (World) (Beta) (2019-04-02)                                                     ✗      ✗     ✗
 Trials of Mana (World) (De)                                                                    ✗      ✗     ✗
-Trials of Mana (World) (Es)                                                                    ✗      ✗     ✗
-Trials of Mana (World) (Fr)                                                                    ✗      ✗     ✗
+Trials of Mana (World) (Es)                                                                    -      ✗     ✗
+Trials of Mana (World) (Fr)                                                                    -      ✗     ✗
 Trinea (Japan)                                                                                 -      -     -
 Troddlers (Europe)                                                                             -      -     -
 Troddlers (Europe) (Beta)                                                                      -      -     -

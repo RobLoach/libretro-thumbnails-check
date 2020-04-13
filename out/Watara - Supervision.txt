@@ -1,9 +1,9 @@
 Watara - Supervision Missing
 
-Boxarts    63/67  94.03%
-Snaps      63/67  94.03%
-Titles     64/67  95.52%
-Total    190/201  94.53%
+Boxarts    63/68  92.65%
+Snaps      64/68  94.12%
+Titles     65/68  95.59%
+Total    192/204  94.12%
 
 Name                                              Boxart  Snap  Title
 2 in 1 - Block Buster + Cross High (USA, Europe)     -      -     -
@@ -20,6 +20,7 @@ Chimera (USA, Europe)                                -      -     -
 Chinese Checkers (USA, Europe)                       -      -     -
 Classic Casino (USA, Europe)                         -      -     -
 Climber (USA, Europe)                                -      -     -
+Cross High (USA, Europe)                             ✗      ✗     ✗
 Crystball (USA, Europe)                              -      -     -
 Dancing Block (USA, Europe)                          -      -     -
 Delta Hero (USA, Europe)                             -      -     -
@@ -40,7 +41,7 @@ Honey Bee (USA, Europe)                              -      -     -
 Jacky Lucky (USA, Europe)                            -      -     -
 Jaguar Bomber (USA, Europe)                          -      -     -
 John Adventure (USA, Europe)                         -      -     -
-Journey to the West (USA)                            ✗      ✗     ✗
+Journey to the West (USA)                            ✗      -     -
 Juggler (USA, Europe)                                -      -     -
 Kabi Island - Gold in Island (USA, Europe)           -      -     -
 Kitchen War (USA, Europe)                            -      -     -
