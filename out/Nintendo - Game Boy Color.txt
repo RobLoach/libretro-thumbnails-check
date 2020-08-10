@@ -1,9 +1,9 @@
 Nintendo - Game Boy Color Missing
 
-Boxarts   808/1473  54.85%
-Snaps    1224/1473  83.10%
-Titles   1208/1473  82.01%
-Total    3240/4419  73.32%
+Boxarts   812/1473  55.13%
+Snaps    1229/1473  83.44%
+Titles   1213/1473  82.35%
+Total    3254/4419  73.64%
 
 Name                                                                                                             Boxart  Snap  Title
 007 - The World Is Not Enough (USA, Europe)                                                                         -      -     -
@@ -411,6 +411,7 @@ Gakkyuu Ou Yamazaki (Japan) (Rev 1) (GB Compatible)                             
 Galaga - Destination Earth (USA)                                                                                    -      -     -
 Gambler Densetsu Tetsuya - Shinjuku Tenun Hen (Japan)                                                               ✗      -     -
 Gambler Densetsu Tetsuya - Shinjuku Tenun Hen (Japan) (Rev 1)                                                       ✗      ✗     ✗
+Game Boy Color (World) (Demo) (Kiosk)                                                                               ✗      ✗     ✗
 Game Boy Gallery 3 (Australia) (SGB Enhanced) (GB Compatible)                                                       -      -     -
 Game Boy Gallery 3 (Japan) (SGB Enhanced) (GB Compatible)                                                           -      -     -
 Game Boy Gallery 4 (Australia) (SGB Enhanced) (GB Compatible)                                                       -      -     -
@@ -419,7 +420,6 @@ Game Boy Wars 3 (Japan)                                                         
 Game Conveni 21 (Japan) (GB Compatible)                                                                             ✗      -     -
 Game _ Watch Gallery 2 (USA, Europe) (SGB Enhanced) (GB Compatible)                                                 -      -     -
 Game _ Watch Gallery 3 (USA, Europe) (SGB Enhanced) (GB Compatible)                                                 -      -     -
-GameBoy Color (World) (Promo)                                                                                       ✗      ✗     ✗
 GameShark Online (USA) (Unl)                                                                                        ✗      -     -
 Games Frenzy (Europe) (En,Fr,De)                                                                                    -      -     -
 Ganbare Goemon - Mononoke Douchuu Tobidase Nabebugyou! (Japan) (SGB Enhanced) (GB Compatible)                       ✗      ✗     ✗
@@ -576,7 +576,7 @@ JumpStart Dino Adventure - Field Trip (USA)                                     
 Jungle Book, The - Mowgli's Wild Adventure (Europe) (En,Fr,De,Es,It)                                                -      -     -
 Jungle Book, The - Mowgli's Wild Adventure (USA) (En,Fr,De,Es,It)                                                   -      -     -
 Jurassic Boy 2 (World) (Rev 1) (Sachen) (Unl)                                                                       ✗      ✗     ✗
-Jurassic Boy 2 (World) (Sachen) (Unl)                                                                               ✗      ✗     ✗
+Jurassic Boy 2 + Thunder Blast Man (World) (1B-002, 1B-003, Sachen) (Unl)                                           ✗      ✗     ✗
 Juukou Senki Bullet Battlers (Japan) (SGB Enhanced) (GB Compatible)                                                 ✗      -     -
 K.O. - The Pro Boxing (Japan)                                                                                       ✗      -     -
 Kaept'n Blaubaer - Die verrueckte Schatzsuche (Germany)                                                             ✗      -     -
@@ -1262,7 +1262,7 @@ Superman - Battle for Metropolis (Europe) (Proto) (2001-01-12) (GB Compatible)  
 Supreme Snowboarding (Europe) (En,Fr,De)                                                                            -      -     -
 Survival Kids (USA) (SGB Enhanced) (GB Compatible)                                                                  -      -     -
 Survival Kids - Kotou no Boukensha (Japan) (SGB Enhanced) (GB Compatible)                                           -      -     -
-Survival Kids 2 - Dasshutsu!! Futago-Jima! (Japan) (SGB Enhanced) (GB Compatible)                                   -      ✗     ✗
+Survival Kids 2 - Dasshutsu!! Futago-Jima! (Japan) (SGB Enhanced) (GB Compatible)                                   -      -     -
 Suske en Wiske - De Tijdtemmers ~ Bob et Bobette - Les Dompteurs du Temps (Europe) (Fr,Nl)                          ✗      ✗     ✗
 Suzuki Alstare Extreme Racing (Europe) (En,Fr,De,Es,It,Nl)                                                          ✗      -     -
 Sweet Ange (Japan) (SGB Enhanced) (GB Compatible)                                                                   ✗      -     -
@@ -1461,10 +1461,10 @@ Yu-Gi-Oh! - Duel des Tenebres (France)                                          
 Yu-Gi-Oh! - Duelo en las Tinieblas (Spain)                                                                          -      -     -
 Yu-Gi-Oh! - Monster Capsule GB (Japan) (SGB Enhanced) (GB Compatible)                                               ✗      -     -
 Yu-Gi-Oh! - Racconti Oscuri (Italy)                                                                                 -      -     -
-Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (Japan)                                        ✗      ✗     ✗
-Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Japan)                                            ✗      ✗     ✗
-Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (Japan)                                            ✗      ✗     ✗
-Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories (Japan) (SGB Enhanced) (GB Compatible)                               ✗      ✗     ✗
+Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (Japan)                                        -      -     -
+Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Japan)                                            -      -     -
+Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (Japan)                                            -      -     -
+Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories (Japan) (SGB Enhanced) (GB Compatible)                               -      -     -
 Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advant (Japan)                                                           -      ✗     ✗
 Zebco Fishing! (USA) (Rumble Version)                                                                               -      -     -
 Zelda no Densetsu - Fushigi no Kinomi - Daichi no Shou (Japan)                                                      -      -     -
