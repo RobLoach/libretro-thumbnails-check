@@ -1,11 +1,13 @@
 Nintendo - GameCube Missing
 
-Boxarts   180/4336  4.15%
-Snaps       2/4336  0.05%
-Titles      4/4336  0.09%
-Total    186/13008  1.43%
+Boxarts   194/4344  4.47%
+Snaps      14/4344  0.32%
+Titles     16/4344  0.37%
+Total    224/13032  1.72%
 
 Name                                                                                                                                            Boxart  Snap  Title
+ (USA) (En)                                                                                                                                        ✗      ✗     ✗
+ (USA) (En).iso                                                                                                                                    ✗      ✗     ✗
 007 - Agent Under Fire (Europe)                                                                                                                    ✗      ✗     ✗
 007 - Agent Under Fire (USA)                                                                                                                       ✗      ✗     ✗
 007 - Agent Under Fire (USA) (Rev 1)                                                                                                               ✗      ✗     ✗
@@ -119,7 +121,7 @@ Action Replay for GameCube (USA) (Unl) (Version 1.20)                           
 Action Replay.iso                                                                                                                                  ✗      ✗     ✗
 Advance Game Port (USA) (Unl)                                                                                                                      ✗      ✗     ✗
 Advance Game Port (USA) (Unl) (Rev 1)                                                                                                              ✗      ✗     ✗
-Advance Game Port (USA) (Unl) (Rev 2)                                                                                                              ✗      ✗     ✗
+Advance Game Port (USA, Europe) (Unl) (Rev 2)                                                                                                      ✗      ✗     ✗
 Aggressive Inline (Europe)                                                                                                                         ✗      ✗     ✗
 Aggressive Inline (Europe) (En,Fr,De,Es)                                                                                                           ✗      ✗     ✗
 Aggressive Inline (Europe).iso                                                                                                                     ✗      ✗     ✗
@@ -390,7 +392,7 @@ Bloody Roar - Primal Fury (Europe)                                              
 Bloody Roar - Primal Fury (USA)                                                                                                                    -      ✗     ✗
 Bloody Roar Extreme (Japan)                                                                                                                        ✗      ✗     ✗
 Bloody Roar Extreme (Japan).iso                                                                                                                    ✗      ✗     ✗
-Bloody Roar_ Primal Fury (Europe)                                                                                                                  ✗      ✗     ✗
+Bloody Roar_ Primal Fury (Europe)                                                                                                                  -      ✗     ✗
 Bloody Roar_ Primal Fury (Europe).iso                                                                                                              ✗      ✗     ✗
 Bloody Roar_ Primal Fury (USA)                                                                                                                     ✗      ✗     ✗
 Bloody Roar_ Primal Fury (USA).iso                                                                                                                 ✗      ✗     ✗
@@ -1079,7 +1081,7 @@ F-Zero GX (Europe).iso                                                          
 F-Zero GX (Japan)                                                                                                                                  -      ✗     ✗
 F-Zero GX (Japan).iso                                                                                                                              ✗      ✗     ✗
 F-Zero GX (Korea)                                                                                                                                  ✗      ✗     ✗
-F-Zero GX (USA)                                                                                                                                    -      ✗     ✗
+F-Zero GX (USA)                                                                                                                                    -      -     -
 F-Zero GX (USA).iso                                                                                                                                ✗      ✗     ✗
 F1 2002 (Europe)                                                                                                                                   ✗      ✗     ✗
 F1 2002 (Europe) (En,Fr,De,It)                                                                                                                     ✗      ✗     ✗
@@ -1285,6 +1287,7 @@ GameCube Service Disc (USA)                                                     
 GameCube Service Disc (USA).iso                                                                                                                    ✗      ✗     ✗
 Gauntlet - Dark Legacy (Europe) (En,Fr,De)                                                                                                         ✗      ✗     ✗
 Gauntlet - Dark Legacy (USA)                                                                                                                       ✗      ✗     ✗
+Gauntlet - Dark Legacy (USA) (Rev 1)                                                                                                               ✗      ✗     ✗
 Gauntlet_ Dark Legacy (Europe)                                                                                                                     ✗      ✗     ✗
 Gauntlet_ Dark Legacy (Europe).iso                                                                                                                 ✗      ✗     ✗
 Gauntlet_ Dark Legacy (USA)                                                                                                                        ✗      ✗     ✗
@@ -1300,10 +1303,8 @@ Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan)          
 Gekituisenki - Zero Fighter (Japan)                                                                                                                ✗      ✗     ✗
 Gekituisenki - Zero Fighter (Japan).iso                                                                                                            ✗      ✗     ✗
 Gekkan Nintendo Tentou Demo 2002.10.1 (Japan)                                                                                                      ✗      ✗     ✗
-Gekkan Nintendo Tentou Demo 2002.11.1 (Japan)                                                                                                      ✗      ✗     ✗
 Gekkan Nintendo Tentou Demo 2002.11.1 (Japan) (Disc A)                                                                                             ✗      ✗     ✗
 Gekkan Nintendo Tentou Demo 2002.11.1 (Japan) (Disc B)                                                                                             ✗      ✗     ✗
-Gekkan Nintendo Tentou Demo 2002.11.1 (Japan).iso                                                                                                  ✗      ✗     ✗
 Gekkan Nintendo Tentou Demo 2002.5.1 (Japan)                                                                                                       ✗      ✗     ✗
 Gekkan Nintendo Tentou Demo 2002.6.1 (Japan)                                                                                                       ✗      ✗     ✗
 Gekkan Nintendo Tentou Demo 2002.7.1 (Japan)                                                                                                       ✗      ✗     ✗
@@ -1446,7 +1447,6 @@ Harry Potter och den flammande baegaren (Sweden)                                
 Harry Potter och fangen fran Azkaban (Sweden)                                                                                                      ✗      ✗     ✗
 Harry Potter to Azkaban no Shuujin (Japan)                                                                                                         -      ✗     ✗
 Harry Potter to Azkaban no Shuujin (Japan).iso                                                                                                     ✗      ✗     ✗
-Harry Potter to Himitsu no Heiya (Japan)                                                                                                           ✗      ✗     ✗
 Harry Potter to Himitsu no Heya (Japan)                                                                                                            -      ✗     ✗
 Harry Potter to Himitsu no Heya (Japan).iso                                                                                                        ✗      ✗     ✗
 Harry Potter to Honoo no Goblet (Japan)                                                                                                            -      ✗     ✗
@@ -1718,6 +1718,7 @@ Interactive Multi-Game Demo Disk - February 2005 (Europe) (En,Fr,De,Es,It)      
 Interactive Multi-Game Demo Disk - July 2004 (Europe) (En,Fr,De,Es,It)                                                                             ✗      ✗     ✗
 Interactive Multi-Game Demo Disk - June 2003 (Europe) (En,Fr,De,Es,It)                                                                             ✗      ✗     ✗
 Interactive Multi-Game Demo Disk - March 2002 (Europe) (En,Fr,De,Es,It)                                                                            ✗      ✗     ✗
+Interactive Multi-Game Demo Disk - March 2004 (Australia)                                                                                          ✗      ✗     ✗
 Interactive Multi-Game Demo Disk - March 2004 (Europe) (En,Fr,De,Es,It)                                                                            ✗      ✗     ✗
 Interactive Multi-Game Demo Disk - May 2002 (Europe) (En,Fr,De,Es,It)                                                                              ✗      ✗     ✗
 Interactive Multi-Game Demo Disk - May 2004 (Europe) (En,Fr,De,Es,It)                                                                              ✗      ✗     ✗
@@ -1725,7 +1726,9 @@ Interactive Multi-Game Demo Disk - May 2005 (Europe) (En,Fr,De,Es,It)           
 Interactive Multi-Game Demo Disk - November 2002 (Europe) (En,Fr,De,Es,It)                                                                         ✗      ✗     ✗
 Interactive Multi-Game Demo Disk - November 2003 (Australia) (En,Fr,De,Es,It)                                                                      ✗      ✗     ✗
 Interactive Multi-Game Demo Disk - November 2003 (Europe) (En,Fr,De,Es,It)                                                                         ✗      ✗     ✗
+Interactive Multi-Game Demo Disk - November 2004 (Australia)                                                                                       ✗      ✗     ✗
 Interactive Multi-Game Demo Disk - November 2004 (Europe) (En,Fr,De,Es,It)                                                                         ✗      ✗     ✗
+Interactive Multi-Game Demo Disk - October 2005 (Australia)                                                                                        ✗      ✗     ✗
 Interactive Multi-Game Demo Disk - October 2005 (Europe) (En,Fr,De,Es,It)                                                                          ✗      ✗     ✗
 Interactive Multi-Game Demo Disk - September 2002 (Australia) (En,Fr,De,Es,It)                                                                     ✗      ✗     ✗
 Interactive Multi-Game Demo Disk - September 2002 (Europe) (En,Fr,De,Es,It)                                                                        ✗      ✗     ✗
@@ -1851,8 +1854,8 @@ Kirby's Airride (Japan).iso                                                     
 Kiwame Mahjong DX II - The 4th MONDO21Cup Competition (Japan)                                                                                      ✗      ✗     ✗
 Kiwame Mahjong DX2 (Japan)                                                                                                                         ✗      ✗     ✗
 Kiwame Mahjong DX2 (Japan).iso                                                                                                                     ✗      ✗     ✗
-Knights Of The Temple _ Infernal Crusade (Europe)                                                                                                  ✗      ✗     ✗
-Knights Of The Temple _ Infernal Crusade (Europe).iso                                                                                              ✗      ✗     ✗
+Knights Of The Temple_ Infernal Crusade (Europe)                                                                                                   ✗      ✗     ✗
+Knights Of The Temple_ Infernal Crusade (Europe).iso                                                                                               ✗      ✗     ✗
 Knights of the Temple - Infernal Crusade (Europe) (En,Fr,De,Es)                                                                                    ✗      ✗     ✗
 Knockout Kings 2003 (Europe)                                                                                                                       ✗      ✗     ✗
 Knockout Kings 2003 (Europe) (En,Fr,De)                                                                                                            ✗      ✗     ✗
@@ -1885,15 +1888,15 @@ LEGO Star Wars_ The Video Game (USA)                                            
 LEGO Star Wars_ The Video Game (USA).iso                                                                                                           ✗      ✗     ✗
 Lara Croft Tomb Raider - Legend (Europe)                                                                                                           ✗      ✗     ✗
 Lara Croft Tomb Raider - Legend (France)                                                                                                           ✗      ✗     ✗
-Lara Croft Tomb Raider - Legend (Germany) (En,Fr,De,Es,It)                                                                                         ✗      ✗     ✗
+Lara Croft Tomb Raider - Legend (Germany)                                                                                                          ✗      ✗     ✗
 Lara Croft Tomb Raider - Legend (USA)                                                                                                              ✗      ✗     ✗
 Lara Croft Tomb Raider_ Legend (Europe)                                                                                                            ✗      ✗     ✗
 Lara Croft Tomb Raider_ Legend (Europe).iso                                                                                                        ✗      ✗     ✗
 Lara Croft Tomb Raider_ Legend (USA)                                                                                                               ✗      ✗     ✗
 Lara Croft Tomb Raider_ Legend (USA).iso                                                                                                           ✗      ✗     ✗
 Largo Winch - Empire Under Threat (Europe) (En,Fr,De,Es,It)                                                                                        ✗      ✗     ✗
-Largo Winch _ Empire Under Threat (Europe)                                                                                                         ✗      ✗     ✗
-Largo Winch _ Empire Under Threat (Europe).iso                                                                                                     ✗      ✗     ✗
+Largo Winch_ Empire Under Threat (Europe)                                                                                                          ✗      ✗     ✗
+Largo Winch_ Empire Under Threat (Europe).iso                                                                                                      ✗      ✗     ✗
 Legend of Golfer (Japan)                                                                                                                           ✗      ✗     ✗
 Legend of Golfer (Japan).iso                                                                                                                       ✗      ✗     ✗
 Legend of Spyro, The - A New Beginning (Europe) (En,Fr,De,Es,It,Nl)                                                                                ✗      ✗     ✗
@@ -2047,7 +2050,7 @@ Mario Kart_ Double Dash!! (Europe)                                              
 Mario Kart_ Double Dash!! (Europe).iso                                                                                                             ✗      ✗     ✗
 Mario Kart_ Double Dash!! (Japan)                                                                                                                  -      ✗     ✗
 Mario Kart_ Double Dash!! (Japan).iso                                                                                                              ✗      ✗     ✗
-Mario Kart_ Double Dash!! (USA)                                                                                                                    -      ✗     ✗
+Mario Kart_ Double Dash!! (USA)                                                                                                                    -      -     -
 Mario Kart_ Double Dash!! (USA).iso                                                                                                                ✗      ✗     ✗
 Mario Kart_ Double Dash!! Bonus Disc (USA)                                                                                                         -      ✗     ✗
 Mario Kart_ Double Dash!! Bonus Disc (USA).iso                                                                                                     ✗      ✗     ✗
@@ -2121,7 +2124,9 @@ Mat Hoffman's Pro BMX 2 (Europe).iso                                            
 Mat Hoffman's Pro BMX 2 (USA)                                                                                                                      ✗      ✗     ✗
 Mat Hoffman's Pro Bmx 2 (USA)                                                                                                                      ✗      ✗     ✗
 Mat Hoffman's Pro Bmx 2 (USA).iso                                                                                                                  ✗      ✗     ✗
+Max Drive (USA) (Unl)                                                                                                                              ✗      ✗     ✗
 Max Drive Pro (USA) (Unl)                                                                                                                          ✗      ✗     ✗
+MaxPlay (USA) (Unl)                                                                                                                                ✗      ✗     ✗
 MaxPlay Volume 01 (Europe) (Unl)                                                                                                                   ✗      ✗     ✗
 Medabots Infinity (Europe)                                                                                                                         ✗      ✗     ✗
 Medabots Infinity (Europe) (En,Fr,De,Nl)                                                                                                           ✗      ✗     ✗
@@ -2319,6 +2324,12 @@ Monthly Nintendo Shop Demo - May 2003 (Japan)                                   
 Monthly Nintendo Shop Demo - May 2003 (Japan).iso                                                                                                  ✗      ✗     ✗
 Monthly Nintendo Shop Demo - May 2004 (Japan)                                                                                                      ✗      ✗     ✗
 Monthly Nintendo Shop Demo - May 2004 (Japan).iso                                                                                                  ✗      ✗     ✗
+Monthly Nintendo Shop Demo - November 2002 (Japan)                                                                                                 ✗      ✗     ✗
+Monthly Nintendo Shop Demo - November 2002 (Japan).iso                                                                                             ✗      ✗     ✗
+Monthly Nintendo Shop Demo - October 2002 (Japan)                                                                                                  ✗      ✗     ✗
+Monthly Nintendo Shop Demo - October 2002 (Japan).iso                                                                                              ✗      ✗     ✗
+Monthly Nintendo Shop Demo - October 2004 (Japan)                                                                                                  ✗      ✗     ✗
+Monthly Nintendo Shop Demo - October 2004 (Japan).iso                                                                                              ✗      ✗     ✗
 Monthly Nintendo Shop Demo - September 2002 (Japan)                                                                                                ✗      ✗     ✗
 Monthly Nintendo Shop Demo - September 2002 (Japan).iso                                                                                            ✗      ✗     ✗
 Mortal Kombat - Deadly Alliance (Europe) (En,Fr,De,Es,It)                                                                                          ✗      ✗     ✗
@@ -2438,7 +2449,7 @@ NFL Street 2 (USA)                                                              
 NFL Street 2 (USA).iso                                                                                                                             ✗      ✗     ✗
 NHK Tensai Bit-Kun - Gramon Battle (Japan)                                                                                                         ✗      ✗     ✗
 NHK Tensai Bit-Kun - Gramon Battle (Japan).iso                                                                                                     ✗      ✗     ✗
-NHK Tensai Bit-kun - Gramon Battle (Japan)                                                                                                         ✗      ✗     ✗
+NHK Tensai Bit-kun - Glamon Battle (Japan)                                                                                                         ✗      ✗     ✗
 NHL 06 (Europe)                                                                                                                                    ✗      ✗     ✗
 NHL 06 (Europe) (En,Fr)                                                                                                                            ✗      ✗     ✗
 NHL 06 (Europe).iso                                                                                                                                ✗      ✗     ✗
@@ -2675,7 +2686,7 @@ P.N.03 (Japan)                                                                  
 P.N.03 (Japan).iso                                                                                                                                 ✗      ✗     ✗
 P.N.03 (Promo) (Europe)                                                                                                                            ✗      ✗     ✗
 P.N.03 (Promo) (Europe).iso                                                                                                                        ✗      ✗     ✗
-P.N.03 (USA)                                                                                                                                       ✗      ✗     ✗
+P.N.03 (USA)                                                                                                                                       -      ✗     ✗
 P.N.03 (USA).iso                                                                                                                                   ✗      ✗     ✗
 Pac Man Fever (USA)                                                                                                                                ✗      ✗     ✗
 Pac Man Fever (USA).iso                                                                                                                            ✗      ✗     ✗
@@ -2785,9 +2796,9 @@ Pokemon Box - Ruby _ Sapphire (Japan)                                           
 Pokemon Box - Ruby _ Sapphire (USA) (Rev 1)                                                                                                        ✗      ✗     ✗
 Pokemon Channel (Australia)                                                                                                                        ✗      ✗     ✗
 Pokemon Channel (Europe) (En,Fr,De,Es,It)                                                                                                          ✗      ✗     ✗
-Pokemon Channel (Japan)                                                                                                                            ✗      ✗     ✗
 Pokemon Channel (USA)                                                                                                                              -      ✗     ✗
 Pokemon Channel - Bangumi Kakuchou Pack (Japan)                                                                                                    ✗      ✗     ✗
+Pokemon Channel - Pikachu to Issho! (Japan)                                                                                                        ✗      ✗     ✗
 Pokemon Colosseum (Europe) (En,Fr,De,Es,It)                                                                                                        ✗      ✗     ✗
 Pokemon Colosseum (Japan)                                                                                                                          ✗      ✗     ✗
 Pokemon Colosseum (USA)                                                                                                                            -      ✗     ✗
@@ -2980,7 +2991,7 @@ Resident Evil 4_ Preview Disc (USA)                                             
 Resident Evil 4_ Preview Disc (USA).iso                                                                                                            ✗      ✗     ✗
 Resident Evil Code_ Veronica X (Europe)                                                                                                            ✗      ✗     ✗
 Resident Evil Code_ Veronica X (Europe).iso                                                                                                        ✗      ✗     ✗
-Resident Evil Code_ Veronica X (USA)                                                                                                               ✗      ✗     ✗
+Resident Evil Code_ Veronica X (USA)                                                                                                               -      -     -
 Resident Evil Code_ Veronica X (USA).iso                                                                                                           ✗      ✗     ✗
 Resident Evil Zero (Europe)                                                                                                                        ✗      ✗     ✗
 Resident Evil Zero (Europe) (En,Fr,De,Es,It) (Disc 1)                                                                                              ✗      ✗     ✗
@@ -3007,8 +3018,8 @@ Robocop_ Aratanaru Kiki (Japan)                                                 
 Robocop_ Aratanaru Kiki (Japan).iso                                                                                                                ✗      ✗     ✗
 Robotech - Battlecry (Europe) (En,Fr,De,Es,It)                                                                                                     ✗      ✗     ✗
 Robotech - Battlecry (USA)                                                                                                                         ✗      ✗     ✗
-Robotech _ Battlecry (Europe)                                                                                                                      ✗      ✗     ✗
-Robotech _ Battlecry (Europe).iso                                                                                                                  ✗      ✗     ✗
+Robotech_ Battlecry (Europe)                                                                                                                       ✗      ✗     ✗
+Robotech_ Battlecry (Europe).iso                                                                                                                   ✗      ✗     ✗
 Robotech_ Battlecry (USA)                                                                                                                          ✗      ✗     ✗
 Robotech_ Battlecry (USA).iso                                                                                                                      ✗      ✗     ✗
 Robots (Europe)                                                                                                                                    ✗      ✗     ✗
@@ -3066,7 +3077,7 @@ SSX 3 (Europe) (En,Fr,De,Es)                                                    
 SSX 3 (Europe).iso                                                                                                                                 ✗      ✗     ✗
 SSX 3 (Japan)                                                                                                                                      ✗      ✗     ✗
 SSX 3 (Japan).iso                                                                                                                                  ✗      ✗     ✗
-SSX 3 (USA)                                                                                                                                        ✗      ✗     ✗
+SSX 3 (USA)                                                                                                                                        -      ✗     ✗
 SSX 3 (USA).iso                                                                                                                                    ✗      ✗     ✗
 SSX On Tour (Europe)                                                                                                                               ✗      ✗     ✗
 SSX On Tour (Europe) (En,Fr,De)                                                                                                                    ✗      ✗     ✗
@@ -3079,7 +3090,7 @@ SSX Tricky (Europe) (En,Fr,De)                                                  
 SSX Tricky (Europe).iso                                                                                                                            ✗      ✗     ✗
 SSX Tricky (Japan)                                                                                                                                 ✗      ✗     ✗
 SSX Tricky (Japan).iso                                                                                                                             ✗      ✗     ✗
-SSX Tricky (USA)                                                                                                                                   ✗      ✗     ✗
+SSX Tricky (USA)                                                                                                                                   -      ✗     ✗
 SSX Tricky (USA).iso                                                                                                                               ✗      ✗     ✗
 SSX on Tour (USA)                                                                                                                                  ✗      ✗     ✗
 SSX on Tour (USA).iso                                                                                                                              ✗      ✗     ✗
@@ -3301,7 +3312,7 @@ SoulCalibur II (Europe)                                                         
 SoulCalibur II (Europe).iso                                                                                                                        ✗      ✗     ✗
 SoulCalibur II (Japan)                                                                                                                             ✗      ✗     ✗
 SoulCalibur II (Japan).iso                                                                                                                         ✗      ✗     ✗
-SoulCalibur II (USA)                                                                                                                               ✗      ✗     ✗
+SoulCalibur II (USA)                                                                                                                               -      -     -
 SoulCalibur II (USA).iso                                                                                                                           ✗      ✗     ✗
 Soulcalibur II (Demo) (USA)                                                                                                                        ✗      ✗     ✗
 Soulcalibur II (Demo) (USA).iso                                                                                                                    ✗      ✗     ✗
@@ -3389,8 +3400,6 @@ SpongeBob Squarepants_ Battle For Bikini Bottom (Europe)                        
 SpongeBob Squarepants_ Battle For Bikini Bottom (Europe).iso                                                                                       ✗      ✗     ✗
 Spongebob Squarepants _ Friends_ Unite! (Europe)                                                                                                   ✗      ✗     ✗
 Spongebob Squarepants _ Friends_ Unite! (Europe).iso                                                                                               ✗      ✗     ✗
-Spongebob Squarepants _ The Movie (Europe)                                                                                                         ✗      ✗     ✗
-Spongebob Squarepants _ The Movie (Europe).iso                                                                                                     ✗      ✗     ✗
 Spongebob Squarepants_ The Movie (Europe)                                                                                                          ✗      ✗     ✗
 Spongebob Squarepants_ The Movie (Europe).iso                                                                                                      ✗      ✗     ✗
 SpyHunter (Europe)                                                                                                                                 ✗      ✗     ✗
@@ -3420,7 +3429,7 @@ Star Fox Adventures (Europe) (En,Fr,De,Es,It) (Rev 1)                           
 Star Fox Adventures (Europe).iso                                                                                                                   ✗      ✗     ✗
 Star Fox Adventures (Japan)                                                                                                                        ✗      ✗     ✗
 Star Fox Adventures (Japan) (Rev 1)                                                                                                                ✗      ✗     ✗
-Star Fox Adventures (USA)                                                                                                                          ✗      ✗     ✗
+Star Fox Adventures (USA)                                                                                                                          -      ✗     ✗
 Star Fox Adventures (USA) (Rev 1)                                                                                                                  ✗      ✗     ✗
 Star Fox Adventures (USA).iso                                                                                                                      ✗      ✗     ✗
 Star Fox Assault (Europe)                                                                                                                          ✗      ✗     ✗
@@ -3446,13 +3455,13 @@ Star Wars - Rogue Squadron II - Rogue Leader (France)                           
 Star Wars - Rogue Squadron II - Rogue Leader (Germany)                                                                                             ✗      ✗     ✗
 Star Wars - Rogue Squadron II - Rogue Leader (Italy)                                                                                               ✗      ✗     ✗
 Star Wars - Rogue Squadron II - Rogue Leader (Spain)                                                                                               ✗      ✗     ✗
-Star Wars - Rogue Squadron II - Rogue Leader (USA)                                                                                                 -      ✗     ✗
+Star Wars - Rogue Squadron II - Rogue Leader (USA)                                                                                                 ✗      ✗     ✗
 Star Wars - Rogue Squadron III (Japan)                                                                                                             ✗      ✗     ✗
 Star Wars - Rogue Squadron III - Rebel Strike (Europe) (En,Fr,De,Es,It)                                                                            ✗      ✗     ✗
 Star Wars - Rogue Squadron III - Rebel Strike (Europe) (En,Fr,De,Es,It) (Demo)                                                                     ✗      ✗     ✗
 Star Wars - Rogue Squadron III - Rebel Strike (France)                                                                                             ✗      ✗     ✗
 Star Wars - Rogue Squadron III - Rebel Strike (Germany)                                                                                            ✗      ✗     ✗
-Star Wars - Rogue Squadron III - Rebel Strike (USA)                                                                                                -      ✗     ✗
+Star Wars - Rogue Squadron III - Rebel Strike (USA)                                                                                                ✗      ✗     ✗
 Star Wars - Rogue Squadron III - Rebel Strike (USA) (Limited Edition Preview Disc)                                                                 ✗      ✗     ✗
 Star Wars - The Clone Wars (Europe)                                                                                                                ✗      ✗     ✗
 Star Wars - The Clone Wars (Europe).iso                                                                                                            ✗      ✗     ✗
@@ -3476,11 +3485,11 @@ Star Wars Rogue Squadron III_ Rebel Strike (Europe)                             
 Star Wars Rogue Squadron III_ Rebel Strike (Europe).iso                                                                                            ✗      ✗     ✗
 Star Wars Rogue Squadron III_ Rebel Strike (Japan)                                                                                                 ✗      ✗     ✗
 Star Wars Rogue Squadron III_ Rebel Strike (Japan).iso                                                                                             ✗      ✗     ✗
-Star Wars Rogue Squadron III_ Rebel Strike (USA)                                                                                                   ✗      ✗     ✗
+Star Wars Rogue Squadron III_ Rebel Strike (USA)                                                                                                   -      -     -
 Star Wars Rogue Squadron III_ Rebel Strike (USA).iso                                                                                               ✗      ✗     ✗
 Star Wars Rogue Squadron II_ Rogue Leader (Europe)                                                                                                 ✗      ✗     ✗
 Star Wars Rogue Squadron II_ Rogue Leader (Europe).iso                                                                                             ✗      ✗     ✗
-Star Wars Rogue Squadron II_ Rogue Leader (USA)                                                                                                    ✗      ✗     ✗
+Star Wars Rogue Squadron II_ Rogue Leader (USA)                                                                                                    -      -     -
 Star Wars Rogue Squadron II_ Rogue Leader (USA).iso                                                                                                ✗      ✗     ✗
 Star Wars_ Bounty Hunter (Europe)                                                                                                                  ✗      ✗     ✗
 Star Wars_ Bounty Hunter (Europe).iso                                                                                                              ✗      ✗     ✗
@@ -3578,7 +3587,7 @@ Super Smash Bros. Melee (Europe)                                                
 Super Smash Bros. Melee (Europe) (En,Fr,De,Es,It)                                                                                                  ✗      ✗     ✗
 Super Smash Bros. Melee (Europe).iso                                                                                                               ✗      ✗     ✗
 Super Smash Bros. Melee (Korea) (En,Ja)                                                                                                            ✗      ✗     ✗
-Super Smash Bros. Melee (USA)                                                                                                                      -      ✗     ✗
+Super Smash Bros. Melee (USA)                                                                                                                      -      -     -
 Super Smash Bros. Melee (USA) (En,Ja)                                                                                                              ✗      ✗     ✗
 Super Smash Bros. Melee (USA) (En,Ja) (Rev 1)                                                                                                      ✗      ✗     ✗
 Super Smash Bros. Melee (USA) (En,Ja) (Rev 2)                                                                                                      ✗      ✗     ✗
@@ -3747,7 +3756,7 @@ The Legend of Zelda_ Collector's Edition (Europe)                               
 The Legend of Zelda_ Collector's Edition (Europe).iso                                                                                              ✗      ✗     ✗
 The Legend of Zelda_ Collector's Edition (Japan)                                                                                                   ✗      ✗     ✗
 The Legend of Zelda_ Collector's Edition (Japan).iso                                                                                               ✗      ✗     ✗
-The Legend of Zelda_ Collector's Edition (USA)                                                                                                     ✗      ✗     ✗
+The Legend of Zelda_ Collector's Edition (USA)                                                                                                     -      -     -
 The Legend of Zelda_ Collector's Edition (USA).iso                                                                                                 ✗      ✗     ✗
 The Legend of Zelda_ Four Swords + (Japan)                                                                                                         ✗      ✗     ✗
 The Legend of Zelda_ Four Swords + (Japan).iso                                                                                                     ✗      ✗     ✗
@@ -3765,11 +3774,11 @@ The Legend of Zelda_ Ocarina of Time _ Master Quest (USA).iso                   
 The Legend of Zelda_ Ocarina of Time _ Master Quest.iso                                                                                            ✗      ✗     ✗
 The Legend of Zelda_ The Wind Waker (Europe)                                                                                                       -      ✗     ✗
 The Legend of Zelda_ The Wind Waker (Europe).iso                                                                                                   ✗      ✗     ✗
-The Legend of Zelda_ The Wind Waker (USA)                                                                                                          -      ✗     ✗
+The Legend of Zelda_ The Wind Waker (USA)                                                                                                          -      -     -
 The Legend of Zelda_ The Wind Waker (USA).iso                                                                                                      ✗      ✗     ✗
 The Legend of Zelda_ Twilight Princess (Europe)                                                                                                    -      ✗     ✗
 The Legend of Zelda_ Twilight Princess (Europe).iso                                                                                                ✗      ✗     ✗
-The Legend of Zelda_ Twilight Princess (USA)                                                                                                       -      ✗     ✗
+The Legend of Zelda_ Twilight Princess (USA)                                                                                                       -      -     -
 The Legend of Zelda_ Twilight Princess (USA).iso                                                                                                   ✗      ✗     ✗
 The Lord of the Rings_ The Return of the King (Europe)                                                                                             ✗      ✗     ✗
 The Lord of the Rings_ The Return of the King (Europe).iso                                                                                         ✗      ✗     ✗
@@ -3793,13 +3802,13 @@ The Powerpuff Girls_ Relish Rampage (Europe)                                    
 The Powerpuff Girls_ Relish Rampage (Europe).iso                                                                                                   ✗      ✗     ✗
 The Powerpuff Girls_ Relish Rampage (USA)                                                                                                          ✗      ✗     ✗
 The Powerpuff Girls_ Relish Rampage (USA).iso                                                                                                      ✗      ✗     ✗
-The Scorpion King _ Rise of the Akkadian (Europe)                                                                                                  ✗      ✗     ✗
-The Scorpion King _ Rise of the Akkadian (Europe).iso                                                                                              ✗      ✗     ✗
+The Scorpion King_ Rise of the Akkadian (Europe)                                                                                                   ✗      ✗     ✗
+The Scorpion King_ Rise of the Akkadian (Europe).iso                                                                                               ✗      ✗     ✗
 The Scorpion King_ Rise of the Akkadian (USA)                                                                                                      ✗      ✗     ✗
 The Scorpion King_ Rise of the Akkadian (USA).iso                                                                                                  ✗      ✗     ✗
 The Simpsons_ Hit _ Run (Europe)                                                                                                                   ✗      ✗     ✗
 The Simpsons_ Hit _ Run (Europe).iso                                                                                                               ✗      ✗     ✗
-The Simpsons_ Hit _ Run (USA)                                                                                                                      ✗      ✗     ✗
+The Simpsons_ Hit _ Run (USA)                                                                                                                      -      -     -
 The Simpsons_ Hit _ Run (USA).iso                                                                                                                  ✗      ✗     ✗
 The Simpsons_ Road Rage (Europe)                                                                                                                   ✗      ✗     ✗
 The Simpsons_ Road Rage (Europe).iso                                                                                                               ✗      ✗     ✗
@@ -3815,10 +3824,10 @@ The Sims 2 (Europe)                                                             
 The Sims 2 (Europe).iso                                                                                                                            ✗      ✗     ✗
 The Sims 2 (USA)                                                                                                                                   ✗      ✗     ✗
 The Sims 2 (USA).iso                                                                                                                               ✗      ✗     ✗
-The Sims 2 _ Pets (Europe)                                                                                                                         ✗      ✗     ✗
-The Sims 2 _ Pets (Europe).iso                                                                                                                     ✗      ✗     ✗
-The Sims 2 _ Pets (USA)                                                                                                                            ✗      ✗     ✗
-The Sims 2 _ Pets (USA).iso                                                                                                                        ✗      ✗     ✗
+The Sims 2_ Pets (Europe)                                                                                                                          ✗      ✗     ✗
+The Sims 2_ Pets (Europe).iso                                                                                                                      ✗      ✗     ✗
+The Sims 2_ Pets (USA)                                                                                                                             ✗      ✗     ✗
+The Sims 2_ Pets (USA).iso                                                                                                                         ✗      ✗     ✗
 The Sims Bustin' Out (USA)                                                                                                                         ✗      ✗     ✗
 The Sims Bustin' Out (USA).iso                                                                                                                     ✗      ✗     ✗
 The Sims_ Bustin' Out (Europe)                                                                                                                     ✗      ✗     ✗
@@ -3870,7 +3879,7 @@ TimeSplitters 2 (Europe)                                                        
 TimeSplitters 2 (Europe) (En,Fr,De,Es,It)                                                                                                          ✗      ✗     ✗
 TimeSplitters 2 (Europe).iso                                                                                                                       ✗      ✗     ✗
 TimeSplitters 2 (Korea)                                                                                                                            ✗      ✗     ✗
-TimeSplitters 2 (USA)                                                                                                                              ✗      ✗     ✗
+TimeSplitters 2 (USA)                                                                                                                              -      ✗     ✗
 TimeSplitters 2 (USA).iso                                                                                                                          ✗      ✗     ✗
 TimeSplitters_ Future Perfect (Europe)                                                                                                             ✗      ✗     ✗
 TimeSplitters_ Future Perfect (Europe).iso                                                                                                         ✗      ✗     ✗
@@ -3950,13 +3959,13 @@ Tony Hawk's Pro Skater 3 (France)                                               
 Tony Hawk's Pro Skater 3 (Germany)                                                                                                                 ✗      ✗     ✗
 Tony Hawk's Pro Skater 3 (Japan)                                                                                                                   ✗      ✗     ✗
 Tony Hawk's Pro Skater 3 (Japan).iso                                                                                                               ✗      ✗     ✗
-Tony Hawk's Pro Skater 3 (USA)                                                                                                                     ✗      ✗     ✗
+Tony Hawk's Pro Skater 3 (USA)                                                                                                                     -      ✗     ✗
 Tony Hawk's Pro Skater 3 (USA).iso                                                                                                                 ✗      ✗     ✗
 Tony Hawk's Pro Skater 4 (Europe)                                                                                                                  ✗      ✗     ✗
 Tony Hawk's Pro Skater 4 (Europe).iso                                                                                                              ✗      ✗     ✗
 Tony Hawk's Pro Skater 4 (France)                                                                                                                  ✗      ✗     ✗
 Tony Hawk's Pro Skater 4 (Germany)                                                                                                                 ✗      ✗     ✗
-Tony Hawk's Pro Skater 4 (USA)                                                                                                                     ✗      ✗     ✗
+Tony Hawk's Pro Skater 4 (USA)                                                                                                                     -      ✗     ✗
 Tony Hawk's Pro Skater 4 (USA).iso                                                                                                                 ✗      ✗     ✗
 Tony Hawk's Underground (Europe)                                                                                                                   ✗      ✗     ✗
 Tony Hawk's Underground (Europe) (En,Fr,De)                                                                                                        ✗      ✗     ✗
@@ -3970,10 +3979,10 @@ Tony Hawk's Underground 2 (USA)                                                 
 Tony Hawk's Underground 2 (USA).iso                                                                                                                ✗      ✗     ✗
 Top Angler - Real Bass Fishing (Europe)                                                                                                            ✗      ✗     ✗
 Top Angler - Real Bass Fishing (USA)                                                                                                               ✗      ✗     ✗
-Top Angler _ Real Bass Fishing (USA)                                                                                                               ✗      ✗     ✗
-Top Angler _ Real Bass Fishing (USA).iso                                                                                                           ✗      ✗     ✗
 Top Angler_ Real Bass Fishing (Europe)                                                                                                             ✗      ✗     ✗
 Top Angler_ Real Bass Fishing (Europe).iso                                                                                                         ✗      ✗     ✗
+Top Angler_ Real Bass Fishing (USA)                                                                                                                ✗      ✗     ✗
+Top Angler_ Real Bass Fishing (USA).iso                                                                                                            ✗      ✗     ✗
 Top Gun - Ace of the Sky (Japan)                                                                                                                   ✗      ✗     ✗
 Top Gun - Ace of the Sky (Japan).iso                                                                                                               ✗      ✗     ✗
 Top Gun - Combat Zones (Europe) (En,Fr,De,Es,It,Nl)                                                                                                ✗      ✗     ✗
@@ -4037,6 +4046,7 @@ UFC2 Tapout Final Spec (Japan)                                                  
 UFC2 Tapout Final Spec (Japan).iso                                                                                                                 ✗      ✗     ✗
 UFC_ Throwdown (Europe)                                                                                                                            ✗      ✗     ✗
 UFC_ Throwdown (Europe).iso                                                                                                                        ✗      ✗     ✗
+Ultimate Cheats for Use with Metroid Prime (UK) (Unl)                                                                                              ✗      ✗     ✗
 Ultimate Cheats for Use with The Legend of Zelda - The Wind Waker (UK) (Unl)                                                                       ✗      ✗     ✗
 Ultimate Cheats fuer Splinter Cell (Germany) (Unl)                                                                                                 ✗      ✗     ✗
 Ultimate Cheats fuer The Legend of Zelda - The Wind Waker (Germany) (Unl)                                                                          ✗      ✗     ✗
@@ -4119,7 +4129,7 @@ Virtua Fighter Cyber Generation (Japan).iso                                     
 Virtua Fighter Cyber Generation - Judgment Six no Yabou (Japan)                                                                                    ✗      ✗     ✗
 Virtua Quest (USA)                                                                                                                                 ✗      ✗     ✗
 Virtua Quest (USA).iso                                                                                                                             ✗      ✗     ✗
-Virtua Striker 2002 (USA)                                                                                                                          ✗      ✗     ✗
+Virtua Striker 2002 (USA)                                                                                                                          -      -     -
 Virtua Striker 2002 (USA).iso                                                                                                                      ✗      ✗     ✗
 Virtua Striker 3 Ver. 2002 (Europe)                                                                                                                ✗      ✗     ✗
 Virtua Striker 3 Ver. 2002 (Europe) (En,Fr,De,Es,It)                                                                                               ✗      ✗     ✗
@@ -4165,14 +4175,14 @@ WWE Wrestlemania X8 (Europe)                                                    
 WWE Wrestlemania X8 (Europe).iso                                                                                                                   ✗      ✗     ✗
 Wai Wai Golf (Japan)                                                                                                                               ✗      ✗     ✗
 Wai Wai Golf (Japan).iso                                                                                                                           ✗      ✗     ✗
-Wallace _ Gromit _ Project Zoo (Europe)                                                                                                            ✗      ✗     ✗
-Wallace _ Gromit _ Project Zoo (Europe).iso                                                                                                        ✗      ✗     ✗
 Wallace _ Gromit in Project Zoo (Europe)                                                                                                           ✗      ✗     ✗
 Wallace _ Gromit in Project Zoo (Europe) (En,Fr,De,Es,It)                                                                                          ✗      ✗     ✗
 Wallace _ Gromit in Project Zoo (Europe).iso                                                                                                       ✗      ✗     ✗
 Wallace _ Gromit in Project Zoo (UK)                                                                                                               ✗      ✗     ✗
 Wallace _ Gromit in Project Zoo (USA)                                                                                                              ✗      ✗     ✗
 Wallace _ Gromit in Project Zoo (USA).iso                                                                                                          ✗      ✗     ✗
+Wallace _ Gromit_ Project Zoo (Europe)                                                                                                             ✗      ✗     ✗
+Wallace _ Gromit_ Project Zoo (Europe).iso                                                                                                         ✗      ✗     ✗
 Walt Disney Pictures Presents Meet the Robinsons (USA)                                                                                             ✗      ✗     ✗
 Wario Ware Inc._ Mega Party Game$! (Europe)                                                                                                        ✗      ✗     ✗
 Wario Ware Inc._ Mega Party Game$! (Europe).iso                                                                                                    ✗      ✗     ✗
@@ -4193,7 +4203,7 @@ Warrior Blade_ Rastan vs. Barbarian (Japan)                                     
 Warrior Blade_ Rastan vs. Barbarian (Japan).iso                                                                                                    ✗      ✗     ✗
 Wave Race - Blue Storm (Europe) (En,Fr,De,Es,It)                                                                                                   ✗      ✗     ✗
 Wave Race - Blue Storm (Japan)                                                                                                                     ✗      ✗     ✗
-Wave Race - Blue Storm (USA)                                                                                                                       ✗      ✗     ✗
+Wave Race - Blue Storm (USA)                                                                                                                       -      ✗     ✗
 Wave Race_ Blue Storm (Europe)                                                                                                                     ✗      ✗     ✗
 Wave Race_ Blue Storm (Europe).iso                                                                                                                 ✗      ✗     ✗
 Wave Race_ Blue Storm (Japan)                                                                                                                      ✗      ✗     ✗
@@ -4242,8 +4252,6 @@ X-Men - The Official Game (Europe) (En,Fr)                                      
 X-Men - The Official Game (USA)                                                                                                                    ✗      ✗     ✗
 X-Men 2 - Wolverine's Revenge (Europe)                                                                                                             ✗      ✗     ✗
 X-Men 2 - Wolverine's Revenge (Europe) (Fr,De,Es)                                                                                                  ✗      ✗     ✗
-X-Men 2 _ Wolverine's Revenge (Europe)                                                                                                             ✗      ✗     ✗
-X-Men 2 _ Wolverine's Revenge (Europe).iso                                                                                                         ✗      ✗     ✗
 X-Men 2_ Wolverine's Revenge (Europe)                                                                                                              ✗      ✗     ✗
 X-Men 2_ Wolverine's Revenge (Europe).iso                                                                                                          ✗      ✗     ✗
 X-Men Legends (Europe)                                                                                                                             ✗      ✗     ✗
