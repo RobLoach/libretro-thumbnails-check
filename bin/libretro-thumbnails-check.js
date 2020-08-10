@@ -77,7 +77,7 @@ glob('libretro-database/rdb/*.rdb', function (err, files) {
 		}
 		var titletotal = totals.snap + totals.boxart + totals.title
 		let totalTotalPercent = ((titletotal / (totals.total * 3)) * 100).toFixed(2)
-		output += `| System | Boxarts | Snaps | Tites | Total | Percent |\n`
+		output += `| System | Boxarts | Snaps | Titles | Total | Percent |\n`
 		output += `| :--- | :---: | :---: | :---: | :---: | ---: |\n`
 		for (let systemName in report) {
 			let systemReport = report[systemName]
