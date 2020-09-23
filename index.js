@@ -81,8 +81,8 @@ function getGameThumbnails(thumbs, system, name) {
 	for (var i in out) {
 		var str = out[i]
 		var index = -1
-		if (str.indexOf('Named_Boxarts') > 0) {
-			result.boxart = true
+		if (str.indexOf('Named_Boxarts_3D') > 0) {
+			result.boxart3d = true
 			index = thumbs.indexOf(str)
 		}
 		else if (str.indexOf('Named_Snaps') > 0) {
@@ -91,6 +91,10 @@ function getGameThumbnails(thumbs, system, name) {
 		}
 		else if (str.indexOf('Named_Titles') > 0) {
 			result.title = true
+			index = thumbs.indexOf(str)
+		}
+		else if (str.indexOf('Named_Boxarts') > 0) {
+			result.boxart = true
 			index = thumbs.indexOf(str)
 		}
 		if (index > -1) {
@@ -110,6 +114,7 @@ function writeReport(system, games, thumbs) {
 	games = sort(games)
 	let output = system + ' Missing\n\n'
 	let count = {
+        boxart3d: 0,
 		boxart: 0,
 		snap: 0,
 		title: 0,
@@ -130,7 +135,11 @@ function writeReport(system, games, thumbs) {
 				let boxart = game.boxart ? '-' : '✗'
 				let snap = game.snap ? '-' : '✗'
 				let title = game.title ? '-' : '✗'
+				let boxart3d = game.boxart3d ? '-' : '✗'
 
+                if (game.boxart3d) {
+                    count.boxart3d++
+                }
 				if (game.boxart) {
 					count.boxart++
 				}
@@ -141,7 +150,7 @@ function writeReport(system, games, thumbs) {
 					count.title++
 				}
 				//if (boxart == '✗' || snap == '✗' || title == '✗') {
-					entries.push([gameName, boxart, snap, title])
+					entries.push([gameName, boxart, snap, title, boxart3d])
 				//}
 			}
 		}
@@ -151,13 +160,14 @@ function writeReport(system, games, thumbs) {
 			['Boxarts', count.boxart + '/' + count.total, (count.boxart / count.total * 100).toFixed(2) + '%'],
 			['Snaps', count.snap + '/' + count.total, (count.snap / count.total * 100).toFixed(2) + '%'],
 			['Titles', count.title + '/' + count.total, (count.title / count.total * 100).toFixed(2) + '%'],
+			['Boxarts 3D', count.boxart3d + '/' + count.total, (count.boxart3d / count.total * 100).toFixed(2) + '%'],
 			['Total', total + '/' + count.total * 3, ((total / (count.total * 3)) * 100).toFixed(2) + '%']
 		], {
-			align: ['l', 'r', 'r']
+			align: ['l', 'r', 'r', 'r']
 		})
 
 		output += '\n\n' + table(entries, {
-			align: ['l', 'c', 'c', 'c']
+			align: ['l', 'c', 'c', 'c', 'c']
 		})
 
 		let orphans = ''
