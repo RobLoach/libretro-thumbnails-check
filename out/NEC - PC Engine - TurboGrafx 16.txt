@@ -1,9 +1,9 @@
 NEC - PC Engine - TurboGrafx 16 Missing
 
-Boxarts    375/402  93.28%
-Snaps      372/402  92.54%
-Titles     373/402  92.79%
-Total    1120/1206  92.87%
+Boxarts    381/407  93.61%
+Snaps      379/407  93.12%
+Titles     380/407  93.37%
+Total    1140/1221  93.37%
 
 Name                                                                  Boxart  Snap  Title
 1943 Kai (Japan)                                                         -      -     -
@@ -14,6 +14,7 @@ Aero Blasters (Japan)                                                    -      
 Aero Blasters (USA)                                                      -      -     -
 After Burner II (Japan)                                                  -      -     -
 Air Zonk (USA)                                                           -      -     -
+Air Zonk (USA) (Beta)                                                    ✗      ✗     ✗
 Alien Crush (Japan)                                                      -      -     -
 Alien Crush (USA)                                                        -      -     -
 All Star Power League (Japan)                                            ✗      ✗     ✗
@@ -33,19 +34,21 @@ Battle Lode Runner (Japan)                                               -      
 Battle Royale (USA)                                                      -      -     -
 Be Ball (Japan)                                                          -      -     -
 Benkei Gaiden (Japan)                                                    -      -     -
+Benkei Gaiden (Japan) (Virtual Console)                                  ✗      ✗     ✗
 Bikkuriman World (Japan)                                                 -      -     -
 Blazing Lazers (USA)                                                     -      -     -
 Blodia (Japan)                                                           -      -     -
 Bloody Wolf (USA)                                                        -      -     -
 Bodycon Quest II (Japan) (Unl)                                           -      -     -
-Bomber Man '93 (Japan)                                                   ✗      ✗     ✗
-Bomber Man '93 (USA)                                                     ✗      ✗     ✗
-Bomber Man '93 (USA, Europe) (Virtual Console)                           ✗      ✗     ✗
-Bomber Man '93 - Special Version (Japan)                                 ✗      ✗     ✗
-Bomber Man '94 (Japan)                                                   -      ✗     ✗
-Bomber Man (Japan)                                                       ✗      ✗     ✗
-Bomber Man (USA)                                                         -      ✗     ✗
-Bomber Man - Users Battle (Japan)                                        ✗      ✗     ✗
+Bomberman '93 (Japan)                                                    -      -     -
+Bomberman '93 (USA)                                                      -      -     -
+Bomberman '93 (USA, Europe) (Virtual Console)                            -      ✗     ✗
+Bomberman '93 - Special Version (Japan)                                  -      -     -
+Bomberman '94 (Japan)                                                    -      -     -
+Bomberman (Japan)                                                        -      -     -
+Bomberman (USA)                                                          -      -     -
+Bomberman (USA) (Bomberman Collection)                                   ✗      ✗     ✗
+Bomberman - Users Battle (Japan)                                         -      -     -
 Bonk 3 - Bonk's Big Adventure (USA)                                      -      -     -
 Bonk's Adventure (USA)                                                   -      -     -
 Bonk's Revenge (USA)                                                     -      -     -
@@ -81,6 +84,7 @@ Cyber Knight (Japan)                                                     -      
 Daichi-kun Crisis - Do Natural (Japan)                                   -      -     -
 Daisenpuu (Japan)                                                        -      -     -
 Darius Alpha (Japan) (SG Enhanced)                                       -      -     -
+Darius Alpha (World) (SG Enhanced) (Darius Cozmic Collection)            ✗      ✗     ✗
 Darius Plus (Japan) (SG Enhanced)                                        -      -     -
 Darkwing Duck (USA)                                                      -      -     -
 Davis Cup Tennis (USA)                                                   -      -     -
@@ -340,12 +344,14 @@ Street Fighter II' - Champion Edition (Japan)                            -      
 Strip Fighter II (Japan) (Unl)                                           ✗      ✗     ✗
 Super Metal Crusher (Japan)                                              -      -     -
 Super Momotarou Dentetsu (Japan)                                         -      -     -
+Super Momotarou Dentetsu (Japan) (Alt)                                   ✗      ✗     ✗
 Super Momotarou Dentetsu II (Japan)                                      -      -     -
 Super Star Soldier (Japan)                                               -      -     -
 Super Star Soldier (USA)                                                 -      -     -
 Super Volley Ball (Japan)                                                ✗      ✗     ✗
 Super Volleyball (USA)                                                   -      -     -
 Susanoou Densetsu (Japan)                                                -      -     -
+TV Sports Baseball (USA) (Proto)                                         ✗      ✗     ✗
 TV Sports Basketball (Japan)                                             -      -     -
 TV Sports Basketball (USA)                                               -      -     -
 TV Sports Football (Japan)                                               -      -     -
@@ -404,7 +410,6 @@ Xevious - Fardraut Saga (Japan)                                          -      
 Yo, Bro (USA)                                                            -      -     -
 You-You Jinsei (Japan)                                                   ✗      ✗     ✗
 Youkai Douchuuki (Japan)                                                 -      -     -
-Youkai Douchuuki (Japan) (Virtual Console)                               ✗      ✗     ✗
 Zero4 Champ (Japan)                                                      ✗      ✗     ✗
-Zero4 Champ (Japan) (v1.5)                                               ✗      ✗     ✗
+Zero4 Champ (Japan) (Alt)                                                ✗      ✗     ✗
 Zipang (Japan)                                                           -      -     -

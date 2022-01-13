@@ -1,9 +1,9 @@
 Nintendo - Nintendo 3DS Missing
 
-Boxarts   52/7610  0.68%
-Snaps      1/7610  0.01%
-Titles     1/7610  0.01%
-Total    54/22830  0.24%
+Boxarts   115/7652  1.50%
+Snaps       1/7652  0.01%
+Titles      1/7652  0.01%
+Total    117/22956  0.51%
 
 Name                                                                                                                                                        Boxart  Snap  Title
 10-in-1 - Arcade Collection (Europe)                                                                                                                           ✗      ✗     ✗
@@ -453,7 +453,7 @@ Angry Video Game Nerd Adventures (USA).3ds                                      
 Animal Crossing - Happy Home Designer (Europe)                                                                                                                 ✗      ✗     ✗
 Animal Crossing - Happy Home Designer (Europe) (En,Fr,De,Es,It)                                                                                                ✗      ✗     ✗
 Animal Crossing - Happy Home Designer (Europe).3ds                                                                                                             ✗      ✗     ✗
-Animal Crossing - Happy Home Designer (USA)                                                                                                                    ✗      ✗     ✗
+Animal Crossing - Happy Home Designer (USA)                                                                                                                    -      ✗     ✗
 Animal Crossing - Happy Home Designer (USA) (En,Fr,Es)                                                                                                         ✗      ✗     ✗
 Animal Crossing - Happy Home Designer (USA) (En,Fr,Es) (Rev 1)                                                                                                 ✗      ✗     ✗
 Animal Crossing - Happy Home Designer (USA).3ds                                                                                                                ✗      ✗     ✗
@@ -461,7 +461,7 @@ Animal Crossing - New Leaf                                                      
 Animal Crossing - New Leaf (Europe)                                                                                                                            ✗      ✗     ✗
 Animal Crossing - New Leaf (Europe) (En,Fr,De,Es,It)                                                                                                           ✗      ✗     ✗
 Animal Crossing - New Leaf (Europe).3ds                                                                                                                        ✗      ✗     ✗
-Animal Crossing - New Leaf (USA)                                                                                                                               ✗      ✗     ✗
+Animal Crossing - New Leaf (USA)                                                                                                                               -      ✗     ✗
 Animal Crossing - New Leaf (USA) (En,Fr,Es)                                                                                                                    ✗      ✗     ✗
 Animal Crossing - New Leaf (USA).3ds                                                                                                                           ✗      ✗     ✗
 Animal Crossing - New Leaf - Welcome Amiibo (Europe) (En,Fr,De,Es,It)                                                                                          ✗      ✗     ✗
@@ -551,6 +551,8 @@ Atlantic Quest (USA)                                                            
 Atlantic Quest (USA).3ds                                                                                                                                       ✗      ✗     ✗
 Atlantis no Nazo (Japan)                                                                                                                                       ✗      ✗     ✗
 Atlantis no Nazo (Japan).3ds                                                                                                                                   ✗      ✗     ✗
+Atooi Collection (USA)                                                                                                                                         ✗      ✗     ✗
+Atooi Collection (USA).3ds                                                                                                                                     ✗      ✗     ✗
 Attack of the Friday Monsters! A Tokyo Tale (Europe)                                                                                                           ✗      ✗     ✗
 Attack of the Friday Monsters! A Tokyo Tale (Europe).3ds                                                                                                       ✗      ✗     ✗
 Attack of the Friday Monsters! A Tokyo Tale (Japan)                                                                                                            ✗      ✗     ✗
@@ -620,7 +622,7 @@ Baseball (Japan).3ds                                                            
 Batman - Arkham Origins Blackgate (Europe)                                                                                                                     ✗      ✗     ✗
 Batman - Arkham Origins Blackgate (Europe) (En,Fr,De,Es,It)                                                                                                    ✗      ✗     ✗
 Batman - Arkham Origins Blackgate (Europe).3ds                                                                                                                 ✗      ✗     ✗
-Batman - Arkham Origins Blackgate (USA)                                                                                                                        ✗      ✗     ✗
+Batman - Arkham Origins Blackgate (USA)                                                                                                                        -      ✗     ✗
 Batman - Arkham Origins Blackgate (USA) (En,Fr,Es)                                                                                                             ✗      ✗     ✗
 Batman - Arkham Origins Blackgate (USA).3ds                                                                                                                    ✗      ✗     ✗
 Battle City (Japan)                                                                                                                                            ✗      ✗     ✗
@@ -632,7 +634,7 @@ Battleminer (USA).3ds                                                           
 Battleship (Europe)                                                                                                                                            ✗      ✗     ✗
 Battleship (Europe) (En,Fr,De,Es,It)                                                                                                                           ✗      ✗     ✗
 Battleship (Europe).3ds                                                                                                                                        ✗      ✗     ✗
-Battleship (USA)                                                                                                                                               ✗      ✗     ✗
+Battleship (USA)                                                                                                                                               -      ✗     ✗
 Battleship (USA) (En,Fr)                                                                                                                                       ✗      ✗     ✗
 Battleship (USA).3ds                                                                                                                                           ✗      ✗     ✗
 BearShark (Europe)                                                                                                                                             ✗      ✗     ✗
@@ -767,7 +769,7 @@ BlazBlue - Continuum Shift II (Europe)                                          
 BlazBlue - Continuum Shift II (Europe).3ds                                                                                                                     ✗      ✗     ✗
 BlazBlue - Continuum Shift II (Japan)                                                                                                                          ✗      ✗     ✗
 BlazBlue - Continuum Shift II (Japan).3ds                                                                                                                      ✗      ✗     ✗
-BlazBlue - Continuum Shift II (USA)                                                                                                                            ✗      ✗     ✗
+BlazBlue - Continuum Shift II (USA)                                                                                                                            -      ✗     ✗
 BlazBlue - Continuum Shift II (USA).3ds                                                                                                                        ✗      ✗     ✗
 Blazblue - Continuum Shift II (Europe) (En,Ja,Zh,Ko)                                                                                                           ✗      ✗     ✗
 Blazblue - Continuum Shift II (Japan)                                                                                                                          ✗      ✗     ✗
@@ -810,6 +812,7 @@ Bokujou Monogatari - 3-tsu no Sato no Taisetsu na Tomodachi (Japan)             
 Bokujou Monogatari - 3-tsu no Sato no Taisetsu na Tomodachi (Japan).3ds                                                                                        ✗      ✗     ✗
 Bokujou Monogatari - Futago no Mura + (Japan)                                                                                                                  ✗      ✗     ✗
 Bokujou Monogatari - Hajimari no Daichi (Japan)                                                                                                                ✗      ✗     ✗
+Bokujou Monogatari - Hajimari no Daichi (Japan) (Rev 1)                                                                                                        ✗      ✗     ✗
 Bokujou Monogatari - Hajimari no Daichi (Japan) (Rev 2)                                                                                                        ✗      ✗     ✗
 Bokujou Monogatari - Hajimari no Daichi (Japan).3ds                                                                                                            ✗      ✗     ✗
 Bokujou Monogatari - Tsunagaru Shin Tenchi (Japan)                                                                                                             ✗      ✗     ✗
@@ -854,7 +857,7 @@ Bravely Default (Europe).3ds                                                    
 Bravely Default (USA)                                                                                                                                          ✗      ✗     ✗
 Bravely Default (USA) (En,Ja,Fr,De,Es,It)                                                                                                                      -      ✗     ✗
 Bravely Default (USA).3ds                                                                                                                                      ✗      ✗     ✗
-Bravely Default - Flying Fairy (Japan)                                                                                                                         ✗      ✗     ✗
+Bravely Default - Flying Fairy (Japan)                                                                                                                         -      ✗     ✗
 Bravely Default - Flying Fairy (Japan).3ds                                                                                                                     ✗      ✗     ✗
 Bravely Default - For the Sequel (Japan)                                                                                                                       -      ✗     ✗
 Bravely Default - For the Sequel (Japan).3ds                                                                                                                   ✗      ✗     ✗
@@ -927,11 +930,11 @@ Candy Match 3 (USA).3ds                                                         
 Captain America - Super Soldier (Europe)                                                                                                                       ✗      ✗     ✗
 Captain America - Super Soldier (Europe) (En,Fr,De,Es,It)                                                                                                      ✗      ✗     ✗
 Captain America - Super Soldier (Europe).3ds                                                                                                                   ✗      ✗     ✗
-Captain America - Super Soldier (USA)                                                                                                                          ✗      ✗     ✗
+Captain America - Super Soldier (USA)                                                                                                                          -      ✗     ✗
 Captain America - Super Soldier (USA) (En,Fr,Es)                                                                                                               ✗      ✗     ✗
 Captain America - Super Soldier (USA).3ds                                                                                                                      ✗      ✗     ✗
 Captain Toad - Treasure Tracker (Europe) (En,Fr,De,Es,It,Nl)                                                                                                   ✗      ✗     ✗
-Captain Toad - Treasure Tracker (USA) (En,Fr,Es)                                                                                                               ✗      ✗     ✗
+Captain Toad - Treasure Tracker (USA) (En,Fr,Es)                                                                                                               -      ✗     ✗
 Captain Toad_ Treasure Tracker (Europe)                                                                                                                        ✗      ✗     ✗
 Captain Toad_ Treasure Tracker (Europe).3ds                                                                                                                    ✗      ✗     ✗
 Captain Toad_ Treasure Tracker (USA)                                                                                                                           ✗      ✗     ✗
@@ -987,7 +990,7 @@ Castlevania (Japan).3ds                                                         
 Castlevania - Lords of Shadow - Mirror of Fate (Europe)                                                                                                        ✗      ✗     ✗
 Castlevania - Lords of Shadow - Mirror of Fate (Europe) (En,Fr,De,Es,It)                                                                                       ✗      ✗     ✗
 Castlevania - Lords of Shadow - Mirror of Fate (Europe).3ds                                                                                                    ✗      ✗     ✗
-Castlevania - Lords of Shadow - Mirror of Fate (USA)                                                                                                           ✗      ✗     ✗
+Castlevania - Lords of Shadow - Mirror of Fate (USA)                                                                                                           -      ✗     ✗
 Castlevania - Lords of Shadow - Mirror of Fate (USA) (En,Fr,Es)                                                                                                ✗      ✗     ✗
 Castlevania - Lords of Shadow - Mirror of Fate (USA).3ds                                                                                                       ✗      ✗     ✗
 Castlevania - Lords of Shadow - Sadame no Makyou (Japan)                                                                                                       ✗      ✗     ✗
@@ -1007,7 +1010,7 @@ Cave Story 3D (Europe)                                                          
 Cave Story 3D (Europe).3ds                                                                                                                                     ✗      ✗     ✗
 Cave Story 3D (Japan)                                                                                                                                          ✗      ✗     ✗
 Cave Story 3D (Japan).3ds                                                                                                                                      ✗      ✗     ✗
-Cave Story 3D (USA)                                                                                                                                            ✗      ✗     ✗
+Cave Story 3D (USA)                                                                                                                                            -      ✗     ✗
 Cave Story 3D (USA).3ds                                                                                                                                        ✗      ✗     ✗
 Centipede - Infestation (USA)                                                                                                                                  ✗      ✗     ✗
 Centipede - Infestation (USA) (En,Fr,Es)                                                                                                                       ✗      ✗     ✗
@@ -1133,7 +1136,7 @@ Combat of Giants - Dinosaurs 3D (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)           
 Combat of Giants - Dinosaurs 3D (Europe).3ds                                                                                                                   ✗      ✗     ✗
 Combat of Giants - Dinosaurs 3D (Japan)                                                                                                                        ✗      ✗     ✗
 Combat of Giants - Dinosaurs 3D (Japan).3ds                                                                                                                    ✗      ✗     ✗
-Combat of Giants - Dinosaurs 3D (USA)                                                                                                                          ✗      ✗     ✗
+Combat of Giants - Dinosaurs 3D (USA)                                                                                                                          -      ✗     ✗
 Combat of Giants - Dinosaurs 3D (USA) (En,Fr,Es)                                                                                                               ✗      ✗     ✗
 Combat of Giants - Dinosaurs 3D (USA).3ds                                                                                                                      ✗      ✗     ✗
 Combo Pack - Madagascar 3 - Europe's Most Wanted + Croods, The - Prehistoric Party! (Europe) (En,Fr,De,Es,It)                                                  ✗      ✗     ✗
@@ -1169,7 +1172,7 @@ Cooking Mama 4 - Kitchen Magic (USA).3ds                                        
 Cooking Mama 5 (Japan)                                                                                                                                         ✗      ✗     ✗
 Cooking Mama 5 (Japan).3ds                                                                                                                                     ✗      ✗     ✗
 Cooking Mama 5 - Bon Appetit!                                                                                                                                  ✗      ✗     ✗
-Cooking Mama 5 - Bon Appetit! (USA)                                                                                                                            ✗      ✗     ✗
+Cooking Mama 5 - Bon Appetit! (USA)                                                                                                                            -      ✗     ✗
 Cooking Mama 5 - Bon Appetit! (USA).3ds                                                                                                                        ✗      ✗     ✗
 Cooking Mama 5 - Bon Appetit!.3ds                                                                                                                              ✗      ✗     ✗
 Cooking Mama_ Sweet Shop (Europe)                                                                                                                              ✗      ✗     ✗
@@ -1201,6 +1204,9 @@ Crayon Shin-Chan - Uchuu de Achoo! - Yuujou no Oba-Karate!! (Japan)             
 Crayon Shin-Chan - Uchuu de Achoo! - Yuujou no Oba-Karate!! (Japan).3ds                                                                                        ✗      ✗     ✗
 Crayon Shin-Chan - Uchuu de Achoo!_ Yuujou no Oba-Karate!!                                                                                                     ✗      ✗     ✗
 Crayon Shin-Chan - Uchuu de Achoo!_ Yuujou no Oba-Karate!!.3ds                                                                                                 ✗      ✗     ✗
+Crayon Shin-chan - Arashi wo Yobu Kasukabe Eiga Stars! (Japan)                                                                                                 ✗      ✗     ✗
+Crayon Shin-chan - Gekiatsu! Oden wa Rudo Dai Konran!! (Japan)                                                                                                 ✗      ✗     ✗
+Crayon Shin-chan - Uchuu de Achoo! - Yuujou no Oba-Karate!! (Japan)                                                                                            ✗      ✗     ✗
 Crazy Chicken - Director's Cut 3D (Europe)                                                                                                                     ✗      ✗     ✗
 Crazy Chicken - Director's Cut 3D (Europe).3ds                                                                                                                 ✗      ✗     ✗
 Crazy Chicken - Director's Cut 3D (Japan)                                                                                                                      ✗      ✗     ✗
@@ -1292,11 +1298,15 @@ Daigyakuten Saiban - Naruhodou Ryuunosuke no Bouken (Japan).3ds                 
 Dairantou Smash Bros. for Nintendo 3DS (Japan)                                                                                                                 ✗      ✗     ✗
 Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 1)                                                                                                         ✗      ✗     ✗
 Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 10)                                                                                                        ✗      ✗     ✗
+Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 11)                                                                                                        ✗      ✗     ✗
+Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 2)                                                                                                         ✗      ✗     ✗
 Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 3)                                                                                                         ✗      ✗     ✗
+Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 4)                                                                                                         ✗      ✗     ✗
 Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 5)                                                                                                         ✗      ✗     ✗
 Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 7)                                                                                                         ✗      ✗     ✗
 Dairantou Smash Brothers for Nintendo 3DS (Japan)                                                                                                              ✗      ✗     ✗
 Dairantou Smash Brothers for Nintendo 3DS (Japan).3ds                                                                                                          ✗      ✗     ✗
+Dairantou Smash Brothers for Nintendo 3DS (Taiwan) (Ja)                                                                                                        ✗      ✗     ✗
 Daisenryaku Daitoua Koboshi DX - Dainiji Sekai Taisen (Japan)                                                                                                  ✗      ✗     ✗
 Daisenryaku Daitoua Koboshi DX_ Dainiji Sekai Taisen (Japan)                                                                                                   ✗      ✗     ✗
 Daisenryaku Daitoua Koboshi DX_ Dainiji Sekai Taisen (Japan).3ds                                                                                               ✗      ✗     ✗
@@ -1502,6 +1512,7 @@ Disney Princess - My Fairytale Adventure (Europe) (En,Fr,Nl)                    
 Disney Princess - My Fairytale Adventure (Europe) (Fr,De,It)                                                                                                   ✗      ✗     ✗
 Disney Princess - My Fairytale Adventure (Europe) (Sv,No,Da)                                                                                                   ✗      ✗     ✗
 Disney Princess - My Fairytale Adventure (Europe).3ds                                                                                                          ✗      ✗     ✗
+Disney Princess - My Fairytale Adventure (Spain) (En,Es)                                                                                                       ✗      ✗     ✗
 Disney Princess - My Fairytale Adventure (USA)                                                                                                                 ✗      ✗     ✗
 Disney Princess - My Fairytale Adventure (USA) (En,Fr,Es)                                                                                                      ✗      ✗     ✗
 Disney Princess - My Fairytale Adventure (USA).3ds                                                                                                             ✗      ✗     ✗
@@ -1531,7 +1542,7 @@ Donkey Kong Country (Japan).3ds                                                 
 Donkey Kong Country Returns 3D (Europe)                                                                                                                        ✗      ✗     ✗
 Donkey Kong Country Returns 3D (Europe) (En,Fr,De,Es,It)                                                                                                       ✗      ✗     ✗
 Donkey Kong Country Returns 3D (Europe).3ds                                                                                                                    ✗      ✗     ✗
-Donkey Kong Country Returns 3D (USA)                                                                                                                           ✗      ✗     ✗
+Donkey Kong Country Returns 3D (USA)                                                                                                                           -      ✗     ✗
 Donkey Kong Country Returns 3D (USA) (En,Fr,Es)                                                                                                                ✗      ✗     ✗
 Donkey Kong Country Returns 3D (USA).3ds                                                                                                                       ✗      ✗     ✗
 Donkey Kong GB - Dinky Kong _ Dixie Kong (Japan)                                                                                                               ✗      ✗     ✗
@@ -1624,9 +1635,9 @@ Dragon Ball Fusions (Japan)                                                     
 Dragon Ball Fusions (Japan).3ds                                                                                                                                ✗      ✗     ✗
 Dragon Ball Fusions (USA)                                                                                                                                      ✗      ✗     ✗
 Dragon Ball Fusions (USA).3ds                                                                                                                                  ✗      ✗     ✗
-Dragon Ball Heroes - Ultimate Mission (Japan)                                                                                                                  ✗      ✗     ✗
+Dragon Ball Heroes - Ultimate Mission (Japan)                                                                                                                  -      ✗     ✗
 Dragon Ball Heroes - Ultimate Mission (Japan).3ds                                                                                                              ✗      ✗     ✗
-Dragon Ball Heroes - Ultimate Mission 2 (Japan)                                                                                                                ✗      ✗     ✗
+Dragon Ball Heroes - Ultimate Mission 2 (Japan)                                                                                                                -      ✗     ✗
 Dragon Ball Heroes - Ultimate Mission 2 (Japan).3ds                                                                                                            ✗      ✗     ✗
 Dragon Ball Heroes - Ultimate Mission X (Japan)                                                                                                                ✗      ✗     ✗
 Dragon Ball Heroes Ultimate Mission X (Japan)                                                                                                                  ✗      ✗     ✗
@@ -1635,7 +1646,7 @@ Dragon Ball Z - Extreme Butoden                                                 
 Dragon Ball Z - Extreme Butoden (Europe)                                                                                                                       ✗      ✗     ✗
 Dragon Ball Z - Extreme Butoden (Europe) (En,Fr,De,Es,It)                                                                                                      ✗      ✗     ✗
 Dragon Ball Z - Extreme Butoden (Europe).3ds                                                                                                                   ✗      ✗     ✗
-Dragon Ball Z - Extreme Butoden (USA)                                                                                                                          ✗      ✗     ✗
+Dragon Ball Z - Extreme Butoden (USA)                                                                                                                          -      ✗     ✗
 Dragon Ball Z - Extreme Butoden (USA).3ds                                                                                                                      ✗      ✗     ✗
 Dragon Ball Z - Extreme Butoden.3ds                                                                                                                            ✗      ✗     ✗
 Dragon Ball Z - Extreme Butouden (Japan)                                                                                                                       ✗      ✗     ✗
@@ -1654,6 +1665,7 @@ Dragon Quest Monsters_ Joker 3 (Japan)                                          
 Dragon Quest Monsters_ Joker 3 (Japan).3ds                                                                                                                     ✗      ✗     ✗
 Dragon Quest Monsters_ Joker 3 Professional (Japan)                                                                                                            ✗      ✗     ✗
 Dragon Quest Monsters_ Joker 3 Professional (Japan).3ds                                                                                                        ✗      ✗     ✗
+Dragon Quest VII - Eden no Senshi-tachi (Japan)                                                                                                                ✗      ✗     ✗
 Dragon Quest VII - Eden no Senshitachi (Japan)                                                                                                                 ✗      ✗     ✗
 Dragon Quest VII - Eden no Senshitachi (Japan).3ds                                                                                                             ✗      ✗     ✗
 Dragon Quest VII - Fragments of the Forgotten Past (Europe) (En,Fr,De,Es,It)                                                                                   ✗      ✗     ✗
@@ -1878,12 +1890,12 @@ Family Tennis 3D (Europe)                                                       
 Family Tennis 3D (Europe).3ds                                                                                                                                  ✗      ✗     ✗
 Family Tennis 3D (Japan)                                                                                                                                       ✗      ✗     ✗
 Family Tennis 3D (Japan).3ds                                                                                                                                   ✗      ✗     ✗
-Fantasy Life (Europe)                                                                                                                                          ✗      ✗     ✗
+Fantasy Life (Europe)                                                                                                                                          -      ✗     ✗
 Fantasy Life (Europe) (En,Fr,De,Es,It)                                                                                                                         ✗      ✗     ✗
 Fantasy Life (Europe).3ds                                                                                                                                      ✗      ✗     ✗
-Fantasy Life (Japan)                                                                                                                                           ✗      ✗     ✗
+Fantasy Life (Japan)                                                                                                                                           -      ✗     ✗
 Fantasy Life (Japan).3ds                                                                                                                                       ✗      ✗     ✗
-Fantasy Life (USA)                                                                                                                                             ✗      ✗     ✗
+Fantasy Life (USA)                                                                                                                                             -      ✗     ✗
 Fantasy Life (USA).3ds                                                                                                                                         ✗      ✗     ✗
 Fantasy Life Link! (Japan)                                                                                                                                     ✗      ✗     ✗
 Fantasy Life Link! (Japan).3ds                                                                                                                                 ✗      ✗     ✗
@@ -1957,11 +1969,11 @@ Finding Nemo - Escape to the Big Blue - Special Edition (USA).3ds               
 Fire Emblem - Awakening (Europe)                                                                                                                               ✗      ✗     ✗
 Fire Emblem - Awakening (Europe) (En,Fr,De,Es,It)                                                                                                              ✗      ✗     ✗
 Fire Emblem - Awakening (Europe).3ds                                                                                                                           ✗      ✗     ✗
-Fire Emblem - Awakening (USA)                                                                                                                                  ✗      ✗     ✗
+Fire Emblem - Awakening (USA)                                                                                                                                  -      ✗     ✗
 Fire Emblem - Awakening (USA).3ds                                                                                                                              ✗      ✗     ✗
 Fire Emblem - Fates Special Edition (USA)                                                                                                                      ✗      ✗     ✗
 Fire Emblem - Fates Special Edition (USA).3ds                                                                                                                  ✗      ✗     ✗
-Fire Emblem - Kakusei (Japan)                                                                                                                                  ✗      ✗     ✗
+Fire Emblem - Kakusei (Japan)                                                                                                                                  -      ✗     ✗
 Fire Emblem - Kakusei (Japan) (Rev 1)                                                                                                                          ✗      ✗     ✗
 Fire Emblem - Kakusei (Japan).3ds                                                                                                                              ✗      ✗     ✗
 Fire Emblem - Monsho no Nazo (Japan)                                                                                                                           ✗      ✗     ✗
@@ -1976,7 +1988,7 @@ Fire Emblem - The Sacred Stones (USA)                                           
 Fire Emblem - The Sacred Stones (USA).3ds                                                                                                                      ✗      ✗     ✗
 Fire Emblem - Thracia 776 (Japan)                                                                                                                              ✗      ✗     ✗
 Fire Emblem - Thracia 776 (Japan).3ds                                                                                                                          ✗      ✗     ✗
-Fire Emblem Echoes - Mou Hitori no Eiyuu Ou (Japan) (Rev 1)                                                                                                    ✗      ✗     ✗
+Fire Emblem Echoes - Mou Hitori no Eiyuu Ou (Japan) (Ja,Zh) (Rev 1)                                                                                            ✗      ✗     ✗
 Fire Emblem Echoes - Shadows of Valentia (Europe) (En,Fr,De,Es,It,Nl)                                                                                          ✗      ✗     ✗
 Fire Emblem Echoes - Shadows of Valentia (USA) (En,Fr,Es)                                                                                                      ✗      ✗     ✗
 Fire Emblem Echoes - Tto Hanaui Yeongungwang (Korea)                                                                                                           ✗      ✗     ✗
@@ -2090,7 +2102,7 @@ Funky Barn 3D (USA)                                                             
 Funky Barn 3D (USA) (En,Fr,Es)                                                                                                                                 ✗      ✗     ✗
 Funky Barn 3D (USA).3ds                                                                                                                                        ✗      ✗     ✗
 Future Card Buddyfight - Mezase! Buddy Champion! (Japan)                                                                                                       ✗      ✗     ✗
-Future Card Buddyfight - Tanjou! Oretachi no Saikyou Buddy! (Japan)                                                                                            ✗      ✗     ✗
+Future Card Buddyfight - Tanjou! Ore-tachi no Saikyou Buddy! (Japan)                                                                                           ✗      ✗     ✗
 Future Card Buddyfight - Yuujou no Bakunetsu Fight! (Japan)                                                                                                    ✗      ✗     ✗
 Future Card Buddyfight - Yuujou no Bakunetsu Fight! (Japan).3ds                                                                                                ✗      ✗     ✗
 Future Card Buddyfight Mezase! Buddy Champion! (Japan)                                                                                                         ✗      ✗     ✗
@@ -2148,6 +2160,7 @@ Gardening Mama - Mama to Mori no Nakama Tachi                                   
 Gardening Mama - Mama to Mori no Nakama Tachi (Japan)                                                                                                          ✗      ✗     ✗
 Gardening Mama - Mama to Mori no Nakama Tachi (Japan).3ds                                                                                                      ✗      ✗     ✗
 Gardening Mama - Mama to Mori no Nakama Tachi.3ds                                                                                                              ✗      ✗     ✗
+Gardening Mama - Mama to Mori no Nakama-tachi (Japan)                                                                                                          ✗      ✗     ✗
 Gardening Mama 2 - Forest Friends (USA)                                                                                                                        ✗      ✗     ✗
 Gardening Mama 2 - Forest Friends (USA).3ds                                                                                                                    ✗      ✗     ✗
 Gardenscapes (Europe)                                                                                                                                          ✗      ✗     ✗
@@ -2186,6 +2199,9 @@ Ghouls and Ghosts (Japan)                                                       
 Ghouls and Ghosts (Japan).3ds                                                                                                                                  ✗      ✗     ✗
 Girls Fashion 3D - Mezase! Top Stylist (Japan)                                                                                                                 ✗      ✗     ✗
 Girls Fashion 3D - Mezase! Top Stylist (Japan).3ds                                                                                                             ✗      ✗     ✗
+Girls Mode 3 - Kirakira Code (Japan)                                                                                                                           ✗      ✗     ✗
+Girls Mode 3 - Kirakira Code (Japan) (Rev 2)                                                                                                                   ✗      ✗     ✗
+Girls Mode 3 - Kirakira Code (Japan) (Rev 3)                                                                                                                   ✗      ✗     ✗
 Girls Mode 3 - Kirakira-Code (Japan)                                                                                                                           ✗      ✗     ✗
 Girls Mode 3 - Kirakira-Code (Japan).3ds                                                                                                                       ✗      ✗     ✗
 Girls Mode 4 - Star _ Stylist (Japan)                                                                                                                          ✗      ✗     ✗
@@ -2318,6 +2334,7 @@ Hana Samurai - Art of the Sword (Europe).3ds                                    
 Hana Samurai - Art of the Sword (Japan)                                                                                                                        ✗      ✗     ✗
 Hana Samurai - Art of the Sword (Japan).3ds                                                                                                                    ✗      ✗     ✗
 Hana to Ikimono Rittai Zukan (Japan)                                                                                                                           ✗      ✗     ✗
+Hana to Ikimono Rittai Zukan (Japan) (Rev 1)                                                                                                                   ✗      ✗     ✗
 Hana to Ikimono Rittai Zukan (Japan).3ds                                                                                                                       ✗      ✗     ✗
 Hanjuku Hero (Japan)                                                                                                                                           ✗      ✗     ✗
 Hanjuku Hero (Japan).3ds                                                                                                                                       ✗      ✗     ✗
@@ -2342,7 +2359,7 @@ Harvest Moon - Skytree Village (USA)                                            
 Harvest Moon - The Lost Valley (Europe) (En,Fr,De,Es)                                                                                                          ✗      ✗     ✗
 Harvest Moon 3D - A New Beginning (Europe)                                                                                                                     ✗      ✗     ✗
 Harvest Moon 3D - A New Beginning (Europe).3ds                                                                                                                 ✗      ✗     ✗
-Harvest Moon 3D - A New Beginning (USA)                                                                                                                        ✗      ✗     ✗
+Harvest Moon 3D - A New Beginning (USA)                                                                                                                        -      ✗     ✗
 Harvest Moon 3D - A New Beginning (USA).3ds                                                                                                                    ✗      ✗     ✗
 Harvest Moon 3D - The Lost Valley (Europe)                                                                                                                     ✗      ✗     ✗
 Harvest Moon 3D - The Lost Valley (Europe).3ds                                                                                                                 ✗      ✗     ✗
@@ -2352,14 +2369,15 @@ Harvest Moon 3D - The Tale of Two Towns (Europe)                                
 Harvest Moon 3D - The Tale of Two Towns (Europe) (En,Fr,De)                                                                                                    ✗      ✗     ✗
 Harvest Moon 3D - The Tale of Two Towns (Europe) (En,Fr,De) (Rev 1)                                                                                            ✗      ✗     ✗
 Harvest Moon 3D - The Tale of Two Towns (Europe).3ds                                                                                                           ✗      ✗     ✗
-Harvest Moon 3D - The Tale of Two Towns (USA)                                                                                                                  ✗      ✗     ✗
+Harvest Moon 3D - The Tale of Two Towns (USA)                                                                                                                  -      ✗     ✗
+Harvest Moon 3D - The Tale of Two Towns (USA) (Rev 1)                                                                                                          ✗      ✗     ✗
 Harvest Moon 3D - The Tale of Two Towns (USA) (Rev 2)                                                                                                          ✗      ✗     ✗
 Harvest Moon 3D - The Tale of Two Towns (USA).3ds                                                                                                              ✗      ✗     ✗
 Harvest Moon_ Skytree Village (Europe)                                                                                                                         ✗      ✗     ✗
 Harvest Moon_ Skytree Village (Europe).3ds                                                                                                                     ✗      ✗     ✗
 Harvest Moon_ Skytree Village (USA)                                                                                                                            ✗      ✗     ✗
 Harvest Moon_ Skytree Village (USA).3ds                                                                                                                        ✗      ✗     ✗
-Hatsune Miku - Project Mirai 2 (Japan)                                                                                                                         ✗      ✗     ✗
+Hatsune Miku - Project Mirai 2 (Japan)                                                                                                                         -      ✗     ✗
 Hatsune Miku - Project Mirai 2 (Japan).3ds                                                                                                                     ✗      ✗     ✗
 Hatsune Miku - Project Mirai DX                                                                                                                                ✗      ✗     ✗
 Hatsune Miku - Project Mirai DX (Europe)                                                                                                                       ✗      ✗     ✗
@@ -2731,8 +2749,8 @@ Jewel Master - Atlantis 3D (Europe) (En,Fr,De,Es,It,Nl)                         
 Jewel Master - Atlantis 3D (Europe).3ds                                                                                                                        ✗      ✗     ✗
 Jewel Master - Cradle of Egypt 2 3D (Europe)                                                                                                                   ✗      ✗     ✗
 Jewel Master - Cradle of Egypt 2 3D (Europe) (En,Fr,De,Es,It,Nl)                                                                                               ✗      ✗     ✗
-Jewel Master - Cradle of Egypt 2 3D (Europe) (En,Fr,Es,It)                                                                                                     ✗      ✗     ✗
 Jewel Master - Cradle of Egypt 2 3D (Europe).3ds                                                                                                               ✗      ✗     ✗
+Jewel Master - Cradle of Egypt 2 3D (France) (En,Fr,Es,It)                                                                                                     ✗      ✗     ✗
 Jewel Master - Cradle of Egypt 2 3D (USA)                                                                                                                      ✗      ✗     ✗
 Jewel Master - Cradle of Egypt 2 3D (USA) (En,Fr,Es)                                                                                                           ✗      ✗     ✗
 Jewel Master - Cradle of Egypt 2 3D (USA).3ds                                                                                                                  ✗      ✗     ✗
@@ -2762,11 +2780,11 @@ Jewel Quest IV - Heritage (Europe).3ds                                          
 Jewel Quest IV Heritage (USA)                                                                                                                                  ✗      ✗     ✗
 Jewel Quest IV Heritage (USA).3ds                                                                                                                              ✗      ✗     ✗
 Jewel Quest Mysteries - The Seventh Gate (Europe)                                                                                                              ✗      ✗     ✗
-Jewel Quest Mysteries - The Seventh Gate (Europe) (En,Fr,De,Es,It,Nl)                                                                                          ✗      ✗     ✗
 Jewel Quest Mysteries - The Seventh Gate (Europe).3ds                                                                                                          ✗      ✗     ✗
+Jewel Quest Mysteries 3 - The Seventh Gate (Europe) (En,Fr,De,Es,It,Nl)                                                                                        ✗      ✗     ✗
 Jikkyou Powerful Pro Yakyuu Heroes (Japan)                                                                                                                     ✗      ✗     ✗
 Jikkyou Powerful Pro Yakyuu Heroes (Japan).3ds                                                                                                                 ✗      ✗     ✗
-Jikkyou Powerful Pro Yakyuu Heroes - Jisedai World Hobby Fair 17 Winter Tokubetsu Taikenban (Japan) (Demo) (Kiosk)                                             ✗      ✗     ✗
+Jikkyou Powerful Pro Yakyuu Heroes - Jisedai World Hobby Fair 17 Winter Tokubetsu Taikenban (Japan) (Demo) (Promo)                                             ✗      ✗     ✗
 Jissha de Chibi Robo! (Japan)                                                                                                                                  ✗      ✗     ✗
 Jissha de Chibi Robo! (Japan).3ds                                                                                                                              ✗      ✗     ✗
 Johnny HotShot (USA)                                                                                                                                           ✗      ✗     ✗
@@ -2856,7 +2874,7 @@ Ketzal's Corridors (USA).3ds                                                    
 Kid Icarus - Uprising (Europe)                                                                                                                                 ✗      ✗     ✗
 Kid Icarus - Uprising (Europe) (En,Fr,De,Es,It)                                                                                                                -      ✗     ✗
 Kid Icarus - Uprising (Europe).3ds                                                                                                                             ✗      ✗     ✗
-Kid Icarus - Uprising (USA)                                                                                                                                    ✗      ✗     ✗
+Kid Icarus - Uprising (USA)                                                                                                                                    -      ✗     ✗
 Kid Icarus - Uprising (USA) (En,Fr,Es)                                                                                                                         ✗      ✗     ✗
 Kid Icarus - Uprising (USA).3ds                                                                                                                                ✗      ✗     ✗
 Kid Icarus_Of Myths and Monsters (Japan)                                                                                                                       ✗      ✗     ✗
@@ -2870,7 +2888,7 @@ Kingdom Hearts 3D - Dream Drop Distance (Europe) (En,Fr,De)                     
 Kingdom Hearts 3D - Dream Drop Distance (Europe).3ds                                                                                                           ✗      ✗     ✗
 Kingdom Hearts 3D - Dream Drop Distance (Japan)                                                                                                                ✗      ✗     ✗
 Kingdom Hearts 3D - Dream Drop Distance (Japan).3ds                                                                                                            ✗      ✗     ✗
-Kingdom Hearts 3D - Dream Drop Distance (USA)                                                                                                                  ✗      ✗     ✗
+Kingdom Hearts 3D - Dream Drop Distance (USA)                                                                                                                  -      ✗     ✗
 Kingdom Hearts 3D - Dream Drop Distance (USA) (En,Fr)                                                                                                          ✗      ✗     ✗
 Kingdom Hearts 3D - Dream Drop Distance (USA).3ds                                                                                                              ✗      ✗     ✗
 Kiniro no Corda 3 - Full Voice Special (Japan)                                                                                                                 ✗      ✗     ✗
@@ -2890,14 +2908,14 @@ Kirameki Waku Waku Sweets (Japan)                                               
 Kirameki Waku Waku Sweets (Japan).3ds                                                                                                                          ✗      ✗     ✗
 Kirby - Planet Robobot (Europe)                                                                                                                                ✗      ✗     ✗
 Kirby - Planet Robobot (Europe) (Demo) (Kiosk)                                                                                                                 ✗      ✗     ✗
-Kirby - Planet Robobot (USA)                                                                                                                                   ✗      ✗     ✗
+Kirby - Planet Robobot (USA)                                                                                                                                   -      ✗     ✗
 Kirby - Planet Robobot (USA) (Demo) (Kiosk)                                                                                                                    ✗      ✗     ✗
 Kirby - Triple Deluxe (Europe)                                                                                                                                 ✗      ✗     ✗
 Kirby - Triple Deluxe (Europe) (En,Fr,De,Es,It)                                                                                                                ✗      ✗     ✗
 Kirby - Triple Deluxe (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)                                                                                                 ✗      ✗     ✗
 Kirby - Triple Deluxe (Europe).3ds                                                                                                                             ✗      ✗     ✗
 Kirby - Triple Deluxe (USA)                                                                                                                                    ✗      ✗     ✗
-Kirby - Triple Deluxe (USA) (En,Fr,Es)                                                                                                                         ✗      ✗     ✗
+Kirby - Triple Deluxe (USA) (En,Fr,Es)                                                                                                                         -      ✗     ✗
 Kirby - Triple Deluxe (USA) (En,Fr,Es) (Demo) (Kiosk)                                                                                                          ✗      ✗     ✗
 Kirby - Triple Deluxe (USA).3ds                                                                                                                                ✗      ✗     ✗
 Kirby Battle Deluxe (Japan)                                                                                                                                    ✗      ✗     ✗
@@ -2940,8 +2958,8 @@ Kirby's Extra Epic Yarn (Europe) (En,Fr,De,Es,It)                               
 Kirby's Extra Epic Yarn (Europe).3ds                                                                                                                           ✗      ✗     ✗
 Kirby's Extra Epic Yarn (USA)                                                                                                                                  ✗      ✗     ✗
 Kirby's Extra Epic Yarn (USA) (En,Fr,Es)                                                                                                                       ✗      ✗     ✗
+Kirby's Extra Epic Yarn (USA) (En,Fr,Es) (Demo) (Kiosk)                                                                                                        ✗      ✗     ✗
 Kirby's Extra Epic Yarn (USA).3ds                                                                                                                              ✗      ✗     ✗
-Kirby's Extra Epic Yarn (World) (Demo) (Kiosk)                                                                                                                 ✗      ✗     ✗
 Kirby's Pinball Land (Europe)                                                                                                                                  ✗      ✗     ✗
 Kirby's Pinball Land (Europe).3ds                                                                                                                              ✗      ✗     ✗
 Kirby's Pinball Land (Japan)                                                                                                                                   ✗      ✗     ✗
@@ -3016,6 +3034,7 @@ Kururin Susshi (Japan)                                                          
 Kururin Susshi (Japan).3ds                                                                                                                                     ✗      ✗     ✗
 Kutar Quiz (USA)                                                                                                                                               ✗      ✗     ✗
 Kutar Quiz (USA).3ds                                                                                                                                           ✗      ✗     ✗
+Kuukan Sagashimono Kei Nouryoku Kaihatsu - 3D Nou Training (Japan)                                                                                             ✗      ✗     ✗
 Kuukan Sagashimono kei Nouryoku Kaihatsu 3D Nou Training (Japan)                                                                                               ✗      ✗     ✗
 Kuukan Sagashimono kei Nouryoku Kaihatsu 3D Nou Training (Japan).3ds                                                                                           ✗      ✗     ✗
 Kyokugen Dasshutsu ADV - Zennin Shiboudesu (Japan)                                                                                                             ✗      ✗     ✗
@@ -3039,7 +3058,7 @@ LEGO Batman 2 - DC Super Heroes (France) (En,Fr)                                
 LEGO Batman 2 - DC Super Heroes (France) (En,Fr) (Rev 1)                                                                                                       ✗      ✗     ✗
 LEGO Batman 2 - DC Super Heroes (Germany) (En,De)                                                                                                              ✗      ✗     ✗
 LEGO Batman 2 - DC Super Heroes (Germany) (En,De) (Rev 1)                                                                                                      ✗      ✗     ✗
-LEGO Batman 2 - DC Super Heroes (USA)                                                                                                                          ✗      ✗     ✗
+LEGO Batman 2 - DC Super Heroes (USA)                                                                                                                          -      ✗     ✗
 LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es,Pt)                                                                                                            ✗      ✗     ✗
 LEGO Batman 2 - DC Super Heroes (USA).3ds                                                                                                                      ✗      ✗     ✗
 LEGO Batman 2 - DC Super Heroes.3ds                                                                                                                            ✗      ✗     ✗
@@ -3089,7 +3108,7 @@ LEGO Friends (USA).3ds                                                          
 LEGO Harry Potter - Years 5-7 (Europe)                                                                                                                         ✗      ✗     ✗
 LEGO Harry Potter - Years 5-7 (Europe) (En,Fr,De,Es,It,Nl,Da)                                                                                                  ✗      ✗     ✗
 LEGO Harry Potter - Years 5-7 (Europe).3ds                                                                                                                     ✗      ✗     ✗
-LEGO Harry Potter - Years 5-7 (USA)                                                                                                                            ✗      ✗     ✗
+LEGO Harry Potter - Years 5-7 (USA)                                                                                                                            -      ✗     ✗
 LEGO Harry Potter - Years 5-7 (USA) (En,Fr,Es,Pt)                                                                                                              ✗      ✗     ✗
 LEGO Harry Potter - Years 5-7 (USA).3ds                                                                                                                        ✗      ✗     ✗
 LEGO Jurassic World (Europe)                                                                                                                                   ✗      ✗     ✗
@@ -3255,23 +3274,22 @@ Legend of Legacy, The (Japan)                                                   
 Legend of Legacy, The (USA)                                                                                                                                    ✗      ✗     ✗
 Legend of Zelda, The - A Link Between Worlds (Europe) (En,Fr,De,Es,It)                                                                                         ✗      ✗     ✗
 Legend of Zelda, The - A Link Between Worlds (Europe) (En,Fr,De,Es,It,Nl) (Demo) (Kiosk)                                                                       ✗      ✗     ✗
-Legend of Zelda, The - A Link Between Worlds (USA) (En,Fr,Es)                                                                                                  ✗      ✗     ✗
+Legend of Zelda, The - A Link Between Worlds (USA) (En,Fr,Es)                                                                                                  -      ✗     ✗
 Legend of Zelda, The - A Link Between Worlds (USA) (En,Fr,Es) (Demo) (Kiosk)                                                                                   ✗      ✗     ✗
-Legend of Zelda, The - Kamigami no Triforce 2 (Japan)                                                                                                          ✗      ✗     ✗
 Legend of Zelda, The - Majora's Mask 3D (Europe) (En,Fr,De,Es,It)                                                                                              ✗      ✗     ✗
 Legend of Zelda, The - Majora's Mask 3D (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)                                                                               ✗      ✗     ✗
 Legend of Zelda, The - Majora's Mask 3D (Europe) (En,Fr,De,Es,It) (Rev 1)                                                                                      ✗      ✗     ✗
 Legend of Zelda, The - Majora's Mask 3D (USA) (Demo) (Kiosk)                                                                                                   ✗      ✗     ✗
-Legend of Zelda, The - Majora's Mask 3D (USA) (En,Fr,Es)                                                                                                       ✗      ✗     ✗
-Legend of Zelda, The - Majora's Mask 3D (USA) (En,Fr,Es) (Rev 1)                                                                                               ✗      ✗     ✗
+Legend of Zelda, The - Majora's Mask 3D (USA) (En,Fr,Es)                                                                                                       -      ✗     ✗
+Legend of Zelda, The - Majora's Mask 3D (USA) (En,Fr,Es) (Rev 1)                                                                                               -      ✗     ✗
 Legend of Zelda, The - Ocarina of Time 3D (Europe) (En,Fr,De,Es,It)                                                                                            ✗      ✗     ✗
 Legend of Zelda, The - Ocarina of Time 3D (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)                                                                             ✗      ✗     ✗
 Legend of Zelda, The - Ocarina of Time 3D (Europe) (En,Fr,De,Es,It) (Rev 1)                                                                                    ✗      ✗     ✗
 Legend of Zelda, The - Ocarina of Time 3D (Korea)                                                                                                              ✗      ✗     ✗
 Legend of Zelda, The - Ocarina of Time 3D (Taiwan) (Tw, Cn Region Lock)                                                                                        ✗      ✗     ✗
-Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es)                                                                                                     ✗      ✗     ✗
+Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es)                                                                                                     -      ✗     ✗
 Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es) (Demo) (Kiosk)                                                                                      ✗      ✗     ✗
-Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es) (Rev 1)                                                                                             ✗      ✗     ✗
+Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es) (Rev 1)                                                                                             -      ✗     ✗
 Legend of Zelda, The - Tri Force Heroes (Europe) (En,Fr,De,Es,It)                                                                                              ✗      ✗     ✗
 Legend of Zelda, The - Tri Force Heroes (USA) (En,Fr,Es)                                                                                                       ✗      ✗     ✗
 Legends of Oz - Dorothy's Return (Europe)                                                                                                                      ✗      ✗     ✗
@@ -3323,11 +3341,11 @@ Luigi's Mansion                                                                 
 Luigi's Mansion (Europe)                                                                                                                                       ✗      ✗     ✗
 Luigi's Mansion (Europe) (En,Fr,De,Es,It)                                                                                                                      ✗      ✗     ✗
 Luigi's Mansion (Europe).3ds                                                                                                                                   ✗      ✗     ✗
-Luigi's Mansion (USA)                                                                                                                                          ✗      ✗     ✗
+Luigi's Mansion (USA)                                                                                                                                          -      ✗     ✗
 Luigi's Mansion (USA).3ds                                                                                                                                      ✗      ✗     ✗
 Luigi's Mansion - Dark Moon                                                                                                                                    ✗      ✗     ✗
 Luigi's Mansion - Dark Moon (USA)                                                                                                                              ✗      ✗     ✗
-Luigi's Mansion - Dark Moon (USA) (En,Fr,Es)                                                                                                                   ✗      ✗     ✗
+Luigi's Mansion - Dark Moon (USA) (En,Fr,Es)                                                                                                                   -      ✗     ✗
 Luigi's Mansion - Dark Moon (USA).3ds                                                                                                                          ✗      ✗     ✗
 Luigi's Mansion - Dark Moon.3ds                                                                                                                                ✗      ✗     ✗
 Luigi's Mansion 2                                                                                                                                              ✗      ✗     ✗
@@ -3418,7 +3436,7 @@ Mario Golf - World Tour (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Demo) (Kiosk)       
 Mario Golf - World Tour (Europe).3ds                                                                                                                           ✗      ✗     ✗
 Mario Golf - World Tour (Japan)                                                                                                                                ✗      ✗     ✗
 Mario Golf - World Tour (Japan).3ds                                                                                                                            ✗      ✗     ✗
-Mario Golf - World Tour (USA)                                                                                                                                  ✗      ✗     ✗
+Mario Golf - World Tour (USA)                                                                                                                                  -      ✗     ✗
 Mario Golf - World Tour (USA) (En,Fr,Es)                                                                                                                       ✗      ✗     ✗
 Mario Golf - World Tour (USA).3ds                                                                                                                              ✗      ✗     ✗
 Mario Golf - World Tour.3ds                                                                                                                                    ✗      ✗     ✗
@@ -3441,7 +3459,7 @@ Mario Kart 7 (Japan) (Rev 2)                                                    
 Mario Kart 7 (Japan).3ds                                                                                                                                       ✗      ✗     ✗
 Mario Kart 7 (Korea)                                                                                                                                           ✗      ✗     ✗
 Mario Kart 7 (Taiwan)                                                                                                                                          ✗      ✗     ✗
-Mario Kart 7 (USA)                                                                                                                                             ✗      ✗     ✗
+Mario Kart 7 (USA)                                                                                                                                             -      ✗     ✗
 Mario Kart 7 (USA) (En,Fr,Es)                                                                                                                                  ✗      ✗     ✗
 Mario Kart 7 (USA) (En,Fr,Es) (Demo) (Kiosk)                                                                                                                   ✗      ✗     ✗
 Mario Kart 7 (USA) (En,Fr,Es) (Rev 1)                                                                                                                          ✗      ✗     ✗
@@ -3455,9 +3473,7 @@ Mario Party - Island Tour (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)                    
 Mario Party - Island Tour (Europe).3ds                                                                                                                         ✗      ✗     ✗
 Mario Party - Island Tour (Japan)                                                                                                                              ✗      ✗     ✗
 Mario Party - Island Tour (Japan).3ds                                                                                                                          ✗      ✗     ✗
-Mario Party - Island Tour (USA)                                                                                                                                ✗      ✗     ✗
 Mario Party - Island Tour (USA) (En,Fr,Es)                                                                                                                     ✗      ✗     ✗
-Mario Party - Island Tour (USA).3ds                                                                                                                            ✗      ✗     ✗
 Mario Party - Island Tour.3ds                                                                                                                                  ✗      ✗     ✗
 Mario Party - Star Rush (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)                                                                                                     ✗      ✗     ✗
 Mario Party - Star Rush (Japan)                                                                                                                                ✗      ✗     ✗
@@ -3467,6 +3483,8 @@ Mario Party - The Top 100 (USA)                                                 
 Mario Party 100 - Mini Game Collection (Japan)                                                                                                                 ✗      ✗     ✗
 Mario Party 100 Mini Game Collection (Japan)                                                                                                                   ✗      ✗     ✗
 Mario Party 100 Mini Game Collection (Japan).3ds                                                                                                               ✗      ✗     ✗
+Mario Party_ Island Tour (USA)                                                                                                                                 ✗      ✗     ✗
+Mario Party_ Island Tour (USA).3ds                                                                                                                             ✗      ✗     ✗
 Mario Party_ Star Rush                                                                                                                                         ✗      ✗     ✗
 Mario Party_ Star Rush (Europe)                                                                                                                                ✗      ✗     ✗
 Mario Party_ Star Rush (Europe).3ds                                                                                                                            ✗      ✗     ✗
@@ -3771,7 +3789,7 @@ Miitopia (Europe).3ds                                                           
 Miitopia (Japan)                                                                                                                                               ✗      ✗     ✗
 Miitopia (Japan).3ds                                                                                                                                           ✗      ✗     ✗
 Miitopia (USA)                                                                                                                                                 ✗      ✗     ✗
-Miitopia (USA) (En,Fr,Es)                                                                                                                                      ✗      ✗     ✗
+Miitopia (USA) (En,Fr,Es)                                                                                                                                      -      ✗     ✗
 Miitopia (USA).3ds                                                                                                                                             ✗      ✗     ✗
 Miitopia - Casting Call (Europe)                                                                                                                               ✗      ✗     ✗
 Miitopia - Casting Call (Europe).3ds                                                                                                                           ✗      ✗     ✗
@@ -3849,7 +3867,7 @@ Monster High - Skultimate Roller Maze (USA).3ds                                 
 Monster Hunter 3 Ultimate (Europe)                                                                                                                             ✗      ✗     ✗
 Monster Hunter 3 Ultimate (Europe) (En,Fr,De,Es,It)                                                                                                            ✗      ✗     ✗
 Monster Hunter 3 Ultimate (Europe).3ds                                                                                                                         ✗      ✗     ✗
-Monster Hunter 3 Ultimate (USA)                                                                                                                                ✗      ✗     ✗
+Monster Hunter 3 Ultimate (USA)                                                                                                                                -      ✗     ✗
 Monster Hunter 3 Ultimate (USA) (En,Fr,De,Es,It)                                                                                                               ✗      ✗     ✗
 Monster Hunter 3 Ultimate (USA).3ds                                                                                                                            ✗      ✗     ✗
 Monster Hunter 3 Ultimate Data Transfer Program (Europe)                                                                                                       ✗      ✗     ✗
@@ -3867,7 +3885,7 @@ Monster Hunter 4 (Taiwan) (Ja)                                                  
 Monster Hunter 4 Ultimate (Europe)                                                                                                                             ✗      ✗     ✗
 Monster Hunter 4 Ultimate (Europe) (En,Fr,De,Es,It)                                                                                                            ✗      ✗     ✗
 Monster Hunter 4 Ultimate (Europe).3ds                                                                                                                         ✗      ✗     ✗
-Monster Hunter 4 Ultimate (USA)                                                                                                                                ✗      ✗     ✗
+Monster Hunter 4 Ultimate (USA)                                                                                                                                -      ✗     ✗
 Monster Hunter 4 Ultimate (USA).3ds                                                                                                                            ✗      ✗     ✗
 Monster Hunter 4.3ds                                                                                                                                           ✗      ✗     ✗
 Monster Hunter 4G                                                                                                                                              ✗      ✗     ✗
@@ -3880,7 +3898,7 @@ Monster Hunter Generations (Europe)                                             
 Monster Hunter Generations (Europe) (En,Fr,De,Es,It)                                                                                                           ✗      ✗     ✗
 Monster Hunter Generations (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)                                                                                            ✗      ✗     ✗
 Monster Hunter Generations (Europe).3ds                                                                                                                        ✗      ✗     ✗
-Monster Hunter Generations (USA)                                                                                                                               ✗      ✗     ✗
+Monster Hunter Generations (USA)                                                                                                                               -      ✗     ✗
 Monster Hunter Generations (USA).3ds                                                                                                                           ✗      ✗     ✗
 Monster Hunter Stories (Europe)                                                                                                                                ✗      ✗     ✗
 Monster Hunter Stories (Europe) (En,Fr,De,Es,It,Nl)                                                                                                            ✗      ✗     ✗
@@ -4077,8 +4095,8 @@ Nekketsu Koukou Dodgeball Football Edition (Japan).3ds                          
 Nekketsu Mahou Monogatari (Japan)                                                                                                                              ✗      ✗     ✗
 Nekketsu Mahou Monogatari (Japan).3ds                                                                                                                          ✗      ✗     ✗
 Neko Tomo (Japan)                                                                                                                                              ✗      ✗     ✗
+Neko Tomo (Japan) (Rev 1)                                                                                                                                      ✗      ✗     ✗
 Neko Tomo (Japan).3ds                                                                                                                                          ✗      ✗     ✗
-Neko-Tomo (Japan) (Rev 1)                                                                                                                                      ✗      ✗     ✗
 Nekojara Monogatari (Japan)                                                                                                                                    ✗      ✗     ✗
 Nekojara Monogatari (Japan).3ds                                                                                                                                ✗      ✗     ✗
 Neratte! Tobashite! Rilakkuma Guragura Sweets Tower (Japan)                                                                                                    ✗      ✗     ✗
@@ -4105,9 +4123,10 @@ New Super Mario Bros. 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)                      
 New Super Mario Bros. 2 (Europe).3ds                                                                                                                           ✗      ✗     ✗
 New Super Mario Bros. 2 (Japan)                                                                                                                                ✗      ✗     ✗
 New Super Mario Bros. 2 (Japan).3ds                                                                                                                            ✗      ✗     ✗
+New Super Mario Bros. 2 (Korea)                                                                                                                                ✗      ✗     ✗
 New Super Mario Bros. 2 (Taiwan) (Tw, Cn Region Lock)                                                                                                          ✗      ✗     ✗
 New Super Mario Bros. 2 (USA)                                                                                                                                  ✗      ✗     ✗
-New Super Mario Bros. 2 (USA) (En,Fr,Es)                                                                                                                       ✗      ✗     ✗
+New Super Mario Bros. 2 (USA) (En,Fr,Es)                                                                                                                       -      ✗     ✗
 New Super Mario Bros. 2 (USA).3ds                                                                                                                              ✗      ✗     ✗
 New Super Mario Bros. 2.3ds                                                                                                                                    ✗      ✗     ✗
 Nickelodeon Teenage Mutant Ninja Turtles (Europe)                                                                                                              ✗      ✗     ✗
@@ -4216,6 +4235,7 @@ Nintendogs + Cats - French Bulldog _ New Friends (Taiwan) (Tw, Cn Region Lock)  
 Nintendogs + Cats - French Bulldog _ New Friends (USA)                                                                                                         ✗      ✗     ✗
 Nintendogs + Cats - French Bulldog _ New Friends (USA) (En,Fr,Es)                                                                                              ✗      ✗     ✗
 Nintendogs + Cats - French Bulldog _ New Friends (USA) (En,Fr,Es) (Rev 1)                                                                                      ✗      ✗     ✗
+Nintendogs + Cats - French Bulldog _ New Friends (USA) (En,Fr,Es) (Rev 2)                                                                                      ✗      ✗     ✗
 Nintendogs + Cats - French Bulldog _ New Friends (USA).3ds                                                                                                     ✗      ✗     ✗
 Nintendogs + Cats - French Bulldog _ New Friends.3ds                                                                                                           ✗      ✗     ✗
 Nintendogs + Cats - Golden Retriever _ New Friends (Europe)                                                                                                    ✗      ✗     ✗
@@ -4230,6 +4250,8 @@ Nintendogs + Cats - Golden Retriever _ New Friends (USA).3ds                    
 Nintendogs + Cats - Shiba Inu _ New Friends (Japan)                                                                                                            ✗      ✗     ✗
 Nintendogs + Cats - Shiba Inu _ New Friends (Japan).3ds                                                                                                        ✗      ✗     ✗
 Nintendogs + Cats - Shiba _ New Friends                                                                                                                        ✗      ✗     ✗
+Nintendogs + Cats - Shiba _ New Friends (Japan)                                                                                                                ✗      ✗     ✗
+Nintendogs + Cats - Shiba _ New Friends (Japan) (Rev 1)                                                                                                        ✗      ✗     ✗
 Nintendogs + Cats - Shiba _ New Friends (Japan) (Rev 2)                                                                                                        ✗      ✗     ✗
 Nintendogs + Cats - Shiba _ New Friends (Taiwan) (Tw, Cn Region Lock)                                                                                          ✗      ✗     ✗
 Nintendogs + Cats - Shiba _ New Friends.3ds                                                                                                                    ✗      ✗     ✗
@@ -4240,6 +4262,7 @@ Nintendogs + Cats - Toy Poodle _ New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) 
 Nintendogs + Cats - Toy Poodle _ New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)                                                                        ✗      ✗     ✗
 Nintendogs + Cats - Toy Poodle _ New Friends (Europe).3ds                                                                                                      ✗      ✗     ✗
 Nintendogs + Cats - Toy Poodle _ New Friends (Japan)                                                                                                           ✗      ✗     ✗
+Nintendogs + Cats - Toy Poodle _ New Friends (Japan) (Rev 1)                                                                                                   ✗      ✗     ✗
 Nintendogs + Cats - Toy Poodle _ New Friends (Japan) (Rev 2)                                                                                                   ✗      ✗     ✗
 Nintendogs + Cats - Toy Poodle _ New Friends (Japan).3ds                                                                                                       ✗      ✗     ✗
 Nintendogs + Cats - Toy Poodle _ New Friends (Taiwan) (Tw, Cn Region Lock)                                                                                     ✗      ✗     ✗
@@ -4273,21 +4296,16 @@ One Piece - Romance Dawn (Europe) (En,Fr,De,Es,It)                              
 One Piece - Romance Dawn (Europe).3ds                                                                                                                          ✗      ✗     ✗
 One Piece - Romance Dawn (Japan)                                                                                                                               ✗      ✗     ✗
 One Piece - Romance Dawn (Japan).3ds                                                                                                                           ✗      ✗     ✗
-One Piece - Romance Dawn (USA)                                                                                                                                 ✗      ✗     ✗
+One Piece - Romance Dawn (USA)                                                                                                                                 -      ✗     ✗
 One Piece - Romance Dawn (USA) (En,Fr,Es)                                                                                                                      ✗      ✗     ✗
 One Piece - Romance Dawn (USA).3ds                                                                                                                             ✗      ✗     ✗
 One Piece - Romance Dawn - Bouken no Yoake (Japan)                                                                                                             ✗      ✗     ✗
 One Piece - Super Grand Battle! X (Japan)                                                                                                                      ✗      ✗     ✗
 One Piece - Super Grand Battle! X (Japan).3ds                                                                                                                  ✗      ✗     ✗
-One Piece - Unlimited Cruise SP (Europe)                                                                                                                       ✗      ✗     ✗
 One Piece - Unlimited Cruise SP (Europe) (En,Fr,De,Es,It)                                                                                                      ✗      ✗     ✗
-One Piece - Unlimited Cruise SP (Europe).3ds                                                                                                                   ✗      ✗     ✗
 One Piece - Unlimited Cruise SP (Japan)                                                                                                                        ✗      ✗     ✗
 One Piece - Unlimited Cruise SP (Japan) (Rev 1)                                                                                                                ✗      ✗     ✗
-One Piece - Unlimited Cruise SP (Japan).3ds                                                                                                                    ✗      ✗     ✗
-One Piece - Unlimited Cruise SP2 (Europe)                                                                                                                      ✗      ✗     ✗
 One Piece - Unlimited Cruise SP2 (Europe) (En,Fr,De,Es,It)                                                                                                     ✗      ✗     ✗
-One Piece - Unlimited Cruise SP2 (Europe).3ds                                                                                                                  ✗      ✗     ✗
 One Piece - Unlimited World Red (Europe)                                                                                                                       ✗      ✗     ✗
 One Piece - Unlimited World Red (Europe) (En,Fr,De,Es,It)                                                                                                      ✗      ✗     ✗
 One Piece - Unlimited World Red (Europe).3ds                                                                                                                   ✗      ✗     ✗
@@ -4297,6 +4315,12 @@ One Piece - Unlimited World Red (USA)                                           
 One Piece - Unlimited World Red (USA).3ds                                                                                                                      ✗      ✗     ✗
 One Piece Dai Kaizoku Colosseum (Japan)                                                                                                                        ✗      ✗     ✗
 One Piece Dai Kaizoku Colosseum (Japan).3ds                                                                                                                    ✗      ✗     ✗
+One Piece_ Unlimited Cruise SP (Europe)                                                                                                                        ✗      ✗     ✗
+One Piece_ Unlimited Cruise SP (Europe).3ds                                                                                                                    ✗      ✗     ✗
+One Piece_ Unlimited Cruise SP (Japan)                                                                                                                         ✗      ✗     ✗
+One Piece_ Unlimited Cruise SP (Japan).3ds                                                                                                                     ✗      ✗     ✗
+One Piece_ Unlimited Cruise SP2 (Europe)                                                                                                                       ✗      ✗     ✗
+One Piece_ Unlimited Cruise SP2 (Europe).3ds                                                                                                                   ✗      ✗     ✗
 Onna Kateikyoushi Izuka Sensei to Misshitsu ni Itara Marumaru Shichau Kamoshirenai (Japan)                                                                     ✗      ✗     ✗
 Onna Kateikyoushi Izuka Sensei to Misshitsu ni Itara Marumaru Shichau Kamoshirenai (Japan).3ds                                                                 ✗      ✗     ✗
 Onna no Ko to Misshitsu ni Itara shichau Kamoshirenai (Japan)                                                                                                  ✗      ✗     ✗
@@ -4388,7 +4412,7 @@ Pac-World (Japan)                                                               
 Pac-World (Japan).3ds                                                                                                                                          ✗      ✗     ✗
 Pac-World 2 (Japan)                                                                                                                                            ✗      ✗     ✗
 Pac-World 2 (Japan).3ds                                                                                                                                        ✗      ✗     ✗
-PachiPara 3D - Deluxe Umi Monogatari - Pachi-Pro Fuuunroko - Hana Kotou no Shoubushi Tachi (Japan)                                                             ✗      ✗     ✗
+PachiPara 3D - Deluxe Umi Monogatari - Pachi-Pro Fuuunroko - Hana Kotou no Shoubushi-tachi (Japan)                                                             ✗      ✗     ✗
 PachiPara 3D - Ooumi Monogatari 2 - Pachi Pro Fuuunroku Hana - Kibou to Uragiri no Gakuen Seikatsu (Japan)                                                     ✗      ✗     ✗
 PachiPara 3D - Ooumi Monogatari 2 - Pachi Pro Fuuunroku Hana - Kibou to Uragiri no Gakuen Seikatsu (Japan).3ds                                                 ✗      ✗     ✗
 PachiPara 3D - Ooumi Monogatari 2 with Agnes Lum (Japan)                                                                                                       ✗      ✗     ✗
@@ -4417,7 +4441,7 @@ Paper Mario - Sticker Star (Europe) (En,Fr,De,Es,It)                            
 Paper Mario - Sticker Star (Europe).3ds                                                                                                                        ✗      ✗     ✗
 Paper Mario - Sticker Star (Korea)                                                                                                                             ✗      ✗     ✗
 Paper Mario - Sticker Star (USA)                                                                                                                               ✗      ✗     ✗
-Paper Mario - Sticker Star (USA) (En,Fr,Es)                                                                                                                    ✗      ✗     ✗
+Paper Mario - Sticker Star (USA) (En,Fr,Es)                                                                                                                    -      ✗     ✗
 Paper Mario - Sticker Star (USA).3ds                                                                                                                           ✗      ✗     ✗
 Paper Mario - Sticker Star.3ds                                                                                                                                 ✗      ✗     ✗
 Paper Mario - Super Seal                                                                                                                                       ✗      ✗     ✗
@@ -4431,9 +4455,9 @@ Parking Star 3D (Japan)                                                         
 Parking Star 3D (Japan).3ds                                                                                                                                    ✗      ✗     ✗
 Paws _ Claws - Pampered Pets Resort 3D (USA)                                                                                                                   ✗      ✗     ✗
 Paws _ Claws - Pampered Pets Resort 3D (USA).3ds                                                                                                               ✗      ✗     ✗
-PazuDora Z - Gentei Challenge-Ban (Japan) (Demo) (Kiosk)                                                                                                       ✗      ✗     ✗
+PazuDora Z - Gentei Challenge-Ban (Japan) (Demo) (Promo)                                                                                                       ✗      ✗     ✗
 PazuDora Z - Puzzle _ Dragons Z (Japan)                                                                                                                        ✗      ✗     ✗
-PazuDora Z - Puzzle _ Dragons Z (Japan) (Demo)                                                                                                                 ✗      ✗     ✗
+PazuDora Z - Puzzle _ Dragons Z (Japan) (Demo) (Promo)                                                                                                         ✗      ✗     ✗
 PazuDora Z - Puzzle _ Dragons Z (Japan).3ds                                                                                                                    ✗      ✗     ✗
 Pazuru (Europe)                                                                                                                                                ✗      ✗     ✗
 Pazuru (Europe) (En,Fr,De,Es)                                                                                                                                  ✗      ✗     ✗
@@ -4456,7 +4480,7 @@ Persona Q - Shadow of the Labyrinth (Europe).3ds                                
 Persona Q - Shadow of the Labyrinth (Japan)                                                                                                                    ✗      ✗     ✗
 Persona Q - Shadow of the Labyrinth (Japan).3ds                                                                                                                ✗      ✗     ✗
 Persona Q - Shadow of the Labyrinth (Korea)                                                                                                                    ✗      ✗     ✗
-Persona Q - Shadow of the Labyrinth (USA)                                                                                                                      ✗      ✗     ✗
+Persona Q - Shadow of the Labyrinth (USA)                                                                                                                      -      ✗     ✗
 Persona Q - Shadow of the Labyrinth (USA).3ds                                                                                                                  ✗      ✗     ✗
 Persona Q - Shadow of the Labyrinth.3ds                                                                                                                        ✗      ✗     ✗
 Persona Q2 - New Cinema Labyrinth (Europe) (En,Fr)                                                                                                             ✗      ✗     ✗
@@ -4606,6 +4630,7 @@ Pix3D (Japan)                                                                   
 Pix3D (Japan).3ds                                                                                                                                              ✗      ✗     ✗
 Planet Crashers (Europe)                                                                                                                                       ✗      ✗     ✗
 Planet Crashers (Europe).3ds                                                                                                                                   ✗      ✗     ✗
+Pocket Monster - Ultra Sun (Korea)                                                                                                                             ✗      ✗     ✗
 Pocket Monsters Gin                                                                                                                                            ✗      ✗     ✗
 Pocket Monsters Gin.3ds                                                                                                                                        ✗      ✗     ✗
 Pocket Monsters Kin                                                                                                                                            ✗      ✗     ✗
@@ -4626,7 +4651,7 @@ Pokemon Alpha Sapphire (Europe) (En,Ja,Fr,De,Es,It,Ko) (Rev 2)                  
 Pokemon Alpha Sapphire (Japan) (En,Ja,Fr,De,Es,It,Ko) (Rev 2)                                                                                                  ✗      ✗     ✗
 Pokemon Alpha Sapphire (Korea) (En,Ja,Fr,De,Es,It,Ko) (Rev 2)                                                                                                  ✗      ✗     ✗
 Pokemon Alpha Sapphire (Taiwan) (En,Ja,Fr,De,Es,It,Ko) (Rev 2)                                                                                                 ✗      ✗     ✗
-Pokemon Alpha Sapphire (USA) (En,Ja,Fr,De,Es,It,Ko) (Rev 2)                                                                                                    ✗      ✗     ✗
+Pokemon Alpha Sapphire (USA) (En,Ja,Fr,De,Es,It,Ko) (Rev 2)                                                                                                    -      ✗     ✗
 Pokemon Art Academy (Europe) (En,Fr,De,Es,It)                                                                                                                  ✗      ✗     ✗
 Pokemon Art Academy (Japan)                                                                                                                                    ✗      ✗     ✗
 Pokemon Art Academy (USA) (En,Fr,Es) (Rev 2)                                                                                                                   ✗      ✗     ✗
@@ -4638,12 +4663,12 @@ Pokemon Moon (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko)                                 
 Pokemon Moon (Taiwan) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko)                                                                                                   ✗      ✗     ✗
 Pokemon Moon (USA) (En,Ja,Fr,De,Es,It,Zh,Ko)                                                                                                                   -      ✗     ✗
 Pokemon Mystery Dungeon - Gates to Infinity (Europe) (En,Fr,De,Es,It)                                                                                          ✗      ✗     ✗
-Pokemon Mystery Dungeon - Gates to Infinity (USA)                                                                                                              ✗      ✗     ✗
+Pokemon Mystery Dungeon - Gates to Infinity (USA)                                                                                                              -      ✗     ✗
 Pokemon Omega Ruby (Europe) (En,Ja,Fr,De,Es,It,Ko) (Rev 2)                                                                                                     ✗      ✗     ✗
 Pokemon Omega Ruby (Japan) (En,Ja,Fr,De,Es,It,Ko) (Rev 2)                                                                                                      ✗      ✗     ✗
 Pokemon Omega Ruby (Korea) (En,Ja,Fr,De,Es,It,Ko) (Rev 2)                                                                                                      ✗      ✗     ✗
 Pokemon Omega Ruby (Taiwan) (En,Ja,Fr,De,Es,It,Ko) (Rev 2)                                                                                                     ✗      ✗     ✗
-Pokemon Omega Ruby (USA) (En,Ja,Fr,De,Es,It,Ko) (Rev 2)                                                                                                        ✗      ✗     ✗
+Pokemon Omega Ruby (USA) (En,Ja,Fr,De,Es,It,Ko) (Rev 2)                                                                                                        -      ✗     ✗
 Pokemon Rumble Blast (USA)                                                                                                                                     ✗      ✗     ✗
 Pokemon Rumble World (Europe) (En,Fr,De,Es,It)                                                                                                                 ✗      ✗     ✗
 Pokemon Rumble World (USA)                                                                                                                                     ✗      ✗     ✗
@@ -4651,7 +4676,7 @@ Pokemon Sun (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko)                                  
 Pokemon Sun (Taiwan) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko)                                                                                                    ✗      ✗     ✗
 Pokemon Sun (USA) (En,Ja,Fr,De,Es,It,Zh,Ko)                                                                                                                    -      ✗     ✗
 Pokemon Super Mystery Dungeon (Europe) (En,Fr,De,Es,It)                                                                                                        ✗      ✗     ✗
-Pokemon Super Mystery Dungeon (USA)                                                                                                                            ✗      ✗     ✗
+Pokemon Super Mystery Dungeon (USA)                                                                                                                            -      ✗     ✗
 Pokemon Ultra Moon (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko)                                                                                                          -      ✗     ✗
 Pokemon Ultra Moon (Taiwan) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko)                                                                                             ✗      ✗     ✗
 Pokemon Ultra Moon (USA) (En,Ja,Fr,De,Es,It,Zh,Ko)                                                                                                             -      ✗     ✗
@@ -4662,12 +4687,12 @@ Pokemon X (Europe) (En,Ja,Fr,De,Es,It,Ko)                                       
 Pokemon X (Japan) (En,Ja,Fr,De,Es,It,Ko) (Rev 1)                                                                                                               ✗      ✗     ✗
 Pokemon X (Korea) (En,Ja,Fr,De,Es,It,Ko)                                                                                                                       ✗      ✗     ✗
 Pokemon X (Taiwan) (En,Ja,Fr,De,Es,It,Ko)                                                                                                                      ✗      ✗     ✗
-Pokemon X (USA) (En,Ja,Fr,De,Es,It,Ko)                                                                                                                         ✗      ✗     ✗
+Pokemon X (USA) (En,Ja,Fr,De,Es,It,Ko)                                                                                                                         -      ✗     ✗
 Pokemon Y (Europe) (En,Ja,Fr,De,Es,It,Ko)                                                                                                                      ✗      ✗     ✗
 Pokemon Y (Japan) (En,Ja,Fr,De,Es,It,Ko) (Rev 1)                                                                                                               ✗      ✗     ✗
 Pokemon Y (Korea) (En,Ja,Fr,De,Es,It,Ko)                                                                                                                       ✗      ✗     ✗
 Pokemon Y (Taiwan) (En,Ja,Fr,De,Es,It,Ko)                                                                                                                      ✗      ✗     ✗
-Pokemon Y (USA) (En,Ja,Fr,De,Es,It,Ko)                                                                                                                         ✗      ✗     ✗
+Pokemon Y (USA) (En,Ja,Fr,De,Es,It,Ko)                                                                                                                         -      ✗     ✗
 Pokémon - Gotta catch 'em all! - Gold Version (Europe)                                                                                                         ✗      ✗     ✗
 Pokémon - Gotta catch 'em all! - Gold Version (Europe).3ds                                                                                                     ✗      ✗     ✗
 Pokémon - Gotta catch 'em all! - Silver Version (Europe)                                                                                                       ✗      ✗     ✗
@@ -4832,6 +4857,7 @@ Pretty Rhythm - My Deco Rainbow Wedding (Japan)                                 
 Pretty Rhythm - My Deco Rainbow Wedding (Japan).3ds                                                                                                            ✗      ✗     ✗
 Pretty Rhythm - Rainbow Live Kira Kira My Design (Japan)                                                                                                       ✗      ✗     ✗
 Pretty Rhythm - Rainbow Live Kira Kira My Design (Japan).3ds                                                                                                   ✗      ✗     ✗
+Pretty Rhythm - Rainbow Live Kirakira My Design (Japan)                                                                                                        ✗      ✗     ✗
 PriPara - Mezase! Idol Grand Prix No.1! (Japan)                                                                                                                ✗      ✗     ✗
 PriPara Mezameyo! Megami no Dress Design (Japan)                                                                                                               ✗      ✗     ✗
 PriPara Mezameyo! Megami no Dress Design (Japan).3ds                                                                                                           ✗      ✗     ✗
@@ -4887,12 +4913,12 @@ Professeur Layton et le Masque des Miracles (France) (Demo) (Kiosk)             
 Professor Layton and the Azran Legacy (Europe)                                                                                                                 ✗      ✗     ✗
 Professor Layton and the Azran Legacy (Europe) (Demo) (Kiosk)                                                                                                  ✗      ✗     ✗
 Professor Layton and the Azran Legacy (Europe).3ds                                                                                                             ✗      ✗     ✗
-Professor Layton and the Azran Legacy (USA)                                                                                                                    ✗      ✗     ✗
+Professor Layton and the Azran Legacy (USA)                                                                                                                    -      ✗     ✗
 Professor Layton and the Azran Legacy (USA).3ds                                                                                                                ✗      ✗     ✗
 Professor Layton and the Miracle Mask (Europe)                                                                                                                 ✗      ✗     ✗
 Professor Layton and the Miracle Mask (Europe) (Demo) (Kiosk)                                                                                                  ✗      ✗     ✗
 Professor Layton and the Miracle Mask (Europe).3ds                                                                                                             ✗      ✗     ✗
-Professor Layton and the Miracle Mask (USA)                                                                                                                    ✗      ✗     ✗
+Professor Layton and the Miracle Mask (USA)                                                                                                                    -      ✗     ✗
 Professor Layton and the Miracle Mask (USA) (Rev 1)                                                                                                            ✗      ✗     ✗
 Professor Layton and the Miracle Mask (USA).3ds                                                                                                                ✗      ✗     ✗
 Professor Layton e l'Eredita' degli Aslant, Il (Italy)                                                                                                         ✗      ✗     ✗
@@ -4906,7 +4932,7 @@ Professor Layton en het Masker der Wonderen (Netherlands)                       
 Professor Layton und das Vermaechtnis von Aslant (Europe)                                                                                                      ✗      ✗     ✗
 Professor Layton und das Vermaechtnis von Aslant (Europe).3ds                                                                                                  ✗      ✗     ✗
 Professor Layton und das Vermaechtnis von Aslant (Germany)                                                                                                     ✗      ✗     ✗
-Professor Layton und das Vermaechtnis von Aslant (Germany) (Demo)                                                                                              ✗      ✗     ✗
+Professor Layton und das Vermaechtnis von Aslant (Germany) (Demo) (Kiosk)                                                                                      ✗      ✗     ✗
 Professor Layton und die Maske der Wunder (Europe)                                                                                                             ✗      ✗     ✗
 Professor Layton und die Maske der Wunder (Europe).3ds                                                                                                         ✗      ✗     ✗
 Professor Layton und die Maske der Wunder (Germany)                                                                                                            ✗      ✗     ✗
@@ -5156,13 +5182,14 @@ Renegade (Japan).3ds                                                            
 Resident Evil - Revelations (Europe)                                                                                                                           ✗      ✗     ✗
 Resident Evil - Revelations (Europe) (En,Ja,Fr,De,Es,It)                                                                                                       ✗      ✗     ✗
 Resident Evil - Revelations (Europe).3ds                                                                                                                       ✗      ✗     ✗
-Resident Evil - Revelations (USA)                                                                                                                              ✗      ✗     ✗
+Resident Evil - Revelations (USA)                                                                                                                              -      ✗     ✗
 Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,It)                                                                                                          ✗      ✗     ✗
+Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,It) (Rev 1)                                                                                                  ✗      ✗     ✗
 Resident Evil - Revelations (USA).3ds                                                                                                                          ✗      ✗     ✗
 Resident Evil - The Mercenaries 3D (Europe)                                                                                                                    ✗      ✗     ✗
 Resident Evil - The Mercenaries 3D (Europe) (En,Fr,De,Es,It)                                                                                                   ✗      ✗     ✗
 Resident Evil - The Mercenaries 3D (Europe).3ds                                                                                                                ✗      ✗     ✗
-Resident Evil - The Mercenaries 3D (USA)                                                                                                                       ✗      ✗     ✗
+Resident Evil - The Mercenaries 3D (USA)                                                                                                                       -      ✗     ✗
 Resident Evil - The Mercenaries 3D (USA) (En,Fr)                                                                                                               ✗      ✗     ✗
 Resident Evil - The Mercenaries 3D (USA).3ds                                                                                                                   ✗      ✗     ✗
 Retro City Rampage - DX (Europe)                                                                                                                               ✗      ✗     ✗
@@ -5376,7 +5403,7 @@ Scooby-Doo! _ Looney Tunes Cartoon Universe - Adventure (USA).3ds               
 Scribblenauts Unlimited (Europe)                                                                                                                               ✗      ✗     ✗
 Scribblenauts Unlimited (Europe) (En,Fr,De,Es,It,Nl) (Rev 2)                                                                                                   ✗      ✗     ✗
 Scribblenauts Unlimited (Europe).3ds                                                                                                                           ✗      ✗     ✗
-Scribblenauts Unlimited (USA)                                                                                                                                  ✗      ✗     ✗
+Scribblenauts Unlimited (USA)                                                                                                                                  -      ✗     ✗
 Scribblenauts Unlimited (USA) (En,Fr,Es,Pt)                                                                                                                    ✗      ✗     ✗
 Scribblenauts Unlimited (USA).3ds                                                                                                                              ✗      ✗     ✗
 Scribblenauts Unmasked - A DC Comics Adventure (Europe)                                                                                                        ✗      ✗     ✗
@@ -5424,6 +5451,7 @@ Sengoku Musou Chronicle 2nd (Japan)                                             
 Sengoku Musou Chronicle 2nd (Japan).3ds                                                                                                                        ✗      ✗     ✗
 Sengoku Musou Chronicle 3 (Japan)                                                                                                                              ✗      ✗     ✗
 Sengoku Musou Chronicle 3 (Japan).3ds                                                                                                                          ✗      ✗     ✗
+Senran Kagura - Shoujo-tachi no Shinei (Japan)                                                                                                                 ✗      ✗     ✗
 Senran Kagura - Shoujotachi no Shinei (Japan)                                                                                                                  ✗      ✗     ✗
 Senran Kagura - Shoujotachi no Shinei (Japan).3ds                                                                                                              ✗      ✗     ✗
 Senran Kagura 2 - Deep Crimson (Europe)                                                                                                                        ✗      ✗     ✗
@@ -5439,8 +5467,9 @@ Senran Kagura Burst (Europe)                                                    
 Senran Kagura Burst (Europe).3ds                                                                                                                               ✗      ✗     ✗
 Senran Kagura Burst (USA)                                                                                                                                      ✗      ✗     ✗
 Senran Kagura Burst (USA).3ds                                                                                                                                  ✗      ✗     ✗
+Senran Kagura Burst - Guren no Shoujo-tachi (Japan)                                                                                                            ✗      ✗     ✗
+Senran Kagura Burst - Guren no Shoujo-tachi (Japan) (Rev 1)                                                                                                    ✗      ✗     ✗
 Senran Kagura Burst - Guren no Shoujotachi (Japan)                                                                                                             ✗      ✗     ✗
-Senran Kagura Burst - Guren no Shoujotachi (Japan) (Rev 1)                                                                                                     ✗      ✗     ✗
 Senran Kagura Burst - Guren no Shoujotachi (Japan).3ds                                                                                                         ✗      ✗     ✗
 Sentouchu - Densetsu no Shinobi to Survival Battle! (Japan)                                                                                                    ✗      ✗     ✗
 Sentouchu - Densetsu no Shinobi to Survival Battle! (Japan).3ds                                                                                                ✗      ✗     ✗
@@ -5656,6 +5685,7 @@ Skylanders Trap Team (Europe).3ds                                               
 Skylanders Trap Team (USA)                                                                                                                                     ✗      ✗     ✗
 Skylanders Trap Team (USA) (En,Fr,Es,Pt)                                                                                                                       ✗      ✗     ✗
 Skylanders Trap Team (USA).3ds                                                                                                                                 ✗      ✗     ✗
+Slime Mori Mori Dragon Quest 3 - Daikaizoku to Shippo Dan (Japan)                                                                                              ✗      ✗     ✗
 Slime Morimori Dragon Quest 3 - Daikaizoku to Shippo Dan (Japan)                                                                                               ✗      ✗     ✗
 Slime Morimori Dragon Quest 3 - Daikaizoku to Shippo Dan (Japan).3ds                                                                                           ✗      ✗     ✗
 Slitherlink by Nikoli                                                                                                                                          ✗      ✗     ✗
@@ -5691,7 +5721,7 @@ Sonic - Lost World (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)                     
 Sonic - Lost World (Europe).3ds                                                                                                                                ✗      ✗     ✗
 Sonic - Lost World (Japan)                                                                                                                                     ✗      ✗     ✗
 Sonic - Lost World (Japan).3ds                                                                                                                                 ✗      ✗     ✗
-Sonic - Lost World (USA)                                                                                                                                       ✗      ✗     ✗
+Sonic - Lost World (USA)                                                                                                                                       -      ✗     ✗
 Sonic - Lost World (USA) (En,Fr,Es)                                                                                                                            ✗      ✗     ✗
 Sonic - Lost World (USA).3ds                                                                                                                                   ✗      ✗     ✗
 Sonic Boom - Fire _ Ice (Europe) (En,Fr,De,Es,It)                                                                                                              ✗      ✗     ✗
@@ -5709,7 +5739,7 @@ Sonic Generations (Europe)                                                      
 Sonic Generations (Europe) (En,Fr,De,Es,It)                                                                                                                    ✗      ✗     ✗
 Sonic Generations (Europe) (En,Fr,De,Es,It) (Rev 1)                                                                                                            ✗      ✗     ✗
 Sonic Generations (Europe).3ds                                                                                                                                 ✗      ✗     ✗
-Sonic Generations (USA)                                                                                                                                        ✗      ✗     ✗
+Sonic Generations (USA)                                                                                                                                        -      ✗     ✗
 Sonic Generations (USA) (En,Fr,Es)                                                                                                                             ✗      ✗     ✗
 Sonic Generations (USA) (En,Fr,Es) (Rev 1)                                                                                                                     ✗      ✗     ✗
 Sonic Generations (USA).3ds                                                                                                                                    ✗      ✗     ✗
@@ -5759,6 +5789,7 @@ Spelunker (Japan).3ds                                                           
 Spider-Man - Aux Frontieres du Temps (Europe)                                                                                                                  ✗      ✗     ✗
 Spider-Man - Aux Frontieres du Temps (Europe).3ds                                                                                                              ✗      ✗     ✗
 Spider-Man - Aux Frontieres du Temps (France)                                                                                                                  ✗      ✗     ✗
+Spider-Man - Edge of Time (Canada)                                                                                                                             ✗      ✗     ✗
 Spider-Man - Edge of Time (Europe)                                                                                                                             ✗      ✗     ✗
 Spider-Man - Edge of Time (Europe) (En,De,Es,It)                                                                                                               ✗      ✗     ✗
 Spider-Man - Edge of Time (Europe).3ds                                                                                                                         ✗      ✗     ✗
@@ -5975,7 +6006,7 @@ Super Mario 3D Land (Taiwan)                                                    
 Super Mario 3D Land (Taiwan) (Zh-Hant) (Jp Region Lock)                                                                                                        ✗      ✗     ✗
 Super Mario 3D Land (USA)                                                                                                                                      ✗      ✗     ✗
 Super Mario 3D Land (USA) (En,Fr,Es)                                                                                                                           -      -     -
-Super Mario 3D Land (USA) (En,Fr,Es) (Rev 1)                                                                                                                   ✗      ✗     ✗
+Super Mario 3D Land (USA) (En,Fr,Es) (Rev 1)                                                                                                                   -      ✗     ✗
 Super Mario 3D Land (USA).3ds                                                                                                                                  ✗      ✗     ✗
 Super Mario 3D Land.3ds                                                                                                                                        ✗      ✗     ✗
 Super Mario Advance 3 - Yoshi's Island + Mario Brothers (Japan)                                                                                                ✗      ✗     ✗
@@ -6014,6 +6045,7 @@ Super Mario Maker for Nintendo 3DS (Japan) (Rev 2)                              
 Super Mario Maker for Nintendo 3DS (Japan).3ds                                                                                                                 ✗      ✗     ✗
 Super Mario Maker for Nintendo 3DS (USA)                                                                                                                       ✗      ✗     ✗
 Super Mario Maker for Nintendo 3DS (USA) (En,Fr,Es) (Rev 2)                                                                                                    ✗      ✗     ✗
+Super Mario Maker for Nintendo 3DS (USA) (En,Fr,Es) (Rev 3)                                                                                                    ✗      ✗     ✗
 Super Mario Maker for Nintendo 3DS (USA).3ds                                                                                                                   ✗      ✗     ✗
 Super Mario Maker for Nintendo 3DS.3ds                                                                                                                         ✗      ✗     ✗
 Super Mario USA (Japan)                                                                                                                                        ✗      ✗     ✗
@@ -6465,6 +6497,10 @@ The Whitakers Present - Milton _ Friends 3D (Europe)                            
 The Whitakers Present - Milton _ Friends 3D (Europe).3ds                                                                                                       ✗      ✗     ✗
 The Wing of Madoola (Japan)                                                                                                                                    ✗      ✗     ✗
 The Wing of Madoola (Japan).3ds                                                                                                                                ✗      ✗     ✗
+The game 15 (Japan)                                                                                                                                            ✗      ✗     ✗
+The game 15 (Japan).3ds                                                                                                                                        ✗      ✗     ✗
+The game 15 Vol2 (Japan)                                                                                                                                       ✗      ✗     ✗
+The game 15 Vol2 (Japan).3ds                                                                                                                                   ✗      ✗     ✗
 Theatrhythm Dragon Quest (Japan)                                                                                                                               ✗      ✗     ✗
 Theatrhythm Dragon Quest (Japan).3ds                                                                                                                           ✗      ✗     ✗
 Theatrhythm Final Fantasy (Europe)                                                                                                                             ✗      ✗     ✗
@@ -6543,6 +6579,8 @@ Tomodachi Collection - Shin Seikatsu (Japan)                                    
 Tomodachi Collection - Shin Seikatsu (Japan) (Rev 1)                                                                                                           ✗      ✗     ✗
 Tomodachi Collection - Shin Seikatsu (Japan) (Rev 2)                                                                                                           ✗      ✗     ✗
 Tomodachi Collection - Shin Seikatsu (Japan).3ds                                                                                                               ✗      ✗     ✗
+Tomodachi Collection_ New Life Mii Relocation Software (Japan)                                                                                                 ✗      ✗     ✗
+Tomodachi Collection_ New Life Mii Relocation Software (Japan).3ds                                                                                             ✗      ✗     ✗
 Tomodachi Life                                                                                                                                                 ✗      ✗     ✗
 Tomodachi Life (Europe)                                                                                                                                        ✗      ✗     ✗
 Tomodachi Life (Europe) (En,Fr,De,Es,It)                                                                                                                       ✗      ✗     ✗
@@ -6576,6 +6614,7 @@ Toushin Toshi - Girls Gift RPG (Japan)                                          
 Toushin Toshi - Girls Gift RPG (Japan).3ds                                                                                                                     ✗      ✗     ✗
 Tousouchuu - Shijou Saikyou no Hunter-Tachi Kara Nigekire! (Japan)                                                                                             ✗      ✗     ✗
 Tousouchuu - Shijou Saikyou no Hunter-Tachi Kara Nigekire! (Japan).3ds                                                                                         ✗      ✗     ✗
+Tousouchuu - Shijou Saikyou no Hunter-tachi Kara Nigekire! (Japan)                                                                                             ✗      ✗     ✗
 Touzoku to 1000-Biki no Pokémon (Japan)                                                                                                                        ✗      ✗     ✗
 Touzoku to 1000-Biki no Pokémon (Japan).3ds                                                                                                                    ✗      ✗     ✗
 Toy Stunt Bike (Europe)                                                                                                                                        ✗      ✗     ✗
@@ -6637,6 +6676,7 @@ Turtle Tale (Japan).3ds                                                         
 Turtle Tale (USA)                                                                                                                                              ✗      ✗     ✗
 Turtle Tale (USA).3ds                                                                                                                                          ✗      ✗     ✗
 Twieonawayo Dongmul-ui Sup (Korea) (Rev 1)                                                                                                                     ✗      ✗     ✗
+Twieonawayo Dongmul-ui Sup amiibo+ (Korea)                                                                                                                     ✗      ✗     ✗
 TwinBee da!! (Japan)                                                                                                                                           ✗      ✗     ✗
 TwinBee da!! (Japan).3ds                                                                                                                                       ✗      ✗     ✗
 Ugoku Memo Chou 3D (Japan)                                                                                                                                     ✗      ✗     ✗
@@ -6717,6 +6757,7 @@ Wan Nyan Dobutsu Byouin - Suteki na Juui-San ni Narou! (Japan)                  
 Wan Nyan Dobutsu Byouin - Suteki na Juui-San ni Narou! (Japan).3ds                                                                                             ✗      ✗     ✗
 Wan Nyan Doubutsu Byouin - Pet no Oisha-san ni Narou! (Japan)                                                                                                  ✗      ✗     ✗
 Wan Nyan Doubutsu Byouin - Suteki na Juui-san ni Narou! (Japan)                                                                                                ✗      ✗     ✗
+Wan Nyan Doubutsu Byouin - Suteki na Juui-san ni Narou! (Japan) (Beta)                                                                                         ✗      ✗     ✗
 Wan Nyan Doubutsu Byouin 2 (Japan)                                                                                                                             ✗      ✗     ✗
 Wan Nyan Doubutsu Byouin 2 (Japan) (Rev 1)                                                                                                                     ✗      ✗     ✗
 Wan Nyan Doubutsu Byouin 2 (Japan).3ds                                                                                                                         ✗      ✗     ✗
@@ -6879,6 +6920,7 @@ Yo-Kai Watch Blasters_ White Dog Squad (Europe)                                 
 Yo-Kai Watch Blasters_ White Dog Squad (Europe).3ds                                                                                                            ✗      ✗     ✗
 Yo-Kai Watch Blasters_ White Dog Squad (USA)                                                                                                                   ✗      ✗     ✗
 Yo-Kai Watch Blasters_ White Dog Squad (USA).3ds                                                                                                               ✗      ✗     ✗
+Yo-Kai Watch Wonjo (Korea)                                                                                                                                     ✗      ✗     ✗
 Yo-Kai Watch.3ds                                                                                                                                               ✗      ✗     ✗
 Yo-kai Watch Busters 2_ Hihou Densetsu Banbaraya Magnum (Japan)                                                                                                ✗      ✗     ✗
 Yo-kai Watch Busters 2_ Hihou Densetsu Banbaraya Magnum (Japan).3ds                                                                                            ✗      ✗     ✗
@@ -6903,7 +6945,7 @@ Yoshi's New Island (Japan)                                                      
 Yoshi's New Island (Japan).3ds                                                                                                                                 ✗      ✗     ✗
 Yoshi's New Island (Taiwan) (Ja)                                                                                                                               ✗      ✗     ✗
 Yoshi's New Island (USA)                                                                                                                                       ✗      ✗     ✗
-Yoshi's New Island (USA) (En,Fr,Es)                                                                                                                            ✗      ✗     ✗
+Yoshi's New Island (USA) (En,Fr,Es)                                                                                                                            -      ✗     ✗
 Yoshi's New Island (USA) (En,Fr,Es) (Demo) (Kiosk)                                                                                                             ✗      ✗     ✗
 Yoshi's New Island (USA).3ds                                                                                                                                   ✗      ✗     ✗
 Yoshi's New Island.3ds                                                                                                                                         ✗      ✗     ✗
@@ -6994,7 +7036,7 @@ Zero Escape - Toki no Dilemma (Japan)                                           
 Zero Escape - Virtue's Last Reward (Europe)                                                                                                                    ✗      ✗     ✗
 Zero Escape - Virtue's Last Reward (Europe) (Rev 2)                                                                                                            ✗      ✗     ✗
 Zero Escape - Virtue's Last Reward (Europe).3ds                                                                                                                ✗      ✗     ✗
-Zero Escape - Virtue's Last Reward (USA)                                                                                                                       ✗      ✗     ✗
+Zero Escape - Virtue's Last Reward (USA)                                                                                                                       -      ✗     ✗
 Zero Escape - Virtue's Last Reward (USA) (Rev 2)                                                                                                               ✗      ✗     ✗
 Zero Escape - Virtue's Last Reward (USA).3ds                                                                                                                   ✗      ✗     ✗
 Zero Escape - Zero Time Dilemma (USA)                                                                                                                          ✗      ✗     ✗

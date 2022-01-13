@@ -1,9 +1,9 @@
 Atari - Jaguar Missing
 
-Boxarts   95/104  91.35%
-Snaps     65/104  62.50%
-Titles    64/104  61.54%
-Total    224/312  71.79%
+Boxarts   95/105  90.48%
+Snaps     65/105  61.90%
+Titles    64/105  60.95%
+Total    224/315  71.11%
 
 Name                                                         Boxart  Snap  Title
 Aircars (USA)                                                   -      -     -
@@ -82,6 +82,7 @@ Slam Racer (USA) (Proto)                                        ✗      ✗    
 Soccer Kid (World)                                              -      -     -
 Soccer Kid (World) (Beta)                                       -      ✗     ✗
 Space War 2000 (World)                                          -      -     -
+Speedster II (USA) (Proto)                                      ✗      ✗     ✗
 Super Burnout (World)                                           -      -     -
 Super Burnout (World) (Demo) (WCES 1995)                        -      ✗     ✗
 Supercross 3D (USA, Europe)                                     -      -     -

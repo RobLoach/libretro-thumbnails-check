@@ -1,9 +1,9 @@
 Atari - 5200 Missing
 
-Boxarts  106/106  100.00%
-Snaps    106/106  100.00%
-Titles   106/106  100.00%
-Total    318/318  100.00%
+Boxarts  105/111  94.59%
+Snaps    105/111  94.59%
+Titles   105/111  94.59%
+Total    315/333  94.59%
 
 Name                                                      Boxart  Snap  Title
 5200 Menu (USA) (Proto)                                      -      -     -
@@ -11,6 +11,7 @@ A.E. (USA) (Proto)                                           -      -     -
 Activision Decathlon, The (USA)                              -      -     -
 Asteroids (USA) (Proto)                                      -      -     -
 Astro Chase (USA)                                            -      -     -
+Astrogrover (USA) (Proto)                                    ✗      ✗     ✗
 Atari PAM - Pete's Test (USA)                                -      -     -
 Atari PAM Diagnostics (USA) (v2.0)                           -      -     -
 Atari PAM Diagnostics (USA) (v2.3)                           -      -     -
@@ -18,7 +19,9 @@ Atari PAM System Test (USA) (v1.02)                          -      -     -
 Ballblazer (USA)                                             -      -     -
 Barroom Baseball (USA) (Proto)                               -      -     -
 Battlezone (USA) (Proto)                                     -      -     -
+Battlezone (USA) (Proto) (Alt)                               ✗      ✗     ✗
 Beamrider (USA)                                              -      -     -
+Behind Jaggi Lines! (USA) (Proto)                            ✗      ✗     ✗
 BerZerk (USA)                                                -      -     -
 Black Belt (USA) (Proto)                                     -      -     -
 Blaster (USA) (Proto)                                        -      -     -
@@ -66,7 +69,7 @@ Millipede (USA) (Proto)                                      -      -     -
 Miner 2049er Starring Bounty Bob (USA)                       -      -     -
 Miniature Golf (USA) (Proto)                                 -      -     -
 Missile Command (USA)                                        -      -     -
-Montezuma's Revenge featuring Panama Joe (USA)               -      -     -
+Montezuma's Revenge - Featuring Panama Joe (USA)             ✗      ✗     ✗
 Moon Patrol (USA)                                            -      -     -
 Mountain King (USA)                                          -      -     -
 Mr. Do!'s Castle (USA)                                       -      -     -
@@ -75,6 +78,7 @@ Pac-Man (USA)                                                -      -     -
 Pengo (USA)                                                  -      -     -
 Pitfall! (USA)                                               -      -     -
 Pole Position (USA)                                          -      -     -
+Pole Position (USA) (Proto)                                  ✗      ✗     ✗
 Popeye (USA)                                                 -      -     -
 Q-bert (USA)                                                 -      -     -
 QIX (USA)                                                    -      -     -
@@ -102,6 +106,7 @@ Stargate (USA) (Proto)                                       -      -     -
 Super Breakout (USA)                                         -      -     -
 Super Cobra (USA)                                            -      -     -
 Super Pac-Man (USA) (Proto)                                  -      -     -
+Super Pacman (USA) (Proto) (Alt)                             ✗      ✗     ✗
 Tempest (USA) (Proto)                                        -      -     -
 Track and Field (USA) (Proto)                                -      -     -
 Vanguard (USA)                                               -      -     -

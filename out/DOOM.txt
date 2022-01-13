@@ -1,14 +1,16 @@
 DOOM Missing
 
-Boxarts  14/115  12.17%
-Snaps    12/115  10.43%
-Titles   17/115  14.78%
-Total    43/345  12.46%
+Boxarts  48/120  40.00%
+Snaps    14/120  11.67%
+Titles   30/120  25.00%
+Total    92/360  25.56%
 
 Name                                                                              Boxart  Snap  Title
 Action Doom 2 - Urban Brawl                                                          ✗      ✗     ✗
-Adventures of Square, The - Episodes 1 _ 2 (v2.0)                                    ✗      ✗     ✗
+Adventures of Square, The - Episodes 1 _ 2 (v2.1)                                    ✗      ✗     ✗
+BlasphDM (v0.1.7)                                                                    ✗      ✗     ✗
 Blasphemer (v0.1.5)                                                                  ✗      ✗     ✗
+Blasphemer (v0.1.7)                                                                  ✗      ✗     ✗
 Chex Quest                                                                           -      ✗     ✗
 Chex Quest 2                                                                         ✗      ✗     ✗
 Chex Quest 3 (v1.4)                                                                  ✗      ✗     ✗
@@ -20,104 +22,107 @@ Doom (v0.2) (Alpha)                                                             
 Doom (v0.3) (Alpha)                                                                  ✗      ✗     ✗
 Doom (v0.4) (Alpha)                                                                  ✗      ✗     ✗
 Doom (v0.5) (Alpha)                                                                  ✗      ✗     ✗
-Doom (v1.1)                                                                          ✗      ✗     ✗
-Doom (v1.1) (Demo)                                                                   ✗      ✗     ✗
-Doom (v1.2)                                                                          ✗      ✗     ✗
-Doom (v1.2) (Demo)                                                                   ✗      ✗     ✗
-Doom (v1.25) (Demo)                                                                  ✗      ✗     ✗
+Doom (v1.1)                                                                          -      ✗     ✗
+Doom (v1.1) (Demo)                                                                   -      ✗     ✗
+Doom (v1.2)                                                                          -      ✗     ✗
+Doom (v1.2) (Demo)                                                                   -      ✗     ✗
+Doom (v1.25) (Demo)                                                                  -      ✗     ✗
 Doom (v1.4 Beta) (Demo)                                                              ✗      ✗     ✗
 Doom (v1.5 Beta) (Demo)                                                              ✗      ✗     ✗
 Doom (v1.6 Beta) (Demo)                                                              ✗      ✗     ✗
-Doom (v1.666)                                                                        ✗      ✗     ✗
-Doom (v1.666) (Demo)                                                                 ✗      ✗     ✗
-Doom (v1.8)                                                                          ✗      ✗     ✗
-Doom (v1.8) (Demo)                                                                   ✗      ✗     ✗
-Doom (v1.9)                                                                          -      -     -
-Doom (v1.9) (Demo)                                                                   ✗      ✗     -
-Doom 64 (2020)                                                                       ✗      ✗     ✗
+Doom (v1.666)                                                                        -      ✗     ✗
+Doom (v1.666) (Demo)                                                                 -      ✗     ✗
+Doom (v1.8)                                                                          -      ✗     ✗
+Doom (v1.8) (Demo)                                                                   -      ✗     ✗
+Doom (v1.9)                                                                          -      -     ✗
+Doom (v1.9) (Demo)                                                                   -      ✗     ✗
+Doom 64 (2020)                                                                       -      ✗     ✗
 Doom 64 Ex (v2.5)                                                                    ✗      ✗     ✗
-Doom II - Hell on Earth (BFG Edition)                                                ✗      ✗     ✗
+Doom II - Hell on Earth (BFG Edition)                                                -      ✗     -
 Doom II - Hell on Earth (BFG Edition) (PlayStation 3 _ Xbox 360)                     ✗      ✗     ✗
 Doom II - Hell on Earth (Bethesda.net)                                               ✗      ✗     ✗
 Doom II - Hell on Earth (Classic Complete) (PlayStation 3)                           ✗      ✗     ✗
 Doom II - Hell on Earth (Tapwave Zodiac)                                             ✗      ✗     ✗
-Doom II - Hell on Earth (Unity) (v1.1)                                               ✗      ✗     ✗
+Doom II - Hell on Earth (Unity)                                                      ✗      ✗     ✗
+Doom II - Hell on Earth (Unity) (Update - September 3)                               ✗      ✗     ✗
 Doom II - Hell on Earth (XBLA)                                                       ✗      ✗     ✗
 Doom II - Hell on Earth (Xbox)                                                       ✗      ✗     ✗
-Doom II - Hell on Earth (v1.666)                                                     ✗      ✗     ✗
+Doom II - Hell on Earth (v1.666)                                                     -      ✗     -
 Doom II - Hell on Earth (v1.666) (German)                                            ✗      ✗     ✗
-Doom II - Hell on Earth (v1.7)                                                       ✗      ✗     ✗
+Doom II - Hell on Earth (v1.7)                                                       -      ✗     -
 Doom II - Hell on Earth (v1.7a)                                                      ✗      ✗     ✗
-Doom II - Hell on Earth (v1.8)                                                       ✗      ✗     ✗
+Doom II - Hell on Earth (v1.8)                                                       -      ✗     -
 Doom II - Hell on Earth (v1.8) (French)                                              ✗      ✗     ✗
 Doom II - Hell on Earth (v1.9)                                                       -      -     -
-Doom II - No Rest for the Living (BFG Edition)                                       ✗      -     ✗
+Doom II - No Rest for the Living (BFG Edition)                                       -      -     ✗
 Doom II - No Rest for the Living (Unity)                                             ✗      ✗     ✗
+Doom II - No Rest for the Living (Unity) (Update - September 3)                      ✗      ✗     ✗
 Final Doom - Evilution                                                               -      -     -
 Final Doom - Evilution (Classic Complete) (PlayStation 3)                            ✗      ✗     ✗
 Final Doom - Evilution (Unity)                                                       ✗      ✗     ✗
-Final Doom - Evilution (id Anthology)                                                ✗      ✗     ✗
+Final Doom - Evilution (id Anthology)                                                -      ✗     -
 Final Doom - The Plutonia Experiment                                                 -      -     -
 Final Doom - The Plutonia Experiment (Classic Complete) (PlayStation 3)              ✗      ✗     ✗
 Final Doom - The Plutonia Experiment (Unity)                                         ✗      ✗     ✗
-Final Doom - The Plutonia Experiment (id Anthology)                                  ✗      ✗     ✗
-Freedoom - FreeDM (v0.11.3)                                                          ✗      ✗     -
-Freedoom - Phase 1 (v0.11.3)                                                         ✗      -     -
-Freedoom - Phase 2 (v0.11.3)                                                         ✗      -     -
+Final Doom - The Plutonia Experiment (id Anthology)                                  -      ✗     -
+Freedoom - FreeDM (v0.12.1)                                                          ✗      ✗     ✗
+Freedoom - Phase 1 (v0.12.1)                                                         ✗      ✗     ✗
+Freedoom - Phase 2 (v0.12.1)                                                         ✗      ✗     ✗
 HACX                                                                                 ✗      ✗     ✗
 HACX (Demo)                                                                          ✗      ✗     ✗
 HACX (v1.1)                                                                          ✗      ✗     ✗
-HACX (v1.2)                                                                          ✗      ✗     ✗
+HACX (v1.2)                                                                          ✗      ✗     -
 HACX (v2.0-r61)                                                                      ✗      ✗     ✗
 Harmony (v1.1)                                                                       ✗      ✗     ✗
 Hell to Pay                                                                          -      -     -
 Hell to Pay (Demo)                                                                   ✗      ✗     -
-Heretic                                                                              ✗      ✗     ✗
+Heretic                                                                              -      ✗     ✗
 Heretic (Demo)                                                                       ✗      ✗     ✗
 Heretic (Wide Area Beta)                                                             ✗      ✗     ✗
 Heretic (v1.2)                                                                       -      ✗     ✗
 Heretic (v1.2) (Demo)                                                                -      ✗     ✗
-Heretic - Shadow of the Serpent Riders (v1.3)                                        -      ✗     ✗
-Hexen - Beyond Heretic                                                               ✗      ✗     ✗
+Heretic - Shadow of the Serpent Riders (v1.3)                                        -      ✗     -
+Hexen - Beyond Heretic                                                               -      ✗     -
 Hexen - Beyond Heretic (Beta) (Demo)                                                 ✗      ✗     ✗
 Hexen - Beyond Heretic (Demo)                                                        ✗      ✗     ✗
 Hexen - Beyond Heretic (Mac Edition)                                                 ✗      ✗     ✗
 Hexen - Beyond Heretic (Mac Edition) (Demo)                                          ✗      ✗     ✗
 Hexen - Beyond Heretic (Retail Store Beta)                                           ✗      ✗     ✗
-Hexen - Beyond Heretic (v1.1)                                                        -      ✗     ✗
-Hexen - Deathkings of the Dark Citadel                                               ✗      ✗     ✗
+Hexen - Beyond Heretic (v1.1)                                                        -      ✗     -
+Hexen - Deathkings of the Dark Citadel                                               -      ✗     ✗
 Hexen - Deathkings of the Dark Citadel (v1.1)                                        -      ✗     ✗
 Kick Attack for Doom II                                                              ✗      ✗     ✗
 Kick Attack for Ultimate Doom                                                        ✗      ✗     ✗
 Lost Episodes of Doom, The                                                           -      -     ✗
-Master Levels for Doom II                                                            ✗      ✗     ✗
+Master Levels for Doom II                                                            -      ✗     ✗
 Master Levels for Doom II (Classic Complete) (PlayStation 3)                         ✗      -     ✗
 PSXDoom (v2.135)                                                                     ✗      ✗     ✗
 Perdition's Gate                                                                     -      -     -
 Perdition's Gate (Demo)                                                              ✗      ✗     -
 Rise Of The Wool Ball (v1.3)                                                         ✗      ✗     ✗
 SIGIL (Compatible Edition) (Unity)                                                   ✗      ✗     ✗
-SIGIL (v1.0)                                                                         ✗      ✗     -
-SIGIL (v1.0) (Compatible Edition)                                                    ✗      ✗     -
-SIGIL (v1.1)                                                                         ✗      ✗     -
-SIGIL (v1.1) (Compatible Edition)                                                    ✗      ✗     -
-SIGIL (v1.2)                                                                         ✗      ✗     ✗
-SIGIL (v1.2) (Compatible Edition)                                                    ✗      ✗     ✗
-SIGIL (v1.21)                                                                        ✗      ✗     ✗
-SIGIL (v1.21) (Compatible Edition)                                                   ✗      ✗     ✗
+SIGIL (v1.0)                                                                         -      -     -
+SIGIL (v1.0) (Compatible Edition)                                                    -      -     -
+SIGIL (v1.1)                                                                         -      -     -
+SIGIL (v1.1) (Compatible Edition)                                                    -      -     -
+SIGIL (v1.2)                                                                         -      ✗     -
+SIGIL (v1.2) (Compatible Edition)                                                    -      ✗     -
+SIGIL (v1.21)                                                                        -      ✗     -
+SIGIL (v1.21) (Compatible Edition)                                                   -      ✗     -
 SIGIL Buckethead Music                                                               ✗      ✗     ✗
 SIGIL Buckethead Music (Compatible Edition)                                          ✗      ✗     ✗
 Strife                                                                               ✗      ✗     ✗
 Strife (Demo)                                                                        ✗      ✗     ✗
 Strife (v1.1) (Demo)                                                                 ✗      ✗     ✗
 Strife (v1.2)                                                                        ✗      ✗     ✗
-Strife - Veteran Edition                                                             ✗      ✗     ✗
-Strife - Veteran Edition (v1.1)                                                      ✗      ✗     ✗
-Strife - Veteran Edition (v1.2)                                                      ✗      ✗     ✗
+Strife - Veteran Edition                                                             -      ✗     -
+Strife - Veteran Edition (v1.1)                                                      -      ✗     -
+Strife - Veteran Edition (v1.2)                                                      -      ✗     -
 Ultimate Doom, The                                                                   -      -     -
-Ultimate Doom, The (BFG Edition)                                                     ✗      ✗     ✗
+Ultimate Doom, The (BFG Edition)                                                     -      ✗     -
 Ultimate Doom, The (BFG Edition) (Xbox 360)                                          ✗      ✗     ✗
 Ultimate Doom, The (Bethesda.net, BFG Edition, Classic Complete) (PlayStation 3)     ✗      ✗     ✗
-Ultimate Doom, The (Unity) (v1.1)                                                    ✗      ✗     ✗
+Ultimate Doom, The (Unity)                                                           ✗      ✗     ✗
+Ultimate Doom, The (Unity) (Update - September 3)                                    ✗      ✗     ✗
 Ultimate Doom, The (XBLA)                                                            ✗      ✗     ✗
 Ultimate Doom, The (Xbox)                                                            ✗      ✗     ✗
