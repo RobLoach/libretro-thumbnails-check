@@ -1,9 +1,9 @@
 Nintendo - e-Reader Missing
 
-Boxarts  0/3221  0.00%
-Snaps    0/3221  0.00%
-Titles   0/3221  0.00%
-Total    0/9663  0.00%
+Boxarts  0/3240  0.00%
+Snaps    0/3240  0.00%
+Titles   0/3240  0.00%
+Total    0/9720  0.00%
 
 Name                                                                                      Boxart  Snap  Title
 Air Hockey-e - 00-B000 (USA) (Promo)                                                         ✗      ✗     ✗
@@ -927,6 +927,7 @@ Hamtaro Card-e - Theater Limited Version - 03-A019 (Japan)                      
 Hamtaro Card-e - Theater Limited Version - 03-A020 (Japan)                                   ✗      ✗     ✗
 Hockey Card e+ - 010-A000 (Japan) (Promo)                                                    ✗      ✗     ✗
 Hockey Card-e - 10-A000 (Australia) (Promo)                                                  ✗      ✗     ✗
+Kirby Contest Card - 00-A001 - 1st Prize (USA) (Promo)                                       ✗      ✗     ✗
 Kirby Contest Card - 00-A001 - 2nd Prize (USA) (Promo)                                       ✗      ✗     ✗
 Kirby Contest Card - 00-A001 - Loser (USA) (Promo)                                           ✗      ✗     ✗
 Kirby Slide Puzzle - 00-B001 (USA) (Promo)                                                   ✗      ✗     ✗
@@ -943,6 +944,7 @@ Mario Party-e - 06-A026 - Waluigi (USA)                                         
 Mario Party-e - 06-A027 - Super Waluigi (USA)                                                ✗      ✗     ✗
 Mario Party-e - 06-A028 - Wario (USA)                                                        ✗      ✗     ✗
 Mario Party-e - 06-A029 - Super Wario (USA)                                                  ✗      ✗     ✗
+Mario vs. Donkey Kong Card-e+ - 18-M001 (Japan) (Promo)                                      ✗      ✗     ✗
 Mario vs. Donkey Kong Card-e+ - 18-M003 (Japan) (Promo)                                      ✗      ✗     ✗
 Mario vs. Donkey Kong Card-e+ - 18-M004 (Japan) (Promo)                                      ✗      ✗     ✗
 Mario vs. Donkey Kong Card-e+ - 18-M008 (Japan) (Promo)                                      ✗      ✗     ✗
@@ -1013,6 +1015,7 @@ NES-e - Urban Champion-e (USA) (Card 2)                                         
 NES-e - Urban Champion-e (USA) (Card 3)                                                      ✗      ✗     ✗
 NES-e - Urban Champion-e (USA) (Card 4)                                                      ✗      ✗     ✗
 NES-e - Urban Champion-e (USA) (Card 5)                                                      ✗      ✗     ✗
+Nickelodeon Kids' Choice Awards 2003 (USA) (Promo)                                           ✗      ✗     ✗
 Pikmin Card-e+ - 12-A001 (Japan)                                                             ✗      ✗     ✗
 Pikmin Card-e+ - 12-A002 (Japan)                                                             ✗      ✗     ✗
 Pikmin Card-e+ - 12-A003 (Japan)                                                             ✗      ✗     ✗
@@ -1636,7 +1639,6 @@ Pokemon Card-e - The Mysterious Mountain - F-35-# (Japan)                       
 Pokemon Card-e - The Mysterious Mountain - F-36-# (Japan)                                    ✗      ✗     ✗
 Pokemon Card-e - The Mysterious Mountain - F-37-# (Japan)                                    ✗      ✗     ✗
 Pokemon Card-e - The Mysterious Mountain - F-38-# (Japan)                                    ✗      ✗     ✗
-Pokemon Card-e - The Mysterious Mountain - F-38-# (Japan) (1 Edition)                        ✗      ✗     ✗
 Pokemon Card-e - The Mysterious Mountain - F-39-# (Japan)                                    ✗      ✗     ✗
 Pokemon Card-e - The Mysterious Mountain - F-40-# (Japan)                                    ✗      ✗     ✗
 Pokemon Card-e - The Mysterious Mountain - F-41-# (Japan)                                    ✗      ✗     ✗
@@ -2059,6 +2061,8 @@ Pokemon-e TCG - Aquapolis - D-68-# - Sudowoodo (USA)                            
 Pokemon-e TCG - Aquapolis - D-69-# - Tyranitar (USA)                                         ✗      ✗     ✗
 Pokemon-e TCG - Aquapolis - D-70-# - Steelix (USA)                                           ✗      ✗     ✗
 Pokemon-e TCG - Aquapolis - D-71-# - Scizor (USA)                                            ✗      ✗     ✗
+Pokemon-e TCG - Battle Road 2002 Trophy Cards - 129-P001 - No. 1 Trainer (Japan) (Promo)     ✗      ✗     ✗
+Pokemon-e TCG - Battle Road 2002 Trophy Cards - 129-P002 - No. 2 Trainer (Japan) (Promo)     ✗      ✗     ✗
 Pokemon-e TCG - EX Dragon - K-01-# - Grimer (USA)                                            ✗      ✗     ✗
 Pokemon-e TCG - EX Dragon - K-02-# - Pineco (USA)                                            ✗      ✗     ✗
 Pokemon-e TCG - EX Dragon - K-03-# - Treecko (USA)                                           ✗      ✗     ✗
@@ -2398,7 +2402,16 @@ Pokemon-e TCG - Expedition Base Set - B-93-# - Dragonite (USA)                  
 Pokemon-e TCG - Expedition Base Set - B-94-# - Fearow (USA)                                  ✗      ✗     ✗
 Pokemon-e TCG - Expedition Base Set - B-95-# - Tyranitar (USA)                               ✗      ✗     ✗
 Pokemon-e TCG - Expedition Base Set - B-96-# - Skarmory (USA)                                ✗      ✗     ✗
+Pokemon-e TCG - M-02-# - Hoppip (USA) (Sample)                                               ✗      ✗     ✗
+Pokemon-e TCG - M-04-# - Koffing (USA) (Sample)                                              ✗      ✗     ✗
+Pokemon-e TCG - M-16-# - Pikachu (USA) (Sample)                                              ✗      ✗     ✗
+Pokemon-e TCG - M-19-# - Gastly (USA) (Sample)                                               ✗      ✗     ✗
+Pokemon-e TCG - M-21-# - Machop (USA) (Sample)                                               ✗      ✗     ✗
 Pokemon-e TCG - M-42-# - Machoke (USA) (Sample)                                              ✗      ✗     ✗
+Pokemon-e TCG - M-48-# - Chansey (USA) (Sample)                                              ✗      ✗     ✗
+Pokemon-e TCG - M-74-# - Rapidash (USA) (Sample)                                             ✗      ✗     ✗
+Pokemon-e TCG - M-83-# - Pichu (USA) (Sample)                                                ✗      ✗     ✗
+Pokemon-e TCG - M-88-# - Machamp (USA) (Sample)                                              ✗      ✗     ✗
 Pokemon-e TCG - Skyridge - E-01-# - Zubat (USA)                                              ✗      ✗     ✗
 Pokemon-e TCG - Skyridge - E-02-# - Zubat (USA)                                              ✗      ✗     ✗
 Pokemon-e TCG - Skyridge - E-03-# - Golbat (USA)                                             ✗      ✗     ✗
@@ -2840,6 +2853,10 @@ Rockman EXE 5 - Kaizou Card - Part 2 - 136-F017 (Japan)                         
 Rockman EXE 5 - Kaizou Card - Part 2 - 136-F018 (Japan)                                      ✗      ✗     ✗
 Rockman EXE 5 - Kaizou Card - Part 2 - 136-F019 (Japan)                                      ✗      ✗     ✗
 Rockman EXE 5 - Kaizou Card - Part 2 - 136-F020 (Japan)                                      ✗      ✗     ✗
+Rockman EXE 5 - Modification Card - 136-C002 - Gospel (Japan) (Promo)                        ✗      ✗     ✗
+Rockman EXE 5 - Modification Card - 136-C003 - Serenade (Japan) (Promo)                      ✗      ✗     ✗
+Rockman EXE 5 - Modification Card - Part 1 - 136-A018 - Dream Bit (Japan)                    ✗      ✗     ✗
+Rockman EXE 6 - Kaizou Card - 137-C001 (Japan) (Promo)                                       ✗      ✗     ✗
 Rockman EXE 6 - Kaizou Card - 137-C002 (Japan) (Promo)                                       ✗      ✗     ✗
 Rockman EXE 6 - Kaizou Card - 137-C003 (Japan) (Promo)                                       ✗      ✗     ✗
 Rockman EXE 6 - Kaizou Card - 137-C004 (Japan) (Promo)                                       ✗      ✗     ✗
@@ -2882,6 +2899,7 @@ Rockman EXE 6 - Kaizou Card - Part 1 - 137-A027 (Japan)                         
 Rockman EXE 6 - Kaizou Card - Part 1 - 137-A028 (Japan)                                      ✗      ✗     ✗
 Rockman EXE 6 - Kaizou Card - Part 1 - 137-A029 (Japan)                                      ✗      ✗     ✗
 Rockman EXE 6 - Kaizou Card - Part 1 - 137-A030 (Japan)                                      ✗      ✗     ✗
+Rockman EXE 6 - Kaizou Card - Part 1 - 137-A031 (Japan)                                      ✗      ✗     ✗
 Rockman EXE 6 - Kaizou Card - Part 1 - 137-A032 (Japan)                                      ✗      ✗     ✗
 Rockman EXE 6 - Kaizou Card - Part 1 - 137-A033 (Japan)                                      ✗      ✗     ✗
 Rockman EXE 6 - Kaizou Card - Part 1 - 137-A034 (Japan)                                      ✗      ✗     ✗
@@ -2996,6 +3014,7 @@ Rockman EXE 6 - Kaizou Card - Part 2 - 137-F007 (Japan)                         
 Rockman EXE 6 - Kaizou Card - Part 2 - 137-F008 (Japan)                                      ✗      ✗     ✗
 Rockman EXE 6 - Kaizou Card - Part 2 - 137-F009 (Japan)                                      ✗      ✗     ✗
 Rockman EXE 6 - Kaizou Card - Part 2 - 137-F010 (Japan)                                      ✗      ✗     ✗
+Rockman EXE 6 - Modification Card - Part 1 - 137-A039 - Planet Man (Japan)                   ✗      ✗     ✗
 Rockman Zero 3 - Kaizou Card - Part 1 - 135-A001 (Japan)                                     ✗      ✗     ✗
 Rockman Zero 3 - Kaizou Card - Part 1 - 135-A002 (Japan)                                     ✗      ✗     ✗
 Rockman Zero 3 - Kaizou Card - Part 1 - 135-A003 (Japan)                                     ✗      ✗     ✗

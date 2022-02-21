@@ -1,9 +1,9 @@
 Bandai - WonderSwan Color Missing
 
-Boxarts   93/102  91.18%
-Snaps     93/102  91.18%
-Titles    93/102  91.18%
-Total    279/306  91.18%
+Boxarts   91/107  85.05%
+Snaps     91/107  85.05%
+Titles    91/107  85.05%
+Total    273/321  85.05%
 
 Name                                                                                Boxart  Snap  Title
 Alchemist Marie _ Elie - Futari no Atelier (Japan)                                     -      -     -
@@ -13,16 +13,18 @@ Battle Spirit - Digimon Frontier (Japan) (Rev 1)                                
 Blue Wing Blitz (Japan)                                                                -      -     -
 Dark Eyes - Battle Gate (Japan)                                                        -      -     -
 Dicing Knight. (Japan)                                                                 -      -     -
-Digimon - Anode Tamer _ Cathode Tamer - Veedramon Version (Hong Kong)                  -      -     -
+Digimon - Anode Tamer _ Cathode Tamer - Veedramon Version (Hong Kong) (En)             ✗      ✗     ✗
+Digimon - Anode Tamer _ Cathode Tamer - Veedramon Version (Korea) (En)                 ✗      ✗     ✗
 Digimon Adventure 02 - D1 Tamers (Japan)                                               -      -     -
 Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1)                                       ✗      ✗     ✗
-Digimon Tamers - Battle Spirit (Japan) (En,Ja)                                         -      -     -
+Digimon Tamers - Battle Spirit (Japan, Korea) (En,Ja)                                  ✗      ✗     ✗
 Digimon Tamers - Battle Spirit Ver. 1.5 (Japan)                                        -      -     -
 Digimon Tamers - Brave Tamer (Japan) (Rev 1)                                           -      -     -
 Digimon Tamers - Digimon Medley (Japan)                                                -      -     -
 Digimon Tamers - Digimon Medley (Japan) (Rev 1)                                        ✗      ✗     ✗
 Digital Monster - D-Project (Japan)                                                    -      -     -
 Digital Monster - D-Project (Japan) (Rev 1)                                            ✗      ✗     ✗
+Digital Monster - D-Project (Japan) (Rev 2)                                            ✗      ✗     ✗
 Digital Monster Card Game - Ver. WonderSwan Color (Japan)                              -      -     -
 Digital Monster Card Game - Ver. WonderSwan Color (Japan) (Rev 2)                      ✗      ✗     ✗
 Dokodemo Hamster 3 - Odekake Saffron (Japan) (Rev 2)                                   -      -     -
@@ -31,7 +33,11 @@ Final Fantasy (Japan)                                                           
 Final Fantasy II (Japan)                                                               -      -     -
 Final Fantasy IV (Japan)                                                               -      -     -
 Final Lap Special - GT _ Formula Machine (Japan)                                       -      -     -
+Fire Lancer (USA) (Demo) (2018-12-25) (Aftermarket) (Unl)                              ✗      ✗     ✗
+Fire Lancer (USA) (Demo) (2019-01-03) (Aftermarket) (Unl)                              ✗      ✗     ✗
 Flash Koibito-kun (Japan)                                                              -      -     -
+Flash Masta Firmware (USA) (2016-05-13)                                                ✗      ✗     ✗
+Flash Masta Firmware (USA) (2016-08-29) (Unl)                                          ✗      ✗     ✗
 From TV Animation One Piece - Chopper no Daibouken (Japan)                             -      -     -
 From TV Animation One Piece - Grand Battle Swan Colosseum (Japan)                      -      -     -
 From TV Animation One Piece - Niji no Shima Densetsu (Japan)                           -      -     -
@@ -107,4 +113,3 @@ Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan)               
 Wonder Classic (Japan)                                                                 -      -     -
 X - Card of Fate (Japan)                                                               -      -     -
 XI Little (Japan)                                                                      -      -     -
-mama Mitte (Japan) (Program)                                                           ✗      ✗     ✗

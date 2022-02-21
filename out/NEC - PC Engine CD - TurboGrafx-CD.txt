@@ -1,9 +1,9 @@
 NEC - PC Engine CD - TurboGrafx-CD Missing
 
-Boxarts   42/212  19.81%
-Snaps     73/212  34.43%
-Titles    32/212  15.09%
-Total    147/636  23.11%
+Boxarts   56/220  25.45%
+Snaps     72/220  32.73%
+Titles    31/220  14.09%
+Total    159/660  24.09%
 
 Name                                                                              Boxart  Snap  Title
 3x3 Eyes - Sanjiyan Henjou (Japan) (Rev 1)                                           ✗      ✗     ✗
@@ -14,13 +14,13 @@ Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT)                          
 Alnam no Kiba - Juuzoku Juuni Shinto Densetsu (Japan) (FABT)                         ✗      ✗     ✗
 Ane-san (Japan)                                                                      ✗      ✗     ✗
 Asuka 120% Maxima - Burning Fest. Maxima (Japan)                                     ✗      ✗     ✗
-Baby Jo - The Super Hero (Japan)                                                     ✗      ✗     ✗
 Bakuden - Unbalance Zone (Japan)                                                     ✗      ✗     ✗
 Bakushou Yoshimoto Shinkigeki (Japan) (FABT)                                         ✗      ✗     ✗
 Basted (Japan)                                                                       ✗      -     ✗
 Bishoujo Janshi Idol Pai (Japan) (Unl)                                               ✗      ✗     ✗
 Bishoujo Senshi Sailor Moon (Japan)                                                  ✗      ✗     ✗
 Bishoujo Senshi Sailor Moon Collection (Japan)                                       -      -     ✗
+Bishoujo Senshi Sailor Moon Collection (Japan) (Demo)                                ✗      ✗     ✗
 Black Hole Assault (Japan)                                                           ✗      -     ✗
 Bomberman - Panic Bomber (Japan) (FAAT)                                              ✗      ✗     ✗
 Bomberman - Panic Bomber (Japan) (FABT)                                              ✗      ✗     ✗
@@ -53,13 +53,13 @@ Dynastic Hero, The (USA)                                                        
 Eikan wa Kimi ni - Koukou Yakyuu Zenkoku Taikai (Japan)                              ✗      ✗     ✗
 Emerald Dragon (Japan) (Demo)                                                        ✗      ✗     ✗
 Exile (USA)                                                                          -      -     -
-Exile - Wicked Phenomenon (USA)                                                      ✗      ✗     ✗
+Exile - Wicked Phenomenon (USA)                                                      -      ✗     ✗
 F1 Team Simulation - Project F (Japan)                                               ✗      ✗     ✗
 FX Unit Yuki - The Henshin Engine (USA) (Unl) (Rerelease)                            ✗      ✗     ✗
-Fantastic Night Dreams - Cotton (Japan) (En,Ja)                                      ✗      ✗     ✗
+Fantastic Night Dreams - Cotton (Japan) (En,Ja)                                      -      ✗     ✗
 Far East of Eden - Tengai Makyou - Fuun Kabuki-den (Japan)                           ✗      ✗     ✗
 Far East of Eden - Tengai Makyou - Fuun Kabuki-den (Japan) (Demo)                    ✗      ✗     ✗
-Faussete Amour (Japan)                                                               ✗      -     ✗
+Faussete Amour (Japan)                                                               -      -     ✗
 Fighting Street (Japan) (Rev 4)                                                      ✗      ✗     ✗
 Final Zone II (Japan)                                                                ✗      ✗     ✗
 Final Zone II (USA)                                                                  -      -     -
@@ -67,8 +67,9 @@ Flash Hiders (Japan)                                                            
 Formation Soccer 95 della Serie A (Japan)                                            -      -     -
 Fushigi no Umi no Nadia - The Secret of Blue Water (Japan)                           ✗      ✗     ✗
 GS (Ghost Sweeper) Mikami (Japan)                                                    ✗      ✗     ✗
-Ginga Fukei Densetsu Sapphire (Japan) (Reprint)                                      ✗      ✗     ✗
-Ginga Ojousama Densetsu Yuna (Japan) (FABT, FACT)                                    ✗      ✗     ✗
+Ginga Fukei Densetsu Sapphire (Japan) (Reprint)                                      -      ✗     ✗
+Ginga Ojousama Densetsu Yuna (Japan) (Demo)                                          ✗      ✗     ✗
+Ginga Ojousama Densetsu Yuna (Japan) (FAAT, FABT, FACT)                              ✗      ✗     ✗
 Ginga Ojousama Densetsu Yuna (Japan) (FAFT)                                          ✗      ✗     ✗
 Ginga Ojousama Densetsu Yuna 2 - Eien no Princess (Japan) (FAAT)                     ✗      ✗     ✗
 Ginga Ojousama Densetsu Yuna HuVIDEO CD (Japan)                                      ✗      ✗     ✗
@@ -81,39 +82,43 @@ Hatsukoi Monogatari (Japan) (Rev 1)                                             
 Hatsukoi Monogatari (Japan) (Rev 2)                                                  ✗      ✗     ✗
 Hawiian Island Girls (USA) (Unl)                                                     ✗      ✗     ✗
 Hawk F-123 (Japan)                                                                   ✗      -     ✗
-Henshin Engine (USA) (Unl) (Demo)                                                    ✗      ✗     ✗
+Henshin Engine (USA) (Demo) (Unl)                                                    ✗      ✗     ✗
+Hi-Leg Fantasy (Japan) (Unl)                                                         ✗      ✗     ✗
 Hu PGA Tour - PowerGolf 2 - Golfer (Japan)                                           ✗      ✗     ✗
 Hyper Wars (Japan) (SAAS)                                                            ✗      ✗     ✗
 Hypernova Blast (USA) (Unl)                                                          ✗      -     -
 Implode (USA) (Unl)                                                                  ✗      -     -
-In Magical Adventure - Fray CD - Xak Gaiden (Japan)                                  ✗      ✗     ✗
+In Magical Adventure - Fray CD - Xak Gaiden (Japan)                                  -      ✗     ✗
 Inoue Mami - Kono Hoshi ni Tatta Hitori no Kimi (Japan)                              ✗      ✗     ✗
 Insanity (USA) (Unl)                                                                 ✗      ✗     ✗
 It Came from the Desert (USA)                                                        -      ✗     ✗
-J. League Tremendous Soccer '94 (Japan)                                              -      -     -
+J-Thunder - Tsumetai Hada wa Shoujo o Nurasu (Japan) (Unl)                           ✗      ✗     ✗
+J.League Tremendous Soccer '94 (Japan)                                               ✗      ✗     ✗
 Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsu-hen (Japan)                      ✗      ✗     ✗
 Jantei Monogatari 3 - Saver Angels (Japan)                                           ✗      ✗     ✗
 John Madden Duo CD Football (USA)                                                    -      -     -
+Kabuki Ittouryoudan (Japan) (FABT)                                                   ✗      ✗     ✗
 Kagami no Kuni no Legend (Japan)                                                     ✗      -     ✗
 Kawa no Nushitsuri - Shizen-ha (Japan)                                               ✗      ✗     ✗
 Kaze Kiri - Ninja Action (Japan)                                                     -      -     ✗
 Kaze no Densetsu Xanadu (Japan) (Demo)                                               ✗      ✗     ✗
 Kiaidan 00 (Japan)                                                                   ✗      -     ✗
-Kisou Louga (Japan) (FABT)                                                           ✗      ✗     ✗
+Kisou Louga (Japan) (Demo)                                                           ✗      ✗     ✗
 Kisou Louga II - The Ends of Shangrila (Japan)                                       ✗      -     ✗
 Kuusou Kagaku Sekai Gulliver Boy (Japan)                                             ✗      -     ✗
 Langrisser - Hikari no Matsuei (Japan)                                               -      -     ✗
-Laplace no Ma (Japan)                                                                ✗      -     ✗
+Laplace no Ma (Japan) (Demo)                                                         ✗      ✗     ✗
 Last Alert (USA)                                                                     -      -     -
 Last Armageddon (Japan) (Rev 5)                                                      ✗      ✗     ✗
-Legend of Xanadu - Kaze no Densetsu Xanadu II (Japan)                                ✗      ✗     ✗
+Legend of Xanadu - Kaze no Densetsu Xanadu II (Japan)                                -      ✗     ✗
 Legion (Japan)                                                                       ✗      -     ✗
+Legion (Japan) (Rev 4)                                                               ✗      ✗     ✗
 Linda^3 (Japan) (Rev 1)                                                              ✗      ✗     ✗
 Linda^3 (Japan) (Rev 2)                                                              ✗      ✗     ✗
 Local Girls of Hawaii, The (USA) (Unl)                                               ✗      ✗     ✗
 Lords of the Rising Sun (USA)                                                        -      -     -
-Mad Stalker - Full Metal Force (Japan)                                               ✗      ✗     ✗
-Madou Monogatari I - Honoo no Sotsuenji (Japan)                                      ✗      ✗     ✗
+Mad Stalker - Full Metal Force (Japan)                                               -      ✗     ✗
+Madou Monogatari I - Honoo no Sotsuenji (Japan)                                      -      ✗     ✗
 Magical Saurus Tour (Japan)                                                          ✗      ✗     ✗
 Mahjong Sword - Princess Quest Gaiden (Japan)                                        ✗      -     ✗
 Makai Eiyuuden - Shape Shifter (Japan)                                               ✗      ✗     ✗
@@ -127,27 +132,28 @@ Moonlight Lady (Japan)                                                          
 Motteke Tamago (Japan)                                                               ✗      -     ✗
 Mysterious Song (USA) (En,Fr,Es) (Unl)                                               ✗      -     -
 Mysterious Song (USA) (En,Fr,Es) (Unl) (Rerelease)                                   ✗      -     -
-NEXZR (Japan)                                                                        ✗      ✗     ✗
+NEXZR (Japan)                                                                        -      ✗     ✗
 Nemurenu Yoru no Chiisana Ohanashi (Japan)                                           ✗      ✗     ✗
 PC Engine Fan - Special CD-ROM^2 Vol. 1 (Japan)                                      ✗      ✗     ✗
 PC Engine Hyper Catalog CD-ROM 2 - 1993 Spring (Japan)                               ✗      ✗     ✗
 PC Engine Hyper Catalog CD-ROM 4 - 1993 Winter (Japan)                               ✗      ✗     ✗
 Pachio-kun 3 - Pachi-Slot _ Pachinko (Japan)                                         ✗      ✗     ✗
 Pop'n Magic (Japan)                                                                  -      -     ✗
-PopfulMail (Japan)                                                                   ✗      ✗     ✗
+PopfulMail (Japan)                                                                   -      ✗     ✗
 Princess Maker 1 (Japan)                                                             ✗      -     ✗
 Princess Maker 2 (Japan)                                                             ✗      -     ✗
 Private Eye dol (Japan)                                                              ✗      ✗     ✗
 Pro Yakyuu Super '94, The (Japan)                                                    ✗      ✗     ✗
+Psychic Detective Series Vol. 3 - Aya (Japan) (Demo)                                 ✗      ✗     ✗
 Psychic Storm (Japan)                                                                -      -     ✗
-Puyo Puyo CD (Japan)                                                                 ✗      -     ✗
+Puyo Puyo CD (Japan)                                                                 -      -     ✗
 Puyo Puyo CD Tsuu (Japan)                                                            -      -     ✗
 Pyramid Plunder (USA) (Unl)                                                          ✗      -     -
 Quest of Jongmaster - Janshin Densetsu (Japan)                                       ✗      ✗     ✗
 Quiz de Gakuensai (Japan)                                                            ✗      ✗     ✗
 ROM^2 Karaoke Volume 5 (Japan)                                                       ✗      ✗     ✗
-Rainbow Islands - The Story of Bubble Bobble 2 (Japan)                               ✗      ✗     ✗
-Rally Championship (Japan) (FABT)                                                    ✗      ✗     ✗
+Rainbow Islands - The Story of Bubble Bobble 2 (Japan)                               -      ✗     ✗
+Rally Championship (Japan) (FABT)                                                    -      ✗     ✗
 Ranma 1-2 (Japan)                                                                    ✗      ✗     ✗
 Ranma 1-2 - Datou, Ganso Musabetsu Kakutou-ryuu! (Japan)                             -      ✗     ✗
 Ranma 1-2 - Toraware no Hanayome (Japan)                                             ✗      ✗     ✗
@@ -168,8 +174,12 @@ Sherlock Holmes - Consulting Detective (Japan)                                  
 Sherlock Holmes - Consulting Detective (USA)                                         ✗      ✗     ✗
 Sherlock Holmes - Consulting Detective - Volume 2 (USA)                              ✗      ✗     ✗
 Sherlock Holmes - Consulting Detective Vol. II (Japan)                               ✗      ✗     ✗
+Shiawase Usagi - Nureta Bishoujo - Hajimete Nanoni... (Japan) (Unl)                  ✗      ✗     ✗
+Shiawase Usagi II - Toraware Usagi Sailor Z (Japan) (Unl)                            ✗      ✗     ✗
 Shin Megami Tensei (Japan)                                                           -      -     -
+Shinsetsu Shiawase Usagi (Japan)                                                     ✗      -     ✗
 Shinsetsu Shiawase Usagi 2 - Kairaku e no Invitation (Japan) (Unl)                   -      -     -
+Shinsetsu Shiawase Usagi f - Yuujou yorimo Aiyoku (Japan) (Unl)                      ✗      ✗     ✗
 Shougi Database Kiyuu (Japan)                                                        ✗      -     ✗
 SimEarth - The Living Planet (Japan)                                                 ✗      ✗     ✗
 SimEarth - The Living Planet (USA)                                                   ✗      ✗     ✗
@@ -185,7 +195,7 @@ Star Breaker (Japan)                                                            
 Star Mobile (Japan)                                                                  ✗      -     ✗
 Startling Odyssey (Japan)                                                            ✗      ✗     ✗
 Startling Odyssey II - Maryuu Sensou (Japan) (Demo)                                  ✗      ✗     ✗
-Steam-Heart's (Japan)                                                                ✗      ✗     ✗
+Steam-Heart's (Japan)                                                                -      ✗     ✗
 Summer Carnival '93 - NEXZR Special (Japan)                                          -      ✗     ✗
 Super Air Zonk - Rockabilly-Paradise (USA)                                           ✗      ✗     ✗
 Super Real Mahjong P.V Custom (Japan)                                                ✗      ✗     ✗
@@ -193,16 +203,14 @@ Super Real Mahjong PII-III Custom (Japan)                                       
 Super Real Mahjong PIV Custom (Japan)                                                ✗      ✗     ✗
 Super Schwarzschild (Japan)                                                          ✗      ✗     ✗
 Super Schwarzschild 2 (Japan)                                                        ✗      ✗     ✗
-Super-CD-Demo^2 (Japan)                                                              ✗      ✗     ✗
 SydMead's TerraForming (USA)                                                         ✗      ✗     ✗
-Tadaima Yuusha Boshuu-chuu (Japan)                                                   ✗      ✗     ✗
 Tanjou - Debut (Japan)                                                               ✗      ✗     ✗
 Tecmo World Cup Super Soccer (Japan)                                                 ✗      -     ✗
 Tenchi Muyou! Ryououki (Japan)                                                       -      -     -
 Tenchi o Kurau (Japan)                                                               ✗      ✗     ✗
 Tenshi no Uta II - Datenshi no Sentaku (Japan)                                       ✗      ✗     ✗
 Tokimeki Memorial (Japan) (Rev 1)                                                    ✗      ✗     ✗
-Tokimeki Memorial (Japan) (Rev 3)                                                    ✗      ✗     ✗
+Tokimeki Memorial (Japan) (Rev 3)                                                    -      ✗     ✗
 Ultra Box 4-gou (Japan)                                                              ✗      ✗     ✗
 Urusei Yatsura - Stay with You (Japan)                                               -      -     -
 Valis II (Japan) (Alt 1)                                                             ✗      ✗     ✗

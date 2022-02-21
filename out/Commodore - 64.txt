@@ -1,20 +1,11 @@
 Commodore - 64 Missing
 
-Boxarts    9/304   2.96%
-Snaps    265/304  87.17%
-Titles   271/304  89.14%
-Total    545/912  59.76%
+Boxarts   14/237   5.91%
+Snaps    214/237  90.30%
+Titles   220/237  92.83%
+Total    448/711  63.01%
 
 Name                                                                                                          Boxart  Snap  Title
-128er Quickload (USA, Europe) (Program)                                                                          ✗      -     -
-256K-EPROM-System (Germany) (v5) (Program)                                                                       ✗      -     -
-64 Doctor (USA, Europe) (Program)                                                                                ✗      -     -
-64MON (USA, Europe) (v1.03) (Program)                                                                            ✗      ✗     ✗
-Action Cartridge Plus (Germany) (v6.0) (Program)                                                                 ✗      -     -
-Action Replay Professional (Europe) (v3) (Program) (Unl)                                                         ✗      ✗     ✗
-Action Replay Professional (Europe) (v4.2) (Program) (Unl)                                                       ✗      ✗     ✗
-Action Replay Professional (Europe) (v6.0) (Program) (Unl)                                                       ✗      ✗     ✗
-Action Replay Professional (USA) (v5.0) (Program) (Unl)                                                          ✗      ✗     ✗
 Activision Decathlon, The (USA, Europe)                                                                          ✗      -     -
 Adventure 1 - The Mutant Spiders (USA, Europe)                                                                   ✗      ✗     -
 Adventure 3 - The Fourth Sarcophagus (USA, Europe)                                                               ✗      ✗     -
@@ -38,21 +29,12 @@ Battlezone (USA, Europe)                                                        
 Beamrider (USA, Europe)                                                                                          ✗      -     -
 Big Bird's Funhouse (USA, Europe)                                                                                ✗      -     -
 Big Bird's Special Delivery (USA, Europe)                                                                        ✗      -     -
-Black Box (USA, Europe) (v2.0) (Program)                                                                         ✗      -     -
 Blueprint (USA, Europe)                                                                                          ✗      -     -
 Bowling (Japan) (MAX)                                                                                            ✗      -     -
 Bridge 64 (USA, Europe)                                                                                          ✗      -     -
 Bubble Burst (USA, Europe)                                                                                       ✗      -     -
 Buck Rogers - Planet of Zoom (USA, Europe)                                                                       ✗      -     -
 Bug Crusher (USA, Europe)                                                                                        ✗      ✗     ✗
-C-64 Diagnostic (USA, Europe) (Rev 586220) (Program)                                                             ✗      -     -
-C-64 Import Test Diag (USA, Europe) (Program)                                                                    ✗      -     -
-C64-FORTH (USA, Europe) (Program)                                                                                ✗      -     -
-COMAL 80 (USA, Europe) (Program)                                                                                 ✗      -     -
-Calc Result - The Spread Sheet - Advanced (USA, Europe) (Program)                                                ✗      -     -
-Calc Result - The Spread Sheet - Easy (USA, Europe) (Alt 1) (Program)                                            ✗      ✗     ✗
-Calc Result - The Spread Sheet - Easy (USA, Europe) (Program)                                                    ✗      ✗     ✗
-Capture 2 (USA, Europe) (Program)                                                                                ✗      ✗     ✗
 Castle Hassle (USA, Europe)                                                                                      ✗      -     -
 Centipede (USA, Europe)                                                                                          ✗      -     -
 Chase H.Q. II - Special Criminal Investigation (Europe)                                                          ✗      -     -
@@ -62,25 +44,19 @@ Close Encounters of the Worst Kind (USA, Europe)                                
 Clowns (Japan) (v01) (MAX)                                                                                       ✗      -     -
 Clowns (Japan) (v02) (MAX)                                                                                       ✗      -     -
 Coccinelle cherche dessinateur (France)                                                                          ✗      -     -
-Coco-Notes featuring... the Jazz Scats! (USA, Europe)                                                            ✗      -     -
+Coco Notes (USA, Europe)                                                                                         ✗      ✗     ✗
 Colossus Chess + Silicon Syborgs + International Football (USA, Europe) (Super Games)                            ✗      -     -
-Commodore 64 Diagnostic (USA, Europe) (Program)                                                                  ✗      -     -
 Congo Bongo (USA, Europe)                                                                                        ✗      -     -
-Conrad Disk Booster (Germany) (Program)                                                                          ✗      -     -
 Cosmic Life (USA, Europe)                                                                                        ✗      -     -
+Counterweight Kate (World) (Aftermarket)                                                                         ✗      ✗     ✗
 Crisis Mountain (USA, Europe)                                                                                    ✗      -     -
 Crystal Castles (USA, Europe) (Proto)                                                                            ✗      -     -
 Cyberball (USA, Europe)                                                                                          ✗      ✗     -
 Dance Fantasy (USA, Europe)                                                                                      ✗      -     -
 Dancing Feats (USA, Europe)                                                                                      ✗      -     -
 Defender (USA, Europe)                                                                                           ✗      -     -
-Dela S-4-Modul (USA, Europe) (Program)                                                                           ✗      -     -
-Delta Drawing (USA, Europe) (Program)                                                                            ✗      -     -
-Designer's Pencil, The (USA, Europe) (Program)                                                                   ✗      -     -
 Diamond Mine (USA, Europe)                                                                                       ✗      -     -
-Diary 64 (USA, Europe) (Program)                                                                                 ✗      -     -
 Dig Dug (USA, Europe)                                                                                            ✗      -     -
-Doc'64 (USA, Europe) (v2.2) (Program)                                                                            ✗      -     -
 Donkey Kong (USA, Europe)                                                                                        ✗      -     -
 Dot Gobbler (USA, Europe)                                                                                        ✗      -     -
 Dot Gobbler (USA, Europe) (Alt 1)                                                                                ✗      -     -
@@ -88,47 +64,28 @@ Double Dragon (USA, Europe) (HES)                                               
 Double Dragon (USA, Europe) (Ocean)                                                                              ✗      -     -
 Dragonsden (USA, Europe)                                                                                         ✗      -     -
 Ducks Ahoy! (USA, Europe)                                                                                        ✗      -     -
-Electronic Mailbox-64 (USA, Europe) (Program)                                                                    ✗      -     -
-Epyx Fast Load Cartridge (USA, Europe) (Program)                                                                 ✗      ✗     ✗
 Ernie's Magic Shapes (USA, Europe)                                                                               ✗      -     -
 Espial (USA, Europe)                                                                                             ✗      -     -
-ExBASIC Level II (USA, Europe) (v64.1) (Program)                                                                 ✗      -     -
-Expert, The (USA, Europe) (Program)                                                                              ✗      -     -
-Express Cartridge (USA, Europe) (Program)                                                                        ✗      ✗     ✗
 Facemaker (USA, Europe)                                                                                          ✗      ✗     ✗
 Falconian Invaders (USA, Europe)                                                                                 ✗      -     -
 Fiendish Freddy's Big Top o' Fun + International Soccer + Flimbo's Quest + Klax (Europe) (C 64 Games System)     ✗      -     -
-Final Cartridge III, The (USA, Europe) (Dec 88) (Program)                                                        ✗      -     -
-Final Cartridge III, The (USA, Europe) (May 88) (Program)                                                        ✗      -     -
-Final Cartridge III, The (USA, Europe) (Nov 87) (Program)                                                        ✗      -     -
-Final Cartridge III, The (USA, Europe) (Sep 87) (Program)                                                        ✗      -     -
-Final Cartridge, The (USA, Europe) (Program)                                                                     ✗      ✗     ✗
-Financial Advisor, The (USA, Europe) (Program)                                                                   ✗      -     -
-Format- und Hardcopymodul (Germany) (Program)                                                                    ✗      -     -
 Fraction Fever (USA, Europe)                                                                                     ✗      -     -
 Frog Master (USA, Europe)                                                                                        ✗      -     -
-Frogger (USA, Europe)                                                                                            ✗      -     -
+Frogger (USA, Europe)                                                                                            -      -     -
 Frogger + River Raid + Activision Decathlon, The + Beamrider (USA, Europe) (Arcade Classic Pak)                  ✗      -     -
 Frogger II - Threeedeep! (USA, Europe)                                                                           ✗      -     -
 Galaxian (USA, Europe)                                                                                           ✗      -     -
 Galaxions + Munchman (USA, Europe)                                                                               ✗      -     -
 Gateway to Apshai (USA, Europe)                                                                                  ✗      -     -
-Ghostbusters (USA, Europe)                                                                                       ✗      -     -
+Ghostbusters (USA, Europe)                                                                                       -      -     -
 Gorf (USA, Europe)                                                                                               ✗      -     -
-Graf 64 (USA, Europe) (Program)                                                                                  ✗      -     -
 Gridrunner (USA, Europe)                                                                                         ✗      -     -
 Gridrunner II - Attack of the Mutant Camels (USA)                                                                ✗      -     -
 Gyruss (USA, Europe)                                                                                             ✗      -     -
-H.E.R.O. - Helicopter Emergency Rescue Operation (USA, Europe)                                                   ✗      -     -
-HES Mon 64 (USA, Europe) (Program)                                                                               ✗      -     -
-HES Mon 64 (USA, Europe) (Proto) (Program)                                                                       ✗      -     -
-HES Writer 64 (USA, Europe) (Program)                                                                            ✗      -     -
-Halftime Battlin' Bands featuring... the Jazz Scats! (USA, Europe)                                               ✗      -     -
-Happy-Packer (Germany) (Program)                                                                                 ✗      -     -
+H.E.R.O. - Helicopter Emergency Rescue Operation (USA, Europe)                                                   -      -     -
+Halftime Battlin' Bands (USA, Europe)                                                                            ✗      ✗     ✗
 Hop Along Counting (USA, Europe)                                                                                 ✗      -     -
 Human Skeleton Tutorial (USA)                                                                                    ✗      -     -
-Hypra-Disk-Modul II (Germany) (Program)                                                                          ✗      -     -
-IEEE-488 (USA, Europe) (Program)                                                                                 ✗      -     -
 International Football (USA, Europe)                                                                             ✗      -     -
 Jack Attack (USA, Europe)                                                                                        ✗      -     -
 James Bond 007 (USA, Europe)                                                                                     ✗      -     -
@@ -149,15 +106,11 @@ LeMans (USA, Europe) (MAX)                                                      
 Leader Board - Pro Golf Simulator (USA, Europe)                                                                  ✗      -     -
 Learning with Leeper (USA, Europe)                                                                               ✗      -     -
 Linking Logic (USA, Europe)                                                                                      ✗      -     -
-Lode Runner (USA, Europe)                                                                                        ✗      -     -
+Lode Runner (USA, Europe)                                                                                        -      -     -
 Logic Levels (USA, Europe)                                                                                       ✗      -     -
 Lunar Leeper (USA, Europe)                                                                                       ✗      -     -
 MAX BASIC (Japan) (MAX)                                                                                          ✗      -     -
 MINI BASIC I (Japan) (MAX)                                                                                       ✗      -     -
-Magic Desk I - Type and File (USA, Europe) (CCS) (Program)                                                       ✗      ✗     ✗
-Magic Desk I - Type and File (USA, Europe) (VICE) (Program)                                                      ✗      -     -
-Magic Formel (USA, Europe) (v1.2) (Program)                                                                      ✗      -     -
-Magic Voice (USA, Europe) (Program)                                                                              ✗      ✗     ✗
 Mario's Brewery (USA, Europe)                                                                                    ✗      -     -
 MasterType (USA, Europe)                                                                                         ✗      -     -
 Math Mileage (USA, Europe)                                                                                       ✗      -     -
@@ -177,23 +130,19 @@ Movie Musical Madness Starring the Jazz Scats (USA, Europe)                     
 Mr. Cool (USA, Europe)                                                                                           ✗      -     -
 Mr. TNT (USA, Europe)                                                                                            ✗      -     -
 Ms. Pac-Man (USA, Europe)                                                                                        ✗      -     -
-Muistio 64 (Finland) (Program)                                                                                   ✗      -     -
 Music Composer (World) (MAX)                                                                                     ✗      -     -
 Music Machine (USA, Europe) (MAX)                                                                                ✗      -     -
 Myth (Europe)                                                                                                    ✗      ✗     ✗
 Narco Police (USA, Europe)                                                                                       ✗      -     -
 Navy SEALs (Europe)                                                                                              ✗      ✗     ✗
 Ninja Remix (USA, Europe)                                                                                        ✗      -     -
-Nordic Power Action Cartridge (USA, Europe) (v7.2) (Program)                                                     ✗      -     -
 Nova Blast (USA, Europe)                                                                                         ✗      -     -
 Number Nabber, Shape Grabber (USA, Europe)                                                                       ✗      -     -
 Number Tumblers (USA, Europe)                                                                                    ✗      -     -
 Oil's Well (USA, Europe)                                                                                         ✗      ✗     -
 Omega Race (Japan) (v02) (MAX)                                                                                   ✗      -     -
 Omega Race (USA, Europe)                                                                                         ✗      -     -
-PS-64 (Finland) (v2.00) (Program)                                                                                ✗      -     -
 Pac-Man (USA, Europe)                                                                                            ✗      -     -
-Pagefox (Finland) (Program)                                                                                      ✗      ✗     ✗
 Paint Brush (USA, Europe)                                                                                        ✗      -     -
 Pancho (France)                                                                                                  ✗      -     -
 Pang (Europe)                                                                                                    ✗      -     -
@@ -208,11 +157,9 @@ Pitfall! (USA, Europe)                                                          
 Pitstop (USA, Europe)                                                                                            ✗      -     -
 Pole Position (USA, Europe)                                                                                      ✗      -     -
 Popeye (USA, Europe)                                                                                             ✗      -     -
-Power Cartridge (USA, Europe) (Program)                                                                          ✗      -     -
 Princess and the Frog (USA, Europe)                                                                              ✗      -     -
 Professional Skateboard Simulator + Fast Food + Pro Tennis Simulator (USA, Europe) (Fun Play)                    ✗      -     -
 Q-bert (USA, Europe)                                                                                             ✗      -     -
-REX-Ramfloppy (USA, Europe) (v4.0) (Program)                                                                     ✗      -     -
 Rack 'em Up! (USA, Europe)                                                                                       ✗      -     -
 Radar Rat Race (Japan) (v02) (Alt 1) (MAX)                                                                       ✗      -     -
 Radar Rat Race (Japan) (v02) (MAX)                                                                               ✗      -     -
@@ -242,7 +189,6 @@ Seahorse Hide'n Seek (USA, Europe)                                              
 Serpentine (USA, Europe)                                                                                         ✗      -     -
 Sesame Street - Letter-Go-Round (USA, Europe)                                                                    ✗      ✗     -
 Shadow of the Beast (Europe)                                                                                     ✗      -     -
-Simons' BASIC (USA, Europe) (Program)                                                                            ✗      -     -
 Solar Fox (USA, Europe)                                                                                          ✗      -     -
 Song Maker (USA, Europe)                                                                                         ✗      -     -
 Space Action (USA, Europe)                                                                                       ✗      -     -
@@ -250,29 +196,21 @@ Space Gun (Europe)                                                              
 Space Ric-O-Shay (USA, Europe)                                                                                   ✗      -     -
 Space Shuttle - A Journey into Space (USA, Europe)                                                               ✗      -     -
 Speed Math _ Bingo Math (USA, Europe) (v01) (MAX)                                                                ✗      -     -
-Speedsaver $C000 (USA, Europe) (Program)                                                                         ✗      ✗     ✗
-Speedsaver Combi (USA, Europe) (Program)                                                                         ✗      ✗     ✗
 Spitball (USA, Europe)                                                                                           ✗      -     -
 Spy Hunter (USA, Europe)                                                                                         ✗      -     -
 Star Post (USA, Europe)                                                                                          ✗      -     -
 Star Ranger (USA, Europe)                                                                                        ✗      -     -
 Star Trek - Strategic Operations Simulator (USA, Europe)                                                         ✗      -     -
 Star Wars - The Arcade Game (USA, Europe)                                                                        ✗      -     -
-Stat 64 (USA, Europe) (Program)                                                                                  ✗      -     -
 States and Capitals Tutorial (USA)                                                                               ✗      -     -
 Stix (USA, Europe)                                                                                               ✗      -     -
 Story Machine (USA, Europe)                                                                                      ✗      -     -
 Super Alien (Japan) (v01) (MAX)                                                                                  ✗      -     -
-Super Expander 64 (USA, Europe) (Program)                                                                        ✗      ✗     ✗
-Super Explode 5 (USA, Europe) (Program)                                                                          ✗      ✗     ✗
 Super Sketch (USA, Europe)                                                                                       ✗      ✗     -
 Super Smash (USA, Europe)                                                                                        ✗      -     -
-Super Snapshot 5 (Europe) (Program)                                                                              ✗      -     -
-Super Snapshot 5 (USA) (Program)                                                                                 ✗      -     -
 Super Zaxxon (USA, Europe)                                                                                       ✗      -     -
 Tank Wars (USA, Europe)                                                                                          ✗      -     -
 Tapper (USA, Europe)                                                                                             ✗      -     -
-Teledata (Sweden) (Program)                                                                                      ✗      -     -
 Tennis (USA) (CCS)                                                                                               ✗      ✗     ✗
 Tennis (USA) (VICE)                                                                                              ✗      -     -
 Tenpins (USA, Europe)                                                                                            ✗      -     -
@@ -292,21 +230,16 @@ Up _ Add'Em (USA, Europe)                                                       
 Up for Grabs (USA, Europe)                                                                                       ✗      ✗     ✗
 Up'n Down (USA, Europe)                                                                                          ✗      -     -
 Utah Counties Tutorial (USA)                                                                                     ✗      -     -
-VIC-Text 64 (Sweden) (Program)                                                                                   ✗      -     -
-Videomate (USA, Europe) (Program)                                                                                ✗      ✗     ✗
 Viduzzles - Computerized Jigsaw Puzzles (USA, Europe)                                                            ✗      -     -
 Viking Raider (USA, Europe)                                                                                      ✗      -     -
 Vindicators (USA, Europe)                                                                                        ✗      -     -
 Visible Solar System, The (USA, Europe) (MAX)                                                                    ✗      -     -
-Warp Speed (USA, Europe) (v1) (Program)                                                                          ✗      -     -
-Warp Speed (USA, Europe) (v2.0) (Program)                                                                        ✗      -     -
 Webster - The Word Game (USA, Europe)                                                                            ✗      -     -
 Wizard of Id's Wiztype, The (USA, Europe)                                                                        ✗      -     -
 Wizard of Wor (Japan) (MAX)                                                                                      ✗      -     -
 Wizard of Wor (Japan) (v02) (MAX)                                                                                ✗      -     -
-Wizard of Wor (USA, Europe)                                                                                      ✗      -     -
+Wizard of Wor (USA, Europe)                                                                                      -      -     -
 Wonder Boy (USA, Europe)                                                                                         ✗      -     -
-Write Now! 64 (USA, Europe) (Program)                                                                            ✗      -     -
 Zaxxon (USA, Europe)                                                                                             ✗      -     -
 Zenji (USA, Europe)                                                                                              ✗      -     -
 Zone Ranger (USA, Europe)                                                                                        ✗      -     -
