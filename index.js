@@ -46,7 +46,10 @@ function processSystem(system) {
 			//'libretro-database/metadat/goodtools/' + system + '.dat',
 			//'libretro-database/metadat/libretro-dats/' + system + '.dat',
 			'libretro-database/metadat/mame/' + system + '.dat',
+			'libretro-database/metadat/mame-split/' + system + '.dat',
+			'libretro-database/metadat/mame-member/' + system + '.dat',
 			'libretro-database/metadat/redump/' + system + '.dat',
+			'libretro-database/metadat/tosec/' + system + '.dat',
 			'libretro-database/metadat/no-intro/' + system + '.dat',
 			'libretro-database/dat/' + system + '.dat'
 		]
