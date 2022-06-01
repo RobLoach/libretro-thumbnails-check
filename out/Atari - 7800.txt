@@ -1,9 +1,9 @@
 Atari - 7800 Missing
 
-Boxarts  112/125  89.60%
-Snaps    112/125  89.60%
-Titles   111/125  88.80%
-Total    335/375  89.33%
+Boxarts  121/125  96.80%
+Snaps    121/125  96.80%
+Titles   120/125  96.00%
+Total    362/375  96.53%
 
 Name                                          Boxart  Snap  Title
 32 in 1 (Australia)                              -      -     ✗
@@ -12,7 +12,7 @@ Ace of Aces (USA)                                -      -     -
 Alien Brigade (Europe)                           -      -     -
 Alien Brigade (USA)                              -      -     -
 Asteroids (USA)                                  -      -     -
-Asteroids (USA) (Beta)                           ✗      ✗     ✗
+Asteroids (USA) (Beta)                           -      -     -
 Atari 7800 Development Card (USA)                ✗      ✗     ✗
 Ballblazer (Europe)                              -      -     -
 Ballblazer (USA)                                 -      -     -
@@ -35,7 +35,7 @@ Dark Chambers (Europe)                           -      -     -
 Dark Chambers (USA)                              -      -     -
 Desert Falcon (Europe)                           -      -     -
 Desert Falcon (USA)                              -      -     -
-Diagnostic Test Cartrige (USA)                   ✗      ✗     ✗
+Diagnostic Test Cartrige (USA)                   -      -     -
 Diagnostic Test Cartrige (USA) (Beta)            ✗      ✗     ✗
 Dig Dug (Europe)                                 -      -     -
 Dig Dug (USA)                                    -      -     -
@@ -53,7 +53,7 @@ Fight Night (Europe)                             -      -     -
 Fight Night (USA)                                -      -     -
 Food Fight (Europe)                              -      -     -
 Food Fight (USA)                                 -      -     -
-Food Fight (USA) (Beta)                          ✗      ✗     ✗
+Food Fight (USA) (Beta)                          -      -     -
 GATO (USA) (Proto)                               -      -     -
 Galaga (Europe)                                  -      -     -
 Galaga (USA)                                     -      -     -
@@ -93,24 +93,24 @@ Ninja Golf (USA)                                 -      -     -
 One-on-One Basketball (Europe)                   -      -     -
 One-on-One Basketball (USA)                      -      -     -
 Pete Rose Baseball (USA)                         -      -     -
-Pit Fighter (USA) (Proto)                        ✗      ✗     ✗
+Pit Fighter (USA) (Proto)                        -      -     -
 Planet Smashers (Europe)                         -      -     -
 Planet Smashers (USA)                            -      -     -
-Plutos (USA) (Proto)                             ✗      ✗     ✗
+Plutos (USA) (Proto)                             -      -     -
 Pole Position II (Europe)                        -      -     -
 Pole Position II (USA)                           -      -     -
-Pole Position II (USA) (Beta)                    ✗      ✗     ✗
+Pole Position II (USA) (Beta)                    -      -     -
 Rampage (USA)                                    -      -     -
 Rampart (USA) (Proto)                            -      -     -
 RealSports Baseball (USA)                        -      -     -
 Rescue on Fractalus (USA) (Proto)                -      -     -
-Rikki _ Vikki (World) (Aftermarket) (Unl)        ✗      ✗     ✗
+Rikki _ Vikki (World) (Aftermarket) (Unl)        -      -     -
 Robotron - 2084 (USA)                            -      -     -
 Scrapyard Dog (Europe)                           -      -     -
 Scrapyard Dog (USA)                              -      -     -
 Sentinel (Europe)                                -      -     -
 Sentinel (USA) (Proto)                           -      -     -
-Sirius (USA) (Proto)                             ✗      ✗     ✗
+Sirius (USA) (Proto)                             -      -     -
 Summer Games (USA)                               -      -     -
 Super Huey UH-IX (Europe)                        -      -     -
 Super Huey UH-IX (USA)                           -      -     -
@@ -130,4 +130,4 @@ Xenophobe (Europe)                               -      -     -
 Xenophobe (USA)                                  -      -     -
 Xevious (Europe)                                 -      -     -
 Xevious (USA)                                    -      -     -
-Xevious (USA) (Beta)                             ✗      ✗     ✗
+Xevious (USA) (Beta)                             -      -     -

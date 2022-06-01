@@ -26,6 +26,8 @@ Named_Boxarts/Famicom Mini 09 - Bomber Man (Japan) (En).png
 Named_Boxarts/Final Fantasy I _ II - Dawn of Souls (USA, Australia).png
 Named_Boxarts/Final Fantasy IV Advance (USA, Australia).png
 Named_Boxarts/Final Fantasy Tactics Advance (USA, Australia).png
+Named_Boxarts/Fire Emblem - Fuuin no Tsurugi (Japan) [T-En by Gringe].png
+Named_Boxarts/Fire Emblem - The Binding Blade (USA).png
 Named_Boxarts/Glory Days (Europe) (En,Fr,De,Es,It).png
 Named_Boxarts/Hobbit, The (Europe) (En,Fr,De,Es,It).png
 Named_Boxarts/Hobbit, The (USA).png
@@ -46,6 +48,10 @@ Named_Boxarts/Majesco's Rec Room Challenge (USA).png
 Named_Boxarts/Mario _ Luigi - Superstar Saga (USA, Australia).png
 Named_Boxarts/Metroid Fusion (USA, Australia).png
 Named_Boxarts/Mighty Beanz Pocket Puzzles (USA).png
+Named_Boxarts/Mother 1+2 (Japan) [T-En by Jeffman and Tomato].png
+Named_Boxarts/Mother 1+2 (USA).png
+Named_Boxarts/Mother 3 (Japan) [T-En by Chewy, Jeffman and Tomato].png
+Named_Boxarts/Mother 3 (USA).png
 Named_Boxarts/Moto GP (USA) (En,Fr,De,Es,It).png
 Named_Boxarts/Pinky and the Brain - The Masterplan (Europe) (En,Fr,De,Es,It).png
 Named_Boxarts/Pokemon - Blazed Glazed Version (Hack).png
@@ -84,6 +90,8 @@ Named_Boxarts/Zidane Football Generation (Europe) (En,Fr,De,Es,It).png
 Named_Boxarts/Zooo (Europe) (En,Fr,De,Es,It).png
 Named_Snaps/2 Games in One! - Dr. Mario + Puzzle League (USA, Australia).png
 Named_Snaps/2 Jeux en 1 - Titeuf - Ze Gagmachine + Titeuf - Mega Compet (France).png
+Named_Snaps/AGS Aging Cartridge (World) (v7.0).png
+Named_Snaps/AGS Aging Cartridge (World) (v7.1).png
 Named_Snaps/Action Replay GBX (Europe) (En,Fr,De,It) (Alt 1) (Unl).png
 Named_Snaps/Aigle de Guerre, L' (France) [T-En by Mkol103].png
 Named_Snaps/Alex Ferguson's Player Manager 2002 (Europe) (En,Fr,De,Es,It,Nl).png
@@ -133,6 +141,7 @@ Named_Snaps/Final Fantasy V - Sound restoration and no framerate drop (orchestra
 Named_Snaps/Final Fantasy VI - Sound Restoration hack and few framerate drop (true opera) [Hack by Bregalad].png
 Named_Snaps/Fire Emblem - Fuuin no Tsurugi (Japan) [T-En by Gringe].png
 Named_Snaps/Fire Emblem - Requiem [Hack by Sacred Blaze].png
+Named_Snaps/Fire Emblem - The Binding Blade (USA).png
 Named_Snaps/From TV Animation One Piece - Mezase! King of Belly (Japan).png
 Named_Snaps/GameShark GBA (USA) (Alt 1) (Unl).png
 Named_Snaps/Gensou Suikoden - Card Stories (Japan) [T-En by Pokeytax].png
@@ -179,7 +188,9 @@ Named_Snaps/Metroid Fusion (USA, Australia).png
 Named_Snaps/Metroid Other ZM [Hack by Luce Seyfarth].png
 Named_Snaps/Mighty Beanz Pocket Puzzles (USA).png
 Named_Snaps/Mother 1+2 (Japan) [T-En by Jeffman and Tomato].png
+Named_Snaps/Mother 1+2 (USA).png
 Named_Snaps/Mother 3 (Japan) [T-En by Chewy, Jeffman and Tomato].png
+Named_Snaps/Mother 3 (USA).png
 Named_Snaps/Moto GP (Europe) (Beta).png
 Named_Snaps/Moto GP (Europe) (En,Fr,De,Es,It).png
 Named_Snaps/Moto GP (Japan) (En).png
@@ -250,6 +261,8 @@ Named_Snaps/Zooo (Europe) (En,Fr,De,Es,It).png
 Named_Snaps/desktop.ini
 Named_Titles/2 Games in One! - Dr. Mario + Puzzle League (USA, Australia).png
 Named_Titles/2 Jeux en 1 - Titeuf - Ze Gagmachine + Titeuf - Mega Compet (France).png
+Named_Titles/AGS Aging Cartridge (World) (v7.0).png
+Named_Titles/AGS Aging Cartridge (World) (v7.1).png
 Named_Titles/Action Replay GBX (Europe) (En,Fr,De,It) (Alt 1) (Unl).png
 Named_Titles/Aigle de Guerre, L' (France) [T-En by Mkol103].png
 Named_Titles/Alex Ferguson's Player Manager 2002 (Europe) (En,Fr,De,Es,It,Nl).png
@@ -304,6 +317,7 @@ Named_Titles/Final Fantasy VI - Sound Restoration hack and few framerate drop (t
 Named_Titles/Final Fantasy VI - Sound Restoration hack and few framerate drop (true opera) (USA) [Hack by Bregalad].png
 Named_Titles/Fire Emblem - Fuuin no Tsurugi (Japan) [T-En by Gringe].png
 Named_Titles/Fire Emblem - Requiem [Hack by Sacred Blaze]-2.png
+Named_Titles/Fire Emblem - The Binding Blade (USA).png
 Named_Titles/From TV Animation One Piece - Mezase! King of Belly (Japan).png
 Named_Titles/GameShark GBA (USA) (Alt 1) (Unl).png
 Named_Titles/Gensou Suikoden - Card Stories (Japan) [T-En by Pokeytax].png
@@ -345,7 +359,9 @@ Named_Titles/Metroid Fusion (USA, Australia).png
 Named_Titles/Metroid Other ZM [Hack by Luce Seyfarth]-2.png
 Named_Titles/Mighty Beanz Pocket Puzzles (USA).png
 Named_Titles/Mother 1+2 (Japan) [T-En by Jeffman and Tomato] [v1.01].png
+Named_Titles/Mother 1+2 (USA).png
 Named_Titles/Mother 3 (Japan) [T-En by Chewy, Jeffman and Tomato] [v1.3]-1.png
+Named_Titles/Mother 3 (USA).png
 Named_Titles/Moto GP (Europe) (Beta).png
 Named_Titles/Moto GP (Europe) (En,Fr,De,Es,It).png
 Named_Titles/Moto GP (Japan) (En).png

@@ -1,9 +1,9 @@
 Atari - 2600 Missing
 
-Boxarts    554/718  77.16%
-Snaps      517/718  72.01%
-Titles     515/718  71.73%
-Total    1586/2154  73.63%
+Boxarts    554/721  76.84%
+Snaps      517/721  71.71%
+Titles     515/721  71.43%
+Total    1586/2163  73.32%
 
 Name                                                                                   Boxart  Snap  Title
 3-D Genesis (USA) (Proto)                                                                 -      ✗     ✗
@@ -108,6 +108,7 @@ Big Bird's Egg Catch (Japan, USA) (Beta) (1982-12-08)                           
 Big Bird's Egg Catch (Japan, USA) (Beta) (1983-05-02)                                     ✗      ✗     ✗
 Big Bird's Egg Catch (Japan, USA) (Beta) (1983-05-17)                                     ✗      ✗     ✗
 Bionic Breakthrough (USA) (Proto)                                                         -      -     -
+Birthday Mania (USA) (Robert A. Tokar)                                                    ✗      ✗     ✗
 Black Jack (Europe)                                                                       ✗      ✗     ✗
 Black Jack (USA)                                                                          ✗      ✗     ✗
 Blueprint (Europe)                                                                        ✗      ✗     ✗
@@ -331,6 +332,9 @@ Hunt _ Score ~ Memory Match (USA)                                               
 I Want My Mommy (USA)                                                                     -      -     -
 I.Q. 180 (USA)                                                                            -      -     -
 I.Q. Memory Teaser (Europe)                                                               -      -     -
+INV+ (World) (2004-04-08) (Beta) (Aftermarket)                                            ✗      ✗     ✗
+INV+ (World) (2004-04-29) (Beta) (Aftermarket)                                            ✗      ✗     ✗
+INV+ (World) (Aftermarket)                                                                ✗      ✗     ✗
 IQ 180 (USA)                                                                              -      -     -
 Ice Hockey (USA)                                                                          -      -     -
 Ikari Warriors (USA)                                                                      -      -     -
@@ -484,7 +488,6 @@ Porky's (USA)                                                                   
 Power Lords (USA) (Proto)                                                                 ✗      ✗     ✗
 Pressure Cooker (USA)                                                                     -      -     -
 Private Eye (USA)                                                                         -      -     -
-Pursuit of the Pink Panther (USA) (Proto)                                                 ✗      ✗     ✗
 Pygmy (Europe)                                                                            ✗      ✗     ✗
 Q-bert (USA)                                                                              -      -     -
 Q-bert's Qubes (USA)                                                                      -      -     -
@@ -717,8 +720,8 @@ World End (USA)                                                                 
 Worm War I (USA)                                                                          -      -     -
 X-Man (USA)                                                                               -      -     -
 Xenophobe (USA)                                                                           -      -     -
-Xevious (USA) (1983-08-02) (Proto)                                                        ✗      ✗     ✗
-Xevious (USA) (1984-01-18) (Proto)                                                        ✗      ✗     ✗
+Xevious (USA) (Proto) (1983-08-02)                                                        ✗      ✗     ✗
+Xevious (USA) (Proto) (1984-01-18)                                                        ✗      ✗     ✗
 Yars' Revenge (USA)                                                                       -      -     -
 Z-Tack (USA)                                                                              -      -     -
 Zaxxon (USA)                                                                              -      -     -
