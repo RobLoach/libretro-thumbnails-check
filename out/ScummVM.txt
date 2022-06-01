@@ -1,9 +1,9 @@
 ScummVM Missing
 
-Boxarts   28/3874  0.72%
-Snaps     20/3874  0.52%
-Titles    20/3874  0.52%
-Total    68/11622  0.59%
+Boxarts   31/3874  0.80%
+Snaps     24/3874  0.62%
+Titles    24/3874  0.62%
+Total    79/11622  0.68%
 
 Name                                                                                                                                                            Boxart  Snap  Title
 += 3_ A Logical Adventure (Multi-OS)                                                                                                                               ✗      ✗     ✗
@@ -341,12 +341,12 @@ Black Cauldron, The (DOS_Fanmade_Final)                                         
 Black Cauldron, The {Taron e la Pentola Magica}(DOS_Italian)                                                                                                       ✗      ✗     ✗
 Black Cauldron, The {Tarón y El Caldero Mágico}(DOS_Spanish)                                                                                                       ✗      ✗     ✗
 Black Cauldron, The {Чорного Котла}(DOS_Russian)                                                                                                                   ✗      ✗     ✗
-Blade Runner (Windows)                                                                                                                                             -      -     -
-Blade Runner (Windows_French)                                                                                                                                      ✗      ✗     ✗
-Blade Runner (Windows_German)                                                                                                                                      ✗      ✗     ✗
+Blade Runner (Windows)                                                                                                                                             ✗      ✗     ✗
+Blade Runner (Windows_French)                                                                                                                                      -      -     -
+Blade Runner (Windows_German)                                                                                                                                      -      -     -
 Blade Runner (Windows_Hebrew)                                                                                                                                      ✗      ✗     ✗
-Blade Runner (Windows_Italian)                                                                                                                                     ✗      ✗     ✗
-Blade Runner (Windows_Spanish)                                                                                                                                     ✗      ✗     ✗
+Blade Runner (Windows_Italian)                                                                                                                                     -      -     -
+Blade Runner (Windows_Spanish)                                                                                                                                     -      -     -
 Blade Runner {Бегущий по лезвию}(Windows_Russian)                                                                                                                  ✗      ✗     ✗
 Blazing Dragons (PlayStation)                                                                                                                                      ✗      ✗     ✗
 Blazing Dragons (PlayStation_French)                                                                                                                               ✗      ✗     ✗
@@ -2048,7 +2048,7 @@ Loom (DOS_VGA_Hungarian)                                                        
 Loom (DOS_VGA_Italian)                                                                                                                                             ✗      ✗     ✗
 Loom (DOS_VGA_Portuguese)                                                                                                                                          ✗      ✗     ✗
 Loom (DOS_VGA_Spanish)                                                                                                                                             ✗      ✗     ✗
-Loom (FM-Towns)                                                                                                                                                    -      ✗     ✗
+Loom (FM-Towns)                                                                                                                                                    -      -     -
 Loom (FM-Towns_French)                                                                                                                                             ✗      ✗     ✗
 Loom (FM-Towns_German)                                                                                                                                             ✗      ✗     ✗
 Loom (FM-Towns_Hebrew)                                                                                                                                             ✗      ✗     ✗

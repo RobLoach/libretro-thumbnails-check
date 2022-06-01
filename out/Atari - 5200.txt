@@ -1,9 +1,9 @@
 Atari - 5200 Missing
 
-Boxarts  105/111  94.59%
-Snaps    105/111  94.59%
-Titles   105/111  94.59%
-Total    315/333  94.59%
+Boxarts  107/111  96.40%
+Snaps    107/111  96.40%
+Titles   107/111  96.40%
+Total    321/333  96.40%
 
 Name                                                      Boxart  Snap  Title
 5200 Menu (USA) (Proto)                                      -      -     -
@@ -19,7 +19,7 @@ Atari PAM System Test (USA) (v1.02)                          -      -     -
 Ballblazer (USA)                                             -      -     -
 Barroom Baseball (USA) (Proto)                               -      -     -
 Battlezone (USA) (Proto)                                     -      -     -
-Battlezone (USA) (Proto) (Alt)                               ✗      ✗     ✗
+Battlezone (USA) (Proto) (Alt)                               -      -     -
 Beamrider (USA)                                              -      -     -
 Behind Jaggi Lines! (USA) (Proto)                            ✗      ✗     ✗
 BerZerk (USA)                                                -      -     -
@@ -69,7 +69,7 @@ Millipede (USA) (Proto)                                      -      -     -
 Miner 2049er Starring Bounty Bob (USA)                       -      -     -
 Miniature Golf (USA) (Proto)                                 -      -     -
 Missile Command (USA)                                        -      -     -
-Montezuma's Revenge - Featuring Panama Joe (USA)             ✗      ✗     ✗
+Montezuma's Revenge - Featuring Panama Joe (USA)             -      -     -
 Moon Patrol (USA)                                            -      -     -
 Mountain King (USA)                                          -      -     -
 Mr. Do!'s Castle (USA)                                       -      -     -
@@ -78,15 +78,15 @@ Pac-Man (USA)                                                -      -     -
 Pengo (USA)                                                  -      -     -
 Pitfall! (USA)                                               -      -     -
 Pole Position (USA)                                          -      -     -
-Pole Position (USA) (Proto)                                  ✗      ✗     ✗
+Pole Position (USA) (Proto)                                  -      -     -
 Popeye (USA)                                                 -      -     -
 Q-bert (USA)                                                 -      -     -
 QIX (USA)                                                    -      -     -
 Quest for Quintana Roo (USA)                                 -      -     -
 RealSports Baseball (USA)                                    -      -     -
 RealSports Basketball (USA)                                  -      -     -
-RealSports Basketball (USA) (82-11-05) (Proto)               -      -     -
-RealSports Basketball (USA) (83-10-31) (Proto)               -      -     -
+RealSports Basketball (USA) (Proto) (1982-11-05)             ✗      ✗     ✗
+RealSports Basketball (USA) (Proto) (1983-10-31)             ✗      ✗     ✗
 RealSports Football (USA)                                    -      -     -
 RealSports Soccer (USA)                                      -      -     -
 RealSports Tennis (USA)                                      -      -     -
@@ -106,7 +106,7 @@ Stargate (USA) (Proto)                                       -      -     -
 Super Breakout (USA)                                         -      -     -
 Super Cobra (USA)                                            -      -     -
 Super Pac-Man (USA) (Proto)                                  -      -     -
-Super Pacman (USA) (Proto) (Alt)                             ✗      ✗     ✗
+Super Pacman (USA) (Proto) (Alt)                             -      -     -
 Tempest (USA) (Proto)                                        -      -     -
 Track and Field (USA) (Proto)                                -      -     -
 Vanguard (USA)                                               -      -     -

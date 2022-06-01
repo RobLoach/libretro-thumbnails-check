@@ -1,9 +1,9 @@
 Nintendo - Game Boy Color Missing
 
-Boxarts   833/1560  53.40%
-Snaps    1221/1560  78.27%
-Titles   1207/1560  77.37%
-Total    3261/4680  69.68%
+Boxarts   824/1634  50.43%
+Snaps    1211/1634  74.11%
+Titles   1202/1634  73.56%
+Total    3237/4902  66.03%
 
 Name                                                                                                                    Boxart  Snap  Title
 007 - The World Is Not Enough (USA, Europe)                                                                                -      -     -
@@ -37,9 +37,11 @@ Aladdin (Europe) (En,Fr,De,Es,It,Nl)                                            
 Aladdin (USA)                                                                                                              -      -     -
 Alfred's Adventure (Europe) (En,Fr,De,Es,It)                                                                               -      -     -
 Alice in Wonderland (Europe) (En,Fr,De,Es)                                                                                 -      -     -
-Alice in Wonderland (USA)                                                                                                  -      -     -
+Alice in Wonderland (USA, Australia)                                                                                       ✗      ✗     ✗
 Aliens - Thanatos Encounter (USA, Europe)                                                                                  -      -     -
-All Star Tennis 2000 (Europe) (GB Compatible)                                                                              -      -     -
+All Star Tennis 2000 (Europe) (AZTP) (GB Compatible)                                                                       ✗      ✗     ✗
+All Star Tennis 2000 (Europe) (AZTX) (Proto) (GB Compatible)                                                               ✗      ✗     ✗
+All Star Tennis 2000 (USA) (Proto) (GB Compatible)                                                                         ✗      ✗     ✗
 All-Star Baseball 2000 (USA, Europe)                                                                                       -      -     -
 All-Star Baseball 2001 (USA)                                                                                               -      -     -
 Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It,Nl)                                                         -      -     -
@@ -76,8 +78,8 @@ Atlantis - The Lost Empire (USA, Europe)                                        
 Atsumete Asobu Kuma no Pooh-san - Mori no Takaramono (Japan)                                                               -      -     -
 Austin Powers - Oh, Behave! (Europe) (En,Fr,De,Es,It)                                                                      -      -     -
 Austin Powers - Oh, Behave! (USA)                                                                                          -      -     -
-Austin Powers - Welcome to my Underground Lair! (Europe) (En,Fr,De,Es,It)                                                  -      -     -
-Austin Powers - Welcome to my Underground Lair! (USA)                                                                      -      -     -
+Austin Powers - Welcome to My Underground Lair! (Europe) (En,Fr,De,Es,It)                                                  ✗      ✗     ✗
+Austin Powers - Welcome to My Underground Lair! (USA)                                                                      ✗      ✗     ✗
 Austin Powers Episode III (Europe) (En,Fr,De,Es,It) (Proto)                                                                ✗      ✗     ✗
 Austin Powers Episode IV (Europe) (En,Fr,De,Es,It) (Proto)                                                                 ✗      ✗     ✗
 Aventures de Buzz l'Eclair, Les (France)                                                                                   -      -     -
@@ -96,6 +98,7 @@ Bad Badtz-Maru Robo Battle (Japan)                                              
 Bakukyuu Renpatsu!! Super B-Daman - Gekitan! Rising Valkyrie!! (Japan) (SGB Enhanced) (GB Compatible)                      ✗      -     -
 Bakusou Dekotora Densetsu GB Special - Otoko Dokyou no Tenka Touitsu (Japan)                                               ✗      -     -
 Bakusou Senki Metal Walker GB - Koutetsu no Yuujou (Japan) (GB Compatible)                                                 -      -     -
+Bakusou Senki Metal Walker GB - Koutetsu no Yuujou (Japan) (Rev 1) (Proto) (GB Compatible)                                 ✗      ✗     ✗
 Bakuten Shoot Beyblade (Japan)                                                                                             ✗      -     -
 Ballistic (USA) (GB Compatible)                                                                                            -      -     -
 Balloon Fight GB (Japan) (SGB Enhanced, GB Compatible) (NP)                                                                -      -     ✗
@@ -106,8 +109,8 @@ Barbie - Diepzee Avontuur (Netherlands) (GB Compatible)                         
 Barbie - Fashion Pack Games (USA, Europe) (GB Compatible)                                                                  -      -     -
 Barbie - Magic Genie Adventure (USA)                                                                                       -      -     -
 Barbie - Meeres Abenteuer (Germany) (GB Compatible)                                                                        -      -     -
-Barbie - Ocean Discovery (Europe) (GB Compatible)                                                                          -      -     -
 Barbie - Ocean Discovery (USA) (GB Compatible)                                                                             -      -     -
+Barbie - Ocean Discovery (United Kingdom) (GB Compatible)                                                                  ✗      ✗     ✗
 Barbie - Pet Rescue (Europe) (En,Fr,De,Es,It)                                                                              -      -     -
 Barbie - Pet Rescue (USA)                                                                                                  -      -     -
 Barca Total 2000 (Europe) (En,Fr,De,Es,It,Nl,Ca)                                                                           ✗      -     -
@@ -145,7 +148,9 @@ Black Onyx, The (Japan)                                                         
 Blade (USA, Europe)                                                                                                        -      -     -
 Blaster Master - Enemy Below (USA, Europe) (SGB Enhanced) (GB Compatible)                                                  -      -     -
 Blue's Clues - Blue's Alphabet Book (USA)                                                                                  -      -     -
+Blue's Clues - Blue's Alphabet Book (USA) (Rev 1) (Proto)                                                                  ✗      ✗     ✗
 Boarder Zone (USA)                                                                                                         -      -     -
+Bob et Bobette - Les Dompteurs du Temps (Europe) (Fr,Nl)                                                                   ✗      -     -
 Bob the Builder - Fix it Fun! (Europe) (En,Fr,De,Es,Nl)                                                                    -      -     -
 Bob the Builder - Fix it Fun! (Europe) (En,Fr,It)                                                                          -      -     -
 Bob the Builder - Fix it Fun! (Europe) (En,Sv,No,Da,Fi)                                                                    -      -     -
@@ -173,7 +178,7 @@ Bugs Bunny - Crazy Castle 3 (Japan) (GB Compatible)                             
 Bugs Bunny - Crazy Castle 3 (USA, Europe) (GB Compatible)                                                                  -      -     -
 Bugs Bunny - Crazy Castle 4 (Japan)                                                                                        ✗      ✗     ✗
 Bugs Bunny _ Lola Bunny - Operation Carrot Patch (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)                              ✗      ✗     ✗
-Bugs Bunny et le Chateau des Catastrophes (France)                                                                         -      -     -
+Bugs Bunny et le Chateau des Catastrophes (France) (En)                                                                    ✗      ✗     ✗
 Bugs Bunny in - Crazy Castle 4 (Europe)                                                                                    ✗      ✗     ✗
 Bugs Bunny in - Crazy Castle 4 (USA)                                                                                       -      -     ✗
 Bundesliga Stars 2001 (Germany)                                                                                            ✗      -     -
@@ -193,15 +198,17 @@ Cardcaptor Sakura - Itsumo Sakura-chan to Issho (Japan) (GB Compatible)         
 Cardcaptor Sakura - Itsumo Sakura-chan to Issho (Japan) (Rev 1) (GB Compatible)                                            ✗      ✗     ✗
 Cardcaptor Sakura - Itsumo Sakura-chan to Issho (Japan) (Rev 2) (GB Compatible)                                            ✗      ✗     ✗
 Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai (Japan)                                                                 ✗      -     -
+Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai (Japan) (Rev 1) (Proto)                                                 ✗      ✗     ✗
 Carl Lewis Athletics 2000 (Europe) (En,Fr,De,Es,It,Nl)                                                                     -      -     -
 Carl Lewis Athletics 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta)                                                              ✗      ✗     ✗
 Carmageddon - Carpocalypse Now (Germany)                                                                                   -      -     -
-Carmageddon - Carpocalypse Now (USA, Europe) (En,Es) (Beta)                                                                ✗      ✗     ✗
+Carmageddon - Carpocalypse Now (USA) (En,Es) (Beta)                                                                        ✗      ✗     ✗
 Carmageddon - Carpocalypse Now (USA, Europe) (En,Fr,Es,It)                                                                 -      -     -
 Carnivale (USA) (Proto)                                                                                                    ✗      ✗     ✗
 Casper (Europe) (En,Es,It)                                                                                                 -      -     -
 Casper (Europe) (En,Fr,De)                                                                                                 -      -     -
 Casper (USA)                                                                                                               -      -     -
+Casper (USA) (Rev 1) (Proto)                                                                                               ✗      ✗     ✗
 Caterpillar Construction Zone (USA, Europe) (GB Compatible)                                                                -      -     -
 Catwoman (Europe)                                                                                                          -      -     -
 Catwoman (USA)                                                                                                             -      -     -
@@ -209,6 +216,7 @@ Catz (Europe)                                                                   
 Catz (USA)                                                                                                                 ✗      ✗     ✗
 Centipede (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)                                                                     -      -     -
 Centipede (USA) (GB Compatible)                                                                                            -      -     -
+Challenger GB (USA) (Unl)                                                                                                  ✗      ✗     ✗
 Championship Motocross 2001 featuring Ricky Carmichael (USA, Europe)                                                       -      -     -
 Chase H.Q. - Secret Police (Europe) (SGB Enhanced) (GB Compatible)                                                         -      -     -
 Chase H.Q. - Secret Police (USA) (SGB Enhanced) (GB Compatible)                                                            -      -     -
@@ -275,6 +283,7 @@ Deja Vu I _ II - The Casebooks of Ace Harding (Europe) (En,Fr)                  
 Deja Vu I _ II - The Casebooks of Ace Harding (Europe) (Fr,De)                                                             -      -     -
 Deja Vu I _ II - The Casebooks of Ace Harding (USA)                                                                        -      -     -
 Dejiko no Mahjong Party (Japan)                                                                                            ✗      -     -
+Dejiko no Mahjong Party (Japan) (Rev 1) (Proto)                                                                            ✗      ✗     ✗
 Denki Blocks! (Europe) (En,Fr,De,Es,It)                                                                                    ✗      -     -
 Densha de Go! (Japan)                                                                                                      ✗      -     -
 Densha de Go! 2 (Japan)                                                                                                    ✗      -     -
@@ -330,17 +339,20 @@ Dragon Ball Z - Legendaere Superkaempfer (Germany)                              
 Dragon Ball Z - Legendaere Superkaempfer (Germany) (Beta 1)                                                                ✗      ✗     ✗
 Dragon Ball Z - Legendaere Superkaempfer (Germany) (Beta 2)                                                                ✗      ✗     ✗
 Dragon Ball Z - Legendaere Superkaempfer (Germany) (Beta 3)                                                                ✗      ✗     ✗
-Dragon Ball Z - Legendaere Superkaempfer (Germany) (Beta) (All Unlocked)                                                   ✗      ✗     ✗
+Dragon Ball Z - Legendaere Superkaempfer (Germany) (Beta 3) (All Unlocked)                                                 ✗      ✗     ✗
 Dragon Ball Z - Legendary Super Warriors (Europe)                                                                          -      -     -
 Dragon Ball Z - Legendary Super Warriors (Europe) (Beta) (All Unlocked)                                                    ✗      ✗     ✗
 Dragon Ball Z - Legendary Super Warriors (USA)                                                                             -      -     -
 Dragon Ball Z - Les Guerriers Legendaires (France)                                                                         -      -     -
 Dragon Ball Z - Les Guerriers Legendaires (France) (Beta) (All Unlocked)                                                   ✗      ✗     ✗
+Dragon Dance (Europe) (Proto) (SGB Enhanced) (GB Compatible)                                                               ✗      ✗     ✗
+Dragon Dance (USA) (Beta) (SGB Enhanced) (GB Compatible)                                                                   ✗      ✗     ✗
 Dragon Dance (USA) (SGB Enhanced) (GB Compatible)                                                                          -      -     -
 Dragon Quest I _ II (Japan) (SGB Enhanced) (GB Compatible)                                                                 -      -     -
 Dragon Quest III - Soshite Densetsu e... (Japan)                                                                           -      -     -
 Dragon Quest Monsters (Germany) (SGB Enhanced) (GB Compatible)                                                             -      -     -
 Dragon Quest Monsters - Terry no Wonderland (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)                                 -      ✗     ✗
+Dragon Quest Monsters - Terry no Wonderland (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)                             ✗      ✗     ✗
 Dragon Quest Monsters - Terry no Wonderland (Japan) (SGB Enhanced) (GB Compatible)                                         -      -     -
 Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Iru no Bouken (Japan) (SGB Enhanced) (GB Compatible)                 -      -     -
 Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)     -      ✗     ✗
@@ -362,6 +374,7 @@ Duke Nukem (Europe) (En,Fr,De,Es,It)                                            
 Duke Nukem (USA) (En,Fr,De,Es,It)                                                                                          -      -     -
 Dukes of Hazzard, The - Racing for Home (Europe) (En,Fr,De)                                                                -      -     -
 Dukes of Hazzard, The - Racing for Home (USA)                                                                              -      -     -
+Dungeon Savior (Japan) (Rev 1) (Proto) (SGB Enhanced) (GB Compatible)                                                      ✗      ✗     ✗
 Dungeon Savior (Japan) (SGB Enhanced) (GB Compatible)                                                                      ✗      -     -
 DynaMike (Europe) (Proto)                                                                                                  ✗      -     -
 E.T. - The Extra-Terrestrial - Digital Companion (USA)                                                                     -      -     -
@@ -382,7 +395,7 @@ Emperor's New Groove, The (USA)                                                 
 Equestriad 2001 (USA) (Proto)                                                                                              ✗      ✗     ✗
 Estpolis Denki - Yomigaeru Densetsu (Japan)                                                                                -      -     -
 EuroSport Pro Champ Fishing (Europe) (Proto) (GB Compatible)                                                               ✗      ✗     ✗
-EuroSport XS Racing (Europe) (Proto) (Unl)                                                                                 ✗      ✗     ✗
+EuroSport XS Racing (Europe) (Proto) (GB Compatible)                                                                       ✗      ✗     ✗
 European Super League (Europe) (En,Fr,De,Es,It)                                                                            -      -     -
 Evel Knievel (Europe) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)                                                               -      -     -
 Evel Knievel (USA) (GB Compatible)                                                                                         -      -     -
@@ -390,6 +403,7 @@ Extreme Ghostbusters (Europe) (En,Fr,De,Es,It,Pt)                               
 Extreme Sports with the Berenstain Bears (USA, Europe) (En,Fr,De,Es,It)                                                    -      -     -
 F-1 World Grand Prix (Europe) (Beta)                                                                                       ✗      ✗     ✗
 F-1 World Grand Prix (Europe) (En,Fr,De,Es)                                                                                -      -     -
+F-1 World Grand Prix (Japan) (En) (NP)                                                                                     ✗      ✗     ✗
 F-18 Thunder Strike (USA, Europe)                                                                                          -      -     -
 F.A. Premier League Stars 2001, The (Europe)                                                                               -      -     -
 F1 Championship Season 2000 (Brazil) (En,Fr,De,Es,It)                                                                      ✗      ✗     ✗
@@ -412,6 +426,7 @@ Flintstones, The - Burgertime in Bedrock (USA)                                  
 Flipper _ Lopaka (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)                                                                  ✗      -     -
 Floracy (Europe) (Proto) (2000-10-10)                                                                                      ✗      ✗     ✗
 Force 21 (USA) (En,Fr,De)                                                                                                  -      -     -
+Formula One 2000 (Europe) (En,Fr,De,Es,It) (Proto)                                                                         ✗      ✗     ✗
 Formula One 2000 (USA)                                                                                                     -      -     -
 Fort Boyard (Europe) (En,Fr,De,Es,It,Nl,Pt)                                                                                ✗      -     -
 Freestyle Scooter (Europe)                                                                                                 -      -     -
@@ -421,6 +436,8 @@ Frogger (USA) (Rev 1) (GB Compatible)                                           
 Frogger (USA) (Rev 2) (GB Compatible)                                                                                      ✗      ✗     ✗
 Frogger 2 (USA)                                                                                                            -      -     -
 Frogger 2 (USA) (Rev 1)                                                                                                    ✗      ✗     ✗
+From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (Beta 1) (SGB Enhanced) (GB Compatible)            ✗      ✗     ✗
+From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (Beta 2) (SGB Enhanced) (GB Compatible)            ✗      ✗     ✗
 From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (SGB Enhanced) (GB Compatible)                     ✗      -     -
 From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)              ✗      ✗     ✗
 From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (SGB Enhanced) (GB Compatible)                      ✗      -     -
@@ -434,12 +451,13 @@ GB Harobots (Japan)                                                             
 GB Karan Koron Gakuen - Hanafuda Mahjong (Japan)                                                                           ✗      ✗     ✗
 GB Memory Multi Menu (Japan) (SGB Enhanced, GB Compatible) (NP)                                                            ✗      ✗     ✗
 Gaiamaster Duel - Card Attackers (Japan)                                                                                   ✗      -     -
-Gakkyuu Ou Yamazaki (Japan) (Possible Proto) (GB Compatible)                                                               ✗      ✗     ✗
+Gakkyuu Ou Yamazaki (Japan) (GB Compatible)                                                                                ✗      ✗     ✗
 Gakkyuu Ou Yamazaki (Japan) (Rev 1) (GB Compatible)                                                                        ✗      ✗     ✗
 Galaga - Destination Earth (USA)                                                                                           -      -     -
 Gambler Densetsu Tetsuya - Shinjuku Tenun Hen (Japan)                                                                      ✗      -     -
 Gambler Densetsu Tetsuya - Shinjuku Tenun Hen (Japan) (Rev 1)                                                              ✗      ✗     ✗
 Game Boy Color (World) (Demo) (Kiosk)                                                                                      ✗      ✗     ✗
+Game Boy Gallery 2 (Japan) (SGB Enhanced, GB Compatible) (NP)                                                              ✗      ✗     ✗
 Game Boy Gallery 3 (Australia) (SGB Enhanced) (GB Compatible)                                                              -      -     -
 Game Boy Gallery 3 (Japan) (SGB Enhanced) (GB Compatible)                                                                  -      -     -
 Game Boy Gallery 4 (Australia) (SGB Enhanced) (GB Compatible)                                                              -      -     -
@@ -468,8 +486,10 @@ Gex 3 - Deep Cover Gecko (Europe) (En,Fr,De,Es,It)                              
 Gex 3 - Deep Pocket Gecko (USA)                                                                                            -      -     -
 Ghosts'n Goblins (USA, Europe) (GB Compatible)                                                                             -      -     -
 Gift (Europe)                                                                                                              ✗      -     -
+Gift (Europe) (Rev 1) (Proto)                                                                                              ✗      ✗     ✗
 Gift (Europe) (Sample)                                                                                                     ✗      -     -
 Gifty (Germany) (En)                                                                                                       ✗      -     -
+Gifty (Germany) (En) (Rev 1) (Proto)                                                                                       ✗      ✗     ✗
 Gimmick Land (Japan) (Proto)                                                                                               ✗      ✗     ✗
 Glocal Hexcite (Japan) (SGB Enhanced) (GB Compatible)                                                                      -      -     -
 Gobs of Games (USA) (En,Fr,De)                                                                                             -      -     -
@@ -496,7 +516,10 @@ Grandia - Parallel Trippers (Japan)                                             
 Granduel - Shinki Dungeon no Hihou (Japan)                                                                                 ✗      -     -
 Granduel - Shinki Dungeon no Hihou (Japan) (Sample)                                                                        ✗      -     -
 Great Battle Pocket, The (Japan) (SGB Enhanced) (GB Compatible)                                                            ✗      -     -
-Gremlins - Unleashed (Europe) (En,Fr,De,Es,It,Pt)                                                                          ✗      ✗     ✗
+Green Beret (Unknown) (Proto 1)                                                                                            ✗      ✗     ✗
+Green Beret (Unknown) (Proto 2)                                                                                            ✗      ✗     ✗
+Green Beret (Unknown) (Proto 3)                                                                                            ✗      ✗     ✗
+Gremlins - Unleashed (Europe) (En,Fr,De,Es,It,Pt)                                                                          -      -     -
 Gremlins - Unleashed (Europe) (En,Fr,De,Es,It,Pt) (Beta)                                                                   ✗      ✗     ✗
 Grinch (Japan)                                                                                                             -      -     -
 Grinch, The (Europe) (En,Fr,De)                                                                                            -      -     -
@@ -534,19 +557,21 @@ Harvest Moon 2 GBC (USA) (SGB Enhanced) (GB Compatible)                         
 Harvest Moon 3 GBC (USA)                                                                                                   -      -     -
 Harvest Moon GB (Europe) (SGB Enhanced) (GB Compatible)                                                                    -      -     -
 Harvest Moon GB (Germany) (SGB Enhanced) (GB Compatible)                                                                   -      -     -
-Harvest Moon GBC (USA) (SGB Enhanced) (GB Compatible)                                                                      -      -     ✗
+Harvest Moon GBC (USA) (SGB Enhanced) (GB Compatible)                                                                      -      -     -
 Hello Kitty no Beads Factory (Japan) (SGB Enhanced) (GB Compatible)                                                        ✗      -     -
 Hello Kitty no Happy House (Japan)                                                                                         ✗      -     -
 Hello Kitty no Magical Museum (Japan) (SGB Enhanced) (GB Compatible)                                                       ✗      -     -
 Hello Kitty no Sweet Adventure - Daniel-kun ni Aitai (Japan) (SGB Enhanced) (GB Compatible)                                ✗      -     -
 Hello Kitty to Dear Daniel no Dream Adventure (Japan)                                                                      ✗      -     -
-Hello Kitty's Cube Frenzy (Europe) (Proto)                                                                                 ✗      ✗     ✗
+Hello Kitty's Cube Frenzy (Europe) (Proto) (GB Compatible)                                                                 ✗      ✗     ✗
 Hello Kitty's Cube Frenzy (USA) (GB Compatible)                                                                            -      -     -
 Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl)                                                             -      -     -
 Hero Hero-kun (Japan)                                                                                                      ✗      ✗     ✗
 Heroes of Might and Magic (Europe) (En,Fr,De)                                                                              -      -     -
 Heroes of Might and Magic (USA) (En,Fr,De)                                                                                 -      -     -
+Heroes of Might and Magic (USA) (En,Fr,De) (Rev 1) (Proto)                                                                 ✗      ✗     ✗
 Heroes of Might and Magic II (USA) (En,Fr,De)                                                                              -      -     -
+Hexcite (Europe) (En,Fr,De) (Proto) (SGB Enhanced) (GB Compatible)                                                         ✗      ✗     ✗
 Hexcite - The Shapes of Victory (USA, Europe) (SGB Enhanced) (GB Compatible)                                               -      -     -
 Hiryuu no Ken - Retsuden GB (Japan)                                                                                        ✗      -     -
 Hissatsu Pachinko Boy - CR Monster House (Japan)                                                                           ✗      -     -
@@ -566,7 +591,7 @@ Hugo - The Evil Mirror (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)              
 Hugo 2 1-2 (Germany) (GB Compatible)                                                                                       ✗      -     -
 Hunter x Hunter - Hunter no Keifu (Japan)                                                                                  ✗      ✗     ✗
 Hunter x Hunter - Kindan no Hihou (Japan)                                                                                  -      -     ✗
-Hype - The Time Quest (Brazil)                                                                                             ✗      ✗     ✗
+Hype - The Time Quest (Brazil) (En)                                                                                        ✗      ✗     ✗
 Hype - The Time Quest (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)                                                                   ✗      -     -
 Hyper Olympic - Winter 2000 (Japan)                                                                                        -      -     -
 Hyper Olympic Series - Track _ Field GB (Japan) (SGB Enhanced) (GB Compatible)                                             -      -     -
@@ -594,6 +619,7 @@ Jankyuusei - Cosplay Paradise (Japan)                                           
 Janosch - Das grosse Panama-Spiel (Germany)                                                                                ✗      -     -
 Jay und die Spielzeugdiebe (Germany)                                                                                       ✗      -     -
 Jeff Gordon XS Racing (USA) (GB Compatible)                                                                                -      -     -
+Jeremy McGrath Supercross 2000 (Japan) (En) (NP)                                                                           ✗      ✗     ✗
 Jeremy McGrath Supercross 2000 (USA, Europe)                                                                               -      -     -
 Jet de Go! - Let's Go by Airliner (Japan)                                                                                  ✗      ✗     ✗
 Jibaku-kun - Rei no Itsuki no Kajitsu (Japan) (Proto)                                                                      ✗      ✗     ✗
@@ -603,6 +629,7 @@ Jim Henson's Muppets (Europe) (En,Fr,De,Es,It,Nl,Sv)                            
 Jim Henson's Muppets (Europe) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)                                                       ✗      ✗     ✗
 Jim Henson's Muppets (USA)                                                                                                 ✗      ✗     ✗
 Jimmy White's Cueball (Europe)                                                                                             ✗      -     -
+Jimmy White's Cueball (USA) (Proto)                                                                                        ✗      ✗     ✗
 Jinsei Game - Tomodachi Takusan Tsukurou yo! (Japan) (SGB Enhanced) (GB Compatible)                                        ✗      -     -
 Jisedai Begoma Battle Beyblade (Japan)                                                                                     ✗      -     -
 Jissen ni Yakudatsu Tsumego (Japan) (Possible Proto)                                                                       ✗      ✗     ✗
@@ -632,6 +659,7 @@ Karamuchou wa Oosawagi! - Polinkies to Okashina Nakama-tachi (Japan) (SGB Enhanc
 Karate Joe (Europe) (Unl)                                                                                                  ✗      -     -
 Kaseki Sousei Reborn II - Monster Digger (Japan) (SGB Enhanced) (GB Compatible)                                            ✗      -     -
 Katou Hifumi Kudan - Shougi Kyoushitsu (Japan) (SGB Enhanced) (GB Compatible)                                              ✗      -     -
+Kawa no Nushi Tsuri 4 (Japan) (Rev 1) (Rumble Version) (SGB Enhanced, GB Compatible) (NP)                                  ✗      ✗     ✗
 Kawa no Nushi Tsuri 4 (Japan) (Rumble Version) (SGB Enhanced) (GB Compatible)                                              -      -     -
 Kawaii Pet Shop Monogatari (Japan) (SGB Enhanced) (GB Compatible)                                                          ✗      -     -
 Kawaii Pet Shop Monogatari 2 (Japan) (GB Compatible)                                                                       ✗      -     -
@@ -657,8 +685,8 @@ Kisekae Series 3 - Kisekae Hamster (Japan)                                      
 Klax (USA, Europe)                                                                                                         -      -     -
 Klustar (Europe) (En,Fr,De,Es,It) (Beta) (1998-10-01) (GB Compatible)                                                      ✗      ✗     ✗
 Klustar (Europe) (En,Fr,De,Es,It) (GB Compatible)                                                                          -      -     -
-Klustar (Japan) (Beta) (1998-10-01) (GB Compatible)                                                                        ✗      ✗     ✗
-Klustar (Japan) (Proto)                                                                                                    ✗      ✗     ✗
+Klustar (Japan) (Proto 1) (1998-10-01) (GB Compatible)                                                                     ✗      ✗     ✗
+Klustar (Japan) (Proto 2) (1999-09-28) (GB Compatible)                                                                     ✗      ✗     ✗
 Klustar (USA) (GB Compatible)                                                                                              -      -     -
 Knockout Kings (USA, Europe)                                                                                               -      -     -
 Koenig der Loewen, Der - Simbas grosses Abenteuer (Germany)                                                                -      -     -
@@ -669,7 +697,7 @@ Konami GB Collection Vol.3 (Europe) (GB Compatible)                             
 Konami GB Collection Vol.4 (Europe) (GB Compatible)                                                                        -      -     -
 Konami Winter Games (Europe)                                                                                               -      -     -
 Konchuu Fighters (Japan)                                                                                                   ✗      -     -
-Konchuu Hakase 2 (Japan) (Rev 1) (Possible Proto) (SGB Enhanced) (GB Compatible)                                           ✗      ✗     ✗
+Konchuu Hakase 2 (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)                                                            ✗      ✗     ✗
 Konchuu Hakase 2 (Japan) (SGB Enhanced) (GB Compatible)                                                                    ✗      -     -
 Konchuu Hakase 3 (Japan)                                                                                                   ✗      -     -
 Korokoro Kirby (Japan)                                                                                                     -      -     -
@@ -689,13 +717,24 @@ Land Before Time, The (USA)                                                     
 Las Vegas Cool Hand (USA) (GB Compatible)                                                                                  -      -     -
 Laura (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)                                                                                   -      -     -
 Laura (Europe) (En,Fr,De,Es,It,Nl,Sv,Da) (Beta)                                                                            ✗      ✗     ✗
+Laura (Europe) (En,Fr,De,Es,It,Nl,Sv,Da) (Rev 1) (Proto)                                                                   ✗      ✗     ✗
 Laura (USA)                                                                                                                -      -     -
 Le Mans 24 Hours (Europe) (En,Fr,De,Es,It)                                                                                 -      -     -
+Legend of Zelda, The - Link's Awakening DX (Europe) (Rev 2) (Beta) (1999-09-19) (SGB Enhanced) (GB Compatible)             ✗      ✗     ✗
+Legend of Zelda, The - Link's Awakening DX (France) (Rev 1) (Beta) (1999-08-19) (SGB Enhanced) (GB Compatible)             ✗      ✗     ✗
+Legend of Zelda, The - Link's Awakening DX (France) (Rev 1) (Beta) (1999-09-04) (SGB Enhanced) (GB Compatible)             ✗      ✗     ✗
 Legend of Zelda, The - Link's Awakening DX (France) (Rev 1) (SGB Enhanced) (GB Compatible)                                 -      -     -
 Legend of Zelda, The - Link's Awakening DX (France) (SGB Enhanced) (GB Compatible)                                         -      -     -
+Legend of Zelda, The - Link's Awakening DX (Germany) (Beta) (1998-12-11) (SGB Enhanced) (GB Compatible)                    ✗      ✗     ✗
+Legend of Zelda, The - Link's Awakening DX (Germany) (Rev 1) (Beta) (1999-08-19) (SGB Enhanced) (GB Compatible)            ✗      ✗     ✗
+Legend of Zelda, The - Link's Awakening DX (Germany) (Rev 1) (Beta) (1999-09-04) (SGB Enhanced) (GB Compatible)            ✗      ✗     ✗
+Legend of Zelda, The - Link's Awakening DX (Germany) (Rev 1) (Beta) (1999-09-22) (SGB Enhanced) (GB Compatible)            ✗      ✗     ✗
 Legend of Zelda, The - Link's Awakening DX (Germany) (Rev 1) (SGB Enhanced) (GB Compatible)                                -      -     -
 Legend of Zelda, The - Link's Awakening DX (Germany) (SGB Enhanced) (GB Compatible)                                        -      -     -
 Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 1) (SGB Enhanced) (GB Compatible)                            -      -     -
+Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (Beta) (1999-08-19) (SGB Enhanced) (GB Compatible)        ✗      ✗     ✗
+Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (Beta) (1999-09-04) (SGB Enhanced) (GB Compatible)        ✗      ✗     ✗
+Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (Beta) (1999-09-07) (SGB Enhanced) (GB Compatible)        ✗      ✗     ✗
 Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB Enhanced) (GB Compatible)                            -      -     -
 Legend of Zelda, The - Link's Awakening DX (USA, Europe) (SGB Enhanced) (GB Compatible)                                    -      -     -
 Legend of Zelda, The - Oracle of Ages (Europe) (En,Fr,De,Es,It)                                                            -      -     -
@@ -706,7 +745,8 @@ Legend of the River King 2 (Europe) (SGB Enhanced) (GB Compatible)              
 Legend of the River King 2 (USA) (SGB Enhanced) (GB Compatible)                                                            -      -     -
 Legend of the River King GB (Europe) (SGB Enhanced) (GB Compatible)                                                        -      -     -
 Legend of the River King GB (Germany) (SGB Enhanced) (GB Compatible)                                                       -      -     -
-Legend of the River King GBC (USA) (SGB Enhanced) (GB Compatible)                                                          -      -     ✗
+Legend of the River King GBC (USA) (SGB Enhanced) (GB Compatible)                                                          -      -     -
+Lemmings (Europe) (Proto)                                                                                                  ✗      ✗     ✗
 Lemmings VS (Japan)                                                                                                        ✗      ✗     ✗
 Lemmings _ Oh No! More Lemmings (USA)                                                                                      ✗      ✗     ✗
 Lil' Monster (USA) (SGB Enhanced) (GB Compatible)                                                                          -      -     -
@@ -726,8 +766,8 @@ Looney Tunes - Carrot Crazy (USA) (En,Fr,Es) (GB Compatible)                    
 Looney Tunes - Twouble! (USA) (En,Fr,Es) (GB Compatible)                                                                   -      -     -
 Looney Tunes Collector - Alert! (USA) (En,Fr,Es)                                                                           -      -     -
 Looney Tunes Collector - Martian Alert! (Europe) (En,Fr,De,Es,It,Nl)                                                       -      -     -
-Looney Tunes Collector - Martian Alert! (Europe) (En,Fr,De,Es,It,Nl) (Beta)                                                ✗      ✗     ✗
-Looney Tunes Collector - Martian Alert! (Europe) (Fr) (Beta)                                                               ✗      ✗     ✗
+Looney Tunes Collector - Martian Alert! (Europe) (En,Fr,De,Es,It,Nl) (Beta 2)                                              ✗      ✗     ✗
+Looney Tunes Collector - Martian Alert! (Europe) (Fr) (Beta 1) (1999-10-28)                                                ✗      ✗     ✗
 Looney Tunes Collector - Martian Quest! (Japan)                                                                            -      -     -
 Looney Tunes Collector - Martian Revenge! (Europe) (En,Fr,De,Es,It,Nl)                                                     -      -     -
 Looney Tunes Racing (Europe) (En,Fr,De,Es,It,Nl)                                                                           -      -     -
@@ -767,7 +807,7 @@ Madden NFL 2001 (USA)                                                           
 Madden NFL 2002 (USA)                                                                                                      -      -     -
 Magi Nation (USA)                                                                                                          -      -     -
 Magi-Nation - Keeper's Quest (USA) (Proto)                                                                                 ✗      ✗     ✗
-Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e (Japan)                                                             ✗      -     -
+Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e (Japan)                                                             -      -     -
 Magical Drop (Europe) (En,Fr,De)                                                                                           -      -     -
 Magical Drop (USA)                                                                                                         -      -     -
 Magical Tetris Challenge (Europe) (En,Fr,De,Es,It,Nl,Sv)                                                                   -      -     -
@@ -845,8 +885,8 @@ Microsoft - The Best of Entertainment Pack (Europe)                             
 Microsoft - The Best of Entertainment Pack (USA)                                                                           -      -     -
 Microsoft Pinball Arcade (Europe)                                                                                          -      -     -
 Microsoft Pinball Arcade (USA)                                                                                             -      -     -
-Midway presents Arcade Hits - Joust _ Defender (USA, Europe) (GB Compatible)                                               -      -     -
-Midway presents Arcade Hits - Moon Patrol _ Spy Hunter (USA, Europe) (GB Compatible)                                       -      -     -
+Midway Presents Arcade Hits - Joust _ Defender (USA, Europe) (GB Compatible)                                               ✗      ✗     ✗
+Midway Presents Arcade Hits - Moon Patrol _ Spy Hunter (USA, Europe) (GB Compatible)                                       ✗      ✗     ✗
 Millennium Winter Sports (USA)                                                                                             -      -     -
 Minna no Shougi - Shokyuu Hen (Japan) (GB Compatible)                                                                      ✗      -     -
 Minna no Shougi - Shokyuu Hen (Japan) (Rev 1) (GB Compatible)                                                              ✗      ✗     ✗
@@ -854,7 +894,7 @@ Minnie _ Friends - Yume no Kuni o Sagashite (Japan)                             
 Missile Command (Europe)                                                                                                   -      -     -
 Missile Command (USA) (Rumble Version)                                                                                     -      -     -
 Mission - Impossible (Europe) (En,Fr,De,Es,It)                                                                             -      -     -
-Mission - Impossible (Europe) (En,Fr,De,Es,It) (Rev 1) (Possible Proto)                                                    ✗      ✗     ✗
+Mission - Impossible (Europe) (En,Fr,De,Es,It) (Rev 1)                                                                     ✗      ✗     ✗
 Mission - Impossible (USA) (En,Fr,Es)                                                                                      -      -     -
 Mizuki Shigeru no Shin Youkaiden (Japan)                                                                                   ✗      -     -
 Mobile Golf (Japan)                                                                                                        ✗      -     -
@@ -868,7 +908,7 @@ Monster Farm Battle Card GB (Japan) (SGB Enhanced) (GB Compatible)              
 Monster Race 2 (Japan) (SGB Enhanced) (GB Compatible)                                                                      ✗      -     -
 Monster Rancher Battle Card GB (USA) (SGB Enhanced) (GB Compatible)                                                        -      -     -
 Monster Rancher Explorer (USA)                                                                                             -      -     -
-Monster Traveler (Japan) (Possible Proto)                                                                                  ✗      ✗     ✗
+Monster Traveler (Japan)                                                                                                   ✗      ✗     ✗
 Monster Traveler (Japan) (Rev 1)                                                                                           ✗      ✗     ✗
 Monsters, Inc. (Europe) (En,Es,Nl)                                                                                         -      -     -
 Monsters, Inc. (Europe) (En,Fr,It)                                                                                         -      -     -
@@ -908,8 +948,9 @@ NBA Jam 2001 (USA, Europe)                                                      
 NBA Jam 99 (USA, Europe) (GB Compatible)                                                                                   ✗      ✗     ✗
 NBA Pro 99 (Europe) (SGB Enhanced) (GB Compatible)                                                                         ✗      ✗     ✗
 NBA Show Time - NBA on NBC (USA)                                                                                           -      -     -
-NBA in the Zone (USA) (Possible Proto) (SGB Enhanced) (GB Compatible)                                                      ✗      ✗     ✗
+NBA Show Time - NBA on NBC (USA) (Rev 1) (Proto)                                                                           ✗      ✗     ✗
 NBA in the Zone (USA) (Rev 1) (SGB Enhanced) (GB Compatible)                                                               -      -     -
+NBA in the Zone (USA) (SGB Enhanced) (GB Compatible)                                                                       ✗      ✗     ✗
 NBA in the Zone 2000 (Europe)                                                                                              -      -     -
 NBA in the Zone 2000 (USA)                                                                                                 -      -     -
 NFL Blitz (USA, Europe) (GB Compatible)                                                                                    ✗      ✗     ✗
@@ -937,6 +978,7 @@ Net de Get - Minigame @ 100 (Japan)                                             
 Network Boukenki Bugsite - Alpha Version (Japan)                                                                           ✗      -     -
 Network Boukenki Bugsite - Beta Version (Japan)                                                                            ✗      -     -
 New Addams Family Series, The (Europe) (En,Fr,De,Es,It,Pt)                                                                 ✗      -     -
+New Addams Family Series, The (Europe) (En,Fr,De,Es,It,Pt) (Rev 1) (Proto)                                                 ✗      ✗     ✗
 New Adventures of Mary-Kate _ Ashley, The (USA, Europe) (GB Compatible)                                                    -      -     -
 Nicktoons Racing (USA)                                                                                                     -      -     -
 Nintama Rantarou - Ninjutsu Gakuen ni Nyuugaku Shiyou no Dan (Japan)                                                       ✗      -     -
@@ -993,18 +1035,19 @@ Pocket Densha 2 (Japan) (SGB Enhanced) (GB Compatible)                          
 Pocket Family GB 2 (Japan)                                                                                                 ✗      ✗     ✗
 Pocket GI Stable (Japan) (SGB Enhanced) (GB Compatible)                                                                    ✗      -     -
 Pocket GT (Japan)                                                                                                          ✗      -     -
-Pocket Golf! (USA) (Proto)                                                                                                 ✗      ✗     ✗
+Pocket Golf! (USA) (Proto) (SGB Enhanced) (GB Compatible)                                                                  ✗      ✗     ✗
 Pocket Hanafuda (Japan)                                                                                                    ✗      -     -
 Pocket King (Japan) (SGB Enhanced) (GB Compatible)                                                                         ✗      -     -
 Pocket Lure Boy (Japan)                                                                                                    ✗      -     -
 Pocket Monsters - Crystal Version (Japan)                                                                                  -      -     -
 Pocket Monsters Eun (Korea)                                                                                                -      -     -
 Pocket Monsters Geum (Korea)                                                                                               -      -     -
-Pocket Monsters Gin (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)                                                         ✗      ✗     ✗
+Pocket Monsters Gin (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)                                                         -      -     -
 Pocket Monsters Gin (Japan) (SGB Enhanced) (GB Compatible)                                                                 -      -     -
-Pocket Monsters Kin (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)                                                         ✗      ✗     ✗
+Pocket Monsters Kin (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)                                                         -      -     -
 Pocket Monsters Kin (Japan) (SGB Enhanced) (GB Compatible)                                                                 -      -     -
 Pocket Music (Europe) (En,Fr,De,Es,It)                                                                                     -      -     -
+Pocket Music (USA) (En,Fr,De,Es,It) (Proto)                                                                                ✗      ✗     ✗
 Pocket Pro Wrestling - Perfect Wrestler (Japan)                                                                            ✗      -     -
 Pocket Pro Yakyuu (Japan)                                                                                                  ✗      -     -
 Pocket Puyo Puyo Sun (Japan) (SGB Enhanced) (GB Compatible)                                                                -      -     -
@@ -1034,9 +1077,10 @@ Pokemon - Version Or (France) (SGB Enhanced) (GB Compatible)                    
 Pokemon - Versione Argento (Italy) (SGB Enhanced) (GB Compatible)                                                          -      -     -
 Pokemon - Versione Cristallo (Italy)                                                                                       -      -     -
 Pokemon - Versione Oro (Italy) (SGB Enhanced) (GB Compatible)                                                              -      -     -
+Pokemon Adventure (Taiwan) (Unl) (Pirate)                                                                                  ✗      ✗     ✗
 Pokemon Card GB (Japan) (SGB Enhanced) (GB Compatible)                                                                     -      -     -
 Pokemon Card GB 2 - GR Dan Sanjou! (Japan)                                                                                 -      ✗     ✗
-Pokemon Picross (Japan) (Proto)                                                                                            ✗      ✗     ✗
+Pokemon Picross (Japan) (Proto)                                                                                            -      -     -
 Pokemon Pinball (Europe) (En,Fr,De,Es,It) (Rumble Version) (SGB Enhanced) (GB Compatible)                                  -      -     -
 Pokemon Pinball (Japan) (Rumble Version) (SGB Enhanced) (GB Compatible)                                                    -      -     -
 Pokemon Pinball (USA, Australia) (Rumble Version) (SGB Enhanced) (GB Compatible)                                           -      -     ✗
@@ -1046,7 +1090,7 @@ Pokemon Trading Card Game (Europe) (En,Es,It) (Rev 1) (SGB Enhanced) (GB Compati
 Pokemon Trading Card Game (Europe) (En,Es,It) (SGB Enhanced) (GB Compatible)                                               -      -     -
 Pokemon Trading Card Game (Europe) (En,Fr,De) (Rev 1) (SGB Enhanced) (GB Compatible)                                       ✗      ✗     ✗
 Pokemon Trading Card Game (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)                                               -      -     -
-Pokemon Trading Card Game (USA, Australia) (SGB Enhanced) (GB Compatible)                                                  -      -     ✗
+Pokemon Trading Card Game (USA, Australia) (SGB Enhanced) (GB Compatible)                                                  -      -     -
 Pokemon de Panepon (Japan)                                                                                                 -      -     -
 Polaris SnoCross (USA) (Rumble Version)                                                                                    -      -     -
 Pong - The Next Level (USA, Europe)                                                                                        -      -     -
@@ -1061,8 +1105,8 @@ Portal Runner (USA)                                                             
 Power Pro Kun Pocket (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)                                                        ✗      ✗     ✗
 Power Pro Kun Pocket (Japan) (SGB Enhanced) (GB Compatible)                                                                ✗      -     -
 Power Pro Kun Pocket 2 (Japan) (SGB Enhanced) (GB Compatible)                                                              ✗      -     -
-Power Quest (Europe) (En,Fr,De,Es,It) (SGB Enhanced) (GB Compatible)                                                       -      -     -
-Power Quest (USA) (En,Fr,De,Es,It) (SGB Enhanced) (GB Compatible)                                                          -      -     -
+Power Quest (Europe) (En-US,En-GB,Fr,De,Es,It) (SGB Enhanced) (GB Compatible)                                              ✗      ✗     ✗
+Power Quest (USA) (En-US,En-GB,Fr,De,Es,It) (SGB Enhanced) (GB Compatible)                                                 ✗      ✗     ✗
 Power Spike - Pro Beach Volleyball (USA)                                                                                   -      -     -
 Powerpuff Girls, The - Bad Mojo Jojo (Europe)                                                                              -      -     -
 Powerpuff Girls, The - Bad Mojo Jojo (USA)                                                                                 -      -     -
@@ -1092,6 +1136,7 @@ Pro Pool (USA) (En,Fr,De) (Beta)                                                
 Project S-11 (USA)                                                                                                         -      -     -
 Puchi Carat (Europe) (SGB Enhanced) (GB Compatible)                                                                        ✗      -     -
 Puchi Carat (Japan) (SGB Enhanced) (GB Compatible)                                                                         ✗      -     -
+Puchi Carat (USA) (Proto) (SGB Enhanced) (GB Compatible)                                                                   ✗      ✗     ✗
 Pumuckls Abenteuer bei den Piraten (Germany)                                                                               ✗      ✗     ✗
 Pumuckls Abenteuer im Geisterschloss (Germany)                                                                             ✗      ✗     ✗
 Puyo Puyo Gaiden - Puyo Wars (Japan) (SGB Enhanced) (GB Compatible)                                                        ✗      -     -
@@ -1105,14 +1150,16 @@ Puzzled (USA)                                                                   
 Q-bert (USA)                                                                                                               -      -     -
 Qix Adventure (Europe)                                                                                                     ✗      ✗     ✗
 Qix Adventure (Japan)                                                                                                      ✗      ✗     ✗
+Qix Adventure (USA) (Proto)                                                                                                ✗      ✗     ✗
 Quest - Brian's Journey (USA) (GB Compatible)                                                                              -      -     ✗
 Quest - Fantasy Challenge (USA) (SGB Enhanced) (GB Compatible)                                                             -      -     -
 Quest for Camelot (Europe) (En,Fr,De,Es,It,Nl) (SGB Enhanced) (GB Compatible)                                              -      -     -
-Quest for Camelot (USA) (En,Fr,Es) (SGB Enhanced) (GB Compatible)                                                          -      -     -
+Quest for Camelot (USA, Australia) (En,Fr,Es) (SGB Enhanced) (GB Compatible)                                               ✗      ✗     ✗
 Qui Qui (Japan) (GB Compatible)                                                                                            ✗      -     -
 R-Type DX (Japan) (En) (GB Compatible)                                                                                     -      -     -
 R-Type DX (USA, Europe) (GB Compatible)                                                                                    -      -     -
 RPG Tsukuru GB (Japan)                                                                                                     ✗      -     -
+RPG Tsukuru GB (Japan) (Rev 1) (NP)                                                                                        ✗      ✗     ✗
 Race Time (Europe) (Unl)                                                                                                   ✗      -     -
 Racin' Ratz (USA)                                                                                                          -      -     ✗
 Radikal Bikers (Europe) (En,Fr,De,Es) (Proto)                                                                              ✗      -     -
@@ -1166,9 +1213,11 @@ Robot Poncots - Sun Version (Japan) (SGB Enhanced) (GB Compatible)              
 Robot Wars - Metal Mayhem (Europe) (En,Fr,De,It,Nl,Sv)                                                                     ✗      -     -
 Rocket Power - Gettin' Air (USA, Europe)                                                                                   -      -     -
 Rocket Power - La Glisse de l'Extreme (France)                                                                             -      -     -
+Rockman DX3 (Taiwan) (Unl)                                                                                                 ✗      ✗     ✗
+Rockman DX3 (Taiwan) (Unl) (Alt)                                                                                           ✗      ✗     ✗
 Rockman X - Cyber Mission (Japan) (GB Compatible)                                                                          -      -     -
 Rockman X2 - Soul Eraser (Japan)                                                                                           -      -     -
-Rocky Mountain Trophy Hunter (USA)                                                                                         -      -     -
+Rocky Mountain - Trophy Hunter (USA)                                                                                       ✗      ✗     ✗
 Rocman X Gold + 4 in 1 (Taiwan) (1B-002, 4B-003, Sachen) (Unl)                                                             ✗      ✗     ✗
 Roi Lion, Le - La Formidable Aventure de Simba (France)                                                                    ✗      ✗     ✗
 Roi Lion, Le - La Formidable Aventure de Simba (France) (Rev 1)                                                            ✗      ✗     ✗
@@ -1190,7 +1239,7 @@ Rugrats in Paris - The Movie (USA, Europe)                                      
 Rumble _ Tumble (USA) (Demo) (E3 2001)                                                                                     ✗      ✗     ✗
 Runelords (USA) (Proto)                                                                                                    ✗      ✗     ✗
 SD Hiryuu no Ken EX (Japan) (SGB Enhanced) (GB Compatible)                                                                 ✗      -     -
-SWIV (Europe) (En,Fr,De,Es,It)                                                                                             ✗      -     -
+SWiV (Europe) (En,Fr,De,Es,It)                                                                                             ✗      ✗     ✗
 Saban's Power Rangers - Lightspeed Rescue (USA, Europe)                                                                    ✗      ✗     ✗
 Saban's Power Rangers - Time Force (USA, Europe)                                                                           ✗      ✗     ✗
 Sabrina - The Animated Series - Spooked! (USA, Europe)                                                                     -      -     -
@@ -1226,14 +1275,15 @@ Sesame Street Sports (USA)                                                      
 Sewing Machine Operation Software (Europe) (En,Fr,De,It) (GB Compatible)                                                   ✗      ✗     ✗
 Sewing Machine Operation Software (USA) (En,Fr,Es) (GB Compatible)                                                         ✗      -     -
 Sgt. Rock - On the Frontline (USA)                                                                                         -      -     -
+Shadowgate Classic (Europe) (En,Fr,De,Es,Sv) (Rev 1) (GB Compatible)                                                       ✗      ✗     ✗
 Shadowgate Classic (USA, Europe) (En,Fr,De,Es,Sv) (GB Compatible)                                                          -      -     -
-Shadowgate Classic (USA, Europe) (En,Fr,De,Es,Sv) (Rev 1) (GB Compatible)                                                  -      -     ✗
 Shadowgate Return (Japan) (GB Compatible)                                                                                  -      -     -
 Shaman King Card Game - Chou Senjiryakketsu - Funbari Hen (Japan)                                                          ✗      -     -
 Shaman King Card Game - Chou Senjiryakketsu - Meramera Hen (Japan)                                                         ✗      -     -
 Shamus (USA, Europe) (GB Compatible)                                                                                       -      -     -
 Shanghai Pocket (Europe) (Rev 1) (SGB Enhanced) (GB Compatible)                                                            ✗      ✗     ✗
 Shanghai Pocket (Europe) (SGB Enhanced) (GB Compatible)                                                                    ✗      ✗     ✗
+Shanghai Pocket (USA) (Rev 1) (Proto) (SGB Enhanced) (GB Compatible)                                                       ✗      ✗     ✗
 Shanghai Pocket (USA) (SGB Enhanced) (GB Compatible)                                                                       -      -     -
 Shantae (USA)                                                                                                              -      -     -
 Shantae (USA) (Beta)                                                                                                       ✗      ✗     ✗
@@ -1244,6 +1294,7 @@ Shin Megami Tensei Devil Children - Aka no Sho (Japan) (SGB Enhanced) (GB Compat
 Shin Megami Tensei Devil Children - Kuro no Sho (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)                             ✗      ✗     ✗
 Shin Megami Tensei Devil Children - Kuro no Sho (Japan) (SGB Enhanced) (GB Compatible)                                     ✗      -     -
 Shin Megami Tensei Devil Children - Shiro no Sho (Japan)                                                                   -      -     -
+Shin Megami Tensei Devil Children - Shiro no Sho (Japan) (Rev 1) (Proto)                                                   ✗      ✗     ✗
 Shin Megami Tensei Trading Card - Card Summoner (Japan)                                                                    ✗      -     -
 Shinseiki Evangelion - Mahjong Hokan Keikaku (Japan)                                                                       ✗      -     -
 Shougi 2 (Japan) (GB Compatible)                                                                                           ✗      -     -
@@ -1277,7 +1328,7 @@ Space Marauder (USA)                                                            
 Space-Net - Cosmo Blue (Japan)                                                                                             ✗      -     -
 Space-Net - Cosmo Neo (Japan) (Proto)                                                                                      ✗      ✗     ✗
 Space-Net - Cosmo Red (Japan)                                                                                              ✗      -     -
-Spacestation Silicon Valley (Europe) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)                                                ✗      -     -
+Spacestation Silicon Valley (Europe) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)                                                -      -     -
 Spawn (USA)                                                                                                                -      -     -
 Speedy Gonzales - Aztec Adventure (USA, Europe) (GB Compatible)                                                            -      -     -
 Spider-Man (France)                                                                                                        -      -     -
@@ -1287,9 +1338,11 @@ Spider-Man 2 - The Sinister Six (USA, Europe)                                   
 Spirou - The Robot Invasion (Europe) (En,Fr,De,Es,It,Nl,Da)                                                                ✗      ✗     ✗
 SpongeBob SquarePants - Legend of the Lost Spatula (USA, Europe)                                                           -      -     -
 Spy vs Spy (Europe) (En,Fr,De,Es,It,Nl,Sv)                                                                                 ✗      ✗     ✗
+Spy vs Spy (Europe) (En,Fr,De,Es,It,Nl,Sv) (Rev 1) (Proto)                                                                 ✗      ✗     ✗
 Spy vs Spy (Japan)                                                                                                         ✗      ✗     ✗
 Spy vs Spy (Japan) (Rev 1) (NP)                                                                                            ✗      ✗     ✗
 Spy vs Spy (USA)                                                                                                           ✗      ✗     ✗
+Spy vs Spy (USA) (En,Fr,De,Es,It,Nl,Sv) (Rev 1) (Proto)                                                                    ✗      ✗     ✗
 Star Heritage (Europe) (Proto) (Password Version)                                                                          ✗      ✗     ✗
 Star Heritage (Europe) (Proto) (SRAM Version)                                                                              ✗      ✗     ✗
 Star Ocean - Blue Sphere (Japan) (SGB Enhanced) (GB Compatible)                                                            -      -     -
@@ -1300,6 +1353,7 @@ Star Wars Episode I - Obi-Wan's Adventures (USA)                                
 Star Wars Episode I - Racer (USA, Europe) (Rumble Version)                                                                 -      -     -
 Stranded Kids (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)                                                           ✗      -     -
 Street Fighter Alpha - Warriors' Dreams (Europe)                                                                           -      -     -
+Street Fighter Alpha - Warriors' Dreams (Europe) (Rev 1) (Proto)                                                           ✗      ✗     ✗
 Street Fighter Alpha - Warriors' Dreams (Japan)                                                                            -      -     -
 Street Fighter Alpha - Warriors' Dreams (USA)                                                                              -      -     -
 Street Hero (Taiwan) (En) (1B-004, EB-004, Sachen) (Unl)                                                                   ✗      ✗     ✗
@@ -1314,13 +1368,14 @@ Super Breakout! (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)                    
 Super Breakout! (USA) (GB Compatible)                                                                                      -      -     -
 Super Chinese Fighter EX (Japan)                                                                                           -      -     -
 Super Doll Licca-chan - Kisekae Daisakusen (Japan)                                                                         ✗      -     -
+Super Fighters 99 (Taiwan) (SGB Enhanced) (Unl)                                                                            ✗      ✗     ✗
 Super Gals! Kotobuki Ran (Japan)                                                                                           ✗      -     -
 Super Gals! Kotobuki Ran 2 - Miracle Getting (Japan)                                                                       ✗      ✗     ✗
+Super Mario Bros. Deluxe (Europe) (Rev 2)                                                                                  ✗      ✗     ✗
 Super Mario Bros. Deluxe (Japan) (En) (Rev 1) (NP)                                                                         ✗      ✗     ✗
 Super Mario Bros. Deluxe (Japan) (NP)                                                                                      -      -     -
 Super Mario Bros. Deluxe (USA, Europe)                                                                                     -      -     -
-Super Mario Bros. Deluxe (USA, Europe) (Rev 1)                                                                             -      ✗     ✗
-Super Mario Bros. Deluxe (USA, Europe) (Rev 2)                                                                             -      -     ✗
+Super Mario Bros. Deluxe (USA, Europe) (Rev 1)                                                                             -      -     -
 Super Me-Mail GB - Me-Mail Bear no Happy Mail Town (Japan)                                                                 ✗      -     -
 Super Nenas, Las - El Malvado Mojo Jojo (Spain)                                                                            -      -     -
 Super Nenas, Las - Lucha Con Ese (Spain)                                                                                   -      -     -
@@ -1334,20 +1389,23 @@ Supershot Golf Robot (USA) (Proto)                                              
 Supreme Snowboarding (Europe) (En,Fr,De)                                                                                   -      -     -
 Survival Kids (USA) (SGB Enhanced) (GB Compatible)                                                                         -      -     -
 Survival Kids - Kotou no Boukensha (Japan) (SGB Enhanced) (GB Compatible)                                                  -      -     -
+Survival Kids 2 - Dasshutsu!! Futago-Jima! (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)                              ✗      ✗     ✗
 Survival Kids 2 - Dasshutsu!! Futago-Jima! (Japan) (SGB Enhanced) (GB Compatible)                                          -      -     -
-Suske en Wiske - De Tijdtemmers ~ Bob et Bobette - Les Dompteurs du Temps (Europe) (Fr,Nl)                                 ✗      ✗     ✗
 Suske en Wiske - De Tijdtemmers ~ Bob et Bobette - Les Dompteurs du Temps (Europe) (Fr,Nl) (Beta 1)                        ✗      ✗     ✗
 Suske en Wiske - De Tijdtemmers ~ Bob et Bobette - Les Dompteurs du Temps (Europe) (Fr,Nl) (Beta 2)                        ✗      ✗     ✗
 Sutte Hakkun GB (Japan) (Proto)                                                                                            ✗      ✗     ✗
 Suzuki Alstare Extreme Racing (Europe) (En,Fr,De,Es,It,Nl)                                                                 ✗      -     -
+Suzuki Alstare Extreme Racing (USA) (Proto)                                                                                ✗      ✗     ✗
 Sweet Ange (Japan) (SGB Enhanced) (GB Compatible)                                                                          ✗      -     -
+Swing (Europe) (En,Fr,De,Es,It) (Proto)                                                                                    ✗      ✗     ✗
 Swing (Germany)                                                                                                            ✗      -     -
 Sylvanian Families - Otogi no Kuni no Pendant (Japan) (SGB Enhanced) (GB Compatible)                                       ✗      -     -
 Sylvanian Families 2 - Irozuku Mori no Fantasy (Japan)                                                                     ✗      -     -
+Sylvanian Families 2 - Irozuku Mori no Fantasy (Japan) (Rev 1) (NP)                                                        ✗      ✗     ✗
 Sylvanian Families 3 - Hoshi Furu Yoru no Sunadokei (Japan)                                                                ✗      -     -
 Sylvanian Melodies - Mori no Nakama to Odori Masho! (Japan) (SGB Enhanced) (GB Compatible)                                 -      ✗     ✗
 Sylvester _ Tweety - Breakfast on the Run (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)                                     ✗      ✗     ✗
-TG Rally 2 (Europe)                                                                                                        -      -     -
+TG Rally 2 (United Kingdom)                                                                                                ✗      ✗     ✗
 TNN Outdoors Fishing Champ (USA) (SGB Enhanced) (GB Compatible)                                                            -      -     -
 TOCA Touring Car Championship (USA, Europe)                                                                                -      -     -
 Tabaluga (Germany) (GB Compatible)                                                                                         ✗      -     -
@@ -1362,6 +1420,7 @@ Tarzan (Japan)                                                                  
 Tarzan (USA, Europe)                                                                                                       -      -     -
 Tasmanian Devil - Munching Madness (Europe) (En,Fr,De,Es,It) (GB Compatible)                                               ✗      ✗     ✗
 Tasmanian Devil - Munching Madness (USA) (En,Fr,De,Es,It) (GB Compatible)                                                  ✗      ✗     ✗
+Taxi 2 (Europe) (En,Fr,De,Es,It,Nl) (Proto)                                                                                ✗      ✗     ✗
 Taxi 2 (France)                                                                                                            ✗      -     -
 Taxi 3 (France)                                                                                                            ✗      -     -
 Tech Deck Skateboarding (USA, Europe)                                                                                      -      -     -
@@ -1369,6 +1428,7 @@ Test Drive 2001 (USA)                                                           
 Test Drive 6 (Europe) (En,Fr,De,Es,It) (GB Compatible)                                                                     -      -     -
 Test Drive 6 (Europe) (En,Fr,De,Es,It) (Sample) (GB Compatible)                                                            -      -     -
 Test Drive 6 (USA) (GB Compatible)                                                                                         -      -     -
+Test Drive 6 (USA) (Rev 1) (Proto)                                                                                         ✗      ✗     ✗
 Test Drive Cycles (USA)                                                                                                    -      -     -
 Test Drive Le Mans (USA) (En,Fr,Es)                                                                                        -      -     -
 Test Drive Off-Road 3 (USA) (Rumble Version) (SGB Enhanced) (GB Compatible)                                                -      -     -
@@ -1376,7 +1436,7 @@ Tetris Adventure - Susume Mickey to Nakama-tachi (Japan)                        
 Tetris Adventure - Susume Mickey to Nakama-tachi (Japan) (Rev 1)                                                           ✗      ✗     ✗
 Tetris DX (World) (SGB Enhanced) (GB Compatible)                                                                           -      -     -
 Tezhong Budui 2 - Jidi (China) (Li Cheng) (Unl)                                                                            ✗      ✗     ✗
-Three Lions (Europe) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)                                                                -      -     -
+Three Lions (United Kingdom) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible)                                                        ✗      ✗     ✗
 Thunder Blast Man (Europe) (Sachen) (Unl)                                                                                  ✗      ✗     ✗
 Thunderbirds (Europe)                                                                                                      -      -     -
 Thunderbirds (Europe) (En,Fr,De,Es,It)                                                                                     -      -     -
@@ -1408,13 +1468,14 @@ Tomb Raider (USA, Europe) (En,Fr,De,Es,It) (Beta)                               
 Tomb Raider - Curse of the Sword (USA, Europe)                                                                             -      -     -
 Tonic Trouble (Europe) (En,Fr,De,Es,It,Nl)                                                                                 ✗      -     -
 Tonka Construction Site (USA)                                                                                              -      -     -
+Tonka Construction Site (USA) (Beta)                                                                                       ✗      ✗     ✗
 Tonka Raceway (Europe)                                                                                                     -      -     -
 Tonka Raceway (USA)                                                                                                        -      -     -
 Tonka Raceway (USA) (Rumble Version)                                                                                       -      -     -
 Tony Hawk's Pro Skater (Japan) (Proto)                                                                                     ✗      ✗     ✗
+Tony Hawk's Pro Skater (USA, Europe)                                                                                       -      -     -
 Tony Hawk's Pro Skater 2 (USA, Europe)                                                                                     -      -     -
 Tony Hawk's Pro Skater 3 (USA, Europe)                                                                                     -      -     -
-Tony Hawk's Skateboarding ~ Tony Hawk's Pro Skater (USA, Europe)                                                           ✗      ✗     ✗
 Toobin' (USA)                                                                                                              -      -     -
 Toonsylvania (Europe) (En,Fr,De,Es,It,Nl)                                                                                  -      -     -
 Toonsylvania (USA)                                                                                                         -      -     -
@@ -1422,8 +1483,10 @@ Tootuff (Europe) (En,Fr,De,Es,It,Nl)                                            
 Tootuff (Europe) (En,Fr,De,Es,It,Nl) (Beta)                                                                                ✗      ✗     ✗
 Top Gear Pocket (Japan) (En) (Rumble Version)                                                                              -      -     -
 Top Gear Pocket (USA) (Rumble Version)                                                                                     -      -     -
+Top Gear Pocket 2 (Japan) (Rev 1) (Proto) (Rumble Version)                                                                 ✗      ✗     ✗
 Top Gear Pocket 2 (Japan) (Rumble Version)                                                                                 -      -     -
 Top Gear Pocket 2 (USA)                                                                                                    -      -     -
+Top Gear Pocket 2 (USA) (Rev 1) (Proto)                                                                                    ✗      ✗     ✗
 Top Gear Rally (Europe) (Rumble Version)                                                                                   -      -     -
 Top Gear Rally 2 (Europe)                                                                                                  -      -     -
 Top Gun - Fire Storm (USA, Europe) (En,Fr,De,Es,It,Nl)                                                                     -      -     -
@@ -1481,6 +1544,7 @@ VIP (USA) (En,Fr,Es)                                                            
 VR Sports - Powerboat Racing (USA) (Proto)                                                                                 ✗      ✗     ✗
 Vegas Games (Europe) (En,Fr,De)                                                                                            -      -     -
 Vegas Games (USA)                                                                                                          -      -     -
+Vegas Games (USA) (En,Fr,De) (Rev 1) (Proto)                                                                               ✗      ✗     ✗
 Vigilante 8 (USA) (Rumble Version)                                                                                         -      -     -
 Visiteurs, Les (France) (GB Compatible)                                                                                    -      -     -
 WCW Mayhem (USA, Europe)                                                                                                   -      -     -
@@ -1502,7 +1566,11 @@ Warriors of Might and Magic (USA) (En,Fr,De)                                    
 Watashi no Kitchen (Japan)                                                                                                 ✗      -     -
 Watashi no Kitchen (Japan) (Rev 1)                                                                                         ✗      ✗     ✗
 Watashi no Restaurant (Japan)                                                                                              ✗      -     -
+Watashi no Restaurant (Japan) (Beta 1)                                                                                     ✗      ✗     ✗
+Watashi no Restaurant (Japan) (Beta 2)                                                                                     ✗      ✗     ✗
+Watashi no Restaurant (Japan) (Beta 3)                                                                                     ✗      ✗     ✗
 Wendy - Der Traum von Arizona (Germany)                                                                                    ✗      -     -
+Wendy - Der Traum von Arizona (Germany) (Beta)                                                                             ✗      ✗     ✗
 Wendy - Every Witch Way (USA, Europe)                                                                                      -      -     -
 Wetrix (Europe) (En,Fr,De)                                                                                                 ✗      ✗     ✗
 Wetrix GB (Japan) (SGB Enhanced) (GB Compatible)                                                                           ✗      -     -
@@ -1525,8 +1593,8 @@ Woody Woodpecker Racing (USA)                                                   
 Woody Woodpecker no Go! Go! Racing (Japan)                                                                                 -      -     -
 World Soccer GB 2 (Japan) (SGB Enhanced) (GB Compatible)                                                                   ✗      ✗     ✗
 World Soccer GB 2000 (Japan)                                                                                               -      -     -
+Worms Armageddon (Europe) (Beta)                                                                                           ✗      ✗     ✗
 Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)                                                                              -      -     -
-Worms Armageddon (USA) (Beta)                                                                                              ✗      ✗     ✗
 Worms Armageddon (USA) (En,Fr,Es)                                                                                          -      -     -
 X-Men - Mutant Academy (Japan)                                                                                             -      -     -
 X-Men - Mutant Academy (USA, Europe)                                                                                       -      -     -
@@ -1537,6 +1605,7 @@ X-Men - Wolverine's Rage (USA)                                                  
 Xena - Warrior Princess (USA, Europe) (En,Fr,De,Es,It,Nl)                                                                  -      -     -
 Xtreme Sports (USA)                                                                                                        -      -     -
 Xtreme Wheels (Europe)                                                                                                     -      -     -
+Xtreme Wheels (Japan) (NP)                                                                                                 ✗      ✗     ✗
 Xtreme Wheels (USA)                                                                                                        -      -     -
 Yakouchuu GB (Japan)                                                                                                       ✗      -     -
 Yars' Revenge (USA, Europe) (GB Compatible)                                                                                -      -     -
@@ -1556,6 +1625,11 @@ Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advant (Japan)                       
 Zebco Fishing! (USA) (Rumble Version)                                                                                      -      -     -
 Zelda no Densetsu - Fushigi no Kinomi - Daichi no Shou (Japan)                                                             -      -     -
 Zelda no Densetsu - Fushigi no Kinomi - Jikuu no Shou (Japan)                                                              -      -     -
+Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-30) (GB Compatible)                                       ✗      ✗     ✗
+Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 18.00.56) (GB Compatible)                              ✗      ✗     ✗
+Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 21.55.32) (GB Compatible)                              ✗      ✗     ✗
+Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-07) (GB Compatible)                                       ✗      ✗     ✗
+Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14) (GB Compatible)                                       ✗      ✗     ✗
 Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)                                    ✗      ✗     ✗
 Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (SGB Enhanced) (GB Compatible)                                    -      ✗     ✗
 Zelda no Densetsu - Yume o Miru Shima DX (Japan) (SGB Enhanced) (GB Compatible)                                            -      -     -

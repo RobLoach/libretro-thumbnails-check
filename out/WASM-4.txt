@@ -1,57 +1,57 @@
 WASM-4 Missing
 
-Boxarts    0/63   0.00%
-Snaps      0/63   0.00%
-Titles    41/63  65.08%
-Total    41/189  21.69%
+Boxarts    0/63    0.00%
+Snaps      0/63    0.00%
+Titles    63/63  100.00%
+Total    63/189   33.33%
 
 Name                           Boxart  Snap  Title
 2048                              ✗      ✗     -
 Antcopter                         ✗      ✗     -
 Assemblio                         ✗      ✗     -
-Big Space Iron                    ✗      ✗     ✗
+Big Space Iron                    ✗      ✗     -
 Dodgeball                         ✗      ✗     -
-Don't Smash Into Obstacles        ✗      ✗     ✗
+Don't Smash Into Obstacles        ✗      ✗     -
 Endless Runner                    ✗      ✗     -
-Explore the Grotto                ✗      ✗     ✗
-Fool's Paradise                   ✗      ✗     ✗
-Future Avoid                      ✗      ✗     ✗
+Explore the Grotto                ✗      ✗     -
+Fool's Paradise                   ✗      ✗     -
+Future Avoid                      ✗      ✗     -
 Game of Life                      ✗      ✗     -
-HAMMER JOE                        ✗      ✗     ✗
+HAMMER JOE                        ✗      ✗     -
 Hills in the Moonlight            ✗      ✗     -
 Image Carousel                    ✗      ✗     -
 Lake Shooter                      ✗      ✗     -
-Lime Volleyball                   ✗      ✗     ✗
+Lime Volleyball                   ✗      ✗     -
 Lingword                          ✗      ✗     -
-Lumber Night                      ✗      ✗     ✗
+Lumber Night                      ✗      ✗     -
 MIKU-15                           ✗      ✗     -
 Match3                            ✗      ✗     -
 Maze                              ✗      ✗     -
 Meteoroids                        ✗      ✗     -
-Micro Quest                       ✗      ✗     ✗
-Mind Palace                       ✗      ✗     ✗
+Micro Quest                       ✗      ✗     -
+Mind Palace                       ✗      ✗     -
 Minesweeper                       ✗      ✗     -
 Mouse Demo                        ✗      ✗     -
 Nyan Cat                          ✗      ✗     -
-PID Controller                    ✗      ✗     ✗
+PID Controller                    ✗      ✗     -
 Palette Previewer                 ✗      ✗     -
 Piano                             ✗      ✗     -
-Pl_tfarmer                        ✗      ✗     ✗
+Pl_tfarmer                        ✗      ✗     -
 Plasma Cube                       ✗      ✗     -
 Platformer Test                   ✗      ✗     -
 Pocket Dust                       ✗      ✗     -
 Pong                              ✗      ✗     -
-Presents to the Metal             ✗      ✗     ✗
-Projectron                        ✗      ✗     ✗
-Puyo                              ✗      ✗     ✗
+Presents to the Metal             ✗      ✗     -
+Projectron                        ✗      ✗     -
+Puyo                              ✗      ✗     -
 Racer                             ✗      ✗     -
 Raw Assembly Test                 ✗      ✗     -
 Rolly Dango                       ✗      ✗     -
-Simple Rocket                     ✗      ✗     ✗
+Simple Rocket                     ✗      ✗     -
 Skip Ahead                        ✗      ✗     -
 Smash Sugar Parallelepipeds       ✗      ✗     -
 Snake                             ✗      ✗     -
-Sokoban                           ✗      ✗     ✗
+Sokoban                           ✗      ✗     -
 Sound Demo                        ✗      ✗     -
 Space Delivery                    ✗      ✗     -
 Space Kommand                     ✗      ✗     -
@@ -60,12 +60,12 @@ TO THE CORE                       ✗      ✗     -
 Tail Gunner                       ✗      ✗     -
 The Legend of GEML_ Awakening     ✗      ✗     -
 Tic Tac Toe                       ✗      ✗     -
-WLOKU                             ✗      ✗     ✗
+WLOKU                             ✗      ✗     -
 Wasm Wars                         ✗      ✗     -
 Watris                            ✗      ✗     -
-Wired                             ✗      ✗     ✗
+Wired                             ✗      ✗     -
 Wormhole                          ✗      ✗     -
-Wumpus Hunt                       ✗      ✗     ✗
-You Will Return                   ✗      ✗     ✗
-ZxZ                               ✗      ✗     ✗
+Wumpus Hunt                       ✗      ✗     -
+You Will Return                   ✗      ✗     -
+ZxZ                               ✗      ✗     -
 wasm4nia                          ✗      ✗     -

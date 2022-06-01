@@ -1,19 +1,19 @@
 Nintendo - Nintendo 64 Missing
 
-Boxarts  1015/1100  92.27%
-Snaps     914/1100  83.09%
-Titles    916/1100  83.27%
-Total    2845/3300  86.21%
+Boxarts  1035/1102  93.92%
+Snaps     918/1102  83.30%
+Titles    920/1102  83.48%
+Total    2873/3306  86.90%
 
 Name                                                                                       Boxart  Snap  Title
 007 - The World Is Not Enough (Europe) (En,Fr,De)                                             -      -     -
 007 - The World Is Not Enough (USA)                                                           -      -     -
-007 - The World Is Not Enough (USA) (v2) (Beta)                                               -      ✗     ✗
-007 - The World Is Not Enough (USA) (v21) (Beta)                                              -      ✗     ✗
-1080 Snowboarding (Europe) (En,Ja,Fr,De)                                                      -      ✗     ✗
+007 - The World Is Not Enough (USA) (v2) (Beta)                                               -      -     -
+007 - The World Is Not Enough (USA) (v21) (Beta)                                              -      -     -
+1080 Snowboarding (Europe) (En,Ja,Fr,De)                                                      -      -     -
 1080 Snowboarding (Japan, USA) (En,Ja)                                                        -      -     -
 40 Winks (Europe) (En,Es,It) (Proto) (1999-10-07)                                             -      -     -
-40 Winks (USA) (Aftermarket) (Unl)                                                            -      ✗     ✗
+40 Winks (USA) (Aftermarket) (Unl)                                                            -      -     -
 40 Winks (USA) (Proto)                                                                        ✗      ✗     ✗
 64 Hanafuda - Tenshi no Yakusoku (Japan)                                                      -      -     -
 64 Oozumou (Japan)                                                                            -      -     -
@@ -88,8 +88,8 @@ Blast Corps (USA)                                                               
 Blast Corps (USA) (Rev 1)                                                                     -      -     -
 Blastdozer (Japan)                                                                            -      -     -
 Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl)                                              -      -     -
-Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15) (#20)                    ✗      ✗     ✗
-Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15) (#53)                    ✗      ✗     ✗
+Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15) (#20)                    -      ✗     ✗
+Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15) (#53)                    -      ✗     ✗
 Blues Brothers 2000 (USA)                                                                     -      -     -
 Body Harvest (Europe) (En,Fr,De)                                                              -      -     -
 Body Harvest (USA)                                                                            -      -     -
@@ -163,9 +163,9 @@ Cruis'n USA (Europe)                                                            
 Cruis'n USA (USA)                                                                             -      -     -
 Cruis'n USA (USA) (Rev 1)                                                                     -      -     -
 Cruis'n USA (USA) (Rev 2)                                                                     -      -     -
-Cruis'n USA (USA) (Wii Virtual Console)                                                       ✗      ✗     ✗
+Cruis'n USA (USA) (Wii Virtual Console)                                                       -      ✗     ✗
 Cruis'n World (Europe)                                                                        -      -     -
-Cruis'n World (Europe) (Rev 1)                                                                ✗      ✗     ✗
+Cruis'n World (Europe) (Rev 1)                                                                -      ✗     ✗
 Cruis'n World (USA)                                                                           -      -     -
 Custom Robo (Japan)                                                                           -      -     -
 Custom Robo V2 (Japan)                                                                        -      -     -
@@ -190,7 +190,7 @@ Diddy Kong Racing (USA) (En,Fr) (Rev 1)                                         
 Die Hard 64 (USA) (Proto) (Level 1)                                                           -      ✗     ✗
 Die Hard 64 (USA) (Proto) (Level 2)                                                           -      ✗     ✗
 Die Hard 64 (USA) (Proto) (Level 3)                                                           -      ✗     ✗
-Dinosaur Planet (USA) (Proto) (2000-12-01)                                                    ✗      ✗     ✗
+Dinosaur Planet (USA) (Proto) (2000-12-01)                                                    -      ✗     ✗
 Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)                                           -      -     -
 Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)                                          -      -     -
 Dongwu Senlin (China) (iQue)                                                                  ✗      ✗     ✗
@@ -226,6 +226,7 @@ Duke Nukem 64 (USA)                                                             
 ECW Hardcore Revolution (Europe)                                                              -      -     -
 ECW Hardcore Revolution (Germany)                                                             ✗      ✗     ✗
 ECW Hardcore Revolution (USA)                                                                 -      -     -
+ECW Hardcore Revolution (USA) (Beta)                                                          ✗      ✗     ✗
 Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)                                                    -      -     -
 Earthworm Jim 3D (USA)                                                                        -      -     -
 Eikou no Saint Andrews (Japan)                                                                -      -     -
@@ -294,10 +295,10 @@ G.A.S.P!! Fighters' NEXTream (Japan)                                            
 GT 64 - Championship Edition (Europe) (En,Fr,De)                                              -      -     -
 GT 64 - Championship Edition (USA)                                                            -      -     -
 GT 64 - Championship Edition (USA) (Beta) (1998-05-25)                                        -      ✗     ✗
-GameBooster 64 (Europe) (v1.1) (Unl)                                                          ✗      -     ✗
-GameBooster 64 (USA) (v1.1) (Unl)                                                             ✗      -     ✗
-GameShark Pro (USA) (v2.0) (Unl)                                                              ✗      -     ✗
-GameShark Pro (USA) (v3.3) (Unl)                                                              ✗      -     ✗
+GameBooster 64 (Europe) (v1.1) (Unl)                                                          -      -     ✗
+GameBooster 64 (USA) (v1.1) (Unl)                                                             -      -     ✗
+GameShark Pro (USA) (v2.0) (Unl)                                                              -      -     ✗
+GameShark Pro (USA) (v3.3) (Unl)                                                              -      -     ✗
 Ganbare Goemon - Dero Dero Douchuu Obake Tenkomori (Japan)                                    -      -     -
 Ganbare Goemon - Neo Momoyama Bakufu no Odori (Japan)                                         -      -     -
 Ganbare! Nippon! Olympics 2000 (Japan)                                                        -      -     -
@@ -312,9 +313,9 @@ Gex 64 - Enter the Gecko (Europe)                                               
 Gex 64 - Enter the Gecko (USA)                                                                -      -     -
 Glover (Europe) (En,Fr,De)                                                                    -      -     -
 Glover (USA)                                                                                  -      -     -
-Glover (USA) (Proto) (1998-09-04)                                                             ✗      ✗     ✗
+Glover (USA) (Proto) (1998-09-04)                                                             -      ✗     ✗
 Glover 2 (USA) (Proto 1)                                                                      -      -     -
-Glover 2 (USA) (Proto 2)                                                                      ✗      -     -
+Glover 2 (USA) (Proto 2)                                                                      -      -     -
 Goemon - Mononoke Sugoroku (Japan)                                                            -      -     -
 Goemon's Great Adventure (USA)                                                                -      -     -
 Golden Nugget 64 (USA)                                                                        -      -     -
@@ -328,7 +329,7 @@ Harvest Moon 64 (USA)                                                           
 Heiwa Pachinko World 64 (Japan)                                                               -      -     -
 Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl)                                -      -     -
 Hercules - The Legendary Journeys (USA)                                                       -      -     -
-Hercules - The Legendary Journeys (Unknown) (Beta)                                            ✗      ✗     ✗
+Hercules - The Legendary Journeys (Unknown) (Beta)                                            -      ✗     ✗
 Hexen (Europe)                                                                                -      -     -
 Hexen (France)                                                                                -      -     -
 Hexen (Germany)                                                                               -      -     -
@@ -390,9 +391,9 @@ Jikkyou G1 Stable (Japan)                                                       
 Jikkyou G1 Stable (Japan) (Rev 1)                                                             -      -     -
 Jikkyou J.League 1999 - Perfect Striker 2 (Japan)                                             -      -     -
 Jikkyou J.League 1999 - Perfect Striker 2 (Japan) (Rev 1)                                     -      -     -
-Jikkyou J.League Perfect Striker (Japan)                                                      ✗      -     -
-Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan)                                          ✗      -     -
-Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan) (Rev 1)                                  ✗      -     -
+Jikkyou J.League Perfect Striker (Japan)                                                      -      -     -
+Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan)                                          -      -     -
+Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan) (Rev 1)                                  -      -     -
 Jikkyou Powerful Pro Yakyuu 2000 (Japan)                                                      -      -     -
 Jikkyou Powerful Pro Yakyuu 2000 (Japan) (Rev 1)                                              -      -     -
 Jikkyou Powerful Pro Yakyuu 4 (Japan)                                                         -      -     -
@@ -564,7 +565,7 @@ Mortal Kombat Mythologies - Sub-Zero (Europe)                                   
 Mortal Kombat Mythologies - Sub-Zero (USA)                                                    -      -     -
 Mortal Kombat Trilogy (Europe)                                                                -      -     -
 Mortal Kombat Trilogy (USA)                                                                   -      -     -
-Mortal Kombat Trilogy (USA) (Beta) (1996-05-13)                                               ✗      ✗     ✗
+Mortal Kombat Trilogy (USA) (Beta) (1996-05-13)                                               -      ✗     ✗
 Mortal Kombat Trilogy (USA) (Rev 1)                                                           -      -     -
 Mortal Kombat Trilogy (USA) (Rev 2)                                                           -      -     -
 Ms. Pac-Man - Maze Madness (USA)                                                              -      -     -
@@ -622,6 +623,7 @@ New Tetris, The (Europe)                                                        
 New Tetris, The (USA)                                                                         -      -     -
 Nightmare Creatures (USA)                                                                     -      -     -
 Nintama Rantarou 64 Game Gallery (Japan)                                                      -      -     -
+Nintendo 64 Modem (Japan) (Add-on)                                                            ✗      ✗     ✗
 Nintendo All-Star! Dairantou Smash Brothers (Japan)                                           -      -     -
 Nuclear Strike 64 (Europe) (En,Fr)                                                            -      -     -
 Nuclear Strike 64 (Germany)                                                                   -      -     -
@@ -927,7 +929,7 @@ Top Gear Hyper-Bike (USA) (Beta)                                                
 Top Gear Overdrive (Europe)                                                                   -      -     -
 Top Gear Overdrive (Japan)                                                                    -      -     -
 Top Gear Overdrive (USA)                                                                      -      -     -
-Top Gear Rally (Asia) (En)                                                                    ✗      ✗     ✗
+Top Gear Rally (Asia) (En)                                                                    -      ✗     ✗
 Top Gear Rally (Europe)                                                                       -      -     -
 Top Gear Rally (Japan)                                                                        -      -     -
 Top Gear Rally (USA)                                                                          -      -     -
@@ -970,8 +972,8 @@ Turok 3 - Shadow of Oblivion (Europe)                                           
 Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-05-31)                                     -      -     -
 Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-16)                                     -      ✗     ✗
 Turok 3 - Shadow of Oblivion (USA)                                                            -      -     -
-Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-06-26)                                        ✗      ✗     ✗
-Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-21)                                        ✗      ✗     ✗
+Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-06-26)                                        -      ✗     ✗
+Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-21)                                        -      ✗     ✗
 Twisted Edge - Extreme Snowboarding (USA)                                                     -      -     -
 Twisted Edge - Snowboarding (Europe)                                                          -      -     -
 Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan)                            -      -     -
@@ -1059,7 +1061,7 @@ Xingji Huohu (China) (v4) (Manual)                                              
 Xingji Huohu (China) (v4) (iQue) (Manual)                                                     -      ✗     ✗
 Xingji Huohu (China) (v5)                                                                     ✗      ✗     ✗
 Xingji Huohu (China) (v5) (iQue)                                                              -      ✗     ✗
-Xplorer 64 (Germany) (v1.067) (Unl)                                                           ✗      ✗     ✗
+Xplorer 64 (Germany) (v1.067) (Unl)                                                           -      ✗     ✗
 Yakouchuu II - Satsujin Kouro (Japan)                                                         -      -     -
 Yaoxi Gushi (China)                                                                           ✗      ✗     ✗
 Yaoxi Gushi (China) (iQue)                                                                    -      ✗     ✗
