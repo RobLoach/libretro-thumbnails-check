@@ -1,9 +1,9 @@
 Sega - Mega Drive - Genesis Missing
 
-Boxarts  1380/2585  53.38%
-Snaps    1399/2585  54.12%
-Titles   1398/2585  54.08%
-Total    4177/7755  53.86%
+Boxarts  1433/2629  54.51%
+Snaps    1401/2629  53.29%
+Titles   1394/2629  53.02%
+Total    4228/7887  53.61%
 
 Name                                                                                                         Boxart  Snap  Title
 007 Shitou - The Duel (Japan)                                                                                   -      -     -
@@ -15,9 +15,11 @@ Name                                                                            
 16t (Japan) (SegaNet)                                                                                           ✗      -     -
 2020 Nen Super Baseball (Japan)                                                                                 -      -     -
 3 Ninjas Kick Back (USA)                                                                                        -      -     -
+30 Years of Nintendon't (World) (Aftermarket) (Homebrew)                                                        ✗      ✗     ✗
 6-Pak (USA)                                                                                                     -      -     -
 688 Attack Sub (USA, Europe)                                                                                    -      -     -
 A Ressha de Ikou MD (Japan)                                                                                     -      -     -
+ASAP PLZ (World) (Aftermarket) (Homebrew)                                                                       ✗      ✗     ✗
 ATP Tour (Europe)                                                                                               -      -     -
 ATP Tour Championship Tennis (USA)                                                                              -      -     -
 ATP Tour Championship Tennis (USA) (Beta) (1994-05-09)                                                          ✗      ✗     ✗
@@ -88,12 +90,14 @@ Alex Kidd - Cheongong Maseong (Korea)                                           
 Alex Kidd - Tenkuu Majou (Japan)                                                                                -      -     -
 Alex Kidd in the Enchanted Castle (Europe)                                                                      -      -     -
 Alex Kidd in the Enchanted Castle (USA)                                                                         -      -     -
+Alice Sisters (World) (En,Ja) (Aftermarket) (Unl)                                                               ✗      ✗     ✗
 Alien 3 (USA, Europe)                                                                                           -      -     -
 Alien 3 (USA, Europe) (Rev A)                                                                                   -      -     -
+Alien Cat (World) (Demo) (Aftermarket) (Unl)                                                                    ✗      ✗     ✗
 Alien Soldier (Europe)                                                                                          -      -     -
 Alien Soldier (Japan)                                                                                           -      -     -
 Alien Soldier (USA) (Virtual Console)                                                                           -      -     -
-Alien Soldier (USA, Europe) (Switch Online)                                                                     ✗      ✗     ✗
+Alien Soldier (USA, Europe) (Switch Online)                                                                     -      ✗     ✗
 Alien Storm (World)                                                                                             -      -     -
 Alien Storm (World) (SEGA Classic Collection)                                                                   ✗      ✗     ✗
 Alisia Dragoon (Europe)                                                                                         -      -     -
@@ -101,7 +105,8 @@ Alisia Dragoon (Japan)                                                          
 Alisia Dragoon (Japan) (Mega Drive Mini)                                                                        ✗      ✗     ✗
 Alisia Dragoon (USA)                                                                                            -      -     -
 Alisia Dragoon (USA) (Genesis Mini)                                                                             ✗      ✗     ✗
-Alter Ego (World) (Aftermarket) (Unl)                                                                           ✗      ✗     ✗
+AlterEgo (World) (Aftermarket) (Unl)                                                                            ✗      ✗     ✗
+AlterEgo Remastered (World) (Aftermarket) (Unl)                                                                 ✗      ✗     ✗
 Altered Beast (USA, Europe)                                                                                     -      -     -
 American Gladiators (USA)                                                                                       -      -     -
 Andre Agassi Tennis (Europe)                                                                                    -      -     -
@@ -145,16 +150,18 @@ Atomic Robo-Kid (Japan)                                                         
 Atomic Robo-Kid (USA)                                                                                           -      -     -
 Atomic Runner (Europe)                                                                                          -      -     -
 Atomic Runner (USA)                                                                                             -      -     -
+Attack of the Petscii Robots (World) (Aftermarket) (Unl)                                                        ✗      ✗     ✗
 Australian Rugby League (Europe)                                                                                -      -     -
 Australian Rugby League (Europe) (Beta)                                                                         ✗      ✗     ✗
 Awesome Possum (Japan) (En)                                                                                     -      -     -
-Awesome Possum Kicks Dr Machino's Butt! (USA) (Beta 1)                                                          ✗      ✗     ✗
-Awesome Possum Kicks Dr Machino's Butt! (USA) (Beta 2)                                                          ✗      ✗     ✗
+Awesome Possum Kicks Dr Machino's Butt! (USA) (Beta 1)                                                          -      ✗     ✗
+Awesome Possum Kicks Dr Machino's Butt! (USA) (Beta 2) (1993-07-12)                                             ✗      ✗     ✗
+Awesome Possum Kicks Dr Machino's Butt! (USA) (Beta 3)                                                          ✗      ✗     ✗
 Awesome Possum... ...Kicks Dr. Machino's Butt (USA)                                                             -      -     -
 Aworg (Japan) (SegaNet)                                                                                         ✗      -     -
 Ayrton Senna's Super Monaco GP II (Japan, Europe) (En,Ja)                                                       -      -     -
 Ayrton Senna's Super Monaco GP II (USA) (En,Ja)                                                                 -      -     -
-B.O.B. (USA, Europe) (Beta)                                                                                     ✗      ✗     ✗
+B.O.B. (USA, Europe) (Beta)                                                                                     -      ✗     ✗
 B.O.B. (USA, Europe) (Rev A)                                                                                    -      -     -
 Baby Boom (USA) (Proto) (1994-06-03)                                                                            ✗      ✗     ✗
 Baby Boom (USA) (Proto) (1994-06-06)                                                                            ✗      ✗     ✗
@@ -163,7 +170,7 @@ Baby's Day Out (USA) (Proto 1)                                                  
 Baby's Day Out (USA) (Proto 2)                                                                                  ✗      ✗     ✗
 Back to the Future Part III (Europe)                                                                            -      -     -
 Back to the Future Part III (USA)                                                                               -      -     -
-Bad Omen (Japan, Korea) (Ja)                                                                                    ✗      ✗     ✗
+Bad Omen (Japan, Korea) (En)                                                                                    ✗      ✗     ✗
 Bahamut Senki (Japan)                                                                                           -      -     -
 Ball Jacks (Japan, Europe) (En)                                                                                 ✗      ✗     ✗
 Ballz 3D - Fighting at Its Ballziest ~ Ballz 3D - The Battle of the Ballz (USA, Europe)                         -      -     -
@@ -185,7 +192,7 @@ Barkley Shut Up and Jam 2 (USA)                                                 
 Barkley Shut Up and Jam 2 (USA) (Beta)                                                                          ✗      -     -
 Barkley Shut Up and Jam! (USA, Europe)                                                                          -      -     -
 Barney's Hide _ Seek Game (USA)                                                                                 -      -     -
-Barney's Hide _ Seek Game (USA) (Beta) (1993-09-18)                                                             ✗      ✗     ✗
+Barney's Hide _ Seek Game (USA) (Beta) (1993-09-18)                                                             -      ✗     ✗
 Barver Battle Saga - Tai Kong Zhan Shi (Taiwan) (Unl)                                                           -      -     -
 Bass Masters Classic (USA)                                                                                      -      -     -
 Bass Masters Classic - Pro Edition (USA)                                                                        -      -     -
@@ -200,13 +207,13 @@ Battle Mania (Japan)                                                            
 Battle Mania (Japan) (Beta) (1991-05-28)                                                                        ✗      ✗     ✗
 Battle Mania Daiginjou (Japan, Korea) (Ja)                                                                      ✗      ✗     ✗
 Battle Squadron (USA, Europe)                                                                                   -      -     -
-Battle Squadron (USA, Europe) (Rev 1) (Beta) (1991-01-18) (Sega Channel)                                        ✗      ✗     ✗
+Battle Squadron (USA, Europe) (Rev 1) (Beta) (1991-01-18) (Sega Channel)                                        -      ✗     ✗
 Battlemaster (USA)                                                                                              -      -     -
 Battletech - A Game of Armored Combat (USA)                                                                     ✗      ✗     ✗
 Battletoads (World)                                                                                             -      -     -
 Battletoads-Double Dragon (USA)                                                                                 -      -     -
 Beast Warriors (Japan)                                                                                          -      -     -
-Beast Wrestler (Japan) (Beta) (1991-09-13)                                                                      ✗      ✗     ✗
+Beast Wrestler (Japan) (Beta) (1991-09-13)                                                                      -      ✗     ✗
 Beast Wrestler (USA)                                                                                            -      -     -
 Beastball (Europe) (Proto)                                                                                      ✗      ✗     ✗
 Beauty and the Beast - Belle's Quest (USA)                                                                      -      -     -
@@ -268,13 +275,17 @@ Body Count (Brazil) (En) (Beta) (1994-03-03)                                    
 Body Count (Brazil) (En) (Beta) (1994-03-08)                                                                    ✗      ✗     ✗
 Body Count (Europe) (En,Fr,De,Es,It)                                                                            -      -     -
 Body Count (Europe) (En,Fr,De,Es,It) (Beta)                                                                     -      -     -
+Bomb on Basic City (World) (Aftermarket) (Homebrew)                                                             ✗      ✗     ✗
+Bomb on Basic City (World) (Special Edition) (Aftermarket) (Homebrew)                                           ✗      ✗     ✗
 Bomber (Brazil) (En) (Unl)                                                                                      ✗      ✗     ✗
 Bomboy (Taiwan) (En) (Unl)                                                                                      ✗      ✗     ✗
-Bonanza Bros. (Japan, Europe) (En)                                                                              ✗      ✗     ✗
+Bonanza Bros. (Japan, Europe) (En)                                                                              -      ✗     ✗
 Bonanza Bros. (Japan, Europe) (En) (Rev A)                                                                      ✗      ✗     ✗
 Bonanza Bros. (USA, Europe, Korea) (En) (Rev B)                                                                 ✗      ✗     ✗
+Bone Marrow (World) (En,Ru) (Demo) (Aftermarket) (Unl)                                                          ✗      ✗     ✗
+Bone Marrow Rebirth (World) (En,Ru) (Demo) (Aftermarket) (Unl)                                                  ✗      ✗     ✗
 Bonkers (USA, Europe)                                                                                           -      -     -
-Bonkers (USA, Europe) (Beta) (1994-03-28)                                                                       ✗      ✗     ✗
+Bonkers (USA, Europe) (Beta) (1994-03-28)                                                                       -      ✗     ✗
 Bonkers (USA, Europe) (Beta) (1994-05-03)                                                                       ✗      ✗     ✗
 Bonkers (USA, Europe) (Beta) (1994-08-04)                                                                       ✗      ✗     ✗
 Bonkers (USA, Europe) (Beta) (1994-08-25)                                                                       ✗      ✗     ✗
@@ -303,7 +314,7 @@ Bubsy in - Claws Encounters of the Furred Kind (USA, Europe)                    
 Buck Rogers - Countdown to Doomsday (USA, Europe)                                                               -      -     -
 Budokan - The Martial Spirit (Europe)                                                                           -      -     -
 Budokan - The Martial Spirit (USA) (Rev 1) (Beta) (1990-09-25)                                                  ✗      ✗     ✗
-Budokan - The Martial Spirit (USA) (Unl)                                                                        ✗      ✗     ✗
+Budokan - The Martial Spirit (USA) (Unl)                                                                        -      ✗     ✗
 Bug's Life, A (Taiwan) (En) (Unl)                                                                               ✗      ✗     ✗
 Bugs Bunny in Double Trouble (Europe) (En,Fr,De,Es,It)                                                          -      -     -
 Bugs Bunny in Double Trouble (USA)                                                                              -      -     -
@@ -312,7 +323,7 @@ Bulls vs Lakers and the NBA Playoffs (USA, Europe)                              
 Burning Force (Europe)                                                                                          -      -     -
 Burning Force (Japan)                                                                                           -      -     -
 Burning Force (USA)                                                                                             -      -     -
-Cadash (USA, Korea) (En)                                                                                        ✗      ✗     ✗
+Cadash (USA, Korea) (En)                                                                                        -      ✗     ✗
 Caesar no Yabou (Japan)                                                                                         -      -     -
 Caesar no Yabou II (Japan)                                                                                      -      -     -
 Caesars Palace (USA)                                                                                            -      -     -
@@ -434,8 +445,8 @@ Comix Zone (USA) (Demo) (1995-06-12) (Sega Channel)                             
 Comix Zone (USA) (Sega Smash Pack 2)                                                                            ✗      ✗     ✗
 Comix Zone (USA) (Virtual Console)                                                                              ✗      ✗     ✗
 Congo - The Game (USA) (Proto)                                                                                  ✗      ✗     ✗
-Contra - Hard Corps (USA) (Genesis Mini)                                                                        ✗      ✗     ✗
-Contra - Hard Corps (USA, Korea) (En)                                                                           ✗      ✗     ✗
+Contra - Hard Corps (USA) (Genesis Mini)                                                                        -      ✗     ✗
+Contra - Hard Corps (USA, Korea) (En)                                                                           -      -     -
 Contra - Hard Corps (World) (Contra Anniversary Collection)                                                     ✗      ✗     ✗
 Contra - The Hard Corps (Japan)                                                                                 -      -     -
 Contra - The Hard Corps (Japan) (Mega Drive Mini)                                                               ✗      ✗     ✗
@@ -480,8 +491,12 @@ Curse of Illmoore Bay, The (World) (Aftermarket) (Unl)                          
 Curse of Illmoore Bay, The (World) (Demo 1) (Aftermarket) (Unl)                                                 ✗      ✗     ✗
 Curse of Illmoore Bay, The (World) (Demo 2) (Aftermarket) (Unl)                                                 ✗      ✗     ✗
 Curse of Illmoore Bay, The (World) (Demo 3) (Aftermarket) (Unl)                                                 ✗      ✗     ✗
+Curse of Illmoore Bay, The (World) (Steam Version) (Aftermarket) (Unl)                                          ✗      ✗     ✗
+Cursed Knight, The (World) (v1.0) (Demo) (Aftermarket)                                                          ✗      ✗     ✗
+Cursed Knight, The (World) (v1.1) (Demo) (Aftermarket) (Unl)                                                    ✗      ✗     ✗
 Cursed Knight, The (World) (v2.0) (Demo) (Aftermarket) (Unl)                                                    ✗      ✗     ✗
 Cursed Knight, The (World) (v2.1) (Demo) (Aftermarket) (Unl)                                                    ✗      ✗     ✗
+Cursed Knight, The (World) (v3.0) (Demo) (Aftermarket) (Unl)                                                    ✗      ✗     ✗
 Custodian (World) (Aftermarket) (Unl)                                                                           ✗      ✗     ✗
 CutThroat Island (USA, Europe)                                                                                  -      -     -
 CutThroat Island (USA, Europe) (Beta)                                                                           ✗      ✗     ✗
@@ -491,7 +506,7 @@ Cyber-Cop (USA)                                                                 
 Cyberball (World)                                                                                               -      -     -
 Cyborg Justice (USA, Europe)                                                                                    -      -     -
 Cyborg Justice (USA, Europe) (Beta)                                                                             ✗      ✗     ✗
-DEcapAttack (USA, Europe, Korea) (En)                                                                           ✗      ✗     ✗
+DEcapAttack (USA, Europe, Korea) (En)                                                                           -      ✗     ✗
 DJ Boy (Europe)                                                                                                 -      -     -
 DJ Boy (Japan)                                                                                                  -      -     -
 DJ Boy (USA)                                                                                                    -      -     -
@@ -510,7 +525,8 @@ Daisenpuu ~ Twin Hawk (Japan, Europe) (En) (Beta) (1990-04-06)                  
 Dangerous Seed (Japan)                                                                                          -      -     -
 Danny Sullivan's Indy Heat (USA) (Proto)                                                                        ✗      ✗     ✗
 Darius (World) (Genesis Mini, Mega Drive Mini)                                                                  -      -     -
-Darius - Extra Version (World) (Aftermarket) (Unl)                                                              ✗      ✗     ✗
+Darius - Extra Version (World) (Columbus Circle Version) (Aftermarket) (Unl)                                    ✗      ✗     ✗
+Darius - Extra Version (World) (Strictly Limited Version) (Aftermarket) (Unl)                                   ✗      ✗     ✗
 Darius II (Japan)                                                                                               -      -     -
 Darius II (World) (Darius Cozmic Collection)                                                                    ✗      ✗     ✗
 Dark Castle (USA, Europe)                                                                                       -      -     -
@@ -521,7 +537,7 @@ Dashin' Desperadoes (USA)                                                       
 Dashin' Desperadoes (USA) (Beta)                                                                                -      -     -
 David Crane's Amazing Tennis (USA)                                                                              -      -     -
 David Robinson Basketball (Japan)                                                                               -      -     -
-David Robinson Basketball (Japan) (Beta) (1992-04-15)                                                           ✗      ✗     ✗
+David Robinson Basketball (Japan) (En) (Beta) (1992-04-15)                                                      ✗      ✗     ✗
 David Robinson's Supreme Court (USA, Europe)                                                                    -      -     -
 Davis Cup II (Europe) (Proto) (1994-07-10)                                                                      ✗      ✗     ✗
 Davis Cup II (USA) (Proto) (1994-07-28)                                                                         ✗      ✗     ✗
@@ -535,8 +551,9 @@ Death Duel (USA)                                                                
 Death Duel (USA) (Beta) (1992-05-06)                                                                            ✗      ✗     ✗
 Death and Return of Superman, The (Europe)                                                                      -      -     -
 Death and Return of Superman, The (USA)                                                                         -      -     -
+Debtor (World) (Demo 4) (Aftermarket) (Unl)                                                                     ✗      ✗     ✗
 Demolition Man (USA, Europe)                                                                                    -      -     -
-Demolition Man (USA, Europe) (Beta)                                                                             ✗      ✗     ✗
+Demolition Man (USA, Europe) (Beta)                                                                             -      ✗     ✗
 Demons of Asteborg (World) (Demo 1) (Aftermarket) (Unl)                                                         ✗      ✗     ✗
 Demons of Asteborg (World) (Demo 2) (Aftermarket) (Unl)                                                         ✗      ✗     ✗
 Demons of Asteborg (World) (En,Fr,De,Es,It,Pt) (v1.0) (Aftermarket) (Unl)                                       ✗      ✗     ✗
@@ -604,11 +621,12 @@ Dragon's Lair (USA) (Proto) (June, 1994)                                        
 Dragon's Revenge (Japan) (En)                                                                                   -      -     -
 Dragon's Revenge (USA, Europe)                                                                                  -      -     -
 Dream Team USA (Japan)                                                                                          -      -     -
+Drunk as I Like (World) (Aftermarket) (Homebrew)                                                                ✗      ✗     ✗
 Du Shen Zhi Meng Huan Poker (Taiwan) (Unl)                                                                      ✗      ✗     ✗
 Duke Nukem 3D (Brazil) (En)                                                                                     ✗      ✗     ✗
-Duke Nukem 3D - Directors Cut (World) (Aftermarket) (Unl)                                                       ✗      ✗     ✗
+Duke Nukem 3D (USA) (Aftermarket) (Unl)                                                                         ✗      ✗     ✗
 Dune - The Battle for Arrakis (USA)                                                                             -      -     -
-Dune - The Battle for Arrakis (Unknown) (Beta)                                                                  ✗      ✗     ✗
+Dune - The Battle for Arrakis (USA) (Beta)                                                                      ✗      ✗     ✗
 Dune II - Kampf um den Wuestenplaneten (Germany)                                                                -      -     -
 Dune II - The Battle for Arrakis (Europe)                                                                       -      -     -
 Dune II - The Battle for Arrakis (Europe) (Beta) (1994-01-11)                                                   ✗      ✗     ✗
@@ -636,7 +654,7 @@ ESPN National Hockey Night (USA) (Beta)                                         
 ESPN Speed World (USA)                                                                                          -      -     -
 ESPN Speed World (USA) (Beta)                                                                                   ✗      -     -
 ESPN Sunday Night NFL (USA)                                                                                     -      -     -
-ESPN Sunday Night NFL (USA) (Beta)                                                                              ✗      -     -
+ESPN Sunday Night NFL (USA) (Beta)                                                                              -      -     -
 ESWAT - City under Siege (USA, Europe) (Rev A)                                                                  -      -     -
 Earnest Evans (USA)                                                                                             -      -     -
 Earnest Evans (USA) (Beta)                                                                                      ✗      ✗     ✗
@@ -656,7 +674,7 @@ Ecco Jr. (USA, Australia)                                                       
 Ecco Jr. (USA, Australia) (Beta)                                                                                ✗      ✗     ✗
 Ecco the Dolphin (Japan)                                                                                        -      -     -
 Ecco the Dolphin (Japan) (Beta) (1993-04-21)                                                                    ✗      ✗     ✗
-Ecco the Dolphin (USA, Europe, Korea) (En)                                                                      ✗      ✗     ✗
+Ecco the Dolphin (USA, Europe, Korea) (En)                                                                      -      -     -
 Ecco the Dolphin (USA, Europe, Korea) (En) (Rev A) (Beta) (1993-06-29)                                          ✗      ✗     ✗
 Ecco the Dolphin II (Japan)                                                                                     -      -     -
 El.Viento (Japan)                                                                                               -      -     -
@@ -685,8 +703,8 @@ Escape from Mars Starring Taz (USA) (Beta) (1994-06-18)                         
 Escape from Mars Starring Taz (USA) (Beta) (1994-06-20)                                                         ✗      ✗     ✗
 Eternal Champions (Europe)                                                                                      -      -     -
 Eternal Champions (Europe) (Beta)                                                                               ✗      -     -
-Eternal Champions (Japan, Korea) (Ja)                                                                           ✗      ✗     ✗
-Eternal Champions (Japan, Korea) (Ja) (Beta) (1993-11-17)                                                       ✗      ✗     ✗
+Eternal Champions (Japan, Korea) (En)                                                                           ✗      ✗     ✗
+Eternal Champions (Japan, Korea) (En) (Beta) (1993-11-17)                                                       ✗      ✗     ✗
 Eternal Champions (USA)                                                                                         -      -     -
 Europa Sensen (Japan)                                                                                           -      -     -
 European Club Soccer (Europe)                                                                                   -      -     -
@@ -721,31 +739,31 @@ F1 - World Championship Edition (Europe)                                        
 F1 - World Championship Edition (Europe) (Beta)                                                                 ✗      ✗     ✗
 F1 - World Championship Edition (USA) (Proto 1)                                                                 ✗      ✗     ✗
 F1 - World Championship Edition (USA) (Proto 2)                                                                 ✗      ✗     ✗
-F1 Circus MD (Japan)                                                                                            -      -     -
+F1 Circus MD (Japan) (En)                                                                                       ✗      ✗     ✗
 F1 Circus MD (USA) (Proto) (1991-12-28) (Sega Channel)                                                          ✗      ✗     ✗
-FIFA 2003 (Unknown) (Es) (Unl) (Pirate)                                                                         ✗      ✗     ✗
+FIFA 2003 (Unknown) (Es) (Pirate)                                                                               ✗      ✗     ✗
 FIFA 98 - Road to World Cup (Europe) (En,Fr,Es,It,Sv)                                                           -      -     -
 FIFA International Soccer (Japan) (En,Ja)                                                                       -      -     -
 FIFA International Soccer (USA, Europe) (En,Fr,De,Es)                                                           -      -     -
-FIFA Soccer 2000 (Russia) (En,Fr,De,Es,It,Sv) (Unl) (Pirate)                                                    ✗      ✗     ✗
+FIFA Soccer 2000 (Russia) (En,Fr,De,Es,It,Sv) (Pirate)                                                          ✗      ✗     ✗
 FIFA Soccer 95 (Korea) (En,Fr,De,Es)                                                                            -      -     -
 FIFA Soccer 95 (USA, Europe) (En,Fr,De,Es)                                                                      -      -     -
 FIFA Soccer 96 (USA, Europe) (En,Fr,De,Es,It,Sv)                                                                -      -     -
 FIFA Soccer 97 (USA, Europe) (En,Fr,De,Es,It,Sv)                                                                -      -     -
-FIFA Soccer 99 (Unknown) (Unl) (Pirate)                                                                         ✗      ✗     ✗
+FIFA Soccer 99 (Unknown) (Pirate)                                                                               ✗      ✗     ✗
 FX Unit Yuki - The Henshin Engine (World) (Aftermarket) (Unl)                                                   ✗      ✗     ✗
-FZ Senki Axis ~ Final Zone (Japan, USA) (En)                                                                    ✗      ✗     ✗
+FZ Senki Axis ~ Final Zone (Japan, USA) (En)                                                                    -      ✗     ✗
 Faery Tale Adventure, The (USA, Europe)                                                                         -      -     -
 Family Feud (USA)                                                                                               -      -     -
-Fantasia (USA, Europe)                                                                                          ✗      ✗     ✗
+Fantasia (USA, Europe)                                                                                          -      ✗     ✗
 Fantasia (World) (1991-06-17) (Sega Channel)                                                                    ✗      ✗     ✗
 Fantasia (World) (Rev A)                                                                                        -      -     -
 Fantastic Dizzy (USA, Europe) (Beta)                                                                            ✗      ✗     ✗
 Fantastic Dizzy (USA, Europe) (En,Fr,De,Es,It)                                                                  -      -     -
 Fastest 1 (Japan)                                                                                               -      -     -
-Fatal Fury (Europe, Korea) (En)                                                                                 ✗      ✗     ✗
+Fatal Fury (Europe, Korea) (En)                                                                                 -      ✗     ✗
 Fatal Fury (USA)                                                                                                -      -     -
-Fatal Fury 2 (USA, Korea) (En)                                                                                  ✗      ✗     ✗
+Fatal Fury 2 (USA, Korea) (En)                                                                                  -      ✗     ✗
 Fatal Labyrinth (USA, Europe)                                                                                   -      -     -
 Fatal Rewind (USA, Europe)                                                                                      -      -     -
 Fatal Rewind (USA, Europe) (Rev 1)                                                                              ✗      ✗     ✗
@@ -758,7 +776,7 @@ Ferrari Grand Prix Challenge (USA)                                              
 Fever Pitch Soccer (Europe) (En,Fr,De,Es,It)                                                                    -      -     -
 Fido Dido (USA) (Proto)                                                                                         ✗      -     -
 Fight for Vengeance (World) (Demo) (Aftermarket) (Unl)                                                          ✗      ✗     ✗
-Fighting Masters (Japan, Korea) (Ja)                                                                            ✗      ✗     ✗
+Fighting Masters (Japan, Korea) (En)                                                                            ✗      ✗     ✗
 Fighting Masters (USA)                                                                                          -      -     -
 Final Blow (Japan) (En)                                                                                         -      -     -
 Final Blow (Japan) (En) (Beta) (1990-01-16)                                                                     ✗      ✗     ✗
@@ -772,7 +790,7 @@ Flashback (Japan)                                                               
 Flashback - The Quest for Identity (USA) (En,Fr)                                                                -      ✗     ✗
 Flicky (USA, Europe)                                                                                            -      -     -
 Flink (Europe) (En,Fr,De)                                                                                       ✗      ✗     ✗
-Flink (Europe) (En,Fr,De) (Beta)                                                                                ✗      ✗     ✗
+Flink (Europe) (En,Fr,De) (Beta)                                                                                -      ✗     ✗
 Flintstones, The (Europe)                                                                                       -      -     -
 Flintstones, The (Japan)                                                                                        -      -     -
 Flintstones, The (USA)                                                                                          -      -     -
@@ -782,6 +800,7 @@ Foreman for Real (World)                                                        
 Forgotten Worlds (World)                                                                                        -      -     -
 Forgotten Worlds (World) (Rev A)                                                                                -      -     -
 Formula One (USA)                                                                                               -      -     -
+Foxy Land (World) (Demo) (Aftermarket) (Unl)                                                                    ✗      ✗     ✗
 Frank Thomas Big Hurt Baseball (USA, Europe)                                                                    -      -     -
 Frog Dude (Europe) (Proto)                                                                                      ✗      ✗     ✗
 Frogger (USA)                                                                                                   -      -     -
@@ -792,9 +811,9 @@ Fun 'n' Games (USA)                                                             
 Fun Car Rally (USA) (Beta)                                                                                      ✗      ✗     ✗
 Funny World _ Balloon Boy (USA) (Unl)                                                                           -      -     -
 Fushigi no Umi no Nadia (Japan)                                                                                 -      -     -
-Futbol Argentino (Argentina) (Unl) (Pirate)                                                                     ✗      ✗     ✗
-Futbol Argentino 96 (Argentina) (Unl) (Pirate)                                                                  ✗      ✗     ✗
-Futbol Argentino 98 - Pasion de Multitudes (Argentina) (Unl) (Pirate)                                           ✗      ✗     ✗
+Futbol Argentino (Argentina) (Pirate)                                                                           ✗      ✗     ✗
+Futbol Argentino 96 (Argentina) (Pirate)                                                                        ✗      ✗     ✗
+Futbol Argentino 98 - Pasion de Multitudes (Argentina) (Pirate)                                                 ✗      ✗     ✗
 G-LOC - Air Battle (World)                                                                                      -      -     -
 G-LOC - Air Battle (World) (1992-11-23) (Sega Channel)                                                          ✗      ✗     ✗
 G-LOC - Air Battle (World) (Beta)                                                                               -      -     -
@@ -819,7 +838,7 @@ Garry Kitchen's Super Battletank - War in the Gulf (USA)                        
 Gauntlet (Japan) (En,Ja)                                                                                        -      -     -
 Gauntlet (Japan) (En,Ja) (Beta)                                                                                 ✗      ✗     ✗
 Gauntlet IV (USA, Europe) (Beta)                                                                                -      -     -
-Gauntlet IV (USA, Europe) (En,Ja)                                                                               ✗      ✗     ✗
+Gauntlet IV (USA, Europe) (En,Ja)                                                                               -      ✗     ✗
 Gemfire (USA)                                                                                                   -      -     -
 General Chaos (USA, Europe)                                                                                     -      -     -
 General Chaos Daikonsen (Japan)                                                                                 -      -     -
@@ -839,6 +858,7 @@ Gods (Europe)                                                                   
 Gods (Japan)                                                                                                    -      -     -
 Gods (USA)                                                                                                      -      -     -
 Gods (USA) (Beta)                                                                                               -      -     -
+Gold Rush (World) (Aftermarket) (Homebrew)                                                                      ✗      ✗     ✗
 Golden Axe (World)                                                                                              -      -     -
 Golden Axe (World) (Beta) (1989-10-14)                                                                          ✗      ✗     ✗
 Golden Axe (World) (Beta) (1989-11-22)                                                                          ✗      ✗     ✗
@@ -851,10 +871,12 @@ Golden Axe III (Japan) (En)                                                     
 Goofy's Hysterical History Tour (USA)                                                                           -      -     -
 Gouketsuji Ichizoku (Japan)                                                                                     -      -     -
 Granada (Japan, USA) (En)                                                                                       ✗      ✗     ✗
-Granada (Japan, USA) (En) (Rev A)                                                                               ✗      ✗     ✗
+Granada (Japan, USA) (En) (Rev A)                                                                               -      ✗     ✗
 Granada (Japan, USA) (En) (Rev A) (Beta)                                                                        ✗      ✗     ✗
 GrandSlam - The Tennis Tournament '92 (Japan)                                                                   -      -     -
 GrandSlam - The Tennis Tournament (Europe)                                                                      -      -     -
+Gravibots (World) (Aftermarket) (Homebrew)                                                                      ✗      ✗     ✗
+Gravibots (World) (DMA-SAFE) (Aftermarket) (Homebrew)                                                           ✗      ✗     ✗
 Great Circus Mystery - Mickey to Minnie Magical Adventure 2 (Japan)                                             -      -     -
 Great Circus Mystery Starring Mickey _ Minnie, The (USA)                                                        -      -     -
 Great Waldo Search, The (USA)                                                                                   -      -     -
@@ -976,7 +998,7 @@ Jim Power - The Lost Dimension in 3D (World) (Aftermarket) (Unl)                
 Jimmy White's Whirlwind Snooker (Europe)                                                                        -      -     -
 Jiu Ji Ma Jiang II - Ye Yan Bian (Taiwan) (Unl)                                                                 ✗      ✗     ✗
 Joe Montana Football (World)                                                                                    -      -     -
-Joe Montana II - Sports Talk Football (World) (Rev A)                                                           ✗      ✗     ✗
+Joe Montana II - Sports Talk Football (World) (Rev A)                                                           -      ✗     ✗
 Joe Montana II Sports Talk Football (World)                                                                     -      -     -
 Joe _ Mac (USA)                                                                                                 -      -     -
 John Madden Football '92 (USA, Europe)                                                                          -      -     -
@@ -993,7 +1015,7 @@ Journey from Darkness - Strider Returns (USA)                                   
 JuJu Densetsu (Japan) (En)                                                                                      -      -     -
 Judge Dredd (World)                                                                                             -      -     -
 Judge Dredd (World) (Beta)                                                                                      ✗      ✗     ✗
-Junction (Japan, USA) (En)                                                                                      ✗      ✗     ✗
+Junction (Japan, USA) (En)                                                                                      -      ✗     ✗
 Jungle Book, The (Europe)                                                                                       -      -     -
 Jungle Book, The (Europe) (Beta)                                                                                ✗      ✗     ✗
 Jungle Book, The (USA)                                                                                          -      -     -
@@ -1028,7 +1050,7 @@ Ka-Ge-Ki (Japan)                                                                
 Ka-Ge-Ki - Fists of Steel (USA)                                                                                 -      -     -
 Kawasaki Superbike Challenge (USA, Europe)                                                                      -      -     -
 Kawasaki Superbike Challenge (USA, Europe) (Beta)                                                               ✗      ✗     ✗
-Kick Boxing, The (Japan, Korea) (Ja)                                                                            ✗      ✗     ✗
+Kick Boxing, The (Japan, Korea) (En)                                                                            ✗      ✗     ✗
 Kick Off 3 - European Challenge (Europe) (Beta)                                                                 ✗      ✗     ✗
 Kick Off 3 - European Challenge (Europe) (En,Fr,De,Es,It)                                                       ✗      ✗     ✗
 Kid Chameleon (USA, Europe)                                                                                     -      -     -
@@ -1062,6 +1084,7 @@ Kyuukyoku Tiger (Japan)                                                         
 L'Abbaye des Morts (World) (Aftermarket) (Unl)                                                                  -      -     -
 LHX Attack Chopper (Japan)                                                                                      -      -     -
 LHX Attack Chopper (USA, Europe)                                                                                -      -     -
+LIZARDPAINT (World) (v0.3) (Aftermarket) (Homebrew)                                                             ✗      ✗     ✗
 La Russa Baseball 95 (USA, Australia)                                                                           -      -     -
 Lakers versus Celtics and the NBA Playoffs (USA, Europe)                                                        -      -     -
 Lakers versus Celtics and the NBA Playoffs (USA, Europe) (Beta)                                                 ✗      ✗     ✗
@@ -1081,8 +1104,8 @@ Langrisser (Japan)                                                              
 Langrisser II (Japan)                                                                                           -      -     -
 Langrisser II (Japan) (Rev A)                                                                                   -      -     -
 Langrisser II (Japan) (Rev B)                                                                                   -      -     -
-Last Action Hero (USA, Europe)                                                                                  -      -     -
-Last Battle (USA, Europe, Korea) (En)                                                                           ✗      ✗     ✗
+Last Action Hero (USA)                                                                                          ✗      ✗     ✗
+Last Battle (USA, Europe, Korea) (En)                                                                           -      ✗     ✗
 Lawnmower Man, The (USA, Europe)                                                                                -      -     -
 Legend of Galahad, The ~ Galahad (USA, Europe)                                                                  -      -     -
 Legend of Wukong (World) (Aftermarket) (Unl)                                                                    ✗      ✗     ✗
@@ -1090,7 +1113,7 @@ Legende de Thor, La (France)                                                    
 Legende de Thor, La (France) (Mega Drive Mini)                                                                  ✗      ✗     ✗
 Lemmings (Europe)                                                                                               -      -     -
 Lemmings (Japan, Korea) (En)                                                                                    ✗      ✗     ✗
-Lemmings (USA)                                                                                                  ✗      ✗     ✗
+Lemmings (USA)                                                                                                  -      ✗     ✗
 Lemmings 2 - The Tribes (Europe)                                                                                -      -     -
 Lemmings 2 - The Tribes (USA)                                                                                   -      -     -
 Lethal Enforcers (Europe)                                                                                       -      -     -
@@ -1131,6 +1154,7 @@ Lotus II (USA, Europe) (Beta)                                                   
 Lotus Turbo Challenge (USA, Europe)                                                                             -      -     -
 Lufia _ the Fortress of Doom (USA) (Proto)                                                                      ✗      ✗     ✗
 M-1 Abrams Battle Tank (USA, Europe)                                                                            -      -     -
+MD Soft Checker (World) (v0.30) (Unl)                                                                           ✗      ✗     ✗
 MK5 - Mortal Kombat Mythologies - Sub-Zero (Taiwan) (En) (Unl)                                                  ✗      ✗     ✗
 MLBPA Baseball (USA)                                                                                            -      -     -
 MUSHA - Metallic Uniframe Super Hybrid Armor (USA)                                                              -      -     -
@@ -1206,7 +1230,7 @@ Mega Games 6 (Europe)                                                           
 Mega Games 6 Vol. 2 (Europe)                                                                                    -      -     -
 Mega Games I (Europe)                                                                                           -      -     -
 Mega Man - The Wily Wars (Europe)                                                                               -      -     -
-Mega Man - The Wily Wars (USA) (Aftermarket) (Unl)                                                              ✗      ✗     ✗
+Mega Man - The Wily Wars (USA) (Aftermarket) (Unl)                                                              -      ✗     ✗
 Mega Man - The Wily Wars (USA) (Genesis Mini)                                                                   -      -     -
 Mega Marble World (World) (Aftermarket) (Unl)                                                                   ✗      ✗     ✗
 Mega SWIV (Europe)                                                                                              -      -     -
@@ -1275,6 +1299,7 @@ Mighty Morphin Power Rangers - The Movie (USA) (Beta) (1995-07-22)              
 Mighty Morphin Power Rangers - The Movie (USA) (Beta) (1995-07-24)                                              ✗      ✗     ✗
 Mike Ditka Power Football (USA, Europe) (Unl)                                                                   -      -     -
 Mike Ditka Power Football (USA, Europe) (Unl) (Alt)                                                             ✗      ✗     ✗
+Mikeyeldey - The Album (World) (Aftermarket) (Homebrew)                                                         ✗      ✗     ✗
 Minato no Traysia (Japan)                                                                                       -      -     -
 Miniplanets (World) (Rev 2) (Aftermarket) (Unl)                                                                 ✗      ✗     ✗
 Miniplanets (World) (Rev 3) (Aftermarket) (Unl)                                                                 ✗      ✗     ✗
@@ -1286,7 +1311,7 @@ Mondu's Fight Palace (USA) (Beta) (1990-07-03)                                  
 Monopoly (USA)                                                                                                  -      -     -
 Monopoly (USA) (Beta)                                                                                           -      -     -
 Monster World IV (Japan)                                                                                        -      -     -
-Monster World IV (USA) (Genesis Mini)                                                                           ✗      ✗     ✗
+Monster World IV (USA) (Genesis Mini)                                                                           -      ✗     ✗
 Monster World IV (USA, Europe) (En,Ja) (Virtual Console)                                                        -      -     -
 Mortal Kombat (USA, Europe) (Rev A) (Beta)                                                                      ✗      ✗     ✗
 Mortal Kombat (World)                                                                                           -      -     -
@@ -1305,7 +1330,7 @@ Muhammad Ali Heavyweight Boxing (USA) (Beta 1)                                  
 Muhammad Ali Heavyweight Boxing (USA) (Beta 2)                                                                  ✗      ✗     ✗
 Mulan (Taiwan) (Unl)                                                                                            ✗      ✗     ✗
 Musha Aleste - Full Metal Fighter Ellinor (Japan)                                                               -      -     -
-Musha Aleste - Full Metal Fighter Ellinor (Japan) (Switch Online)                                               ✗      ✗     ✗
+Musha Aleste - Full Metal Fighter Ellinor (Japan) (Switch Online)                                               -      ✗     ✗
 Mutant League Football (Japan)                                                                                  -      -     -
 Mutant League Football (USA, Europe)                                                                            -      -     -
 Mutant League Hockey (USA, Europe)                                                                              -      -     -
@@ -1395,7 +1420,7 @@ NFL Sports Talk Football '93 Starring Joe Montana (USA, Europe)                 
 NFL Sports Talk Football '93 Starring Joe Montana (USA, Europe) (Rev A)                                         -      -     -
 NHK Taiga Drama - Taiheiki (Japan)                                                                              -      -     -
 NHL '94 (USA, Europe)                                                                                           -      -     -
-NHL '94 (USA, Europe) (Re-release)                                                                              ✗      ✗     ✗
+NHL '94 (USA, Europe) (Re-release)                                                                              -      ✗     ✗
 NHL 95 (USA, Europe)                                                                                            -      -     -
 NHL 96 (USA, Europe)                                                                                            -      -     -
 NHL 97 (USA, Europe)                                                                                            -      -     -
@@ -1449,6 +1474,7 @@ Nobunaga's Ambition (USA)                                                       
 Normy's Beach Babe-O-Rama (USA, Europe)                                                                         -      -     -
 Nuclear Rush (USA) (Proto) (1994-08-06)                                                                         ✗      ✗     ✗
 Nyuushi Chokuzen Check - Nanmon Kimon Kiki Kaikai (Japan) (Sega Channel)                                        ✗      -     ✗
+Odeio Carros (World) (Aftermarket) (Homebrew)                                                                   ✗      ✗     ✗
 Oh Mummy Genesis (World) (Aftermarket) (Unl)                                                                    ✗      ✗     ✗
 Old Towers (World) (Aftermarket) (Unl)                                                                          ✗      ✗     ✗
 Old Towers (World) (v1.1) (Aftermarket) (Unl)                                                                   ✗      ✗     ✗
@@ -1457,12 +1483,12 @@ Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)                                 
 Olympic Gold (Japan, USA) (En,Fr,De,Es,It,Nl,Pt,Sv)                                                             -      ✗     ✗
 Olympic Gold (Japan, USA, Korea) (En,Fr,De,Es,It,Nl,Pt,Sv) (Rev A)                                              -      ✗     ✗
 Olympic Summer Games (Europe)                                                                                   -      ✗     ✗
-Olympic Summer Games (USA)                                                                                      ✗      ✗     ✗
+Olympic Summer Games (USA)                                                                                      -      ✗     ✗
 On Dal Jang Goon (Korea)                                                                                        -      -     -
 Onslaught (USA, Europe) (Unl)                                                                                   -      -     -
 Ooze, The (Europe)                                                                                              -      -     -
 Ooze, The (Europe) (Beta) (1995-07-28)                                                                          ✗      ✗     ✗
-Ooze, The (Japan, USA) (En)                                                                                     ✗      ✗     ✗
+Ooze, The (Japan, USA) (En)                                                                                     -      ✗     ✗
 Ooze, The (USA) (Beta) (1995-06-15)                                                                             ✗      ✗     ✗
 Ooze, The (USA) (Beta) (1995-06-19)                                                                             ✗      ✗     ✗
 Ooze, The (USA) (Beta) (1995-06-22)                                                                             ✗      ✗     ✗
@@ -1531,14 +1557,14 @@ Pebble Beach Golf Links (USA)                                                   
 Pebble Beach Golf Links (USA) (Rev A) (1994-02-14) (Sega Channel)                                               ✗      ✗     ✗
 Pele II - World Tournament Soccer (USA, Europe)                                                                 -      -     -
 Pele! (USA, Europe)                                                                                             -      -     -
-Pele! (USA, Europe) (Sample)                                                                                    ✗      ✗     ✗
+Pele! (USA, Europe) (Sample)                                                                                    -      ✗     ✗
 Pepenga Pengo (Japan)                                                                                           -      -     -
 Perlin _ Pinpin - The Robin Tower - Back to School (World) (Demo 1) (Aftermarket) (Unl)                         ✗      ✗     ✗
 Perlin _ Pinpin - The Robin Tower - Back to School (World) (Demo 2) (Aftermarket) (Unl)                         ✗      ✗     ✗
 Perlin _ Pinpin - The Robin Tower - Case Closed [somehow] (World) (Demo) (Aftermarket) (Unl)                    ✗      ✗     ✗
 Pete Sampras Tennis (Europe) (Rev 2) (MDSTEE13)                                                                 ✗      ✗     ✗
 Pete Sampras Tennis (USA, Europe) (MDST6636) (J-Cart)                                                           ✗      ✗     ✗
-Pete Sampras Tennis (USA, Europe) (Rev 1) (MDST17FF) (J-Cart)                                                   ✗      ✗     ✗
+Pete Sampras Tennis (USA, Europe) (Rev 1) (MDST17FF) (J-Cart)                                                   -      ✗     ✗
 Phantasy Star - Sennenki no Owari ni (Japan)                                                                    -      -     -
 Phantasy Star - Sennenki no Owari ni (Japan) (Mega Drive Mini)                                                  ✗      ✗     ✗
 Phantasy Star - Sennenki no Owari ni (Japan) (PC Rerelease)                                                     ✗      ✗     ✗
@@ -1548,7 +1574,7 @@ Phantasy Star II (USA, Europe)                                                  
 Phantasy Star II (USA, Europe) (Beta) (1989-07-28)                                                              ✗      ✗     ✗
 Phantasy Star II (USA, Europe) (Rev A)                                                                          -      -     -
 Phantasy Star II (USA, Europe) (Rev A) (PC Rerelease)                                                           ✗      ✗     ✗
-Phantasy Star II (USA, Europe) (Rev A) (Virtual Console)                                                        ✗      ✗     ✗
+Phantasy Star II (USA, Europe) (Rev A) (Virtual Console)                                                        -      ✗     ✗
 Phantasy Star II - Amia's Adventure (Japan) (SegaNet)                                                           ✗      -     -
 Phantasy Star II - Anne's Adventure (Japan) (SegaNet)                                                           ✗      -     -
 Phantasy Star II - Huey's Adventure (Japan) (SegaNet)                                                           ✗      -     -
@@ -1560,7 +1586,7 @@ Phantasy Star II - Shilka's Adventure (Japan) (SegaNet)                         
 Phantasy Star II - Yushis's Adventure (Japan) (SegaNet)                                                         ✗      -     -
 Phantasy Star III - Generations of Doom (Brazil) (En)                                                           ✗      ✗     ✗
 Phantasy Star III - Generations of Doom (USA, Europe) (PC Rerelease)                                            ✗      ✗     ✗
-Phantasy Star III - Generations of Doom (USA, Europe, Korea) (En)                                               ✗      ✗     ✗
+Phantasy Star III - Generations of Doom (USA, Europe, Korea) (En)                                               -      ✗     ✗
 Phantasy Star IV (Europe)                                                                                       -      -     -
 Phantasy Star IV (USA)                                                                                          -      -     -
 Phantasy Star IV (USA) (Beta) (1994-05-30)                                                                      ✗      ✗     ✗
@@ -1580,7 +1606,7 @@ Pier Solar and the Great Architects (World) (Beta) (Aftermarket) (Unl)          
 Pier Solar and the Great Architects (World) (En,Es,Pt) (Reprint B) (Aftermarket) (Unl)                          ✗      -     ✗
 Pier Solar and the Great Architects (World) (En,Fr,De) (Reprint A) (Aftermarket) (Unl)                          ✗      ✗     ✗
 Pier Solar and the Great Architects (World) (En,Fr,De) (Reprint) (Aftermarket) (Unl)                            ✗      ✗     ✗
-Pier Solar and the Great Architects (World) (En,Fr,Es) (Aftermarket) (Unl)                                      ✗      ✗     ✗
+Pier Solar and the Great Architects (World) (En,Fr,Es) (Aftermarket) (Unl)                                      -      ✗     ✗
 Pink Goes to Hollywood (USA, Europe)                                                                            -      -     -
 Pink Goes to Hollywood (USA, Europe) (Beta)                                                                     ✗      ✗     ✗
 Pinocchio (Europe)                                                                                              -      -     -
@@ -1613,7 +1639,7 @@ Predator 2 (USA, Europe)                                                        
 Premier Manager (Europe)                                                                                        -      -     -
 Premier Manager 97 (Europe)                                                                                     -      -     -
 Primal Rage (USA) (Demo) (1995-08-01) (Sega Channel) (Test Drive Version)                                       ✗      ✗     ✗
-Primal Rage (USA) (Demo) (1995-08-25) (Sega Channel) (Rental Version)                                           ✗      ✗     ✗
+Primal Rage (USA) (Demo) (1995-08-25) (Sega Channel) (Rental Version)                                           -      ✗     ✗
 Primal Rage (USA, Europe)                                                                                       -      -     -
 Primal Rage Showdown (USA) (Demo) (1995-08-26) (Sega Channel)                                                   ✗      ✗     ✗
 Prime Time NFL Starring Deion Sanders (USA)                                                                     -      -     -
@@ -1622,6 +1648,7 @@ Prince of Persia (Europe) (Beta 1)                                              
 Prince of Persia (Europe) (Beta 2)                                                                              ✗      ✗     ✗
 Prince of Persia (USA)                                                                                          -      -     -
 Prince of Persia 2 (Europe) (Proto) (1995-02-20)                                                                ✗      ✗     ✗
+Pringles Game (World) (Aftermarket) (Homebrew)                                                                  ✗      ✗     ✗
 Pro Moves Soccer (USA)                                                                                          -      -     -
 Pro Quarterback (USA)                                                                                           -      -     -
 Pro Striker - Final Stage (Japan)                                                                               -      -     -
@@ -1651,6 +1678,7 @@ Puyo Puyo Tsuu (World) (Ja) (Rev A) (Virtual Console)                           
 Puzzle _ Action - Ichidanto-R (Japan)                                                                           -      -     -
 Puzzle _ Action - Ichidanto-R (World) (Ja) (Sega Ages)                                                          ✗      ✗     ✗
 Puzzle _ Action - Tanto-R (Japan)                                                                               -      -     -
+Puzzli (World) (v1.1) (Aftermarket) (Homebrew)                                                                  ✗      ✗     ✗
 Pyramid Magic (Japan) (Game no Kanzume Otokuyou)                                                                ✗      ✗     ✗
 Pyramid Magic (Japan) (SegaNet)                                                                                 ✗      -     -
 Pyramid Magic II (Japan) (SegaNet)                                                                              ✗      -     -
@@ -1658,7 +1686,7 @@ Pyramid Magic III (Japan) (SegaNet)                                             
 Pyramid Magic Special (Japan) (SegaNet)                                                                         ✗      -     -
 QuackShot Starring Donald Duck ~ QuackShot - I Love Donald Duck - Guruzia Ou no Hihou (World)                   -      -     -
 QuackShot Starring Donald Duck ~ QuackShot - I Love Donald Duck - Guruzia Ou no Hihou (World) (Rev A)           -      -     -
-QuackShot Starring Donald Duck ~ QuackShot - I Love Donald Duck - Guruzia Ou no Hihou (World) (Rev A) (Alt)     ✗      ✗     ✗
+QuackShot Starring Donald Duck ~ QuackShot - I Love Donald Duck - Guruzia Ou no Hihou (World) (Rev A) (Alt)     -      ✗     ✗
 Quad Challenge (USA)                                                                                            -      -     -
 Queen of Poker Club (Taiwan) (Unl)                                                                              ✗      ✗     ✗
 R.B.I. Baseball '93 (USA)                                                                                       -      -     -
@@ -1677,7 +1705,7 @@ Radical Rex (USA)                                                               
 Raiden Densetsu ~ Raiden Trad (Japan, USA) (En)                                                                 ✗      ✗     ✗
 Rainbow Islands Extra (Japan)                                                                                   -      -     -
 Rambo III (Japan) (En)                                                                                          -      -     -
-Rambo III (USA, Europe, Korea) (En) (Rev A)                                                                     ✗      ✗     ✗
+Rambo III (USA, Europe, Korea) (En) (Rev A)                                                                     -      ✗     ✗
 Rampart (Japan, Korea) (Ja)                                                                                     ✗      ✗     ✗
 Rampart (USA)                                                                                                   -      -     -
 Ranger X (Europe)                                                                                               -      -     -
@@ -1686,6 +1714,8 @@ Ransei no Hasha (Japan)                                                         
 Rastan Saga II (Japan)                                                                                          -      -     -
 Rastan Saga II (USA)                                                                                            -      -     -
 Red Zone (USA, Europe)                                                                                          -      -     -
+Reknum (World) (Demo 1) (Aftermarket) (Unl)                                                                     ✗      ✗     ✗
+Reknum (World) (Demo 2) (Aftermarket) (Unl)                                                                     ✗      ✗     ✗
 Ren _ Stimpy Show Presents, The - Stimpy's Invention (Europe)                                                   -      -     -
 Ren _ Stimpy Show Presents, The - Stimpy's Invention (Europe) (1993-12-09) (Sega Channel)                       ✗      ✗     ✗
 Ren _ Stimpy Show Presents, The - Stimpy's Invention (USA)                                                      -      -     -
@@ -1706,6 +1736,8 @@ Richard Scarry's Busytown (USA) (Beta) (1994-08-17)                             
 Richard Scarry's Busytown (USA) (Beta) (1994-08-25)                                                             ✗      ✗     ✗
 Richard Scarry's Busytown (USA) (Beta) (1994-08-26)                                                             ✗      ✗     ✗
 Richard Scarry's Busytown (USA) (Beta) (1994-08-26) (Alt)                                                       ✗      ✗     ✗
+Rick Dangerous (Unknown)                                                                                        ✗      ✗     ✗
+Rick Dangerous 2 (Unknown) (v1.1)                                                                               ✗      ✗     ✗
 Riddle Wired (Japan) (SegaNet)                                                                                  ✗      -     -
 Rings of Power (USA, Europe)                                                                                    -      -     -
 Rise of the Robots (Europe)                                                                                     -      -     -
@@ -1722,7 +1754,7 @@ Road Rash 3 (USA, Europe)                                                       
 Road Rash 3 (USA, Europe) (Beta) (1994-11-19)                                                                   ✗      ✗     ✗
 Road Rash II (Japan)                                                                                            -      -     -
 Road Rash II (Japan) (Mega Drive Mini)                                                                          ✗      ✗     ✗
-Road Rash II (USA) (Genesis Mini)                                                                               ✗      ✗     ✗
+Road Rash II (USA) (Genesis Mini)                                                                               -      ✗     ✗
 Road Rash II (USA, Europe) (RR205)                                                                              -      -     -
 Road Rash II (USA, Europe) (RR206)                                                                              -      -     -
 Road Riot 4WD (USA) (Proto)                                                                                     ✗      ✗     ✗
@@ -1754,14 +1786,18 @@ Rolling Thunder 3 (USA)                                                         
 Rolo to the Rescue (USA, Europe)                                                                                -      -     -
 Romance of the Three Kingdoms II (USA)                                                                          -      -     -
 Romance of the Three Kingdoms III - Dragon of Destiny (USA)                                                     -      -     -
-Ronaldinho 98 (Unknown) (Pt) (Unl) (Pirate)                                                                     ✗      ✗     ✗
+Ronaldinho 98 (Unknown) (Pt) (Pirate)                                                                           ✗      ✗     ✗
 Royal Blood (Japan)                                                                                             -      -     -
 Rugby World Cup 95 (USA, Europe) (En,Fr,It)                                                                     -      -     -
 Runark (Japan, Korea) (En)                                                                                      ✗      ✗     ✗
+Runes (World) (Aftermarket) (Homebrew)                                                                          ✗      ✗     ✗
 Ryuuko no Ken (Japan)                                                                                           -      -     -
 SD Valis (Japan)                                                                                                -      -     -
-ST II' Turbo (USA) (Proto) (Unl) (Pirate)                                                                       ✗      ✗     ✗
+SEGA Master System Brawl (World) (Aftermarket) (Homebrew)                                                       ✗      ✗     ✗
+ST II' Turbo (USA) (Proto) (Pirate)                                                                             ✗      ✗     ✗
 Sacred Line Genesis (World) (1.1.9) (Aftermarket) (Unl)                                                         ✗      ✗     ✗
+Sacred Line Genesis (World) (Aftermarket) (Unl)                                                                 ✗      ✗     ✗
+Sacred Line Zero (World) (Proto) (Aftermarket) (Unl)                                                            ✗      ✗     ✗
 Sagaia (USA)                                                                                                    -      -     -
 Saint Sword (Japan)                                                                                             -      -     -
 Saint Sword (USA)                                                                                               -      -     -
@@ -1829,14 +1865,16 @@ Shining Force II (Europe)                                                       
 Shining Force II (USA)                                                                                          -      -     -
 Shining Force II (USA) (Beta) (1994-04-04)                                                                      ✗      ✗     ✗
 Shining Force II (USA) (Beta) (1994-06-07)                                                                      ✗      ✗     ✗
+Shining Force II (USA, Europe) (Switch Online)                                                                  ✗      ✗     ✗
 Shining Force II - Inishie no Fuuin (Japan)                                                                     -      -     -
+Shining Force II - Inishie no Fuuin (Japan) (Switch Online)                                                     ✗      ✗     ✗
 Shining and the Darkness (Japan)                                                                                -      -     -
-Shining in the Darkness (Brazil) (En)                                                                           ✗      ✗     ✗
+Shining in the Darkness (Brazil) (En)                                                                           -      ✗     ✗
 Shining in the Darkness (USA, Europe)                                                                           -      -     -
 Shinobi III - Return of the Ninja Master (Europe)                                                               -      -     -
 Shinobi III - Return of the Ninja Master (USA)                                                                  -      -     -
 Shinobi III - Return of the Ninja Master (USA) (Beta) (1993-06-29)                                              ✗      ✗     ✗
-Shinobi III - Return of the Ninja Master (USA) (Genesis Mini)                                                   ✗      ✗     ✗
+Shinobi III - Return of the Ninja Master (USA) (Genesis Mini)                                                   -      ✗     ✗
 Ship (Unknown) (Proto) (GEMS 2.5)                                                                               ✗      ✗     ✗
 Ship (Unknown) (Proto) (Visitor)                                                                                ✗      ✗     ✗
 Shiten Myouou (Japan)                                                                                           -      -     -
@@ -1883,9 +1921,9 @@ Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-08-30)                    
 Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-08-31)                                                    ✗      ✗     ✗
 Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-09-04)                                                    ✗      ✗     ✗
 Sonic 3D Blast - Director's Cut (World) (Unl)                                                                   -      -     -
-Sonic 3D Blast ~ Sonic 3D Flickies' Island (USA, Europe, Korea) (En)                                            ✗      ✗     ✗
+Sonic 3D Blast ~ Sonic 3D Flickies' Island (USA, Europe, Korea) (En)                                            -      ✗     ✗
 Sonic Compilation (Europe)                                                                                      -      -     -
-Sonic Compilation ~ Sonic Classics (USA, Europe, Korea) (En) (Rev A)                                            ✗      ✗     ✗
+Sonic Compilation ~ Sonic Classics (USA, Europe, Korea) (En) (Rev A)                                            -      ✗     ✗
 Sonic Crackers (World) (Proto) (1994-07-xx)                                                                     ✗      ✗     ✗
 Sonic Eraser (Japan) (SegaNet)                                                                                  ✗      -     -
 Sonic Jam 6 (Taiwan) (En) (Unl)                                                                                 ✗      ✗     ✗
@@ -1897,12 +1935,11 @@ Sonic Spinball (USA)                                                            
 Sonic Spinball (USA) (1993-09-22) (Sega Channel)                                                                ✗      ✗     ✗
 Sonic Spinball (USA) (Beta) (August, 1993)                                                                      ✗      ✗     ✗
 Sonic Spinball (USA) (Beta) (October, 1993)                                                                     ✗      ✗     ✗
-Sonic The Hedgehog (Japan) (En) (Virtual Console)                                                               -      ✗     -
 Sonic The Hedgehog (Japan, Europe, Korea) (En)                                                                  ✗      ✗     ✗
 Sonic The Hedgehog (USA, Europe)                                                                                -      ✗     -
 Sonic The Hedgehog (USA, Europe) (Sonic Classic Collection)                                                     ✗      ✗     ✗
 Sonic The Hedgehog (Unknown) (Beta)                                                                             ✗      ✗     ✗
-Sonic The Hedgehog 2 (USA, Europe) (Rev A) (Virtual Console)                                                    ✗      ✗     ✗
+Sonic The Hedgehog (World) (Sonic Mega Collection)                                                              ✗      ✗     ✗
 Sonic The Hedgehog 2 (World)                                                                                    -      ✗     -
 Sonic The Hedgehog 2 (World) (Beta) (1992-08-21)                                                                ✗      ✗     ✗
 Sonic The Hedgehog 2 (World) (Beta) (1992-09-14)                                                                ✗      ✗     ✗
@@ -1914,8 +1951,9 @@ Sonic The Hedgehog 2 (World) (Beta) (1992-09-24) (Alt)                          
 Sonic The Hedgehog 2 (World) (Beta) (July, 1992)                                                                ✗      ✗     ✗
 Sonic The Hedgehog 2 (World) (Beta) (June, 1992)                                                                ✗      ✗     ✗
 Sonic The Hedgehog 2 (World) (Beta) (September, 1992)                                                           ✗      ✗     ✗
-Sonic The Hedgehog 2 (World) (Rev A)                                                                            -      ✗     -
+Sonic The Hedgehog 2 (World) (Rev A)                                                                            -      -     -
 Sonic The Hedgehog 2 (World) (Rev A) (Sonic Classic Collection)                                                 ✗      ✗     ✗
+Sonic The Hedgehog 2 (World) (Rev A) (Sonic Mega Collection)                                                    ✗      ✗     ✗
 Sonic The Hedgehog 2 (World) (Rev B)                                                                            -      ✗     -
 Sonic The Hedgehog 3 (Japan, Korea) (Ja)                                                                        ✗      ✗     ✗
 Sonic The Hedgehog 3 (USA)                                                                                      -      ✗     -
@@ -1933,14 +1971,7 @@ Sonic _ Knuckles (World) (Beta) (1994-06-12)                                    
 Sonic _ Knuckles (World) (Beta) (1994-06-18)                                                                    -      ✗     ✗
 Sonic _ Knuckles (World) (Beta) (1994-06-19)                                                                    -      ✗     ✗
 Sonic _ Knuckles (World) (Sonic Classic Collection)                                                             ✗      ✗     ✗
-Sonic _ Knuckles + Sonic The Hedgehog (Japan, Korea) (En)                                                       ✗      ✗     ✗
-Sonic _ Knuckles + Sonic The Hedgehog (USA, Europe)                                                             -      ✗     -
-Sonic _ Knuckles + Sonic The Hedgehog 2 (World)                                                                 -      ✗     -
 Sonic _ Knuckles + Sonic The Hedgehog 2 (World) (Beta) (1994-05-24)                                             -      ✗     ✗
-Sonic _ Knuckles + Sonic The Hedgehog 2 + Sonic The Hedgehog 3 (World) (Virtual Console)                        -      ✗     ✗
-Sonic _ Knuckles + Sonic The Hedgehog 3 (Europe)                                                                -      ✗     -
-Sonic _ Knuckles + Sonic The Hedgehog 3 (Japan) (En)                                                            -      ✗     ✗
-Sonic _ Knuckles + Sonic The Hedgehog 3 (USA)                                                                   -      ✗     -
 Sorcer Kingdom (Japan)                                                                                          -      -     -
 Sorcer Kingdom (Japan) (Beta) (1991-11-08)                                                                      ✗      ✗     ✗
 Sorcerer's Kingdom (USA)                                                                                        -      -     -
@@ -1963,7 +1994,7 @@ Speedball 2 (Japan)                                                             
 Speedball 2 - Brutal Deluxe (USA)                                                                               -      -     -
 Speedball 2 - Brutal Deluxe (USA) (Beta) (1991-06-07)                                                           ✗      ✗     ✗
 Spider-Man (USA, Europe)                                                                                        -      -     -
-Spider-Man (USA, Europe) (Beta) (1994-12-12)                                                                    ✗      ✗     ✗
+Spider-Man (USA, Europe) (Beta) (1994-12-12)                                                                    -      ✗     ✗
 Spider-Man (USA, Europe) (Beta) (August, 1994)                                                                  ✗      ✗     ✗
 Spider-Man (World)                                                                                              -      -     -
 Spider-Man . Venom - Maximum Carnage (World)                                                                    -      -     -
@@ -2008,7 +2039,9 @@ Steel Empire (USA) (1992-03-13) (Sega Channel)                                  
 Steel Talons (Japan, Korea) (Ja)                                                                                ✗      ✗     ✗
 Steel Talons (USA, Europe)                                                                                      -      -     -
 Steel Talons (USA, Europe) (Beta)                                                                               ✗      ✗     ✗
+Steel Talons (USA, Europe) (Beta) (Alt)                                                                         ✗      ✗     ✗
 Stone Protectors (USA) (Proto)                                                                                  ✗      -     -
+Stone Protectors (World) (Steam)                                                                                ✗      ✗     ✗
 Stormlord (Japan)                                                                                               -      -     -
 Stormlord (USA)                                                                                                 -      -     -
 Story of Thor, The (Europe)                                                                                     -      -     -
@@ -2027,7 +2060,7 @@ Street Fighter II' - Champion Edition (USA) (Beta) (1993-07-30)                 
 Street Fighter II' - Special Champion Edition (Europe)                                                          -      -     -
 Street Fighter II' - Special Champion Edition (Europe) (Virtual Console)                                        ✗      ✗     ✗
 Street Fighter II' - Special Champion Edition (USA)                                                             -      -     -
-Street Fighter II' - Special Champion Edition (USA) (Virtual Console)                                           ✗      ✗     ✗
+Street Fighter II' - Special Champion Edition (USA) (Virtual Console)                                           -      ✗     ✗
 Street Fighter II' Plus - Champion Edition (Japan) (Virtual Console)                                            ✗      ✗     ✗
 Street Fighter II' Plus - Champion Edition (Japan, Korea) (Ja)                                                  ✗      ✗     ✗
 Street Racer (Europe)                                                                                           -      -     -
@@ -2081,10 +2114,10 @@ Super Daisenryaku (Japan) (Rev A)                                               
 Super Donkey Kong 99 (Taiwan) (En) (Unl)                                                                        ✗      ✗     ✗
 Super Fantasy Zone (Europe)                                                                                     -      -     -
 Super Fantasy Zone (Japan)                                                                                      -      -     -
-Super Fantasy Zone (USA) (Ja) (Genesis Mini)                                                                    ✗      ✗     ✗
+Super Fantasy Zone (USA) (Ja) (Genesis Mini)                                                                    -      ✗     ✗
 Super H.Q. (Japan)                                                                                              -      -     -
 Super Hang-On (Europe) (En,Ja) (Rev A)                                                                          ✗      ✗     ✗
-Super Hang-On (Japan, USA) (En,Ja)                                                                              ✗      ✗     ✗
+Super Hang-On (Japan, USA) (En,Ja)                                                                              -      ✗     ✗
 Super Hang-On (World) (En,Ja) (Beta) (1989-08-18) (Sega Channel)                                                ✗      ✗     ✗
 Super Hang-On (World) (Sega Smash Pack 2)                                                                       ✗      ✗     ✗
 Super Heavy Duty (World) (Aftermarket) (Unl)                                                                    ✗      ✗     ✗
@@ -2105,7 +2138,7 @@ Super Mario World 64 (Taiwan) (En) (Unl)                                        
 Super Monaco GP (Japan, USA) (En,Ja)                                                                            -      -     -
 Super Monaco GP (USA) (En,Ja)                                                                                   -      -     -
 Super Monaco GP (World) (En,Ja)                                                                                 ✗      ✗     ✗
-Super Monaco GP (World) (En,Ja) (Rev A)                                                                         ✗      ✗     ✗
+Super Monaco GP (World) (En,Ja) (Rev A)                                                                         -      ✗     ✗
 Super Off Road (USA, Europe) (Unl)                                                                              -      -     -
 Super Real Basketball (Europe)                                                                                  -      -     -
 Super Real Basketball (Japan, Korea) (Ja)                                                                       ✗      ✗     ✗
@@ -2134,6 +2167,7 @@ Superman (USA) (Beta)                                                           
 Superman - The Man of Steel (Europe)                                                                            -      -     -
 Surging Aura (Japan)                                                                                            -      -     -
 Swamp Thing (USA) (Proto)                                                                                       ✗      -     -
+Sweetsdigger (World) (Aftermarket) (Homebrew)                                                                   ✗      ✗     ✗
 Switchblade (World) (Aftermarket) (Unl)                                                                         ✗      ✗     ✗
 Switchblade (World) (Demo) (Aftermarket) (Unl)                                                                  ✗      ✗     ✗
 Sword of Sodan (Japan)                                                                                          -      -     -
@@ -2144,12 +2178,12 @@ Syd of Valis (USA)                                                              
 Sylvester _ Tweety in Cagey Capers (USA, Europe) (Beta 1)                                                       ✗      ✗     ✗
 Sylvester _ Tweety in Cagey Capers (USA, Europe) (Beta 2)                                                       ✗      ✗     ✗
 Sylvester and Tweety in Cagey Capers ~ Sylvester _ Tweety in Cagey Capers (USA, Europe)                         -      -     -
-Syndicate (USA, Europe) (En,Fr,De)                                                                              ✗      ✗     ✗
+Syndicate (USA, Europe) (En,Fr,De)                                                                              -      ✗     ✗
 T2 - Terminator 2 - Judgment Day (USA, Europe)                                                                  -      -     -
 T2 - The Arcade Game (Japan)                                                                                    -      -     -
 T2 - The Arcade Game (USA) (Beta) (August, 1992)                                                                ✗      ✗     ✗
 T2 - The Arcade Game (USA, Europe)                                                                              -      -     -
-TC 2000 (Argentina) (Unl) (Pirate)                                                                              ✗      ✗     ✗
+TC 2000 (Argentina) (Pirate)                                                                                    ✗      ✗     ✗
 TNN Bass Tournament of Champions (USA)                                                                          -      -     -
 TNN Outdoors Bass Tournament '96 (USA)                                                                          -      -     -
 Taikou Risshiden (Japan)                                                                                        -      -     -
@@ -2158,12 +2192,12 @@ TaleSpin (USA, Europe)                                                          
 TaleSpin (USA, Europe) (Beta)                                                                                   ✗      ✗     ✗
 Talmit's Adventure (Europe)                                                                                     -      -     -
 Tanglewood (World) (Aftermarket) (Unl)                                                                          ✗      ✗     ✗
-Tanglewood (World) (Demo) (Aftermarket) (0.0.11) (Unl)                                                          ✗      ✗     ✗
-Tanglewood (World) (Demo) (Aftermarket) (0.0.14) (Unl)                                                          ✗      ✗     ✗
-Tanglewood (World) (Demo) (Aftermarket) (0.0.15) (Unl)                                                          ✗      ✗     ✗
-Tanglewood (World) (Demo) (Aftermarket) (0.1.04) (Unl)                                                          ✗      ✗     ✗
-Tanglewood (World) (Demo) (Aftermarket) (0.8.01) (Unl)                                                          ✗      ✗     ✗
-Tanglewood (World) (Demo) (Aftermarket) (0.9.37) (Unl)                                                          ✗      ✗     ✗
+Tanglewood (World) (Demo) (0.0.11) (Aftermarket) (Unl)                                                          ✗      ✗     ✗
+Tanglewood (World) (Demo) (0.0.14) (Aftermarket) (Unl)                                                          ✗      ✗     ✗
+Tanglewood (World) (Demo) (0.0.15) (Aftermarket) (Unl)                                                          ✗      ✗     ✗
+Tanglewood (World) (Demo) (0.1.04) (Aftermarket) (Unl)                                                          ✗      ✗     ✗
+Tanglewood (World) (Demo) (0.8.01) (Aftermarket) (Unl)                                                          ✗      ✗     ✗
+Tanglewood (World) (Demo) (0.9.37) (Aftermarket) (Unl)                                                          ✗      ✗     ✗
 Tanglewood (World) (Rev 1) (Aftermarket) (Unl)                                                                  ✗      ✗     ✗
 Tanzer (World) (1.83) (Aftermarket) (Unl)                                                                       ✗      ✗     ✗
 Tanzer (World) (Demo) (Aftermarket) (Unl)                                                                       ✗      ✗     ✗
@@ -2206,6 +2240,7 @@ Teitoku no Ketsudan (Japan)                                                     
 Tekken Special (Taiwan) (En) (Unl)                                                                              ✗      ✗     ✗
 Tel-Tel Mahjong (Japan)                                                                                         -      -     -
 Tel-Tel Stadium (Japan)                                                                                         -      -     -
+Telethugs (World) (Aftermarket) (Homebrew)                                                                      ✗      ✗     ✗
 Tenchi o Kurau III - Sangoku Gaiden (Taiwan) (Unl)                                                              ✗      ✗     ✗
 Terminator, The (Europe)                                                                                        -      -     -
 Terminator, The (USA)                                                                                           -      -     -
@@ -2213,18 +2248,20 @@ Terminator, The (USA) (Beta) (1992-04-14)                                       
 Test Drive II - The Duel (USA, Europe) (Unl)                                                                    -      -     -
 Tetris (Japan)                                                                                                  -      -     -
 Tetris (Japan) (Mega Drive Mini)                                                                                ✗      ✗     ✗
-Tetris (USA) (Genesis Mini)                                                                                     ✗      ✗     ✗
-Theme Park (USA, Europe) (En,Fr,De,Es)                                                                          ✗      ✗     ✗
+Tetris (USA) (Genesis Mini)                                                                                     -      ✗     ✗
+Theme Park (USA, Europe) (En,Fr,De,Es)                                                                          -      ✗     ✗
 Thomas the Tank Engine _ Friends (USA)                                                                          -      -     -
 Thunder Force II (USA, Europe)                                                                                  -      -     -
 Thunder Force II MD (Japan)                                                                                     -      -     -
-Thunder Force III (Japan, USA) (En)                                                                             ✗      ✗     ✗
+Thunder Force III (Japan, USA) (En)                                                                             -      -     -
 Thunder Force III (Japan, USA) (En) (Beta) (1990-08-01)                                                         ✗      ✗     ✗
 Thunder Force IV (Europe)                                                                                       -      -     -
 Thunder Force IV (Japan)                                                                                        -      -     -
 Thunder Force IV (World) (Sega Ages)                                                                            ✗      ✗     ✗
 Thunder Fox (Japan)                                                                                             -      -     -
 Thunder Fox (USA)                                                                                               -      -     -
+Thunder Paw (World) (Demo 1) (Aftermarket) (Unl)                                                                ✗      ✗     ✗
+Thunder Paw (World) (Demo 2) (Aftermarket) (Unl)                                                                ✗      ✗     ✗
 Thunder Pro Wrestling Retsuden (Japan)                                                                          -      -     -
 Thunderbolt II (Taiwan) (En) (Unl)                                                                              ✗      ✗     ✗
 Tick, The (USA)                                                                                                 -      -     -
@@ -2238,13 +2275,13 @@ Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv)                                    
 Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv) (Beta)                                                             ✗      ✗     ✗
 Tiny Toon Adventures (Korea) (En)                                                                               ✗      ✗     ✗
 Tiny Toon Adventures - ACME All-Stars (Europe) (En,Fr,De)                                                       ✗      ✗     ✗
-Tiny Toon Adventures - ACME All-Stars (USA, Korea) (En)                                                         ✗      ✗     ✗
+Tiny Toon Adventures - ACME All-Stars (USA, Korea) (En)                                                         -      ✗     ✗
 Tiny Toon Adventures - Buster's Hidden Treasure (Europe)                                                        -      -     -
 Tiny Toon Adventures - Buster's Hidden Treasure (USA)                                                           -      -     -
 Tiny Toon Adventures 3 (Taiwan) (En) (Unl)                                                                      ✗      ✗     ✗
 Todd's Adventures in Slime World (USA)                                                                          -      -     -
 ToeJam _ Earl (Japan, Europe) (En) (Rev A)                                                                      ✗      ✗     ✗
-ToeJam _ Earl (USA, Europe, Korea) (En)                                                                         ✗      ✗     ✗
+ToeJam _ Earl (USA, Europe, Korea) (En)                                                                         -      ✗     ✗
 ToeJam _ Earl in Panic on Funkotron (Asia) (En)                                                                 -      -     -
 ToeJam _ Earl in Panic on Funkotron (Europe)                                                                    -      -     -
 ToeJam _ Earl in Panic on Funkotron (USA)                                                                       -      -     -
@@ -2263,7 +2300,7 @@ Tom and Jerry - Frantic Antics (Japan) (En)                                     
 Tom and Jerry - Frantic Antics! (USA)                                                                           -      -     -
 Tom and Jerry - Frantic Antics! (USA) (Beta)                                                                    -      -     -
 Tommy Lasorda Baseball (USA)                                                                                    -      -     -
-Tommy Lasorda Baseball (USA) (Beta) (1989-04-30)                                                                ✗      ✗     ✗
+Tommy Lasorda Baseball (USA) (Rev A)                                                                            ✗      ✗     ✗
 Tony La Russa Baseball (USA, Australia)                                                                         -      -     -
 Top Fighter 2000 MK VIII (Taiwan) (En) (Unl)                                                                    ✗      ✗     ✗
 Top Fighter 2005 (Taiwan) (Unl)                                                                                 ✗      ✗     ✗
@@ -2273,6 +2310,7 @@ Top Pro Golf 2 (Japan)                                                          
 Total Football (Europe)                                                                                         -      -     -
 Toughman Contest (USA, Europe)                                                                                  -      -     -
 Tougiou King Colossus (Japan)                                                                                   -      -     -
+Tourmaline (World) (Aftermarket) (Homebrew)                                                                     ✗      ✗     ✗
 Toxic Crusaders (USA)                                                                                           -      -     -
 Toy Story (Europe)                                                                                              -      -     -
 Toy Story (USA)                                                                                                 -      -     -
@@ -2332,7 +2370,7 @@ Vampire Killer (Japan) (Castlevania Anniversary Collection)                     
 Vampire Killer (Japan) (Mega Drive Mini)                                                                        ✗      ✗     ✗
 Vapor Trail (USA)                                                                                               -      -     -
 Vapor Trail (USA) (Beta) (1991-05-26)                                                                           ✗      ✗     ✗
-Vectorman (USA) (Genesis Mini)                                                                                  ✗      ✗     ✗
+Vectorman (USA) (Genesis Mini)                                                                                  -      ✗     ✗
 Vectorman (USA, Europe)                                                                                         -      -     -
 Vectorman (USA, Europe) (Beta 1)                                                                                ✗      ✗     ✗
 Vectorman (USA, Europe) (Beta 2)                                                                                ✗      ✗     ✗
@@ -2392,7 +2430,7 @@ Warsong (USA) (Beta) (1991-10-01)                                               
 Water Margin - A Tale of Clouds and Wind (World) (Unl)                                                          ✗      ✗     ✗
 Waterworld (Europe) (Proto)                                                                                     -      -     -
 Wayne Gretzky and the NHLPA All-Stars (USA, Europe)                                                             -      -     -
-Wayne Gretzky and the NHLPA All-Stars (USA, Europe) (Beta)                                                      ✗      ✗     ✗
+Wayne Gretzky and the NHLPA All-Stars (USA, Europe) (Beta)                                                      -      ✗     ✗
 Wayne's World (USA)                                                                                             -      -     -
 WeaponLord (USA)                                                                                                -      -     -
 Wheel of Fortune (USA)                                                                                          -      -     -
@@ -2451,7 +2489,7 @@ World Class Leaderboard Golf (USA)                                              
 World Cup Italia '90 (Europe)                                                                                   -      -     -
 World Cup Soccer (Japan) (En)                                                                                   -      -     -
 World Cup Soccer ~ World Championship Soccer (Japan, USA) (En)                                                  ✗      ✗     ✗
-World Cup Soccer ~ World Championship Soccer (Japan, USA) (En) (Rev A)                                          ✗      ✗     ✗
+World Cup Soccer ~ World Championship Soccer (Japan, USA) (En) (Rev A)                                          -      ✗     ✗
 World Cup Soccer ~ World Championship Soccer (Japan, USA) (En) (Rev B)                                          ✗      ✗     ✗
 World Cup USA 94 (USA, Europe, Korea) (En,Fr,De,Es,It,Nl,Pt,Sv)                                                 -      -     -
 World Heroes (Asia) (En)                                                                                        -      -     -
@@ -2512,7 +2550,7 @@ World Series Baseball (USA) (Rev A) (Beta) (1994-05-27)                         
 World Series Baseball 98 (USA)                                                                                  -      -     -
 World Trophy Soccer (USA)                                                                                       -      -     -
 World of Illusion Starring Mickey Mouse and Donald Duck (Europe)                                                -      -     -
-World of Illusion Starring Mickey Mouse and Donald Duck (USA, Korea) (En)                                       ✗      ✗     ✗
+World of Illusion Starring Mickey Mouse and Donald Duck (USA, Korea) (En)                                       -      ✗     ✗
 World of Illusion starring Mickey Mouse _ Donald Duck (USA, Korea) (En) (Beta 2)                                ✗      ✗     ✗
 World of Illusion starring Mickey Mouse _ Donald Duck (USA, Korea) (Ja) (Beta 1)                                ✗      ✗     ✗
 Worms (Europe)                                                                                                  -      -     -
@@ -2526,7 +2564,7 @@ Wu Kong Wai Zhuan (Taiwan) (Unl) (Alt)                                          
 X-Men (Europe)                                                                                                  -      -     -
 X-Men (USA)                                                                                                     -      -     -
 X-Men 2 - Clone Wars (USA, Europe)                                                                              -      -     -
-X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-05-06)                                                          ✗      ✗     ✗
+X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-05-06)                                                          -      ✗     ✗
 X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-05-10)                                                          ✗      ✗     ✗
 X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-10-18)                                                          ✗      ✗     ✗
 X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-11-17)                                                          ✗      ✗     ✗
@@ -2554,9 +2592,14 @@ Xiao Monv - Magic Girl (Taiwan) (Unl)                                           
 Xin Qi Gai Wang Zi (Taiwan) (Beta) (Unl)                                                                        ✗      ✗     ✗
 Xin Qi Gai Wang Zi (Taiwan) (Unl)                                                                               ✗      ✗     ✗
 Xin Qi Gai Wang Zi (Taiwan) (Unl) (Alt)                                                                         ✗      ✗     ✗
+Xump 2 - Back to Space (World) (v1.00) (Alternative Edition) (Aftermarket) (Homebrew)                           ✗      ✗     ✗
+Xump 2 - Back to Space (World) (v1.00) (Digital Edition) (Aftermarket) (Homebrew)                               ✗      ✗     ✗
+Xump 2 - Back to Space (World) (v1.00) (Physical Edition) (Aftermarket) (Homebrew)                              ✗      ✗     ✗
 Ya Se Chuan Shuo (Taiwan) (Unl)                                                                                 ✗      ✗     ✗
 Ya Se Chuan Shuo (Taiwan) (Unl) (Alt)                                                                           ✗      ✗     ✗
 Yazzie (World) (Aftermarket) (Unl)                                                                              ✗      ✗     ✗
+Yazzie (World) (Aftermarket) (Unl) (Alt)                                                                        ✗      ✗     ✗
+Yazzie (World) (dmaSafe) (Aftermarket) (Unl) (Alt)                                                              ✗      ✗     ✗
 Yi Men Ying Lie - Yang Jia Jiang (Taiwan) (Unl)                                                                 ✗      ✗     ✗
 Yogi Bear - Cartoon Capers (Europe)                                                                             -      -     -
 Young Indiana Jones Chronicles, The (USA) (Beta)                                                                -      -     -
@@ -2571,6 +2614,7 @@ Zan Yasha Enbukyoku (Japan)                                                     
 Zany Golf (USA) (Unl)                                                                                           ✗      ✗     ✗
 Zany Golf (USA, Europe)                                                                                         -      -     -
 Zero Tolerance (USA, Europe) (Rev A)                                                                            -      ✗     ✗
+Zero Tolerance (World) (GOG) (Aftermarket) (Homebrew)                                                           ✗      ✗     ✗
 Zero Wing (Europe)                                                                                              -      -     -
 Zero Wing (Japan)                                                                                               -      -     -
 Zero Wing (USA) (Aftermarket) (Unl)                                                                             ✗      ✗     ✗

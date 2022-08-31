@@ -1,9 +1,9 @@
 Sega - Game Gear Missing
 
-Boxarts    655/803  81.57%
-Snaps      430/803  53.55%
-Titles     799/803  99.50%
-Total    1884/2409  78.21%
+Boxarts    640/805  79.50%
+Snaps      429/805  53.29%
+Titles     784/805  97.39%
+Total    1853/2415  76.73%
 
 Name                                                                                Boxart  Snap  Title
 5 in One FunPak (USA)                                                                  -      -     -
@@ -491,6 +491,7 @@ Phantasy Star Gaiden (Japan)                                                    
 Phantom 2040 (USA, Europe)                                                             -      -     -
 Pinball Dreams (USA)                                                                   -      -     -
 Pocket Jansou (Japan)                                                                  -      -     -
+Poker Face - Paul's Cribbage (USA) (Proto)                                             ✗      ✗     ✗
 Poker Face Paul's Blackjack (USA)                                                      -      -     -
 Poker Face Paul's Gin (USA)                                                            -      -     -
 Poker Face Paul's Poker (USA)                                                          -      -     -
@@ -716,21 +717,21 @@ Tama _ Friends - 3 Choume Kouen Tamalympic (Japan)                              
 Tarot no Yakata (Japan)                                                                -      -     -
 Tarzan - Lord of the Jungle (Europe)                                                   -      -     -
 Tatakae! Pro Yakyuu Twin League (Japan)                                                -      -     -
-Taz in Escape from Mars (USA, Europe)                                                  -      -     -
-Taz in Escape from Mars (USA, Europe) (Beta) (1994-05-11)                              -      ✗     -
-Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-10)                              -      ✗     -
-Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-14)                              -      ✗     -
-Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-19)                              -      ✗     -
-Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-21)                              -      ✗     -
-Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-23)                              -      ✗     -
-Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-29)                              -      ✗     -
-Taz in Escape from Mars (USA, Europe) (Beta) (1994-08-30)                              -      ✗     -
-Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-02)                              -      ✗     -
-Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-05)                              -      ✗     -
-Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-05) (Alt)                        -      ✗     -
-Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-06)                              -      ✗     -
-Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-09)                              -      ✗     -
-Taz in Escape from Mars (USA, Europe) (Beta) (1994-09-10)                              -      ✗     -
+Taz in Escape from Mars (USA, Europe, Brazil) (En)                                     ✗      ✗     ✗
+Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-05-11)                 ✗      ✗     ✗
+Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-10)                 ✗      ✗     ✗
+Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-14)                 ✗      ✗     ✗
+Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-19)                 ✗      ✗     ✗
+Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-21)                 ✗      ✗     ✗
+Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-23)                 ✗      ✗     ✗
+Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-29)                 ✗      ✗     ✗
+Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-30)                 ✗      ✗     ✗
+Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-02)                 ✗      ✗     ✗
+Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-05)                 ✗      ✗     ✗
+Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-05) (Alt)           ✗      ✗     ✗
+Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-06)                 ✗      ✗     ✗
+Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-09)                 ✗      ✗     ✗
+Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-10)                 ✗      ✗     ✗
 Taz-Mania (USA, Europe, Brazil) (En)                                                   ✗      ✗     -
 Tempo Jr. (World)                                                                      -      -     -
 Tempo Jr. (World) (Beta) (1994-11-28)                                                  -      ✗     -
@@ -762,6 +763,7 @@ Virtua Fighter Mini (Japan)                                                     
 WWF Raw (USA, Europe)                                                                  -      -     -
 WWF Wrestlemania - Steel Cage Challenge (USA, Europe)                                  -      -     -
 Wagyan Land (Japan)                                                                    -      -     -
+Waternet (World) (Aftermarket) (Homebrew)                                              ✗      ✗     ✗
 Wheel of Fortune (USA)                                                                 -      -     -
 WildSnake (USA) (Proto)                                                                ✗      -     -
 Wimbledon (World)                                                                      -      -     -

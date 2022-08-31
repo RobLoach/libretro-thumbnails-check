@@ -1,9 +1,9 @@
 Coleco - ColecoVision Missing
 
-Boxarts  134/193  69.43%
-Snaps    117/193  60.62%
-Titles   117/193  60.62%
-Total    368/579  63.56%
+Boxarts  133/195  68.21%
+Snaps    116/195  59.49%
+Titles   116/195  59.49%
+Total    365/585  62.39%
 
 Name                                                                Boxart  Snap  Title
 2010 - The Graphic Action Game (USA)                                   -      -     -
@@ -62,6 +62,7 @@ Dr. Seuss - Fix-Up the Mix-Up Puzzler (USA)                            -      - 
 Dragon's Lair (USA) (Proto)                                            -      ✗     ✗
 Dragonfire (USA)                                                       -      -     -
 Dukes of Hazzard, The (USA)                                            -      -     -
+Energy Quiz (Canada) (En,Fr-CA) (1983-06-06) (Proto)                   ✗      ✗     ✗
 Escape from the Mindmaster (USA) (Proto)                               -      -     -
 Evolution (Canada)                                                     ✗      ✗     ✗
 Evolution (USA) (Unl)                                                  -      -     -
@@ -132,7 +133,8 @@ Pitstop (USA)                                                          -      - 
 Pitstop (USA, Europe) (v1.1)                                           ✗      ✗     ✗
 Popeye (USA)                                                           -      -     -
 Porky's (USA) (Proto)                                                  -      -     -
-Power Lords - Quest for Volcan (USA) (Proto)                           -      -     -
+Power Lords - Quest for Volcan (USA) (Proto 1)                         ✗      ✗     ✗
+Power Lords - Quest for Volcan (USA) (Proto 2)                         ✗      ✗     ✗
 Q-bert (USA)                                                           -      -     -
 Q-bert's Qubes (USA)                                                   -      ✗     ✗
 Quest for Quintana Roo (USA)                                           -      -     -
@@ -159,7 +161,7 @@ Spectron (USA)                                                         -      - 
 Spy Hunter (USA)                                                       -      ✗     ✗
 Spy Hunter (USA) (Beta)                                                ✗      ✗     ✗
 Squish'em Featuring Sam (USA)                                          ✗      ✗     ✗
-Star Fire (USA) (Unreleased)                                           ✗      ✗     ✗
+Star Fire (USA) (Proto)                                                ✗      ✗     ✗
 Star Trek - Strategic Operations Simulator (USA)                       -      ✗     ✗
 Star Wars - The Arcade Game (USA)                                      -      ✗     ✗
 Steamroller (USA) (Proto)                                              -      -     -
