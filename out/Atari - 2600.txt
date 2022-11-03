@@ -1,9 +1,9 @@
 Atari - 2600 Missing
 
-Boxarts    543/735  73.88%
-Snaps      597/735  81.22%
-Titles     512/735  69.66%
-Total    1652/2205  74.92%
+Boxarts    541/755  71.66%
+Snaps      595/755  78.81%
+Titles     510/755  67.55%
+Total    1646/2265  72.67%
 
 Name                                                                                          Boxart  Snap  Title
 3-D Genesis (USA) (Proto)                                                                        -      -     ✗
@@ -44,6 +44,17 @@ Alpha Beam with Ernie (Europe)                                                  
 Alpha Beam with Ernie (Japan, USA) (En)                                                          ✗      ✗     ✗
 Amidar (Europe)                                                                                  -      ✗     ✗
 Amidar (USA)                                                                                     -      -     -
+Amoeba Jump (World) (Aftermarket) (Homebrew)                                                     ✗      ✗     ✗
+Amoeba Jump (World) (PAL 50Hz) (Aftermarket) (Homebrew)                                          ✗      ✗     ✗
+Amoeba Jump (World) (PAL 60Hz) (Aftermarket) (Homebrew)                                          ✗      ✗     ✗
+Amoeba Jump (World) (Retron 77 Version) (Aftermarket) (Homebrew)                                 ✗      ✗     ✗
+Amoeba Jump (World) (v0.1) (Aftermarket) (Homebrew)                                              ✗      ✗     ✗
+Amoeba Jump (World) (v1.1) (Aftermarket) (Homebrew)                                              ✗      ✗     ✗
+Amoeba Jump (World) (v1.1) (Europe) (Aftermarket) (Homebrew)                                     ✗      ✗     ✗
+Amoeba Jump (World) (v1.2) (Aftermarket) (Homebrew)                                              ✗      ✗     ✗
+Amoeba Jump (World) (v1.2) (Europe) (Aftermarket) (Homebrew)                                     ✗      ✗     ✗
+Amoeba Jump (World) (v1.3) (Aftermarket) (Homebrew)                                              ✗      ✗     ✗
+Amoeba Jump (World) (v1.3) (Europe) (Aftermarket) (Homebrew)                                     ✗      ✗     ✗
 AndroMan on the Moon (USA) (Proto)                                                               ✗      -     ✗
 Angry Video Game Nerd K.O. Boxing - NTSC (World) (Aftermarket) (Homebrew)                        ✗      ✗     ✗
 Angry Video Game Nerd K.O. Boxing - PAL (World) (Aftermarket) (Homebrew)                         ✗      ✗     ✗
@@ -309,6 +320,8 @@ Ghostbusters II (Europe)                                                        
 Gigolo (USA)                                                                                     ✗      -     ✗
 Glacier Patrol (USA)                                                                             -      -     -
 Glib - Video Word Game (USA)                                                                     -      -     -
+Go Fish! (World) (Aftermarket) (Homebrew)                                                        ✗      ✗     ✗
+Go Fish! (World) (Europe) (Aftermarket) (Homebrew)                                               ✗      ✗     ✗
 Going-Up (USA) (Proto)                                                                           ✗      -     ✗
 Golf (USA)                                                                                       -      -     -
 Good Luck, Charlie Brown (USA) (Proto)                                                           ✗      -     ✗
@@ -324,6 +337,7 @@ Guardian (USA)                                                                  
 Gyruss (USA)                                                                                     -      -     -
 H.E.R.O. (USA)                                                                                   -      -     -
 Halloween (USA)                                                                                  -      -     -
+Halo 2600 (World) (Aftermarket) (Homebrew)                                                       ✗      ✗     ✗
 Hangman ~ Spelling (USA)                                                                         ✗      -     ✗
 Hard-Head (USA) (Proto)                                                                          ✗      -     ✗
 Harem (USA) (Proto)                                                                              ✗      -     ✗
@@ -543,7 +557,7 @@ SCRMNN (USA) (Proto)                                                            
 Saboteur (USA) (Proto)                                                                           -      -     -
 Save Mary! (USA) (Proto)                                                                         -      -     -
 Save Our Ship (Europe)                                                                           -      -     -
-Save our Ship (USA)                                                                              -      -     -
+Save Our Ship (USA)                                                                              ✗      ✗     ✗
 Save the Whales (USA) (Proto)                                                                    -      -     -
 Sea Battle (USA)                                                                                 -      -     -
 Sea Hawk (USA)                                                                                   -      -     -
@@ -658,7 +672,7 @@ Surround ~ Chase (USA)                                                          
 Survival Island (USA)                                                                            -      -     -
 Survival Run (USA)                                                                               -      -     -
 Survival Run (USA) (Proto)                                                                       -      -     -
-Sweat! The Decathalon Game (USA)                                                                 -      -     -
+Sweat! The Decathlon Game (USA)                                                                  ✗      ✗     ✗
 Sword of Saros (USA)                                                                             -      -     -
 SwordQuest - EarthWorld (USA)                                                                    -      -     -
 SwordQuest - EarthWorld (USA, Europe) (Atari Anthology)                                          ✗      ✗     ✗
@@ -719,6 +733,12 @@ Wabbit (USA)                                                                    
 Walker ~ Schussel, der Polizistenschreck (Europe)                                                ✗      ✗     ✗
 Wall Ball (USA)                                                                                  -      -     -
 Wall Break (Europe)                                                                              -      -     -
+Wall Jump Ninja (World) (2015-01-15 NTSC v1.0) (Aftermarket) (Homebrew)                          ✗      ✗     ✗
+Wall Jump Ninja (World) (2015-01-15 PAL v1.0) (Aftermarket) (Homebrew)                           ✗      ✗     ✗
+Wall Jump Ninja (World) (2015-01-15 PAL60Hz v1.0) (Aftermarket) (Homebrew)                       ✗      ✗     ✗
+Wall Jump Ninja (World) (2016-05-08 NTSC v1.1) (Aftermarket) (Homebrew)                          ✗      ✗     ✗
+Wall Jump Ninja (World) (2016-05-08 PAL v1.1) (Aftermarket) (Homebrew)                           ✗      ✗     ✗
+Wall Jump Ninja (World) (Aftermarket) (Homebrew)                                                 ✗      ✗     ✗
 Wall-Defender (USA)                                                                              -      -     -
 Warlords (USA)                                                                                   -      -     -
 Warplock (USA)                                                                                   -      -     -

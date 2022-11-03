@@ -1,9 +1,9 @@
 Nintendo - Game Boy Missing
 
-Boxarts  1105/2004  55.14%
-Snaps    1587/2004  79.19%
-Titles   1593/2004  79.49%
-Total    4285/6012  71.27%
+Boxarts  1105/2022  54.65%
+Snaps    1587/2022  78.49%
+Titles   1593/2022  78.78%
+Total    4285/6066  70.64%
 
 Name                                                                                                                                                             Boxart  Snap  Title
 10-Pin Bowling (USA)                                                                                                                                                ✗      ✗     ✗
@@ -242,6 +242,9 @@ Bugs Bunny Collection (Japan) (Rev 1) (SGB Enhanced)                            
 Bugs Bunny Collection (Japan) (SGB Enhanced)                                                                                                                        ✗      -     -
 Bugs Bunny Crazy Castle 2, The (USA)                                                                                                                                -      -     -
 Bugs Bunny Crazy Castle, The (USA, Europe)                                                                                                                          -      -     -
+Bung Greetings Demo (World) (Demo) (Homebrew)                                                                                                                       ✗      ✗     ✗
+Bung New Year's Greetings Demo (World) (Demo) (Homebrew)                                                                                                            ✗      ✗     ✗
+Bung's Math Test (World) (Homebrew)                                                                                                                                 ✗      ✗     ✗
 Burai Fighter Deluxe (USA, Europe)                                                                                                                                  -      -     -
 Burai Senshi Deluxe (Japan)                                                                                                                                         -      -     -
 BurgerTime Deluxe (World)                                                                                                                                           -      -     -
@@ -407,6 +410,7 @@ Do I Pass (World) (v1.5) (Aftermarket) (Homebrew)                               
 Doctor GB Card 16M Loader (World) (Homebrew)                                                                                                                        ✗      ✗     ✗
 Doctor GB Card 4M (World) (Homebrew)                                                                                                                                ✗      ✗     ✗
 Doctor GB Card Demo (World) (Demo) (Homebrew)                                                                                                                       ✗      ✗     ✗
+Doctor GB Card Demo (World) (Demo) (Homebrew) (Alt)                                                                                                                 ✗      ✗     ✗
 Dodge Boy (Japan)                                                                                                                                                   ✗      -     -
 Dog's Muck Island (World) (Aftermarket) (Homebrew)                                                                                                                  ✗      ✗     ✗
 Don't Forget About Me (World) (Prototype) (Aftermarket) (Homebrew)                                                                                                  ✗      ✗     ✗
@@ -561,18 +565,19 @@ G Arms - Operation Gundam (Japan)                                               
 G-Man (World) (Aftermarket) (Homebrew)                                                                                                                              ✗      ✗     ✗
 G-ZERO (World) (v2.6) (Aftermarket) (Homebrew)                                                                                                                      ✗      ✗     ✗
 GB Basketball (Japan)                                                                                                                                               -      -     -
+GB Corp. (World) (Aftermarket) (Homebrew)                                                                                                                           ✗      ✗     ✗
 GB Genjin (Japan)                                                                                                                                                   -      -     -
 GB Genjin 2 (Japan) (SGB Enhanced)                                                                                                                                  -      -     -
 GB Genjin Land - Viva! Chikkun Oukoku (Japan)                                                                                                                       ✗      -     -
 GB Pachi-Slot Hisshouhou! Jr. (Japan)                                                                                                                               ✗      -     -
 GB-Wordyl (World) (Aftermarket) (Homebrew)                                                                                                                          ✗      ✗     ✗
 GB-Wordyl (World) (Ca) (Aftermarket) (Homebrew)                                                                                                                     ✗      ✗     ✗
-GB-Wordyl (World) (Cornish Edition) (Aftermarket) (Homebrew)                                                                                                        ✗      ✗     ✗
 GB-Wordyl (World) (De) (Aftermarket) (Homebrew)                                                                                                                     ✗      ✗     ✗
 GB-Wordyl (World) (Es) (Aftermarket) (Homebrew)                                                                                                                     ✗      ✗     ✗
 GB-Wordyl (World) (Es-XL) (Aftermarket) (Homebrew)                                                                                                                  ✗      ✗     ✗
 GB-Wordyl (World) (Fr) (Aftermarket) (Homebrew)                                                                                                                     ✗      ✗     ✗
 GB-Wordyl (World) (It) (Aftermarket) (Homebrew)                                                                                                                     ✗      ✗     ✗
+GB-Wordyl (World) (Kw) (Aftermarket) (Homebrew)                                                                                                                     ✗      ✗     ✗
 GB-Wordyl (World) (Nl) (Aftermarket) (Homebrew)                                                                                                                     ✗      ✗     ✗
 GB-Wordyl (World) (Pt-BR) (Aftermarket) (Homebrew)                                                                                                                  ✗      ✗     ✗
 GBKiss Mini Games (Japan)                                                                                                                                           ✗      -     -
@@ -692,6 +697,7 @@ Great Greed (USA)                                                               
 Gremlins 2 - The New Batch (World)                                                                                                                                  -      -     -
 Gun Law (World) (Aftermarket) (Homebrew)                                                                                                                            ✗      ✗     ✗
 Gunman Clive (World) (Aftermarket) (Homebrew)                                                                                                                       ✗      ✗     ✗
+Gunship (USA) (Aftermarket) (Homebrew)                                                                                                                              ✗      ✗     ✗
 HAL Wrestling (USA)                                                                                                                                                 -      -     -
 HAL Wrestling (USA) (Beta)                                                                                                                                          -      -     -
 Hammerin' Harry (Europe)                                                                                                                                            -      -     -
@@ -796,6 +802,7 @@ Jeopardy! - Teen Tournament (USA) (SGB Enhanced)                                
 Jet Pack (USA, Europe) (Beta)                                                                                                                                       -      ✗     ✗
 Jet Pak Jak (Europe) (Proto)                                                                                                                                        ✗      ✗     ✗
 Jet Pak Man (Europe) (Proto)                                                                                                                                        ✗      ✗     ✗
+Jet Set Willy (World) (Aftermarket) (Homebrew)                                                                                                                      ✗      ✗     ✗
 Jetsons, The - Robot Panic (Japan) (Proto)                                                                                                                          ✗      ✗     ✗
 Jetsons, The - Robot Panic (USA) (Rev 1) (Possible Proto)                                                                                                           ✗      ✗     ✗
 Jetsons, The - Robot Panic (USA, Europe)                                                                                                                            -      -     -
@@ -967,6 +974,7 @@ Magic Knight Rayearth (Japan) (SGB Enhanced)                                    
 Magic Knight Rayearth 2nd. - The Missing Colors (Japan) (SGB Enhanced)                                                                                              ✗      -     -
 Magical Taruruuto-kun (Japan)                                                                                                                                       ✗      -     -
 Magical Taruruuto-kun 2 - Raibaa Zone Panic!! (Japan)                                                                                                               ✗      -     -
+Magipanels (World) (Rev 1) (Demo) (Aftermarket) (Homebrew)                                                                                                          ✗      ✗     ✗
 Magnetic Soccer (Europe)                                                                                                                                            -      -     -
 Mahoujin GuruGuru - Yuusha to Kukuri no Daibouken (Japan) (SGB Enhanced)                                                                                            ✗      -     -
 Makai Toushi Sa-Ga (Japan)                                                                                                                                          -      -     -
@@ -1023,6 +1031,7 @@ Melanie and the Magic Forest (World) (Aftermarket) (Homebrew)                   
 Mercenary Force (USA, Europe)                                                                                                                                       -      -     -
 Metal Masters (USA)                                                                                                                                                 -      -     -
 Metal Masters (USA) (Beta)                                                                                                                                          ✗      ✗     ✗
+Meteorite (World) (Aftermarket) (Homebrew)                                                                                                                          ✗      ✗     ✗
 Metroid II - Return of Samus (World)                                                                                                                                -      -     -
 Mick _ Mack as the Global Gladiators (USA) (Proto) (1993-07-20)                                                                                                     ✗      ✗     ✗
 Mick _ Mack as the Global Gladiators (USA) (Proto) (1993-09-27)                                                                                                     ✗      ✗     ✗
@@ -1240,7 +1249,7 @@ P-Man GB (Japan)                                                                
 PGA European Tour (USA, Europe) (SGB Enhanced)                                                                                                                      -      -     -
 PGA Tour 96 (USA, Europe) (SGB Enhanced)                                                                                                                            -      -     -
 Pac-Attack (USA) (SGB Enhanced)                                                                                                                                     -      -     -
-Pac-In-Time (Europe) (Rev 1) (Possible Proto) (SGB Enhanced)                                                                                                        ✗      ✗     ✗
+Pac-In-Time (Europe) (Rev 1) (SGB Enhanced)                                                                                                                         ✗      ✗     ✗
 Pac-In-Time (Europe) (SGB Enhanced)                                                                                                                                 -      -     -
 Pac-In-Time (Japan) (SGB Enhanced)                                                                                                                                  -      -     -
 Pac-In-Time (USA) (SGB Enhanced)                                                                                                                                    -      -     -
@@ -1275,6 +1284,7 @@ Panel Action Bingo (USA)                                                        
 Panel no Ninja Kesamaru (Japan)                                                                                                                                     ✗      -     -
 Pang (Europe)                                                                                                                                                       -      -     -
 Pang (Europe) (Beta)                                                                                                                                                ✗      ✗     ✗
+Panty Hunty (World) (v1.4) (Aftermarket) (Homebrew)                                                                                                                 ✗      ✗     ✗
 Paperboy (USA, Europe)                                                                                                                                              -      -     -
 Paperboy 2 (USA, Europe)                                                                                                                                            -      -     -
 Parasol Henbee (Japan)                                                                                                                                              -      -     -
@@ -1295,7 +1305,6 @@ Phantom Air Mission (Europe)                                                    
 Phantom Fright (World) (Aftermarket) (Homebrew)                                                                                                                     ✗      ✗     ✗
 Philip _ Marlowe in Bloomland (USA) (Proto)                                                                                                                         ✗      ✗     ✗
 Phobos Dere .GB (World) (Aftermarket) (Homebrew)                                                                                                                    ✗      ✗     ✗
-Phobos Dere .GB (World) (Analogue Pocket) (Aftermarket) (Homebrew)                                                                                                  ✗      ✗     ✗
 Phobos Dere .GB (World) (Rev 1) (Demo) (Aftermarket) (Homebrew)                                                                                                     ✗      ✗     ✗
 Picross 2 (Japan) (SGB Enhanced)                                                                                                                                    -      -     -
 Pierre le Chef is... Out to Lunch (Europe)                                                                                                                          ✗      ✗     ✗
@@ -1314,6 +1323,7 @@ Pipe Dream (USA)                                                                
 Pit-Fighter (USA, Europe)                                                                                                                                           -      -     -
 Pitman (Japan)                                                                                                                                                      -      -     -
 Pixel Who - The Lost Legions (World) (v1.0) (Aftermarket) (Homebrew)                                                                                                ✗      ✗     ✗
+Plants Eat My Zombies (World) (v1.1) (Aftermarket) (Homebrew)                                                                                                       ✗      ✗     ✗
 Play Action Football (USA)                                                                                                                                          -      -     -
 Pluto's Corner (World) (Aftermarket) (Homebrew)                                                                                                                     ✗      ✗     ✗
 Pocahontas (USA, Europe) (SGB Enhanced)                                                                                                                             -      -     -
@@ -1448,6 +1458,7 @@ Race Drivin' (USA, Europe)                                                      
 Race Drivin' (USA, Europe) (Beta)                                                                                                                                   ✗      ✗     ✗
 Racing Damashii (Japan)                                                                                                                                             ✗      -     -
 Radar Mission (USA, Europe)                                                                                                                                         -      -     -
+Raffles (World) (Aftermarket) (Homebrew)                                                                                                                            ✗      ✗     ✗
 Raging Fighter (USA, Europe)                                                                                                                                        -      -     -
 Rampart (Japan)                                                                                                                                                     -      -     -
 Rampart (USA, Europe)                                                                                                                                               -      -     -
@@ -1459,7 +1470,7 @@ Ray-Thunder (Japan)                                                             
 Real Ghostbusters, The (USA)                                                                                                                                        -      -     -
 Red Arremer - Makaimura Gaiden (Japan)                                                                                                                              -      -     -
 Red October o Oe! (Japan)                                                                                                                                           -      -     -
-Remute - Living Electronics (World) (Aftermarket) (Unl)                                                                                                             ✗      ✗     ✗
+Remute - Living Electronics (World) (Aftermarket) (Homebrew)                                                                                                        ✗      ✗     ✗
 Ren _ Stimpy Show, The - Space Cadet Adventures (USA)                                                                                                               -      -     -
 Ren _ Stimpy Show, The - Veediots! (USA, Europe)                                                                                                                    -      -     -
 Renju Club - Gomoku Narabe (Japan) (SGB Enhanced)                                                                                                                   ✗      -     -
@@ -1584,6 +1595,7 @@ Skate or Die - Bad 'N Rad (Europe)                                              
 Skate or Die - Bad 'N Rad (USA)                                                                                                                                     -      -     -
 Skate or Die - Tour de Thrash (USA)                                                                                                                                 -      -     -
 Sloth Story (World) (v1.0) (Aftermarket) (Homebrew)                                                                                                                 ✗      ✗     ✗
+Sludge _ Sorcery (World) (Aftermarket) (Homebrew)                                                                                                                   ✗      ✗     ✗
 Small Soldiers (USA, Europe) (SGB Enhanced)                                                                                                                         -      -     -
 Smurfs Nightmare, The (Europe) (En,Fr,De,Es)                                                                                                                        -      -     -
 Smurfs Travel the World, The (Europe) (En,Fr,De,Es)                                                                                                                 -      -     -
@@ -1632,6 +1644,7 @@ Spider-Man 2 (USA, Europe)                                                      
 Spider-Man 3 - Invasion of the Spider-Slayers (USA, Europe)                                                                                                         -      -     -
 Spider-Man 3 - Invasion of the Spider-Slayers (USA, Europe) (Beta 1)                                                                                                ✗      ✗     ✗
 Spider-Man 3 - Invasion of the Spider-Slayers (USA, Europe) (Beta 2) (1993-04-11)                                                                                   ✗      ✗     ✗
+Spiky Harold (World) (Aftermarket) (Homebrew)                                                                                                                       ✗      ✗     ✗
 Spirit of F-1, The (Europe)                                                                                                                                         -      -     -
 Spiritual Warfare (USA) (Unl)                                                                                                                                       ✗      -     -
 Spirou (Europe) (En,Fr,De,Es) (Beta) (SGB Enhanced)                                                                                                                 -      -     -
@@ -1899,6 +1912,7 @@ Urban Strike (USA, Europe) (SGB Enhanced)                                       
 Urusei Yatsura - Miss Tomobiki o Sagase! (Japan)                                                                                                                    ✗      -     -
 V-Rally - Championship Edition (Europe) (En,Fr,De)                                                                                                                  -      -     -
 VS Battler (Japan)                                                                                                                                                  -      -     -
+Vampire Night Shift (World) (Aftermarket) (Homebrew)                                                                                                                ✗      ✗     ✗
 Vattle Giuce (Japan)                                                                                                                                                ✗      -     -
 Vegas Stakes (USA, Europe) (SGB Enhanced)                                                                                                                           -      -     -
 Velious - Roland no Majuu (Japan)                                                                                                                                   -      -     -
@@ -1975,6 +1989,10 @@ Xenon 2 - Megablast (Japan)                                                     
 Yakuman (Japan)                                                                                                                                                     ✗      -     -
 Yakuman (Japan) (Rev 1)                                                                                                                                             ✗      -     -
 Yannick Noah Tennis (France) (En)                                                                                                                                   -      -     -
+Year After, The (USA) (Aftermarket) (Homebrew)                                                                                                                      ✗      ✗     ✗
+Year After, The (World) (Beta) (Aftermarket) (Homebrew)                                                                                                             ✗      ✗     ✗
+Year After, The (World) (Fr) (Beta) (Aftermarket) (Homebrew)                                                                                                        ✗      ✗     ✗
+Year After, The (World) (Pt) (Beta) (Aftermarket) (Homebrew)                                                                                                        ✗      ✗     ✗
 Yogi Bear's Gold Rush (Europe)                                                                                                                                      ✗      -     -
 Yogi Bear's Gold Rush (USA)                                                                                                                                         -      -     -
 Yomihon Yumegoyomi - Tenjin Kaisen 2 (Japan)                                                                                                                        ✗      -     -
