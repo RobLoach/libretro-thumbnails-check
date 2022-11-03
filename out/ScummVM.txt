@@ -1,19 +1,24 @@
 ScummVM Missing
 
-Boxarts   37/4367  0.85%
-Snaps     30/4367  0.69%
-Titles    30/4367  0.69%
-Total    97/13101  0.74%
+Boxarts   37/4425  0.84%
+Snaps     30/4425  0.68%
+Titles    30/4425  0.68%
+Total    97/13275  0.73%
 
 Name                                                                                                                                                            Boxart  Snap  Title
 += 3_ A Logical Adventure (Multi-OS)                                                                                                                               ✗      ✗     ✗
 1 1_2 Ritter_ Auf der Suche nach der hinreißenden Herzelinde (Windows_German)                                                                                      ✗      ✗     ✗
 1 1_2 Ritter_ Auf der Suche nach der hinreißenden Herzelinde {Полтора рыцаря_ В поисках похищенной принцессы Херцелинды}(Windows_Russian)                          ✗      ✗     ✗
-11th Hour, The_ The Sequel to 'The 7th Guest' (DOS_German)                                                                                                         ✗      ✗     ✗
+11 Mysterious Adventures_ Disk 1 (C64)                                                                                                                             ✗      ✗     ✗
+11 Mysterious Adventures_ Disk 2 (C64)                                                                                                                             ✗      ✗     ✗
 11th Hour, The_ The Sequel to 'The 7th Guest' (Macintosh)                                                                                                          ✗      ✗     ✗
 11th Hour, The_ The Sequel to 'The 7th Guest' (Windows)                                                                                                            ✗      ✗     ✗
-11th Hour, The_ The Sequel to 'The 7th Guest' _Making Of_(DOS)                                                                                                     ✗      ✗     ✗
+11th Hour, The_ The Sequel to 'The 7th Guest' (Windows_French)                                                                                                     ✗      ✗     ✗
+11th Hour, The_ The Sequel to 'The 7th Guest' (Windows_German)                                                                                                     ✗      ✗     ✗
 11th Hour, The_ The Sequel to 'The 7th Guest' _Making Of_(Macintosh)                                                                                               ✗      ✗     ✗
+11th Hour, The_ The Sequel to 'The 7th Guest' _Making Of_(Windows)                                                                                                 ✗      ✗     ✗
+11th Hour, The_ The Sequel to 'The 7th Guest' _Making Of_(Windows_French)                                                                                          ✗      ✗     ✗
+11th Hour, The_ The Sequel to 'The 7th Guest' _Making Of_(Windows_German)                                                                                          ✗      ✗     ✗
 13th Disciple, The (DOS_Fanmade)                                                                                                                                   ✗      ✗     ✗
 1893_ A World's Fair Mystery (Multi-OS)                                                                                                                            ✗      ✗     ✗
 2 Player Demo (DOS_Fanmade)                                                                                                                                        ✗      ✗     ✗
@@ -36,7 +41,7 @@ Name                                                                            
 7th Guest, The (Apple iOS_Russian)                                                                                                                                 ✗      ✗     ✗
 7th Guest, The (DOS)                                                                                                                                               ✗      ✗     ✗
 7th Guest, The (DOS_Russian)                                                                                                                                       ✗      ✗     ✗
-7th Guest, The (Macintosh)                                                                                                                                         ✗      ✗     ✗
+7th Guest, The_ 25th Anniversary Edition (Windows)                                                                                                                 ✗      ✗     ✗
 9_05  (Multi-OS)                                                                                                                                                   ✗      ✗     ✗
 A Bloody Life (Multi-OS)                                                                                                                                           ✗      ✗     ✗
 A Crimson Spring (Multi-OS)                                                                                                                                        ✗      ✗     ✗
@@ -379,9 +384,7 @@ Blackwell Convergence, The (Android)                                            
 Blackwell Convergence, The (Linux)                                                                                                                                 ✗      ✗     ✗
 Blackwell Convergence, The (Macintosh)                                                                                                                             ✗      ✗     ✗
 Blackwell Convergence, The (Windows)                                                                                                                               ✗      ✗     ✗
-Blackwell Deception, The (Linux)                                                                                                                                   ✗      ✗     ✗
 Blackwell Deception, The (Windows)                                                                                                                                 ✗      ✗     ✗
-Blackwell Epiphany, The (Linux)                                                                                                                                    ✗      ✗     ✗
 Blackwell Epiphany, The (Windows)                                                                                                                                  ✗      ✗     ✗
 Blackwell Legacy, The (Android)                                                                                                                                    ✗      ✗     ✗
 Blackwell Legacy, The (Linux)                                                                                                                                      ✗      ✗     ✗
@@ -469,6 +472,7 @@ Broken Sword II_ The Smoking Mirror {Broken Sword II_ Las Fuerzas del Mal}(Windo
 Broken Sword II_ The Smoking Mirror {Les Chevaliers de Baphomet II_ Les Boucliers de Quetzalcoatl}(PlayStation_French)                                             ✗      ✗     ✗
 Broken Sword II_ The Smoking Mirror {Les Chevaliers de Baphomet II_ Les Boucliers de Quetzalcoatl}(Windows_French)                                                 -      ✗     ✗
 Broken Sword II_ The Smoking Mirror {Сломанный Меч_ Дымящееся Зеркало}(Windows_Russian)                                                                            ✗      ✗     ✗
+Broken Sword II_ The Smoking Mirror {חרב שבורה 2_ המראה המעשנת}(Windows_Hebrew)                                                                                    ✗      ✗     ✗
 Broken Sword_ Shadow of the Templars                                                                                                                               ✗      ✗     ✗
 Broken Sword_ The Shadow of the Templars (Macintosh)                                                                                                               ✗      ✗     ✗
 Broken Sword_ The Shadow of the Templars (PlayStation)                                                                                                             ✗      ✗     ✗
@@ -669,7 +673,6 @@ Cruise for a Corpse (256 colors_DOS_English)                                    
 Cruise for a Corpse (Amiga_Italian)                                                                                                                                ✗      ✗     ✗
 Cruise for a Corpse (Amiga_Spanish)                                                                                                                                ✗      ✗     ✗
 Cruise for a Corpse (Atari ST)                                                                                                                                     ✗      ✗     ✗
-Cruise for a Corpse (Atari ST_French)                                                                                                                              ✗      ✗     ✗
 Cruise for a Corpse (DOS_VGA)                                                                                                                                      -      -     -
 Cruise for a Corpse (DOS_VGA_German)                                                                                                                               ✗      ✗     ✗
 Cruise for a Corpse (DOS_VGA_Italian)                                                                                                                              ✗      ✗     ✗
@@ -1240,9 +1243,7 @@ Fun Seeker's Guide to Eastern Madera County, The (DOS)                          
 Future Boy! (Multi-OS)                                                                                                                                             ✗      ✗     ✗
 Future Wars_ Time Travellers (DOS)                                                                                                                                 ✗      ✗     ✗
 Future Wars_ Time Travellers (DOS_Hungarian)                                                                                                                       ✗      ✗     ✗
-Future Wars_ Time Travellers {Future Wars_ Adventures in Time}(CD_DOS)                                                                                             ✗      ✗     ✗
 Future Wars_ Time Travellers {Les Voyageurs du Temps_ La Menace}(Amiga_French)                                                                                     ✗      ✗     ✗
-Future Wars_ Time Travellers {Les Voyageurs du Temps_ La Menace}(CD_DOS_French)                                                                                    ✗      ✗     ✗
 Fyleet (Multi-OS)                                                                                                                                                  ✗      ✗     ✗
 Gabriel Knight_ Sins of the Fathers (CD_DOS)                                                                                                                       ✗      ✗     ✗
 Gabriel Knight_ Sins of the Fathers (CD_DOS_Russian)                                                                                                               ✗      ✗     ✗
@@ -1385,7 +1386,12 @@ Gold Rush! (Atari ST)                                                           
 Gold Rush! (CoCo3)                                                                                                                                                 ✗      ✗     ✗
 Gold Rush! (DOS)                                                                                                                                                   ✗      ✗     ✗
 Gold Rush! (DOS_Spanish)                                                                                                                                           ✗      ✗     ✗
-Gold Rush! (Macintosh)                                                                                                                                             ✗      ✗     ✗
+Gold and Glory_ The Road to El Dorado (PlayStation)]                                                                                                               ✗      ✗     ✗
+Gold and Glory_ The Road to El Dorado (Windows)                                                                                                                    ✗      ✗     ✗
+Gold and Glory_ The Road to El Dorado {Gold und Ruhm_ Der Weg nach El Dorado}(PlayStation_German)                                                                  ✗      ✗     ✗
+Gold and Glory_ The Road to El Dorado {Oro e Gloria_ La Strada per El Dorado}(PlayStation_Italian)                                                                 ✗      ✗     ✗
+Gold and Glory_ The Road to El Dorado {Oro y Gloria_ La ruta hacia El Dorado}(PlayStation_Spanish)                                                                 ✗      ✗     ✗
+Gold and Glory_ The Road to El Dorado {Pour l'Or et la Gloire_ La Route d'Eldorado}(PlayStation_French)                                                            ✗      ✗     ✗
 Golden Calf, The {Golden Life_ Unterwegs nach Brasilien}(Windows_German)                                                                                           ✗      ✗     ✗
 Golden Calf, The {Золотой телёнок}(Windows_Russian)                                                                                                                ✗      ✗     ✗
 Golden Wake, A (Linux)                                                                                                                                             ✗      ✗     ✗
@@ -1407,6 +1413,8 @@ Gregory and the Hot Air Balloon (Macintosh)                                     
 Gregory and the Hot Air Balloon (Windows)                                                                                                                          ✗      ✗     ✗
 Gregory and the Hot Air Balloon {Gregor und der Heiss Luftballon}(Windows_German)                                                                                  ✗      ✗     ✗
 Gregory and the Hot Air Balloon {Grégoire et la Montgolfière}(Windows_French)                                                                                      ✗      ✗     ✗
+Gremlins_ The Adventure (Commodore 64)                                                                                                                             ✗      ✗     ✗
+Gremlins_ The Adventure {Gremlins_ Das Abenteuer}(Commodore 64_German)                                                                                             ✗      ✗     ✗
 Griffon Legend, The (Windows)                                                                                                                                      ✗      ✗     ✗
 Grim Fandango (Windows)                                                                                                                                            ✗      ✗     ✗
 Grim Fandango (Windows_Chinese)                                                                                                                                    ✗      ✗     ✗
@@ -1811,7 +1819,6 @@ King's Quest III_ To Heir Is Human (DOS)                                        
 King's Quest III_ To Heir Is Human (DOS_Russian)                                                                                                                   ✗      ✗     ✗
 King's Quest III_ To Heir Is Human (DOS_Spanish)                                                                                                                   ✗      ✗     ✗
 King's Quest III_ To Heir Is Human (Macintosh)                                                                                                                     ✗      ✗     ✗
-King's Quest III_ To Heir is Human VGA Remake (Macintosh)                                                                                                          ✗      ✗     ✗
 King's Quest III_ To Heir is Human VGA Remake (Windows)                                                                                                            ✗      ✗     ✗
 King's Quest II_ Romancing the Stones Remake (Windows)                                                                                                             ✗      ✗     ✗
 King's Quest II_ Romancing the Stones Remake (Windows_Spanish)                                                                                                     ✗      ✗     ✗
@@ -1891,7 +1898,8 @@ King's Quest V_ Absence Makes the Heart Go Yonder {킹스퀘스트 5}(DOS_Korean
 King's Questions (DOS)                                                                                                                                             ✗      ✗     ✗
 Kingdom_ The Far Reaches (3DO)                                                                                                                                     ✗      ✗     ✗
 Kingdom_ The Far Reaches (DOS)                                                                                                                                     ✗      ✗     ✗
-Kings Quest 2 1_4_ Breast Intentions (DOS_Fanmade)                                                                                                                 ✗      ✗     ✗
+Kings Quest 2 ¼_ Breast Intentions (DOS_Fanmade)                                                                                                                   ✗      ✗     ✗
+Kings Quest 2 ¼_ Breast Intentions (DOS_Fanmade_Spanish)                                                                                                           ✗      ✗     ✗
 Kite, The (Windows)                                                                                                                                                ✗      ✗     ✗
 Kite, The {L'aquilone}(Windows_Italian)                                                                                                                            ✗      ✗     ✗
 Kite, The {Le Cerf-Volant}(Windows_French)                                                                                                                         ✗      ✗     ✗
@@ -1957,6 +1965,7 @@ Lands of Lore_ The Throne of Chaos (DOS_French_Extracted)                       
 Lands of Lore_ The Throne of Chaos (DOS_German)                                                                                                                    ✗      ✗     ✗
 Lands of Lore_ The Throne of Chaos (DOS_German_Extracted)                                                                                                          ✗      ✗     ✗
 Lands of Lore_ The Throne of Chaos (DOS_Russian_Extracted)                                                                                                         ✗      ✗     ✗
+Lands of Lore_ The Throne of Chaos (DOS_Spanish_Compressed)                                                                                                        ✗      ✗     ✗
 Lands of Lore_ The Throne of Chaos (DOS_Spanish_Extracted)                                                                                                         ✗      ✗     ✗
 Lands of Lore_ The Throne of Chaos (FM-Towns_Japanese)                                                                                                             ✗      ✗     ✗
 Lands of Lore_ The Throne of Chaos (PC-98_Japanese)                                                                                                                ✗      ✗     ✗
@@ -2094,20 +2103,20 @@ Leisure Suit Larry 5_ Passionate Patti Does a Little Undercover Work {Passionate
 Leisure Suit Larry 5_ Passionate Patti Does a Little Undercover Work {Passionate Patty fa un Lavoretto di Spionaggio}(DOS_Italian)                                 ✗      ✗     ✗
 Leisure Suit Larry 5_ Passionate Patti Does a Little Undercover Work {Patti Pianistka Robi Mala Lecz Tajna Robote}(DOS_Polish)                                     ✗      ✗     ✗
 Leisure Suit Larry 6_ Shape Up or Slip Out! (CD_DOS)                                                                                                               ✗      ✗     ✗
-Leisure Suit Larry 6_ Shape Up or Slip Out! (CD_DOS_French)                                                                                                        ✗      ✗     ✗
-Leisure Suit Larry 6_ Shape Up or Slip Out! (CD_DOS_German)                                                                                                        ✗      ✗     ✗
 Leisure Suit Larry 6_ Shape Up or Slip Out! (CD_Hi-res_DOS)                                                                                                        ✗      ✗     ✗
-Leisure Suit Larry 6_ Shape Up or Slip Out! (CD_Hi-res_DOS_French)                                                                                                 ✗      ✗     ✗
-Leisure Suit Larry 6_ Shape Up or Slip Out! (CD_Hi-res_DOS_German)                                                                                                 ✗      ✗     ✗
 Leisure Suit Larry 6_ Shape Up or Slip Out! (CD_Hi-res_DOS_Russian)                                                                                                ✗      ✗     ✗
 Leisure Suit Larry 6_ Shape Up or Slip Out! (CD_Hi-res_DOS_Spanish)                                                                                                ✗      ✗     ✗
 Leisure Suit Larry 6_ Shape Up or Slip Out! (CD_Hi-res_Macintosh)                                                                                                  ✗      ✗     ✗
 Leisure Suit Larry 6_ Shape Up or Slip Out! (DOS)                                                                                                                  ✗      ✗     ✗
-Leisure Suit Larry 6_ Shape Up or Slip Out! (DOS_French)                                                                                                           ✗      ✗     ✗
-Leisure Suit Larry 6_ Shape Up or Slip Out! (DOS_German)                                                                                                           ✗      ✗     ✗
 Leisure Suit Larry 6_ Shape Up or Slip Out! (DOS_Italian)                                                                                                          ✗      ✗     ✗
-Leisure Suit Larry 6_ Shape Up or Slip Out! (DOS_Polish)                                                                                                           ✗      ✗     ✗
 Leisure Suit Larry 6_ Shape Up or Slip Out! (DOS_Spanish)                                                                                                          ✗      ✗     ✗
+Leisure Suit Larry 6_ Shape Up or Slip Out! {Larry 6_ Z impetem w glab}(DOS_Polish)                                                                                ✗      ✗     ✗
+Leisure Suit Larry 6_ Shape Up or Slip Out! {Leisure Suit Larry 6_ Reiss auf oder schieb' ab}(CD_DOS_German)                                                       ✗      ✗     ✗
+Leisure Suit Larry 6_ Shape Up or Slip Out! {Leisure Suit Larry 6_ Reiss auf oder schieb' ab}(CD_Hi-res_DOS_German)                                                ✗      ✗     ✗
+Leisure Suit Larry 6_ Shape Up or Slip Out! {Leisure Suit Larry 6_ Reiss auf oder schieb' ab}(DOS_German)                                                          ✗      ✗     ✗
+Leisure Suit Larry 6_ Shape Up or Slip Out! {Leisure Suit Larry 6_ Tu t'accroches ou tu décroches}(CD_DOS_French)                                                  ✗      ✗     ✗
+Leisure Suit Larry 6_ Shape Up or Slip Out! {Leisure Suit Larry 6_ Tu t'accroches ou tu décroches}(CD_Hi-res_DOS_French)                                           ✗      ✗     ✗
+Leisure Suit Larry 6_ Shape Up or Slip Out! {Leisure Suit Larry 6_ Tu t'accroches ou tu décroches}(DOS_French)                                                     ✗      ✗     ✗
 Leisure Suit Larry in the Land of the Lounge Lizards (AGI_Amiga)                                                                                                   ✗      ✗     ✗
 Leisure Suit Larry in the Land of the Lounge Lizards (AGI_Apple IIgs)                                                                                              ✗      ✗     ✗
 Leisure Suit Larry in the Land of the Lounge Lizards (AGI_Atari ST)                                                                                                ✗      ✗     ✗
@@ -2178,6 +2187,11 @@ Little Big Adventure (Fanmade_DOS_Polish)                                       
 Little Big Adventure (Fanmade_DOS_Portuguese)                                                                                                                      ✗      ✗     ✗
 Little Big Adventure (Fanmade_DOS_Russian)                                                                                                                         ✗      ✗     ✗
 Little Big Adventure (Floppy_DOS)                                                                                                                                  ✗      ✗     ✗
+Little Big Adventure (Windows)                                                                                                                                     ✗      ✗     ✗
+Little Big Adventure (Windows_French)                                                                                                                              ✗      ✗     ✗
+Little Big Adventure (Windows_German)                                                                                                                              ✗      ✗     ✗
+Little Big Adventure (Windows_Italian)                                                                                                                             ✗      ✗     ✗
+Little Big Adventure (Windows_Spanish)                                                                                                                             ✗      ✗     ✗
 Little Big Adventure 2 (CD_DOS)                                                                                                                                    ✗      ✗     ✗
 Little Big Adventure 2 (CD_DOS_French)                                                                                                                             ✗      ✗     ✗
 Little Big Adventure 2 (CD_DOS_German)                                                                                                                             ✗      ✗     ✗
@@ -2430,13 +2444,11 @@ Manhunter_ New York (Apple IIgs)                                                
 Manhunter_ New York (Atari ST)                                                                                                                                     ✗      ✗     ✗
 Manhunter_ New York (CoCo3)                                                                                                                                        ✗      ✗     ✗
 Manhunter_ New York (DOS)                                                                                                                                          ✗      ✗     ✗
-Manhunter_ New York (Macintosh)                                                                                                                                    ✗      ✗     ✗
 Manhunter_ San Francisco (Amiga)                                                                                                                                   ✗      ✗     ✗
 Manhunter_ San Francisco (Atari ST)                                                                                                                                ✗      ✗     ✗
 Manhunter_ San Francisco (CoCo3)                                                                                                                                   ✗      ✗     ✗
 Manhunter_ San Francisco (DOS)                                                                                                                                     ✗      ✗     ✗
 Manhunter_ San Francisco (DOS_Spanish)                                                                                                                             ✗      ✗     ✗
-Manhunter_ San Francisco (Macintosh)                                                                                                                               ✗      ✗     ✗
 Maniac Mansion (Apple II_Apple IIgs)                                                                                                                               ✗      ✗     ✗
 Maniac Mansion (Apple IIgs)                                                                                                                                        ✗      ✗     ✗
 Maniac Mansion (C64)                                                                                                                                               ✗      ✗     ✗
@@ -2485,7 +2497,9 @@ Manic Mansion (DOS_Fanmade)                                                     
 Mansión, La (Multi-OS_Spanish)                                                                                                                                     ✗      ✗     ✗
 Martian Memorandum (DOS)                                                                                                                                           ✗      ✗     ✗
 Marvel Adventure #1 (Multi-OS)                                                                                                                                     ✗      ✗     ✗
+Marvel Adventure #1_ Questprobe 1_ The Hulk (Commodore 64)                                                                                                         ✗      ✗     ✗
 Marvel Adventure #1_ Questprobe 1_ The Hulk (Multi-OS)                                                                                                             ✗      ✗     ✗
+Marvel Adventure #2_ Questprobe 2_ Spiderman (Commodore 64)                                                                                                        ✗      ✗     ✗
 Marvel Adventure #2_ Questprobe 2_ Spiderman (Multi-OS)                                                                                                            ✗      ✗     ✗
 Masters of the Elements (Macintosh)                                                                                                                                ✗      ✗     ✗
 Masters of the Elements (Macintosh_German)                                                                                                                         ✗      ✗     ✗
@@ -2583,6 +2597,7 @@ Monkey Island 2_ LeChuck's Revenge (Macintosh)                                  
 Monkey Island 2_ LeChuck's Revenge (SE Talkie_DOS)                                                                                                                 ✗      ✗     ✗
 Monkey Island 2_ LeChuck's Revenge (SE Talkie_DOS_Czech)                                                                                                           ✗      ✗     ✗
 Monkey Island 2_ LeChuck's Revenge (SE Talkie_DOS_German)                                                                                                          ✗      ✗     ✗
+Monkey Island 2_ LeChuck's Revenge (SE Talkie_DOS_Hebrew)                                                                                                          ✗      ✗     ✗
 Monkey Island 2_ LeChuck's Revenge (SE Talkie_DOS_Italian)                                                                                                         ✗      ✗     ✗
 Monkey Island 2_ LeChuck's Revenge (SE Talkie_DOS_Spanish)                                                                                                         ✗      ✗     ✗
 Monkey Island 2_ LeChuck's Revenge {원숭이섬의 비밀 2}(DOS_Korean)                                                                                                        ✗      ✗     ✗
@@ -2606,6 +2621,9 @@ Mulldoon Legacy, The (Multi-OS)                                                 
 Mulldoon Murders, The (Multi-OS)                                                                                                                                   ✗      ✗     ✗
 Multi-Dimensional Thief, The (Multi-OS)                                                                                                                            ✗      ✗     ✗
 Mundane Tale of the Morning After, The (Multi-OS)                                                                                                                  ✗      ✗     ✗
+Muppet Treasure Island (Windows)                                                                                                                                   ✗      ✗     ✗
+Muppet Treasure Island {I Muppet nell'Isola del Tesoro}(Windows_Italian)                                                                                           ✗      ✗     ✗
+Muppet Treasure Island {Los Muppets en la Isla del Tesoro}(Windows_Spanish)                                                                                        ✗      ✗     ✗
 Murder in Tehran's Alleys 1933 (Windows)                                                                                                                           ✗      ✗     ✗
 Murder in Tehran's Alleys 1933 {قتل در کوچه های تهران 1933}(Windows_Persian)                                                                                       ✗      ✗     ✗
 Murder in Tehran's Alleys 2016 (Windows)                                                                                                                           ✗      ✗     ✗
@@ -2642,26 +2660,37 @@ Myst _ Masterpiece Edition - 25th Anniversary (Windows_French)                  
 Myst _ Masterpiece Edition - 25th Anniversary (Windows_German)                                                                                                     ✗      ✗     ✗
 Myst _ Masterpiece Edition - 25th Anniversary (Windows_Polish)                                                                                                     ✗      ✗     ✗
 Myst _ Masterpiece Edition - 25th Anniversary (Windows_Spanish)                                                                                                    ✗      ✗     ✗
+Mysterious Adventures 01_ The Golden Baton (Commodore 64)                                                                                                          ✗      ✗     ✗
 Mysterious Adventures 01_ The Golden Baton (Multi-OS)                                                                                                              ✗      ✗     ✗
 Mysterious Adventures 01_ The Golden Baton (Spectrum)                                                                                                              ✗      ✗     ✗
+Mysterious Adventures 02_ The Time Machine (Commodore 64)                                                                                                          ✗      ✗     ✗
 Mysterious Adventures 02_ The Time Machine (Multi-OS)                                                                                                              ✗      ✗     ✗
 Mysterious Adventures 02_ The Time Machine (Spectrum)                                                                                                              ✗      ✗     ✗
+Mysterious Adventures 03_ Arrow of Death Part 1 (Commodore 64)                                                                                                     ✗      ✗     ✗
 Mysterious Adventures 03_ Arrow of Death Part 1 (Multi-OS)                                                                                                         ✗      ✗     ✗
 Mysterious Adventures 03_ Arrow of Death Part 1 (Spectrum)                                                                                                         ✗      ✗     ✗
+Mysterious Adventures 03_ Arrow of Death Part 2 (Commodore 64)                                                                                                     ✗      ✗     ✗
 Mysterious Adventures 04_ Arrow of Death Part 2 (Multi-OS)                                                                                                         ✗      ✗     ✗
 Mysterious Adventures 04_ Arrow of Death Part 2 (Spectrum)                                                                                                         ✗      ✗     ✗
+Mysterious Adventures 05_ Escape from Pulsar 7 (Commodore 64)                                                                                                      ✗      ✗     ✗
 Mysterious Adventures 05_ Escape from Pulsar 7 (Multi-OS)                                                                                                          ✗      ✗     ✗
 Mysterious Adventures 05_ Escape from Pulsar 7 (Spectrum)                                                                                                          ✗      ✗     ✗
+Mysterious Adventures 06_ Circus (Commodore 64)                                                                                                                    ✗      ✗     ✗
 Mysterious Adventures 06_ Circus (Multi-OS)                                                                                                                        ✗      ✗     ✗
 Mysterious Adventures 06_ Circus (Spectrum)                                                                                                                        ✗      ✗     ✗
+Mysterious Adventures 07_ Feasibility Experiment (Commodore 64)                                                                                                    ✗      ✗     ✗
 Mysterious Adventures 07_ Feasibility Experiment (Multi-OS)                                                                                                        ✗      ✗     ✗
 Mysterious Adventures 07_ Feasibility Experiment (Spectrum)                                                                                                        ✗      ✗     ✗
+Mysterious Adventures 08_ The Wizard of Akyrz (Commodore 64)                                                                                                       ✗      ✗     ✗
 Mysterious Adventures 08_ The Wizard of Akyrz (Multi-OS)                                                                                                           ✗      ✗     ✗
 Mysterious Adventures 08_ The Wizard of Akyrz (Spectrum)                                                                                                           ✗      ✗     ✗
+Mysterious Adventures 09_ Perseus and Andromeda (Commodore 64)                                                                                                     ✗      ✗     ✗
 Mysterious Adventures 09_ Perseus and Andromeda (Multi-OS)                                                                                                         ✗      ✗     ✗
 Mysterious Adventures 09_ Perseus and Andromeda (Spectrum)                                                                                                         ✗      ✗     ✗
+Mysterious Adventures 10_ Ten Little Indians (Commodore 64)                                                                                                        ✗      ✗     ✗
 Mysterious Adventures 10_ Ten Little Indians (Multi-OS)                                                                                                            ✗      ✗     ✗
 Mysterious Adventures 10_ Ten Little Indians (Spectrum)                                                                                                            ✗      ✗     ✗
+Mysterious Adventures 11_ Waxworks (Commodore 64)                                                                                                                  ✗      ✗     ✗
 Mysterious Adventures 11_ Waxworks (Multi-OS)                                                                                                                      ✗      ✗     ✗
 Mysterious Adventures 11_ Waxworks (Spectrum)                                                                                                                      ✗      ✗     ✗
 Mysterious Case of the Acrobat and His Peers, The (Multi-OS)                                                                                                       ✗      ✗     ✗
@@ -2725,6 +2754,11 @@ Not in Venice (Multi-OS)                                                        
 Nothing More, Nothing Less (Multi-OS)                                                                                                                              ✗      ✗     ✗
 Nudists Gone Wild (Multi-OS)                                                                                                                                       ✗      ✗     ✗
 O_ Das Textadventure zum Film (Multi-OS_German)                                                                                                                    ✗      ✗     ✗
+Obsidian (Macintosh)                                                                                                                                               ✗      ✗     ✗
+Obsidian (Macintosh)]                                                                                                                                              ✗      ✗     ✗
+Obsidian (Windows)                                                                                                                                                 ✗      ✗     ✗
+Obsidian {Obsidian_ Alla Frontiera della Logica}(Windows_Italian)                                                                                                  ✗      ✗     ✗
+Obsidian {ProSieben Mystery_ Obsidian}(Windows_German)                                                                                                             ✗      ✗     ✗
 Ocaso Mortal (Multi-OS_Spanish)                                                                                                                                    ✗      ✗     ✗
 Ocean Battle (DOS_Fanmade)                                                                                                                                         ✗      ✗     ✗
 Odieus's Quest for the Magic Flingshot (Multi-OS)                                                                                                                  ✗      ✗     ✗
@@ -2830,6 +2864,7 @@ Painless Little Stupid Games #10_ The Valley House (Multi-OS)                   
 Painless Little Stupid Games Hints for ALAN Games (Multi-OS)                                                                                                       ✗      ✗     ✗
 Paintaria (Windows)                                                                                                                                                ✗      ✗     ✗
 Pajama Sam 2_ Thunder and Lightning Aren't so Frightening (Multi-OS)                                                                                               ✗      ✗     ✗
+Pajama Sam 2_ Thunder and Lightning Aren't so Frightening (Windows_Spanish)                                                                                        ✗      ✗     ✗
 Pajama Sam 2_ Thunder and Lightning Aren't so Frightening {Pajama Sam 2_ Doe niet onder voor Bliksem en Donder}(Multi-OS_Dutch)                                    ✗      ✗     ✗
 Pajama Sam 2_ Thunder and Lightning Aren't so Frightening {Pyjama Sam_ Donner und Blitz machen mir nix}(Multi-OS_German)                                           ✗      ✗     ✗
 Pajama Sam 2_ Thunder and Lightning Aren't so Frightening {Sam Pyjam 2_ Héros Météo}(Macintosh_French)                                                             ✗      ✗     ✗
@@ -3322,6 +3357,7 @@ Riven_ The Sequel to Myst - 25th Anniversary (Windows_Russian)                  
 Riven_ The Sequel to Myst - 25th Anniversary (Windows_Spanish)                                                                                                     ✗      ✗     ✗
 Road Demo (DOS_Fanmade)                                                                                                                                            ✗      ✗     ✗
 Robin _ Orchid (Multi-OS)                                                                                                                                          ✗      ✗     ✗
+Robin of Sherwood_ The Touchstones of Rhiannon (Commodore 64)                                                                                                      ✗      ✗     ✗
 Robin's Rescue (Linux)                                                                                                                                             ✗      ✗     ✗
 Robin's Rescue (Windows)                                                                                                                                           ✗      ✗     ✗
 Robotfindskitten_ A Zen Simulation (Multi-OS)                                                                                                                      ✗      ✗     ✗
@@ -3440,30 +3476,45 @@ Schiller _Preview 2_(DOS_Fanmade)                                               
 Schmoozer (Macintosh)                                                                                                                                              ✗      ✗     ✗
 Schoollout (Windows_Czech)                                                                                                                                         ✗      ✗     ✗
 Scopa_ A Graphical Version of the Italian Card Game (Multi-OS)                                                                                                     ✗      ✗     ✗
+Scott Adams Adventure 01_ Adventureland (Commodore 64)                                                                                                             ✗      ✗     ✗
 Scott Adams Adventure 01_ Adventureland (Multi-OS)                                                                                                                 ✗      ✗     ✗
 Scott Adams Adventure 01_ Adventureland (PDA)                                                                                                                      ✗      ✗     ✗
+Scott Adams Adventure 01_ Adventureland (TI99_4A)                                                                                                                  ✗      ✗     ✗
 Scott Adams Adventure 02_ Pirate Adventure (Multi-OS)                                                                                                              ✗      ✗     ✗
 Scott Adams Adventure 02_ Pirate Adventure (PDA)                                                                                                                   ✗      ✗     ✗
+Scott Adams Adventure 02_ Pirate Adventure (TI99_4A)                                                                                                               ✗      ✗     ✗
 Scott Adams Adventure 03_ Mission Impossible (Multi-OS)                                                                                                            ✗      ✗     ✗
 Scott Adams Adventure 03_ Mission Impossible (PDA)                                                                                                                 ✗      ✗     ✗
+Scott Adams Adventure 03_ Mission Impossible (TI99_4A)                                                                                                             ✗      ✗     ✗
 Scott Adams Adventure 04_ Voodoo Castle (Multi-OS)                                                                                                                 ✗      ✗     ✗
 Scott Adams Adventure 04_ Voodoo Castle (PDA)                                                                                                                      ✗      ✗     ✗
+Scott Adams Adventure 04_ Voodoo Castle (TI99_4A)                                                                                                                  ✗      ✗     ✗
 Scott Adams Adventure 05_ The Count (Multi-OS)                                                                                                                     ✗      ✗     ✗
 Scott Adams Adventure 05_ The Count (PDA)                                                                                                                          ✗      ✗     ✗
+Scott Adams Adventure 05_ The Count (TI99_4A)                                                                                                                      ✗      ✗     ✗
 Scott Adams Adventure 06_ Strange Odyssey (Multi-OS)                                                                                                               ✗      ✗     ✗
 Scott Adams Adventure 06_ Strange Odyssey (PDA)                                                                                                                    ✗      ✗     ✗
+Scott Adams Adventure 06_ Strange Odyssey (TI99_4A)                                                                                                                ✗      ✗     ✗
 Scott Adams Adventure 07_ Mystery Fun House (Multi-OS)                                                                                                             ✗      ✗     ✗
 Scott Adams Adventure 07_ Mystery Fun House (PDA)                                                                                                                  ✗      ✗     ✗
+Scott Adams Adventure 07_ Mystery Fun House (TI99_4A)                                                                                                              ✗      ✗     ✗
 Scott Adams Adventure 08_ Pyramid of Doom (Multi-OS)                                                                                                               ✗      ✗     ✗
 Scott Adams Adventure 08_ Pyramid of Doom (PDA)                                                                                                                    ✗      ✗     ✗
+Scott Adams Adventure 08_ Pyramid of Doom (TI99_4A)                                                                                                                ✗      ✗     ✗
 Scott Adams Adventure 09_ Ghost Town (Multi-OS)                                                                                                                    ✗      ✗     ✗
 Scott Adams Adventure 09_ Ghost Town (PDA)                                                                                                                         ✗      ✗     ✗
+Scott Adams Adventure 09_ Ghost Town (TI99_4A)                                                                                                                     ✗      ✗     ✗
+Scott Adams Adventure 10 _ 11_ Savage Island, Part 1 _ 2 (Commodore 64)                                                                                            ✗      ✗     ✗
 Scott Adams Adventure 10_ Savage Island, Part 1 (Multi-OS)                                                                                                         ✗      ✗     ✗
 Scott Adams Adventure 10_ Savage Island, Part 1 (PDA)                                                                                                              ✗      ✗     ✗
+Scott Adams Adventure 10_ Savage Island, Part 1 (TI99_4A)                                                                                                          ✗      ✗     ✗
 Scott Adams Adventure 11_ Savage Island, Part 2 (Multi-OS)                                                                                                         ✗      ✗     ✗
 Scott Adams Adventure 11_ Savage Island, Part 2 (PDA)                                                                                                              ✗      ✗     ✗
+Scott Adams Adventure 11_ Savage Island, Part 2 (TI99_4A)                                                                                                          ✗      ✗     ✗
 Scott Adams Adventure 12_ The Golden Voyage (Multi-OS)                                                                                                             ✗      ✗     ✗
 Scott Adams Adventure 12_ The Golden Voyage (PDA)                                                                                                                  ✗      ✗     ✗
+Scott Adams Adventure 12_ The Golden Voyage (TI99_4A)                                                                                                              ✗      ✗     ✗
+Scott Adams Adventure 13_ Sorcerer of Claymorgue Castle (Commodore 64)                                                                                             ✗      ✗     ✗
 Scott Adams Adventure 13_ Sorcerer of Claymorgue Castle (Multi-OS)                                                                                                 ✗      ✗     ✗
 Scott Adams Adventure 13_ Sorcerer of Claymorgue Castle (PDA)                                                                                                      ✗      ✗     ✗
 Scott Adams Adventure 14_ Return to Pirate Isle (Multi-OS)                                                                                                         ✗      ✗     ✗
@@ -3534,6 +3585,7 @@ ScummVM - MADE Engine Games                                                     
 ScummVM - MADS Engine Games                                                                                                                                        ✗      ✗     ✗
 ScummVM - MOHAWK Engine Games                                                                                                                                      ✗      ✗     ✗
 ScummVM - MORTEVIELLE Engine Games                                                                                                                                 ✗      ✗     ✗
+ScummVM - MTROPOLIS Engine Games                                                                                                                                   ✗      ✗     ✗
 ScummVM - MUTATIONOFJB Engine Games                                                                                                                                ✗      ✗     ✗
 ScummVM - MYST3 Engine Games                                                                                                                                       ✗      ✗     ✗
 ScummVM - NANCY Engine Games                                                                                                                                       ✗      ✗     ✗
@@ -3580,6 +3632,7 @@ ScummVM - WINTERMUTE-3D Engine Games                                            
 ScummVM - XEEN Engine Games                                                                                                                                        ✗      ✗     ✗
 ScummVM - ZVISION Engine Games                                                                                                                                     ✗      ✗     ✗
 Sealed Room, The (Multi-OS)                                                                                                                                        ✗      ✗     ✗
+Seas of Blood (Commodore 64)                                                                                                                                       ✗      ✗     ✗
 Seastalker_ You and the Ultramarine Bioceptor (Atari 8-bit)                                                                                                        ✗      ✗     ✗
 Seastalker_ You and the Ultramarine Bioceptor (CoCo3)                                                                                                              ✗      ✗     ✗
 Seastalker_ You and the Ultramarine Bioceptor (DOS)                                                                                                                ✗      ✗     ✗
@@ -3746,7 +3799,6 @@ Silicon Dreams, Part 3_ Worm in Paradise (Spectrum 128)                         
 Silicon Dreams, Part 3_ Worm in Paradise (Spectrum 48)                                                                                                             ✗      ✗     ✗
 Silly Noisy House, A (Windows)                                                                                                                                     ✗      ✗     ✗
 Simon the Sorcerer (CD_Amiga CD32)                                                                                                                                 ✗      ✗     ✗
-Simon the Sorcerer (CD_Archimedes)                                                                                                                                 ✗      ✗     ✗
 Simon the Sorcerer (CD_DOS)                                                                                                                                        ✗      ✗     ✗
 Simon the Sorcerer (CD_DOS_German)                                                                                                                                 ✗      ✗     ✗
 Simon the Sorcerer (CD_Enhanced Music_DOS_German)                                                                                                                  ✗      ✗     ✗
@@ -3982,10 +4034,12 @@ Stroke of Fate_ Operation Valkyrie (Windows)                                    
 Stroke of Fate_ Operation Valkyrie (Windows_Spanish)                                                                                                               ✗      ✗     ✗
 Stroke of Fate_ Operation Valkyrie {Архивы НКВД_ Охота на фюрера. Операция Валькирия}(Windows_Russian)                                                             ✗      ✗     ✗
 Sultan's Palace, The (Macintosh)                                                                                                                                   ✗      ✗     ✗
+Sumatra- Fate of Yandi (Windows_English,German,Spanish,French)                                                                                                     ✗      ✗     ✗
 Sumatra_ Fate of Yandi (Windows)                                                                                                                                   ✗      ✗     ✗
 Sunrise_ The Game (Windows_German)                                                                                                                                 ✗      ✗     ✗
 Super Jazz Man (Windows)                                                                                                                                           ✗      ✗     ✗
 Super Z Trek (Multi-OS)                                                                                                                                            ✗      ✗     ✗
+Supergran_ The Adventure (Commodore 64)                                                                                                                            ✗      ✗     ✗
 Surprising Case of Brian Timmons, The (Multi-OS)                                                                                                                   ✗      ✗     ✗
 Susan Rose_ Delicate Murder {Евлампия Романова_ Нежный супруг олигарха}(Windows_Russian)                                                                           ✗      ✗     ✗
 Susan Rose_ Mysterious Child {Даша Васильева_ Личное дело Женщины-кошки}(Windows_Russian)                                                                          ✗      ✗     ✗
@@ -4026,6 +4080,8 @@ Teleport Test (Multi-OS)                                                        
 Temple de Feu, Le (Multi-OS_French)                                                                                                                                ✗      ✗     ✗
 Tender Loving Care (CD_Windows)                                                                                                                                    ✗      ✗     ✗
 Tender Loving Care (DVD_Windows)                                                                                                                                   ✗      ✗     ✗
+Tender Loving Care {Die Versuchung}(CD_Windows_German)                                                                                                             ✗      ✗     ✗
+Tender Loving Care {Die Versuchung}(DVD_Windows_German)                                                                                                            ✗      ✗     ✗
 Terrible Old Man, The (Windows)                                                                                                                                    ✗      ✗     ✗
 Terrible Old Man, The (Windows_Spanish)                                                                                                                            ✗      ✗     ✗
 Terrible Old Manse, The_ 8bit Fun in 7bit ASCII (Multi-OS)                                                                                                         ✗      ✗     ✗
@@ -4130,6 +4186,7 @@ Una Pequeña Historia de Navidad (Multi-OS_Spanish)                             
 Unavowed (Macintosh)                                                                                                                                               ✗      ✗     ✗
 Unavowed (Windows)                                                                                                                                                 ✗      ✗     ✗
 Uncle Henry's Playhouse (Windows)                                                                                                                                  ✗      ✗     ✗
+Uncle Henry's Playhouse (Windows_German)                                                                                                                           ✗      ✗     ✗
 Under the Bed (Multi-OS)                                                                                                                                           ✗      ✗     ✗
 Underoos That Ate New York!, The (Multi-OS)                                                                                                                        ✗      ✗     ✗
 Undersea Conquest_ Part 1 (Multi-OS)                                                                                                                               ✗      ✗     ✗
@@ -4360,6 +4417,7 @@ Zork_ The Undiscovered Underground Hint Booklet (Multi-OS)                      
 Zorkian Stories 1_ G.U.E (Multi-OS)                                                                                                                                ✗      ✗     ✗
 Zugzwang (Windows)                                                                                                                                                 ✗      ✗     ✗
 Zugzwang_ The Interactive Life of a Chess Piece (Multi-OS)                                                                                                         ✗      ✗     ✗
+_Legend of Kyrandia, The_ Malcolm's Revenge (DOS_Hebrew)                                                                                                           ✗      ✗     ✗
 _Myst III_ Exile {神秘岛3：放逐}(Windows_Chinese (Simplified))                                                                                                           ✗      ✗     ✗
 baZic_ Z-Machine BASIC Implementation (Multi-OS)                                                                                                                   ✗      ✗     ✗
 iD4 Mission Disk 01_ Alien Supreme Commander (Windows)                                                                                                             ✗      ✗     ✗

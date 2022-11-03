@@ -1,15 +1,15 @@
 Microsoft - MSX2 Missing
 
-Boxarts   64/193  33.16%
-Snaps    155/193  80.31%
-Titles   155/193  80.31%
-Total    374/579  64.59%
+Boxarts   64/196  32.65%
+Snaps    155/196  79.08%
+Titles   155/196  79.08%
+Total    374/588  63.61%
 
 Name                                                                        Boxart  Snap  Title
 1942 (Japan)                                                                   -      -     -
 A Ressha de Ikou MSX (Japan)                                                   ✗      -     -
 AcroJet (Japan)                                                                -      -     -
-Akumajo Dracula (Japan) (WiiU Virtual Console)                                 ✗      ✗     ✗
+Akumajo Dracula (Japan) (Wii U Virtual Console)                                ✗      ✗     ✗
 Aleste (Japan)                                                                 -      -     -
 Alges no Yoku (Japan)                                                          ✗      -     -
 American Soccer (Japan)                                                        ✗      -     -
@@ -21,10 +21,11 @@ Arkanoid II - Revenge of Doh (Japan)                                           -
 AshGuine - Densetsu no Seisenshi (Japan)                                       -      -     -
 AshGuine Story II - Kokuu no Gajou (Japan)                                     -      -     -
 AshGuine Story III - Fukushuu no Honoo (Japan)                                 ✗      -     -
+Brunilda (World) (v1.1) (Aftermarket) (Homebrew)                               ✗      ✗     ✗
 Bubble Bobble (Japan)                                                          -      -     -
 Bubble Bobble (Japan) (Alt)                                                    ✗      ✗     ✗
 Cockpit, The (Japan)                                                           ✗      -     -
-Contra (Japan) (WiiU Virtual Console)                                          ✗      ✗     ✗
+Contra (Japan) (Wii U Virtual Console)                                         ✗      ✗     ✗
 Crimson (Japan)                                                                ✗      -     -
 Daikoukai Jidai (Japan)                                                        ✗      -     -
 Daisenryaku MSX2 (Japan)                                                       -      -     -
@@ -61,7 +62,7 @@ Fire Ball (Japan)                                                              -
 Fleet Commander II - Koukon no Kaiiki (Japan)                                  ✗      -     -
 Gakuen Monogatari - High School Story (Japan)                                  ✗      -     -
 Gambler Jiko Chuushinha 2 - Jishou! Kyougou Janshi Hen (Japan)                 ✗      -     -
-Ganbare Goemon! - Karakuri Douchuu (Japan) (WiiU Virtual Console)              ✗      ✗     ✗
+Ganbare Goemon! - Karakuri Douchuu (Japan) (Wii U Virtual Console)             ✗      ✗     ✗
 Garakuta (Japan)                                                               ✗      -     -
 Garyuu Ou (Japan)                                                              -      -     -
 Garyuu Ou (Japan) (Alt)                                                        ✗      ✗     ✗
@@ -140,7 +141,7 @@ Pro Yakyuu Fan - Telenet Stadium (Japan)                                       �
 Professional Mahjong Gokuu (Japan)                                             ✗      -     -
 Project A2 - Shijousaidai no Hyouteki (Japan)                                  ✗      -     -
 Quarth (Japan) (Demo)                                                          ✗      -     -
-Quarth (Japan) (WiiU Virtual Console)                                          ✗      ✗     ✗
+Quarth (Japan) (Wii U Virtual Console)                                         ✗      ✗     ✗
 Quarth (Korea)                                                                 ✗      -     -
 Quinpl (Japan)                                                                 ✗      -     -
 Rastan Saga (Japan)                                                            -      -     -
@@ -157,7 +158,7 @@ Seikima II Special - Akuma no Gyakushuu (Japan)                                �
 Seikima II Special - Akuma no Gyakushuu (Japan) (Alt)                          ✗      ✗     ✗
 Shanghai (Japan)                                                               ✗      -     -
 Shiryou Sensen - War of the Dead (Japan)                                       -      -     -
-Space Manbow (Japan) (WiiU Virtual Console)                                    ✗      ✗     ✗
+Space Manbow (Japan) (Wii U Virtual Console)                                   ✗      ✗     ✗
 Star Virgin (Japan)                                                            -      -     -
 Star Virgin (Japan) (Alt)                                                      ✗      ✗     ✗
 Strategic Mars (Japan)                                                         -      -     -
@@ -167,6 +168,8 @@ Super Load Runner (Japan)                                                      -
 Super Rambo Special (Japan)                                                    -      -     -
 Super Runner (Japan)                                                           ✗      -     -
 Super Tritorn (Japan)                                                          -      -     -
+Sword of Ianna, The (World) (En,Es) (v1.2) (Aftermarket) (Homebrew)            ✗      ✗     ✗
+Sword of Ianna, The (World) (Fr) (v1.2) (Aftermarket) (Homebrew)               ✗      ✗     ✗
 Taiyou no Shinden - Asteka II (Japan)                                          ✗      -     -
 Tanikawa Hiroshi no Shougi Shinan 2 (Japan)                                    ✗      -     -
 Teitoku no Ketsudan (Japan)                                                    ✗      -     -
@@ -175,7 +178,7 @@ Tetris (Japan)                                                                 -
 Topple Zip (Japan)                                                             ✗      -     -
 Treasure of Usas, The (Japan, Europe)                                          -      -     -
 Treasure of Usas, The (Japan, Europe) (Alt)                                    ✗      ✗     ✗
-Treasure of the Usas (Japan) (WiiU Virtual Console)                            ✗      ✗     ✗
+Treasure of the Usas (Japan) (Wii U Virtual Console)                           ✗      ✗     ✗
 Tsurikichi Sanpei - Blue Marine Hen (Japan)                                    ✗      -     -
 Tsurikichi Sanpei - Tsuri Sennin Hen (Japan)                                   ✗      -     -
 Ultima Exodus (Japan)                                                          ✗      -     -

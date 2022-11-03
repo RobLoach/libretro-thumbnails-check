@@ -1,17 +1,18 @@
 Sega - Mega Drive - Genesis Missing
 
-Boxarts  1433/2629  54.51%
-Snaps    1401/2629  53.29%
-Titles   1394/2629  53.02%
-Total    4228/7887  53.61%
+Boxarts  1433/2673  53.61%
+Snaps    1406/2673  52.60%
+Titles   1396/2673  52.23%
+Total    4235/8019  52.81%
 
 Name                                                                                                         Boxart  Snap  Title
 007 Shitou - The Duel (Japan)                                                                                   -      -     -
 10 Super Jogos (Brazil) (En)                                                                                    ✗      ✗     ✗
 16 Zhang Mahjong (Taiwan) (Unl)                                                                                 ✗      ✗     ✗
 16 Zhang Mahjong II (Taiwan) (Unl)                                                                              ✗      ✗     -
-16Bit Rhythm Land (World) (Aftermarket) (Unl)                                                                   ✗      ✗     ✗
+16Bit Rhythm Land (Japan) (En) (Aftermarket) (Unl)                                                              ✗      ✗     ✗
 16t (Japan) (Game no Kanzume Otokuyou)                                                                          ✗      ✗     ✗
+16t (Japan) (Game no Kanzume Vol. 2)                                                                            ✗      ✗     ✗
 16t (Japan) (SegaNet)                                                                                           ✗      -     -
 2020 Nen Super Baseball (Japan)                                                                                 -      -     -
 3 Ninjas Kick Back (USA)                                                                                        -      -     -
@@ -126,13 +127,14 @@ Arcus Odyssey (Japan)                                                           
 Arcus Odyssey (USA)                                                                                             -      -     -
 Ariel the Little Mermaid (USA, Europe)                                                                          -      -     -
 Ariel the Little Mermaid (USA, Europe) (1992-10-10) (Sega Channel)                                              ✗      ✗     ✗
-Arkagis Revolution (World) (En,Es) (Prerelease) (2019-07-29) (Unl)                                              ✗      ✗     ✗
-Arkagis Revolution (World) (En,Es) (Prerelease) (2019-09-02) (Unl)                                              ✗      ✗     ✗
-Arkagis Revolution (World) (En,Es) (Prerelease) (2019-09-16) (Unl)                                              ✗      ✗     ✗
-Arkagis Revolution (World) (En,Fr,Es) (Prerelease) (2019-02-21) (Unl)                                           ✗      ✗     ✗
-Arkagis Revolution (World) (En,Fr,Es) (Prerelease) (2019-11-28) (Unl)                                           ✗      ✗     ✗
-Arkagis Revolution (World) (En,Fr,Es) (Prerelease) (2020-03-04) (Unl)                                           ✗      ✗     ✗
+Arkagis Revolution (World) (En,Es) (Beta) (2019-07-29) (Aftermarket) (Unl)                                      ✗      ✗     ✗
+Arkagis Revolution (World) (En,Es) (Beta) (2019-09-02) (Aftermarket) (Unl)                                      ✗      ✗     ✗
+Arkagis Revolution (World) (En,Es) (Beta) (2019-09-16) (Aftermarket) (Unl)                                      ✗      ✗     ✗
+Arkagis Revolution (World) (En,Fr,Es) (Beta) (2019-11-28) (Aftermarket) (Unl)                                   ✗      ✗     ✗
+Arkagis Revolution (World) (En,Fr,Es) (Beta) (2020-02-21) (Aftermarket) (Unl)                                   ✗      ✗     ✗
+Arkagis Revolution (World) (En,Fr,Es) (Beta) (2020-03-04) (Aftermarket) (Homebrew)                              ✗      ✗     ✗
 Arkagis Revolution (World) (En,Fr,Es) (Rev 1) (Aftermarket) (Unl)                                               ✗      ✗     ✗
+Arkagis Revolution Input Diagnostics ROM (World) (Aftermarket) (Homebrew)                                       ✗      ✗     ✗
 Arnold Palmer Tournament Golf (USA, Europe)                                                                     -      -     -
 Arnold Palmer Tournament Golf (USA, Europe) (Rev A) (Beta) (1990-03-22) (Sega Channel)                          ✗      ✗     ✗
 Arrow Flash (Japan, Europe) (En)                                                                                ✗      ✗     ✗
@@ -276,6 +278,7 @@ Body Count (Brazil) (En) (Beta) (1994-03-08)                                    
 Body Count (Europe) (En,Fr,De,Es,It)                                                                            -      -     -
 Body Count (Europe) (En,Fr,De,Es,It) (Beta)                                                                     -      -     -
 Bomb on Basic City (World) (Aftermarket) (Homebrew)                                                             ✗      ✗     ✗
+Bomb on Basic City (World) (Demo) (Aftermarket) (Homebrew)                                                      ✗      ✗     ✗
 Bomb on Basic City (World) (Special Edition) (Aftermarket) (Homebrew)                                           ✗      ✗     ✗
 Bomber (Brazil) (En) (Unl)                                                                                      ✗      ✗     ✗
 Bomboy (Taiwan) (En) (Unl)                                                                                      ✗      ✗     ✗
@@ -391,7 +394,7 @@ Cliffhanger (USA)                                                               
 Clue (USA)                                                                                                      -      -     -
 Coach K College Basketball (USA)                                                                                -      -     -
 Coffee Crisis (World) (Aftermarket) (Unl)                                                                       ✗      ✗     ✗
-Coffee Crisis (World) (Demo) (Unl)                                                                              ✗      ✗     ✗
+Coffee Crisis (World) (Demo) (Aftermarket) (Unl)                                                                ✗      ✗     ✗
 Coffee Crisis (World) (Rev 1) (Aftermarket) (Unl)                                                               ✗      ✗     ✗
 College Football USA 96 (USA)                                                                                   -      -     -
 College Football USA 96 (USA) (Beta) (1995-06-21)                                                               ✗      ✗     ✗
@@ -492,7 +495,8 @@ Curse of Illmoore Bay, The (World) (Demo 1) (Aftermarket) (Unl)                 
 Curse of Illmoore Bay, The (World) (Demo 2) (Aftermarket) (Unl)                                                 ✗      ✗     ✗
 Curse of Illmoore Bay, The (World) (Demo 3) (Aftermarket) (Unl)                                                 ✗      ✗     ✗
 Curse of Illmoore Bay, The (World) (Steam Version) (Aftermarket) (Unl)                                          ✗      ✗     ✗
-Cursed Knight, The (World) (v1.0) (Demo) (Aftermarket)                                                          ✗      ✗     ✗
+Cursed Knight, The (World) (En,Fr) (Aftermarket) (Unl)                                                          ✗      ✗     ✗
+Cursed Knight, The (World) (v1.0) (Demo) (Aftermarket) (Unl)                                                    ✗      ✗     ✗
 Cursed Knight, The (World) (v1.1) (Demo) (Aftermarket) (Unl)                                                    ✗      ✗     ✗
 Cursed Knight, The (World) (v2.0) (Demo) (Aftermarket) (Unl)                                                    ✗      ✗     ✗
 Cursed Knight, The (World) (v2.1) (Demo) (Aftermarket) (Unl)                                                    ✗      ✗     ✗
@@ -576,9 +580,10 @@ Devilish (USA) (Beta) (1992-01-16)                                              
 Devilish - The Next Possession (USA)                                                                            -      -     -
 Devwill Too (World) (Aftermarket) (Unl)                                                                         ✗      ✗     ✗
 Devwill Too (World) (Aftermarket) (Unl) (Alt)                                                                   ✗      ✗     ✗
-Devwill Too (World) (Demo) (Aftermarket) (Unl)                                                                  ✗      ✗     ✗
+Devwill Too (World) (Demo) (Aftermarket) (Homebrew)                                                             ✗      ✗     ✗
 Devwill Too (World) (Pt-BR) (Aftermarket) (Unl)                                                                 ✗      ✗     ✗
 Devwill Too (World) (Pt-BR) (Aftermarket) (Unl) (Alt)                                                           ✗      ✗     ✗
+Devwill Too (World) (v2) (Demo) (Aftermarket) (Unl)                                                             ✗      ✗     ✗
 Dexstar (USA, Europe) (Beta) (1994-08-12)                                                                       ✗      ✗     ✗
 Dexstar (USA, Europe) (Beta) (1994-08-26)                                                                       ✗      ✗     ✗
 Dial Q o Mawase! (Japan) (Unl)                                                                                  -      -     -
@@ -621,7 +626,9 @@ Dragon's Lair (USA) (Proto) (June, 1994)                                        
 Dragon's Revenge (Japan) (En)                                                                                   -      -     -
 Dragon's Revenge (USA, Europe)                                                                                  -      -     -
 Dream Team USA (Japan)                                                                                          -      -     -
-Drunk as I Like (World) (Aftermarket) (Homebrew)                                                                ✗      ✗     ✗
+Drunk as I Like (World) (Beta) (Aftermarket) (Homebrew)                                                         ✗      ✗     ✗
+Drunk as I Like (World) (GitHub) (Aftermarket) (Homebrew)                                                       ✗      ✗     ✗
+Drunk as I Like (World) (Itch.io) (Aftermarket) (Homebrew)                                                      ✗      ✗     ✗
 Du Shen Zhi Meng Huan Poker (Taiwan) (Unl)                                                                      ✗      ✗     ✗
 Duke Nukem 3D (Brazil) (En)                                                                                     ✗      ✗     ✗
 Duke Nukem 3D (USA) (Aftermarket) (Unl)                                                                         ✗      ✗     ✗
@@ -866,7 +873,7 @@ Golden Axe (World) (Rev A)                                                      
 Golden Axe (World) (Rev B) (Sega Smash Pack)                                                                    ✗      ✗     ✗
 Golden Axe II (World)                                                                                           -      -     -
 Golden Axe II (World) (Beta)                                                                                    -      -     -
-Golden Axe III (Europe) (Virtual Console)                                                                       -      ✗     ✗
+Golden Axe III (Europe) (Virtual Console)                                                                       -      -     -
 Golden Axe III (Japan) (En)                                                                                     -      -     -
 Goofy's Hysterical History Tour (USA)                                                                           -      -     -
 Gouketsuji Ichizoku (Japan)                                                                                     -      -     -
@@ -934,6 +941,7 @@ Hyper Dunk (Europe)                                                             
 Hyper Dunk - The Playoff Edition (Japan)                                                                        -      -     -
 Hyper Dunk - The Playoff Edition (Japan) (Beta) (February, 1994)                                                ✗      ✗     ✗
 Hyper Marbles (Japan) (Game no Kanzume Otokuyou)                                                                ✗      ✗     ✗
+Hyper Marbles (Japan) (Game no Kanzume Vol. 1)                                                                  ✗      ✗     ✗
 Hyper Marbles (Japan) (SegaNet)                                                                                 ✗      -     -
 I Love Mickey Mouse - Fushigi no Oshiro Daibouken (Japan)                                                       -      -     -
 I Love Mickey and Donald - Fushigi na Magic Box (Japan)                                                         -      -     -
@@ -1045,6 +1053,7 @@ Justice League Task Force (World)                                               
 Juuouki (Japan)                                                                                                 -      -     -
 Juuouki (Japan) (Rev A)                                                                                         -      -     -
 Juusou Kihei Leynos (Japan)                                                                                     -      -     -
+Juusou Kihei Leynos (Japan) (Switch Online)                                                                     ✗      ✗     ✗
 Juusou Kihei Leynos (Japan) (Virtual Console)                                                                   ✗      ✗     ✗
 Ka-Ge-Ki (Japan)                                                                                                -      -     -
 Ka-Ge-Ki - Fists of Steel (USA)                                                                                 -      -     -
@@ -1084,7 +1093,35 @@ Kyuukyoku Tiger (Japan)                                                         
 L'Abbaye des Morts (World) (Aftermarket) (Unl)                                                                  -      -     -
 LHX Attack Chopper (Japan)                                                                                      -      -     -
 LHX Attack Chopper (USA, Europe)                                                                                -      -     -
-LIZARDPAINT (World) (v0.3) (Aftermarket) (Homebrew)                                                             ✗      ✗     ✗
+LIZARDPAINT (World) (2021-08-21) (Beta) (Aftermarket) (Homebrew)                                                ✗      ✗     ✗
+LIZARDPAINT (World) (2021-10-28) (Beta) (Aftermarket) (Homebrew)                                                ✗      ✗     ✗
+LIZARDPAINT (World) (2021-11-14) (Beta) (Aftermarket) (Homebrew)                                                ✗      ✗     ✗
+LIZARDPAINT (World) (2021-12-01) (Beta) (Aftermarket) (Homebrew)                                                ✗      ✗     ✗
+LIZARDPAINT (World) (2022-01-06) (Beta) (Aftermarket) (Homebrew)                                                ✗      ✗     ✗
+LIZARDPAINT (World) (2022-01-29) (Beta) (Aftermarket) (Homebrew)                                                ✗      ✗     ✗
+LIZARDPAINT (World) (2022-02-09) (Beta) (Aftermarket) (Homebrew)                                                ✗      ✗     ✗
+LIZARDPAINT (World) (2022-02-19) (Beta) (Aftermarket) (Homebrew)                                                ✗      ✗     ✗
+LIZARDPAINT (World) (2022-02-27) (Beta) (Aftermarket) (Homebrew)                                                ✗      ✗     ✗
+LIZARDPAINT (World) (2022-03-12) (Beta) (Aftermarket) (Homebrew)                                                ✗      ✗     ✗
+LIZARDPAINT (World) (2022-03-13) (Beta) (Aftermarket) (Homebrew)                                                ✗      ✗     ✗
+LIZARDPAINT (World) (2022-03-27) (Beta) (Aftermarket) (Homebrew)                                                ✗      ✗     ✗
+LIZARDPAINT (World) (2022-03-29) (Beta) (Aftermarket) (Homebrew)                                                ✗      ✗     ✗
+LIZARDPAINT (World) (2022-03-31) (Beta) (Aftermarket) (Homebrew)                                                ✗      ✗     ✗
+LIZARDPAINT (World) (2022-04-17) (Beta) (Aftermarket) (Homebrew)                                                ✗      ✗     ✗
+LIZARDPAINT (World) (2022-04-18) (Beta) (Aftermarket) (Homebrew)                                                ✗      ✗     ✗
+LIZARDPAINT (World) (2022-04-22) (Beta) (Aftermarket) (Homebrew)                                                ✗      ✗     ✗
+LIZARDPAINT (World) (2022-04-24) (Beta) (Aftermarket) (Homebrew)                                                ✗      ✗     ✗
+LIZARDPAINT (World) (2022-05-18) (Beta) (Aftermarket) (Homebrew)                                                ✗      ✗     ✗
+LIZARDPAINT (World) (2022-05-24) (Beta) (Aftermarket) (Homebrew)                                                ✗      ✗     ✗
+LIZARDPAINT (World) (2022-06-12) (Beta) (Aftermarket) (Homebrew)                                                ✗      ✗     ✗
+LIZARDPAINT (World) (2022-06-16) (Beta) (Aftermarket) (Homebrew)                                                ✗      ✗     ✗
+LIZARDPAINT (World) (2022-06-19) (Beta) (Aftermarket) (Homebrew)                                                ✗      ✗     ✗
+LIZARDPAINT (World) (2022-07-31) (Beta) (Homebrew)                                                              ✗      ✗     ✗
+LIZARDPAINT (World) (2022-08-11) (Beta) (Homebrew)                                                              ✗      ✗     ✗
+LIZARDPAINT (World) (v0.1) (Aftermarket) (Homebrew)                                                             ✗      ✗     ✗
+LIZARDPAINT (World) (v0.2) (Aftermarket) (Homebrew)                                                             ✗      ✗     ✗
+LIZARDPAINT (World) (v0.3) (Itch.io) (Aftermarket) (Homebrew)                                                   ✗      ✗     ✗
+LIZARDPAINT (World) (v0.3) (Patreon) (Aftermarket) (Homebrew)                                                   ✗      ✗     ✗
 La Russa Baseball 95 (USA, Australia)                                                                           -      -     -
 Lakers versus Celtics and the NBA Playoffs (USA, Europe)                                                        -      -     -
 Lakers versus Celtics and the NBA Playoffs (USA, Europe) (Beta)                                                 ✗      ✗     ✗
@@ -1305,8 +1342,8 @@ Miniplanets (World) (Rev 2) (Aftermarket) (Unl)                                 
 Miniplanets (World) (Rev 3) (Aftermarket) (Unl)                                                                 ✗      ✗     ✗
 Minnesota Fats - Pool Legend (USA)                                                                              -      -     -
 Miracle Piano Teaching System, The (USA)                                                                        -      -     -
-Misplaced (Russia) (Aftermarket) (Unl)                                                                          ✗      ✗     ✗
 Misplaced (World) (Aftermarket) (Unl)                                                                           ✗      ✗     ✗
+Misplaced (World) (Ru) (Aftermarket) (Unl)                                                                      ✗      ✗     ✗
 Mondu's Fight Palace (USA) (Beta) (1990-07-03)                                                                  ✗      ✗     ✗
 Monopoly (USA)                                                                                                  -      -     -
 Monopoly (USA) (Beta)                                                                                           -      -     -
@@ -1575,10 +1612,14 @@ Phantasy Star II (USA, Europe) (Beta) (1989-07-28)                              
 Phantasy Star II (USA, Europe) (Rev A)                                                                          -      -     -
 Phantasy Star II (USA, Europe) (Rev A) (PC Rerelease)                                                           ✗      ✗     ✗
 Phantasy Star II (USA, Europe) (Rev A) (Virtual Console)                                                        -      ✗     ✗
+Phantasy Star II - Amia's Adventure (Japan) (Game no Kanzume Vol. 1)                                            ✗      ✗     ✗
 Phantasy Star II - Amia's Adventure (Japan) (SegaNet)                                                           ✗      -     -
+Phantasy Star II - Anne's Adventure (Japan) (Game no Kanzume Vol. 2)                                            ✗      ✗     ✗
 Phantasy Star II - Anne's Adventure (Japan) (SegaNet)                                                           ✗      -     -
+Phantasy Star II - Huey's Adventure (Japan) (Game no Kanzume Vol. 1)                                            ✗      ✗     ✗
 Phantasy Star II - Huey's Adventure (Japan) (SegaNet)                                                           ✗      -     -
 Phantasy Star II - Kaerazaru Toki no Owari ni (Japan)                                                           -      -     -
+Phantasy Star II - Kinds's Adventure (Japan) (Game no Kanzume Vol. 2)                                           ✗      ✗     ✗
 Phantasy Star II - Kinds's Adventure (Japan) (SegaNet)                                                          ✗      -     -
 Phantasy Star II - Nei's Adventure (Japan) (SegaNet)                                                            ✗      -     -
 Phantasy Star II - Rudger's Adventure (Japan) (SegaNet)                                                         ✗      -     -
@@ -1638,6 +1679,7 @@ Powerball (USA)                                                                 
 Predator 2 (USA, Europe)                                                                                        -      -     -
 Premier Manager (Europe)                                                                                        -      -     -
 Premier Manager 97 (Europe)                                                                                     -      -     -
+Primal Rage (USA) (Beta)                                                                                        ✗      ✗     ✗
 Primal Rage (USA) (Demo) (1995-08-01) (Sega Channel) (Test Drive Version)                                       ✗      ✗     ✗
 Primal Rage (USA) (Demo) (1995-08-25) (Sega Channel) (Rental Version)                                           -      ✗     ✗
 Primal Rage (USA, Europe)                                                                                       -      -     -
@@ -1936,11 +1978,11 @@ Sonic Spinball (USA) (1993-09-22) (Sega Channel)                                
 Sonic Spinball (USA) (Beta) (August, 1993)                                                                      ✗      ✗     ✗
 Sonic Spinball (USA) (Beta) (October, 1993)                                                                     ✗      ✗     ✗
 Sonic The Hedgehog (Japan, Europe, Korea) (En)                                                                  ✗      ✗     ✗
-Sonic The Hedgehog (USA, Europe)                                                                                -      ✗     -
+Sonic The Hedgehog (USA, Europe)                                                                                -      -     -
 Sonic The Hedgehog (USA, Europe) (Sonic Classic Collection)                                                     ✗      ✗     ✗
 Sonic The Hedgehog (Unknown) (Beta)                                                                             ✗      ✗     ✗
 Sonic The Hedgehog (World) (Sonic Mega Collection)                                                              ✗      ✗     ✗
-Sonic The Hedgehog 2 (World)                                                                                    -      ✗     -
+Sonic The Hedgehog 2 (World)                                                                                    -      -     -
 Sonic The Hedgehog 2 (World) (Beta) (1992-08-21)                                                                ✗      ✗     ✗
 Sonic The Hedgehog 2 (World) (Beta) (1992-09-14)                                                                ✗      ✗     ✗
 Sonic The Hedgehog 2 (World) (Beta) (1992-09-18)                                                                ✗      ✗     ✗
@@ -1956,7 +1998,7 @@ Sonic The Hedgehog 2 (World) (Rev A) (Sonic Classic Collection)                 
 Sonic The Hedgehog 2 (World) (Rev A) (Sonic Mega Collection)                                                    ✗      ✗     ✗
 Sonic The Hedgehog 2 (World) (Rev B)                                                                            -      ✗     -
 Sonic The Hedgehog 3 (Japan, Korea) (Ja)                                                                        ✗      ✗     ✗
-Sonic The Hedgehog 3 (USA)                                                                                      -      ✗     -
+Sonic The Hedgehog 3 (USA)                                                                                      -      -     -
 Sonic The Hedgehog 3 (USA) (1993-11-20) (Sega Channel)                                                          ✗      ✗     ✗
 Sonic The Hedgehog 3 (USA) (Sonic Classic Collection)                                                           ✗      ✗     ✗
 Sonic The Hedgehog 3 (Unknown) (Beta) (1993-11-03)                                                              ✗      ✗     ✗
@@ -2191,18 +2233,19 @@ Taiwan Daheng (Taiwan) (Unl)                                                    
 TaleSpin (USA, Europe)                                                                                          -      -     -
 TaleSpin (USA, Europe) (Beta)                                                                                   ✗      ✗     ✗
 Talmit's Adventure (Europe)                                                                                     -      -     -
-Tanglewood (World) (Aftermarket) (Unl)                                                                          ✗      ✗     ✗
+Tanglewood (World) (Aftermarket) (Homebrew)                                                                     ✗      ✗     ✗
 Tanglewood (World) (Demo) (0.0.11) (Aftermarket) (Unl)                                                          ✗      ✗     ✗
 Tanglewood (World) (Demo) (0.0.14) (Aftermarket) (Unl)                                                          ✗      ✗     ✗
 Tanglewood (World) (Demo) (0.0.15) (Aftermarket) (Unl)                                                          ✗      ✗     ✗
 Tanglewood (World) (Demo) (0.1.04) (Aftermarket) (Unl)                                                          ✗      ✗     ✗
 Tanglewood (World) (Demo) (0.8.01) (Aftermarket) (Unl)                                                          ✗      ✗     ✗
-Tanglewood (World) (Demo) (0.9.37) (Aftermarket) (Unl)                                                          ✗      ✗     ✗
+Tanglewood (World) (Demo) (0.9.37) (Aftermarket) (Homebrew)                                                     ✗      ✗     ✗
 Tanglewood (World) (Rev 1) (Aftermarket) (Unl)                                                                  ✗      ✗     ✗
 Tanzer (World) (1.83) (Aftermarket) (Unl)                                                                       ✗      ✗     ✗
 Tanzer (World) (Demo) (Aftermarket) (Unl)                                                                       ✗      ✗     ✗
 Target Earth (USA)                                                                                              -      -     -
 Target Earth (USA) (Beta) (1990-02-16)                                                                          ✗      ✗     ✗
+Target Earth (USA, Europe) (Switch Online)                                                                      ✗      ✗     ✗
 Task Force Harrier EX (Japan)                                                                                   -      -     -
 Task Force Harrier EX (USA)                                                                                     -      -     -
 Tatsujin ~ Truxton (World)                                                                                      -      -     -
@@ -2260,6 +2303,7 @@ Thunder Force IV (Japan)                                                        
 Thunder Force IV (World) (Sega Ages)                                                                            ✗      ✗     ✗
 Thunder Fox (Japan)                                                                                             -      -     -
 Thunder Fox (USA)                                                                                               -      -     -
+Thunder Paw (World) (Aftermarket) (Unl)                                                                         ✗      ✗     ✗
 Thunder Paw (World) (Demo 1) (Aftermarket) (Unl)                                                                ✗      ✗     ✗
 Thunder Paw (World) (Demo 2) (Aftermarket) (Unl)                                                                ✗      ✗     ✗
 Thunder Pro Wrestling Retsuden (Japan)                                                                          -      -     -
@@ -2281,7 +2325,7 @@ Tiny Toon Adventures - Buster's Hidden Treasure (USA)                           
 Tiny Toon Adventures 3 (Taiwan) (En) (Unl)                                                                      ✗      ✗     ✗
 Todd's Adventures in Slime World (USA)                                                                          -      -     -
 ToeJam _ Earl (Japan, Europe) (En) (Rev A)                                                                      ✗      ✗     ✗
-ToeJam _ Earl (USA, Europe, Korea) (En)                                                                         -      ✗     ✗
+ToeJam _ Earl (USA, Europe, Korea) (En)                                                                         -      -     -
 ToeJam _ Earl in Panic on Funkotron (Asia) (En)                                                                 -      -     -
 ToeJam _ Earl in Panic on Funkotron (Europe)                                                                    -      -     -
 ToeJam _ Earl in Panic on Funkotron (USA)                                                                       -      -     -
