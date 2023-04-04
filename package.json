@@ -13,7 +13,7 @@
   "author": "Rob Loach (http://robloach.net)",
   "license": "MIT",
   "devDependencies": {
-    "robloach-datfile": "~2.3.0"
+    "robloach-datfile": "~2.4.0"
   },
   "dependencies": {
     "batchreplace": "^1.0.1",
