@@ -1,9 +1,9 @@
 Nintendo - Nintendo 64 Missing
 
-Boxarts  1048/1069  98.04%
+Boxarts  1062/1069  99.35%
 Snaps     938/1069  87.75%
 Titles    941/1069  88.03%
-Total    2927/3207  91.27%
+Total    2941/3207  91.71%
 
 Name                                                                                       Boxart  Snap  Title
 007 - The World Is Not Enough (Europe) (En,Fr,De)                                             -      -     -
@@ -14,7 +14,7 @@ Name                                                                            
 1080 Snowboarding (Japan, USA) (En,Ja)                                                        -      -     -
 40 Winks (Europe) (En,Es,It) (Proto) (1999-10-07)                                             -      -     -
 40 Winks (USA) (Aftermarket) (Unl)                                                            -      -     -
-40 Winks (USA) (Proto) (2000-01-10)                                                           ✗      ✗     ✗
+40 Winks (USA) (Proto) (2000-01-10)                                                           -      ✗     ✗
 64 Hanafuda - Tenshi no Yakusoku (Japan)                                                      -      -     -
 64 Oozumou (Japan)                                                                            -      -     -
 64 Oozumou 2 (Japan)                                                                          -      -     -
@@ -122,7 +122,7 @@ California Speed (USA)                                                          
 Carmageddon 64 (Europe) (En,Fr,De,Es)                                                         -      -     -
 Carmageddon 64 (Europe) (En,Fr,Es,It)                                                         -      -     -
 Carmageddon 64 (USA)                                                                          -      -     -
-Carnivale - Cenzo's Adventure (USA) (Proto)                                                   ✗      ✗     ✗
+Carnivale - Cenzo's Adventure (USA) (Proto)                                                   -      ✗     ✗
 Castlevania (Europe) (En,Fr,De)                                                               -      -     -
 Castlevania (USA)                                                                             -      -     -
 Castlevania (USA) (Rev 1)                                                                     -      -     -
@@ -224,7 +224,7 @@ Duke Nukem 64 (France)                                                          
 Duke Nukem 64 (USA)                                                                           -      -     -
 ECW Hardcore Revolution (Europe)                                                              -      -     -
 ECW Hardcore Revolution (Germany)                                                             -      ✗     ✗
-ECW Hardcore Revolution (USA)                                                                 ✗      -     -
+ECW Hardcore Revolution (USA)                                                                 -      -     -
 ECW Hardcore Revolution (USA) (Beta)                                                          -      ✗     ✗
 Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)                                                    -      -     -
 Earthworm Jim 3D (USA)                                                                        -      -     -
@@ -259,7 +259,7 @@ F1 Pole Position 64 (Europe) (En,Fr,De)                                         
 F1 Pole Position 64 (USA) (En,Fr,De)                                                          -      -     -
 F1 Racing Championship (Brazil) (En,Fr)                                                       -      -     -
 F1 Racing Championship (Europe) (En,Fr,De,Es,It)                                              -      -     -
-F1 Racing Championship (USA) (Beta)                                                           ✗      ✗     ✗
+F1 Racing Championship (USA) (Beta)                                                           -      ✗     ✗
 FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv)                                   -      -     -
 FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv)                                      -      -     -
 FIFA - Road to World Cup 98 - World Cup e no Michi (Japan)                                    -      -     -
@@ -436,7 +436,7 @@ Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Debug)     
 Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Wii Virtual Console)     -      ✗     ✗
 Legend of Zelda, The - Majora's Mask (Europe) (GameCube)                                      -      -     -
 Legend of Zelda, The - Majora's Mask (USA)                                                    -      -     -
-Legend of Zelda, The - Majora's Mask (USA) (Demo) (Kiosk)                                     ✗      -     -
+Legend of Zelda, The - Majora's Mask (USA) (Demo) (Kiosk)                                     -      -     -
 Legend of Zelda, The - Majora's Mask (USA) (GameCube)                                         -      -     -
 Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-13) (GameCube)                -      ✗     ✗
 Legend of Zelda, The - Ocarina of Time (Europe) (Debug) (GameCube)                            -      ✗     ✗
@@ -462,7 +462,7 @@ MRC - Multi-Racing Championship (Japan)                                         
 MRC - Multi-Racing Championship (USA)                                                         -      -     -
 Mace - The Dark Age (Europe)                                                                  -      -     -
 Mace - The Dark Age (USA)                                                                     -      -     -
-Mace - The Dark Age (USA) (Beta)                                                              ✗      ✗     ✗
+Mace - The Dark Age (USA) (Beta)                                                              -      ✗     ✗
 Madden Football 64 (Europe)                                                                   -      -     -
 Madden Football 64 (USA)                                                                      -      -     -
 Madden NFL 2000 (USA)                                                                         -      -     -
@@ -479,8 +479,8 @@ Magical Tetris Challenge featuring Mickey (Japan)                               
 Mahjong 64 (Japan)                                                                            -      -     -
 Mahjong Hourouki Classic (Japan)                                                              -      -     -
 Mahjong Master (Japan)                                                                        -      -     -
-Major League Baseball Featuring Ken Griffey Jr. (Australia)                                   ✗      ✗     ✗
-Major League Baseball Featuring Ken Griffey Jr. (USA)                                         ✗      ✗     ✗
+Major League Baseball Featuring Ken Griffey Jr. (Australia)                                   -      ✗     ✗
+Major League Baseball Featuring Ken Griffey Jr. (USA)                                         -      ✗     ✗
 Maliou Kadingche (China) (v2) (Manual)                                                        ✗      ✗     ✗
 Maliou Kadingche (China) (v4)                                                                 ✗      ✗     ✗
 Maliou Kadingche (China) (v5)                                                                 ✗      ✗     ✗
@@ -704,9 +704,9 @@ Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen (Japan)                     
 Puyo Puyo Sun 64 (Japan)                                                                      -      -     -
 Puyo Puyoon Party (Japan)                                                                     -      -     -
 Puzzle Bobble 64 (Japan)                                                                      -      -     -
-Pyoro 64 (Italy) (Aftermarket) (Homebrew)                                                     ✗      ✗     ✗
-Pyoro 64 (USA) (Aftermarket) (Homebrew)                                                       ✗      ✗     ✗
-Pyoro 64 (Unknown) (Aftermarket) (Homebrew)                                                   ✗      ✗     ✗
+Pyoro 64 (Italy) (Aftermarket) (Homebrew)                                                     -      ✗     ✗
+Pyoro 64 (USA) (Aftermarket) (Homebrew)                                                       -      ✗     ✗
+Pyoro 64 (Unknown) (Aftermarket) (Homebrew)                                                   -      ✗     ✗
 Quake (Europe)                                                                                -      -     -
 Quake (USA)                                                                                   -      -     -
 Quake II (Europe)                                                                             -      -     -
@@ -755,7 +755,7 @@ Rocket - Robot on Wheels (Europe) (Beta) (1999-09-29)                           
 Rocket - Robot on Wheels (Europe) (En,Fr,De)                                                  -      -     -
 Rocket - Robot on Wheels (USA)                                                                -      -     -
 Rockman Dash - Hagane no Boukenshin (Japan)                                                   -      -     -
-Ronaldinho's Soccer 64 (Brazil) (Pirate)                                                      ✗      ✗     ✗
+Ronaldinho's Soccer 64 (Brazil) (Pirate)                                                      -      ✗     ✗
 Rugrats - Die grosse Schatzsuche (Germany)                                                    -      -     -
 Rugrats - Scavenger Hunt (USA)                                                                -      -     -
 Rugrats - Treasure Hunt (Europe)                                                              -      -     -
@@ -948,7 +948,7 @@ Turok - Rage Wars (Europe) (En,Fr,It)                                           
 Turok - Rage Wars (USA)                                                                       -      -     -
 Turok - Rage Wars (USA) (Rev 1)                                                               -      -     -
 Turok 2 - Seeds of Evil (Europe)                                                              -      -     -
-Turok 2 - Seeds of Evil (Europe) (Demo) (Kiosk)                                               ✗      -     -
+Turok 2 - Seeds of Evil (Europe) (Demo) (Kiosk)                                               -      -     -
 Turok 2 - Seeds of Evil (Europe) (En,Fr,Es,It)                                                -      -     -
 Turok 2 - Seeds of Evil (Germany)                                                             -      -     -
 Turok 2 - Seeds of Evil (USA)                                                                 -      -     -
@@ -1039,7 +1039,7 @@ World Driver Championship (Europe) (En,Fr,De,Es,It)                             
 World Driver Championship (USA)                                                               -      -     -
 Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)                                                 -      -     -
 Worms Armageddon (USA) (En,Fr,Es)                                                             -      -     -
-X'treme Roller (USA) (Proto)                                                                  ✗      ✗     ✗
+X'treme Roller (USA) (Proto)                                                                  -      ✗     ✗
 Xena - Warrior Princess - The Talisman of Fate (Europe)                                       -      -     -
 Xena - Warrior Princess - The Talisman of Fate (USA)                                          -      -     -
 Xingji Huohu (China) (v4)                                                                     -      ✗     ✗
