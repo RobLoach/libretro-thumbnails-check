@@ -1,53 +1,39 @@
 Nintendo - Virtual Boy Missing
 
-Boxarts   26/45  57.78%
-Snaps     31/45  68.89%
-Titles    31/45  68.89%
-Total    88/135  65.19%
+Boxarts  25/31  80.65%
+Snaps    30/31  96.77%
+Titles   30/31  96.77%
+Total    85/93  91.40%
 
-Name                                                                  Boxart  Snap  Title
-3-D BattleSnake (World) (Aftermarket) (Homebrew)                         ✗      ✗     ✗
-3-D Tetris (USA)                                                         -      -     -
-3D Crosswords (World) (Aftermarket) (Homebrew)                           ✗      ✗     ✗
-Bound High (Japan) (En) (Proto)                                          -      -     -
-Fishbone (World) (Aftermarket) (Homebrew)                                ✗      ✗     ✗
-Fishbone (World) (Demo 1) (Aftermarket) (Homebrew)                       ✗      ✗     ✗
-Fishbone (World) (v0.1) (Demo) (Aftermarket) (Homebrew)                  ✗      ✗     ✗
-Fishbone (World) (v0.2) (Demo) (Aftermarket) (Homebrew)                  ✗      ✗     ✗
-Formula V (World) (Demo) (Emulator Version) (Aftermarket) (Homebrew)     ✗      ✗     ✗
-Formula V (World) (Demo) (Hardware Version) (Aftermarket) (Homebrew)     ✗      ✗     ✗
-Galactic Pinball (Japan, USA) (En)                                       ✗      -     -
-Golf (USA)                                                               -      -     -
-Hamburgers En Route to Switzerland (World) (Aftermarket) (Homebrew)      ✗      ✗     ✗
-Hyper Fighting (World) (Aftermarket) (Pirate)                            ✗      ✗     ✗
-Hyper Fighting (World) (Beta) (Aftermarket) (Pirate)                     ✗      ✗     ✗
-Innsmouth no Yakata (Japan)                                              -      -     -
-Jack Bros. (USA)                                                         -      -     -
-Jack Bros. no Meiro de Hiihoo! (Japan)                                   -      -     -
-Mario Clash (Japan, USA) (En)                                            ✗      -     -
-Mario's Tennis (Japan, USA) (En)                                         ✗      -     -
-Nester's Funky Bowling (USA)                                             -      -     -
-Niko-chan Battle (Japan) (Proto)                                         -      -     -
-Panic Bomber (USA)                                                       -      -     -
-Red Alarm (Japan)                                                        -      -     -
-Red Alarm (USA)                                                          -      -     -
-SD Gundam - Dimension War (Japan)                                        -      -     -
-Snatcher (World) (Demo) (Aftermarket) (Homebrew)                         ✗      ✗     ✗
-Soviet Union 2010 (World) (v1.2) (Aftermarket) (Homebrew)                ✗      ✗     ✗
-Soviet Union 2011 (World) (v1.2) (Aftermarket) (Homebrew)                ✗      ✗     ✗
-Space Invaders - Virtual Collection (Japan)                              -      -     -
-Space Pinball (Japan) (En) (Proto)                                       -      -     -
-Space Squash (Japan)                                                     -      -     -
-T_E Virtual Golf (Japan)                                                 -      -     -
-Teleroboxer (Japan, USA) (En)                                            ✗      -     -
-Tobidase! Panibon (Japan)                                                -      -     -
-V-Tetris (Japan)                                                         -      -     -
-Vertical Force (Japan)                                                   -      -     -
-Vertical Force (USA)                                                     -      -     -
-Virtual Bowling (Japan)                                                  -      -     -
-Virtual Boy Wario Land (Japan, USA) (En)                                 ✗      -     -
-Virtual Fishing (Japan)                                                  -      -     -
-Virtual Lab (Japan)                                                      -      -     -
-Virtual League Baseball (USA)                                            -      -     -
-Virtual Pro Yakyuu '95 (Japan)                                           -      -     -
-Waterworld (USA)                                                         -      -     -
+Name                                         Boxart  Snap  Title
+3-D Tetris (USA)                                -      -     -
+Bound High (Japan) (En) (Proto)                 -      -     -
+Galactic Pinball (Japan, USA) (En)              ✗      -     -
+Golf (USA)                                      -      -     -
+Insmouth no Yakata (Japan)                      ✗      ✗     ✗
+Jack Bros. (USA)                                -      -     -
+Jack Bros. no Meiro de Hiihoo! (Japan)          -      -     -
+Mario Clash (Japan, USA) (En)                   ✗      -     -
+Mario's Tennis (Japan, USA) (En)                ✗      -     -
+Nester's Funky Bowling (USA)                    -      -     -
+Niko-chan Battle (Japan) (Proto)                -      -     -
+Panic Bomber (USA)                              -      -     -
+Red Alarm (Japan)                               -      -     -
+Red Alarm (USA)                                 -      -     -
+SD Gundam - Dimension War (Japan)               -      -     -
+Space Invaders - Virtual Collection (Japan)     -      -     -
+Space Pinball (Japan) (En) (Proto)              -      -     -
+Space Squash (Japan)                            -      -     -
+T_E Virtual Golf (Japan)                        -      -     -
+Teleroboxer (Japan, USA) (En)                   ✗      -     -
+Tobidase! Panibon (Japan)                       -      -     -
+V-Tetris (Japan)                                -      -     -
+Vertical Force (Japan)                          -      -     -
+Vertical Force (USA)                            -      -     -
+Virtual Bowling (Japan)                         -      -     -
+Virtual Boy Wario Land (Japan, USA) (En)        ✗      -     -
+Virtual Fishing (Japan)                         -      -     -
+Virtual Lab (Japan)                             -      -     -
+Virtual League Baseball (USA)                   -      -     -
+Virtual Pro Yakyuu '95 (Japan)                  -      -     -
+Waterworld (USA)                                -      -     -

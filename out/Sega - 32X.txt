@@ -1,9 +1,9 @@
 Sega - 32X Missing
 
 Boxarts  206/209  98.56%
-Snaps     62/209  29.67%
+Snaps    174/209  83.25%
 Titles    67/209  32.06%
-Total    335/627  53.43%
+Total    447/627  71.29%
 
 Name                                                                                                       Boxart  Snap  Title
 32X Sample Program - PWM Sound Demo (Unknown) (SDK Build)                                                     ✗      -     -
@@ -13,33 +13,33 @@ Amazing Spider-Man, The - Web of Fire (USA)                                     
 BC Racers (USA)                                                                                               -      -     -
 Blackthorne (USA)                                                                                             -      -     -
 Brutal - Above the Claw (USA)                                                                                 -      -     -
-ClayFighter 2 (USA) (Proto) (1995-04-28)                                                                      -      ✗     ✗
+ClayFighter 2 (USA) (Proto) (1995-04-28)                                                                      -      -     ✗
 Cosmic Carnage (Europe)                                                                                       -      -     -
 Cosmic Carnage (Japan, USA) (En)                                                                              -      -     -
-Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-06)                                                          -      ✗     ✗
-Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-21)                                                          -      ✗     ✗
-Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-26)                                                          -      ✗     ✗
-Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-28)                                                          -      ✗     ✗
-Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-04)                                                          -      ✗     ✗
-Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-05)                                                          -      ✗     ✗
-Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-07)                                                          -      ✗     ✗
-Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-11)                                                          -      ✗     ✗
+Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-06)                                                          -      -     ✗
+Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-21)                                                          -      -     ✗
+Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-26)                                                          -      -     ✗
+Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-28)                                                          -      -     ✗
+Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-04)                                                          -      -     ✗
+Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-05)                                                          -      -     ✗
+Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-07)                                                          -      -     ✗
+Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-11)                                                          -      -     ✗
 Darxide (Europe) (En,Fr,De,Es)                                                                                -      -     -
 Doom (Europe)                                                                                                 -      -     -
-Doom (Europe) (Beta) (1994-10-02)                                                                             -      ✗     ✗
+Doom (Europe) (Beta) (1994-10-02)                                                                             -      -     ✗
 Doom (Japan, USA) (En)                                                                                        -      -     -
 Doom (Japan, USA) (En) (Beta) (1994-09-06)                                                                    -      -     -
-Doom (Japan, USA) (En) (Beta) (1994-09-09)                                                                    -      ✗     ✗
-Doom (Japan, USA) (En) (Beta) (1994-09-14)                                                                    -      ✗     ✗
-Doom (Japan, USA) (En) (Beta) (1994-09-16)                                                                    -      ✗     ✗
-Doom (Japan, USA) (En) (Beta) (1994-09-21)                                                                    -      ✗     ✗
-Doom (Japan, USA) (En) (Beta) (1994-09-23)                                                                    -      ✗     ✗
-Doom (Japan, USA) (En) (Beta) (1994-09-25)                                                                    -      ✗     ✗
-Doom (Japan, USA) (En) (Beta) (1994-09-27)                                                                    -      ✗     ✗
-Doom (Japan, USA) (En) (Beta) (1994-12-01)                                                                    -      ✗     ✗
-Doom RR (Japan, USA) (En) (Beta) (1995-02-15)                                                                 -      ✗     -
-Doom RR (Japan, USA) (En) (Beta) (1995-02-21)                                                                 -      ✗     ✗
-Doom RR (Japan, USA) (En) (Beta) (1995-03-07)                                                                 -      ✗     ✗
+Doom (Japan, USA) (En) (Beta) (1994-09-09)                                                                    -      -     ✗
+Doom (Japan, USA) (En) (Beta) (1994-09-14)                                                                    -      -     ✗
+Doom (Japan, USA) (En) (Beta) (1994-09-16)                                                                    -      -     ✗
+Doom (Japan, USA) (En) (Beta) (1994-09-21)                                                                    -      -     ✗
+Doom (Japan, USA) (En) (Beta) (1994-09-23)                                                                    -      -     ✗
+Doom (Japan, USA) (En) (Beta) (1994-09-25)                                                                    -      -     ✗
+Doom (Japan, USA) (En) (Beta) (1994-09-27)                                                                    -      -     ✗
+Doom (Japan, USA) (En) (Beta) (1994-12-01)                                                                    -      -     ✗
+Doom RR (Japan, USA) (En) (Beta) (1995-02-15)                                                                 -      -     -
+Doom RR (Japan, USA) (En) (Beta) (1995-02-21)                                                                 -      -     ✗
+Doom RR (Japan, USA) (En) (Beta) (1995-03-07)                                                                 -      -     ✗
 Ecco the Dolphin (USA) (Demo) (Developer Cart)                                                                -      -     -
 FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv)                                                                   -      -     -
 Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe)                                        -      ✗     -
@@ -80,18 +80,18 @@ Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) 
 Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-21)           -      ✗     ✗
 Knuckles' Chaotix (Europe)                                                                                    -      -     -
 Knuckles' Chaotix (Japan, USA) (En)                                                                           -      -     -
-Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-07)                                                       -      ✗     -
-Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-27)                                                       -      ✗     ✗
-Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-30)                                                       -      ✗     ✗
-Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-01-12)                                                       -      ✗     ✗
-Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-01-19)                                                       -      ✗     ✗
-Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-07)                                                       -      ✗     ✗
-Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-08)                                                       -      ✗     ✗
-Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-09)                                                       -      ✗     ✗
-Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-10)                                                       -      ✗     ✗
-Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-13)                                                       -      ✗     ✗
-Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-13) (Alt)                                                 -      ✗     ✗
-Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-14)                                                       -      ✗     ✗
+Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-07)                                                       -      -     -
+Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-27)                                                       -      -     ✗
+Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-30)                                                       -      -     ✗
+Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-01-12)                                                       -      -     ✗
+Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-01-19)                                                       -      -     ✗
+Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-07)                                                       -      -     ✗
+Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-08)                                                       -      -     ✗
+Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-09)                                                       -      -     ✗
+Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-10)                                                       -      -     ✗
+Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-13)                                                       -      -     ✗
+Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-13) (Alt)                                                 -      -     ✗
+Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-14)                                                       -      -     ✗
 Kolibri (USA, Europe)                                                                                         -      -     -
 Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 1)                                                  -      -     -
 Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 2)                                                  -      -     -
@@ -101,39 +101,39 @@ Mars Sample Program - Runlength Mode Test (Unknown) (SDK Build)                 
 Mars Sample Program - Texture Test (Unknown) (SDK Build)                                                      -      -     -
 Metal Head (Europe) (En,Ja)                                                                                   -      -     -
 Metal Head (Japan, USA) (En) (Beta) (1994-11-14)                                                              -      -     -
-Metal Head (Japan, USA) (En) (Beta) (1994-11-18)                                                              -      ✗     ✗
-Metal Head (Japan, USA) (En) (Beta) (1994-11-21)                                                              -      ✗     ✗
-Metal Head (Japan, USA) (En) (Beta) (1994-12-02)                                                              -      ✗     ✗
-Metal Head (Japan, USA) (En) (Beta) (1994-12-07)                                                              -      ✗     ✗
-Metal Head (Japan, USA) (En) (Beta) (1994-12-07) (Alt)                                                        -      ✗     ✗
-Metal Head (Japan, USA) (En) (Beta) (1994-12-09)                                                              -      ✗     ✗
-Metal Head (Japan, USA) (En) (Beta) (1994-12-13)                                                              -      ✗     ✗
-Metal Head (Japan, USA) (En) (Beta) (1994-12-20)                                                              -      ✗     ✗
+Metal Head (Japan, USA) (En) (Beta) (1994-11-18)                                                              -      -     ✗
+Metal Head (Japan, USA) (En) (Beta) (1994-11-21)                                                              -      -     ✗
+Metal Head (Japan, USA) (En) (Beta) (1994-12-02)                                                              -      -     ✗
+Metal Head (Japan, USA) (En) (Beta) (1994-12-07)                                                              -      -     ✗
+Metal Head (Japan, USA) (En) (Beta) (1994-12-07) (Alt)                                                        -      -     ✗
+Metal Head (Japan, USA) (En) (Beta) (1994-12-09)                                                              -      -     ✗
+Metal Head (Japan, USA) (En) (Beta) (1994-12-13)                                                              -      -     ✗
+Metal Head (Japan, USA) (En) (Beta) (1994-12-20)                                                              -      -     ✗
 Metal Head (Japan, USA) (En,Ja)                                                                               -      -     -
 Mortal Kombat II (Europe)                                                                                     -      -     -
 Mortal Kombat II (Japan, USA) (En)                                                                            -      -     -
-Motherbase (Europe)                                                                                           -      ✗     ✗
-Motherbase (Europe) (Sample)                                                                                  -      ✗     ✗
+Motherbase (Europe)                                                                                           -      -     ✗
+Motherbase (Europe) (Sample)                                                                                  -      -     ✗
 Motocross Championship (Europe)                                                                               -      -     -
 Motocross Championship (Japan, USA) (En) (Beta) (1994-10-12)                                                  -      -     -
-Motocross Championship (Japan, USA) (En) (Beta) (1994-10-17)                                                  -      ✗     ✗
-Motocross Championship (Japan, USA) (En) (Beta) (1994-10-18)                                                  -      ✗     ✗
-Motocross Championship (Japan, USA) (En) (Beta) (1994-10-19)                                                  -      ✗     ✗
-Motocross Championship (Japan, USA) (En) (Beta) (1994-10-20)                                                  -      ✗     ✗
-Motocross Championship (Japan, USA) (En) (Beta) (1994-10-24)                                                  -      ✗     ✗
-Motocross Championship (Japan, USA) (En) (Beta) (1994-10-28)                                                  -      ✗     ✗
-Motocross Championship (Japan, USA) (En) (Beta) (1994-11-01)                                                  -      ✗     ✗
-Motocross Championship (Japan, USA) (En) (Beta) (1994-11-02)                                                  -      ✗     ✗
-Motocross Championship (Japan, USA) (En) (Beta) (1994-11-02) (Alt)                                            -      ✗     ✗
-Motocross Championship (Japan, USA) (En) (Beta) (1994-11-03)                                                  -      ✗     ✗
-Motocross Championship (Japan, USA) (En) (Beta) (1994-11-04)                                                  -      ✗     ✗
-Motocross Championship (Japan, USA) (En) (Beta) (1994-11-07)                                                  -      ✗     ✗
-Motocross Championship (Japan, USA) (En) (Beta) (1994-11-08)                                                  -      ✗     ✗
-Motocross Championship (Japan, USA) (En) (Beta) (1994-11-11)                                                  -      ✗     ✗
+Motocross Championship (Japan, USA) (En) (Beta) (1994-10-17)                                                  -      -     ✗
+Motocross Championship (Japan, USA) (En) (Beta) (1994-10-18)                                                  -      -     ✗
+Motocross Championship (Japan, USA) (En) (Beta) (1994-10-19)                                                  -      -     ✗
+Motocross Championship (Japan, USA) (En) (Beta) (1994-10-20)                                                  -      -     ✗
+Motocross Championship (Japan, USA) (En) (Beta) (1994-10-24)                                                  -      -     ✗
+Motocross Championship (Japan, USA) (En) (Beta) (1994-10-28)                                                  -      -     ✗
+Motocross Championship (Japan, USA) (En) (Beta) (1994-11-01)                                                  -      -     ✗
+Motocross Championship (Japan, USA) (En) (Beta) (1994-11-02)                                                  -      -     ✗
+Motocross Championship (Japan, USA) (En) (Beta) (1994-11-02) (Alt)                                            -      -     ✗
+Motocross Championship (Japan, USA) (En) (Beta) (1994-11-03)                                                  -      -     ✗
+Motocross Championship (Japan, USA) (En) (Beta) (1994-11-04)                                                  -      -     ✗
+Motocross Championship (Japan, USA) (En) (Beta) (1994-11-07)                                                  -      -     ✗
+Motocross Championship (Japan, USA) (En) (Beta) (1994-11-08)                                                  -      -     ✗
+Motocross Championship (Japan, USA) (En) (Beta) (1994-11-11)                                                  -      -     ✗
 Motocross Championship (USA)                                                                                  -      -     -
 NBA Jam - Tournament Edition (World)                                                                          -      -     -
 NFL Quarterback Club (World)                                                                                  -      -     -
-Pinocchio (Europe) (Proto) (1995-06-12)                                                                       -      ✗     ✗
+Pinocchio (Europe) (Proto) (1995-06-12)                                                                       -      -     ✗
 Pitfall - The Mayan Adventure (USA)                                                                           -      -     -
 Primal Rage (USA, Europe)                                                                                     -      -     -
 RBI Baseball '95 (USA)                                                                                        -      -     -
@@ -141,77 +141,77 @@ Sangokushi IV (Japan)                                                           
 Soulstar X (USA) (Proto)                                                                                      -      -     -
 Space Harrier (Europe)                                                                                        -      -     -
 Space Harrier (Japan, USA) (En)                                                                               -      -     -
-Space Harrier (Japan, USA) (En) (Beta) (1994-09-20)                                                           -      ✗     -
-Spot Goes to Hollywood (USA) (Proto)                                                                          ✗      ✗     ✗
+Space Harrier (Japan, USA) (En) (Beta) (1994-09-20)                                                           -      -     -
+Spot Goes to Hollywood (USA) (Proto)                                                                          ✗      -     ✗
 Star Trek - Starfleet Academy - Starship Bridge Simulator (USA)                                               -      -     -
 Star Wars Arcade (Europe)                                                                                     -      -     -
-Star Wars Arcade (Europe) (Beta) (1994-09-23)                                                                 -      ✗     ✗
-Star Wars Arcade (Europe) (Beta) (1994-09-29)                                                                 -      ✗     ✗
-Star Wars Arcade (Europe) (Beta) (1994-10-06)                                                                 -      ✗     ✗
-Star Wars Arcade (Europe) (Beta) (1994-10-07)                                                                 -      ✗     ✗
+Star Wars Arcade (Europe) (Beta) (1994-09-23)                                                                 -      -     ✗
+Star Wars Arcade (Europe) (Beta) (1994-09-29)                                                                 -      -     ✗
+Star Wars Arcade (Europe) (Beta) (1994-10-06)                                                                 -      -     ✗
+Star Wars Arcade (Europe) (Beta) (1994-10-07)                                                                 -      -     ✗
 Star Wars Arcade (Japan)                                                                                      -      -     -
-Star Wars Arcade (Japan) (Beta) (1994-09-30)                                                                  -      ✗     ✗
-Star Wars Arcade (Japan) (Beta) (1994-10-03)                                                                  -      ✗     ✗
-Star Wars Arcade (Japan) (Beta) (1994-10-05)                                                                  -      ✗     ✗
+Star Wars Arcade (Japan) (Beta) (1994-09-30)                                                                  -      -     ✗
+Star Wars Arcade (Japan) (Beta) (1994-10-03)                                                                  -      -     ✗
+Star Wars Arcade (Japan) (Beta) (1994-10-05)                                                                  -      -     ✗
 Star Wars Arcade (USA)                                                                                        -      -     -
-Star Wars Arcade (USA) (Beta) (1994-08-30)                                                                    -      ✗     ✗
-Star Wars Arcade (USA) (Beta) (1994-09-01)                                                                    -      ✗     ✗
-Star Wars Arcade (USA) (Beta) (1994-09-06)                                                                    -      ✗     ✗
-Star Wars Arcade (USA) (Beta) (1994-09-07)                                                                    -      ✗     ✗
-Star Wars Arcade (USA) (Beta) (1994-09-09)                                                                    -      ✗     ✗
-Star Wars Arcade (USA) (Beta) (1994-09-12)                                                                    -      ✗     ✗
-Star Wars Arcade (USA) (Beta) (1994-09-13)                                                                    -      ✗     ✗
-Star Wars Arcade (USA) (Beta) (1994-09-14)                                                                    -      ✗     ✗
-Star Wars Arcade (USA) (Beta) (1994-09-15)                                                                    -      ✗     ✗
-Star Wars Arcade (USA) (Beta) (1994-09-16)                                                                    -      ✗     ✗
-Star Wars Arcade (USA) (Beta) (1994-09-18)                                                                    -      ✗     ✗
+Star Wars Arcade (USA) (Beta) (1994-08-30)                                                                    -      -     ✗
+Star Wars Arcade (USA) (Beta) (1994-09-01)                                                                    -      -     ✗
+Star Wars Arcade (USA) (Beta) (1994-09-06)                                                                    -      -     ✗
+Star Wars Arcade (USA) (Beta) (1994-09-07)                                                                    -      -     ✗
+Star Wars Arcade (USA) (Beta) (1994-09-09)                                                                    -      -     ✗
+Star Wars Arcade (USA) (Beta) (1994-09-12)                                                                    -      -     ✗
+Star Wars Arcade (USA) (Beta) (1994-09-13)                                                                    -      -     ✗
+Star Wars Arcade (USA) (Beta) (1994-09-14)                                                                    -      -     ✗
+Star Wars Arcade (USA) (Beta) (1994-09-15)                                                                    -      -     ✗
+Star Wars Arcade (USA) (Beta) (1994-09-16)                                                                    -      -     ✗
+Star Wars Arcade (USA) (Beta) (1994-09-18)                                                                    -      -     ✗
 Stellar Assault (Japan)                                                                                       -      -     -
-Stellar Assault (Japan) (En) (Beta) (1995-02-06)                                                              -      ✗     ✗
-Stellar Assault (Japan) (En) (Beta) (1995-02-13)                                                              -      ✗     ✗
+Stellar Assault (Japan) (En) (Beta) (1995-02-06)                                                              -      -     ✗
+Stellar Assault (Japan) (En) (Beta) (1995-02-13)                                                              -      -     ✗
 Stellar Assault (USA, Europe)                                                                                 -      -     -
-Stellar Assault (USA, Europe) (Beta) (1995-02-22)                                                             -      ✗     ✗
-Stellar Assault (USA, Europe) (Beta) (1995-03-02)                                                             -      ✗     ✗
-Stellar Assault (USA, Europe) (Beta) (1995-03-06)                                                             -      ✗     ✗
-Stellar Assault (USA, Europe) (Beta) (1995-03-13)                                                             -      ✗     ✗
-Stellar Assault (USA, Europe) (Beta) (1995-03-13) (Alt)                                                       -      ✗     ✗
+Stellar Assault (USA, Europe) (Beta) (1995-02-22)                                                             -      -     ✗
+Stellar Assault (USA, Europe) (Beta) (1995-03-02)                                                             -      -     ✗
+Stellar Assault (USA, Europe) (Beta) (1995-03-06)                                                             -      -     ✗
+Stellar Assault (USA, Europe) (Beta) (1995-03-13)                                                             -      -     ✗
+Stellar Assault (USA, Europe) (Beta) (1995-03-13) (Alt)                                                       -      -     ✗
 T-MEK (USA, Europe)                                                                                           -      -     -
 Tempo (Japan, USA) (En)                                                                                       -      -     -
-Tempo (Japan, USA) (En) (Beta) (1994-12-21)                                                                   -      ✗     ✗
-Tempo (Japan, USA) (En) (Beta) (1995-01-19)                                                                   -      ✗     ✗
-Tempo (Japan, USA) (En) (Beta) (1995-01-24)                                                                   -      ✗     ✗
-Tempo (Japan, USA) (En) (Beta) (1995-01-26)                                                                   -      ✗     ✗
-Tempo (Japan, USA) (En) (Beta) (1995-02-04)                                                                   -      ✗     ✗
-Tempo (Japan, USA) (En) (Beta) (1995-02-06)                                                                   -      ✗     ✗
-Tempo (Japan, USA) (En) (Beta) (1995-02-06) (Alt)                                                             -      ✗     ✗
-Tempo (Japan, USA) (En) (Beta) (1995-02-07)                                                                   -      ✗     ✗
+Tempo (Japan, USA) (En) (Beta) (1994-12-21)                                                                   -      -     ✗
+Tempo (Japan, USA) (En) (Beta) (1995-01-19)                                                                   -      -     ✗
+Tempo (Japan, USA) (En) (Beta) (1995-01-24)                                                                   -      -     ✗
+Tempo (Japan, USA) (En) (Beta) (1995-01-26)                                                                   -      -     ✗
+Tempo (Japan, USA) (En) (Beta) (1995-02-04)                                                                   -      -     ✗
+Tempo (Japan, USA) (En) (Beta) (1995-02-06)                                                                   -      -     ✗
+Tempo (Japan, USA) (En) (Beta) (1995-02-06) (Alt)                                                             -      -     ✗
+Tempo (Japan, USA) (En) (Beta) (1995-02-07)                                                                   -      -     ✗
 Toughman Contest (USA, Europe)                                                                                -      -     -
 Virtua Fighter (Europe)                                                                                       -      -     -
 Virtua Fighter (Japan, USA) (En)                                                                              -      -     -
-Virtua Fighter (Japan, USA) (En) (Beta) (1995-05-30)                                                          -      ✗     ✗
-Virtua Fighter (Japan, USA) (En) (Beta) (1995-06-15)                                                          -      ✗     ✗
-Virtua Fighter (Japan, USA) (En) (Beta) (1995-06-30)                                                          -      ✗     ✗
-Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-17)                                                          -      ✗     ✗
-Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-21)                                                          -      ✗     ✗
-Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-24)                                                          -      ✗     ✗
-Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-25)                                                          -      ✗     ✗
+Virtua Fighter (Japan, USA) (En) (Beta) (1995-05-30)                                                          -      -     ✗
+Virtua Fighter (Japan, USA) (En) (Beta) (1995-06-15)                                                          -      -     ✗
+Virtua Fighter (Japan, USA) (En) (Beta) (1995-06-30)                                                          -      -     ✗
+Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-17)                                                          -      -     ✗
+Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-21)                                                          -      -     ✗
+Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-24)                                                          -      -     ✗
+Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-25)                                                          -      -     ✗
 Virtua Hamster (USA) (Proto)                                                                                  -      -     -
 Virtua Racing Deluxe (Europe)                                                                                 -      -     -
 Virtua Racing Deluxe (Japan)                                                                                  -      -     -
 Virtua Racing Deluxe (USA)                                                                                    -      -     -
-Virtua Racing Deluxe (USA) (Beta) (1994-08-22)                                                                -      ✗     ✗
-Virtua Racing Deluxe (USA) (Beta) (1994-08-29)                                                                -      ✗     ✗
-Virtua Racing Deluxe (USA) (Beta) (1994-09-05)                                                                -      ✗     ✗
+Virtua Racing Deluxe (USA) (Beta) (1994-08-22)                                                                -      -     ✗
+Virtua Racing Deluxe (USA) (Beta) (1994-08-29)                                                                -      -     ✗
+Virtua Racing Deluxe (USA) (Beta) (1994-09-05)                                                                -      -     ✗
 WWF Raw (World)                                                                                               -      -     -
 WWF WrestleMania - The Arcade Game (USA)                                                                      -      -     -
 World Series Baseball Starring Deion Sanders (USA)                                                            -      -     -
 X-Men (USA) (Proto)                                                                                           -      -     -
-Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-10)                                                     -      ✗     -
-Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-21)                                                     -      ✗     ✗
-Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-23)                                                     -      ✗     ✗
-Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-27)                                                     -      ✗     ✗
-Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-03)                                                     -      ✗     ✗
-Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-06)                                                     -      ✗     ✗
-Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-10)                                                     -      ✗     ✗
-Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-15)                                                     -      ✗     ✗
-Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-31)                                                     -      ✗     ✗
+Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-10)                                                     -      -     -
+Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-21)                                                     -      -     ✗
+Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-23)                                                     -      -     ✗
+Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-27)                                                     -      -     ✗
+Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-03)                                                     -      -     ✗
+Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-06)                                                     -      -     ✗
+Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-10)                                                     -      -     ✗
+Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-15)                                                     -      -     ✗
+Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-31)                                                     -      -     ✗
 Zaxxon's Motherbase 2000 (Japan, USA) (En)                                                                    -      -     -

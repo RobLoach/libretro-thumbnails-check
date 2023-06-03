@@ -10,6 +10,7 @@ var writeReport = require('..').writeReport
 var thumbnails = require('..').thumbnails
 var getGameThumbnails = require('..').getGameThumbnails
 var cleanGameName = require('..').cleanGameName
+const Downloader = require('nodejs-file-downloader')
 
 glob('libretro-database/rdb/*.rdb', function (err, files) {
 	// Create the task runner.
@@ -20,6 +21,28 @@ glob('libretro-database/rdb/*.rdb', function (err, files) {
 		'use strict'
 		// Add the system task.
 		let system = path.parse(file).name
+		tasks.add({
+			title: system + ' Index',
+			task: function(context) {
+				return new Promise(async function (resolve, reject) {
+					const downloader = new Downloader({
+						url: `https://thumbnails.libretro.com/${system.replaceAll(' ', '%20')}/.index`,
+						directory: __dirname + '/../indexFiles',
+						fileName: `${system}.index`,
+						skipExistingFileName: true
+					})
+
+					try {
+						await downloader.download()
+						resolve()
+					}
+					catch (error) {
+						fs.writeFileSync(`${__dirname}/../indexFiles/${system}.index`, `404 Index not found: https://thumbnails.libretro.com/${system.replaceAll(' ', '%20')}/.index`)
+						resolve()
+					}
+				})
+			}
+		})
 		tasks.add({
 			title: system,
 			task: function (context) {

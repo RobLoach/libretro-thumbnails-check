@@ -1,9 +1,9 @@
 ScummVM Missing
 
-Boxarts    38/4425  0.86%
-Snaps      31/4425  0.70%
-Titles     31/4425  0.70%
-Total    100/13275  0.75%
+Boxarts   36/4425  0.81%
+Snaps     31/4425  0.70%
+Titles    31/4425  0.70%
+Total    98/13275  0.74%
 
 Name                                                                                                                                                            Boxart  Snap  Title
 += 3_ A Logical Adventure (Multi-OS)                                                                                                                               ✗      ✗     ✗
@@ -452,9 +452,9 @@ Broken Sword 2.5_ The Return of the Templars {Broken Sword 2.5_ A templomosok vi
 Broken Sword 2.5_ The Return of the Templars {Broken Sword 2.5_ El Retorno de los Templarios}(Windows_Spanish)                                                     ✗      ✗     ✗
 Broken Sword 2.5_ The Return of the Templars {Broken Sword 2.5_ Il Ritorno dei Templari}(Windows_Italian)                                                          ✗      ✗     ✗
 Broken Sword 2.5_ The Return of the Templars {Broken Sword 2.5_ O Regresso dos Templários}(Windows_Portuguese)                                                     ✗      ✗     ✗
-Broken Sword 2.5_ The Return of the Templars {Broken Sword 2.5_ Powrót templariuszy}(Windows_Polish)                                                               -      ✗     ✗
+Broken Sword 2.5_ The Return of the Templars {Broken Sword 2.5_ Powrót templariuszy}(Windows_Polish)                                                               ✗      ✗     ✗
 Broken Sword 2.5_ The Return of the Templars {Les Chevaliers de Baphomet 2.5_ Le Retour des Chevaliers du Temple}(Windows_French)                                  ✗      ✗     ✗
-Broken Sword 2.5_ The Return of the Templars {Сломанный Меч 2.5_ Возвращение тамплиеров}(Windows_Russian)                                                          -      ✗     ✗
+Broken Sword 2.5_ The Return of the Templars {Сломанный Меч 2.5_ Возвращение тамплиеров}(Windows_Russian)                                                          ✗      ✗     ✗
 Broken Sword II_ The Smoking Mirror (PlayStation)                                                                                                                  ✗      ✗     ✗
 Broken Sword II_ The Smoking Mirror (Windows)                                                                                                                      ✗      ✗     ✗
 Broken Sword II_ The Smoking Mirror (Windows_Czech)                                                                                                                ✗      ✗     ✗
@@ -2049,6 +2049,7 @@ Legend of Kyrandia, The_ Malcolm's Revenge (DOS_Chinese Simplified)             
 Legend of Kyrandia, The_ Malcolm's Revenge (DOS_Chinese Traditional)                                                                                               ✗      ✗     ✗
 Legend of Kyrandia, The_ Malcolm's Revenge (DOS_French)                                                                                                            ✗      ✗     ✗
 Legend of Kyrandia, The_ Malcolm's Revenge (DOS_German)                                                                                                            ✗      ✗     ✗
+Legend of Kyrandia, The_ Malcolm's Revenge (DOS_Hebrew)                                                                                                            ✗      ✗     ✗
 Legend of Kyrandia, The_ Malcolm's Revenge (DOS_Italian)                                                                                                           ✗      ✗     ✗
 Legend of Kyrandia, The_ Malcolm's Revenge (DOS_Spanish)                                                                                                           ✗      ✗     ✗
 Legend of Kyrandia, The_ Malcolm's Revenge (Macintosh)                                                                                                             ✗      ✗     ✗
@@ -2650,6 +2651,7 @@ Myst III_ Exile (Microsoft Xbox_Spanish)                                        
 Myst III_ Exile (Sony PlayStation 2_En,Fr,De,Es,It,Du)                                                                                                             ✗      ✗     ✗
 Myst III_ Exile (Sony PlayStation 2_En,Fr,Es)                                                                                                                      ✗      ✗     ✗
 Myst III_ Exile (Windows)                                                                                                                                          ✗      ✗     ✗
+Myst III_ Exile {神秘岛3：放逐}(Windows_Chinese (Simplified))                                                                                                            ✗      ✗     ✗
 Myst _ Masterpiece Edition (Windows)                                                                                                                               ✗      ✗     ✗
 Myst _ Masterpiece Edition (Windows_French)                                                                                                                        ✗      ✗     ✗
 Myst _ Masterpiece Edition (Windows_German)                                                                                                                        ✗      ✗     ✗
@@ -4417,8 +4419,6 @@ Zork_ The Undiscovered Underground Hint Booklet (Multi-OS)                      
 Zorkian Stories 1_ G.U.E (Multi-OS)                                                                                                                                ✗      ✗     ✗
 Zugzwang (Windows)                                                                                                                                                 ✗      ✗     ✗
 Zugzwang_ The Interactive Life of a Chess Piece (Multi-OS)                                                                                                         ✗      ✗     ✗
-_Legend of Kyrandia, The_ Malcolm's Revenge (DOS_Hebrew)                                                                                                           ✗      ✗     ✗
-_Myst III_ Exile {神秘岛3：放逐}(Windows_Chinese (Simplified))                                                                                                           ✗      ✗     ✗
 baZic_ Z-Machine BASIC Implementation (Multi-OS)                                                                                                                   ✗      ✗     ✗
 iD4 Mission Disk 01_ Alien Supreme Commander (Windows)                                                                                                             ✗      ✗     ✗
 iD4 Mission Disk 02_ Alien Science Officer (Windows)                                                                                                               ✗      ✗     ✗

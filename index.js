@@ -9,7 +9,6 @@ var globby = require('globby')
 var datfile = require('robloach-datfile')
 var minimatch = require('minimatch')
 var table = require('text-table')
-var download = require('download-file-sync')
 var fileExists = require('file-exists')
 var sanitizeFilename = require('sanitize-filename')
 var batchreplace = require('batchreplace')
@@ -78,28 +77,18 @@ function processSystem(system) {
  * - title
  */
 function getGameThumbnails(thumbs, system, name) {
-	var filename = name.split('[').join('\\[').split(']').join('\\]')
-	var out = minimatch.match(thumbs, system + '/*/' + filename + '.png', {matchBase: true})
 	var result = {}
-	for (var i in out) {
-		var str = out[i]
-		var index = -1
-		if (str.indexOf('Named_Boxarts') > 0) {
-			result.boxart = true
-			index = thumbs.indexOf(str)
-		}
-		else if (str.indexOf('Named_Snaps') > 0) {
-			result.snap = true
-			index = thumbs.indexOf(str)
-		}
-		else if (str.indexOf('Named_Titles') > 0) {
-			result.title = true
-			index = thumbs.indexOf(str)
-		}
-		if (index > -1) {
-			thumbs.splice(index, 1)
-		}
+
+	if (thumbs.includes(`Named_Boxarts/${name}.png`)) {
+		result.boxart = true
 	}
+	if (thumbs.includes(`Named_Snaps/${name}.png`)) {
+		result.snap = true
+	}
+	if (thumbs.includes(`Named_Titles/${name}.png`)) {
+		result.title = true
+	}
+
 	return result
 }
 
@@ -183,17 +172,23 @@ function writeReport(system, games, thumbs) {
  * Downloads the index of all thumbnails.
  */
 function thumbnails(system) {
-	let files = []
-	let filePath = path.join(libretroThumbnailsPath, system)
-	try {
-		files = recursiveReadDirSync(filePath)
-	}
-	catch (err) {
-		// Nothing.
-	}
-	for (let i in files) {
-		files[i] = files[i].replace(libretroThumbnailsPath + '/', '')
-	}
+
+	const fileName = `${__dirname}/indexFiles/${system}.index`
+
+	let content = fs.readFileSync(fileName, 'utf8')
+
+	let files = content.split('\n').filter(Boolean)
+
+	// let filePath = path.join(libretroThumbnailsPath, system)
+	// try {
+	// 	files = recursiveReadDirSync(filePath)
+	// }
+	// catch (err) {
+	// 	// Nothing.
+	// }
+	// for (let i in files) {
+	// 	files[i] = files[i].replace(libretroThumbnailsPath + '/', '')
+	// }
 	return files
 }
 

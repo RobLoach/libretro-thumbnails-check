@@ -17,7 +17,6 @@
   },
   "dependencies": {
     "batchreplace": "^1.0.1",
-    "download-file-sync": "^1.0.4",
     "file-exists": "^5.0.1",
     "fs-exists-sync": "^0.1.0",
     "glob": "^7.2.0",
@@ -27,6 +26,7 @@
     "minimatch": "^3.0.4",
     "multimatch": "^4.0.0",
     "multispinner": "^0.2.1",
+    "nodejs-file-downloader": "^4.12.1",
     "recursive-readdir-sync": "^1.0.6",
     "sanitize-filename": "^1.6.3",
     "sort-object": "^3.0.3",

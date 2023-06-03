@@ -1,9 +1,9 @@
 Atari - 5200 Missing
 
-Boxarts  107/111  96.40%
-Snaps    107/111  96.40%
-Titles   107/111  96.40%
-Total    321/333  96.40%
+Boxarts  107/111   96.40%
+Snaps    111/111  100.00%
+Titles   107/111   96.40%
+Total    325/333   97.60%
 
 Name                                                      Boxart  Snap  Title
 5200 Menu (USA) (Proto)                                      -      -     -
@@ -11,7 +11,7 @@ A.E. (USA) (Proto)                                           -      -     -
 Activision Decathlon, The (USA)                              -      -     -
 Asteroids (USA) (Proto)                                      -      -     -
 Astro Chase (USA)                                            -      -     -
-Astrogrover (USA) (Proto)                                    ✗      ✗     ✗
+Astrogrover (USA) (Proto)                                    ✗      -     ✗
 Atari PAM - Pete's Test (USA)                                -      -     -
 Atari PAM Diagnostics (USA) (v2.0)                           -      -     -
 Atari PAM Diagnostics (USA) (v2.3)                           -      -     -
@@ -21,7 +21,7 @@ Barroom Baseball (USA) (Proto)                               -      -     -
 Battlezone (USA) (Proto)                                     -      -     -
 Battlezone (USA) (Proto) (Alt)                               -      -     -
 Beamrider (USA)                                              -      -     -
-Behind Jaggi Lines! (USA) (Proto)                            ✗      ✗     ✗
+Behind Jaggi Lines! (USA) (Proto)                            ✗      -     ✗
 BerZerk (USA)                                                -      -     -
 Black Belt (USA) (Proto)                                     -      -     -
 Blaster (USA) (Proto)                                        -      -     -
@@ -85,8 +85,8 @@ QIX (USA)                                                    -      -     -
 Quest for Quintana Roo (USA)                                 -      -     -
 RealSports Baseball (USA)                                    -      -     -
 RealSports Basketball (USA)                                  -      -     -
-RealSports Basketball (USA) (Proto) (1982-11-05)             ✗      ✗     ✗
-RealSports Basketball (USA) (Proto) (1983-10-31)             ✗      ✗     ✗
+RealSports Basketball (USA) (Proto) (1982-11-05)             ✗      -     ✗
+RealSports Basketball (USA) (Proto) (1983-10-31)             ✗      -     ✗
 RealSports Football (USA)                                    -      -     -
 RealSports Soccer (USA)                                      -      -     -
 RealSports Tennis (USA)                                      -      -     -

@@ -1,9 +1,9 @@
 Coleco - ColecoVision Missing
 
-Boxarts  133/195  68.21%
-Snaps    116/195  59.49%
-Titles   116/195  59.49%
-Total    365/585  62.39%
+Boxarts  162/197  82.23%
+Snaps    159/197  80.71%
+Titles   159/197  80.71%
+Total    480/591  81.22%
 
 Name                                                                Boxart  Snap  Title
 2010 - The Graphic Action Game (USA)                                   -      -     -
@@ -18,7 +18,7 @@ Antarctic Adventure (USA, Europe)                                      -      - 
 Antarctic Adventure (USA, Europe) (Beta)                               ✗      ✗     ✗
 Aquattack (USA)                                                        -      -     -
 Artillery Duel (USA)                                                   -      -     -
-BC's Quest for Tires (Canada)                                          ✗      ✗     ✗
+BC's Quest for Tires (Canada)                                          -      -     -
 BC's Quest for Tires (USA)                                             -      -     -
 BC's Quest for Tires II - Grog's Revenge (Canada)                      -      -     -
 BC's Quest for Tires II - Grog's Revenge (USA)                         -      -     -
@@ -27,13 +27,13 @@ Berenstain Bears, The (USA) (Demo)                                     ✗      
 Blockade Runner (USA)                                                  -      -     -
 Boulder Dash (USA)                                                     -      -     -
 Boulder Dash (USA) (Beta)                                              ✗      ✗     ✗
-Brain Strainers (USA)                                                  ✗      ✗     ✗
+Brain Strainers (USA)                                                  -      -     -
 Buck Rogers - Planet of Zoom (USA, Europe)                             -      -     -
 Bump 'n' Jump (USA, Europe)                                            -      -     -
 Bump 'n' Jump (USA, Europe) (Beta)                                     -      -     -
 BurgerTime (USA, Europe)                                               -      -     -
 BurgerTime (USA, Europe) (Beta)                                        -      -     -
-CAT S.O.S. Game, The (USA) (Promo)                                     ✗      ✗     ✗
+CAT S.O.S. Game, The (USA) (Promo)                                     ✗      -     -
 Cabbage Patch Kids - Adventures in the Park (USA, Europe)              -      -     -
 Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta 1)     -      -     -
 Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta 2)     ✗      ✗     ✗
@@ -48,11 +48,11 @@ ColecoVision Monitor Test (USA, Europe)                                -      - 
 Congo Bongo (USA)                                                      -      -     -
 Cosmic Avenger (USA, Europe)                                           -      -     -
 Cosmic Crisis (Europe)                                                 -      -     -
-Dam Busters, The (Canada)                                              ✗      ✗     ✗
+Dam Busters, The (Canada)                                              -      -     -
 Dam Busters, The (USA)                                                 -      -     -
 Dance Fantasy (USA)                                                    -      -     -
 Defender (USA)                                                         -      -     -
-Defender (USA) (BUG Fixed)                                             ✗      ✗     ✗
+Defender (USA) (BUG Fixed)                                             -      -     -
 Destructor (USA, Europe)                                               -      -     -
 Dig Dug (USA) (Proto)                                                  -      -     -
 Donkey Kong (USA)                                                      -      -     -
@@ -64,7 +64,7 @@ Dragonfire (USA)                                                       -      - 
 Dukes of Hazzard, The (USA)                                            -      -     -
 Energy Quiz (Canada) (En,Fr-CA) (1983-06-06) (Proto)                   ✗      ✗     ✗
 Escape from the Mindmaster (USA) (Proto)                               -      -     -
-Evolution (Canada)                                                     ✗      ✗     ✗
+Evolution (Canada)                                                     -      -     -
 Evolution (USA) (Unl)                                                  -      -     -
 Facemaker (USA)                                                        -      -     -
 Fall Guy (USA) (Proto)                                                 ✗      ✗     ✗
@@ -78,8 +78,9 @@ Frantic Freddy (USA)                                                   -      - 
 Frenzy (USA, Europe)                                                   -      -     -
 Frogger (USA)                                                          -      -     -
 Frogger II - ThreeeDeep! (USA)                                         -      -     -
-Front Line (USA, Europe) (Standard Controller)                         ✗      ✗     ✗
-Front Line (USA, Europe) (Super Action Controller)                     ✗      ✗     ✗
+Frogger II - ThreeeDeep! (USA) (Beta) (1984-06-15)                     ✗      ✗     ✗
+Front Line (USA, Europe) (Standard Controller)                         -      -     -
+Front Line (USA, Europe) (Super Action Controller)                     -      -     -
 Galaxian (USA)                                                         -      -     -
 Gateway to Apshai (USA, Europe)                                        -      -     -
 Gorf (USA, Europe)                                                     -      -     -
@@ -88,13 +89,13 @@ Gyruss (USA)                                                           -      - 
 Gyruss (USA) (Beta)                                                    ✗      ✗     ✗
 H.E.R.O. - Helicopter Emergency Rescue Operation (USA)                 -      -     -
 Heist, The (USA)                                                       -      -     -
-Illusions (USA)                                                        -      ✗     ✗
+Illusions (USA)                                                        -      -     -
 It's Only Rock 'N' Roll (USA)                                          -      -     -
-James Bond 007 (USA)                                                   ✗      ✗     ✗
+James Bond 007 (USA)                                                   -      -     -
 Joust (USA) (Proto)                                                    -      -     -
-Jukebox (USA)                                                          ✗      ✗     ✗
-Julius Erving and Larry Bird Go - One-on-One (USA)                     ✗      ✗     ✗
-Jumpman Junior (USA, Europe)                                           -      ✗     ✗
+Jukebox (USA)                                                          -      -     -
+Julius Erving and Larry Bird Go - One-on-One (USA)                     -      -     -
+Jumpman Junior (USA, Europe)                                           -      -     -
 Jungle Hunt (USA)                                                      -      -     -
 Ken Uston Blackjack-Poker (USA, Europe)                                -      -     -
 Keystone Kapers (USA)                                                  -      -     -
@@ -108,19 +109,19 @@ M.A.S.H (Europe) (Proto)                                               ✗      
 Matt Patrol (USA) (Proto)                                              ✗      ✗     ✗
 Matt Patrol (USA) (Proto) (Alt)                                        ✗      ✗     ✗
 Memory Manor (USA)                                                     -      -     -
-Meteoric Shower (Europe)                                               ✗      ✗     ✗
-Miner 2049er Starring Bounty Bob (USA, Europe)                         -      ✗     ✗
-Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1)                  ✗      ✗     ✗
-Monkey Academy (USA)                                                   ✗      ✗     ✗
+Meteoric Shower (Europe)                                               -      -     -
+Miner 2049er Starring Bounty Bob (USA, Europe)                         -      -     -
+Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1)                  -      -     -
+Monkey Academy (USA)                                                   -      -     -
 Monkey Academy (USA) (Beta)                                            ✗      ✗     ✗
 Montezuma's Revenge (USA)                                              -      -     -
-Moonsweeper (USA, Europe)                                              ✗      ✗     ✗
+Moonsweeper (USA, Europe)                                              -      -     -
 Motocross Racer (USA)                                                  -      -     -
 Mountain King (USA)                                                    -      -     -
-Mouse Trap (USA, Europe)                                               -      ✗     ✗
+Mouse Trap (USA, Europe)                                               -      -     -
 Mr. Do! (USA, Europe)                                                  -      -     -
 Mr. Do!'s Castle (USA)                                                 -      -     -
-Nova Blast (USA, Europe)                                               ✗      ✗     ✗
+Nova Blast (USA, Europe)                                               -      -     -
 Number Bumper (USA) (Beta)                                             ✗      ✗     ✗
 Oil's Well (USA)                                                       -      -     -
 Omega Race (USA, Europe)                                               -      -     -
@@ -130,7 +131,7 @@ Pepper II (USA, Europe)                                                -      - 
 Pitfall II - Lost Caverns (USA)                                        -      -     -
 Pitfall! (USA)                                                         -      -     -
 Pitstop (USA)                                                          -      -     -
-Pitstop (USA, Europe) (v1.1)                                           ✗      ✗     ✗
+Pitstop (USA, Europe) (v1.1)                                           -      -     -
 Popeye (USA)                                                           -      -     -
 Porky's (USA) (Proto)                                                  -      -     -
 Power Lords - Quest for Volcan (USA) (Proto 1)                         ✗      ✗     ✗
@@ -141,45 +142,46 @@ Quest for Quintana Roo (USA)                                           -      - 
 River Raid (USA)                                                       -      -     -
 Robin Hood (USA)                                                       -      -     -
 Roc 'N Rope (USA, Europe)                                              -      -     -
-Rock n' Bolt (USA)                                                     ✗      ✗     ✗
-Rocky - Super Action Boxing (USA, Europe)                              -      ✗     ✗
+Rock n' Bolt (USA)                                                     -      -     -
+Rocky - Super Action Boxing (USA, Europe)                              -      -     -
 Rolloverture (USA)                                                     -      -     -
-Root Beer Tapper (USA)                                                 -      ✗     ✗
+Root Beer Tapper (USA)                                                 -      -     -
 Sammy Lightfoot (USA)                                                  -      -     -
 Sector Alpha (USA)                                                     -      -     -
 Sewer Sam (USA)                                                        -      -     -
 Sir Lancelot (USA)                                                     -      -     -
 Skiing (USA)                                                           -      -     -
-Slither (USA, Europe)                                                  -      ✗     ✗
+Slither (USA, Europe)                                                  -      -     -
 Slurpy (USA)                                                           -      -     -
-Smurf - Paint 'n' Play WORKSHOP (USA, Europe)                          ✗      ✗     ✗
-Smurf - Rescue in Gargamel's Castle (USA, Europe)                      -      ✗     ✗
+Smurf - Paint 'n' Play WORKSHOP (USA, Europe)                          -      -     -
+Smurf - Rescue in Gargamel's Castle (USA, Europe)                      -      -     -
 Smurfs Save the Day (USA) (Demo)                                       ✗      ✗     ✗
 Space Fury (USA, Europe)                                               -      -     -
 Space Panic (USA, Europe)                                              -      -     -
 Spectron (USA)                                                         -      -     -
-Spy Hunter (USA)                                                       -      ✗     ✗
+Spy Hunter (USA)                                                       -      -     -
 Spy Hunter (USA) (Beta)                                                ✗      ✗     ✗
-Squish'em Featuring Sam (USA)                                          ✗      ✗     ✗
+Squish'em Featuring Sam (USA)                                          -      -     -
 Star Fire (USA) (Proto)                                                ✗      ✗     ✗
-Star Trek - Strategic Operations Simulator (USA)                       -      ✗     ✗
-Star Wars - The Arcade Game (USA)                                      -      ✗     ✗
+Star Trek - Strategic Operations Simulator (USA)                       -      -     -
+Star Wars - The Arcade Game (USA)                                      -      -     -
+Star Wars - The Arcade Game (USA) (Beta) (1984-04-12)                  ✗      ✗     ✗
 Steamroller (USA) (Proto)                                              -      -     -
-Strike It! (Europe)                                                    ✗      ✗     ✗
+Strike It! (Europe)                                                    -      -     -
 Subroc (USA, Europe)                                                   -      -     -
-Super Action Baseball (USA)                                            ✗      ✗     ✗
-Super Action Football (Europe)                                         ✗      ✗     ✗
-Super Action Football (USA)                                            ✗      ✗     ✗
+Super Action Baseball (USA)                                            -      -     -
+Super Action Football (Europe)                                         -      -     -
+Super Action Football (USA)                                            -      -     -
 Super Cobra (USA)                                                      -      -     -
 Super Controller Tester (USA)                                          -      -     -
-Super Cross Force (USA, Europe)                                        ✗      ✗     ✗
+Super Cross Force (USA, Europe)                                        -      -     -
 Super DK! (USA) (Proto)                                                ✗      ✗     ✗
 Super DK! Junior (USA) (Proto)                                         ✗      ✗     ✗
 Sword and the Sorcerer, The (USA) (Demo)                               ✗      ✗     ✗
 TOMARC the Barbarian (USA)                                             ✗      ✗     ✗
-Tank Wars (Europe)                                                     ✗      ✗     ✗
-Tarzan (USA, Europe)                                                   -      ✗     ✗
-Telly Turtle (USA)                                                     ✗      ✗     ✗
+Tank Wars (Europe)                                                     -      -     -
+Tarzan (USA, Europe)                                                   -      -     -
+Telly Turtle (USA)                                                     -      -     -
 Threshold (USA)                                                        -      -     -
 Time Pilot (USA, Europe)                                               -      -     -
 Tournament Tennis (USA)                                                -      -     -
@@ -188,14 +190,14 @@ Turbo (USA, Europe)                                                    -      - 
 Tutankham (USA)                                                        -      -     -
 Up 'n Down (USA)                                                       -      ✗     ✗
 Venture (USA, Europe)                                                  -      -     -
-Victory (Europe)                                                       ✗      ✗     ✗
-Victory (USA)                                                          ✗      ✗     ✗
+Victory (Europe)                                                       -      -     -
+Victory (USA)                                                          -      -     -
 Video Hustler (USA) (Proto 1)                                          ✗      ✗     ✗
 Video Hustler (USA) (Proto 2)                                          ✗      ✗     ✗
 War Room (USA)                                                         -      -     -
-WarGames (USA, Europe)                                                 -      ✗     ✗
+WarGames (USA, Europe)                                                 -      -     -
 Wing War (USA)                                                         -      -     -
-Wizard of Id's - WizMath (USA)                                         ✗      ✗     ✗
+Wizard of Id's - WizMath (USA)                                         -      -     -
 Word Feud (USA)                                                        -      -     -
 Yolk's on you, The (Europe) (Proto)                                    ✗      ✗     ✗
 Zaxxon (Taiwan) (En) (Unl)                                             ✗      ✗     ✗
