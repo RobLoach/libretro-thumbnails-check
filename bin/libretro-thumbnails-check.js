@@ -12,6 +12,10 @@ var getGameThumbnails = require('..').getGameThumbnails
 var cleanGameName = require('..').cleanGameName
 const Downloader = require('nodejs-file-downloader')
 
+function getRandomInt(max) {
+	return Math.floor(Math.random() * max);
+  }
+
 glob('libretro-database/rdb/*.rdb', function (err, files) {
 	// Create the task runner.
 	var tasks = new Listr([], {
@@ -26,7 +30,7 @@ glob('libretro-database/rdb/*.rdb', function (err, files) {
 			task: function(context) {
 				return new Promise(async function (resolve, reject) {
 					const downloader = new Downloader({
-						url: `https://thumbnails.libretro.com/${system.replaceAll(' ', '%20')}/.index`,
+						url: `https://thumbnails.libretro.com/${system.replaceAll(' ', '%20')}/.index?nocaches=${getRandomInt(1000)}&${getRandomInt(1000)}`,
 						directory: __dirname + '/../indexFiles',
 						fileName: `${system}.index`,
 						skipExistingFileName: true
