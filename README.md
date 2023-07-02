@@ -23,7 +23,9 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [ChaiLove](out/ChaiLove.txt) | 1 / 6 | 5 / 6 | 1 / 6 | 7 / 18 | **38.89%** |
 | [Coleco - ColecoVision](out/Coleco%20-%20ColecoVision.txt) | 162 / 197 | 159 / 197 | 159 / 197 | 480 / 591 | **81.22%** |
 | [Commodore - 64](out/Commodore%20-%2064.txt) | 195 / 237 | 214 / 237 | 220 / 237 | 629 / 711 | **88.47%** |
-| [Commodore - Amiga](out/Commodore%20-%20Amiga.txt) | 1605 / 3152 | 2009 / 3152 | 1188 / 3152 | 4802 / 9456 | **50.78%** |
+| [Commodore - Amiga](out/Commodore%20-%20Amiga.txt) | 1675 / 46484 | 2016 / 46484 | 1195 / 46484 | 4886 / 139452 | **3.50%** |
+| [Commodore - CD32](out/Commodore%20-%20CD32.txt) | 0 / 714 | 0 / 714 | 0 / 714 | 0 / 2142 | **0.00%** |
+| [Commodore - CDTV](out/Commodore%20-%20CDTV.txt) | 0 / 258 | 0 / 258 | 0 / 258 | 0 / 774 | **0.00%** |
 | [Commodore - PET](out/Commodore%20-%20PET.txt) | 0 / 107 | 0 / 107 | 0 / 107 | 0 / 321 | **0.00%** |
 | [Commodore - Plus-4](out/Commodore%20-%20Plus-4.txt) | 5 / 5 | 5 / 5 | 5 / 5 | 15 / 15 | **100.00%** |
 | [Commodore - VIC-20](out/Commodore%20-%20VIC-20.txt) | 149 / 235 | 194 / 235 | 194 / 235 | 537 / 705 | **76.17%** |
@@ -125,7 +127,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [WASM-4](out/WASM-4.txt) | 0 / 63 | 0 / 63 | 63 / 63 | 63 / 189 | **33.33%** |
 | [Watara - Supervision](out/Watara%20-%20Supervision.txt) | 63 / 69 | 64 / 69 | 65 / 69 | 192 / 207 | **92.75%** |
 | [Wolfenstein 3D](out/Wolfenstein%203D.txt) | 10 / 10 | 6 / 10 | 9 / 10 | 25 / 30 | **83.33%** |
-| **Total** | **54799 / 261169** | **45357 / 261169** | **36991 / 261169** | **137147 / 783507** | **17.50%** |
+| **Total** | **54869 / 305473** | **45364 / 305473** | **36998 / 305473** | **137231 / 916419** | **14.97%** |
 
 ## Build
 
