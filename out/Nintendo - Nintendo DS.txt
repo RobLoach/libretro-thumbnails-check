@@ -1,9 +1,9 @@
 Nintendo - Nintendo DS Missing
 
-Boxarts   4965/7919  62.70%
-Snaps     2271/7919  28.68%
-Titles     328/7919   4.14%
-Total    7564/23757  31.84%
+Boxarts   4981/7919  62.90%
+Snaps     2281/7919  28.80%
+Titles     351/7919   4.43%
+Total    7613/23757  32.05%
 
 Name                                                                                                                                                                                             Boxart  Snap  Title
 'Chou' Kowai Hanashi DS - Ao no Shou (Japan)                                                                                                                                                        -      -     ✗
@@ -25,7 +25,7 @@ Name                                                                            
 1-nichi 10-pun de E ga Jouzu ni Kakeru DS (Japan)                                                                                                                                                   -      ✗     ✗
 10 voor Taal (Netherlands)                                                                                                                                                                          -      ✗     ✗
 100 All-Time Favorites (USA) (En,Fr,Es)                                                                                                                                                             -      ✗     ✗
-100 Classic Book Collection (Europe)                                                                                                                                                                ✗      ✗     ✗
+100 Classic Book Collection (Europe)                                                                                                                                                                -      ✗     ✗
 100 Classic Book Collection - Alice's Adventures in Wonderland (Europe) (Demo) (DS Broadcast)                                                                                                       ✗      ✗     ✗
 100 Classic Book Collection - Alice's Black Beauty (Europe) (Demo) (DS Broadcast)                                                                                                                   ✗      ✗     ✗
 100 Classic Book Collection - Romeo and Juliet (Europe, Australia) (Demo)                                                                                                                           ✗      ✗     ✗
@@ -698,7 +698,7 @@ Blue Dragon - Awakened Shadow (France)                                          
 Blue Dragon - Awakened Shadow (Germany)                                                                                                                                                             -      ✗     ✗
 Blue Dragon - Awakened Shadow (Italy)                                                                                                                                                               -      ✗     ✗
 Blue Dragon - Awakened Shadow (Spain)                                                                                                                                                               -      ✗     ✗
-Blue Dragon - Awakened Shadow (USA)                                                                                                                                                                 -      -     ✗
+Blue Dragon - Awakened Shadow (USA)                                                                                                                                                                 -      -     -
 Blue Dragon - Awakened Shadow (USA) (Beta)                                                                                                                                                          ✗      ✗     ✗
 Blue Dragon - Awakened Shadow (United Kingdom)                                                                                                                                                      -      ✗     ✗
 Blue Dragon - Ikai no Kyojuu (Japan)                                                                                                                                                                -      ✗     ✗
@@ -923,7 +923,7 @@ Camping Mama - Outdoor Adventures - Barbecue (USA) (Demo) (DS Broadcast)        
 Camping Mama - Outdoor Adventures - Fishing (USA) (Demo) (DS Broadcast)                                                                                                                             ✗      ✗     ✗
 Candace Kane's Candy Factory (USA)                                                                                                                                                                  -      -     ✗
 Captain America - Super Soldier (Europe) (En,Fr,De,Es,It)                                                                                                                                           -      ✗     ✗
-Captain America - Super Soldier (USA) (En,Fr,Es)                                                                                                                                                    -      -     ✗
+Captain America - Super Soldier (USA) (En,Fr,Es)                                                                                                                                                    -      -     -
 Captain Morgane and the Golden Turtle (Europe) (En,Fr,De,Es,It)                                                                                                                                     -      -     ✗
 Captain Sabertooth and the Trials by Fire (Europe)                                                                                                                                                  -      -     ✗
 Captain Tsubasa - Gekitou no Kiseki (Japan)                                                                                                                                                         -      ✗     ✗
@@ -938,7 +938,7 @@ Carnival Games (USA) (Demo)                                                     
 Carnival Games (USA) (Demo) (Kiosk)                                                                                                                                                                 ✗      ✗     ✗
 Carnival Games (USA) (En,Fr)                                                                                                                                                                        -      ✗     ✗
 Carnival Games (USA) (En,Fr,Es) (Rev 1)                                                                                                                                                             -      ✗     ✗
-Cars (Europe)                                                                                                                                                                                       ✗      ✗     ✗
+Cars (Europe)                                                                                                                                                                                       -      ✗     ✗
 Cars (Europe) (Es,Pt)                                                                                                                                                                               -      ✗     -
 Cars (Europe) (Fr,Nl)                                                                                                                                                                               -      ✗     -
 Cars (Germany)                                                                                                                                                                                      -      ✗     -
@@ -965,7 +965,7 @@ Cars 2 (Japan) (NDSi Enhanced)                                                  
 Cars 2 (USA) (En,Fr,Es) (NDSi Enhanced)                                                                                                                                                             -      ✗     ✗
 Carte au Tresor, La - Le Jeu Video Officiel (France)                                                                                                                                                -      ✗     ✗
 Cartoon Network Racing (Europe) (En,Fr,De,Es,It,Sv,No,Da)                                                                                                                                           -      ✗     ✗
-Cartoon Network Racing (USA) (En,Fr,Es)                                                                                                                                                             -      ✗     ✗
+Cartoon Network Racing (USA) (En,Fr,Es)                                                                                                                                                             -      -     -
 Cartridge Construction Kit (World) (v1.22) (Unl)                                                                                                                                                    ✗      ✗     ✗
 Casper's Scare School - Classroom Capers (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)                                                                                                                -      ✗     ✗
 Casper's Scare School - Classroom Capers (USA)                                                                                                                                                      -      ✗     ✗
@@ -986,7 +986,7 @@ Casual Classics (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)                            
 Casual Mania (Europe) (En,Fr,De,Es,It,Nl)                                                                                                                                                           -      ✗     ✗
 Casual Mania (USA)                                                                                                                                                                                  -      ✗     ✗
 Catan (Europe) (En,De)                                                                                                                                                                              -      ✗     ✗
-Catch! Touch! Yoshi! (Japan)                                                                                                                                                                        ✗      ✗     ✗
+Catch! Touch! Yoshi! (Japan)                                                                                                                                                                        -      ✗     ✗
 Catch! Touch! Yoshi! (Japan) (Demo) (Kiosk)                                                                                                                                                         ✗      ✗     ✗
 Catch! Touch! Yoshi! (Japan) (Rev 1)                                                                                                                                                                -      ✗     ✗
 Cate West - The Vanishing Files (Europe) (En,Fr,De,Es,It)                                                                                                                                           -      ✗     ✗
@@ -1017,7 +1017,7 @@ Challenge Me - Word Puzzles (USA) (En,Fr,Es)                                    
 Challenge Me Kids - Brain Games (Europe) (En,Fr,De,Es,It)                                                                                                                                           -      ✗     ✗
 Chameleon - To Dye For! (USA)                                                                                                                                                                       -      -     ✗
 Championship Pony (USA)                                                                                                                                                                             -      ✗     ✗
-Chaotic - Shadow Warriors (USA) (En,Fr)                                                                                                                                                             -      -     ✗
+Chaotic - Shadow Warriors (USA) (En,Fr)                                                                                                                                                             -      -     -
 Chara-Chenko (Japan) (NDSi Enhanced)                                                                                                                                                                -      -     ✗
 Charlotte's Web (Europe) (En,Fr,De,Es,It)                                                                                                                                                           -      ✗     ✗
 Charlotte's Web (USA)                                                                                                                                                                               -      -     ✗
@@ -1220,7 +1220,7 @@ Cookie _ Cream (USA)                                                            
 Cookie _ Cream (USA) (Demo)                                                                                                                                                                         ✗      ✗     ✗
 Cookin' Idol I! My! Mine! - Game de Hirameki! Kirameki! Cooking (Japan)                                                                                                                             -      ✗     ✗
 Cooking Guide - Can't Decide What to Eat (Europe)                                                                                                                                                   -      ✗     ✗
-Cooking Guide - Can't Decide What to Eat (Europe) (Rev 1)                                                                                                                                           ✗      ✗     ✗
+Cooking Guide - Can't Decide What to Eat (Europe) (Rev 1)                                                                                                                                           -      ✗     ✗
 Cooking Guide - Can't Decide What to Eat (Europe) (Rev 2)                                                                                                                                           ✗      ✗     ✗
 Cooking Mama (Europe) (De,Es,It)                                                                                                                                                                    -      ✗     ✗
 Cooking Mama (Europe) (Demo) (DS Broadcast)                                                                                                                                                         ✗      ✗     ✗
@@ -1267,7 +1267,7 @@ Cooking Mama World - Outdoor Adventures - Barbecue (Europe) (Demo) (DS Broadcast
 Cooking Mama World - Outdoor Adventures - Fishing (Europe) (Demo) (DS Broadcast)                                                                                                                    ✗      ✗     ✗
 Cooking Mama World - Outdoor Adventures - Trial Version (Europe, Australia) (En,Fr,De,Es,It) (Rev 1) (Demo)                                                                                         ✗      ✗     ✗
 Coraline (Europe) (En,Fr,De,Es,It)                                                                                                                                                                  -      ✗     ✗
-Coraline (USA) (En,Fr,Es)                                                                                                                                                                           -      -     ✗
+Coraline (USA) (En,Fr,Es)                                                                                                                                                                           -      -     -
 Cornelsen Trainer - Englisch - Klasse 5 + 6 (Germany)                                                                                                                                               -      ✗     ✗
 Cornelsen Trainer - Englisch - Klasse 7 + 8 (Germany)                                                                                                                                               -      ✗     ✗
 Cornelsen Trainer - Mathe - Klasse 5 (Europe) (En,De)                                                                                                                                               -      ✗     ✗
@@ -1603,7 +1603,7 @@ Digimon Story - Super Xros Wars - Blue (Japan)                                  
 Digimon Story - Super Xros Wars - Red (Japan)                                                                                                                                                       -      ✗     ✗
 Digimon World - Dawn (USA)                                                                                                                                                                          -      -     -
 Digimon World - Dusk (USA)                                                                                                                                                                          -      -     -
-Digimon World Championship (USA)                                                                                                                                                                    -      -     ✗
+Digimon World Championship (USA)                                                                                                                                                                    -      -     -
 Digimon World Championship (USA) (Beta)                                                                                                                                                             ✗      ✗     ✗
 Digimon World DS (USA)                                                                                                                                                                              -      -     -
 Diner Dash (Europe) (En,Fr,De,Es,It)                                                                                                                                                                -      ✗     ✗
@@ -1633,7 +1633,7 @@ Disney Friends (Germany)                                                        
 Disney Friends (Italy)                                                                                                                                                                              -      ✗     ✗
 Disney Friends (Japan)                                                                                                                                                                              -      ✗     ✗
 Disney Friends (Netherlands)                                                                                                                                                                        -      ✗     ✗
-Disney Friends (USA)                                                                                                                                                                                -      ✗     ✗
+Disney Friends (USA)                                                                                                                                                                                -      -     -
 Disney Friends (USA) (Demo)                                                                                                                                                                         ✗      ✗     ✗
 Disney Frozen - Olaf's Quest (Europe)                                                                                                                                                               -      ✗     ✗
 Disney Frozen - Olaf's Quest (Europe) (En,Fr,De,It,Nl)                                                                                                                                              -      ✗     ✗
@@ -1754,7 +1754,7 @@ Dragon Ball DS 2 - Totsugeki! Red Ribbon Gun (Japan) (Demo)                     
 Dragon Ball Kai - Saiyajin Raishuu (Japan)                                                                                                                                                          -      ✗     ✗
 Dragon Ball Kai - Ultimate Butou Den (Japan)                                                                                                                                                        -      ✗     ✗
 Dragon Ball Z - Attack of the Saiyans (Europe) (En,Fr,De,Es,It)                                                                                                                                     -      ✗     ✗
-Dragon Ball Z - Attack of the Saiyans (USA) (En,Fr)                                                                                                                                                 -      ✗     ✗
+Dragon Ball Z - Attack of the Saiyans (USA) (En,Fr)                                                                                                                                                 -      -     -
 Dragon Ball Z - Attack of the Saiyans (USA) (En,Fr) (Beta)                                                                                                                                          ✗      ✗     ✗
 Dragon Ball Z - Bukuu Ressen (Japan)                                                                                                                                                                -      ✗     ✗
 Dragon Ball Z - Goku Densetsu (Europe) (En,Fr,De,Es,It)                                                                                                                                             -      ✗     ✗
@@ -1790,7 +1790,7 @@ Dragon Quest V - Tenkuu no Hanayome (Japan)                                     
 Dragon Quest VI - Maboroshi no Daichi (Japan)                                                                                                                                                       -      ✗     ✗
 Dragon Quest VI - Realms of Revelation (USA) (En,Fr,Es)                                                                                                                                             -      -     -
 Dragon Quest VI - Realms of Revelation (USA) (Video)                                                                                                                                                ✗      ✗     ✗
-Dragon Quest VI - Realms of Reverie (Europe) (En,Fr,De,Es,It)                                                                                                                                       ✗      ✗     ✗
+Dragon Quest VI - Realms of Reverie (Europe) (En,Fr,De,Es,It)                                                                                                                                       -      ✗     ✗
 Dragon Tamer - Sound Spirit (Japan)                                                                                                                                                                 -      -     ✗
 Dragon Zakura DS (Japan)                                                                                                                                                                            -      -     ✗
 Dragonite Distribution 2008 (USA) (Wi-Fi Kiosk) (Save Data)                                                                                                                                         ✗      ✗     ✗
@@ -2049,7 +2049,7 @@ FIFA Street 2 (Europe) (En,Fr,De)                                               
 FIFA Street 2 (USA) (En,Fr,De)                                                                                                                                                                      -      ✗     ✗
 FIFA Street 3 (Europe) (En,Fr,De,Es,It)                                                                                                                                                             -      ✗     ✗
 FIFA Street 3 (Europe) (En,Fr,De,Es,It) (Rev 1)                                                                                                                                                     -      ✗     ✗
-FIFA Street 3 (USA) (En,Fr,Es)                                                                                                                                                                      -      ✗     ✗
+FIFA Street 3 (USA) (En,Fr,Es)                                                                                                                                                                      -      -     -
 Fab 5 Soccer (USA)                                                                                                                                                                                  -      ✗     ✗
 Fab 5 Soccer (USA) (Rev 1)                                                                                                                                                                          -      ✗     ✗
 FabStyle (Japan)                                                                                                                                                                                    -      -     ✗
@@ -2216,7 +2216,7 @@ Freshly-Picked - Tingle's Rosy Rupeeland (Europe) (En,Fr,De,Es,It)              
 Fritz (Europe) (En,Fr,De,Es,It)                                                                                                                                                                     -      ✗     ✗
 Fritz Chess (USA) (En,Fr,Es)                                                                                                                                                                        -      ✗     ✗
 Frogger - Helmet Chaos (Europe) (En,Fr,De,Es,It)                                                                                                                                                    -      ✗     ✗
-Frogger - Helmet Chaos (USA)                                                                                                                                                                        -      -     ✗
+Frogger - Helmet Chaos (USA)                                                                                                                                                                        -      -     -
 Frogman Show D.S., The - Datte, Shouganai Janai. (Japan)                                                                                                                                            -      -     ✗
 From the Abyss (Europe) (En,Fr,De,Es,It)                                                                                                                                                            -      ✗     ✗
 From the Abyss (Japan)                                                                                                                                                                              -      ✗     ✗
@@ -2500,7 +2500,7 @@ Guitar Hero - On Tour (United Kingdom) (Demo) (Kiosk)                           
 Guitar Hero - On Tour - Decades (Europe) (Fr,De,Es,It)                                                                                                                                              -      ✗     ✗
 Guitar Hero - On Tour - Decades (Europe) (Fr,De,Es,It) (Demo) (Kiosk)                                                                                                                               ✗      ✗     ✗
 Guitar Hero - On Tour - Decades (Korea)                                                                                                                                                             ✗      ✗     ✗
-Guitar Hero - On Tour - Decades (USA) (En,Fr)                                                                                                                                                       -      ✗     ✗
+Guitar Hero - On Tour - Decades (USA) (En,Fr)                                                                                                                                                       -      -     -
 Guitar Hero - On Tour - Decades (USA) (En,Fr) (Demo) (Kiosk)                                                                                                                                        ✗      ✗     ✗
 Guitar Hero - On Tour - Decades (United Kingdom)                                                                                                                                                    -      ✗     ✗
 Guitar Hero - On Tour - Modern Hits (Europe) (Fr,De,Es,It)                                                                                                                                          -      ✗     ✗
@@ -2589,7 +2589,7 @@ Harlem Globetrotters - World Tour (Europe) (En,Fr,De,Es,It)                     
 Harlem Globetrotters - World Tour (USA)                                                                                                                                                             -      -     ✗
 Harobots Action!! (Japan)                                                                                                                                                                           -      -     ✗
 Harry Potter and the Deathly Hallows - Part 1 (Europe) (En,Fr,De,Es,It)                                                                                                                             -      ✗     ✗
-Harry Potter and the Deathly Hallows - Part 1 (USA) (En,Fr,Es)                                                                                                                                      -      ✗     ✗
+Harry Potter and the Deathly Hallows - Part 1 (USA) (En,Fr,Es)                                                                                                                                      -      -     -
 Harry Potter and the Deathly Hallows - Part 2 (Europe) (En,Fr,De,Es,It)                                                                                                                             -      ✗     ✗
 Harry Potter and the Deathly Hallows - Part 2 (USA) (En,Fr,Es)                                                                                                                                      -      ✗     ✗
 Harry Potter and the Goblet of Fire (Europe) (En,Fr,De,Es,It)                                                                                                                                       -      ✗     ✗
@@ -3229,7 +3229,7 @@ Junior Island Adventure (USA)                                                   
 Junior Mystery Quest (USA)                                                                                                                                                                          -      -     ✗
 Junior Mystery Stories (Europe) (En)                                                                                                                                                                ✗      ✗     ✗
 Junior Mystery Stories (Europe) (En,Fr,De,Es,It)                                                                                                                                                    ✗      ✗     ✗
-Junior Mystery Stories (Europe) (En,Fr,De,Es,It) (Rev 1)                                                                                                                                            ✗      ✗     ✗
+Junior Mystery Stories (Europe) (En,Fr,De,Es,It) (Rev 1)                                                                                                                                            -      ✗     ✗
 Junior Wort-Quiz, Das (Germany)                                                                                                                                                                     -      ✗     ✗
 Just Sing (USA) (En,Fr) (NDSi Enhanced)                                                                                                                                                             -      ✗     ✗
 Just Sing! (Europe) (En,Fr,De,Nl) (NDSi Enhanced)                                                                                                                                                   -      ✗     ✗
@@ -3239,7 +3239,7 @@ Just Sing! - Vol. 2 (Europe) (En,Fr,De) (VJVV) (NDSi Enhanced)                  
 Just Sing! - Vol. 3 (Europe) (En,Fr,De) (NDSi Enhanced)                                                                                                                                             -      ✗     ✗
 Just in Time Translations - Say It in 6 Languages (USA)                                                                                                                                             -      -     ✗
 Justice League Heroes (Europe) (En,Fr,De,Es,It)                                                                                                                                                     -      ✗     ✗
-Justice League Heroes (USA)                                                                                                                                                                         -      -     ✗
+Justice League Heroes (USA)                                                                                                                                                                         -      -     -
 Juushin Enbu DS (Japan)                                                                                                                                                                             -      -     ✗
 Juushinden - Ultimate Beast Battlers (Japan)                                                                                                                                                        -      -     ✗
 K-1 World GP - Zettai Ouja Ikusei Keikaku (Japan)                                                                                                                                                   -      -     ✗
@@ -3265,7 +3265,7 @@ Kaigo Navi DS (Japan)                                                           
 Kaijuu Busters (Japan)                                                                                                                                                                              -      -     -
 Kaijuu Busters (Japan) (Demo) (Nintendo Channel)                                                                                                                                                    ✗      ✗     ✗
 Kaijuu Busters (Japan) (Rev 1)                                                                                                                                                                      ✗      -     -
-Kaijuu Busters Powered (Japan)                                                                                                                                                                      -      ✗     -
+Kaijuu Busters Powered (Japan)                                                                                                                                                                      -      -     -
 Kaijuu Busters Powered (Japan) (Demo)                                                                                                                                                               ✗      ✗     ✗
 Kaite Oboeru - Doragana (Japan)                                                                                                                                                                     -      -     ✗
 Kaite, Shabette, Hajimeyou! - Monster Farm DS (Japan)                                                                                                                                               -      -     ✗
@@ -3806,14 +3806,14 @@ Looney Tunes - Duck Amuck (Spain)                                               
 Looney Tunes - Duck Amuck (USA)                                                                                                                                                                     -      -     ✗
 Looney Tunes - Duck Amuck (United Kingdom)                                                                                                                                                          -      ✗     ✗
 Lord of the Rings, The - Aragorn's Quest (Europe) (En,Fr,De,Es,It,Nl)                                                                                                                               -      ✗     ✗
-Lord of the Rings, The - Aragorn's Quest (USA) (En,Fr,Es,Pt)                                                                                                                                        -      ✗     ✗
+Lord of the Rings, The - Aragorn's Quest (USA) (En,Fr,Es,Pt)                                                                                                                                        -      -     -
 Lord of the Rings, The - Conquest (Europe) (En,Fr,De,Es,It)                                                                                                                                         -      ✗     ✗
 Lord of the Rings, The - Conquest (USA) (En,Fr,De,Es,It)                                                                                                                                            -      ✗     ✗
 Lost Identities (Europe) (En,De) (VLIP) (NDSi Enhanced)                                                                                                                                             -      -     ✗
 Lost Identities (Europe) (En,De) (VLIV) (NDSi Enhanced)                                                                                                                                             -      ✗     ✗
 Lost Treasures of Alexandria, The (Europe) (En,Fr,De,Nl)                                                                                                                                            -      -     ✗
 Lost in Blue (Europe) (En,Fr,De,Es,It)                                                                                                                                                              -      ✗     ✗
-Lost in Blue (USA)                                                                                                                                                                                  -      -     ✗
+Lost in Blue (USA)                                                                                                                                                                                  -      -     -
 Lost in Blue 2 (Europe) (En,Fr,De,Es,It)                                                                                                                                                            -      ✗     ✗
 Lost in Blue 2 (USA) (En,Ja,Fr,De,Es,It)                                                                                                                                                            -      -     ✗
 Lost in Blue 2 - Spear Fishing (USA) (En,Ja,Fr,De,Es,It) (Demo)                                                                                                                                     ✗      ✗     ✗
@@ -3821,7 +3821,7 @@ Lost in Blue 3 (Europe) (En,Fr,De,Es,It)                                        
 Lost in Blue 3 (USA)                                                                                                                                                                                -      -     ✗
 LostMagic (Europe) (En,Fr,De,Es)                                                                                                                                                                    -      ✗     ✗
 LostMagic (Japan)                                                                                                                                                                                   -      ✗     ✗
-LostMagic (USA) (En,Fr,De,Es)                                                                                                                                                                       -      -     ✗
+LostMagic (USA) (En,Fr,De,Es)                                                                                                                                                                       -      -     -
 Love Cat Life (Japan)                                                                                                                                                                               -      ✗     ✗
 Love Is... in Bloom - The Flower Shop Garden (Europe) (En,Fr,De,Es,It,Nl,Ru)                                                                                                                        -      -     ✗
 Love Love Hamster (Japan)                                                                                                                                                                           -      ✗     ✗
@@ -3891,7 +3891,7 @@ Madagascar (Japan)                                                              
 Madagascar (Netherlands)                                                                                                                                                                            -      ✗     ✗
 Madagascar (Spain)                                                                                                                                                                                  -      ✗     ✗
 Madagascar (USA)                                                                                                                                                                                    -      -     ✗
-Madagascar - Escape 2 Africa (USA)                                                                                                                                                                  ✗      -     ✗
+Madagascar - Escape 2 Africa (USA)                                                                                                                                                                  -      -     ✗
 Madagascar - Escape 2 Africa (USA) (Rev 1) (Demo)                                                                                                                                                   ✗      ✗     ✗
 Madagascar - Escape 2 Africa (United Kingdom)                                                                                                                                                       -      ✗     ✗
 Madagascar 2 (Germany)                                                                                                                                                                              -      ✗     ✗
@@ -4790,7 +4790,7 @@ Naruto Shippuden - Ninja Council 3 - European Version (Europe) (En,Fr,De,Es,It) 
 Naruto Shippuden - Ninja Council 4 (USA) (En,Fr,Es)                                                                                                                                                 ✗      ✗     ✗
 Naruto Shippuden - Ninja Destiny 2 (USA)                                                                                                                                                            ✗      ✗     ✗
 Naruto Shippuden - Ninja Destiny 2 (USA) (Rev 1) (Demo)                                                                                                                                             ✗      ✗     ✗
-Naruto Shippuden - Shinobi Rumble!! (USA)                                                                                                                                                           ✗      ✗     ✗
+Naruto Shippuden - Shinobi Rumble!! (USA)                                                                                                                                                           -      -     -
 Naruto Shippuu Den - Dairansen! Kagebunshin Emaki (Japan)                                                                                                                                           ✗      ✗     ✗
 Naruto Shippuu Den - Ninjutsu Zenkai! Chaclash!! (Japan)                                                                                                                                            ✗      ✗     ✗
 Naruto Shippuu Den - Saikyou Ninja Daikesshuu - Gekitotsu!! Naruto vs Sasuke (Japan)                                                                                                                ✗      ✗     ✗
@@ -4931,7 +4931,7 @@ Nintendo DS Title Recommendation Program (USA) (Nintendo Channel)               
 Nintendo Presents - Crossword Collection (Europe)                                                                                                                                                   ✗      ✗     ✗
 Nintendo Presents - Crossword Collection (Europe, Australia) (Demo)                                                                                                                                 ✗      ✗     ✗
 Nintendo Presents - Style Boutique (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)                                                                                                                         ✗      ✗     ✗
-Nintendo Presents - Style Boutique (Europe) (En,Fr,De,Es,It) (Rev 1)                                                                                                                                ✗      ✗     ✗
+Nintendo Presents - Style Boutique (Europe) (En,Fr,De,Es,It) (Rev 1)                                                                                                                                -      ✗     ✗
 Nintendo Presents - Style Boutique - Trial Version (Europe, Australia) (Demo)                                                                                                                       ✗      ✗     ✗
 Nintendo Touch Golf - Birdie Challenge (Europe) (Demo)                                                                                                                                              ✗      ✗     ✗
 Nintendo Touch Golf - Birdie Challenge (Europe) (En,Ja,Fr,De,Es,It)                                                                                                                                 -      ✗     ✗
@@ -5118,7 +5118,7 @@ Paard _ Pony - Mijn Paardenstal (Netherlands) (En,Nl)                           
 Pac'n Ball (Korea)                                                                                                                                                                                  ✗      ✗     ✗
 Pac'n Roll (Europe) (En,Fr,De,Es,It)                                                                                                                                                                ✗      ✗     ✗
 Pac'n Roll (Japan)                                                                                                                                                                                  ✗      ✗     ✗
-Pac'n Roll (USA)                                                                                                                                                                                    ✗      -     ✗
+Pac'n Roll (USA)                                                                                                                                                                                    -      -     -
 Pac-Man World 3 (Europe)                                                                                                                                                                            ✗      ✗     ✗
 Pac-Man World 3 (USA)                                                                                                                                                                               ✗      -     ✗
 Pac-Pix (Europe) (En,Fr,De,Es,It)                                                                                                                                                                   ✗      ✗     ✗
@@ -5314,7 +5314,7 @@ Picross 3D (USA) (Demo)                                                         
 Picross 3D (USA) (Demo) (DS Broadcast)                                                                                                                                                              ✗      ✗     ✗
 Picross 3D (USA) (Demo) (Kiosk)                                                                                                                                                                     ✗      -     ✗
 Picross 3D (USA) (En,Fr,Es)                                                                                                                                                                         -      -     -
-Picross DS (Europe) (En,Fr,De,Es,It)                                                                                                                                                                ✗      ✗     ✗
+Picross DS (Europe) (En,Fr,De,Es,It)                                                                                                                                                                -      ✗     ✗
 Picross DS (Europe) (En,Fr,De,Es,It) (Demo) (DS Download Station Vol. 5 + 6)                                                                                                                        ✗      ✗     ✗
 Picross DS (Europe, Australia) (En,Fr,De,Es,It) (Demo) (DS Download Station Vol. 4, Nintendo Channel)                                                                                               ✗      ✗     ✗
 Picross DS (Japan)                                                                                                                                                                                  -      ✗     ✗
@@ -5362,7 +5362,7 @@ Pirates of the Caribbean - At World's End (USA) (En,Fr,De,Es,It,Nl)             
 Pirates of the Caribbean - At World's End (USA, Europe) (Demo)                                                                                                                                      ✗      ✗     ✗
 Pirates of the Caribbean - Dead Man's Chest (Europe) (En,Fr,De,Es,It)                                                                                                                               ✗      ✗     ✗
 Pirates of the Caribbean - Dead Man's Chest (Japan)                                                                                                                                                 ✗      ✗     ✗
-Pirates of the Caribbean - Dead Man's Chest (USA) (En,Fr,De,Es,It)                                                                                                                                  ✗      -     ✗
+Pirates of the Caribbean - Dead Man's Chest (USA) (En,Fr,De,Es,It)                                                                                                                                  -      -     -
 Piraty Karibskogo Morja - Na Kraju Sveta (Russia)                                                                                                                                                   ✗      ✗     ✗
 Pixeline - Hotel Skrottenborg (Denmark)                                                                                                                                                             ✗      ✗     ✗
 Pixeline - Jungleskatten (Denmark)                                                                                                                                                                  ✗      ✗     ✗
@@ -5500,7 +5500,7 @@ Pokemon Card Game - Asobikata DS - Download-ban (Japan) (Demo) (DS Broadcast)   
 Pokemon Card Game - Asobikata DS - Download-ban (Japan) (Demo) (Nintendo Channel)                                                                                                                   ✗      ✗     ✗
 Pokemon Conquest (Europe) (NDSi Enhanced)                                                                                                                                                           -      ✗     ✗
 Pokemon Conquest (USA, Australia) (NDSi Enhanced)                                                                                                                                                   -      ✗     ✗
-Pokemon Conquest (USA, Australia) (Rev 1) (NDSi Enhanced)                                                                                                                                           ✗      ✗     ✗
+Pokemon Conquest (USA, Australia) (Rev 1) (NDSi Enhanced)                                                                                                                                           -      -     -
 Pokemon Dash (Europe) (En,Fr,De,Es,It)                                                                                                                                                              ✗      ✗     ✗
 Pokemon Dash (Japan)                                                                                                                                                                                ✗      ✗     ✗
 Pokemon Dash (Korea)                                                                                                                                                                                ✗      ✗     ✗
@@ -5717,7 +5717,7 @@ Professor Kageyama's Maths Training - The Hundred Cell Calculation Method - Stud
 Professor Kageyama's Maths Training - The Hundred Cell Calculation Method - Study Together (Europe) (Es) (DS Broadcast)                                                                             ✗      ✗     ✗
 Professor Kageyama's Maths Training - The Hundred Cell Calculation Method - Study Together (Europe) (Fr) (DS Broadcast)                                                                             ✗      ✗     ✗
 Professor Kageyama's Maths Training - The Hundred Cell Calculation Method - Study Together (Europe) (It) (DS Broadcast)                                                                             ✗      ✗     ✗
-Professor Layton and Pandora's Box (Europe)                                                                                                                                                         ✗      ✗     ✗
+Professor Layton and Pandora's Box (Europe)                                                                                                                                                         -      ✗     ✗
 Professor Layton and Pandora's Box (Europe) (Demo) (Kiosk)                                                                                                                                          -      ✗     ✗
 Professor Layton and the Curious Village (Europe) (En,Fr,De,Es,It)                                                                                                                                  -      ✗     ✗
 Professor Layton and the Curious Village (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)                                                                                                                   -      ✗     ✗
@@ -5729,7 +5729,7 @@ Professor Layton and the Diabolical Box (USA)                                   
 Professor Layton and the Diabolical Box (USA) (Demo) (Kiosk)                                                                                                                                        -      ✗     ✗
 Professor Layton and the Diabolical Box (USA) (Video)                                                                                                                                               ✗      ✗     ✗
 Professor Layton and the Last Specter (USA)                                                                                                                                                         -      ✗     -
-Professor Layton and the Lost Future (Europe)                                                                                                                                                       ✗      ✗     ✗
+Professor Layton and the Lost Future (Europe)                                                                                                                                                       -      ✗     ✗
 Professor Layton and the Spectre's Call (Europe)                                                                                                                                                    -      ✗     ✗
 Professor Layton and the Spectre's Call (Europe) (Demo) (Kiosk)                                                                                                                                     -      ✗     ✗
 Professor Layton and the Unwound Future (USA)                                                                                                                                                       -      ✗     -
@@ -6890,7 +6890,7 @@ Taitsu-kun - Joushi ga Okori-nikui Sawayaka Manners (Japan)                     
 Tak - Mojo Mistake (USA)                                                                                                                                                                            -      -     ✗
 Tak - The Great Juju Challenge (Europe)                                                                                                                                                             -      ✗     ✗
 Tak - The Great Juju Challenge (Europe) (En,Fr,De,Nl)                                                                                                                                               -      ✗     ✗
-Tak - The Great Juju Challenge (USA)                                                                                                                                                                -      -     ✗
+Tak - The Great Juju Challenge (USA)                                                                                                                                                                -      -     -
 Takahashi Shoten Kanshuu - Saihinshutsu! SPI Perfect Mondaishuu DS (Japan)                                                                                                                          -      -     ✗
 Takahashi Shoten Kanshuu - Saihinshutsu! SPI Perfect Mondaishuu DS - 2010 Nendo Ban (Japan)                                                                                                         -      -     ✗
 Takahashi Shoten Kanshuu - Saihinshutsu! SPI Perfect Mondaishuu DS - 2011 Nendo Ban (Japan)                                                                                                         -      -     ✗
@@ -7039,7 +7039,7 @@ Think Again (Europe) (Fr,Nl)                                                    
 Thomas _ Friends - Hero of the Rails (Europe)                                                                                                                                                       ✗      ✗     ✗
 Thomas _ Friends - Hero of the Rails (Europe) (Sv,No,Da)                                                                                                                                            ✗      ✗     ✗
 Thor - God of Thunder (Europe) (En,Fr,De,Es,It)                                                                                                                                                     ✗      ✗     ✗
-Thor - God of Thunder (USA) (En,Fr,De,Es,It)                                                                                                                                                        ✗      -     ✗
+Thor - God of Thunder (USA) (En,Fr,De,Es,It)                                                                                                                                                        -      -     -
 Thrillville - Off the Rails (Europe) (En,Fr,De,Es,It)                                                                                                                                               ✗      ✗     ✗
 Thrillville - Off the Rails (USA) (En,Fr,Es)                                                                                                                                                        ✗      -     ✗
 ThunderCats (Europe) (En,Fr,De,Es,It)                                                                                                                                                               ✗      ✗     ✗
@@ -7877,7 +7877,7 @@ Zombiez Seeker (USA) (En,Fr,Es)                                                 
 Zoo Hospital (Europe) (En,Fr,De,Es,It)                                                                                                                                                              -      ✗     ✗
 Zoo Hospital (USA)                                                                                                                                                                                  -      ✗     ✗
 Zoo Hospital (United Kingdom)                                                                                                                                                                       -      ✗     ✗
-Zoo Keeper (Europe) (En,Fr,De,Es,It)                                                                                                                                                                -      -     ✗
+Zoo Keeper (Europe) (En,Fr,De,Es,It)                                                                                                                                                                -      -     -
 Zoo Keeper (Japan)                                                                                                                                                                                  -      ✗     ✗
 Zoo Keeper (USA)                                                                                                                                                                                    -      ✗     ✗
 Zoo Quest - Puzzle Fun! (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi,Hu)                                                                                                                                 -      ✗     ✗

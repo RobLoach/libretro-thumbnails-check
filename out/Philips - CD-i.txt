@@ -1,9 +1,9 @@
 Philips - CD-i Missing
 
-Boxarts  0/1828  0.00%
-Snaps    0/1828  0.00%
-Titles   0/1828  0.00%
-Total    0/5484  0.00%
+Boxarts  244/1828  13.35%
+Snaps    223/1828  12.20%
+Titles    50/1828   2.74%
+Total    517/5484   9.43%
 
 Name                                                                                                                       Boxart  Snap  Title
 1993 CD-i Awards (USA)                                                                                                        ✗      ✗     ✗
@@ -12,15 +12,15 @@ Name                                                                            
 1995 CD-i Awards (USA)                                                                                                        ✗      ✗     ✗
 1996 Awards - International CD-i Association (USA)                                                                            ✗      ✗     ✗
 2 Unlimited - Beyond Limits (Europe)                                                                                          ✗      ✗     ✗
-3rd Degree (USA)                                                                                                              ✗      ✗     ✗
-7th Guest, The (Europe) (Disc 1) (The Game)                                                                                   ✗      ✗     ✗
-7th Guest, The (Europe) (Disc 1) (The Game) (EDC)                                                                             ✗      ✗     ✗
-7th Guest, The (France) (Disc 1) (Le Jeu)                                                                                     ✗      ✗     ✗
-7th Guest, The (France) (Disc 1) (Le Jeu) (Rev 1)                                                                             ✗      ✗     ✗
-7th Guest, The (Germany) (Disc 1) (Das Spiel)                                                                                 ✗      ✗     ✗
-7th Guest, The (Germany) (Disc 1) (Das Spiel) (Rev 1)                                                                         ✗      ✗     ✗
+3rd Degree (USA)                                                                                                              -      -     -
+7th Guest, The (Europe) (Disc 1) (The Game)                                                                                   -      -     ✗
+7th Guest, The (Europe) (Disc 1) (The Game) (EDC)                                                                             -      -     ✗
+7th Guest, The (France) (Disc 1) (Le Jeu)                                                                                     -      -     ✗
+7th Guest, The (France) (Disc 1) (Le Jeu) (Rev 1)                                                                             -      -     ✗
+7th Guest, The (Germany) (Disc 1) (Das Spiel)                                                                                 -      -     ✗
+7th Guest, The (Germany) (Disc 1) (Das Spiel) (Rev 1)                                                                         -      -     ✗
 7th Guest, The (USA) (Beta)                                                                                                   ✗      ✗     ✗
-7th Guest, The (USA) (Disc 1) (The Game)                                                                                      ✗      ✗     ✗
+7th Guest, The (USA) (Disc 1) (The Game)                                                                                      -      -     ✗
 ACC'94 - Les Meilleurs Moments d'Atlanta (France)                                                                             ✗      ✗     ✗
 ACT College Search '92, The (USA)                                                                                             ✗      ✗     ✗
 ADI - Accompagnement Scolaire - Francais-Maths CE2 (France)                                                                   ✗      ✗     ✗
@@ -43,22 +43,22 @@ Addams Family, The (USA) (Disc 1)                                               
 Addams Family, The (USA) (Disc 2)                                                                                             ✗      ✗     ✗
 Adjustable Bed, The (Europe)                                                                                                  ✗      ✗     ✗
 Adventure of the Space Ship Beagle, The (Japan)                                                                               ✗      ✗     ✗
-Affaire Morlov, L' (Europe) (En,Fr)                                                                                           ✗      ✗     ✗
+Affaire Morlov, L' (Europe) (En,Fr)                                                                                           -      -     -
 Agreed! (UK)                                                                                                                  ✗      ✗     ✗
 Aida - Home Cinema Sound Demonstration Disc (Europe) (En,Fr,De,Nl)                                                            ✗      ✗     ✗
 Albero Azzurro, L' (Italy)                                                                                                    ✗      ✗     ✗
 Albero Azzurro, L' (Italy) (Beta)                                                                                             ✗      ✗     ✗
 Aldosterone - Un Toxique Cardiovasculaire (France)                                                                            ✗      ✗     ✗
 Alfapet (Sweden)                                                                                                              ✗      ✗     ✗
-Alice au Pays des Merveilles (France)                                                                                         ✗      ✗     ✗
-Alice in Wonderland (Europe)                                                                                                  ✗      ✗     ✗
-Alice in Wonderland (Netherlands)                                                                                             ✗      ✗     ✗
-Alice in Wonderland (USA)                                                                                                     ✗      ✗     ✗
-Alien Gate (Europe) (Rev 2)                                                                                                   ✗      ✗     ✗
-Alien Gate (Europe) (Rev 3)                                                                                                   ✗      ✗     ✗
-Alien Gate (Europe) (Rev 4)                                                                                                   ✗      ✗     ✗
-Alien Gate (USA)                                                                                                              ✗      ✗     ✗
-Alien Gate (USA) (Rev 1)                                                                                                      ✗      ✗     ✗
+Alice au Pays des Merveilles (France)                                                                                         -      -     ✗
+Alice in Wonderland (Europe)                                                                                                  -      -     ✗
+Alice in Wonderland (Netherlands)                                                                                             -      -     ✗
+Alice in Wonderland (USA)                                                                                                     -      -     ✗
+Alien Gate (Europe) (Rev 2)                                                                                                   -      -     -
+Alien Gate (Europe) (Rev 3)                                                                                                   -      -     -
+Alien Gate (Europe) (Rev 4)                                                                                                   -      -     -
+Alien Gate (USA)                                                                                                              -      -     -
+Alien Gate (USA) (Rev 1)                                                                                                      -      -     -
 All the Fun of the Fair - Engels voor Kinderen (Netherlands)                                                                  ✗      ✗     ✗
 Allerheiligen Schaffhausen - Vom Kloster zum Museum (Switzerland)                                                             ✗      ✗     ✗
 Alles over CD-i (Netherlands) (Dealer-versie) (Apr-Mei 1995)                                                                  ✗      ✗     ✗
@@ -70,7 +70,7 @@ Amsterdam Airport Schiphol (Netherlands)                                        
 Amsterdam ArenA - Tour d'ArenA (Netherlands)                                                                                  ✗      ✗     ✗
 Amsterdam Auto Rai (Netherlands)                                                                                              ✗      ✗     ✗
 Amsterdamse Effectenbeurs, De (Netherlands)                                                                                   ✗      ✗     ✗
-Ange et le Demon, L' (France)                                                                                                 ✗      ✗     ✗
+Ange et le Demon, L' (France)                                                                                                 -      -     -
 Angebote Bahn-Flug (Germany)                                                                                                  ✗      ✗     ✗
 Animal Communities (USA)                                                                                                      ✗      ✗     ✗
 Animal Communities (USA) (Alt)                                                                                                ✗      ✗     ✗
@@ -83,9 +83,9 @@ AntiStatic (Europe)                                                             
 Antonio Vega - Oceano del Sol (Spain)                                                                                         ✗      ✗     ✗
 Appraisal Interview, The (UK) (Disc 1)                                                                                        ✗      ✗     ✗
 Appraisal Interview, The (UK) (Disc 2)                                                                                        ✗      ✗     ✗
-Apprentice, The (Europe)                                                                                                      ✗      ✗     ✗
-Apprentice, The (USA)                                                                                                         ✗      ✗     ✗
-Arcade Classics (Europe)                                                                                                      ✗      ✗     ✗
+Apprentice, The (Europe)                                                                                                      -      -     -
+Apprentice, The (USA)                                                                                                         -      -     -
+Arcade Classics (Europe)                                                                                                      -      -     -
 Archeon CD-i Quiz (Netherlands)                                                                                               ✗      ✗     ✗
 Arik Brauer - Von Haus zu Haus (Austria)                                                                                      ✗      ✗     ✗
 Around Atlanta (Europe) (Fr,Nl)                                                                                               ✗      ✗     ✗
@@ -96,32 +96,32 @@ Art of the Czars, The (USA)                                                     
 Arte Rupestre no Vale do Coa (Portugal)                                                                                       ✗      ✗     ✗
 Arte degli Zar, L' - San Pietroburgo e i Tesori dell'Ermitage (Italy)                                                         ✗      ✗     ✗
 Asics Interactive Catalogue on CD-i 1996 (Netherlands)                                                                        ✗      ✗     ✗
-Asterix - Caesar's Challenge (Europe)                                                                                         ✗      ✗     ✗
-Asterix - De Uitdaging van Caesar (Netherlands)                                                                               ✗      ✗     ✗
+Asterix - Caesar's Challenge (Europe)                                                                                         -      -     -
+Asterix - De Uitdaging van Caesar (Netherlands)                                                                               -      -     -
 Asterix - Die grosse Reise (Germany)                                                                                          ✗      ✗     ✗
 Asterix - El Desafio de Cesar (Spain)                                                                                         ✗      ✗     ✗
-Asterix - La Sfida di Cesare (Italy)                                                                                          ✗      ✗     ✗
-Asterix - Le Defi de Cesar (France)                                                                                           ✗      ✗     ✗
-Asterix - Le Defi de Cesar (France) (Rev 1)                                                                                   ✗      ✗     ✗
+Asterix - La Sfida di Cesare (Italy)                                                                                          -      -     -
+Asterix - Le Defi de Cesar (France)                                                                                           -      -     -
+Asterix - Le Defi de Cesar (France) (Rev 1)                                                                                   -      -     -
 Asterix - O Desafio de Cesar (Portugal)                                                                                       ✗      ✗     ✗
-Atlantis - The Last Resort (Europe)                                                                                           ✗      ✗     ✗
+Atlantis - The Last Resort (Europe)                                                                                           -      -     -
 Atlantis - The Last Resort (Europe) (Beta 1)                                                                                  ✗      ✗     ✗
 Atlantis - The Last Resort (Europe) (Beta 2)                                                                                  ✗      ✗     ✗
 Aventures de Sandy au Cirque, Les (France)                                                                                    ✗      ✗     ✗
 Axel Springer Verlag AG - Bild am Sonntag (Germany)                                                                           ✗      ✗     ✗
-Axis and Allies (USA)                                                                                                         ✗      ✗     ✗
+Axis and Allies (USA)                                                                                                         -      -     -
 BFGoodrich Tires - The Value of the BFGoodrich Brand (USA)                                                                    ✗      ✗     ✗
 BMB Karaoke 11 (Japan)                                                                                                        ✗      ✗     ✗
 BMB Karaoke 71 (Japan)                                                                                                        ✗      ✗     ✗
 BMW Motorrad- und Fahrerausstattung - 1996 (Germany) (Disc 3)                                                                 ✗      ✗     ✗
 BMW Motorrad- und Fahrerausstattung - 1996 (Germany) (Disc 4)                                                                 ✗      ✗     ✗
 Baby (France)                                                                                                                 ✗      ✗     ✗
-Backgammon (USA, Europe)                                                                                                      ✗      ✗     ✗
+Backgammon (USA, Europe)                                                                                                      -      -     ✗
 Bande Annonce, La - Automne-Hiver 95-96 (France)                                                                              ✗      ✗     ✗
 Bang _ Olufsen - Test (Denmark)                                                                                               ✗      ✗     ✗
 Barrio mas Divertido de Richard Scarry, El (Spain)                                                                            ✗      ✗     ✗
 Basistegn (Denmark)                                                                                                           ✗      ✗     ✗
-Battleship (USA, Europe)                                                                                                      ✗      ✗     ✗
+Battleship (USA, Europe)                                                                                                      -      -     -
 Bavaria Film - Eine Interaktive Entdeckungsreise (Germany)                                                                    ✗      ✗     ✗
 Beauty Guide (Netherlands)                                                                                                    ✗      ✗     ✗
 Beauty _ the Beast (USA)                                                                                                      ✗      ✗     ✗
@@ -139,7 +139,7 @@ BeoCenter AV5 (Europe)                                                          
 BeoCenter AV5 (Europe) (Alt)                                                                                                  ✗      ✗     ✗
 Berenstain Bears, The - Bij de Berenstain Beren Thuis - Thuis en bij Jou (Netherlands)                                        ✗      ✗     ✗
 Berenstain Bears, The - On Their Own (Europe)                                                                                 ✗      ✗     ✗
-Berenstain Bears, The - On Their Own (USA)                                                                                    ✗      ✗     ✗
+Berenstain Bears, The - On Their Own (USA)                                                                                    -      -     ✗
 Berenstain-Baeren, Die - Selbst ist der Baer (Germany)                                                                        ✗      ✗     ✗
 Bertelsmann Universal Lexikon (Germany) (Beta)                                                                                ✗      ✗     ✗
 Bertelsmann Universal Lexikon (Germany) (En,De) (Demo)                                                                        ✗      ✗     ✗
@@ -177,7 +177,7 @@ Bose - Home Cinema Sound System - Demonstration Disc (Europe) (Rev 1)           
 Bose Home Cinema Sound System Demonstration Disc (Germany)                                                                    ✗      ✗     ✗
 Bose Lifestyle 12 Audio Home Entertainment System Demonstration CD-i, The (Europe)                                            ✗      ✗     ✗
 Bradley Fighting Vehicle - Operation Desert Storm - Sustainment Training (USA)                                                ✗      ✗     ✗
-BrainDead 13 (Europe)                                                                                                         ✗      ✗     ✗
+BrainDead 13 (Europe)                                                                                                         -      -     -
 Brantano - Version 5.02 (Belgium)                                                                                             ✗      ✗     ✗
 Brantano Interactive (Belgium)                                                                                                ✗      ✗     ✗
 Breast Self-Examination - Auto-Examen Del Seno (USA) (En,Es)                                                                  ✗      ✗     ✗
@@ -189,17 +189,17 @@ Bryan Adams - Waking Up the Neighbours (USA)                                    
 Building the Winning Company - Toolkit for Teams and Managers (Europe)                                                        ✗      ✗     ✗
 Burger King - CD-i Training - November, 1997 (USA) (Fr,Es)                                                                    ✗      ✗     ✗
 Burn-Cycle (France) (Demo)                                                                                                    ✗      ✗     ✗
-Burn-Cycle (France) (Jeu)                                                                                                     ✗      ✗     ✗
-Burn-Cycle (Germany) (Das Spiel)                                                                                              ✗      ✗     ✗
-Burn-Cycle (Italy) (Il Gioco)                                                                                                 ✗      ✗     ✗
-Burn-Cycle (Spain) (El Juego)                                                                                                 ✗      ✗     ✗
+Burn-Cycle (France) (Jeu)                                                                                                     -      -     -
+Burn-Cycle (Germany) (Das Spiel)                                                                                              -      -     -
+Burn-Cycle (Italy) (Il Gioco)                                                                                                 -      -     -
+Burn-Cycle (Spain) (El Juego)                                                                                                 -      -     -
 Burn-Cycle (USA) (Beta)                                                                                                       ✗      ✗     ✗
-Burn-Cycle (USA, Europe) (Disc 1) (The Game)                                                                                  ✗      ✗     ✗
+Burn-Cycle (USA, Europe) (Disc 1) (The Game)                                                                                  -      -     -
 C-ditabac - Faits et Mefaits du Tabac (France)                                                                                ✗      ✗     ✗
 C-ditabac - Faits et Mefaits du Tabac (France) (Rev 1)                                                                        ✗      ✗     ✗
 C.Hafner - Fuer Gute Zaehne - Galvanoforming Leicht Gemacht - Vol. 2-12.95 (Germany)                                          ✗      ✗     ✗
-CD Shoot (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt)                                                                                   ✗      ✗     ✗
-CD Shoot (USA) (En,Ja,Fr,De,Es,It,Nl,Pt)                                                                                      ✗      ✗     ✗
+CD Shoot (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt)                                                                                   -      -     -
+CD Shoot (USA) (En,Ja,Fr,De,Es,It,Nl,Pt)                                                                                      -      -     -
 CD Technique 1 - CD-I Autosurveillance des Stations d'Epuration (France)                                                      ✗      ✗     ✗
 CD-I CD Interactive (Japan) (Fixed Dump)                                                                                      ✗      ✗     ✗
 CD-I Full Motion Video Demo - James Bond - 09-06-1992 (Europe)                                                                ✗      ✗     ✗
@@ -426,11 +426,11 @@ CDI Schoen Design (Germany)                                                     
 CDI-Pro - Extended Play Digital Music Disc - 838 Atmospheres (USA)                                                            ✗      ✗     ✗
 CDITest 01 (France)                                                                                                           ✗      ✗     ✗
 CODIM Presentation (Netherlands)                                                                                              ✗      ✗     ✗
-Caesars World of Boxing (Europe)                                                                                              ✗      ✗     ✗
-Caesars World of Boxing (France)                                                                                              ✗      ✗     ✗
+Caesars World of Boxing (Europe)                                                                                              -      -     ✗
+Caesars World of Boxing (France)                                                                                              -      -     ✗
 Caesars World of Boxing (USA) (Beta)                                                                                          ✗      ✗     ✗
-Caesars World of Boxing (USA) (Rev 1)                                                                                         ✗      ✗     ✗
-Caesars World of Gambling (USA, Europe)                                                                                       ✗      ✗     ✗
+Caesars World of Boxing (USA) (Rev 1)                                                                                         -      -     ✗
+Caesars World of Gambling (USA, Europe)                                                                                       -      -     -
 Camino de Santiago, El - La Milenaria Ruta de las Estrellas (Spain)                                                           ✗      ✗     ✗
 Campman Tennekes de Jong Architekten - Scholenbouw (Netherlands)                                                              ✗      ✗     ✗
 Canton HiFi-Lautsprecher 1994-95 (Germany)                                                                                    ✗      ✗     ✗
@@ -449,12 +449,12 @@ Centurion - A Process of Change (Europe)                                        
 Centurion - Building the Winning Company (Europe)                                                                             ✗      ✗     ✗
 Centurion - Werken aan The Winning Company - Deel I (Netherlands)                                                             ✗      ✗     ✗
 Change Angel's Kick-Off - Go for Assets - The Interactive Toolkit for Managers of Change (Netherlands)                        ✗      ✗     ✗
-Chaos Control (Europe)                                                                                                        ✗      ✗     ✗
-Chaos Control (Europe) (Rev 1)                                                                                                ✗      ✗     ✗
-Chaos Control (France)                                                                                                        ✗      ✗     ✗
+Chaos Control (Europe)                                                                                                        -      -     ✗
+Chaos Control (Europe) (Rev 1)                                                                                                -      -     ✗
+Chaos Control (France)                                                                                                        -      -     ✗
 Chaos Control (France) (Demo)                                                                                                 ✗      ✗     ✗
-Chaos Control (Germany)                                                                                                       ✗      ✗     ✗
-Chaos Control (USA)                                                                                                           ✗      ✗     ✗
+Chaos Control (Germany)                                                                                                       -      -     ✗
+Chaos Control (USA)                                                                                                           -      -     ✗
 Chargeurs - Rapport Annuel 1993 (France)                                                                                      ✗      ✗     ✗
 Charting a New World (Canada) (En,Fr)                                                                                         ✗      ✗     ✗
 Charting a New World (Europe) (Beta)                                                                                          ✗      ✗     ✗
@@ -463,8 +463,8 @@ Child is Born, A (Europe) (Rev 1)                                               
 Child is Born, A (USA)                                                                                                        ✗      ✗     ✗
 Children's Musical Theatre (Europe)                                                                                           ✗      ✗     ✗
 Children's Musical Theatre (USA)                                                                                              ✗      ✗     ✗
-Christmas Country (Europe)                                                                                                    ✗      ✗     ✗
-Christmas Crisis (Europe)                                                                                                     ✗      ✗     ✗
+Christmas Country (Europe)                                                                                                    -      -     ✗
+Christmas Crisis (Europe)                                                                                                     -      -     ✗
 Christmas Crisis (Europe) (Beta)                                                                                              ✗      ✗     ✗
 Christmas Songbook, A (Europe)                                                                                                ✗      ✗     ✗
 Churchill Livingstone Tumours CD-i Programme (Europe) (Demo)                                                                  ✗      ✗     ✗
@@ -478,15 +478,15 @@ Classical Jukebox (USA) (Beta)                                                  
 Classical Jukebox (USA, Europe)                                                                                               ✗      ✗     ✗
 Clue (USA)                                                                                                                    ✗      ✗     ✗
 Clue - The Mysteries Continue (USA)                                                                                           ✗      ✗     ✗
-Cluedo (Europe)                                                                                                               ✗      ✗     ✗
-Cluedo - The Mystery Continues (Europe)                                                                                       ✗      ✗     ✗
+Cluedo (Europe)                                                                                                               -      -     ✗
+Cluedo - The Mystery Continues (Europe)                                                                                       -      ✗     ✗
 Cluedo - The Mystery Continues (Europe) (Beta)                                                                                ✗      ✗     ✗
 Coach, The (UK)                                                                                                               ✗      ✗     ✗
-Comando Tierra (Spain)                                                                                                        ✗      ✗     ✗
+Comando Tierra (Spain)                                                                                                        -      -     ✗
 Complete Your Financial Jigsaw (UK)                                                                                           ✗      ✗     ✗
 Comprendre le CD-i (Europe)                                                                                                   ✗      ✗     ✗
 Compton's Interactive Encyclopedia (Europe)                                                                                   ✗      ✗     ✗
-Compton's Interactive Encyclopedia (USA)                                                                                      ✗      ✗     ✗
+Compton's Interactive Encyclopedia (USA)                                                                                      -      ✗     ✗
 Compton's Interactive Encyclopedia (USA) (Digital Video)                                                                      ✗      ✗     ✗
 Concept of Clustering, The (Europe)                                                                                           ✗      ✗     ✗
 Concise Oxford Dictionary _ Oxford Thesaurus, The (Europe)                                                                    ✗      ✗     ✗
@@ -496,7 +496,7 @@ Conduite dans une Circulation Dense (France)                                    
 Coneheads (USA) (Disc 1)                                                                                                      ✗      ✗     ✗
 Coneheads (USA) (Disc 2)                                                                                                      ✗      ✗     ✗
 Congress Innsbruck - Stadt Trifft Natur (Austria)                                                                             ✗      ✗     ✗
-Connect Four (USA, Europe)                                                                                                    ✗      ✗     ✗
+Connect Four (USA, Europe)                                                                                                    -      -     ✗
 Cool Oldies Jukebox (Europe)                                                                                                  ✗      ✗     ✗
 Cosecha del Sol, La - Vincent van Gogh Revivido (Spain)                                                                       ✗      ✗     ✗
 Count Down to the Future (USA)                                                                                                ✗      ✗     ✗
@@ -516,8 +516,8 @@ Creation with Digital Video (USA) (Green)                                       
 Creation with Digital Video (USA) (Red)                                                                                       ✗      ✗     ✗
 Creation with MediaMogul (USA) (Blue)                                                                                         ✗      ✗     ✗
 Creation with MediaMogul (USA) (Grey)                                                                                         ✗      ✗     ✗
-Creature Shock (Europe) (Disc 1)                                                                                              ✗      ✗     ✗
-Creature Shock (Europe) (Disc 2)                                                                                              ✗      ✗     ✗
+Creature Shock (Europe) (Disc 1)                                                                                              -      -     ✗
+Creature Shock (Europe) (Disc 2)                                                                                              -      -     ✗
 Crime Patrol (Europe)                                                                                                         ✗      ✗     ✗
 Culture _ Tourisme en Lorraine (France)                                                                                       ✗      ✗     ✗
 Cure - Show (Europe) (Disc 1)                                                                                                 ✗      ✗     ✗
@@ -528,14 +528,14 @@ DISCover Belgium (Belgium) (Demo)                                               
 Daens (Netherlands) (Disc 1)                                                                                                  ✗      ✗     ✗
 Daens (Netherlands) (Disc 2)                                                                                                  ✗      ✗     ✗
 Dansen! (Netherlands)                                                                                                         ✗      ✗     ✗
-Dark Castle (USA, Europe)                                                                                                     ✗      ✗     ✗
+Dark Castle (USA, Europe)                                                                                                     -      -     -
 Dark Fables of Aesop, The (Europe)                                                                                            ✗      ✗     ✗
 Dark Fables of Aesop, The (USA)                                                                                               ✗      ✗     ✗
 Dat Lucht Op! (Netherlands)                                                                                                   ✗      ✗     ✗
 Dave Grusin - The Gershwin Connection (Europe)                                                                                ✗      ✗     ✗
 Dave Grusin - The Gershwin Connection (USA)                                                                                   ✗      ✗     ✗
 David and Goliath (USA)                                                                                                       ✗      ✗     ✗
-Defender of the Crown (USA, Europe)                                                                                           ✗      ✗     ✗
+Defender of the Crown (USA, Europe)                                                                                           -      -     ✗
 Demo Disk - Spring Releases '97 (Europe)                                                                                      ✗      ✗     ✗
 Demo ITVS - Beurs Media P20 - 12-05-97 (Netherlands)                                                                          ✗      ✗     ✗
 Denkend Aan de Dapperstraat (Netherlands)                                                                                     ✗      ✗     ✗
@@ -553,8 +553,8 @@ Dictionnaire Hachette Multimedia (France) (Version Digital Video)               
 Digital Video - Free Demo Disc (UK)                                                                                           ✗      ✗     ✗
 Digital Video Demonstration Disc (Europe)                                                                                     ✗      ✗     ✗
 Digital Video Demonstration Disc (USA)                                                                                        ✗      ✗     ✗
-Dimo's Quest (Europe)                                                                                                         ✗      ✗     ✗
-Dimo's Quest (USA)                                                                                                            ✗      ✗     ✗
+Dimo's Quest (Europe)                                                                                                         -      -     ✗
+Dimo's Quest (USA)                                                                                                            -      -     ✗
 Diriger le Vehicule (France)                                                                                                  ✗      ✗     ✗
 Discover Sport Fishing - Northern Edition (Canada)                                                                            ✗      ✗     ✗
 Discovering Pompei (Europe) (En,Fr)                                                                                           ✗      ✗     ✗
@@ -566,13 +566,13 @@ Do You Remember the '60s (UK)                                                   
 Dom zu St. Stephan in Wien, Der (Austria)                                                                                     ✗      ✗     ✗
 Domino (Netherlands)                                                                                                          ✗      ✗     ✗
 Downhome Blues, The (USA)                                                                                                     ✗      ✗     ✗
-Dragon's Lair (Europe)                                                                                                        ✗      ✗     ✗
-Dragon's Lair (USA)                                                                                                           ✗      ✗     ✗
-Dragon's Lair II - Time Warp (Europe)                                                                                         ✗      ✗     ✗
-Dragon's Lair II - Time Warp (USA)                                                                                            ✗      ✗     ✗
+Dragon's Lair (Europe)                                                                                                        -      -     ✗
+Dragon's Lair (USA)                                                                                                           -      -     ✗
+Dragon's Lair II - Time Warp (Europe)                                                                                         -      -     ✗
+Dragon's Lair II - Time Warp (USA)                                                                                            -      -     ✗
 Dragon's Lair II - Time Warp (USA) (Alt)                                                                                      ✗      ✗     ✗
 Dreaded Appraisal, The (UK)                                                                                                   ✗      ✗     ✗
-Drug Wars (Europe)                                                                                                            ✗      ✗     ✗
+Drug Wars (Europe)                                                                                                            -      -     ✗
 Duistere Fabels van Aesopus, De (Netherlands)                                                                                 ✗      ✗     ✗
 Dutch Masters of the Seventeenth Century (UK)                                                                                 ✗      ✗     ✗
 Dutch Masters of the Seventeenth Century (USA)                                                                                ✗      ✗     ✗
@@ -585,11 +585,11 @@ ECCO Electronic Coaching - Erst Stirbt das Image... (Germany)                   
 ECCO Electronic Coaching - Messegespraeche (Germany)                                                                          ✗      ✗     ✗
 Earth - A Multimedia Guide to Changing Environment (Canada)                                                                   ✗      ✗     ✗
 Earth Command (Europe)                                                                                                        ✗      ✗     ✗
-Earth Command (France)                                                                                                        ✗      ✗     ✗
-Earth Command (Germany)                                                                                                       ✗      ✗     ✗
+Earth Command (France)                                                                                                        -      -     ✗
+Earth Command (Germany)                                                                                                       -      -     ✗
 Earth Command (Netherlands)                                                                                                   ✗      ✗     ✗
-Earth Command (USA)                                                                                                           ✗      ✗     ✗
-Earth Rhythms (USA)                                                                                                           ✗      ✗     ✗
+Earth Command (USA)                                                                                                           -      -     ✗
+Earth Rhythms (USA)                                                                                                           -      ✗     ✗
 Earth Rhythms - Daichi no Hibiki (Japan)                                                                                      ✗      ✗     ✗
 Ecolauto - DV No 4 - Cours de Formation B (France)                                                                            ✗      ✗     ✗
 Ecolauto - DV No 4 - Cours de Formation B (France) (Rev 1)                                                                    ✗      ✗     ✗
@@ -612,7 +612,7 @@ Enkhuizer Almanak 1997 (Netherlands)                                            
 Enkhuizer Almanak 1997 (Netherlands) (Beta)                                                                                   ✗      ✗     ✗
 Ennio Morricone - Vidi Aquam id est Benacum (Italy) (En,De,It)                                                                ✗      ✗     ✗
 Ernte der Sonne - Vincent van Gogh (Germany)                                                                                  ✗      ✗     ✗
-Escape from CyberCity (USA, Europe)                                                                                           ✗      ✗     ✗
+Escape from CyberCity (USA, Europe)                                                                                           -      -     ✗
 Essentials - The New Shape of Home Shopping (UK)                                                                              ✗      ✗     ✗
 Etoiles et Galaxies - Astronomie Flammarion (France)                                                                          ✗      ✗     ✗
 Eureka - Gutenberg - L'Imprimerie et Ses Precurseurs (France) (Beta)                                                          ✗      ✗     ✗
@@ -648,9 +648,9 @@ Fahren Lernen B - Version Februar 2006 (Germany) (CD 5 - Lektion 13)            
 Fahren Lernen B - Version Februar 2006 (Germany) (CD 6 - Lektion 14 - 16)                                                     ✗      ✗     ✗
 Fahren Lernen B - Version Maerz 2007 (Germany) (Disc 1) (Lektion 1-3)                                                         ✗      ✗     ✗
 Fahren Lernen B - Version Maerz 2009 (Germany) (Disc 5) (Lektion 10+11)                                                       ✗      ✗     ✗
-Family Games I (Europe)                                                                                                       ✗      ✗     ✗
-Family Games I (Europe) (Rev 1)                                                                                               ✗      ✗     ✗
-Family Games II - Junkfood Jive (Europe)                                                                                      ✗      ✗     ✗
+Family Games I (Europe)                                                                                                       -      -     ✗
+Family Games I (Europe) (Rev 1)                                                                                               -      -     ✗
+Family Games II - Junkfood Jive (Europe)                                                                                      -      -     ✗
 Family Games II - Junkfood Jive (Europe) (Beta)                                                                               ✗      ✗     ✗
 Fatal Attraction (Europe) (Disc 1)                                                                                            ✗      ✗     ✗
 Fatal Attraction (Europe) (Disc 2)                                                                                            ✗      ✗     ✗
@@ -668,9 +668,9 @@ First Look at Birds, A (USA)                                                    
 First Look at Mammals, A (USA)                                                                                                ✗      ✗     ✗
 First Look at Trees, A (USA)                                                                                                  ✗      ✗     ✗
 Fischer Tennis - Collection 94-95 (Austria)                                                                                   ✗      ✗     ✗
-Flashback (Europe)                                                                                                            ✗      ✗     ✗
+Flashback (Europe)                                                                                                            -      -     ✗
 Flashback (Europe) (Beta)                                                                                                     ✗      ✗     ✗
-Flashback (USA)                                                                                                               ✗      ✗     ✗
+Flashback (USA)                                                                                                               -      -     ✗
 Flight - The Universal Dream (USA) (Proto)                                                                                    ✗      ✗     ✗
 Flintstones-Jetsons Timewarp (Europe)                                                                                         ✗      ✗     ✗
 Flintstones-Jetsons Timewarp (USA)                                                                                            ✗      ✗     ✗
@@ -719,22 +719,22 @@ Gifts to Behold (USA, Japan) (En,Ja,Fr,De,Es,It,Nl)                             
 Girl's Club (USA, Europe)                                                                                                     ✗      ✗     ✗
 Girls (France) (En,Fr,De,Es,Nl)                                                                                               ✗      ✗     ✗
 Gli Impressionisti Francesi (Italy)                                                                                           ✗      ✗     ✗
-Gnomes (Europe)                                                                                                               ✗      ✗     ✗
-Gnomes (USA)                                                                                                                  ✗      ✗     ✗
+Gnomes (Europe)                                                                                                               -      ✗     ✗
+Gnomes (USA)                                                                                                                  -      ✗     ✗
 Go (Spain)                                                                                                                    ✗      ✗     ✗
 Go - Special Edition (USA) (Unl)                                                                                              ✗      ✗     ✗
 Goal! FIFA World Cup Soccer Quiz Game (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt)                                                      ✗      ✗     ✗
-Golden Oldies I (Europe)                                                                                                      ✗      ✗     ✗
-Golden Oldies II (Europe)                                                                                                     ✗      ✗     ✗
-Golden Oldies Jukebox (Europe)                                                                                                ✗      ✗     ✗
-Golden Oldies Jukebox (USA)                                                                                                   ✗      ✗     ✗
-Golden Oldies Jukebox (USA) (Rev 1)                                                                                           ✗      ✗     ✗
+Golden Oldies I (Europe)                                                                                                      -      -     ✗
+Golden Oldies II (Europe)                                                                                                     -      -     ✗
+Golden Oldies Jukebox (Europe)                                                                                                -      -     ✗
+Golden Oldies Jukebox (USA)                                                                                                   -      -     ✗
+Golden Oldies Jukebox (USA) (Rev 1)                                                                                           -      -     ✗
 Golf My Way (USA) (Disc 1)                                                                                                    ✗      ✗     ✗
 Golf My Way (USA) (Disc 2)                                                                                                    ✗      ✗     ✗
 Golf My Way (USA) (Disc 3)                                                                                                    ✗      ✗     ✗
 Golf My Way (USA) (Disc 4)                                                                                                    ✗      ✗     ✗
 Golf My Way (USA) (Disc 5)                                                                                                    ✗      ✗     ✗
-Golf Tips (Europe) (En,Ja)                                                                                                    ✗      ✗     ✗
+Golf Tips (Europe) (En,Ja)                                                                                                    -      ✗     ✗
 Golf Tips (Europe) (En,Ja) (Beta)                                                                                             ✗      ✗     ✗
 Golgo 13 (Japan)                                                                                                              ✗      ✗     ✗
 Good Person to Do Business With, A (UK)                                                                                       ✗      ✗     ✗
@@ -745,8 +745,8 @@ Great Art Series, The - Florence Renaissance - Renaissance of Florence, The (Jap
 Great Art Series, The - Taiyou o Karitoru Hito - Harvest of the Sun - Vincent van Gogh (Japan)                                ✗      ✗     ✗
 Great British Golf (UK)                                                                                                       ✗      ✗     ✗
 Great British Golf - Middle Ages - 1940 (UK)                                                                                  ✗      ✗     ✗
-Great Day at the Races, A (Europe)                                                                                            ✗      ✗     ✗
-Great Day at the Races, A (USA)                                                                                               ✗      ✗     ✗
+Great Day at the Races, A (Europe)                                                                                            -      -     ✗
+Great Day at the Races, A (USA)                                                                                               -      -     ✗
 Grootel (Netherlands)                                                                                                         ✗      ✗     ✗
 Grote Wonder, Het - A Child is Born (Netherlands)                                                                             ✗      ✗     ✗
 Group 4 Securitas (Europe)                                                                                                    ✗      ✗     ✗
@@ -769,7 +769,7 @@ Hello U.S.A. (Europe) (Disc 1) (Hit the Road!) (Proto)                          
 Hello U.S.A. (Europe) (Disc 3) (The Heart of Country Music) (Proto)                                                           ✗      ✗     ✗
 Henri Des - Les Betises (France)                                                                                              ✗      ✗     ✗
 Hieperdepiep, Ik Lees! (Netherlands)                                                                                          ✗      ✗     ✗
-Hieroglyph (Germany)                                                                                                          ✗      ✗     ✗
+Hieroglyph (Germany)                                                                                                          -      ✗     ✗
 Historia Universal del Arte (Spain) (Disc 1)                                                                                  ✗      ✗     ✗
 Historia Universal del Arte (Spain) (Disc 2)                                                                                  ✗      ✗     ✗
 Historia Universal del Arte (Spain) (Disc 3)                                                                                  ✗      ✗     ✗
@@ -803,9 +803,9 @@ Hondenliefde (Netherlands)                                                      
 Hondenliefde (Netherlands) (Beta)                                                                                             ✗      ✗     ✗
 Horoscope - Seiyou Senseijutsu (Japan)                                                                                        ✗      ✗     ✗
 Hot and Cold (Europe) (En,Fr)                                                                                                 ✗      ✗     ✗
-Hotel Mario (Europe)                                                                                                          ✗      ✗     ✗
-Hotel Mario (France)                                                                                                          ✗      ✗     ✗
-Hotel Mario (USA)                                                                                                             ✗      ✗     ✗
+Hotel Mario (Europe)                                                                                                          -      -     -
+Hotel Mario (France)                                                                                                          -      -     -
+Hotel Mario (USA)                                                                                                             -      -     -
 How Animals Survive (USA)                                                                                                     ✗      ✗     ✗
 How We Classify Animals (USA)                                                                                                 ✗      ✗     ✗
 How the Camel Got His Hump (Europe)                                                                                           ✗      ✗     ✗
@@ -832,10 +832,10 @@ Impressionnistes Francais, Les (France)                                         
 In the Wake of Captain Cook (Europe)                                                                                          ✗      ✗     ✗
 In-Store Attractor Disc (Europe)                                                                                              ✗      ✗     ✗
 Inca (Europe) (Beta)                                                                                                          ✗      ✗     ✗
-Inca (Europe) (En,Fr,De,Nl)                                                                                                   ✗      ✗     ✗
-Inca (Europe) (En,Fr,De,Nl) (Rev 1)                                                                                           ✗      ✗     ✗
-Inca (Europe) (Fr,Es,It,Pt)                                                                                                   ✗      ✗     ✗
-Inca (USA)                                                                                                                    ✗      ✗     ✗
+Inca (Europe) (En,Fr,De,Nl)                                                                                                   -      -     ✗
+Inca (Europe) (En,Fr,De,Nl) (Rev 1)                                                                                           -      -     ✗
+Inca (Europe) (Fr,Es,It,Pt)                                                                                                   -      -     ✗
+Inca (USA)                                                                                                                    -      -     ✗
 Indecent Proposal (USA) (Disc 1)                                                                                              ✗      ✗     ✗
 Indecent Proposal (USA) (Disc 2)                                                                                              ✗      ✗     ✗
 Inne (France)                                                                                                                 ✗      ✗     ✗
@@ -885,15 +885,15 @@ Interactive Video Charts - Oktober 97 (Germany)                                 
 Interactive Video Charts - September 96 (Germany)                                                                             ✗      ✗     ✗
 Interactive Video Charts - September 97 (Germany)                                                                             ✗      ✗     ✗
 Interactive Voyage of Discovery through the Unique World of Unisource, An (Europe)                                            ✗      ✗     ✗
-International Tennis Open (Europe) (En,Fr)                                                                                    ✗      ✗     ✗
-International Tennis Open (Europe) (En,Fr) (Simultaneous 2 Player Game)                                                       ✗      ✗     ✗
-International Tennis Open (Germany) (En,De)                                                                                   ✗      ✗     ✗
-International Tennis Open (Germany) (En,De) (Version 2 Spieler)                                                               ✗      ✗     ✗
-International Tennis Open (Italy) (En,It) (Versione 2 Giocatori)                                                              ✗      ✗     ✗
-International Tennis Open (Spain) (En,Es) (Version 1 Jugador)                                                                 ✗      ✗     ✗
-International Tennis Open (Spain) (En,Es) (Version 2 Jugadores)                                                               ✗      ✗     ✗
-International Tennis Open (USA) (En,Fr)                                                                                       ✗      ✗     ✗
-International Tennis Open (USA) (En,Fr) (Simultaneous 2 Player Game)                                                          ✗      ✗     ✗
+International Tennis Open (Europe) (En,Fr)                                                                                    -      -     ✗
+International Tennis Open (Europe) (En,Fr) (Simultaneous 2 Player Game)                                                       -      -     ✗
+International Tennis Open (Germany) (En,De)                                                                                   -      -     ✗
+International Tennis Open (Germany) (En,De) (Version 2 Spieler)                                                               -      -     ✗
+International Tennis Open (Italy) (En,It) (Versione 2 Giocatori)                                                              -      -     ✗
+International Tennis Open (Spain) (En,Es) (Version 1 Jugador)                                                                 -      -     ✗
+International Tennis Open (Spain) (En,Es) (Version 2 Jugadores)                                                               -      -     ✗
+International Tennis Open (USA) (En,Fr)                                                                                       -      -     ✗
+International Tennis Open (USA) (En,Fr) (Simultaneous 2 Player Game)                                                          -      -     ✗
 Internetten op je TV! (Netherlands)                                                                                           ✗      ✗     ✗
 Introducing CD-Medical - A New Era in Digital Cardiac Imaging (Europe)                                                        ✗      ✗     ✗
 Introducing Volvo S80 - 1999 (Europe)                                                                                         ✗      ✗     ✗
@@ -914,17 +914,17 @@ Jeopardy! (USA)                                                                 
 Jeopardy! (USA) (Beta)                                                                                                        ✗      ✗     ✗
 Jeux de Guerre (France) (Disc 1)                                                                                              ✗      ✗     ✗
 Jeux de Guerre (France) (Disc 2)                                                                                              ✗      ✗     ✗
-Jigsaw - The Ultimate Electronic Puzzle (Europe)                                                                              ✗      ✗     ✗
-Jigsaw - The Ultimate Electronic Puzzle (Europe) (Rev 1)                                                                      ✗      ✗     ✗
-Jigsaw - The Ultimate Electronic Puzzle (USA)                                                                                 ✗      ✗     ✗
+Jigsaw - The Ultimate Electronic Puzzle (Europe)                                                                              ✗      -     ✗
+Jigsaw - The Ultimate Electronic Puzzle (Europe) (Rev 1)                                                                      ✗      -     ✗
+Jigsaw - The Ultimate Electronic Puzzle (USA)                                                                                 ✗      -     ✗
 Joker's Wild! Jr., The (Europe) (Beta)                                                                                        ✗      ✗     ✗
 Joker's Wild! Jr., The (USA)                                                                                                  ✗      ✗     ✗
 Joker's Wild!, The (USA)                                                                                                      ✗      ✗     ✗
 Journal Interactif 94 et le Jeu des Stars de l'Info, Le (France) (Disque Bande Annonce)                                       ✗      ✗     ✗
 Journeys through Victorian London (UK)                                                                                        ✗      ✗     ✗
-Joy of Sex, The (Europe)                                                                                                      ✗      ✗     ✗
-Joy of Sex, The (Europe) (Rev 1)                                                                                              ✗      ✗     ✗
-Joy of Sex, The (USA)                                                                                                         ✗      ✗     ✗
+Joy of Sex, The (Europe)                                                                                                      -      ✗     ✗
+Joy of Sex, The (Europe) (Rev 1)                                                                                              -      ✗     ✗
+Joy of Sex, The (USA)                                                                                                         -      ✗     ✗
 Kabouter, De (Netherlands)                                                                                                    ✗      ✗     ✗
 Karaoke - Noel Christmas Weihnachten Navidad (France) (En,Fr,De,Es)                                                           ✗      ✗     ✗
 Karaoke Collection N.2 (Italy)                                                                                                ✗      ✗     ✗
@@ -953,16 +953,16 @@ Keep the Faith - An Evening with Bon Jovi (USA) (Disc 1)                        
 Keep the Faith - An Evening with Bon Jovi (USA) (Disc 2)                                                                      ✗      ✗     ✗
 Keeping Customers Cool (UK)                                                                                                   ✗      ✗     ✗
 Keeping Customers Cool (UK) (Rev 1)                                                                                           ✗      ✗     ✗
-Kether (Europe) (En,Fr)                                                                                                       ✗      ✗     ✗
-Kether (Europe) (En,Fr) (Rev 1)                                                                                               ✗      ✗     ✗
-Kether (Germany) (En,De)                                                                                                      ✗      ✗     ✗
-Kether (Netherlands) (En,Nl)                                                                                                  ✗      ✗     ✗
-Kether (USA) (En,Fr)                                                                                                          ✗      ✗     ✗
+Kether (Europe) (En,Fr)                                                                                                       -      -     ✗
+Kether (Europe) (En,Fr) (Rev 1)                                                                                               -      -     ✗
+Kether (Germany) (En,De)                                                                                                      -      -     ✗
+Kether (Netherlands) (En,Nl)                                                                                                  -      -     ✗
+Kether (USA) (En,Fr)                                                                                                          -      -     ✗
 Kether (USA) (En,Fr) (Beta)                                                                                                   ✗      ✗     ✗
 Keyn Interactive, De (Belgium)                                                                                                ✗      ✗     ✗
 Kind Entsteht, Ein - A Child is Born (Germany)                                                                                ✗      ✗     ✗
-Kingdom - The Far Reaches (Europe)                                                                                            ✗      ✗     ✗
-Kingdom - The Far Reaches (USA)                                                                                               ✗      ✗     ✗
+Kingdom - The Far Reaches (Europe)                                                                                            -      -     ✗
+Kingdom - The Far Reaches (USA)                                                                                               -      -     ✗
 Kiss (Europe)                                                                                                                 ✗      ✗     ✗
 Kiss (Europe) (Beta)                                                                                                          ✗      ✗     ✗
 Klantenservice (Belgium) (En,Es)                                                                                              ✗      ✗     ✗
@@ -977,8 +977,8 @@ Kunstschatten van Rusland, De (Netherlands)                                     
 Kursbuch Gesundheit (Germany)                                                                                                 ✗      ✗     ✗
 L'Oreal - Expert Technique - Interactief Salon Dialoog Programma (Netherlands)                                                ✗      ✗     ✗
 LTV Allemand (France)                                                                                                         ✗      ✗     ✗
-Labyrinth of Crete (Europe)                                                                                                   ✗      ✗     ✗
-Labyrinth von Kreta (Germany)                                                                                                 ✗      ✗     ✗
+Labyrinth of Crete (Europe)                                                                                                   -      -     ✗
+Labyrinth von Kreta (Germany)                                                                                                 -      -     ✗
 Land van Ooit, Het (Netherlands)                                                                                              ✗      ✗     ✗
 Language Director - Deutsch - Level 1 (Europe) (Disc 1)                                                                       ✗      ✗     ✗
 Language Director - Deutsch - Level 1 (Europe) (Disc 2)                                                                       ✗      ✗     ✗
@@ -1020,16 +1020,16 @@ Language Director - Guided Tour - Francais - Level 1 (Europe)                   
 Language Director - Guided Tour - Francais - Level 2 (Europe)                                                                 ✗      ✗     ✗
 Language Director - Guided Tour - Francais - Level 3 (Europe)                                                                 ✗      ✗     ✗
 Lanzor 30MG - Septembre 1994 (France)                                                                                         ✗      ✗     ✗
-Laser Lords (Europe)                                                                                                          ✗      ✗     ✗
-Laser Lords (France)                                                                                                          ✗      ✗     ✗
-Laser Lords (Germany)                                                                                                         ✗      ✗     ✗
-Laser Lords (Netherlands)                                                                                                     ✗      ✗     ✗
-Laser Lords (USA)                                                                                                             ✗      ✗     ✗
+Laser Lords (Europe)                                                                                                          -      -     ✗
+Laser Lords (France)                                                                                                          -      -     ✗
+Laser Lords (Germany)                                                                                                         -      -     ✗
+Laser Lords (Netherlands)                                                                                                     -      -     ✗
+Laser Lords (USA)                                                                                                             -      -     ✗
 Last Bounty Hunter, The (Europe)                                                                                              ✗      ✗     ✗
 Learning About Ecology (USA)                                                                                                  ✗      ✗     ✗
 Lekker Lezen over Huisdieren (Netherlands)                                                                                    ✗      ✗     ✗
-Lemmings (Europe)                                                                                                             ✗      ✗     ✗
-Lemmings (USA)                                                                                                                ✗      ✗     ✗
+Lemmings (Europe)                                                                                                             -      -     ✗
+Lemmings (USA)                                                                                                                -      -     ✗
 Lenting van Etten Advertising (Netherlands)                                                                                   ✗      ✗     ✗
 Leren Leren (Belgium)                                                                                                         ✗      ✗     ✗
 Let the Games Begin! 1995 National Training Camp (USA)                                                                        ✗      ✗     ✗
@@ -1041,25 +1041,25 @@ Liaison Fatale (France) (Disc 1)                                                
 Liaison Fatale (France) (Disc 2)                                                                                              ✗      ✗     ✗
 Liberto - Une Liberte Nouvelle ~ Liberto - Il Soffitto in Piena Libera (Europe) (Fr,It)                                       ✗      ✗     ✗
 Lightning Stroke (Netherlands) (En,Fr,De,Es,Nl,Pt,Zh,Hi)                                                                      ✗      ✗     ✗
-Lingo (Netherlands)                                                                                                           ✗      ✗     ✗
-Link - De Gezichten van het Kwaad (Netherlands)                                                                               ✗      ✗     ✗
-Link - Die Fratzen des Boesen (Germany)                                                                                       ✗      ✗     ✗
-Link - The Faces of Evil (Europe)                                                                                             ✗      ✗     ✗
-Link - The Faces of Evil (France)                                                                                             ✗      ✗     ✗
-Link - The Faces of Evil (USA)                                                                                                ✗      ✗     ✗
-Litil Divil (Europe)                                                                                                          ✗      ✗     ✗
-Litil Divil (Italy)                                                                                                           ✗      ✗     ✗
-Litil Divil (USA)                                                                                                             ✗      ✗     ✗
+Lingo (Netherlands)                                                                                                           -      -     ✗
+Link - De Gezichten van het Kwaad (Netherlands)                                                                               -      -     -
+Link - Die Fratzen des Boesen (Germany)                                                                                       -      -     -
+Link - The Faces of Evil (Europe)                                                                                             -      -     -
+Link - The Faces of Evil (France)                                                                                             -      -     -
+Link - The Faces of Evil (USA)                                                                                                -      -     -
+Litil Divil (Europe)                                                                                                          -      -     ✗
+Litil Divil (Italy)                                                                                                           -      -     ✗
+Litil Divil (USA)                                                                                                             -      -     ✗
 Live Without Monty Python (Europe)                                                                                            ✗      ✗     ✗
 Live Without Monty Python (USA)                                                                                               ✗      ✗     ✗
 Loek Sanders SFH6 - Isere - 21 Sept 90 (Netherlands)                                                                          ✗      ✗     ✗
-Lords of the Rising Sun (Europe)                                                                                              ✗      ✗     ✗
-Lords of the Rising Sun (USA)                                                                                                 ✗      ✗     ✗
-Lost Eden (Europe)                                                                                                            ✗      ✗     ✗
-Lost Eden (France)                                                                                                            ✗      ✗     ✗
-Lost Eden (Germany)                                                                                                           ✗      ✗     ✗
-Lost Eden (Netherlands)                                                                                                       ✗      ✗     ✗
-Lost Ride, The (Europe)                                                                                                       ✗      ✗     ✗
+Lords of the Rising Sun (Europe)                                                                                              -      -     ✗
+Lords of the Rising Sun (USA)                                                                                                 -      -     ✗
+Lost Eden (Europe)                                                                                                            -      -     ✗
+Lost Eden (France)                                                                                                            -      -     ✗
+Lost Eden (Germany)                                                                                                           -      -     ✗
+Lost Eden (Netherlands)                                                                                                       -      -     ✗
+Lost Ride, The (Europe)                                                                                                       -      -     ✗
 Louis Armstrong - An American Songbook (Europe)                                                                               ✗      ✗     ✗
 Louis Armstrong - An American Songbook (USA)                                                                                  ✗      ✗     ✗
 Loving for a Lifetime (Europe) (Disc 1)                                                                                       ✗      ✗     ✗
@@ -1071,17 +1071,17 @@ M-Studios - Demo Intern v1.0 - Animation (France)                               
 Macchina delle Favole, La - Racconti Spaziali (Italy)                                                                         ✗      ✗     ✗
 Macchina delle Favole, La - Racconti di Magia (Italy)                                                                         ✗      ✗     ✗
 Machine a Remonter le Temps, La (France)                                                                                      ✗      ✗     ✗
-Mad Dog 2 - Le Tresor Perdu (France)                                                                                          ✗      ✗     ✗
-Mad Dog II - The Lost Gold (Europe)                                                                                           ✗      ✗     ✗
+Mad Dog 2 - Le Tresor Perdu (France)                                                                                          -      -     ✗
+Mad Dog II - The Lost Gold (Europe)                                                                                           -      -     ✗
 Mad Dog II - The Lost Gold (Europe) (Beta)                                                                                    ✗      ✗     ✗
 Mad Dog McCree (Europe) (Alt)                                                                                                 ✗      ✗     ✗
-Mad Dog McCree (France)                                                                                                       ✗      ✗     ✗
-Mad Dog McCree (Germany)                                                                                                      ✗      ✗     ✗
-Mad Dog McCree (Italy)                                                                                                        ✗      ✗     ✗
-Mad Dog McCree (Portugal)                                                                                                     ✗      ✗     ✗
+Mad Dog McCree (France)                                                                                                       -      -     ✗
+Mad Dog McCree (Germany)                                                                                                      -      -     ✗
+Mad Dog McCree (Italy)                                                                                                        -      -     ✗
+Mad Dog McCree (Portugal)                                                                                                     -      -     ✗
 Mad Dog McCree (USA) (Alt)                                                                                                    ✗      ✗     ✗
 Mad Dog McCree (USA) (Beta)                                                                                                   ✗      ✗     ✗
-Mad Dog McCree (USA, Europe)                                                                                                  ✗      ✗     ✗
+Mad Dog McCree (USA, Europe)                                                                                                  -      -     ✗
 Maestri Olandesi del Seicento, I (Italy)                                                                                      ✗      ✗     ✗
 Maestros Holandeses del Siglo XVII, Los (Spain)                                                                               ✗      ✗     ✗
 Magazine Interactif Peugeot - Hors Serie - Mondial de l'Automobile - Octobre 1996 (France)                                    ✗      ✗     ✗
@@ -1100,13 +1100,13 @@ Malstiftfabrik, Die (Germany)                                                   
 Managing Change (UK)                                                                                                          ✗      ✗     ✗
 Manna Space - Travel Business (Japan)                                                                                         ✗      ✗     ✗
 Maquina de Cuentos, La - Cuentos Magicos (Spain)                                                                              ✗      ✗     ✗
-Marco Polo (Europe) (Disc 1) (The Game)                                                                                       ✗      ✗     ✗
-Marco Polo (Europe) (Disc 2) (The Documentation)                                                                              ✗      ✗     ✗
-Marco Polo (France) (Disc 1) (Le Jeu)                                                                                         ✗      ✗     ✗
-Marco Polo (France) (Disc 2) (La Documentation)                                                                               ✗      ✗     ✗
+Marco Polo (Europe) (Disc 1) (The Game)                                                                                       -      -     ✗
+Marco Polo (Europe) (Disc 2) (The Documentation)                                                                              -      -     ✗
+Marco Polo (France) (Disc 1) (Le Jeu)                                                                                         -      -     ✗
+Marco Polo (France) (Disc 2) (La Documentation)                                                                               -      -     ✗
 Marine Nationale - L'Encyclopedie - Edition 1996 (France)                                                                     ✗      ✗     ✗
-Master Labyrinth (Europe) (En,Fr,De,Nl)                                                                                       ✗      ✗     ✗
-Master Labyrinth (Germany) (En,Fr,De,Nl)                                                                                      ✗      ✗     ✗
+Master Labyrinth (Europe) (En,Fr,De,Nl)                                                                                       -      ✗     ✗
+Master Labyrinth (Germany) (En,Fr,De,Nl)                                                                                      -      ✗     ✗
 Mathtrak K1 (USA)                                                                                                             ✗      ✗     ✗
 Mathtrak K2 (USA)                                                                                                             ✗      ✗     ✗
 Mathtrak K4 (USA)                                                                                                             ✗      ✗     ✗
@@ -1123,27 +1123,27 @@ MediaMogul Audition Scripts 2.2.1 (USA)                                         
 Mediterranea (Italy)                                                                                                          ✗      ✗     ✗
 Meer Duistere Fabels van Aesopus (Netherlands)                                                                                ✗      ✗     ✗
 Meetings, Bloody Meetings (UK)                                                                                                ✗      ✗     ✗
-Mega Maze (Europe)                                                                                                            ✗      ✗     ✗
+Mega Maze (Europe)                                                                                                            -      -     ✗
 Mega Maze (Europe) (Beta)                                                                                                     ✗      ✗     ✗
-Mega Maze (USA)                                                                                                               ✗      ✗     ✗
+Mega Maze (USA)                                                                                                               -      -     ✗
 Mega Popclassics (Netherlands) (En,Nl)                                                                                        ✗      ✗     ✗
 Memory Works, The - For Names and Faces (USA)                                                                                 ✗      ✗     ✗
 Mercer Mayer's Little Monster at School (USA)                                                                                 ✗      ✗     ✗
 Mercer Mayer's Little Monster at School (USA) (Rev 1)                                                                         ✗      ✗     ✗
-Merlin's Apprentice (Europe)                                                                                                  ✗      ✗     ✗
-Merlin's Apprentice (USA)                                                                                                     ✗      ✗     ✗
-Merlin's Apprentice (USA) (Rev 1)                                                                                             ✗      ✗     ✗
+Merlin's Apprentice (Europe)                                                                                                  -      -     ✗
+Merlin's Apprentice (USA)                                                                                                     -      -     ✗
+Merlin's Apprentice (USA) (Rev 1)                                                                                             -      -     ✗
 Merz + Co. GmbH _ Co. - Tetesept Erkaeltungsmedizin (Germany)                                                                 ✗      ✗     ✗
 Methode de Guitare Rock avec Paul Personne (France)                                                                           ✗      ✗     ✗
 Methode de Langues Multimedia, La - Je Parle l'Anglais - La Methode Junior (France)                                           ✗      ✗     ✗
-Micro Machines (Europe)                                                                                                       ✗      ✗     ✗
+Micro Machines (Europe)                                                                                                       -      -     ✗
 Micro Machines (Europe) (Demo)                                                                                                ✗      ✗     ✗
 MindQuest (Europe) (Beta)                                                                                                     ✗      ✗     ✗
 Mission on Music - June 1995 (Europe)                                                                                         ✗      ✗     ✗
 Money at Work (UK)                                                                                                            ✗      ✗     ✗
-Monty Python's Invasion from the Planet Skyron (Europe)                                                                       ✗      ✗     ✗
+Monty Python's Invasion from the Planet Skyron (Europe)                                                                       -      -     ✗
 Monty Python's Invasion from the Planet Skyron (Europe) (Beta)                                                                ✗      ✗     ✗
-Monty Python's More Naughty Bits (Europe)                                                                                     ✗      ✗     ✗
+Monty Python's More Naughty Bits (Europe)                                                                                     -      -     ✗
 More Dark Fables from Aesop (Europe)                                                                                          ✗      ✗     ✗
 More Dark Fables from Aesop (USA)                                                                                             ✗      ✗     ✗
 Moses - Bound for the Promised Land (USA, Europe)                                                                             ✗      ✗     ✗
@@ -1163,20 +1163,20 @@ Mozart - Sono Ongaku to Shougai - A Musical Biography (Japan) (En,Ja)           
 Multimedia Opleiding Bedrijfshulpverlener (Netherlands)                                                                       ✗      ✗     ✗
 Multimedia Partner Program (Europe)                                                                                           ✗      ✗     ✗
 Museo Amparo (Latin America)                                                                                                  ✗      ✗     ✗
-Mutant Rampage - Bodyslam (Europe)                                                                                            ✗      ✗     ✗
-Mutant Rampage - Bodyslam (USA)                                                                                               ✗      ✗     ✗
+Mutant Rampage - Bodyslam (Europe)                                                                                            -      -     ✗
+Mutant Rampage - Bodyslam (USA)                                                                                               -      -     ✗
 Mutant Rampage - Bodyslam (USA) (Beta)                                                                                        ✗      ✗     ✗
 Muzzy (Europe)                                                                                                                ✗      ✗     ✗
 Muzzy (Europe) (Beta)                                                                                                         ✗      ✗     ✗
 Muzzy (USA)                                                                                                                   ✗      ✗     ✗
-Myst (Europe)                                                                                                                 ✗      ✗     ✗
-Mystic Midway - Phantom Express (Europe)                                                                                      ✗      ✗     ✗
-Mystic Midway - Phantom Express (USA)                                                                                         ✗      ✗     ✗
-Mystic Midway - Rest in Pieces (USA, Europe)                                                                                  ✗      ✗     ✗
+Myst (Europe)                                                                                                                 -      -     ✗
+Mystic Midway - Phantom Express (Europe)                                                                                      -      -     ✗
+Mystic Midway - Phantom Express (USA)                                                                                         -      -     ✗
+Mystic Midway - Rest in Pieces (USA, Europe)                                                                                  -      -     ✗
 NFL 100 Greatest Touchdowns (Europe)                                                                                          ✗      ✗     ✗
 NFL 100 Greatest Touchdowns (USA)                                                                                             ✗      ✗     ✗
-NFL Football Trivia Challenge '94-'95 Edition (Europe)                                                                        ✗      ✗     ✗
-NFL Football Trivia Challenge '94-'95 Edition (USA)                                                                           ✗      ✗     ✗
+NFL Football Trivia Challenge '94-'95 Edition (Europe)                                                                        -      ✗     ✗
+NFL Football Trivia Challenge '94-'95 Edition (USA)                                                                           -      ✗     ✗
 NFL Football Trivia Challenge (USA)                                                                                           ✗      ✗     ✗
 NFL Hall of Fame Football (Europe)                                                                                            ✗      ✗     ✗
 NFL Hall of Fame Football (USA)                                                                                               ✗      ✗     ✗
@@ -1192,7 +1192,7 @@ Naked Gun 2 1-2, The - The Smell of Fear (Netherlands) (Disc 1)                 
 Naked Gun 2 1-2, The - The Smell of Fear (Netherlands) (Disc 2)                                                               ✗      ✗     ✗
 Naked Gun 2 1-2, The - The Smell of Fear (USA) (Disc 1)                                                                       ✗      ✗     ✗
 Naked Gun 2 1-2, The - The Smell of Fear (USA) (Disc 2)                                                                       ✗      ✗     ✗
-Name That Tune (USA)                                                                                                          ✗      ✗     ✗
+Name That Tune (USA)                                                                                                          -      -     ✗
 Nasce un Bambino (Italy)                                                                                                      ✗      ✗     ✗
 Nationale Muziekkado 1995, Het (Netherlands)                                                                                  ✗      ✗     ✗
 Nationale Muziekkado 1995, Het (Netherlands) (Alt)                                                                            ✗      ✗     ✗
@@ -1233,19 +1233,19 @@ Ontdek het Onbekende Nederland (Netherlands)                                    
 Oogst van de Zon (Netherlands)                                                                                                ✗      ✗     ✗
 Op Jacht naar Vernuft (Netherlands)                                                                                           ✗      ✗     ✗
 Open Universiteit - Practicum Toxicologische Histopathologie (Netherlands)                                                    ✗      ✗     ✗
-Open de Palm Springs, L' (France)                                                                                             ✗      ✗     ✗
+Open de Palm Springs, L' (France)                                                                                             -      -     ✗
 OptImage CD-I 220 Adjustment Disc (USA)                                                                                       ✗      ✗     ✗
 OptImage CD-I Starter System - Sampler Disc - Version 1.1 (USA)                                                               ✗      ✗     ✗
 OptImage Media Showcase (USA)                                                                                                 ✗      ✗     ✗
-Origami (Europe) (En,Fr,De,Nl)                                                                                                ✗      ✗     ✗
+Origami (Europe) (En,Fr,De,Nl)                                                                                                -      -     ✗
 Osterreichs Werbepreise - Vier Highlights (Austria)                                                                           ✗      ✗     ✗
-Othello (Europe)                                                                                                              ✗      ✗     ✗
+Othello (Europe)                                                                                                              -      -     ✗
 Otto Bock - Orthopaedische Industrie - Neuheiten Vol. 2 - Stand Januar 1997 (Germany)                                         ✗      ✗     ✗
 Ours Berenstain, Les - Comme des Grands (France)                                                                              ✗      ✗     ✗
 Overval, De - Over Dwangmiddelen en Getuigenverhoor (Netherlands)                                                             ✗      ✗     ✗
 P.A.W.S - Personal Automated Wagging System (Europe)                                                                          ✗      ✗     ✗
 PFS Interactive Training - Math (USA)                                                                                         ✗      ✗     ✗
-Pac-Panic (Europe)                                                                                                            ✗      ✗     ✗
+Pac-Panic (Europe)                                                                                                            -      -     ✗
 Page _ Moy Ltd - Cruise Directory (UK)                                                                                        ✗      ✗     ✗
 Paint School I (Asia) (Zh,Ko)                                                                                                 ✗      ✗     ✗
 Paint School I (Europe) (En,Fr,De,Es,It,Nl)                                                                                   ✗      ✗     ✗
@@ -1256,10 +1256,10 @@ Paint School II (Europe)                                                        
 Paint School II (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)                                                                          ✗      ✗     ✗
 Paint School II (USA)                                                                                                         ✗      ✗     ✗
 Paint School II (USA) (Rev 1)                                                                                                 ✗      ✗     ✗
-Palm Springs Open, The (Germany)                                                                                              ✗      ✗     ✗
-Palm Springs Open, The (Italy)                                                                                                ✗      ✗     ✗
-Palm Springs Open, The (USA)                                                                                                  ✗      ✗     ✗
-Palm Springs Open, The (World)                                                                                                ✗      ✗     ✗
+Palm Springs Open, The (Germany)                                                                                              -      -     ✗
+Palm Springs Open, The (Italy)                                                                                                -      -     ✗
+Palm Springs Open, The (USA)                                                                                                  -      -     ✗
+Palm Springs Open, The (World)                                                                                                -      -     ✗
 Paranasal Sinuses _ Anterior Skull Base - Volume 1-I (Europe)                                                                 ✗      ✗     ✗
 Paris Belle Epoque (France)                                                                                                   ✗      ✗     ✗
 Patriot Games (UK) (Disc 1)                                                                                                   ✗      ✗     ✗
@@ -1316,7 +1316,7 @@ Philips TASS Presentation - Development Sample (Europe)                         
 Photo CD Sample Disc (USA)                                                                                                    ✗      ✗     ✗
 Photosynthesis (USA)                                                                                                          ✗      ✗     ✗
 Pinball (Europe) (Alt)                                                                                                        ✗      ✗     ✗
-Pinball (World)                                                                                                               ✗      ✗     ✗
+Pinball (World)                                                                                                               -      -     ✗
 Planes, Trains and Automobiles (USA) (Disc 1)                                                                                 ✗      ✗     ✗
 Planes, Trains and Automobiles (USA) (Disc 2)                                                                                 ✗      ✗     ✗
 Playboy's Complete Massage (Europe)                                                                                           ✗      ✗     ✗
@@ -1332,10 +1332,10 @@ Portrait d'une Ville - Venise (France)                                          
 Portrait of a City - Venice (Europe)                                                                                          ✗      ✗     ✗
 Posse (USA) (Disc 1)                                                                                                          ✗      ✗     ✗
 Posse (USA) (Disc 2)                                                                                                          ✗      ✗     ✗
-Power Hitter (Europe)                                                                                                         ✗      ✗     ✗
-Power Hitter (Europe) (Rev 1)                                                                                                 ✗      ✗     ✗
-Power Hitter (USA)                                                                                                            ✗      ✗     ✗
-Power Hitter (USA) (Rev 1)                                                                                                    ✗      ✗     ✗
+Power Hitter (Europe)                                                                                                         -      -     ✗
+Power Hitter (Europe) (Rev 1)                                                                                                 -      -     ✗
+Power Hitter (USA)                                                                                                            -      -     ✗
+Power Hitter (USA) (Rev 1)                                                                                                    -      -     ✗
 Power Match (Europe)                                                                                                          ✗      ✗     ✗
 Power Match (Europe) (Rev 1)                                                                                                  ✗      ✗     ✗
 Praxicolor - Interactive Colour Training (UK)                                                                                 ✗      ✗     ✗
@@ -1352,7 +1352,7 @@ Private Lesson Series - Methode de Guitare Classique (France)                   
 Private Lesson Series - Rock Guitar - A Beginner's Guide (Europe)                                                             ✗      ✗     ✗
 Private Lesson Series - Rock Guitar - A Beginner's Guide (USA)                                                                ✗      ✗     ✗
 Product Information - Volvo 960 - 1995 (Europe)                                                                               ✗      ✗     ✗
-Pyramid Adventures - Episode 1 - Treasures of the Lost Pyramid (USA)                                                          ✗      ✗     ✗
+Pyramid Adventures - Episode 1 - Treasures of the Lost Pyramid (USA)                                                          -      ✗     ✗
 Quality the Only Way (UK)                                                                                                     ✗      ✗     ✗
 Quest for M-Powerment, A - A Journey into the World of Space Station Evoluon (UK)                                             ✗      ✗     ✗
 QuizMania (Italy)                                                                                                             ✗      ✗     ✗
@@ -1397,7 +1397,7 @@ Richard Scarry's Busiest Neighborhood Disc Ever! (USA)                          
 Richard Scarry's Busiest Neighborhood Disc Ever! (USA) (Rev 1)                                                                ✗      ✗     ✗
 Richard Scarry's Busiest Neighborhood Disc Ever! (USA) (Rev 2)                                                                ✗      ✗     ✗
 Rinascimento a Firenze, Il (Italy)                                                                                            ✗      ✗     ✗
-Rise of the Robots (Europe)                                                                                                   ✗      ✗     ✗
+Rise of the Robots (Europe)                                                                                                   -      -     ✗
 Rise of the Robots (Europe) (Alt)                                                                                             ✗      ✗     ✗
 Rise of the Robots (Europe) (Beta)                                                                                            ✗      ✗     ✗
 Ritratto di Citta - Venezia (Italy)                                                                                           ✗      ✗     ✗
@@ -1419,8 +1419,8 @@ Sandy's Circus Adventure (USA, Europe)                                          
 Sandy's Circus Avontuur (Netherlands)                                                                                         ✗      ✗     ✗
 Sandy's Zirkus Abenteuer (Germany)                                                                                            ✗      ✗     ✗
 Santa Claus' Mice (Europe) (En,Fr)                                                                                            ✗      ✗     ✗
-Sargon Chess (Europe)                                                                                                         ✗      ✗     ✗
-Sargon Chess (USA)                                                                                                            ✗      ✗     ✗
+Sargon Chess (Europe)                                                                                                         -      ✗     ✗
+Sargon Chess (USA)                                                                                                            -      -     ✗
 Sargon Chess (USA) (Beta)                                                                                                     ✗      ✗     ✗
 Say What You Want (UK)                                                                                                        ✗      ✗     ✗
 Scan _ Teach - Thema 1-6 - Klasse 3 (Germany)                                                                                 ✗      ✗     ✗
@@ -1428,17 +1428,17 @@ Scan _ Teach - Thema 7-12 - Klasse 3 (Germany)                                  
 Schilderschool (Netherlands) (En,Fr,De,Es,It,Nl)                                                                              ✗      ✗     ✗
 Schoene und das Tier, Die (Germany) (En,De)                                                                                   ✗      ✗     ✗
 Schtroumpfs, Les - Le Teleportaschtroumpf (France)                                                                            ✗      ✗     ✗
-Scotland Yard Interactif (France)                                                                                             ✗      ✗     ✗
-Scotland Yard Interactive (Europe)                                                                                            ✗      ✗     ✗
-Scotland Yard Interactive (Germany)                                                                                           ✗      ✗     ✗
+Scotland Yard Interactif (France)                                                                                             -      -     -
+Scotland Yard Interactive (Europe)                                                                                            -      -     -
+Scotland Yard Interactive (Germany)                                                                                           -      -     -
 Screendisc Interactive Preview Systems - The Preview System (USA)                                                             ✗      ✗     ✗
 Seasons Greetings from Philips Media (Europe)                                                                                 ✗      ✗     ✗
-Secret Mission (Europe)                                                                                                       ✗      ✗     ✗
+Secret Mission (Europe)                                                                                                       -      -     ✗
 Secret Mission (Europe) (Alt)                                                                                                 ✗      ✗     ✗
 Secret Mission (Europe) (Beta)                                                                                                ✗      ✗     ✗
-Secret Mission (France)                                                                                                       ✗      ✗     ✗
-Secret Mission (Germany)                                                                                                      ✗      ✗     ✗
-Secret Mission (Netherlands)                                                                                                  ✗      ✗     ✗
+Secret Mission (France)                                                                                                       -      -     ✗
+Secret Mission (Germany)                                                                                                      -      -     ✗
+Secret Mission (Netherlands)                                                                                                  -      -     ✗
 Secrets of Tatjana (Europe)                                                                                                   ✗      ✗     ✗
 Self Selling Disc (USA)                                                                                                       ✗      ✗     ✗
 Sell It to Me! Part One - Preparing The Way (UK)                                                                              ✗      ✗     ✗
@@ -1448,8 +1448,8 @@ Selling for Real - Interactive Video Sales Training - Paperwork, Bloody Paperwor
 Selling for Real - Interactive Video Sales Training - Selling You to You and Taking Personal Control (UK)                     ✗      ✗     ✗
 Serie Privelessen - Klassieke Gitaar - Handleiding voor Beginners (Netherlands)                                               ✗      ✗     ✗
 Serum-Werk Bernburg AG - Veterinaerpharmaka - Vol. 1 (Germany)                                                                ✗      ✗     ✗
-Shadoan (Europe)                                                                                                              ✗      ✗     ✗
-Shaolin's Road (Europe) (En,Fr)                                                                                               ✗      ✗     ✗
+Shadoan (Europe)                                                                                                              -      -     ✗
+Shaolin's Road (Europe) (En,Fr)                                                                                               ✗      -     ✗
 Shari Lewis Lamb Chop's Play-Along! Action Songs (USA)                                                                        ✗      ✗     ✗
 Shark Alert (USA)                                                                                                             ✗      ✗     ✗
 Shipwreck (Europe)                                                                                                            ✗      ✗     ✗
@@ -1467,14 +1467,14 @@ Smilde (Netherlands)                                                            
 Smithsonian Presents the Riches of Coins, The (USA)                                                                           ✗      ✗     ✗
 Smithsonian Presents, The - Stamps - Windows on the World (France)                                                            ✗      ✗     ✗
 Smithsonian Presents, The - Stamps - Windows on the World (USA)                                                               ✗      ✗     ✗
-Solar Crusade (Europe)                                                                                                        ✗      ✗     ✗
-Solar System (Europe)                                                                                                         ✗      ✗     ✗
+Solar Crusade (Europe)                                                                                                        -      ✗     ✗
+Solar System (Europe)                                                                                                         -      ✗     ✗
 Solitaire (Europe) (Proto)                                                                                                    ✗      ✗     ✗
 Somewhere - Une Envie de Naturel (France)                                                                                     ✗      ✗     ✗
 Somewhere - Une Envie de Naturel - Printemps 96 (France)                                                                      ✗      ✗     ✗
 Soundtrap (Europe)                                                                                                            ✗      ✗     ✗
-Space Ace (Europe)                                                                                                            ✗      ✗     ✗
-Space Ace (USA)                                                                                                               ✗      ✗     ✗
+Space Ace (Europe)                                                                                                            -      -     ✗
+Space Ace (USA)                                                                                                               -      -     ✗
 Space Ranger (USA) (Unl)                                                                                                      ✗      ✗     ✗
 Space Safari (UK)                                                                                                             ✗      ✗     ✗
 Spine Sense - The Interactive Back Protection Program (USA)                                                                   ✗      ✗     ✗
@@ -1516,10 +1516,10 @@ Story Maschine - Maerchenzauber (Germany)                                       
 Story of Jonah, The (USA)                                                                                                     ✗      ✗     ✗
 Story of Samson, The (USA)                                                                                                    ✗      ✗     ✗
 Stretch-Top System - Wasserbett-Information (Europe)                                                                          ✗      ✗     ✗
-Striker Pro (Europe)                                                                                                          ✗      ✗     ✗
-Striker Pro (USA)                                                                                                             ✗      ✗     ✗
-Strip Poker Live (Europe) (En,It)                                                                                             ✗      ✗     ✗
-Strip Poker Live (Italy) (En,It)                                                                                              ✗      ✗     ✗
+Striker Pro (Europe)                                                                                                          -      -     ✗
+Striker Pro (USA)                                                                                                             -      -     ✗
+Strip Poker Live (Europe) (En,It)                                                                                             -      -     ✗
+Strip Poker Live (Italy) (En,It)                                                                                              -      -     ✗
 Strip-Poker Pro (France) (En,Fr)                                                                                              ✗      ✗     ✗
 Stunde der Patrioten, Die (Germany) (Disc 1)                                                                                  ✗      ✗     ✗
 Stunde der Patrioten, Die (Germany) (Disc 2)                                                                                  ✗      ✗     ✗
@@ -1540,7 +1540,7 @@ TR-I - No World Order (USA) (Beta)                                              
 TV Interactief - Site Seeing in Digitaal Eindhoven (Netherlands)                                                              ✗      ✗     ✗
 Tandem Production (France)                                                                                                    ✗      ✗     ✗
 Tangerine Dream - Tyranny of Beauty - A Multimedia Presentation (Italy) (En,It)                                               ✗      ✗     ✗
-Tangram (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt)                                                                                    ✗      ✗     ✗
+Tangram (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt)                                                                                    -      -     -
 Tangram (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt) (Beta)                                                                             ✗      ✗     ✗
 Targeting for Performance (UK) (Disc 1)                                                                                       ✗      ✗     ✗
 Targeting for Performance (UK) (Disc 2)                                                                                       ✗      ✗     ✗
@@ -1558,13 +1558,13 @@ Tesoro dell'Isola dei Giochi, Il (Italy) (Beta)                                 
 Test Codoroute I (France)                                                                                                     ✗      ✗     ✗
 Test Codoroute II (France)                                                                                                    ✗      ✗     ✗
 Tetris (USA) (Beta)                                                                                                           ✗      ✗     ✗
-Tetris (USA, Europe)                                                                                                          ✗      ✗     ✗
-Tetsuo Gaiden (Europe)                                                                                                        ✗      ✗     ✗
-Text Tiles (USA, Europe)                                                                                                      ✗      ✗     ✗
+Tetris (USA, Europe)                                                                                                          -      -     ✗
+Tetsuo Gaiden (Europe)                                                                                                        -      ✗     ✗
+Text Tiles (USA, Europe)                                                                                                      -      -     -
 Thrombolyse dans Tous Ses Etats, La (France)                                                                                  ✗      ✗     ✗
-Thunder in Paradise (Europe) (Disc 1) (The Game)                                                                              ✗      ✗     ✗
-Thunder in Paradise (Germany)                                                                                                 ✗      ✗     ✗
-Thunder in Paradise (USA) (Disc 1) (The Game)                                                                                 ✗      ✗     ✗
+Thunder in Paradise (Europe) (Disc 1) (The Game)                                                                              -      -     ✗
+Thunder in Paradise (Germany)                                                                                                 -      -     ✗
+Thunder in Paradise (USA) (Disc 1) (The Game)                                                                                 -      -     ✗
 TicTac (Europe) (Proto)                                                                                                       ✗      ✗     ✗
 Tim _ Baer auf dem Flughafen (Germany)                                                                                        ✗      ✗     ✗
 Tim _ Baer beim Film (Germany)                                                                                                ✗      ✗     ✗
@@ -1625,10 +1625,10 @@ USA '94 World Cup (Europe)                                                      
 USA '94 World Cup (Europe) (En,Es,It)                                                                                         ✗      ✗     ✗
 Ulihamkke Bulleoyo - Chinguwa Hamkke (Korea)                                                                                  ✗      ✗     ✗
 Ulihamkke Bulleoyo - Jayeongwa Hamkke (Korea)                                                                                 ✗      ✗     ✗
-Ultimate Noah's Ark, The (UK)                                                                                                 ✗      ✗     ✗
-Ultimate Noah's Ark, The (USA)                                                                                                ✗      ✗     ✗
-Ultra CD-i Soccer (Europe)                                                                                                    ✗      ✗     ✗
-Uncover featuring Tatjana (Europe)                                                                                            ✗      ✗     ✗
+Ultimate Noah's Ark, The (UK)                                                                                                 -      -     -
+Ultimate Noah's Ark, The (USA)                                                                                                -      -     -
+Ultra CD-i Soccer (Europe)                                                                                                    -      ✗     ✗
+Uncover featuring Tatjana (Europe)                                                                                            -      -     ✗
 Universal CD-ROM - New Age Interactive 10.6 (Italy) (En,It)                                                                   ✗      ✗     ✗
 Universal CD-ROM - New Age Interactive 12.8 (Italy) (En,It)                                                                   ✗      ✗     ✗
 Universal CD-ROM - New Age Interactive 7.3 (Italy) (En,It)                                                                    ✗      ✗     ✗
@@ -1654,7 +1654,7 @@ Vapro - Procesbeheersing Deel 3 (Netherlands)                                   
 Vapro - Procesbeheersing Deel 5 (Netherlands)                                                                                 ✗      ✗     ✗
 Vapro - Procesbeheersing Deel 6 - Besturingstechniek (Netherlands)                                                            ✗      ✗     ✗
 Vapro - Transport von Stoffen 1 _ Transport de Materiaux 1 (Netherlands) (Fr,De)                                              ✗      ✗     ✗
-Vegas Girls (Europe)                                                                                                          ✗      ✗     ✗
+Vegas Girls (Europe)                                                                                                          -      -     ✗
 Vegas Girls (Europe) (Alt)                                                                                                    ✗      ✗     ✗
 Verhaengnisvolle Affaere, Eine (Germany) (Disc 1)                                                                             ✗      ✗     ✗
 Verhaengnisvolle Affaere, Eine (Germany) (Disc 2)                                                                             ✗      ✗     ✗
@@ -1663,9 +1663,9 @@ Verkaufen am Expressschalter (Germany)                                          
 Vernieuwing van Agrarisch Nederland, De (Netherlands)                                                                         ✗      ✗     ✗
 Video CD Music Sampler with Online Ordering (Europe)                                                                          ✗      ✗     ✗
 Video Preview Disc - Oktober November (Netherlands)                                                                           ✗      ✗     ✗
-Video Speedway - Grand Prix (France)                                                                                          ✗      ✗     ✗
-Video Speedway - The Ultimate Racing Experience (Europe)                                                                      ✗      ✗     ✗
-Video Speedway - The Ultimate Racing Experience (USA)                                                                         ✗      ✗     ✗
+Video Speedway - Grand Prix (France)                                                                                          -      -     ✗
+Video Speedway - The Ultimate Racing Experience (Europe)                                                                      -      -     ✗
+Video Speedway - The Ultimate Racing Experience (USA)                                                                         -      -     ✗
 Ville Surprise de Richard Scarry 1, La (France)                                                                               ✗      ✗     ✗
 Ville Surprise de Richard Scarry 1, La (France) (Alt)                                                                         ✗      ✗     ✗
 Ville Surprise de Richard Scarry 2, La (France)                                                                               ✗      ✗     ✗
@@ -1748,14 +1748,14 @@ Volvo V70 - Colour, Upholstery, Option _ Accessory - 2002 (Netherlands)         
 Volvo V70 - Features - 2001 (Netherlands)                                                                                     ✗      ✗     ✗
 Volvo V70 - Features - 2002 (Netherlands)                                                                                     ✗      ✗     ✗
 Von der Elbe an die Spree (Germany)                                                                                           ✗      ✗     ✗
-Voyeur (France)                                                                                                               ✗      ✗     ✗
-Voyeur (USA)                                                                                                                  ✗      ✗     ✗
-Voyeur (USA) (Rev 1)                                                                                                          ✗      ✗     ✗
+Voyeur (France)                                                                                                               -      -     ✗
+Voyeur (USA)                                                                                                                  -      -     ✗
+Voyeur (USA) (Rev 1)                                                                                                          -      -     ✗
 Voyeur (USA) (Rev 1) (Alt)                                                                                                    ✗      ✗     ✗
-Voyeur ...Don't Get Caught (Europe)                                                                                           ✗      ✗     ✗
-Voyeur ...Lass Dich Nicht Erwischen! (Germany)                                                                                ✗      ✗     ✗
-Wacky World of Miniature Golf with Eugene Levy, The (Europe)                                                                  ✗      ✗     ✗
-Wacky World of Miniature Golf with Eugene Levy, The (USA)                                                                     ✗      ✗     ✗
+Voyeur ...Don't Get Caught (Europe)                                                                                           -      -     ✗
+Voyeur ...Lass Dich Nicht Erwischen! (Germany)                                                                                -      -     ✗
+Wacky World of Miniature Golf with Eugene Levy, The (Europe)                                                                  -      ✗     ✗
+Wacky World of Miniature Golf with Eugene Levy, The (USA)                                                                     -      -     ✗
 Wacky World of Miniature Golf with Eugene Levy, The (USA) (Beta)                                                              ✗      ✗     ✗
 Wall in Motion - Upper GI Motility Visualized as Never Before (Europe)                                                        ✗      ✗     ✗
 Wayne's World (UK) (Disc 1)                                                                                                   ✗      ✗     ✗
@@ -1768,31 +1768,31 @@ Weitere Geheimnisvolle Fabeln von Aesop (Germany)                               
 Werndl Office Furniture Systems - CD-Interactive Catalogue _ Presentation Disc (USA)                                          ✗      ✗     ✗
 Weru - Fenster + Tueren (Germany)                                                                                             ✗      ✗     ✗
 Wet Milieubeheer, De - Handleiding voor Ondernemers (Netherlands)                                                             ✗      ✗     ✗
-Whack a Bubble (Europe)                                                                                                       ✗      ✗     ✗
+Whack a Bubble (Europe)                                                                                                       -      -     ✗
 What Is Multimedia (Europe)                                                                                                   ✗      ✗     ✗
 What is CD-i (Europe)                                                                                                         ✗      ✗     ✗
 What's It Worth Auction Game, The (Europe) (Proto)                                                                            ✗      ✗     ✗
 What's That Bird Britain and Europe (Europe) (En,Fr,De,Es,It)                                                                 ✗      ✗     ✗
 What's That Bird Britain and Europe (Europe) (En,Fr,De,Es,It) (Rev 1)                                                         ✗      ✗     ✗
 What's That Bird Britain and Europe (Europe) (En,Fr,De,Es,It) (Rev 2)                                                         ✗      ✗     ✗
-Who Shot Johnny Rock (Europe)                                                                                                 ✗      ✗     ✗
+Who Shot Johnny Rock (Europe)                                                                                                 -      ✗     ✗
 Who Shot Johnny Rock (Europe) (Beta)                                                                                          ✗      ✗     ✗
-Who Shot Johnny Rock (France)                                                                                                 ✗      ✗     ✗
-Who Shot Johnny Rock (Italy)                                                                                                  ✗      ✗     ✗
-Who Shot Johnny Rock (USA)                                                                                                    ✗      ✗     ✗
+Who Shot Johnny Rock (France)                                                                                                 -      ✗     ✗
+Who Shot Johnny Rock (Italy)                                                                                                  -      ✗     ✗
+Who Shot Johnny Rock (USA)                                                                                                    -      ✗     ✗
 Who's Tommy, The - See Me, Feel Me, Hear Me (Europe)                                                                          ✗      ✗     ✗
 Why CD-i (Europe)                                                                                                             ✗      ✗     ✗
 Wie das Rhinozeros zu seiner Haut kam (Germany) (En,De)                                                                       ✗      ✗     ✗
-Wimbledon Challenge (Europe) (En,Ja,Fr,De,Es,It)                                                                              ✗      ✗     ✗
+Wimbledon Challenge (Europe) (En,Ja,Fr,De,Es,It)                                                                              -      -     ✗
 Wind, Fronts, and Storms (USA)                                                                                                ✗      ✗     ✗
 Wines of France (Europe)                                                                                                      ✗      ✗     ✗
 Wining _ Dining - De Franse Keuken Thuis (Netherlands)                                                                        ✗      ✗     ✗
 Wining _ Dining - De Italiaanse Keuken Thuis (Netherlands)                                                                    ✗      ✗     ✗
 Wining _ Dining - De Spaanse Keuken Thuis (Netherlands)                                                                       ✗      ✗     ✗
 Winning Spirit, The - Winning Spirit Workshops 1995 (Europe)                                                                  ✗      ✗     ✗
-Wordplay (Europe)                                                                                                             ✗      ✗     ✗
+Wordplay (Europe)                                                                                                             ✗      -     -
 World Communities (USA)                                                                                                       ✗      ✗     ✗
-World Cup Golf (Europe) (En,Fr,De)                                                                                            ✗      ✗     ✗
+World Cup Golf (Europe) (En,Fr,De)                                                                                            -      -     ✗
 World of CD-i 1995, The (Europe)                                                                                              ✗      ✗     ✗
 World of Impressionism, The (Europe)                                                                                          ✗      ✗     ✗
 World of Impressionism, The (USA)                                                                                             ✗      ✗     ✗
@@ -1809,26 +1809,26 @@ Yamaha Brochure 1994 (Europe)                                                   
 Yamaha Brochure 1994 (Netherlands)                                                                                            ✗      ✗     ✗
 Yearn2Learn - Peanuts (Europe) (En,Fr,De,Nl)                                                                                  ✗      ✗     ✗
 You Sing Christmas Favorites (USA)                                                                                            ✗      ✗     ✗
-Zaak van Sam, De (Netherlands)                                                                                                ✗      ✗     ✗
-Zelda - De Toverstaf van Gamelon (Netherlands)                                                                                ✗      ✗     ✗
+Zaak van Sam, De (Netherlands)                                                                                                -      ✗     ✗
+Zelda - De Toverstaf van Gamelon (Netherlands)                                                                                -      -     -
 Zelda - Der Zauberstab von Gamelon (Germany)                                                                                  ✗      ✗     ✗
-Zelda - The Wand of Gamelon (Europe)                                                                                          ✗      ✗     ✗
-Zelda - The Wand of Gamelon (France)                                                                                          ✗      ✗     ✗
-Zelda - The Wand of Gamelon (USA)                                                                                             ✗      ✗     ✗
-Zelda's Adventure (Europe)                                                                                                    ✗      ✗     ✗
+Zelda - The Wand of Gamelon (Europe)                                                                                          -      -     -
+Zelda - The Wand of Gamelon (France)                                                                                          -      -     -
+Zelda - The Wand of Gamelon (USA)                                                                                             -      -     -
+Zelda's Adventure (Europe)                                                                                                    -      -     -
 Zeneca Pharmaceuticals Group - Experts in Anti-Infectives - Pathogen Pursuit - An Interactive Medical Program (USA)           ✗      ✗     ✗
-Zenith (Europe)                                                                                                               ✗      ✗     ✗
+Zenith (Europe)                                                                                                               -      -     ✗
 Zestril - Lisinopril ICI - 24 Hour Control of Blood Pressure (UK)                                                             ✗      ✗     ✗
 Zingstrip - 15 Bekende Kinderliedjes - Deel 1 (Netherlands)                                                                   ✗      ✗     ✗
 Zingstrip - 15 Bekende Kinderliedjes - Deel 2 (Netherlands)                                                                   ✗      ✗     ✗
 Zingstrip - Zing Mee voor Sinterklaas (Netherlands)                                                                           ✗      ✗     ✗
 Zingstrip - Zing Mee voor de Kerstman (Netherlands)                                                                           ✗      ✗     ✗
-Zombie Dinos de la Planete Zeltoide (France)                                                                                  ✗      ✗     ✗
-Zombie Dinos from Planet Zeltoid (Europe)                                                                                     ✗      ✗     ✗
-Zombie Dinos from Planet Zeltoid (USA)                                                                                        ✗      ✗     ✗
-Zombie Dinos from Planet Zeltoid (USA, Europe) (Rev 1)                                                                        ✗      ✗     ✗
-Zombie Dinos van de Planeet Zeltoid (Netherlands)                                                                             ✗      ✗     ✗
-Zombie Dinos vom Planeten Zeltoid (Germany)                                                                                   ✗      ✗     ✗
+Zombie Dinos de la Planete Zeltoide (France)                                                                                  -      -     ✗
+Zombie Dinos from Planet Zeltoid (Europe)                                                                                     -      -     ✗
+Zombie Dinos from Planet Zeltoid (USA)                                                                                        -      -     ✗
+Zombie Dinos from Planet Zeltoid (USA, Europe) (Rev 1)                                                                        -      -     ✗
+Zombie Dinos van de Planeet Zeltoid (Netherlands)                                                                             -      -     ✗
+Zombie Dinos vom Planeten Zeltoid (Germany)                                                                                   -      -     ✗
 Zoo... Eenvoudig - Dierenencyclopedie (Netherlands)                                                                           ✗      ✗     ✗
 Zorg voor Houding en Beweging (Netherlands) (Demo)                                                                            ✗      ✗     ✗
 eScape (Europe)                                                                                                               ✗      ✗     ✗

@@ -16,4 +16,4 @@ libretro-database/dat/BIOS.dat:
 	git submodule update
 
 clean:
-	rm -rf .tmp out node_modules
+	rm -rf .tmp out node_modules indexFiles/*.index

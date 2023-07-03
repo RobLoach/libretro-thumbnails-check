@@ -1,9 +1,9 @@
 ScummVM Missing
 
-Boxarts   36/4425  0.81%
-Snaps     31/4425  0.70%
-Titles    31/4425  0.70%
-Total    98/13275  0.74%
+Boxarts    51/4425  1.15%
+Snaps      53/4425  1.20%
+Titles     53/4425  1.20%
+Total    157/13275  1.18%
 
 Name                                                                                                                                                            Boxart  Snap  Title
 += 3_ A Logical Adventure (Multi-OS)                                                                                                                               ✗      ✗     ✗
@@ -297,7 +297,7 @@ Bargon Attack (Amiga)                                                           
 Bargon Attack (Atari ST_French)                                                                                                                                    ✗      ✗     ✗
 Bargon Attack (DOS)                                                                                                                                                -      -     -
 Bargon Attack (DOS_French)                                                                                                                                         ✗      ✗     ✗
-Bargon Attack (DOS_German)                                                                                                                                         ✗      ✗     ✗
+Bargon Attack (DOS_German)                                                                                                                                         -      -     -
 Bargon Attack (DOS_Italian)                                                                                                                                        ✗      ✗     ✗
 Bargon Attack (DOS_Spanish)                                                                                                                                        ✗      ✗     ✗
 Bargon Attack {Баргон атакует}(DOS_Russian)                                                                                                                        ✗      ✗     ✗
@@ -444,8 +444,8 @@ Box, The (Windows)                                                              
 Brain of the Night Guest (Multi-OS)                                                                                                                                ✗      ✗     ✗
 Brian's Quest (DOS_Fanmade)                                                                                                                                        ✗      ✗     ✗
 Brian's Quest (DOS_Fanmade_Spanish)                                                                                                                                ✗      ✗     ✗
-Broken Sword 2.5_ The Return of the Templars (Windows)                                                                                                             -      -     -
-Broken Sword 2.5_ The Return of the Templars (Windows_Croatian)                                                                                                    -      ✗     ✗
+Broken Sword 2.5_ The Return of the Templars (Windows)                                                                                                             ✗      ✗     ✗
+Broken Sword 2.5_ The Return of the Templars (Windows_Croatian)                                                                                                    ✗      ✗     ✗
 Broken Sword 2.5_ The Return of the Templars (Windows_Multi-Language)                                                                                              ✗      ✗     ✗
 Broken Sword 2.5_ The Return of the Templars {Baphomets Fluch 2.5_ Die Rückkehr der Tempelritter}(Windows_German)                                                  ✗      ✗     ✗
 Broken Sword 2.5_ The Return of the Templars {Broken Sword 2.5_ A templomosok visszatérése}(Windows_Hungarian)                                                     ✗      ✗     ✗
@@ -464,13 +464,13 @@ Broken Sword II_ The Smoking Mirror (Windows_Polish)                            
 Broken Sword II_ The Smoking Mirror (Windows_Portuguese)                                                                                                           ✗      ✗     ✗
 Broken Sword II_ The Smoking Mirror _PC Gamer Demo_(Windows)                                                                                                       ✗      ✗     ✗
 Broken Sword II_ The Smoking Mirror {Baphomets Fluch II_ Die Spiegel der Finsternis}(PlayStation_German)                                                           ✗      ✗     ✗
-Broken Sword II_ The Smoking Mirror {Baphomets Fluch II_ Die Spiegel der Finsternis}(Windows_German)                                                               -      ✗     ✗
+Broken Sword II_ The Smoking Mirror {Baphomets Fluch II_ Die Spiegel der Finsternis}(Windows_German)                                                               ✗      ✗     ✗
 Broken Sword II_ The Smoking Mirror {Broken Sword II_ La Profezia dei Maya}(PlayStation_Italian)                                                                   ✗      ✗     ✗
-Broken Sword II_ The Smoking Mirror {Broken Sword II_ La Profezia dei Maya}(Windows_Italian)                                                                       -      ✗     ✗
+Broken Sword II_ The Smoking Mirror {Broken Sword II_ La Profezia dei Maya}(Windows_Italian)                                                                       ✗      ✗     ✗
 Broken Sword II_ The Smoking Mirror {Broken Sword II_ Las Fuerzas del Mal}(PlayStation_Spanish)                                                                    ✗      ✗     ✗
-Broken Sword II_ The Smoking Mirror {Broken Sword II_ Las Fuerzas del Mal}(Windows_Spanish)                                                                        -      ✗     ✗
+Broken Sword II_ The Smoking Mirror {Broken Sword II_ Las Fuerzas del Mal}(Windows_Spanish)                                                                        ✗      ✗     ✗
 Broken Sword II_ The Smoking Mirror {Les Chevaliers de Baphomet II_ Les Boucliers de Quetzalcoatl}(PlayStation_French)                                             ✗      ✗     ✗
-Broken Sword II_ The Smoking Mirror {Les Chevaliers de Baphomet II_ Les Boucliers de Quetzalcoatl}(Windows_French)                                                 -      ✗     ✗
+Broken Sword II_ The Smoking Mirror {Les Chevaliers de Baphomet II_ Les Boucliers de Quetzalcoatl}(Windows_French)                                                 ✗      ✗     ✗
 Broken Sword II_ The Smoking Mirror {Сломанный Меч_ Дымящееся Зеркало}(Windows_Russian)                                                                            ✗      ✗     ✗
 Broken Sword II_ The Smoking Mirror {חרב שבורה 2_ המראה המעשנת}(Windows_Hebrew)                                                                                    ✗      ✗     ✗
 Broken Sword_ Shadow of the Templars                                                                                                                               ✗      ✗     ✗
@@ -673,7 +673,7 @@ Cruise for a Corpse (256 colors_DOS_English)                                    
 Cruise for a Corpse (Amiga_Italian)                                                                                                                                ✗      ✗     ✗
 Cruise for a Corpse (Amiga_Spanish)                                                                                                                                ✗      ✗     ✗
 Cruise for a Corpse (Atari ST)                                                                                                                                     ✗      ✗     ✗
-Cruise for a Corpse (DOS_VGA)                                                                                                                                      -      -     -
+Cruise for a Corpse (DOS_VGA)                                                                                                                                      ✗      ✗     ✗
 Cruise for a Corpse (DOS_VGA_German)                                                                                                                               ✗      ✗     ✗
 Cruise for a Corpse (DOS_VGA_Italian)                                                                                                                              ✗      ✗     ✗
 Cruise for a Corpse (DOS_VGA_Spanish)                                                                                                                              ✗      ✗     ✗
@@ -762,7 +762,7 @@ Devil in the Capital (Windows)                                                  
 Devil in the Capital {شیطان در پایتخت}(Windows_Persian)                                                                                                            ✗      ✗     ✗
 Diamonds in the Rough (Windows)                                                                                                                                    ✗      ✗     ✗
 Diaper Quest (Multi-OS)                                                                                                                                            ✗      ✗     ✗
-Dig, The (DOS)                                                                                                                                                     -      -     -
+Dig, The (DOS)                                                                                                                                                     ✗      ✗     ✗
 Dig, The (DOS_Czech)                                                                                                                                               ✗      ✗     ✗
 Dig, The (DOS_Hungarian)                                                                                                                                           ✗      ✗     ✗
 Dig, The (DOS_Japanese)                                                                                                                                            ✗      ✗     ✗
@@ -789,23 +789,23 @@ Dirty Split (Windows_Spanish)                                                   
 Disco Nights (DOS_Fanmade)                                                                                                                                         ✗      ✗     ✗
 Discworld (CD_DOS)                                                                                                                                                 ✗      ✗     ✗
 Discworld (CD_DOS_Enhanced Music)                                                                                                                                  ✗      ✗     ✗
-Discworld (CD_DOS_French)                                                                                                                                          ✗      ✗     ✗
-Discworld (CD_DOS_German)                                                                                                                                          ✗      ✗     ✗
-Discworld (CD_DOS_Italian)                                                                                                                                         ✗      ✗     ✗
-Discworld (CD_DOS_Polish)                                                                                                                                          ✗      ✗     ✗
-Discworld (CD_DOS_Russian)                                                                                                                                         ✗      ✗     ✗
-Discworld (CD_DOS_Spanish)                                                                                                                                         ✗      ✗     ✗
+Discworld (CD_DOS_French)                                                                                                                                          -      -     -
+Discworld (CD_DOS_German)                                                                                                                                          -      -     -
+Discworld (CD_DOS_Italian)                                                                                                                                         -      -     -
+Discworld (CD_DOS_Polish)                                                                                                                                          -      -     -
+Discworld (CD_DOS_Russian)                                                                                                                                         -      -     -
+Discworld (CD_DOS_Spanish)                                                                                                                                         -      -     -
 Discworld (CD_Macintosh)                                                                                                                                           ✗      ✗     ✗
 Discworld (CD_PlayStation_English,French,German,Italian,Spanish)                                                                                                   ✗      ✗     ✗
 Discworld (CD_PlayStation_German)                                                                                                                                  ✗      ✗     ✗
 Discworld (CD_Sega Saturn)                                                                                                                                         ✗      ✗     ✗
 Discworld (Floppy_DOS)                                                                                                                                             ✗      ✗     ✗
 Discworld (Floppy_DOS_Czech)                                                                                                                                       ✗      ✗     ✗
-Discworld (Floppy_DOS_French)                                                                                                                                      ✗      ✗     ✗
-Discworld (Floppy_DOS_German)                                                                                                                                      ✗      ✗     ✗
-Discworld (Floppy_DOS_Italian)                                                                                                                                     ✗      ✗     ✗
+Discworld (Floppy_DOS_French)                                                                                                                                      -      -     -
+Discworld (Floppy_DOS_German)                                                                                                                                      -      -     -
+Discworld (Floppy_DOS_Italian)                                                                                                                                     -      -     -
 Discworld (Floppy_DOS_Polish)                                                                                                                                      ✗      ✗     ✗
-Discworld (Floppy_DOS_Spanish)                                                                                                                                     ✗      ✗     ✗
+Discworld (Floppy_DOS_Spanish)                                                                                                                                     -      -     -
 Discworld II_ Missing Presumed (DOS)                                                                                                                               ✗      ✗     ✗
 Discworld II_ Missing Presumed ...!_ (CD_DOS)                                                                                                                      ✗      ✗     ✗
 Discworld II_ Missing Presumed ...!_ {Discworld II_ Mortality Bytes!}(CD_DOS)                                                                                      ✗      ✗     ✗
@@ -851,15 +851,15 @@ Drakmagi {Dragon Magic}(Multi-OS_Swedish)                                       
 Drakmyth Castle (Macintosh_disk I)                                                                                                                                 ✗      ✗     ✗
 Drakmyth Castle (Macintosh_disk II)                                                                                                                                ✗      ✗     ✗
 DreamWeb (CD_DOS)                                                                                                                                                  ✗      ✗     ✗
-DreamWeb (CD_DOS_Czech)                                                                                                                                            ✗      ✗     ✗
-DreamWeb (CD_DOS_French)                                                                                                                                           ✗      ✗     ✗
-DreamWeb (CD_DOS_German)                                                                                                                                           ✗      ✗     ✗
-DreamWeb (CD_DOS_Italian)                                                                                                                                          ✗      ✗     ✗
-DreamWeb (CD_DOS_Spanish)                                                                                                                                          ✗      ✗     ✗
+DreamWeb (CD_DOS_Czech)                                                                                                                                            -      -     -
+DreamWeb (CD_DOS_French)                                                                                                                                           -      -     -
+DreamWeb (CD_DOS_German)                                                                                                                                           -      -     -
+DreamWeb (CD_DOS_Italian)                                                                                                                                          -      -     -
+DreamWeb (CD_DOS_Spanish)                                                                                                                                          -      -     -
 DreamWeb (DOS)                                                                                                                                                     ✗      ✗     ✗
-DreamWeb (DOS_German)                                                                                                                                              ✗      ✗     ✗
-DreamWeb (DOS_Italian)                                                                                                                                             ✗      ✗     ✗
-DreamWeb (DOS_Spanish)                                                                                                                                             ✗      ✗     ✗
+DreamWeb (DOS_German)                                                                                                                                              -      -     -
+DreamWeb (DOS_Italian)                                                                                                                                             -      -     -
+DreamWeb (DOS_Spanish)                                                                                                                                             -      -     -
 DreamWeb {Мир Диска}(CD_DOS_Russian)                                                                                                                               ✗      ✗     ✗
 Dreamcat Adventure, The (Windows)                                                                                                                                  ✗      ✗     ✗
 Dreamscape (Windows)                                                                                                                                               ✗      ✗     ✗
@@ -1114,11 +1114,11 @@ Flawed Addendum (Multi-OS)                                                      
 Flight of the Amazon Queen (Floppy_Amiga)                                                                                                                          ✗      ✗     ✗
 Flight of the Amazon Queen (Floppy_Amiga_Slovak)                                                                                                                   ✗      ✗     ✗
 Flight of the Amazon Queen (Floppy_DOS)                                                                                                                            ✗      ✗     ✗
-Flight of the Amazon Queen (Floppy_DOS_French)                                                                                                                     ✗      ✗     ✗
-Flight of the Amazon Queen (Floppy_DOS_Italian)                                                                                                                    ✗      ✗     ✗
-Flight of the Amazon Queen (Floppy_DOS_Russian)                                                                                                                    ✗      ✗     ✗
+Flight of the Amazon Queen (Floppy_DOS_French)                                                                                                                     -      -     -
+Flight of the Amazon Queen (Floppy_DOS_Italian)                                                                                                                    -      -     -
+Flight of the Amazon Queen (Floppy_DOS_Russian)                                                                                                                    -      -     -
 Flight of the Amazon Queen (Talkie_DOS)                                                                                                                            ✗      ✗     ✗
-Flight of the Amazon Queen (Talkie_DOS_English)                                                                                                                    -      -     -
+Flight of the Amazon Queen (Talkie_DOS_English)                                                                                                                    ✗      ✗     ✗
 Flight of the Amazon Queen (Talkie_DOS_French)                                                                                                                     ✗      ✗     ✗
 Flight of the Amazon Queen (Talkie_DOS_Hungarian)                                                                                                                  ✗      ✗     ✗
 Flight of the Amazon Queen (Talkie_DOS_Italian)                                                                                                                    ✗      ✗     ✗
@@ -1279,7 +1279,7 @@ Geisha (Amiga_German)                                                           
 Geisha (Amiga_Spanish)                                                                                                                                             ✗      ✗     ✗
 Geisha (DOS)                                                                                                                                                       ✗      ✗     ✗
 Geisha (DOS_French)                                                                                                                                                ✗      ✗     ✗
-Geisha (DOS_German)                                                                                                                                                ✗      ✗     ✗
+Geisha (DOS_German)                                                                                                                                                -      -     -
 Geisha (DOS_Italian)                                                                                                                                               ✗      ✗     ✗
 Gem Scenario, The (DOS_Fanmade)                                                                                                                                    ✗      ✗     ✗
 Gemini Rue (Android)                                                                                                                                               ✗      ✗     ✗
@@ -1880,7 +1880,7 @@ King's Quest VI_ Heir Today, Gone Tomorrow {킹스퀘스트 6}(CD_Windows_Korean
 King's Quest V_ Absence Makes the Heart Go Yonder (Amiga)                                                                                                          ✗      ✗     ✗
 King's Quest V_ Absence Makes the Heart Go Yonder (Amiga_German)                                                                                                   ✗      ✗     ✗
 King's Quest V_ Absence Makes the Heart Go Yonder (Amiga_Italian)                                                                                                  ✗      ✗     ✗
-King's Quest V_ Absence Makes the Heart Go Yonder (CD_DOS)                                                                                                         -      -     -
+King's Quest V_ Absence Makes the Heart Go Yonder (CD_DOS)                                                                                                         ✗      ✗     ✗
 King's Quest V_ Absence Makes the Heart Go Yonder (DOS)                                                                                                            ✗      ✗     ✗
 King's Quest V_ Absence Makes the Heart Go Yonder (DOS_EGA)                                                                                                        ✗      ✗     ✗
 King's Quest V_ Absence Makes the Heart Go Yonder (DOS_EGA_Spanish)                                                                                                ✗      ✗     ✗
@@ -1954,21 +1954,21 @@ Lancelot, Part 3 (DOS)                                                          
 Lancelot, Part 3 (Spectrum 48)                                                                                                                                     ✗      ✗     ✗
 Lands of Lore_ The Throne of Chaos (CD_DOS)                                                                                                                        ✗      ✗     ✗
 Lands of Lore_ The Throne of Chaos (CD_DOS_English)                                                                                                                -      -     -
-Lands of Lore_ The Throne of Chaos (CD_DOS_Italian)                                                                                                                ✗      ✗     ✗
-Lands of Lore_ The Throne of Chaos (CD_DOS_Russian)                                                                                                                ✗      ✗     ✗
-Lands of Lore_ The Throne of Chaos (CD_DOS_Spanish)                                                                                                                ✗      ✗     ✗
+Lands of Lore_ The Throne of Chaos (CD_DOS_Italian)                                                                                                                -      -     -
+Lands of Lore_ The Throne of Chaos (CD_DOS_Russian)                                                                                                                -      -     -
+Lands of Lore_ The Throne of Chaos (CD_DOS_Spanish)                                                                                                                -      -     -
 Lands of Lore_ The Throne of Chaos (DOS)                                                                                                                           ✗      ✗     ✗
 Lands of Lore_ The Throne of Chaos (DOS_Chinese_Extracted)                                                                                                         ✗      ✗     ✗
 Lands of Lore_ The Throne of Chaos (DOS_Extracted)                                                                                                                 ✗      ✗     ✗
-Lands of Lore_ The Throne of Chaos (DOS_French)                                                                                                                    ✗      ✗     ✗
+Lands of Lore_ The Throne of Chaos (DOS_French)                                                                                                                    -      -     -
 Lands of Lore_ The Throne of Chaos (DOS_French_Extracted)                                                                                                          ✗      ✗     ✗
-Lands of Lore_ The Throne of Chaos (DOS_German)                                                                                                                    ✗      ✗     ✗
+Lands of Lore_ The Throne of Chaos (DOS_German)                                                                                                                    -      -     -
 Lands of Lore_ The Throne of Chaos (DOS_German_Extracted)                                                                                                          ✗      ✗     ✗
 Lands of Lore_ The Throne of Chaos (DOS_Russian_Extracted)                                                                                                         ✗      ✗     ✗
 Lands of Lore_ The Throne of Chaos (DOS_Spanish_Compressed)                                                                                                        ✗      ✗     ✗
 Lands of Lore_ The Throne of Chaos (DOS_Spanish_Extracted)                                                                                                         ✗      ✗     ✗
 Lands of Lore_ The Throne of Chaos (FM-Towns_Japanese)                                                                                                             ✗      ✗     ✗
-Lands of Lore_ The Throne of Chaos (PC-98_Japanese)                                                                                                                ✗      ✗     ✗
+Lands of Lore_ The Throne of Chaos (PC-98_Japanese)                                                                                                                -      -     -
 Larry Lotter and the Test of Time (Windows_Multilanguage)                                                                                                          ✗      ✗     ✗
 Larry Lotter and the Test of Time {Warthogs}(Windows)                                                                                                              ✗      ✗     ✗
 Larry Lotter and the Test of Time {Warthogs}(Windows_French)                                                                                                       ✗      ✗     ✗
@@ -2044,7 +2044,7 @@ Legend of Kyrandia, The (DOS_Russian_Extracted)                                 
 Legend of Kyrandia, The (DOS_Spanish_Extracted)                                                                                                                    ✗      ✗     ✗
 Legend of Kyrandia, The (Macintosh)                                                                                                                                ✗      ✗     ✗
 Legend of Kyrandia, The {ザ・レジェンド・オブ・キランディア}(PC-98_Japanese)                                                                                                        ✗      ✗     ✗
-Legend of Kyrandia, The_ Malcolm's Revenge (DOS)                                                                                                                   -      -     -
+Legend of Kyrandia, The_ Malcolm's Revenge (DOS)                                                                                                                   ✗      ✗     ✗
 Legend of Kyrandia, The_ Malcolm's Revenge (DOS_Chinese Simplified)                                                                                                ✗      ✗     ✗
 Legend of Kyrandia, The_ Malcolm's Revenge (DOS_Chinese Traditional)                                                                                               ✗      ✗     ✗
 Legend of Kyrandia, The_ Malcolm's Revenge (DOS_French)                                                                                                            ✗      ✗     ✗
@@ -2056,7 +2056,7 @@ Legend of Kyrandia, The_ Malcolm's Revenge (Macintosh)                          
 Legend of Kyrandia, The_ Malcolm's Revenge (Macintosh_French)                                                                                                      ✗      ✗     ✗
 Legend of Kyrandia, The_ Malcolm's Revenge (Macintosh_German)                                                                                                      ✗      ✗     ✗
 Legend of Kyrandia, The_ Malcolm's Revenge {Легенда Кирандии_ Реванш Малколма}(DOS_Russian)                                                                        ✗      ✗     ✗
-Legend of Kyrandia, The_ The Hand of Fate (CD_DOS)                                                                                                                 -      -     -
+Legend of Kyrandia, The_ The Hand of Fate (CD_DOS)                                                                                                                 -      ✗     ✗
 Legend of Kyrandia, The_ The Hand of Fate (CD_DOS_French)                                                                                                          ✗      ✗     ✗
 Legend of Kyrandia, The_ The Hand of Fate (CD_DOS_German)                                                                                                          ✗      ✗     ✗
 Legend of Kyrandia, The_ The Hand of Fate (CD_DOS_Hebrew)                                                                                                          ✗      ✗     ✗
@@ -2370,9 +2370,9 @@ Lost in Time (CD_DOS_Italian)                                                   
 Lost in Time (CD_DOS_Spanish)                                                                                                                                      ✗      ✗     ✗
 Lost in Time (DOS)                                                                                                                                                 ✗      ✗     ✗
 Lost in Time (DOS_Czech)                                                                                                                                           ✗      ✗     ✗
-Lost in Time (DOS_French)                                                                                                                                          ✗      ✗     ✗
-Lost in Time (DOS_German)                                                                                                                                          ✗      ✗     ✗
-Lost in Time (DOS_Spanish)                                                                                                                                         ✗      ✗     ✗
+Lost in Time (DOS_French)                                                                                                                                          ✗      -     -
+Lost in Time (DOS_German)                                                                                                                                          ✗      -     -
+Lost in Time (DOS_Spanish)                                                                                                                                         ✗      -     -
 Lost in Time (Macintosh_French)                                                                                                                                    ✗      ✗     ✗
 Lost in Time (Windows)                                                                                                                                             ✗      ✗     ✗
 Lost in Time (Windows_French)                                                                                                                                      ✗      ✗     ✗
@@ -2748,7 +2748,7 @@ Nightlong_ Union City Conspiracy (Windows_Russian)                              
 Nightlong_ Union City Conspiracy (Windows_Spanish)                                                                                                                 ✗      ✗     ✗
 Nightmare (Multi-OS)                                                                                                                                               ✗      ✗     ✗
 Nippon Safes Inc. (DOS_English,French,German,Italian)                                                                                                              ✗      ✗     ✗
-Nippon Safes Inc. (Multi-lingual_DOS)                                                                                                                              -      -     -
+Nippon Safes Inc. (Multi-lingual_DOS)                                                                                                                              ✗      ✗     ✗
 No Es Culpa Tuya, María (Multi-OS_Spanish)                                                                                                                         ✗      ✗     ✗
 Nord and Bert Couldn't Make Head or Tail of It (Multi-OS)                                                                                                          ✗      ✗     ✗
 Not Just an Ordinary Ballerina (Multi-OS)                                                                                                                          ✗      ✗     ✗
@@ -3167,7 +3167,7 @@ Quest for Glory II_ Trial by Fire (DOS_Spanish)                                 
 Quest for Glory II_ Trial by Fire Remake (Windows)                                                                                                                 ✗      ✗     ✗
 Quest for Glory IV_ Shadows of Darkness (CD_DOS)                                                                                                                   ✗      ✗     ✗
 Quest for Glory IV_ Shadows of Darkness (CD_DOS_Spanish)                                                                                                           ✗      ✗     ✗
-Quest for Glory IV_ Shadows of Darkness (CD_Windows)                                                                                                               -      -     -
+Quest for Glory IV_ Shadows of Darkness (CD_Windows)                                                                                                               ✗      ✗     ✗
 Quest for Glory IV_ Shadows of Darkness (DOS)                                                                                                                      ✗      ✗     ✗
 Quest for Glory IV_ Shadows of Darkness (DOS_German)                                                                                                               ✗      ✗     ✗
 Quest for Glory IV_ Shadows of Darkness (DOS_Spanish)                                                                                                              ✗      ✗     ✗
@@ -3661,7 +3661,7 @@ Secret Diary of Adrian Mole, The_ Part 10 (BBC)                                 
 Secret Diary of Adrian Mole, The_ Part 11 (BBC)                                                                                                                    ✗      ✗     ✗
 Secret Diary of Adrian Mole, The_ Part 12 (BBC)                                                                                                                    ✗      ✗     ✗
 Secret of Monkey Island, The (Atari ST_EGA)                                                                                                                        ✗      ✗     ✗
-Secret of Monkey Island, The (CD_DOS)                                                                                                                              -      -     -
+Secret of Monkey Island, The (CD_DOS)                                                                                                                              ✗      ✗     ✗
 Secret of Monkey Island, The (DOS_EGA)                                                                                                                             ✗      ✗     ✗
 Secret of Monkey Island, The (DOS_SE Talkie)                                                                                                                       ✗      ✗     ✗
 Secret of Monkey Island, The (DOS_VGA)                                                                                                                             ✗      ✗     ✗

@@ -1,9 +1,9 @@
 Commodore - VIC-20 Missing
 
-Boxarts  149/235  63.40%
-Snaps    194/235  82.55%
-Titles   194/235  82.55%
-Total    537/705  76.17%
+Boxarts  158/235  67.23%
+Snaps    197/235  83.83%
+Titles   197/235  83.83%
+Total    552/705  78.30%
 
 Name                                                      Boxart  Snap  Title
 A.E. (World)                                                 -      -     -
@@ -41,7 +41,7 @@ Cannonball Blitz (Japan, USA)                                ✗      -     -
 Capture the Flag (Japan, USA)                                ✗      -     -
 Capture the Flag (Japan, USA) (Alt)                          ✗      ✗     ✗
 Catch-a-Snatch (Europe)                                      -      -     -
-Cave-in (World)                                              ✗      -     -
+Cave-in (World)                                              -      -     -
 Cave-in (World) (Alt)                                        ✗      ✗     ✗
 Centipede (Japan, USA)                                       -      -     -
 Choplifter (Europe)                                          -      -     -
@@ -74,7 +74,7 @@ Dot Gobbler (Japan, USA)                                     -      -     -
 Dot Gobbler (Japan, USA) (Alt)                               -      ✗     ✗
 Dragonfire (World)                                           -      -     -
 Droids (World)                                               ✗      -     -
-E.T. - The Extra-Terrestrial (Europe)                        ✗      ✗     ✗
+E.T. - The Extra-Terrestrial (Europe)                        ✗      -     -
 E.T. - The Extra-Terrestrial (Europe) (Alt)                  ✗      ✗     ✗
 Face Maker (World)                                           -      -     -
 Face Maker (World) (Alt)                                     -      ✗     ✗
@@ -114,7 +114,7 @@ Maze (Japan, USA)                                            ✗      -     -
 Maze (Japan, USA) (Alt)                                      ✗      ✗     ✗
 Medieval Joust (World)                                       ✗      -     -
 Medieval Joust (World) (Alt)                                 ✗      ✗     ✗
-Menagerie (World)                                            ✗      -     -
+Menagerie (World)                                            -      -     -
 Menagerie (World) (Alt 2)                                    ✗      -     -
 Menagerie (World) (Alt)                                      ✗      ✗     ✗
 Meteor Run (Europe)                                          -      -     -
@@ -129,7 +129,7 @@ Money Wars (Japan, USA) (Alt 2)                              -      -     -
 Money Wars (Japan, USA) (Alt 3)                              -      -     -
 Money Wars (Japan, USA) (Alt)                                -      ✗     ✗
 Monster Maze (World)                                         -      -     -
-Moon Patrol (Japan, USA)                                     ✗      -     -
+Moon Patrol (Japan, USA)                                     -      -     -
 Mosquito Infestation (Europe)                                ✗      -     -
 Motocross Racer (Japan, USA)                                 ✗      -     -
 Mountain King (Japan, USA)                                   ✗      -     -
@@ -157,15 +157,15 @@ Predator (Europe)                                            ✗      -     -
 Predator (Japan, USA)                                        ✗      -     -
 Princess and Frog (Japan, USA)                               ✗      -     -
 Protector (World)                                            ✗      -     -
-Q-bert (Japan, USA)                                          ✗      -     -
-Quackers (Europe)                                            ✗      -     -
+Q-bert (Japan, USA)                                          -      -     -
+Quackers (Europe)                                            -      -     -
 Quackers (Europe) (Alt)                                      ✗      ✗     ✗
 Raid on Fort Knox (World)                                    -      -     -
 Raid on Fort Knox (World) (Alt)                              -      ✗     ✗
-Rat Hotel (Europe)                                           -      ✗     ✗
+Rat Hotel (Europe)                                           -      -     -
 Rat Hotel (Japan, USA)                                       -      -     -
 Renaissance (Japan, USA)                                     -      -     -
-River Rescue (World)                                         ✗      -     -
+River Rescue (World)                                         -      -     -
 River Rescue (World) (Alt)                                   ✗      ✗     ✗
 Road Race (Japan, USA)                                       -      -     -
 Road Race (Japan, USA) (Alt 2)                               -      -     -
@@ -183,7 +183,7 @@ Scorpion (Europe) (Alt)                                      -      ✗     ✗
 Scram 20 (World)                                             ✗      -     -
 Sea Wolf (Japan, USA)                                        -      -     -
 Seafox (Japan, USA)                                          ✗      -     -
-Serpentine (Europe)                                          ✗      -     -
+Serpentine (Europe)                                          -      -     -
 Serpentine (Japan, USA)                                      -      -     -
 Shamus (Japan, USA)                                          -      -     -
 Sir Lancelot (World)                                         ✗      -     -
@@ -202,7 +202,7 @@ Spills _ Fills (Japan, USA)                                  ✗      -     -
 Springer (Japan, USA)                                        ✗      -     -
 Squish'Em (Japan, USA)                                       ✗      -     -
 Star Battle (Japan, USA)                                     -      -     -
-Star Post (Japan, USA)                                       ✗      -     -
+Star Post (Japan, USA)                                       -      -     -
 Star Trek - Strategic Operations Simulator (World)           ✗      -     -
 Star Trek - Strategic Operations Simulator (World) (Alt)     ✗      ✗     ✗
 Story Machine (World) (Alt)                                  -      ✗     ✗
@@ -213,7 +213,7 @@ Super Amok (Japan, USA) (Alt)                                -      ✗     ✗
 Super Smash (Europe)                                         ✗      -     -
 Super Smash (Japan, USA)                                     ✗      -     -
 Super Smash (Japan, USA) (Alt)                               ✗      ✗     ✗
-Tank Atak (Europe)                                           ✗      -     -
+Tank Atak (Europe)                                           -      -     -
 Terraguard (Europe)                                          ✗      -     -
 Terraguard (Japan, USA)                                      ✗      -     -
 Threshold (Japan, USA)                                       ✗      -     -
@@ -238,6 +238,6 @@ Videomania (Japan, USA)                                      ✗      -     -
 Visible Solar System, The (World)                            -      -     -
 Visible Solar System, The (World) (Alt 2)                    -      -     -
 Visible Solar System, The (World) (Alt)                      -      ✗     ✗
-Voodoo Castle Adventure (World) (SYS 32592)                  -      ✗     ✗
+Voodoo Castle Adventure (World) (SYS 32592)                  -      -     -
 Wacky Waiters (Europe) (SYS 48896)                           -      -     -
 World at War, A (World)                                      ✗      -     -

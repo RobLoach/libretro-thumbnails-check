@@ -1,9 +1,9 @@
 Microsoft - MSX Missing
 
-Boxarts    213/891  23.91%
-Snaps      631/891  70.82%
-Titles     631/891  70.82%
-Total    1475/2673  55.18%
+Boxarts    577/891  64.76%
+Snaps      658/891  73.85%
+Titles     658/891  73.85%
+Total    1893/2673  70.82%
 
 Name                                                                     Boxart  Snap  Title
 10-Yard Fight (Japan)                                                       -      -     -
@@ -46,7 +46,7 @@ Antarctic Adventure (Europe) (Alt)                                          ✗ 
 Anty (Japan)                                                                -      -     -
 Anty (Japan) (Alt)                                                          ✗      ✗     ✗
 Aqua Polis SOS (Japan)                                                      -      -     -
-Aquattack (Japan)                                                           ✗      -     -
+Aquattack (Japan)                                                           -      -     -
 Aramo (Japan)                                                               -      -     -
 Arkanoid (Japan)                                                            -      -     -
 Arkanoid (Japan) (Alt 2)                                                    -      -     -
@@ -95,7 +95,7 @@ Bifamu (Japan) (Alt)                                                        ✗ 
 Binary Land (Japan)                                                         -      -     -
 Black Onyx II, The - Search for the Fire Crystal (Japan)                    -      -     -
 Black Onyx, The (Japan)                                                     -      -     -
-Blagger MSX (Europe) (Converted from Tape)                                  ✗      ✗     ✗
+Blagger MSX (Europe) (Converted from Tape)                                  -      ✗     ✗
 Block Hole (Korea) (Unl)                                                    -      -     -
 Blockade Runner (Japan)                                                     -      -     -
 Boggy '84 (Japan)                                                           -      -     -
@@ -105,8 +105,8 @@ Boing Boing (Spain)                                                         -   
 Bokosuka Wars (Japan)                                                       -      -     -
 Bokosuka Wars (Japan) (Alt)                                                 ✗      ✗     ✗
 Bomber King (Japan)                                                         -      -     -
-Bomberman (Japan)                                                           ✗      ✗     ✗
-Bomberman Special (Japan)                                                   ✗      ✗     ✗
+Bomberman (Japan)                                                           -      -     -
+Bomberman Special (Japan)                                                   -      -     -
 Boogie Woogi Jungle (Japan)                                                 -      -     -
 Boogie Woogi Jungle (Japan) (Alt 2)                                         -      -     -
 Boogie Woogi Jungle (Japan) (Alt)                                           ✗      ✗     ✗
@@ -178,7 +178,7 @@ Choplifter (Japan) (Alt)                                                    ✗ 
 Choro Q (Japan)                                                             -      -     -
 Choro Q (Japan) (Alt)                                                       ✗      ✗     ✗
 Chugaku Hisshu Eibunpo 1 (Japan)                                            ✗      -     -
-Circus Charlie (Japan) (Wii U Virtual Console)                              ✗      ✗     ✗
+Circus Charlie (Japan) (Wii U Virtual Console)                              -      -     -
 City Connection (Japan)                                                     -      -     -
 City Connection (Japan) (Alt)                                               ✗      ✗     ✗
 Coaster Race (Japan)                                                        -      -     -
@@ -222,7 +222,7 @@ D-Day (Japan)                                                               -   
 D-Day (Japan) (Alt 2)                                                       -      -     -
 D-Day (Japan) (Alt 3)                                                       -      -     -
 D-Day (Japan) (Alt)                                                         ✗      ✗     ✗
-Daidasso (Japan)                                                            ✗      -     -
+Daidasso (Japan)                                                            -      -     -
 Daiva Story 4 - Asura's Bloodfeud (Japan)                                   -      -     -
 Dam Busters, The (Japan)                                                    -      -     -
 Dam Busters, The (Japan) (Alt)                                              ✗      ✗     ✗
@@ -237,7 +237,7 @@ Deep Dungeon (Japan)                                                        -   
 Deep Dungeon II (Japan)                                                     -      -     -
 Demon Crystal, The (Japan)                                                  -      -     -
 Demonia I (Europe)                                                          -      -     -
-Devil's Heaven (Japan)                                                      ✗      -     -
+Devil's Heaven (Japan)                                                      -      -     -
 Dig Dug (Japan)                                                             -      -     -
 Dig Dug (Japan) (Alt)                                                       ✗      ✗     ✗
 Digital Devil Monogatari Megami Tensei (Japan)                              -      -     -
@@ -269,7 +269,7 @@ Eagle Fighter (Japan)                                                       -   
 Eagle Fighter (Japan) (Alt)                                                 ✗      ✗     ✗
 Eggerland Mystery (Japan)                                                   -      -     -
 Elevator Action (Japan)                                                     -      -     -
-Erika (Japan)                                                               ✗      -     -
+Erika (Japan)                                                               -      -     -
 Exa Innova (Japan)                                                          -      -     -
 Exa Innova (Japan) (Alt)                                                    ✗      ✗     ✗
 Exchanger (Japan)                                                           -      -     -
@@ -292,10 +292,10 @@ Fairy Land Story, The (Japan)                                               -   
 Fairy Land Story, The (Japan) (Alt)                                         ✗      ✗     ✗
 Fandom Library #1 (Japan)                                                   ✗      -     -
 Fandom Library #2 (Japan)                                                   ✗      -     -
-Fandom Library #3 (Japan)                                                   ✗      -     -
+Fandom Library #3 (Japan)                                                   -      -     -
 Fantasy Zone (Japan)                                                        -      -     -
 Fathom (Japan)                                                              -      -     -
-Final Justice (Japan)                                                       ✗      -     -
+Final Justice (Japan)                                                       -      -     -
 Final Justice (Japan) (Alt 2)                                               ✗      -     -
 Final Justice (Japan) (Alt)                                                 ✗      ✗     ✗
 Final Mahjong (Japan)                                                       -      -     -
@@ -327,573 +327,573 @@ Fruit Search (Japan) (Alt)                                                  ✗ 
 Funky Mouse (Japan)                                                         -      -     -
 Futbol (Spain)                                                              -      -     -
 Fuun Takeshijyou (Japan)                                                    ✗      -     -
-GP World (Japan)                                                            ✗      -     -
-Galaga (Japan)                                                              ✗      -     -
+GP World (Japan)                                                            -      -     -
+Galaga (Japan)                                                              -      -     -
 Galaga (Japan) (Alt 2)                                                      ✗      -     -
 Galaga (Japan) (Alt 3)                                                      ✗      -     -
 Galaga (Japan) (Alt)                                                        ✗      ✗     ✗
-Galaxian (Japan)                                                            ✗      -     -
+Galaxian (Japan)                                                            -      -     -
 Galaxian (Japan) (Alt 2)                                                    ✗      -     -
 Galaxian (Japan) (Alt)                                                      ✗      ✗     ✗
-Gall Force - Defense of Chaos (Japan)                                       ✗      -     -
+Gall Force - Defense of Chaos (Japan)                                       -      -     -
 Gall Force - Defense of Chaos (Japan) (Alt 2)                               ✗      -     -
 Gall Force - Defense of Chaos (Japan) (Alt)                                 ✗      ✗     ✗
-Gambler Jiko Chuushinha (Japan)                                             ✗      -     -
-Game Land (Japan)                                                           ✗      -     -
-Game Master (Europe)                                                        ✗      -     -
+Gambler Jiko Chuushinha (Japan)                                             -      -     -
+Game Land (Japan)                                                           -      -     -
+Game Master (Europe)                                                        -      -     -
 Game Master (Europe) (Alt)                                                  ✗      ✗     ✗
-Game Master (Japan)                                                         ✗      -     -
+Game Master (Japan)                                                         -      -     -
 Game Master (Japan) (Alt)                                                   ✗      ✗     ✗
-Game Master II (Japan)                                                      ✗      -     -
+Game Master II (Japan)                                                      -      -     -
 Game Master II (Japan) (Alt)                                                ✗      ✗     ✗
 Game World - 126 Games (Korea) (Unl)                                        ✗      -     -
-Gang Master (Japan)                                                         ✗      -     -
-Gate of Labyrinth (Japan)                                                   ✗      -     -
-Genghis Khan (Japan)                                                        ✗      -     -
-Ghostbusters (Europe)                                                       ✗      -     -
-Glider (Japan)                                                              ✗      -     -
+Gang Master (Japan)                                                         -      -     -
+Gate of Labyrinth (Japan)                                                   -      -     -
+Genghis Khan (Japan)                                                        -      -     -
+Ghostbusters (Europe)                                                       -      -     -
+Glider (Japan)                                                              -      -     -
 Glider (Japan) (Alt)                                                        ✗      ✗     ✗
 Gofer no Yabo - Episode II (Japan) (Wii U Virtual Console)                  ✗      ✗     ✗
-Gojira vs 3 Daikaijuu (Japan)                                               ✗      ✗     ✗
+Gojira vs 3 Daikaijuu (Japan)                                               -      -     -
 Gojira vs 3 Daikaijuu (Japan) (Alt)                                         ✗      ✗     ✗
-Gojira-kun (Japan)                                                          ✗      ✗     ✗
+Gojira-kun (Japan)                                                          -      -     -
 Gojira-kun (Japan) (Alt)                                                    ✗      ✗     ✗
-Gokiburi Daisakusen - Bug Bomb (Japan)                                      ✗      -     -
-Golf Game (Japan)                                                           ✗      -     -
+Gokiburi Daisakusen - Bug Bomb (Japan)                                      -      -     -
+Golf Game (Japan)                                                           -      -     -
 Golvellius (Japan)                                                          -      -     -
-Gomok Narabe - Omo Go (Japan)                                               ✗      -     -
+Gomok Narabe - Omo Go (Japan)                                               -      -     -
 Gomok Narabe - Omo Go (Japan) (Alt)                                         ✗      ✗     ✗
-Goonies, The (Japan)                                                        ✗      -     -
+Goonies, The (Japan)                                                        -      -     -
 Goonies, The (Japan) (Alt 2)                                                ✗      -     -
 Goonies, The (Japan) (Alt)                                                  ✗      ✗     ✗
-Gradius (Japan) (Wii U Virtual Console)                                     ✗      ✗     ✗
-Gradius 2 (Japan, Europe) (En) (Wii U Virtual Console)                      ✗      ✗     ✗
-Green Beret (Europe)                                                        ✗      -     -
+Gradius (Japan) (Wii U Virtual Console)                                     -      -     -
+Gradius 2 (Japan, Europe) (En) (Wii U Virtual Console)                      -      -     -
+Green Beret (Europe)                                                        -      -     -
 Green Beret (Europe) (Alt)                                                  ✗      ✗     ✗
-Grog's Revenge (Japan)                                                      ✗      -     -
+Grog's Revenge (Japan)                                                      -      -     -
 Grog's Revenge (Japan) (Alt)                                                ✗      ✗     ✗
-Guardic (Japan)                                                             ✗      -     -
+Guardic (Japan)                                                             -      -     -
 Guardic (Japan) (Alt)                                                       ✗      ✗     ✗
-Gulkave (Japan)                                                             ✗      -     -
+Gulkave (Japan)                                                             -      -     -
 Gulkave (Japan) (Alt)                                                       ✗      ✗     ✗
-Gun Fright (Japan)                                                          ✗      -     -
-Gunjin Shougi Mars (Japan)                                                  ✗      -     -
-Gyrodine (Japan)                                                            ✗      -     -
-H.E.R.O. (Japan)                                                            ✗      -     -
-Hades no Monsho (Japan)                                                     ✗      -     -
+Gun Fright (Japan)                                                          -      -     -
+Gunjin Shougi Mars (Japan)                                                  -      -     -
+Gyrodine (Japan)                                                            -      -     -
+H.E.R.O. (Japan)                                                            -      -     -
+Hades no Monsho (Japan)                                                     -      -     -
 Hades no Monsho (Japan) (Alt)                                               ✗      ✗     ✗
 Hafanuda Koi Koi - Gostop Godori (Japan)                                    ✗      -     -
-Haja No Fuin (Japan)                                                        ✗      -     -
-Hanafuta (Japan)                                                            ✗      -     -
-Hang-On (Japan)                                                             ✗      -     -
+Haja No Fuin (Japan)                                                        -      -     -
+Hanafuta (Japan)                                                            -      -     -
+Hang-On (Japan)                                                             -      -     -
 Hang-On (Japan) (Alt 2)                                                     ✗      -     -
 Hang-On (Japan) (Alt)                                                       ✗      ✗     ✗
-Harapeko Pakkun (Japan)                                                     ✗      -     -
-Harryfox MSX Special (Japan)                                                ✗      -     -
-Harryfox Yki No Maoh (Japan)                                                ✗      -     -
-Haunted Boynight (Japan)                                                    ✗      -     -
-Heavy Boxing (Japan)                                                        ✗      -     -
+Harapeko Pakkun (Japan)                                                     -      -     -
+Harryfox MSX Special (Japan)                                                -      -     -
+Harryfox Yki No Maoh (Japan)                                                -      -     -
+Haunted Boynight (Japan)                                                    -      -     -
+Heavy Boxing (Japan)                                                        -      -     -
 Heavy Boxing (Japan) (Alt)                                                  ✗      ✗     ✗
-Heist, The (Japan)                                                          ✗      -     -
-Helitank (Japan)                                                            ✗      -     -
-High Way Star (Japan)                                                       ✗      -     -
-High Way Star (Korea)                                                       ✗      -     -
+Heist, The (Japan)                                                          -      -     -
+Helitank (Japan)                                                            -      -     -
+High Way Star (Japan)                                                       -      -     -
+High Way Star (Korea)                                                       -      -     -
 Hisya (Japan)                                                               ✗      -     -
-Hitsuji Yai - Preety Sheep (Japan)                                          ✗      -     -
-Hole in One (Japan)                                                         ✗      -     -
+Hitsuji Yai - Preety Sheep (Japan)                                          -      -     -
+Hole in One (Japan)                                                         -      -     -
 Hole in One (Japan) (Alt 2)                                                 ✗      -     -
 Hole in One (Japan) (Alt 3)                                                 ✗      -     -
 Hole in One (Japan) (Alt)                                                   ✗      ✗     ✗
-Hole in One Professional (Japan)                                            ✗      -     -
+Hole in One Professional (Japan)                                            -      -     -
 Hole in One Professional (Japan) (Alt)                                      ✗      ✗     ✗
-Honkball (Japan)                                                            ✗      -     -
-Hopper (Europe)                                                             ✗      -     -
-Hudson 3D Golf (Japan)                                                      ✗      -     -
+Honkball (Japan)                                                            -      -     -
+Hopper (Europe)                                                             -      -     -
+Hudson 3D Golf (Japan)                                                      -      -     -
 Hudson 3D Golf (Japan) (Alt)                                                ✗      ✗     ✗
-Hustle! Chumy (Japan)                                                       ✗      -     -
+Hustle! Chumy (Japan)                                                       -      -     -
 Hustle! Chumy (Japan) (Alt)                                                 ✗      ✗     ✗
-Hydlide (Japan)                                                             ✗      -     -
-Hydlide 3 - The Space Memories (Japan)                                      ✗      -     -
-Hydlide II - Shine of Darkness (Japan)                                      ✗      -     -
+Hydlide (Japan)                                                             -      -     -
+Hydlide 3 - The Space Memories (Japan)                                      -      -     -
+Hydlide II - Shine of Darkness (Japan)                                      -      -     -
 Hydlide II - Shine of Darkness (Japan) (Alt)                                ✗      ✗     ✗
-Hyper Olympic 1 (Japan)                                                     ✗      -     -
-Hyper Olympic 2 (Japan)                                                     ✗      -     -
-Hyper Rally (Japan)                                                         ✗      -     -
+Hyper Olympic 1 (Japan)                                                     -      -     -
+Hyper Olympic 2 (Japan)                                                     -      -     -
+Hyper Rally (Japan)                                                         -      -     -
 Hyper Rally (Japan) (Alt 2)                                                 ✗      -     -
 Hyper Rally (Japan) (Alt 3)                                                 ✗      -     -
 Hyper Rally (Japan) (Alt)                                                   ✗      ✗     ✗
-Hyper Sports 1 (Japan)                                                      ✗      -     -
+Hyper Sports 1 (Japan)                                                      -      -     -
 Hyper Sports 1 (Japan) (Alt)                                                ✗      ✗     ✗
-Hyper Sports 2 (Japan) (Wii U Virtual Console)                              ✗      ✗     ✗
-Hyper Sports 3 (Japan)                                                      ✗      -     -
+Hyper Sports 2 (Japan) (Wii U Virtual Console)                              -      -     -
+Hyper Sports 3 (Japan)                                                      -      -     -
 Hyper Sports 3 (Japan) (Alt 2)                                              ✗      -     -
 Hyper Sports 3 (Japan) (Alt)                                                ✗      ✗     ✗
-Ice World (Japan)                                                           ✗      -     -
-Iga Ninpouten - Small Ninja (Japan)                                         ✗      -     -
-Iga Ninpouten 2 - Small Ninja 2 (Japan)                                     ✗      -     -
-Indian no Bouken (Japan)                                                    ✗      -     -
-Iriegas (Japan)                                                             ✗      -     -
-Iriegas - Theseus (Japan)                                                   ✗      -     -
+Ice World (Japan)                                                           -      -     -
+Iga Ninpouten - Small Ninja (Japan)                                         -      -     -
+Iga Ninpouten 2 - Small Ninja 2 (Japan)                                     -      -     -
+Indian no Bouken (Japan)                                                    -      -     -
+Iriegas (Japan)                                                             -      -     -
+Iriegas - Theseus (Japan)                                                   -      -     -
 Iriegas - Theseus (Japan) (Alt)                                             ✗      ✗     ✗
-Issunhoushi No Donnamondai (Japan)                                          ✗      -     -
+Issunhoushi No Donnamondai (Japan)                                          -      -     -
 Issunhoushi No Donnamondai (Japan) (Alt)                                    ✗      ✗     ✗
-J.P. Winkle (Japan)                                                         ✗      -     -
-Jagur (Japan)                                                               ✗      -     -
+J.P. Winkle (Japan)                                                         -      -     -
+Jagur (Japan)                                                               -      -     -
 Jagur (Japan) (Alt)                                                         ✗      ✗     ✗
-Janka (Japan)                                                               ✗      -     -
-Jet Set Willy (Japan)                                                       ✗      -     -
+Janka (Japan)                                                               -      -     -
+Jet Set Willy (Japan)                                                       -      -     -
 Jet Set Willy (Japan) (Alt)                                                 ✗      ✗     ✗
-Jigsaw Set (Japan)                                                          ✗      -     -
-Jissen - 4-nin Mahjong (Japan)                                              ✗      -     -
-Jump (Japan)                                                                ✗      -     -
-Jump Coaster (Japan)                                                        ✗      -     -
-Jump Land (Japan)                                                           ✗      -     -
-Jumping Rabbit (Japan)                                                      ✗      -     -
-Juno First (Japan)                                                          ✗      -     -
+Jigsaw Set (Japan)                                                          -      -     -
+Jissen - 4-nin Mahjong (Japan)                                              -      -     -
+Jump (Japan)                                                                -      -     -
+Jump Coaster (Japan)                                                        -      -     -
+Jump Land (Japan)                                                           -      -     -
+Jumping Rabbit (Japan)                                                      -      -     -
+Juno First (Japan)                                                          -      -     -
 Juno First (Japan) (Alt)                                                    ✗      ✗     ✗
-Jyan Friend (Japan)                                                         ✗      -     -
-Jyankyo (Japan)                                                             ✗      -     -
-Jyanyuu (Japan)                                                             ✗      -     -
-Kage no Densetsu - Legend of Kage, The (Japan)                              ✗      -     -
+Jyan Friend (Japan)                                                         -      -     -
+Jyankyo (Japan)                                                             -      -     -
+Jyanyuu (Japan)                                                             -      -     -
+Kage no Densetsu - Legend of Kage, The (Japan)                              -      -     -
 Kage no Densetsu - Legend of Kage, The (Japan) (Alt)                        ✗      ✗     ✗
-Karamaru (Japan)                                                            ✗      -     -
-Karuizawa (Japan)                                                           ✗      -     -
-Kekkyoku Nankyoku Dai Bouken (Japan) (Wii U Virtual Console)                ✗      ✗     ✗
-Keystone Kapers (Japan)                                                     ✗      -     -
+Karamaru (Japan)                                                            -      -     -
+Karuizawa (Japan)                                                           -      -     -
+Kekkyoku Nankyoku Dai Bouken (Japan) (Wii U Virtual Console)                -      -     -
+Keystone Kapers (Japan)                                                     -      -     -
 Keystone Kapers (Japan) (Alt)                                               ✗      ✗     ✗
-Kick It (Japan)                                                             ✗      -     -
+Kick It (Japan)                                                             -      -     -
 Kick It (Japan) (Alt)                                                       ✗      ✗     ✗
 Kinasai (Japan) (Unl)                                                       ✗      -     -
-King Knight (Japan)                                                         ✗      -     -
+King Knight (Japan)                                                         -      -     -
 King Knight (Japan) (Alt 2)                                                 ✗      -     -
 King Knight (Japan) (Alt)                                                   ✗      ✗     ✗
-King _ Balloon (Japan)                                                      ✗      -     -
+King _ Balloon (Japan)                                                      -      -     -
 King _ Balloon (Japan) (Alt)                                                ✗      ✗     ✗
-King's Valley (Japan, Europe) (En)                                          ✗      ✗     ✗
+King's Valley (Japan, Europe) (En)                                          -      -     -
 King's Valley (Japan, Europe) (En) (Alt 2)                                  ✗      ✗     ✗
 King's Valley (Japan, Europe) (En) (Alt 3)                                  ✗      ✗     ✗
 King's Valley (Japan, Europe) (En) (Alt 4)                                  ✗      ✗     ✗
 King's Valley (Japan, Europe) (En) (Alt)                                    ✗      ✗     ✗
-King's Valley II (Japan, Europe) (En)                                       ✗      ✗     ✗
-Kinnikuman - Muscle Man (Japan)                                             ✗      -     -
+King's Valley II (Japan, Europe) (En)                                       -      -     -
+Kinnikuman - Muscle Man (Japan)                                             -      -     -
 Kinnikuman - Muscle Man (Japan) (Alt)                                       ✗      ✗     ✗
-Knight Lore (Japan)                                                         ✗      -     -
+Knight Lore (Japan)                                                         -      -     -
 Knightmare - Majou Densetsu (Japan) (Alt 2)                                 ✗      -     -
 Knightmare - Majou Densetsu (Japan) (Alt)                                   ✗      ✗     ✗
-Knightmare - Majou Densetsu (Japan) (Wii U Virtual Console)                 ✗      ✗     ✗
-Knightmare II - The Maze of Galious (Japan)                                 ✗      -     -
-Knightmare III - Shalom (Japan)                                             ✗      -     -
-Knither Special (Japan)                                                     ✗      -     -
-Konami's Baseball (Japan)                                                   ✗      -     -
+Knightmare - Majou Densetsu (Japan) (Wii U Virtual Console)                 -      -     -
+Knightmare II - The Maze of Galious (Japan)                                 -      -     -
+Knightmare III - Shalom (Japan)                                             -      -     -
+Knither Special (Japan)                                                     -      -     -
+Konami's Baseball (Japan)                                                   -      -     -
 Konami's Baseball (Japan) (Alt)                                             ✗      ✗     ✗
-Konami's Billiards (Europe)                                                 ✗      -     -
-Konami's Boxing (Japan)                                                     ✗      -     -
+Konami's Billiards (Europe)                                                 -      -     -
+Konami's Boxing (Japan)                                                     -      -     -
 Konami's Boxing (Japan) (Alt 2)                                             ✗      -     -
 Konami's Boxing (Japan) (Alt)                                               ✗      ✗     ✗
-Konami's Football (Europe)                                                  ✗      -     -
+Konami's Football (Europe)                                                  -      -     -
 Konami's Football (Europe) (Alt 2)                                          ✗      -     -
 Konami's Football (Europe) (Alt)                                            ✗      ✗     ✗
-Konami's Golf (Japan)                                                       ✗      -     -
+Konami's Golf (Japan)                                                       -      -     -
 Konami's Golf (Japan) (Alt 2)                                               ✗      -     -
 Konami's Golf (Japan) (Alt)                                                 ✗      ✗     ✗
-Konami's Mahjong (Japan)                                                    ✗      -     -
-Konami's Ping-Pong (Japan)                                                  ✗      -     -
+Konami's Mahjong (Japan)                                                    -      -     -
+Konami's Ping-Pong (Japan)                                                  -      -     -
 Konami's Ping-Pong (Japan) (Alt 2)                                          ✗      -     -
 Konami's Ping-Pong (Japan) (Alt 3)                                          ✗      -     -
 Konami's Ping-Pong (Japan) (Alt)                                            ✗      ✗     ✗
-Konami's Soccer (Japan)                                                     ✗      -     -
+Konami's Soccer (Japan)                                                     -      -     -
 Konami's Soccer (Japan) (Alt 2)                                             ✗      -     -
 Konami's Soccer (Japan) (Alt 3)                                             ✗      -     -
-Konami's Soccer (Japan) (Wii U Virtual Console)                             ✗      ✗     ✗
-Konami's Tennis (Japan)                                                     ✗      -     -
+Konami's Soccer (Japan) (Wii U Virtual Console)                             -      -     -
+Konami's Tennis (Japan)                                                     -      -     -
 Konami's Tennis (Japan) (Alt)                                               ✗      ✗     ✗
-Koneko no Daibouken - Catboy (Japan)                                        ✗      -     -
-Kung Fu Acho (Japan)                                                        ✗      -     -
+Koneko no Daibouken - Catboy (Japan)                                        -      -     -
+Kung Fu Acho (Japan)                                                        -      -     -
 Kung Fu Acho (Japan) (Alt)                                                  ✗      ✗     ✗
-Kung Fu Master (Japan)                                                      ✗      -     -
+Kung Fu Master (Japan)                                                      -      -     -
 Kung Fu Master (Japan) (Alt 2)                                              ✗      -     -
 Kung Fu Master (Japan) (Alt)                                                ✗      ✗     ✗
-Kung Fu Taigun (Japan)                                                      ✗      -     -
+Kung Fu Taigun (Japan)                                                      -      -     -
 Kung Fu Taigun (Japan) (Alt)                                                ✗      ✗     ✗
-Ladder Building (Japan)                                                     ✗      -     -
-Laptick 2 (Japan)                                                           ✗      -     -
-Le Mans 2 (Europe)                                                          ✗      -     -
-Legendly Knight (Korea)                                                     ✗      -     -
+Ladder Building (Japan)                                                     -      -     -
+Laptick 2 (Japan)                                                           -      -     -
+Le Mans 2 (Europe)                                                          -      -     -
+Legendly Knight (Korea)                                                     -      -     -
 Legendly Knight (Korea) (Alt)                                               ✗      ✗     ✗
-Leonard (Spain)                                                             ✗      -     -
-Light Corridor, The (Europe)                                                ✗      -     -
-Lode Runner (Japan)                                                         ✗      -     -
+Leonard (Spain)                                                             -      -     -
+Light Corridor, The (Europe)                                                -      -     -
+Lode Runner (Japan)                                                         -      -     -
 Lode Runner (Japan) (Alt)                                                   ✗      ✗     ✗
-Lode Runner II (Japan)                                                      ✗      -     -
-Lord Over (Japan)                                                           ✗      -     -
-Lot Lot (Japan)                                                             ✗      -     -
-Lunar Ball (Japan)                                                          ✗      -     -
-M36 - A Life Planet (Japan)                                                 ✗      -     -
-MSX 21 (Japan)                                                              ✗      -     -
-MSX Baseball (Japan)                                                        ✗      -     -
+Lode Runner II (Japan)                                                      -      -     -
+Lord Over (Japan)                                                           -      -     -
+Lot Lot (Japan)                                                             -      -     -
+Lunar Ball (Japan)                                                          -      -     -
+M36 - A Life Planet (Japan)                                                 -      -     -
+MSX 21 (Japan)                                                              -      -     -
+MSX Baseball (Japan)                                                        -      -     -
 MSX Baseball (Japan) (Alt)                                                  ✗      ✗     ✗
-MSX Baseball II National (Japan)                                            ✗      -     -
-MSX Derby (Japan)                                                           ✗      -     -
-MSX Rugby (Japan)                                                           ✗      -     -
-MSX Soccer (Japan)                                                          ✗      -     -
+MSX Baseball II National (Japan)                                            -      -     -
+MSX Derby (Japan)                                                           -      -     -
+MSX Rugby (Japan)                                                           -      -     -
+MSX Soccer (Japan)                                                          -      -     -
 MSX Soccer (Japan) (Alt)                                                    ✗      ✗     ✗
-Mac Attack (Europe)                                                         ✗      -     -
-Machinegun Joe vs The Mafia (Japan)                                         ✗      -     -
-Macross (Japan)                                                             ✗      -     -
+Mac Attack (Europe)                                                         -      -     -
+Machinegun Joe vs The Mafia (Japan)                                         -      -     -
+Macross (Japan)                                                             -      -     -
 Macross (Japan) (Alt)                                                       ✗      ✗     ✗
-Magical Kid Wiz (Japan)                                                     ✗      -     -
+Magical Kid Wiz (Japan)                                                     -      -     -
 Magical Kid Wiz (Japan) (Alt 2)                                             ✗      -     -
 Magical Kid Wiz (Japan) (Alt)                                               ✗      ✗     ✗
-Magical Tree (Japan)                                                        ✗      -     -
+Magical Tree (Japan)                                                        -      -     -
 Magical Tree (Japan) (Alt)                                                  ✗      ✗     ✗
-Magical Tree (Japan) (Wii U Virtual Console)                                ✗      ✗     ✗
-Magnum Prohibition 1931 (Japan)                                             ✗      -     -
+Magical Tree (Japan) (Wii U Virtual Console)                                -      -     -
+Magnum Prohibition 1931 (Japan)                                             -      -     -
 Magnum Prohibition 1931 (Japan) (Alt)                                       ✗      ✗     ✗
-Manes (Japan)                                                               ✗      -     -
+Manes (Japan)                                                               -      -     -
 Manes (Japan) (Alt 2)                                                       ✗      -     -
 Manes (Japan) (Alt)                                                         ✗      ✗     ✗
-Mappy (Japan)                                                               ✗      -     -
+Mappy (Japan)                                                               -      -     -
 Mappy (Japan) (Alt 2)                                                       ✗      -     -
 Mappy (Japan) (Alt)                                                         ✗      ✗     ✗
-Marchen Veil I (Japan)                                                      ✗      -     -
-Marine Battle (Japan)                                                       ✗      -     -
+Marchen Veil I (Japan)                                                      -      -     -
+Marine Battle (Japan)                                                       -      -     -
 Mars II (Japan)                                                             ✗      -     -
-Mashou no Tachi Goblin (Japan)                                              ✗      -     -
+Mashou no Tachi Goblin (Japan)                                              -      -     -
 Mashou no Tachi Goblin (Japan) (Alt)                                        ✗      ✗     ✗
-Master Chess (Europe)                                                       ✗      -     -
-Megalopolis SOS (Japan)                                                     ✗      -     -
+Master Chess (Europe)                                                       -      -     -
+Megalopolis SOS (Japan)                                                     -      -     -
 Megalopolis SOS (Japan) (Alt 2)                                             ✗      -     -
 Megalopolis SOS (Japan) (Alt)                                               ✗      ✗     ✗
-Meikyuu Shinwa (Japan)                                                      ✗      -     -
+Meikyuu Shinwa (Japan)                                                      -      -     -
 Meikyuu Shinwa (Japan) (Alt)                                                ✗      ✗     ✗
-Midnight Brothers (Japan)                                                   ✗      -     -
+Midnight Brothers (Japan)                                                   -      -     -
 Midnight Brothers (Japan) (Alt)                                             ✗      ✗     ✗
-Midnight Building (Japan)                                                   ✗      -     -
-Midway (Japan)                                                              ✗      -     -
-Mil Caras (Spain)                                                           ✗      -     -
-Mini Golf (Japan)                                                           ✗      -     -
+Midnight Building (Japan)                                                   -      -     -
+Midway (Japan)                                                              -      -     -
+Mil Caras (Spain)                                                           -      -     -
+Mini Golf (Japan)                                                           -      -     -
 Mini Golf (Japan) (Alt)                                                     ✗      ✗     ✗
-Mirai - Future (Japan)                                                      ✗      -     -
-Mitsumega Toohru - Three-Eyed One Comes Here, The (Japan)                   ✗      -     -
-Moai no Hibou (Japan)                                                       ✗      -     -
-Moai no Hibou (Korea)                                                       ✗      ✗     ✗
-Mobile Planet Suthirus - Approach from the Westgate (Japan)                 ✗      -     -
-Mobile-Suit Gundam - Last Shooting (Japan)                                  ✗      -     -
+Mirai - Future (Japan)                                                      -      -     -
+Mitsumega Toohru - Three-Eyed One Comes Here, The (Japan)                   -      -     -
+Moai no Hibou (Japan)                                                       -      -     -
+Moai no Hibou (Korea)                                                       -      -     -
+Mobile Planet Suthirus - Approach from the Westgate (Japan)                 -      -     -
+Mobile-Suit Gundam - Last Shooting (Japan)                                  -      -     -
 Mobile-Suit Gundam - Last Shooting (Japan) (Alt)                            ✗      ✗     ✗
-Mokarimakka (Japan)                                                         ✗      -     -
-Mole (Japan)                                                                ✗      -     -
-Mole Mole 2 (Japan)                                                         ✗      -     -
-Monkey Academy (Japan)                                                      ✗      -     -
+Mokarimakka (Japan)                                                         -      -     -
+Mole (Japan)                                                                -      -     -
+Mole Mole 2 (Japan)                                                         -      -     -
+Monkey Academy (Japan)                                                      -      -     -
 Monkey Academy (Japan) (Alt 2)                                              ✗      -     -
 Monkey Academy (Japan) (Alt 3)                                              ✗      -     -
 Monkey Academy (Japan) (Alt)                                                ✗      ✗     ✗
-Monster's Fair (Japan)                                                      ✗      -     -
-Moon Landing (Japan)                                                        ✗      -     -
-Moon Patrol (Japan)                                                         ✗      -     -
-Moonsweeper (Japan)                                                         ✗      -     -
-Mopiranger (Japan)                                                          ✗      -     -
+Monster's Fair (Japan)                                                      -      -     -
+Moon Landing (Japan)                                                        -      -     -
+Moon Patrol (Japan)                                                         -      -     -
+Moonsweeper (Japan)                                                         -      -     -
+Mopiranger (Japan)                                                          -      -     -
 Mopiranger (Japan) (Alt 2)                                                  ✗      -     -
 Mopiranger (Japan) (Alt 3)                                                  ✗      -     -
 Mopiranger (Japan) (Alt 4)                                                  ✗      -     -
 Mopiranger (Japan) (Alt)                                                    ✗      ✗     ✗
 Morita Kazuo no Othello (Japan)                                             ✗      -     -
-Mouser (Japan)                                                              ✗      -     -
-Mr. Chin (Japan)                                                            ✗      -     -
-Mr. Do (Japan)                                                              ✗      -     -
-Mr. Do vs Unicorns (Japan)                                                  ✗      -     -
-Mr. Do's Wild Ride (Japan)                                                  ✗      -     -
-Mugen Senshi Valis - The Fantasm Soldier (Japan)                            ✗      -     -
-Nausicaa (Japan)                                                            ✗      -     -
-Nemesis (Japan, Europe) (En)                                                ✗      ✗     ✗
+Mouser (Japan)                                                              -      -     -
+Mr. Chin (Japan)                                                            -      -     -
+Mr. Do (Japan)                                                              -      -     -
+Mr. Do vs Unicorns (Japan)                                                  -      -     -
+Mr. Do's Wild Ride (Japan)                                                  -      -     -
+Mugen Senshi Valis - The Fantasm Soldier (Japan)                            -      -     -
+Nausicaa (Japan)                                                            -      -     -
+Nemesis (Japan, Europe) (En)                                                -      -     -
 Nemesis (Japan, Europe) (En) (Alt)                                          ✗      ✗     ✗
 Nemesis 2 (Japan) (Demo)                                                    ✗      -     -
 Nemesis 2 (Japan, Europe) (En) (Alt)                                        ✗      ✗     ✗
 Nemesis 2 (Japan, Europe) (En) (Beta)                                       ✗      ✗     ✗
-Nemesis 3 - The Eve of Destruction (Japan, Europe) (En)                     ✗      ✗     ✗
+Nemesis 3 - The Eve of Destruction (Japan, Europe) (En)                     -      -     -
 Nemesis 3 - The Eve of Destruction (Japan, Europe) (En) (Alt 2)             ✗      ✗     ✗
 Nemesis 3 - The Eve of Destruction (Japan, Europe) (En) (Alt)               ✗      ✗     ✗
-Nessen Koushiyen (Japan)                                                    ✗      -     -
-Night Shade (Japan)                                                         ✗      -     -
-Ninja Jajamaru-kun (Japan)                                                  ✗      -     -
-Ninja Princess (Japan)                                                      ✗      -     -
+Nessen Koushiyen (Japan)                                                    -      -     -
+Night Shade (Japan)                                                         -      -     -
+Ninja Jajamaru-kun (Japan)                                                  -      -     -
+Ninja Princess (Japan)                                                      -      -     -
 Ninja Princess (Japan) (Alt)                                                ✗      ✗     ✗
-Ninjakun (Japan)                                                            ✗      -     -
-Ninjakun Majou (Japan)                                                      ✗      -     -
-Ninjya Kage (Japan)                                                         ✗      -     -
+Ninjakun (Japan)                                                            -      -     -
+Ninjakun Majou (Japan)                                                      -      -     -
+Ninjya Kage (Japan)                                                         -      -     -
 Ninjya Kage (Japan) (Alt)                                                   ✗      ✗     ✗
-Nobunaga no Yabou - Zenkoku Ban (Japan)                                     ✗      -     -
-Nyan Nyan Pro Wrestling (Japan)                                             ✗      -     -
-Nyorols (Japan)                                                             ✗      -     -
+Nobunaga no Yabou - Zenkoku Ban (Japan)                                     -      -     -
+Nyan Nyan Pro Wrestling (Japan)                                             -      -     -
+Nyorols (Japan)                                                             -      -     -
 O'Mac Farmer (Japan)                                                        ✗      -     -
-Oil's Well (Japan)                                                          ✗      -     -
+Oil's Well (Japan)                                                          -      -     -
 Oil's Well (Japan) (Alt)                                                    ✗      ✗     ✗
-Okami no Su (Japan)                                                         ✗      -     -
-Othello (Japan)                                                             ✗      -     -
-Oyoide Tango (Japan)                                                        ✗      -     -
-Pac-Man (Japan)                                                             ✗      -     -
+Okami no Su (Japan)                                                         -      -     -
+Othello (Japan)                                                             -      -     -
+Oyoide Tango (Japan)                                                        -      -     -
+Pac-Man (Japan)                                                             -      -     -
 Pac-Man (Japan) (Alt 2)                                                     ✗      -     -
 Pac-Man (Japan) (Alt)                                                       ✗      ✗     ✗
-Pachi Com (Japan)                                                           ✗      -     -
-Pai Panic (Japan)                                                           ✗      -     -
-Pairs (Japan)                                                               ✗      -     -
+Pachi Com (Japan)                                                           -      -     -
+Pai Panic (Japan)                                                           -      -     -
+Pairs (Japan)                                                               -      -     -
 Pairs (Japan) (Alt)                                                         ✗      ✗     ✗
-Panther (Japan)                                                             ✗      -     -
+Panther (Japan)                                                             -      -     -
 Parodius (Japan) (Alt)                                                      ✗      ✗     ✗
-Parodius (Japan) (Wii U Virtual Console)                                    ✗      ✗     ✗
-Pass Ball (Japan)                                                           ✗      -     -
-Pastfinder (Japan)                                                          ✗      -     -
-Pay Load (Japan)                                                            ✗      -     -
+Parodius (Japan) (Wii U Virtual Console)                                    -      -     -
+Pass Ball (Japan)                                                           -      -     -
+Pastfinder (Japan)                                                          -      -     -
+Pay Load (Japan)                                                            -      -     -
 Pay Load (Japan) (Alt)                                                      ✗      ✗     ✗
-Peetan (Japan)                                                              ✗      -     -
-Pegasus (Japan)                                                             ✗      -     -
-Penguin Adventure (Japan, Europe) (En)                                      ✗      ✗     ✗
-Penguin-kun Wars (Japan)                                                    ✗      -     -
-Pico Pico (Japan)                                                           ✗      -     -
-Picture Puzzle (Japan)                                                      ✗      -     -
+Peetan (Japan)                                                              -      -     -
+Pegasus (Japan)                                                             -      -     -
+Penguin Adventure (Japan, Europe) (En)                                      -      -     -
+Penguin-kun Wars (Japan)                                                    -      -     -
+Pico Pico (Japan)                                                           -      -     -
+Picture Puzzle (Japan)                                                      -      -     -
 Picture Puzzle (Japan) (Alt)                                                ✗      ✗     ✗
-Pillbox (Japan)                                                             ✗      -     -
+Pillbox (Japan)                                                             -      -     -
 Pillbox (Japan) (Alt)                                                       ✗      ✗     ✗
-Pinball Blaster (Europe)                                                    ✗      -     -
-Pine Applin (Japan)                                                         ✗      -     -
+Pinball Blaster (Europe)                                                    -      -     -
+Pine Applin (Japan)                                                         -      -     -
 Pine Applin (Japan) (Alt)                                                   ✗      ✗     ✗
 Pingball Maker (Japan)                                                      ✗      -     -
-Pinky Chase (Japan)                                                         ✗      -     -
-Pipi (Japan)                                                                ✗      -     -
-Pippols (Japan)                                                             ✗      -     -
+Pinky Chase (Japan)                                                         -      -     -
+Pipi (Japan)                                                                -      -     -
+Pippols (Japan)                                                             -      -     -
 Pippols (Japan) (Alt 2)                                                     ✗      -     -
 Pippols (Japan) (Alt 3)                                                     ✗      -     -
 Pippols (Japan) (Alt)                                                       ✗      ✗     ✗
-Pitfall II - Lost Caverns (Japan)                                           ✗      -     -
+Pitfall II - Lost Caverns (Japan)                                           -      -     -
 Pitfall II - Lost Caverns (Japan) (Alt)                                     ✗      ✗     ✗
-Pitfall! (Japan)                                                            ✗      -     -
+Pitfall! (Japan)                                                            -      -     -
 Pitfall! (Japan) (Alt 2)                                                    ✗      -     -
 Pitfall! (Japan) (Alt)                                                      ✗      ✗     ✗
-Play Ball (Japan)                                                           ✗      -     -
-Poiny X Senryosakusen - Operation Thanksgiving (Japan)                      ✗      -     -
-Police Story, The (Japan)                                                   ✗      -     -
+Play Ball (Japan)                                                           -      -     -
+Poiny X Senryosakusen - Operation Thanksgiving (Japan)                      -      -     -
+Police Story, The (Japan)                                                   -      -     -
 Police Story, The (Japan) (Alt)                                             ✗      ✗     ✗
-Pooyan (Japan)                                                              ✗      -     -
-Poppaq the Fish (Japan)                                                     ✗      -     -
-Price of Magik, The (Europe)                                                ✗      -     -
-Professional Baseball (Japan)                                               ✗      -     -
-Professional Mahjong (Japan)                                                ✗      -     -
-Protector, The (Japan)                                                      ✗      -     -
-Psychic War - Cosmic Soldier 2 (Japan)                                      ✗      -     -
+Pooyan (Japan)                                                              -      -     -
+Poppaq the Fish (Japan)                                                     -      -     -
+Price of Magik, The (Europe)                                                -      -     -
+Professional Baseball (Japan)                                               -      -     -
+Professional Mahjong (Japan)                                                -      -     -
+Protector, The (Japan)                                                      -      -     -
+Psychic War - Cosmic Soldier 2 (Japan)                                      -      -     -
 Puzzle Panic (Japan)                                                        ✗      -     -
-Pyramid Warp (Japan)                                                        ✗      -     -
-Q-bert (Japan)                                                              ✗      -     -
+Pyramid Warp (Japan)                                                        -      -     -
+Q-bert (Japan)                                                              -      -     -
 Q-bert (Japan) (Alt)                                                        ✗      ✗     ✗
-Queen's Golf (Japan)                                                        ✗      -     -
+Queen's Golf (Japan)                                                        -      -     -
 Queen's Golf (Japan) (Alt 2)                                                ✗      -     -
 Queen's Golf (Japan) (Alt)                                                  ✗      ✗     ✗
-R-Type (Japan)                                                              ✗      -     -
+R-Type (Japan)                                                              -      -     -
 R-Type (Japan) (Alt 2)                                                      ✗      -     -
 R-Type (Japan) (Alt)                                                        ✗      ✗     ✗
-Raid on Bungeling Bay (Japan)                                               ✗      -     -
-Rally-X (Japan)                                                             ✗      -     -
+Raid on Bungeling Bay (Japan)                                               -      -     -
+Rally-X (Japan)                                                             -      -     -
 Rally-X (Japan) (Alt 2)                                                     ✗      -     -
 Rally-X (Japan) (Alt)                                                       ✗      ✗     ✗
-Rambo (Japan)                                                               ✗      -     -
+Rambo (Japan)                                                               -      -     -
 Rambo (Japan) (Alt 2)                                                       ✗      -     -
 Rambo (Japan) (Alt 3)                                                       ✗      -     -
 Rambo (Japan) (Alt)                                                         ✗      ✗     ✗
-Real Tennis (Japan)                                                         ✗      -     -
-Red Zone (Japan)                                                            ✗      -     -
+Real Tennis (Japan)                                                         -      -     -
+Red Zone (Japan)                                                            -      -     -
 Red Zone (Japan) (Alt)                                                      ✗      ✗     ✗
-Relics (Japan)                                                              ✗      -     -
+Relics (Japan)                                                              -      -     -
 Renju _ Ojama Dogs (Japan)                                                  ✗      -     -
-Rise Out from Dungeons (Japan)                                              ✗      -     -
+Rise Out from Dungeons (Japan)                                              -      -     -
 Rise Out from Dungeons (Japan) (Alt)                                        ✗      ✗     ✗
-River Raid (Japan)                                                          ✗      -     -
+River Raid (Japan)                                                          -      -     -
 River Raid (Japan) (Alt)                                                    ✗      ✗     ✗
 Road Fighter (Japan) (Alt)                                                  ✗      ✗     ✗
-Road Fighter (Japan) (Wii U Virtual Console)                                ✗      ✗     ✗
-Robo Wres 2001 (Japan)                                                      ✗      -     -
+Road Fighter (Japan) (Wii U Virtual Console)                                -      -     -
+Robo Wres 2001 (Japan)                                                      -      -     -
 Robofrog (Japan)                                                            ✗      -     -
 Robofrog (Japan) (Alt)                                                      ✗      ✗     ✗
-Rock'n Bolt (Japan)                                                         ✗      -     -
-Roger Rubbish (Europe)                                                      ✗      -     -
+Rock'n Bolt (Japan)                                                         -      -     -
+Roger Rubbish (Europe)                                                      -      -     -
 Roger Rubbish (Europe) (Alt)                                                ✗      ✗     ✗
-Roller Ball (Japan)                                                         ✗      -     -
+Roller Ball (Japan)                                                         -      -     -
 Roller Ball (Japan) (Alt)                                                   ✗      ✗     ✗
-Rotors (Japan)                                                              ✗      -     -
-Salamander (Japan) (Wii U Virtual Console)                                  ✗      ✗     ✗
-Sangokushi (Japan)                                                          ✗      -     -
+Rotors (Japan)                                                              -      -     -
+Salamander (Japan) (Wii U Virtual Console)                                  -      -     -
+Sangokushi (Japan)                                                          -      -     -
 Sangokushi (Japan) (Alt)                                                    ✗      ✗     ✗
-Sasa (Japan)                                                                ✗      -     -
+Sasa (Japan)                                                                -      -     -
 Sasa (Japan) (Alt)                                                          ✗      ✗     ✗
-Saurus Land (Japan)                                                         ✗      -     -
-Scarlet 7 - The Mightiest Women (Japan)                                     ✗      -     -
-Scion (Japan)                                                               ✗      -     -
-Scope On - Fight in Space (Japan)                                           ✗      -     -
-Scramble Eggs (Japan)                                                       ✗      -     -
-Sea Hunter (Europe)                                                         ✗      -     -
-Senjo no Ookami (Japan)                                                     ✗      -     -
-Senjyo (Japan)                                                              ✗      -     -
+Saurus Land (Japan)                                                         -      -     -
+Scarlet 7 - The Mightiest Women (Japan)                                     -      -     -
+Scion (Japan)                                                               -      -     -
+Scope On - Fight in Space (Japan)                                           -      -     -
+Scramble Eggs (Japan)                                                       -      -     -
+Sea Hunter (Europe)                                                         -      -     -
+Senjo no Ookami (Japan)                                                     -      -     -
+Senjyo (Japan)                                                              -      -     -
 Senjyo (Japan) (Alt)                                                        ✗      ✗     ✗
-Sewer Sam (Japan)                                                           ✗      -     -
-Shougi (Japan)                                                              ✗      -     -
-Shougi 2 (Japan)                                                            ✗      -     -
-Shougi Game (Japan)                                                         ✗      -     -
-Shougi Meijin (Japan)                                                       ✗      -     -
+Sewer Sam (Japan)                                                           -      -     -
+Shougi (Japan)                                                              -      -     -
+Shougi 2 (Japan)                                                            -      -     -
+Shougi Game (Japan)                                                         -      -     -
+Shougi Meijin (Japan)                                                       -      -     -
 Shougi Sinan 1 (Japan)                                                      ✗      -     -
-Shout Match (Japan)                                                         ✗      -     -
-Sinbad (Japan)                                                              ✗      -     -
-Skooter (Japan)                                                             ✗      -     -
+Shout Match (Japan)                                                         -      -     -
+Sinbad (Japan)                                                              -      -     -
+Skooter (Japan)                                                             -      -     -
 Skooter (Japan) (Alt)                                                       ✗      ✗     ✗
-Sky Galdo (Japan)                                                           ✗      -     -
-Sky Jaguar (Japan) (Wii U Virtual Console)                                  ✗      ✗     ✗
-Slapshot (Spain)                                                            ✗      -     -
-Snake It (Europe)                                                           ✗      -     -
-Sofia (Japan)                                                               ✗      -     -
-Soukoban (Japan)                                                            ✗      -     -
+Sky Galdo (Japan)                                                           -      -     -
+Sky Jaguar (Japan) (Wii U Virtual Console)                                  -      -     -
+Slapshot (Spain)                                                            -      -     -
+Snake It (Europe)                                                           -      -     -
+Sofia (Japan)                                                               -      -     -
+Soukoban (Japan)                                                            -      -     -
 Soukoban (Japan) (Alt 2)                                                    ✗      -     -
 Soukoban (Japan) (Alt)                                                      ✗      ✗     ✗
-Space Camp (Japan)                                                          ✗      -     -
+Space Camp (Japan)                                                          -      -     -
 Space Camp (Japan) (Alt)                                                    ✗      ✗     ✗
-Space Invaders (Japan)                                                      ✗      -     -
-Space Maze Attack (Japan)                                                   ✗      -     -
+Space Invaders (Japan)                                                      -      -     -
+Space Maze Attack (Japan)                                                   -      -     -
 Space Maze Attack (Japan) (Alt 2)                                           ✗      -     -
 Space Maze Attack (Japan) (Alt)                                             ✗      ✗     ✗
-Space Trouble (Japan)                                                       ✗      -     -
-Space Walk (Europe)                                                         ✗      -     -
-Sparkie (Japan)                                                             ✗      -     -
+Space Trouble (Japan)                                                       -      -     -
+Space Walk (Europe)                                                         -      -     -
+Sparkie (Japan)                                                             -      -     -
 Sparkie (Japan) (Alt)                                                       ✗      ✗     ✗
-Spelunker (Japan)                                                           ✗      -     -
+Spelunker (Japan)                                                           -      -     -
 Spelunker (Japan) (Alt)                                                     ✗      ✗     ✗
-Spider, The (Japan)                                                         ✗      -     -
-Spy vs Spy II - The Island Caper (Europe)                                   ✗      -     -
-Square Dancer (Japan)                                                       ✗      -     -
-Squish'em (Japan)                                                           ✗      -     -
+Spider, The (Japan)                                                         -      -     -
+Spy vs Spy II - The Island Caper (Europe)                                   -      -     -
+Square Dancer (Japan)                                                       -      -     -
+Squish'em (Japan)                                                           -      -     -
 Squish'em (Japan) (Alt)                                                     ✗      ✗     ✗
-Star Blazer (Japan)                                                         ✗      -     -
+Star Blazer (Japan)                                                         -      -     -
 Star Blazer (Japan) (Alt 2)                                                 ✗      -     -
 Star Blazer (Japan) (Alt)                                                   ✗      ✗     ✗
-Star Command (Japan)                                                        ✗      -     -
-Star Force (Japan)                                                          ✗      -     -
+Star Command (Japan)                                                        -      -     -
+Star Force (Japan)                                                          -      -     -
 Star Force (Japan) (Alt)                                                    ✗      ✗     ✗
-Star Soldier (Japan)                                                        ✗      -     -
+Star Soldier (Japan)                                                        -      -     -
 Star Soldier (Japan) (Alt)                                                  ✗      ✗     ✗
 Star Trap (Japan)                                                           ✗      -     -
-Starship Simulator (Japan)                                                  ✗      -     -
+Starship Simulator (Japan)                                                  -      -     -
 Starship Simulator (Japan) (Alt)                                            ✗      ✗     ✗
-Step Up (Japan)                                                             ✗      -     -
+Step Up (Japan)                                                             -      -     -
 Step Up (Japan) (Alt)                                                       ✗      ✗     ✗
-Stepper (Japan)                                                             ✗      -     -
-Stone of Wisdom, The (Japan)                                                ✗      -     -
-Strange Loop (Japan)                                                        ✗      -     -
-Suparobo (Japan)                                                            ✗      -     -
-Super Billiards (Japan)                                                     ✗      -     -
+Stepper (Japan)                                                             -      -     -
+Stone of Wisdom, The (Japan)                                                -      -     -
+Strange Loop (Japan)                                                        -      -     -
+Suparobo (Japan)                                                            -      -     -
+Super Billiards (Japan)                                                     -      -     -
 Super Bioman 4 (Korea) (Unl)                                                ✗      -     -
 Super Boy 3 (Korea) (Unl)                                                   ✗      -     -
 Super Boy I (Korea) (Unl)                                                   ✗      -     -
 Super Boy II (Korea) (Unl)                                                  ✗      -     -
 Super Bubble Bobble (Korea) (Unl)                                           ✗      -     -
-Super Cobra (Japan)                                                         ✗      -     -
+Super Cobra (Japan)                                                         -      -     -
 Super Cobra (Japan) (Alt)                                                   ✗      ✗     ✗
-Super Columns (Japan)                                                       ✗      -     -
-Super Cross Force (Europe)                                                  ✗      -     -
-Super Drinker (Japan)                                                       ✗      -     -
-Super Golf (Japan)                                                          ✗      -     -
-Super Laydock - Mission Striker (Japan)                                     ✗      -     -
-Super Pachinko (Japan)                                                      ✗      -     -
-Super Pierrot (Japan)                                                       ✗      -     -
-Super Snake (Japan)                                                         ✗      -     -
+Super Columns (Japan)                                                       -      -     -
+Super Cross Force (Europe)                                                  -      -     -
+Super Drinker (Japan)                                                       -      -     -
+Super Golf (Japan)                                                          -      -     -
+Super Laydock - Mission Striker (Japan)                                     -      -     -
+Super Pachinko (Japan)                                                      -      -     -
+Super Pierrot (Japan)                                                       -      -     -
+Super Snake (Japan)                                                         -      -     -
 Super Snake (Japan) (Alt 2)                                                 ✗      -     -
 Super Snake (Japan) (Alt)                                                   ✗      ✗     ✗
-Super Soccer (Japan)                                                        ✗      -     -
-Super Tennis (Japan)                                                        ✗      -     -
-Super Tripper (Spain)                                                       ✗      -     -
-Sweet Acorn (Japan)                                                         ✗      -     -
+Super Soccer (Japan)                                                        -      -     -
+Super Tennis (Japan)                                                        -      -     -
+Super Tripper (Spain)                                                       -      -     -
+Sweet Acorn (Japan)                                                         -      -     -
 Sweet Acorn (Japan) (Alt)                                                   ✗      ✗     ✗
-Swing (Japan)                                                               ✗      -     -
+Swing (Japan)                                                               -      -     -
 Swing (Japan) (Alt)                                                         ✗      ✗     ✗
-Syougun (Japan)                                                             ✗      -     -
-TZR - Grand Prix Rider (Japan)                                              ✗      -     -
-Tank Battalion (Japan)                                                      ✗      -     -
-Tatica (Japan)                                                              ✗      -     -
-Tawara-kun (Japan)                                                          ✗      -     -
+Syougun (Japan)                                                             -      -     -
+TZR - Grand Prix Rider (Japan)                                              -      -     -
+Tank Battalion (Japan)                                                      -      -     -
+Tatica (Japan)                                                              -      -     -
+Tawara-kun (Japan)                                                          -      -     -
 Tawara-kun (Japan) (Alt 2)                                                  ✗      -     -
 Tawara-kun (Japan) (Alt)                                                    ✗      ✗     ✗
-Tear of Nile (Japan)                                                        ✗      -     -
-Telebunnie (Japan)                                                          ✗      -     -
+Tear of Nile (Japan)                                                        -      -     -
+Telebunnie (Japan)                                                          -      -     -
 Telebunnie (Japan) (Alt)                                                    ✗      ✗     ✗
-Tensai Rabbian Daifunsen (Japan)                                            ✗      -     -
-Tensidachino Gogo (Japan)                                                   ✗      -     -
-Tension (Spain)                                                             ✗      -     -
-Tetra Horror (Japan)                                                        ✗      -     -
+Tensai Rabbian Daifunsen (Japan)                                            -      -     -
+Tensidachino Gogo (Japan)                                                   -      -     -
+Tension (Spain)                                                             -      -     -
+Tetra Horror (Japan)                                                        -      -     -
 Tetra Horror (Japan) (Alt)                                                  ✗      ✗     ✗
 Tetris (Korea) (Unl)                                                        ✗      -     -
-Tetsuman (Japan)                                                            ✗      -     -
+Tetsuman (Japan)                                                            -      -     -
 Tetsuman (Japan) (Alt)                                                      ✗      ✗     ✗
-Thexder (Japan)                                                             ✗      -     -
+Thexder (Japan)                                                             -      -     -
 Thexder (Japan) (Alt 2)                                                     ✗      -     -
 Thexder (Japan) (Alt)                                                       ✗      ✗     ✗
-Thunder Ball (Japan)                                                        ✗      -     -
+Thunder Ball (Japan)                                                        -      -     -
 Thunder Ball (Japan) (Alt)                                                  ✗      ✗     ✗
-Thunderbolt (Japan)                                                         ✗      -     -
+Thunderbolt (Japan)                                                         -      -     -
 Thunderbolt (Japan) (Alt 2)                                                 ✗      -     -
 Thunderbolt (Japan) (Alt)                                                   ✗      ✗     ✗
-Time Pilot (Japan)                                                          ✗      -     -
+Time Pilot (Japan)                                                          -      -     -
 Time Pilot (Japan) (Alt)                                                    ✗      ✗     ✗
-Toobin (Europe)                                                             ✗      -     -
-Top Roller! (Japan)                                                         ✗      -     -
-Topple Zip (Japan)                                                          ✗      -     -
-Track _ Field 1 (Europe)                                                    ✗      -     -
-Track _ Field 2 (Europe)                                                    ✗      -     -
-Traffic (Japan)                                                             ✗      -     -
+Toobin (Europe)                                                             -      -     -
+Top Roller! (Japan)                                                         -      -     -
+Topple Zip (Japan)                                                          -      -     -
+Track _ Field 1 (Europe)                                                    -      -     -
+Track _ Field 2 (Europe)                                                    -      -     -
+Traffic (Japan)                                                             -      -     -
 Traffic (Japan) (Alt)                                                       ✗      ✗     ✗
-Trial Ski (Japan)                                                           ✗      -     -
-Trick Boy (Japan)                                                           ✗      -     -
-Tritorn (Japan)                                                             ✗      -     -
-Trumpaid (Japan)                                                            ✗      -     -
-Tumego 120 (Japan)                                                          ✗      -     -
-Turboat (Japan)                                                             ✗      -     -
+Trial Ski (Japan)                                                           -      -     -
+Trick Boy (Japan)                                                           -      -     -
+Tritorn (Japan)                                                             -      -     -
+Trumpaid (Japan)                                                            -      -     -
+Tumego 120 (Japan)                                                          -      -     -
+Turboat (Japan)                                                             -      -     -
 Turmoil (Japan) (Alt)                                                       ✗      ✗     ✗
 Twin Bee (Japan) (Alt 2)                                                    ✗      -     -
 Twin Bee (Japan) (Alt 3)                                                    ✗      -     -
 Twin Bee (Japan) (Alt)                                                      ✗      ✗     ✗
-Twin Bee (Japan) (Wii U Virtual Console)                                    ✗      ✗     ✗
+Twin Bee (Japan) (Wii U Virtual Console)                                    -      -     -
 Twin Hammer (Europe)                                                        ✗      -     -
-Ultraman (Japan)                                                            ✗      -     -
-Vaxol - Heavy Armed Storm Vehicle (Japan)                                   ✗      -     -
-Venus Fire (Japan)                                                          ✗      -     -
-Video Hustler (Japan)                                                       ✗      -     -
+Ultraman (Japan)                                                            -      -     -
+Vaxol - Heavy Armed Storm Vehicle (Japan)                                   -      -     -
+Venus Fire (Japan)                                                          -      -     -
+Video Hustler (Japan)                                                       -      -     -
 Video Hustler (Japan) (Alt)                                                 ✗      ✗     ✗
-Volguard (Japan)                                                            ✗      -     -
-Warp _ Warp (Japan)                                                         ✗      -     -
-Warrior (Japan)                                                             ✗      ✗     ✗
-Warroid (Japan)                                                             ✗      -     -
+Volguard (Japan)                                                            -      -     -
+Warp _ Warp (Japan)                                                         -      -     -
+Warrior (Japan)                                                             -      -     -
+Warroid (Japan)                                                             -      -     -
 Warroid (Japan) (Alt)                                                       ✗      ✗     ✗
-Water Driver (Japan)                                                        ✗      -     -
-Wing Man 2 (Japan)                                                          ✗      -     -
-Wonder Boy (Japan)                                                          ✗      -     -
+Water Driver (Japan)                                                        -      -     -
+Wing Man 2 (Japan)                                                          -      -     -
+Wonder Boy (Japan)                                                          -      -     -
 Wonder Boy (Japan) (Alt)                                                    ✗      ✗     ✗
-Wrangler (Spain)                                                            ✗      -     -
-Wreck, The (Europe)                                                         ✗      -     -
-Xyxolog (Japan)                                                             ✗      -     -
+Wrangler (Spain)                                                            -      -     -
+Wreck, The (Europe)                                                         -      -     -
+Xyxolog (Japan)                                                             -      -     -
 Xyxolog (Japan) (Alt)                                                       ✗      ✗     ✗
 Yab Yum (Netherlands)                                                       ✗      -     -
 Yellow Submarine (Japan)                                                    ✗      -     -
 Yie Ar Kung-Fu (Japan) (Alt)                                                ✗      ✗     ✗
-Yie Ar Kung-Fu (Japan) (Wii U Virtual Console)                              ✗      ✗     ✗
-Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan)                             ✗      -     -
+Yie Ar Kung-Fu (Japan) (Wii U Virtual Console)                              -      -     -
+Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan)                             -      -     -
 Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan) (Alt 2)                     ✗      -     -
 Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan) (Alt)                       ✗      ✗     ✗
-Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan) (Wii U Virtual Console)     ✗      ✗     ✗
-Yokai Tanken Chimachima (Japan)                                             ✗      -     -
-Young Sherlock - The Legacy of Doyle (Japan)                                ✗      -     -
-Yume Tairiku Adventure (Japan) (Wii U Virtual Console)                      ✗      ✗     ✗
-Zaider - Battle of Peguss (Japan)                                           ✗      -     -
+Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan) (Wii U Virtual Console)     -      -     -
+Yokai Tanken Chimachima (Japan)                                             -      -     -
+Young Sherlock - The Legacy of Doyle (Japan)                                -      -     -
+Yume Tairiku Adventure (Japan) (Wii U Virtual Console)                      -      -     -
+Zaider - Battle of Peguss (Japan)                                           -      -     -
 Zaider - Battle of Peguss (Japan) (Alt)                                     ✗      ✗     ✗
-Zanac (Japan)                                                               ✗      -     -
+Zanac (Japan)                                                               -      -     -
 Zanac (Japan) (Alt)                                                         ✗      ✗     ✗
-Zanac (Japan) (v2)                                                          ✗      -     -
+Zanac (Japan) (v2)                                                          -      -     -
 Zanac (Japan) (v2) (Alt)                                                    ✗      ✗     ✗
-Zaxxon (Japan)                                                              ✗      -     -
+Zaxxon (Japan)                                                              -      -     -
 Zaxxon (Japan) (Alt)                                                        ✗      ✗     ✗
-Zenji (Japan)                                                               ✗      -     -
-Zexas Limited (Japan)                                                       ✗      -     -
+Zenji (Japan)                                                               -      -     -
+Zexas Limited (Japan)                                                       -      -     -
 Zexas Limited (Japan) (Alt 2)                                               ✗      -     -
 Zexas Limited (Japan) (Alt)                                                 ✗      ✗     ✗
-Zoom 909 (Japan)                                                            ✗      -     -
+Zoom 909 (Japan)                                                            -      -     -

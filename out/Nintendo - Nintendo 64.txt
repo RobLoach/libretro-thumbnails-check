@@ -2,8 +2,8 @@ Nintendo - Nintendo 64 Missing
 
 Boxarts  1033/1133  91.17%
 Snaps     930/1133  82.08%
-Titles    933/1133  82.35%
-Total    2896/3399  85.20%
+Titles    961/1133  84.82%
+Total    2924/3399  86.03%
 
 Name                                                                                       Boxart  Snap  Title
 007 - The World Is Not Enough (Europe) (En,Fr,De)                                             -      -     -
@@ -169,9 +169,9 @@ Cruis'n USA (Europe)                                                            
 Cruis'n USA (USA)                                                                             -      -     -
 Cruis'n USA (USA) (Rev 1)                                                                     -      -     -
 Cruis'n USA (USA) (Rev 2)                                                                     -      -     -
-Cruis'n USA (USA) (Wii Virtual Console)                                                       -      ✗     ✗
+Cruis'n USA (USA) (Wii Virtual Console)                                                       -      ✗     -
 Cruis'n World (Europe)                                                                        -      -     -
-Cruis'n World (Europe) (Rev 1)                                                                -      ✗     ✗
+Cruis'n World (Europe) (Rev 1)                                                                -      ✗     -
 Cruis'n World (USA)                                                                           -      -     -
 Custom Robo (Japan)                                                                           -      -     -
 Custom Robo V2 (Japan)                                                                        -      -     -
@@ -234,7 +234,7 @@ Duke Nukem 64 (Europe) (Beta)                                                   
 Duke Nukem 64 (France)                                                                        -      -     -
 Duke Nukem 64 (USA)                                                                           -      -     -
 ECW Hardcore Revolution (Europe)                                                              -      -     -
-ECW Hardcore Revolution (Germany)                                                             -      ✗     ✗
+ECW Hardcore Revolution (Germany)                                                             -      ✗     -
 ECW Hardcore Revolution (USA)                                                                 -      -     -
 ECW Hardcore Revolution (USA) (Beta)                                                          -      ✗     ✗
 EEPROM _ SRAM Erase Program (USA) (v1.2) (LodgeNet)                                           ✗      ✗     ✗
@@ -333,7 +333,7 @@ Golden Nugget 64 (USA)                                                          
 GoldenEye 007 (Europe)                                                                        -      -     -
 GoldenEye 007 (Japan)                                                                         -      -     -
 GoldenEye 007 (USA)                                                                           -      -     -
-GoldenEye 007 (USA, Europe) (Switch Online)                                                   ✗      ✗     ✗
+GoldenEye 007 (USA, Europe) (Switch Online)                                                   ✗      ✗     -
 HSV Adventure Racing! (Australia)                                                             -      -     -
 Hamster Monogatari 64 (Japan)                                                                 -      -     -
 Harukanaru Augusta - Masters '98 (Japan)                                                      -      -     -
@@ -385,7 +385,7 @@ International Superstar Soccer '98 (USA)                                        
 International Superstar Soccer 2000 (Europe) (En,De)                                          -      -     -
 International Superstar Soccer 2000 (Europe) (Fr,It)                                          -      -     -
 International Superstar Soccer 2000 (USA) (En,Es)                                             -      -     -
-International Superstar Soccer 2000 (USA) (En,Es) (Rev 1)                                     -      ✗     ✗
+International Superstar Soccer 2000 (USA) (En,Es) (Rev 1)                                     -      ✗     -
 International Superstar Soccer 64 (Europe)                                                    -      -     -
 International Superstar Soccer 64 (USA)                                                       -      -     -
 International Track _ Field - Summer Games (Europe) (En,Fr,De)                                -      -     -
@@ -455,7 +455,7 @@ Last Legion UX (Japan)                                                          
 Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es)                                   -      -     -
 Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1)                           -      -     -
 Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Debug)                   -      -     -
-Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Wii Virtual Console)     -      ✗     ✗
+Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Wii Virtual Console)     -      ✗     -
 Legend of Zelda, The - Majora's Mask (Europe) (GameCube)                                      -      -     -
 Legend of Zelda, The - Majora's Mask (USA)                                                    -      -     -
 Legend of Zelda, The - Majora's Mask (USA) (Demo) (Kiosk)                                     -      -     -
@@ -473,7 +473,7 @@ Legend of Zelda, The - Ocarina of Time (USA) (LodgeNet)                         
 Legend of Zelda, The - Ocarina of Time (USA) (Rev 1)                                          -      -     -
 Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)                                          -      -     -
 Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube)                     -      -     -
-Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube) (Debug)             ✗      ✗     ✗
+Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube) (Debug)             ✗      ✗     -
 Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)                        -      -     -
 Let's Smash (Japan)                                                                           -      -     -
 Lode Runner 3-D (Europe) (En,Fr,De,Es,It)                                                     -      -     -
@@ -495,7 +495,7 @@ Madden NFL 2002 (USA)                                                           
 Madden NFL 99 (Europe)                                                                        -      -     -
 Madden NFL 99 (USA)                                                                           -      -     -
 Madden NFL 99 (USA) (1998-08-05) (Beta)                                                       ✗      ✗     ✗
-Madden NFL 99 (USA) (Rev 1)                                                                   -      ✗     ✗
+Madden NFL 99 (USA) (Rev 1)                                                                   -      ✗     -
 Magical Tetris Challenge (Europe)                                                             -      -     -
 Magical Tetris Challenge (Germany)                                                            -      -     -
 Magical Tetris Challenge (USA)                                                                -      -     -
@@ -527,11 +527,11 @@ Mario Party (Europe) (En,Fr,De)                                                 
 Mario Party (Japan)                                                                           -      -     -
 Mario Party (USA)                                                                             -      -     -
 Mario Party 2 (Europe) (En,Fr,De,Es,It)                                                       -      -     -
-Mario Party 2 (Europe) (En,Fr,De,Es,It) (Wii Virtual Console)                                 -      ✗     ✗
+Mario Party 2 (Europe) (En,Fr,De,Es,It) (Wii Virtual Console)                                 -      ✗     -
 Mario Party 2 (Japan)                                                                         -      -     -
-Mario Party 2 (Japan) (Wii Virtual Console)                                                   -      ✗     ✗
+Mario Party 2 (Japan) (Wii Virtual Console)                                                   -      ✗     -
 Mario Party 2 (USA)                                                                           -      -     -
-Mario Party 2 (USA) (Wii Virtual Console)                                                     -      ✗     ✗
+Mario Party 2 (USA) (Wii Virtual Console)                                                     -      ✗     -
 Mario Party 3 (Europe) (En,Fr,De,Es)                                                          -      -     -
 Mario Party 3 (Japan)                                                                         -      -     -
 Mario Party 3 (USA)                                                                           -      -     -
@@ -539,12 +539,12 @@ Mario Party 3 (USA) (Beta)                                                      
 Mario Party 3 (USA) (LodgeNet)                                                                ✗      ✗     ✗
 Mario Story (Japan)                                                                           -      -     -
 Mario Tennis (Europe)                                                                         -      -     -
-Mario Tennis (Europe) (Wii Virtual Console)                                                   -      ✗     ✗
+Mario Tennis (Europe) (Wii Virtual Console)                                                   -      ✗     -
 Mario Tennis (USA)                                                                            -      -     -
 Mario Tennis (USA) (LodgeNet)                                                                 ✗      ✗     ✗
-Mario Tennis (USA) (Wii Virtual Console)                                                      -      ✗     ✗
+Mario Tennis (USA) (Wii Virtual Console)                                                      -      ✗     -
 Mario Tennis 64 (Japan)                                                                       -      -     -
-Mario Tennis 64 (Japan) (Wii Virtual Console)                                                 -      ✗     ✗
+Mario Tennis 64 (Japan) (Wii Virtual Console)                                                 -      ✗     -
 Mario no Photopie (Japan)                                                                     -      -     -
 Mega Man 64 (USA)                                                                             -      -     -
 Mega Man 64 (USA) (Beta)                                                                      -      -     -
@@ -571,7 +571,7 @@ Mission - Impossible (France)                                                   
 Mission - Impossible (Germany)                                                                -      -     -
 Mission - Impossible (Italy)                                                                  -      -     -
 Mission - Impossible (Spain)                                                                  -      -     -
-Mission - Impossible (Spain) (Rev 1)                                                          -      ✗     ✗
+Mission - Impossible (Spain) (Rev 1)                                                          -      ✗     -
 Mission - Impossible (USA)                                                                    -      -     -
 Monaco Grand Prix (USA)                                                                       -      -     -
 Monaco Grand Prix - Racing Simulation 2 (Europe) (En,Fr,Es,It)                                -      -     -
@@ -661,10 +661,10 @@ O.D.T. (USA) (En,Fr,Es) (Proto)                                                 
 Off Road Challenge (Europe)                                                                   -      -     -
 Off Road Challenge (USA)                                                                      -      -     -
 Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1)                                     -      -     -
-Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console)               -      ✗     ✗
+Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console)               -      ✗     -
 Ogre Battle 64 - Person of Lordly Caliber (USA)                                               -      -     -
 Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1)                                       -      -     -
-Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console)         -      ✗     ✗
+Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console)         -      ✗     -
 Olympic Hockey 98 (Europe) (En,Fr,De,Es)                                                      -      -     -
 Olympic Hockey 98 (Japan)                                                                     -      -     -
 Olympic Hockey 98 (USA)                                                                       -      -     -
@@ -694,20 +694,20 @@ Pilotwings 64 (Japan)                                                           
 Pilotwings 64 (USA)                                                                           -      -     -
 Pilotwings 64 (USA) (LodgeNet)                                                                ✗      ✗     ✗
 Pokemon Puzzle League (Europe)                                                                -      -     -
-Pokemon Puzzle League (Europe) (Wii Virtual Console)                                          -      ✗     ✗
+Pokemon Puzzle League (Europe) (Wii Virtual Console)                                          -      ✗     -
 Pokemon Puzzle League (France)                                                                -      -     -
-Pokemon Puzzle League (France) (Wii Virtual Console)                                          -      ✗     ✗
+Pokemon Puzzle League (France) (Wii Virtual Console)                                          -      ✗     -
 Pokemon Puzzle League (Germany)                                                               -      -     -
-Pokemon Puzzle League (Germany) (Wii Virtual Console)                                         -      ✗     ✗
+Pokemon Puzzle League (Germany) (Wii Virtual Console)                                         -      ✗     -
 Pokemon Puzzle League (USA)                                                                   -      -     -
-Pokemon Puzzle League (USA) (Wii Virtual Console)                                             -      ✗     ✗
+Pokemon Puzzle League (USA) (Wii Virtual Console)                                             -      ✗     -
 Pokemon Snap (Australia)                                                                      -      -     -
 Pokemon Snap (Europe)                                                                         -      -     -
 Pokemon Snap (France)                                                                         -      -     -
 Pokemon Snap (Germany)                                                                        -      -     -
 Pokemon Snap (Italy)                                                                          -      -     -
 Pokemon Snap (Japan)                                                                          -      -     -
-Pokemon Snap (Japan) (Rev 1) (Wii Virtual Console)                                            -      ✗     ✗
+Pokemon Snap (Japan) (Rev 1) (Wii Virtual Console)                                            -      ✗     -
 Pokemon Snap (Spain)                                                                          -      -     -
 Pokemon Snap (USA)                                                                            -      -     -
 Pokemon Snap (USA) (LodgeNet)                                                                 ✗      ✗     ✗
@@ -868,7 +868,7 @@ SpaceStation Silicon Valley (USA)                                               
 SpaceStation Silicon Valley (USA) (Rev 1)                                                     -      -     -
 Spider-Man (USA)                                                                              -      -     -
 Star Fox 64 (Japan)                                                                           -      -     -
-Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console)                                             -      ✗     ✗
+Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console)                                             -      ✗     -
 Star Fox 64 (USA)                                                                             -      -     -
 Star Fox 64 (USA) (LodgeNet)                                                                  ✗      ✗     ✗
 Star Fox 64 (USA) (Rev 1)                                                                     -      -     -
@@ -931,7 +931,7 @@ Tarzan (Germany)                                                                
 Tarzan (USA)                                                                                  -      -     -
 Taz Express (Europe) (En,Fr,De,Es,It,Nl)                                                      -      -     -
 Taz Express (USA) (Proto) (2000-05-15)                                                        -      -     -
-Telefoot Soccer 2000 (France)                                                                 -      ✗     ✗
+Telefoot Soccer 2000 (France)                                                                 -      ✗     -
 Tetris 64 (Japan) (En)                                                                        -      -     -
 Tetrisphere (Europe)                                                                          -      -     -
 Tetrisphere (USA)                                                                             -      -     -
@@ -964,7 +964,7 @@ Top Gear Overdrive (Europe)                                                     
 Top Gear Overdrive (Japan)                                                                    -      -     -
 Top Gear Overdrive (USA)                                                                      -      -     -
 Top Gear Overdrive (USA) (Beta)                                                               ✗      ✗     ✗
-Top Gear Rally (Asia) (En)                                                                    -      ✗     ✗
+Top Gear Rally (Asia) (En)                                                                    -      ✗     -
 Top Gear Rally (Europe)                                                                       -      -     -
 Top Gear Rally (Japan)                                                                        -      -     -
 Top Gear Rally (USA)                                                                          -      -     -
@@ -1125,11 +1125,11 @@ Zelda no Densetsu - Mujura no Kamen (Japan)                                     
 Zelda no Densetsu - Mujura no Kamen (Japan) (GameCube)                                        -      -     -
 Zelda no Densetsu - Mujura no Kamen (Japan) (Rev 1)                                           -      -     -
 Zelda no Densetsu - Toki no Ocarina (Japan)                                                   -      -     -
-Zelda no Densetsu - Toki no Ocarina (Japan) (GameCube, Zelda Collection)                      -      ✗     ✗
+Zelda no Densetsu - Toki no Ocarina (Japan) (GameCube, Zelda Collection)                      -      ✗     -
 Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 1)                                           -      -     -
 Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 2)                                           -      -     -
-Zelda no Densetsu - Toki no Ocarina GC (Japan) (GameCube)                                     -      ✗     ✗
-Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube)                                 -      ✗     ✗
+Zelda no Densetsu - Toki no Ocarina GC (Japan) (GameCube)                                     -      ✗     -
+Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube)                                 -      ✗     -
 Zhipian Maliou (China) (v2) (Manual)                                                          -      ✗     ✗
 Zhipian Maliou (China) (v4)                                                                   -      ✗     ✗
 Zhipian Maliou (China) (v4) (Manual)                                                          -      ✗     ✗

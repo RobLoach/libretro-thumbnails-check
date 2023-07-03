@@ -28,6 +28,7 @@ Named_Boxarts/Black Hole (Europe).png
 Named_Boxarts/Black Hole (Japan, USA).png
 Named_Boxarts/Buck Rogers - Planet of Zoom (World).png
 Named_Boxarts/Catch-a-Snatch (Europe).png
+Named_Boxarts/Cave-in (World).png
 Named_Boxarts/Centipede (Japan, USA).png
 Named_Boxarts/Choplifter (Europe).png
 Named_Boxarts/Choplifter (Japan, USA) (Alt).png
@@ -81,6 +82,7 @@ Named_Boxarts/Lazer Zone (World).png
 Named_Boxarts/Lode Runner (World).png
 Named_Boxarts/Lunar Leeper (Japan, USA).png
 Named_Boxarts/Mastertype (World).png
+Named_Boxarts/Menagerie (World).png
 Named_Boxarts/Meteor Run (Europe).png
 Named_Boxarts/Mine Madness (Japan, USA).png
 Named_Boxarts/Miner 2049'er (Europe) (Alt).png
@@ -93,6 +95,7 @@ Named_Boxarts/Money Wars (Japan, USA) (Alt 3).png
 Named_Boxarts/Money Wars (Japan, USA) (Alt).png
 Named_Boxarts/Money Wars (Japan, USA).png
 Named_Boxarts/Monster Maze (World).png
+Named_Boxarts/Moon Patrol (Japan, USA).png
 Named_Boxarts/Ms. Pac-Man (Japan, USA).png
 Named_Boxarts/Mutant Herd (Europe) (Alt).png
 Named_Boxarts/Mutant Herd (Europe).png
@@ -109,11 +112,14 @@ Named_Boxarts/Pirate's Cove Adventure (World) (SYS 32592).png
 Named_Boxarts/Poker (Japan, USA) (Alt).png
 Named_Boxarts/Poker (Japan, USA).png
 Named_Boxarts/Pole Position (Japan, USA).png
+Named_Boxarts/Q-bert (Japan, USA).png
+Named_Boxarts/Quackers (Europe).png
 Named_Boxarts/Raid on Fort Knox (World) (Alt).png
 Named_Boxarts/Raid on Fort Knox (World).png
 Named_Boxarts/Rat Hotel (Europe).png
 Named_Boxarts/Rat Hotel (Japan, USA).png
 Named_Boxarts/Renaissance (Japan, USA).png
+Named_Boxarts/River Rescue (World).png
 Named_Boxarts/Road Race (Japan, USA) (Alt 2).png
 Named_Boxarts/Road Race (Japan, USA) (Alt).png
 Named_Boxarts/Road Race (Japan, USA).png
@@ -124,6 +130,7 @@ Named_Boxarts/Satellites and Meteorites! (Japan, USA).png
 Named_Boxarts/Scorpion (Europe) (Alt).png
 Named_Boxarts/Scorpion (Europe).png
 Named_Boxarts/Sea Wolf (Japan, USA).png
+Named_Boxarts/Serpentine (Europe).png
 Named_Boxarts/Serpentine (Japan, USA).png
 Named_Boxarts/Shamus (Japan, USA).png
 Named_Boxarts/Skibbereen (Japan, USA).png
@@ -133,10 +140,12 @@ Named_Boxarts/Speed Math _ Bingo Math (Japan, USA).png
 Named_Boxarts/Spiders of Mars (Europe).png
 Named_Boxarts/Spike's Peak (Japan, USA).png
 Named_Boxarts/Star Battle (Japan, USA).png
+Named_Boxarts/Star Post (Japan, USA).png
 Named_Boxarts/Story Machine (World) (Alt).png
 Named_Boxarts/Submarine Commander (World).png
 Named_Boxarts/Super Amok (Japan, USA) (Alt).png
 Named_Boxarts/Super Amok (Japan, USA).png
+Named_Boxarts/Tank Atak (Europe).png
 Named_Boxarts/Tooth Invaders (Japan, USA).png
 Named_Boxarts/Trashman (World).png
 Named_Boxarts/Type Attack (Japan, USA).png
@@ -226,6 +235,7 @@ Named_Snaps/Dragonfire (World).png
 Named_Snaps/Droids (World).png
 Named_Snaps/E.T. - The Extra Terrestrial (Europe) (Alt 1).png
 Named_Snaps/E.T. - The Extra Terrestrial (Europe).png
+Named_Snaps/E.T. - The Extra-Terrestrial (Europe).png
 Named_Snaps/ExBASIC Level II (World) (Program).png
 Named_Snaps/Face Maker (World) (Alt 1).png
 Named_Snaps/Face Maker (World).png
@@ -323,6 +333,7 @@ Named_Snaps/Quackers (Europe).png
 Named_Snaps/Quick Brown Fox (World) (SYS 32692) (Program).png
 Named_Snaps/Raid on Fort Knox (World) (Alt 1).png
 Named_Snaps/Raid on Fort Knox (World).png
+Named_Snaps/Rat Hotel (Europe).png
 Named_Snaps/Rat Hotel (Japan, USA) (Alt 1).png
 Named_Snaps/Rat Hotel (Japan, USA).png
 Named_Snaps/Renaissance (Japan, USA).png
@@ -428,6 +439,7 @@ Named_Snaps/Videomania (Japan, USA).png
 Named_Snaps/Visible Solar System, The (World) (Alt 1).png
 Named_Snaps/Visible Solar System, The (World) (Alt 2).png
 Named_Snaps/Visible Solar System, The (World).png
+Named_Snaps/Voodoo Castle Adventure (World) (SYS 32592).png
 Named_Snaps/Wacky Waiters (Europe) (SYS 48896).png
 Named_Snaps/Wordcraft 20 (World) (Alt 1) (Program).png
 Named_Snaps/Wordcraft 20 (World) (Alt 2) (Program).png
@@ -511,6 +523,7 @@ Named_Titles/Dragonfire (World).png
 Named_Titles/Droids (World).png
 Named_Titles/E.T. - The Extra Terrestrial (Europe) (Alt 1).png
 Named_Titles/E.T. - The Extra Terrestrial (Europe).png
+Named_Titles/E.T. - The Extra-Terrestrial (Europe).png
 Named_Titles/ExBASIC Level II (World) (Program).png
 Named_Titles/Face Maker (World) (Alt 1).png
 Named_Titles/Face Maker (World).png
@@ -608,6 +621,7 @@ Named_Titles/Quackers (Europe).png
 Named_Titles/Quick Brown Fox (World) (SYS 32692) (Program).png
 Named_Titles/Raid on Fort Knox (World) (Alt 1).png
 Named_Titles/Raid on Fort Knox (World).png
+Named_Titles/Rat Hotel (Europe).png
 Named_Titles/Rat Hotel (Japan, USA) (Alt 1).png
 Named_Titles/Rat Hotel (Japan, USA).png
 Named_Titles/Renaissance (Japan, USA).png
@@ -713,6 +727,7 @@ Named_Titles/Videomania (Japan, USA).png
 Named_Titles/Visible Solar System, The (World) (Alt 1).png
 Named_Titles/Visible Solar System, The (World) (Alt 2).png
 Named_Titles/Visible Solar System, The (World).png
+Named_Titles/Voodoo Castle Adventure (World) (SYS 32592).png
 Named_Titles/Wacky Waiters (Europe) (SYS 48896).png
 Named_Titles/Wordcraft 20 (World) (Alt 1) (Program).png
 Named_Titles/Wordcraft 20 (World) (Alt 2) (Program).png

@@ -2206,7 +2206,9 @@ Named_Titles/Cruis'n Exotica (USA).png
 Named_Titles/Cruis'n USA (Europe).png
 Named_Titles/Cruis'n USA (USA) (Rev 1).png
 Named_Titles/Cruis'n USA (USA) (Rev 2).png
+Named_Titles/Cruis'n USA (USA) (Wii Virtual Console).png
 Named_Titles/Cruis'n USA (USA).png
+Named_Titles/Cruis'n World (Europe) (Rev 1).png
 Named_Titles/Cruis'n World (Europe).png
 Named_Titles/Cruis'n World (USA).png
 Named_Titles/Custom Robo (Japan).png
@@ -2258,6 +2260,7 @@ Named_Titles/Duke Nukem 64 (Europe).png
 Named_Titles/Duke Nukem 64 (France).png
 Named_Titles/Duke Nukem 64 (USA).png
 Named_Titles/ECW Hardcore Revolution (Europe).png
+Named_Titles/ECW Hardcore Revolution (Germany).png
 Named_Titles/ECW Hardcore Revolution (USA).png
 Named_Titles/Earthworm Jim 3D (Europe) (En,Fr,De,Es,It).png
 Named_Titles/Earthworm Jim 3D (USA).png
@@ -2340,6 +2343,7 @@ Named_Titles/Golden Nugget 64 (USA).png
 Named_Titles/GoldenEye 007 (Europe).png
 Named_Titles/GoldenEye 007 (Japan).png
 Named_Titles/GoldenEye 007 (USA).png
+Named_Titles/GoldenEye 007 (USA, Europe) (Switch Online).png
 Named_Titles/HSV Adventure Racing! (Australia).png
 Named_Titles/Hamster Monogatari 64 (Japan).png
 Named_Titles/Harukanaru Augusta - Masters '98 (Japan).png
@@ -2383,6 +2387,7 @@ Named_Titles/International Superstar Soccer '98 (Europe).png
 Named_Titles/International Superstar Soccer '98 (USA).png
 Named_Titles/International Superstar Soccer 2000 (Europe) (En,De).png
 Named_Titles/International Superstar Soccer 2000 (Europe) (Fr,It).png
+Named_Titles/International Superstar Soccer 2000 (USA) (En,Es) (Rev 1).png
 Named_Titles/International Superstar Soccer 2000 (USA) (En,Es).png
 Named_Titles/International Superstar Soccer 64 (Europe).png
 Named_Titles/International Superstar Soccer 64 (USA).png
@@ -2448,6 +2453,7 @@ Named_Titles/LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).png
 Named_Titles/LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).png
 Named_Titles/Last Legion UX (Japan).png
 Named_Titles/Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Debug).png
+Named_Titles/Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Wii Virtual Console).png
 Named_Titles/Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1).png
 Named_Titles/Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es).png
 Named_Titles/Legend of Zelda, The - Majora's Mask (Europe) (GameCube).png
@@ -2463,6 +2469,7 @@ Named_Titles/Legend of Zelda, The - Ocarina of Time (USA) (Rev 1).png
 Named_Titles/Legend of Zelda, The - Ocarina of Time (USA) (Rev 2).png
 Named_Titles/Legend of Zelda, The - Ocarina of Time (USA).png
 Named_Titles/Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (Debug) (GameCube).png
+Named_Titles/Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube) (Debug).png
 Named_Titles/Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube).png
 Named_Titles/Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube).png
 Named_Titles/Legend of Zelda, The - Ocarina of Time - Redux (USA).png
@@ -2483,6 +2490,7 @@ Named_Titles/Madden NFL 2000 (USA).png
 Named_Titles/Madden NFL 2001 (USA).png
 Named_Titles/Madden NFL 2002 (USA).png
 Named_Titles/Madden NFL 99 (Europe).png
+Named_Titles/Madden NFL 99 (USA) (Rev 1).png
 Named_Titles/Madden NFL 99 (USA).png
 Named_Titles/Magical Tetris Challenge (Europe).png
 Named_Titles/Magical Tetris Challenge (Germany).png
@@ -2505,15 +2513,21 @@ Named_Titles/Mario Kart 64 (USA).png
 Named_Titles/Mario Party (Europe) (En,Fr,De).png
 Named_Titles/Mario Party (Japan).png
 Named_Titles/Mario Party (USA).png
+Named_Titles/Mario Party 2 (Europe) (En,Fr,De,Es,It) (Wii Virtual Console).png
 Named_Titles/Mario Party 2 (Europe) (En,Fr,De,Es,It).png
+Named_Titles/Mario Party 2 (Japan) (Wii Virtual Console).png
 Named_Titles/Mario Party 2 (Japan).png
+Named_Titles/Mario Party 2 (USA) (Wii Virtual Console).png
 Named_Titles/Mario Party 2 (USA).png
 Named_Titles/Mario Party 3 (Europe) (En,Fr,De,Es).png
 Named_Titles/Mario Party 3 (Japan).png
 Named_Titles/Mario Party 3 (USA).png
 Named_Titles/Mario Story (Japan).png
+Named_Titles/Mario Tennis (Europe) (Wii Virtual Console).png
 Named_Titles/Mario Tennis (Europe).png
+Named_Titles/Mario Tennis (USA) (Wii Virtual Console).png
 Named_Titles/Mario Tennis (USA).png
+Named_Titles/Mario Tennis 64 (Japan) (Wii Virtual Console).png
 Named_Titles/Mario Tennis 64 (Japan).png
 Named_Titles/Mario no Photopie (Japan).png
 Named_Titles/Mega Man 64 (USA) (Beta).png
@@ -2537,6 +2551,7 @@ Named_Titles/Mission - Impossible (Europe).png
 Named_Titles/Mission - Impossible (France).png
 Named_Titles/Mission - Impossible (Germany).png
 Named_Titles/Mission - Impossible (Italy).png
+Named_Titles/Mission - Impossible (Spain) (Rev 1).png
 Named_Titles/Mission - Impossible (Spain).png
 Named_Titles/Mission - Impossible (USA).png
 Named_Titles/Monaco Grand Prix (USA).png
@@ -2619,9 +2634,11 @@ Named_Titles/O.D.T. (Europe) (En,Fr,De,Es,It) (Proto).png
 Named_Titles/O.D.T. (USA) (En,Fr,Es) (Proto).png
 Named_Titles/Off Road Challenge (Europe).png
 Named_Titles/Off Road Challenge (USA).png
+Named_Titles/Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console).png
 Named_Titles/Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1).png
 Named_Titles/Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1).png
 Named_Titles/Ogre Battle 64 - Person of Lordly Caliber (USA).png
+Named_Titles/Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console).png
 Named_Titles/Olympic Hockey 98 (Europe) (En,Fr,De,Es).png
 Named_Titles/Olympic Hockey 98 (Japan).png
 Named_Titles/Olympic Hockey 98 (USA).png
@@ -2646,15 +2663,20 @@ Named_Titles/Pikachuu Genki de Chuu (Japan).png
 Named_Titles/Pilotwings 64 (Europe) (En,Fr,De).png
 Named_Titles/Pilotwings 64 (Japan).png
 Named_Titles/Pilotwings 64 (USA).png
+Named_Titles/Pokemon Puzzle League (Europe) (Wii Virtual Console).png
 Named_Titles/Pokemon Puzzle League (Europe).png
+Named_Titles/Pokemon Puzzle League (France) (Wii Virtual Console).png
 Named_Titles/Pokemon Puzzle League (France).png
+Named_Titles/Pokemon Puzzle League (Germany) (Wii Virtual Console).png
 Named_Titles/Pokemon Puzzle League (Germany).png
+Named_Titles/Pokemon Puzzle League (USA) (Wii Virtual Console).png
 Named_Titles/Pokemon Puzzle League (USA).png
 Named_Titles/Pokemon Snap (Australia).png
 Named_Titles/Pokemon Snap (Europe).png
 Named_Titles/Pokemon Snap (France).png
 Named_Titles/Pokemon Snap (Germany).png
 Named_Titles/Pokemon Snap (Italy).png
+Named_Titles/Pokemon Snap (Japan) (Rev 1) (Wii Virtual Console).png
 Named_Titles/Pokemon Snap (Japan).png
 Named_Titles/Pokemon Snap (Spain).png
 Named_Titles/Pokemon Snap (USA).png
@@ -2788,6 +2810,7 @@ Named_Titles/SpaceStation Silicon Valley (Japan) (Proto).png
 Named_Titles/SpaceStation Silicon Valley (USA) (Rev 1).png
 Named_Titles/SpaceStation Silicon Valley (USA).png
 Named_Titles/Spider-Man (USA).png
+Named_Titles/Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console).png
 Named_Titles/Star Fox 64 (Japan).png
 Named_Titles/Star Fox 64 (USA) (Rev 1).png
 Named_Titles/Star Fox 64 (USA).png
@@ -2844,6 +2867,7 @@ Named_Titles/Tarzan (Germany).png
 Named_Titles/Tarzan (USA).png
 Named_Titles/Taz Express (Europe) (En,Fr,De,Es,It,Nl).png
 Named_Titles/Taz Express (USA) (Proto) (2000-05-15).png
+Named_Titles/Telefoot Soccer 2000 (France).png
 Named_Titles/Tetris 64 (Japan) (En).png
 Named_Titles/Tetrisphere (Europe).png
 Named_Titles/Tetrisphere (USA).png
@@ -2871,6 +2895,7 @@ Named_Titles/Top Gear Hyper-Bike (USA).png
 Named_Titles/Top Gear Overdrive (Europe).png
 Named_Titles/Top Gear Overdrive (Japan).png
 Named_Titles/Top Gear Overdrive (USA).png
+Named_Titles/Top Gear Rally (Asia) (En).png
 Named_Titles/Top Gear Rally (Europe).png
 Named_Titles/Top Gear Rally (Japan).png
 Named_Titles/Top Gear Rally (USA).png
@@ -2998,7 +3023,10 @@ Named_Titles/Yuke Yuke!! Trouble Makers (Japan).png
 Named_Titles/Zelda no Densetsu - Mujura no Kamen (Japan) (GameCube).png
 Named_Titles/Zelda no Densetsu - Mujura no Kamen (Japan) (Rev 1).png
 Named_Titles/Zelda no Densetsu - Mujura no Kamen (Japan).png
+Named_Titles/Zelda no Densetsu - Toki no Ocarina (Japan) (GameCube, Zelda Collection).png
 Named_Titles/Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 1).png
 Named_Titles/Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 2).png
 Named_Titles/Zelda no Densetsu - Toki no Ocarina (Japan).png
+Named_Titles/Zelda no Densetsu - Toki no Ocarina GC (Japan) (GameCube).png
+Named_Titles/Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube).png
 Named_Titles/Zool - Majuu Tsukai Densetsu (Japan).png
