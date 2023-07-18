@@ -1,240 +1,240 @@
 Commodore - VIC-20 Missing
 
-Boxarts  158/235  67.23%
-Snaps    197/235  83.83%
-Titles   197/235  83.83%
-Total    552/705  78.30%
+Boxarts   80/235  34.04%
+Snaps     97/235  41.28%
+Titles    97/235  41.28%
+Total    274/705  38.87%
 
 Name                                                      Boxart  Snap  Title
 A.E. (World)                                                 -      -     -
 Adventureland Adventure (World) (SYS 32592)                  -      -     -
 Aggressor (Europe)                                           -      -     -
-Aggressor (Japan, USA)                                       -      -     -
-Alien (Japan, USA)                                           ✗      -     -
-Alien Blitz (Japan, USA)                                     -      -     -
-Alien Sidestep (Japan, USA)                                  ✗      -     -
-Alphabet Zoo (Japan, USA)                                    -      -     -
+Aggressor (Japan, USA) (En)                                  ✗      ✗     ✗
+Alien (Japan, USA) (En)                                      ✗      ✗     ✗
+Alien Blitz (Japan, USA) (En)                                ✗      ✗     ✗
+Alien Sidestep (Japan, USA) (En)                             ✗      ✗     ✗
+Alphabet Zoo (Japan, USA) (En)                               ✗      ✗     ✗
 Amazing Maze (World)                                         -      -     -
 Amazing Maze (World) (Alt)                                   -      ✗     ✗
 Amidar (Europe)                                              -      -     -
 Amok! (World)                                                -      -     -
 Ape Escape (World)                                           -      -     -
 Ape Escape (World) (Alt)                                     -      ✗     ✗
-Apple Panic (Japan, USA)                                     -      -     -
+Apple Panic (Japan, USA) (En)                                ✗      ✗     ✗
 Arachnoid (World)                                            -      -     -
 Arcadia (Europe)                                             -      -     -
-Artillery Duel (Japan, USA)                                  -      -     -
+Artillery Duel (Japan, USA) (En)                             ✗      ✗     ✗
 Astroblitz (Europe)                                          -      -     -
-Astroblitz (Japan, USA)                                      -      -     -
+Astroblitz (Japan, USA) (En)                                 ✗      ✗     ✗
 Atlantis (Europe)                                            -      -     -
-Atlantis (Japan, USA)                                        -      -     -
+Atlantis (Japan, USA) (En)                                   ✗      ✗     ✗
 Attack of the Mutant Camels (World)                          -      -     -
-Avenger (Japan, USA)                                         -      -     -
-Bandits (Japan, USA)                                         -      -     -
+Avenger (Japan, USA) (En)                                    ✗      ✗     ✗
+Bandits (Japan, USA) (En)                                    ✗      ✗     ✗
 Bank Robber (World)                                          ✗      -     -
-Battlezone (Japan, USA)                                      -      -     -
+Battlezone (Japan, USA) (En)                                 ✗      ✗     ✗
 Black Hole (Europe)                                          -      -     -
-Black Hole (Japan, USA)                                      -      -     -
+Black Hole (Japan, USA) (En)                                 ✗      ✗     ✗
 Buck Rogers - Planet of Zoom (World)                         -      -     -
 Bug Crusher (World)                                          ✗      -     -
-Cannonball Blitz (Japan, USA)                                ✗      -     -
-Capture the Flag (Japan, USA)                                ✗      -     -
-Capture the Flag (Japan, USA) (Alt)                          ✗      ✗     ✗
+Cannonball Blitz (Japan, USA) (En)                           ✗      ✗     ✗
+Capture the Flag (Japan, USA) (En)                           ✗      ✗     ✗
+Capture the Flag (Japan, USA) (En) (Alt)                     ✗      ✗     ✗
 Catch-a-Snatch (Europe)                                      -      -     -
 Cave-in (World)                                              -      -     -
 Cave-in (World) (Alt)                                        ✗      ✗     ✗
-Centipede (Japan, USA)                                       -      -     -
+Centipede (Japan, USA) (En)                                  ✗      ✗     ✗
 Choplifter (Europe)                                          -      -     -
-Choplifter (Japan, USA)                                      -      -     -
-Choplifter (Japan, USA) (Alt)                                -      ✗     ✗
+Choplifter (Japan, USA) (En)                                 ✗      ✗     ✗
+Choplifter (Japan, USA) (En) (Alt)                           ✗      ✗     ✗
 Chuck Norris Superkicks (World)                              ✗      -     -
 Cloudburst (Europe)                                          -      -     -
-Clowns (Japan, USA) (Joystick)                               -      -     -
-Clowns (Japan, USA) (Paddle)                                 -      -     -
+Clowns (Japan, USA) (En) (Joystick)                          ✗      ✗     ✗
+Clowns (Japan, USA) (En) (Paddle)                            ✗      ✗     ✗
 Computer War (World)                                         -      -     -
-Congo Bongo (Japan, USA)                                     -      -     -
+Congo Bongo (Japan, USA) (En)                                ✗      ✗     ✗
 Cosmic Cruncher (World)                                      -      -     -
 Cosmic Cruncher (World) (Alt 2)                              -      -     -
 Cosmic Cruncher (World) (Alt)                                -      ✗     ✗
-Cosmic Jailbreak (Japan, USA)                                -      -     -
+Cosmic Jailbreak (Japan, USA) (En)                           ✗      ✗     ✗
 Count Adventure, The (World) (SYS 32592)                     -      -     -
-Creepy Corridors (Japan, USA)                                ✗      -     -
+Creepy Corridors (Japan, USA) (En)                           ✗      ✗     ✗
 Crossfire (Europe)                                           -      -     -
-Crossfire (Japan, USA)                                       -      -     -
+Crossfire (Japan, USA) (En)                                  ✗      ✗     ✗
 Cyclon (World)                                               -      -     -
-Dancing Bear, The (Japan, USA)                               ✗      -     -
+Dancing Bear, The (Japan, USA) (En)                          ✗      ✗     ✗
 Deadly Duck (Europe)                                         ✗      -     -
 Deadly Skies (Europe)                                        ✗      -     -
 Defender (World) (v1.1)                                      -      -     -
 Demon Attack (Europe)                                        -      -     -
-Demon Attack (Japan, USA)                                    -      -     -
-Dig Dug (Japan, USA)                                         -      -     -
-Donkey Kong (Japan, USA)                                     -      -     -
-Dot Gobbler (Japan, USA)                                     -      -     -
-Dot Gobbler (Japan, USA) (Alt)                               -      ✗     ✗
+Demon Attack (Japan, USA) (En)                               ✗      ✗     ✗
+Dig Dug (Japan, USA) (En)                                    ✗      ✗     ✗
+Donkey Kong (Japan, USA) (En)                                ✗      ✗     ✗
+Dot Gobbler (Japan, USA) (En)                                ✗      ✗     ✗
+Dot Gobbler (Japan, USA) (En) (Alt)                          ✗      ✗     ✗
 Dragonfire (World)                                           -      -     -
 Droids (World)                                               ✗      -     -
 E.T. - The Extra-Terrestrial (Europe)                        ✗      -     -
 E.T. - The Extra-Terrestrial (Europe) (Alt)                  ✗      ✗     ✗
 Face Maker (World)                                           -      -     -
 Face Maker (World) (Alt)                                     -      ✗     ✗
-Fast Eddie (Japan, USA)                                      -      -     -
-Final Orbit + Bumper Bash (Japan, USA)                       ✗      -     -
-Final Orbit + Bumper Bash (Japan, USA) (Alt)                 -      ✗     ✗
-Flipper 1.0 (Japan, USA)                                     ✗      -     -
+Fast Eddie (Japan, USA) (En)                                 ✗      ✗     ✗
+Final Orbit + Bumper Bash (Japan, USA) (En)                  ✗      ✗     ✗
+Final Orbit + Bumper Bash (Japan, USA) (En) (Alt)            ✗      ✗     ✗
+Flipper 1.0 (Japan, USA) (En)                                ✗      ✗     ✗
 Fourth Encounter, The (World)                                -      -     -
-Frogger (Japan, USA)                                         -      -     -
+Frogger (Japan, USA) (En)                                    ✗      ✗     ✗
 Fun with Music (World)                                       ✗      -     -
 Galaxian (World)                                             -      -     -
-Garden Wars (Japan, USA)                                     -      -     -
-Garden Wars (Japan, USA) (Alt)                               -      ✗     ✗
-Ghost Manor (Japan, USA)                                     -      -     -
+Garden Wars (Japan, USA) (En)                                ✗      ✗     ✗
+Garden Wars (Japan, USA) (En) (Alt)                          ✗      ✗     ✗
+Ghost Manor (Japan, USA) (En)                                ✗      ✗     ✗
 Gold Fever (World)                                           ✗      -     -
-Gorf (Japan, USA)                                            -      -     -
+Gorf (Japan, USA) (En)                                       ✗      ✗     ✗
 Gridrunner (Europe)                                          -      -     -
-Gridrunner (Japan, USA)                                      -      -     -
+Gridrunner (Japan, USA) (En)                                 ✗      ✗     ✗
 Home Babysitter (World)                                      -      -     -
 IFR (Flight Simulator) (World)                               -      -     -
 IFR (Flight Simulator) (World) (Alt)                         -      ✗     ✗
-In the Chips (Japan, USA)                                    -      -     -
+In the Chips (Japan, USA) (En)                               ✗      ✗     ✗
 Jawbreaker II (Europe)                                       ✗      -     -
-Jawbreaker II (Japan, USA)                                   ✗      -     -
-Jelly Monsters (Japan, USA)                                  -      -     -
-Jungle Hunt (Japan, USA)                                     -      -     -
-Jupiter Lander (Japan, USA)                                  -      -     -
+Jawbreaker II (Japan, USA) (En)                              ✗      ✗     ✗
+Jelly Monsters (Japan, USA) (En)                             ✗      ✗     ✗
+Jungle Hunt (Japan, USA) (En)                                ✗      ✗     ✗
+Jupiter Lander (Japan, USA) (En)                             ✗      ✗     ✗
 K-Razy Antiks (Europe)                                       -      -     -
 K-Star Patrol (Europe)                                       -      -     -
 Kids on Keys (World)                                         -      -     -
 Kindercomp (World)                                           -      -     -
 Lazer Zone (World)                                           -      -     -
 Lode Runner (World)                                          -      -     -
-Lunar Leeper (Japan, USA)                                    -      -     -
+Lunar Leeper (Japan, USA) (En)                               ✗      ✗     ✗
 Mastertype (World)                                           -      -     -
-Maze (Japan, USA)                                            ✗      -     -
-Maze (Japan, USA) (Alt)                                      ✗      ✗     ✗
+Maze (Japan, USA) (En)                                       ✗      ✗     ✗
+Maze (Japan, USA) (En) (Alt)                                 ✗      ✗     ✗
 Medieval Joust (World)                                       ✗      -     -
 Medieval Joust (World) (Alt)                                 ✗      ✗     ✗
 Menagerie (World)                                            -      -     -
 Menagerie (World) (Alt 2)                                    ✗      -     -
 Menagerie (World) (Alt)                                      ✗      ✗     ✗
 Meteor Run (Europe)                                          -      -     -
-Mine Madness (Japan, USA)                                    -      -     -
+Mine Madness (Japan, USA) (En)                               ✗      ✗     ✗
 Miner 2049'er (Europe)                                       -      -     -
 Miner 2049'er (Europe) (Alt)                                 -      ✗     ✗
 Mission Impossible Adventure (World) (SYS 32592)             -      -     -
-Mole Attack (Japan, USA)                                     -      -     -
-Mole Attack (Japan, USA) (Alt)                               -      ✗     ✗
-Money Wars (Japan, USA)                                      -      -     -
-Money Wars (Japan, USA) (Alt 2)                              -      -     -
-Money Wars (Japan, USA) (Alt 3)                              -      -     -
-Money Wars (Japan, USA) (Alt)                                -      ✗     ✗
+Mole Attack (Japan, USA) (En)                                ✗      ✗     ✗
+Mole Attack (Japan, USA) (En) (Alt)                          ✗      ✗     ✗
+Money Wars (Japan, USA) (En)                                 ✗      ✗     ✗
+Money Wars (Japan, USA) (En) (Alt 2)                         ✗      ✗     ✗
+Money Wars (Japan, USA) (En) (Alt 3)                         ✗      ✗     ✗
+Money Wars (Japan, USA) (En) (Alt)                           ✗      ✗     ✗
 Monster Maze (World)                                         -      -     -
-Moon Patrol (Japan, USA)                                     -      -     -
+Moon Patrol (Japan, USA) (En)                                ✗      ✗     ✗
 Mosquito Infestation (Europe)                                ✗      -     -
-Motocross Racer (Japan, USA)                                 ✗      -     -
-Mountain King (Japan, USA)                                   ✗      -     -
-Ms. Pac-Man (Japan, USA)                                     -      -     -
+Motocross Racer (Japan, USA) (En)                            ✗      ✗     ✗
+Mountain King (Japan, USA) (En)                              ✗      ✗     ✗
+Ms. Pac-Man (Japan, USA) (En)                                ✗      ✗     ✗
 Mutant Herd (Europe)                                         -      -     -
 Mutant Herd (Europe) (Alt)                                   -      ✗     ✗
-Number Crunch (Japan, USA)                                   ✗      -     -
-Number Nabber, Shape Grabber (Japan, USA)                    ✗      -     -
-Omega Race (Japan, USA)                                      -      -     -
+Number Crunch (Japan, USA) (En)                              ✗      ✗     ✗
+Number Nabber, Shape Grabber (Japan, USA) (En)               ✗      ✗     ✗
+Omega Race (Japan, USA) (En)                                 ✗      ✗     ✗
 Outworld (Europe)                                            -      -     -
-Outworld (Japan, USA)                                        -      -     -
+Outworld (Japan, USA) (En)                                   ✗      ✗     ✗
 Pac-Man (World)                                              -      -     -
 Pac-Man (World) (Alt)                                        -      ✗     ✗
 Pharaoh's Curse (World)                                      -      -     -
 Pharaoh's Curse (World) (Alt)                                -      ✗     ✗
 Pinball (Europe)                                             ✗      -     -
-Pinball Spectacular (Japan, USA)                             -      -     -
-Pipes (Japan, USA)                                           -      -     -
+Pinball Spectacular (Japan, USA) (En)                        ✗      ✗     ✗
+Pipes (Japan, USA) (En)                                      ✗      ✗     ✗
 Pirate's Cove Adventure (World) (SYS 32592)                  -      -     -
-Poker (Japan, USA)                                           -      -     -
-Poker (Japan, USA) (Alt)                                     -      ✗     ✗
-Polaris (Japan, USA)                                         ✗      -     -
-Pole Position (Japan, USA)                                   -      -     -
+Poker (Japan, USA) (En)                                      ✗      ✗     ✗
+Poker (Japan, USA) (En) (Alt)                                ✗      ✗     ✗
+Polaris (Japan, USA) (En)                                    ✗      ✗     ✗
+Pole Position (Japan, USA) (En)                              ✗      ✗     ✗
 Predator (Europe)                                            ✗      -     -
-Predator (Japan, USA)                                        ✗      -     -
-Princess and Frog (Japan, USA)                               ✗      -     -
+Predator (Japan, USA) (En)                                   ✗      ✗     ✗
+Princess and Frog (Japan, USA) (En)                          ✗      ✗     ✗
 Protector (World)                                            ✗      -     -
-Q-bert (Japan, USA)                                          -      -     -
+Q-bert (Japan, USA) (En)                                     ✗      ✗     ✗
 Quackers (Europe)                                            -      -     -
 Quackers (Europe) (Alt)                                      ✗      ✗     ✗
 Raid on Fort Knox (World)                                    -      -     -
 Raid on Fort Knox (World) (Alt)                              -      ✗     ✗
 Rat Hotel (Europe)                                           -      -     -
-Rat Hotel (Japan, USA)                                       -      -     -
-Renaissance (Japan, USA)                                     -      -     -
+Rat Hotel (Japan, USA) (En)                                  ✗      ✗     ✗
+Renaissance (Japan, USA) (En)                                ✗      ✗     ✗
 River Rescue (World)                                         -      -     -
 River Rescue (World) (Alt)                                   ✗      ✗     ✗
-Road Race (Japan, USA)                                       -      -     -
-Road Race (Japan, USA) (Alt 2)                               -      -     -
-Road Race (Japan, USA) (Alt)                                 -      ✗     ✗
-Robin Hood (Japan, USA)                                      ✗      -     -
+Road Race (Japan, USA) (En)                                  ✗      ✗     ✗
+Road Race (Japan, USA) (En) (Alt 2)                          ✗      ✗     ✗
+Road Race (Japan, USA) (En) (Alt)                            ✗      ✗     ✗
+Robin Hood (Japan, USA) (En)                                 ✗      ✗     ✗
 Robot Panic (World)                                          ✗      -     -
 Robot Panic (World) (Alt)                                    ✗      ✗     ✗
-Sargon II Chess (Japan, USA)                                 -      -     -
-Sargon II Chess (Japan, USA) (Alt)                           -      ✗     ✗
-Satellite Patrol (Japan, USA)                                ✗      -     -
+Sargon II Chess (Japan, USA) (En)                            ✗      ✗     ✗
+Sargon II Chess (Japan, USA) (En) (Alt)                      ✗      ✗     ✗
+Satellite Patrol (Japan, USA) (En)                           ✗      ✗     ✗
 Satellites and Meteorites! (Europe)                          -      -     -
-Satellites and Meteorites! (Japan, USA)                      -      -     -
+Satellites and Meteorites! (Japan, USA) (En)                 ✗      ✗     ✗
 Scorpion (Europe)                                            -      -     -
 Scorpion (Europe) (Alt)                                      -      ✗     ✗
 Scram 20 (World)                                             ✗      -     -
-Sea Wolf (Japan, USA)                                        -      -     -
-Seafox (Japan, USA)                                          ✗      -     -
+Sea Wolf (Japan, USA) (En)                                   ✗      ✗     ✗
+Seafox (Japan, USA) (En)                                     ✗      ✗     ✗
 Serpentine (Europe)                                          -      -     -
-Serpentine (Japan, USA)                                      -      -     -
-Shamus (Japan, USA)                                          -      -     -
+Serpentine (Japan, USA) (En)                                 ✗      ✗     ✗
+Shamus (Japan, USA) (En)                                     ✗      ✗     ✗
 Sir Lancelot (World)                                         ✗      -     -
 Skibbereen (Europe)                                          ✗      -     -
-Skibbereen (Japan, USA)                                      -      -     -
-Skyblazer (Japan, USA)                                       ✗      -     -
-Snake Byte (Japan, USA)                                      -      -     -
+Skibbereen (Japan, USA) (En)                                 ✗      ✗     ✗
+Skyblazer (Japan, USA) (En)                                  ✗      ✗     ✗
+Snake Byte (Japan, USA) (En)                                 ✗      ✗     ✗
 Space Snake (Netherlands)                                    ✗      -     -
-Speed Math _ Bingo Math (Japan, USA)                         -      -     -
-Speed Math _ Bingo Math (Japan, USA) (Alt)                   -      ✗     ✗
-Spider City (Japan, USA)                                     ✗      -     -
-Spider City (Japan, USA) (Alt)                               ✗      ✗     ✗
+Speed Math _ Bingo Math (Japan, USA) (En)                    ✗      ✗     ✗
+Speed Math _ Bingo Math (Japan, USA) (En) (Alt)              ✗      ✗     ✗
+Spider City (Japan, USA) (En)                                ✗      ✗     ✗
+Spider City (Japan, USA) (En) (Alt)                          ✗      ✗     ✗
 Spiders of Mars (Europe)                                     -      -     -
-Spike's Peak (Japan, USA)                                    -      -     -
-Spills _ Fills (Japan, USA)                                  ✗      -     -
-Springer (Japan, USA)                                        ✗      -     -
-Squish'Em (Japan, USA)                                       ✗      -     -
-Star Battle (Japan, USA)                                     -      -     -
-Star Post (Japan, USA)                                       -      -     -
+Spike's Peak (Japan, USA) (En)                               ✗      ✗     ✗
+Spills _ Fills (Japan, USA) (En)                             ✗      ✗     ✗
+Springer (Japan, USA) (En)                                   ✗      ✗     ✗
+Squish'Em (Japan, USA) (En)                                  ✗      ✗     ✗
+Star Battle (Japan, USA) (En)                                ✗      ✗     ✗
+Star Post (Japan, USA) (En)                                  ✗      ✗     ✗
 Star Trek - Strategic Operations Simulator (World)           ✗      -     -
 Star Trek - Strategic Operations Simulator (World) (Alt)     ✗      ✗     ✗
 Story Machine (World) (Alt)                                  -      ✗     ✗
 Sub Chase (Europe)                                           ✗      -     -
 Submarine Commander (World)                                  -      -     -
-Super Amok (Japan, USA)                                      -      -     -
-Super Amok (Japan, USA) (Alt)                                -      ✗     ✗
+Super Amok (Japan, USA) (En)                                 ✗      ✗     ✗
+Super Amok (Japan, USA) (En) (Alt)                           ✗      ✗     ✗
 Super Smash (Europe)                                         ✗      -     -
-Super Smash (Japan, USA)                                     ✗      -     -
-Super Smash (Japan, USA) (Alt)                               ✗      ✗     ✗
+Super Smash (Japan, USA) (En)                                ✗      ✗     ✗
+Super Smash (Japan, USA) (En) (Alt)                          ✗      ✗     ✗
 Tank Atak (Europe)                                           -      -     -
 Terraguard (Europe)                                          ✗      -     -
-Terraguard (Japan, USA)                                      ✗      -     -
-Threshold (Japan, USA)                                       ✗      -     -
+Terraguard (Japan, USA) (En)                                 ✗      ✗     ✗
+Threshold (Japan, USA) (En)                                  ✗      ✗     ✗
 Titan (World)                                                ✗      -     -
 Tomarc the Barbarian (World)                                 ✗      -     -
-Tooth Invaders (Japan, USA)                                  -      -     -
-Topper (Japan, USA)                                          ✗      -     -
+Tooth Invaders (Japan, USA) (En)                             ✗      ✗     ✗
+Topper (Japan, USA) (En)                                     ✗      ✗     ✗
 Trashman (World)                                             -      -     -
-Turmoil (Japan, USA)                                         ✗      -     -
+Turmoil (Japan, USA) (En)                                    ✗      ✗     ✗
 Tutankham (World)                                            ✗      -     -
-Type Attack (Japan, USA)                                     -      -     -
-Typo (Japan, USA)                                            ✗      -     -
+Type Attack (Japan, USA) (En)                                ✗      ✗     ✗
+Typo (Japan, USA) (En)                                       ✗      ✗     ✗
 VIC Radar Rat Race (Europe)                                  -      -     -
-VIC Radar Rat Race (Japan, USA)                              -      -     -
-VIC Radar Rat Race (Japan, USA) (Alt)                        -      ✗     ✗
-VIC Super Lander (Japan, USA)                                ✗      -     -
-VIC Super Slot (Japan, USA)                                  ✗      -     -
-VIC Super Slot (Japan, USA) (Alt)                            ✗      ✗     ✗
+VIC Radar Rat Race (Japan, USA) (En)                         ✗      ✗     ✗
+VIC Radar Rat Race (Japan, USA) (En) (Alt)                   ✗      ✗     ✗
+VIC Super Lander (Japan, USA) (En)                           ✗      ✗     ✗
+VIC Super Slot (Japan, USA) (En)                             ✗      ✗     ✗
+VIC Super Slot (Japan, USA) (En) (Alt)                       ✗      ✗     ✗
 Video Vermin (World)                                         -      -     -
 Videomania (Europe)                                          ✗      -     -
-Videomania (Japan, USA)                                      ✗      -     -
+Videomania (Japan, USA) (En)                                 ✗      ✗     ✗
 Visible Solar System, The (World)                            -      -     -
 Visible Solar System, The (World) (Alt 2)                    -      -     -
 Visible Solar System, The (World) (Alt)                      -      ✗     ✗

@@ -1,9 +1,9 @@
 The 3DO Company - 3DO Missing
 
-Boxarts    521/989  52.68%
-Snaps      522/989  52.78%
-Titles     520/989  52.58%
-Total    1563/2967  52.68%
+Boxarts    522/997  52.36%
+Snaps      525/997  52.66%
+Titles     522/997  52.36%
+Total    1569/2991  52.46%
 
 Name                                                                                                                      Boxart  Snap  Title
 20th Century Video Almanac (USA)                                                                                             -      -     -
@@ -240,7 +240,9 @@ Escape from Monster Manor (Korea) (En,Ko)                                       
 Escape from Monster Manor (USA)                                                                                              ✗      -     -
 Escape from Monster Manor - A Terrifying Hunt for the Undead (Europe)                                                        ✗      ✗     ✗
 Escape from Monster Manor - A Terrifying Hunt for the Undead (USA)                                                           ✗      -     -
+Eye of Typhoon (Korea)                                                                                                       ✗      ✗     ✗
 Eye of Typhoon, The (Korea)                                                                                                  -      -     -
+Eye of Typhoon, The (Korea) (Disc 1)                                                                                         ✗      -     ✗
 F1GP (Japan)                                                                                                                 -      -     -
 FB Battery Navi Ver. II (Japan)                                                                                              ✗      ✗     ✗
 FIFA International Soccer (Europe)                                                                                           -      -     -
@@ -370,6 +372,7 @@ John Madden Football (USA) (Alt)                                                
 John Madden Football (USA)[722007-2 70]                                                                                      ✗      ✗     ✗
 John Madden Football (USA)[722007-2 R73]                                                                                     ✗      ✗     ✗
 John Madden NFL Football (Europe)                                                                                            -      -     -
+Johnny Bazookatone (Europe)                                                                                                  -      -     -
 Johnny Bazookatone (U.S. Gold) (Europe)                                                                                      ✗      ✗     ✗
 Johnny Bazookatone (U.S. Gold) (USA)                                                                                         ✗      ✗     ✗
 Johnny Bazookatone (USA)                                                                                                     -      -     -
@@ -436,6 +439,7 @@ Macaroni Houren Shou Interactive (Toshiba EMI) (Japan)                          
 Mad Dog II - The Lost Gold (American Laser Games) (USA)                                                                      ✗      ✗     ✗
 Mad Dog II - The Lost Gold (American Laser Games) (USA)[tr ru aliast - Gektor_rus]                                           ✗      ✗     ✗
 Mad Dog II - The Lost Gold (USA)                                                                                             ✗      -     -
+Mad Dog II - The Lost Gold (USA) (Arcade CD-ROM)                                                                             ✗      ✗     ✗
 Mad Dog McCree (American Laser Games) (USA)                                                                                  ✗      ✗     ✗
 Mad Dog McCree (USA)                                                                                                         -      -     -
 Mahjong Gokuu Tenjiku (ASCII) (Japan)                                                                                        ✗      ✗     ✗
@@ -457,6 +461,7 @@ MegaRace (Mindscape) (USA) (M5)                                                 
 MegaRace (Multisoft) (Japan)                                                                                                 ✗      ✗     ✗
 MegaRace (USA, Europe) (En,Fr,De,Es,It)                                                                                      -      -     -
 MegaRace (USA, Korea) (En,Fr,De,Es,It)                                                                                       -      -     -
+Memory Gwanli CD (Korea)                                                                                                     ✗      ✗     ✗
 Microcosm (Japan)                                                                                                            -      -     -
 Microcosm (Psygnosis) (USA)                                                                                                  ✗      ✗     ✗
 Microcosm (T_E Soft) (Japan)                                                                                                 ✗      ✗     ✗
@@ -558,6 +563,7 @@ PaTaank (USA, Europe)                                                           
 Paddock Note '95 (Fuji Television) (Japan)                                                                                   ✗      ✗     ✗
 Paddock Note '95 (Japan)                                                                                                     -      -     -
 Paddock Note '95 (Japan) (Rev 1)                                                                                             -      -     -
+Panasonic 3DO Interaktiver Multiplayer Sampler Disc (Germany) (En,De)                                                        ✗      ✗     ✗
 Panasonic REAL 3DO Interactive Multiplayer - Demonstration CD (USA)                                                          ✗      ✗     ✗
 Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (Japan)                                                              ✗      ✗     ✗
 Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (Japan) (Rev 1)                                                      ✗      ✗     ✗
@@ -567,7 +573,7 @@ Panasonic REAL 3DO Interactive Multiplayer - Sampler CD for PAL System (Europe) 
 Panasonic REAL 3DO Interactive Multiplayer - Sampler III and 3DO Storage Manager (USA)                                       ✗      ✗     ✗
 Panasonic Special CD-ROM (Japan)                                                                                             ✗      ✗     ✗
 Panzer General (Mindscape - SSi) (EU-US)                                                                                     ✗      ✗     ✗
-Panzer General (USA)                                                                                                         -      ✗     ✗
+Panzer General (USA, Germany)                                                                                                -      -     -
 Pararancho - The Incredible Machine (T_E Soft) (Japan)                                                                       ✗      ✗     ✗
 Pebble Beach Golf Links (CA)                                                                                                 ✗      ✗     ✗
 Pebble Beach Golf Links (Europe)                                                                                             ✗      ✗     ✗
@@ -682,6 +688,7 @@ Scramble Cobra (Europe)                                                         
 Scramble Cobra (Japan)                                                                                                       -      -     -
 Scramble Cobra (Japan) (Demo)                                                                                                ✗      ✗     ✗
 Scramble Cobra (USA)                                                                                                         -      -     -
+Scramble Cobra - Premium Version (Japan)                                                                                     ✗      ✗     ✗
 Seal of the Pharaoh (USA)                                                                                                    -      -     -
 Secre Fuumin no Omochabako (Japan)                                                                                           -      -     -
 Seimei Handan (Japan)                                                                                                        -      -     -
@@ -888,6 +895,7 @@ Tower, The (Japan)                                                              
 Tower, The (OPeNBooK) (Japan)                                                                                                ✗      ✗     ✗
 Toyopet Outdoor World (Japan)                                                                                                ✗      ✗     ✗
 Toyopet RV Paddock (Japan)                                                                                                   ✗      ✗     ✗
+Toyopet RV World (Japan)                                                                                                     ✗      ✗     ✗
 Tozasareta Yakata (Japan)                                                                                                    -      -     -
 Trip'd (EU-US)                                                                                                               ✗      ✗     ✗
 Trip'd (USA, Europe)                                                                                                         -      -     -

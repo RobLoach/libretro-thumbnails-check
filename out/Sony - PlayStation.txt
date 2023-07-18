@@ -1,9 +1,9 @@
 Sony - PlayStation Missing
 
-Boxarts   8936/10685  83.63%
-Snaps     9559/10685  89.46%
-Titles    8688/10685  81.31%
-Total    27183/32055  84.80%
+Boxarts   8918/10730  83.11%
+Snaps     9596/10730  89.43%
+Titles    8676/10730  80.86%
+Total    27190/32190  84.47%
 
 Name                                                                                                                  Boxart  Snap  Title
 '98 Koushien (Japan) (Demo)                                                                                              -      -     ✗
@@ -29,6 +29,7 @@ Name                                                                            
 007 Racing (France)                                                                                                      -      -     -
 007 Racing (Germany)                                                                                                     -      -     -
 007 Racing (USA)                                                                                                         -      -     -
+007 Racing (USA)[cr PDX][t +6 PDX][SLUS-01300]                                                                           ✗      ✗     ✗
 1 on 1 (Japan)                                                                                                           -      -     -
 1 on 1 (Japan) (Demo)                                                                                                    -      -     ✗
 100 Man Yen Quiz Hunter (Japan)                                                                                          -      -     -
@@ -53,6 +54,7 @@ Name                                                                            
 2Xtreme (Europe)                                                                                                         -      -     -
 2Xtreme (USA)                                                                                                            -      -     -
 3, 2, 1, Smurf! My First Racing Game (Europe) (En,Fr,De,Es,It,Nl)                                                        -      -     -
+3, 2, 1, Smurf! My First Racing Game (M6)[h STC][SLES-03120]                                                             ✗      ✗     ✗
 360 Three Sixty (Europe) (En,Fr,De,Es,It,Sv)                                                                             -      -     -
 3D Baseball (USA)                                                                                                        -      -     -
 3D Baseball - The Majors (Japan)                                                                                         -      -     -
@@ -77,6 +79,7 @@ Name                                                                            
 40 Winks (Spain)                                                                                                         -      -     -
 40 Winks (USA)                                                                                                           -      -     -
 4x4 World Trophy (Europe) (En,Fr,De,Es,It)                                                                               -      -     -
+4x4 World Trophy (M5)[cr PDX][t +7 PDX][SLES-02017]                                                                      ✗      ✗     ✗
 5 Star Racing (Europe)                                                                                                   -      -     -
 50 por 15 - Quiere Ser Millonario (Spain)                                                                                -      -     -
 70's Robot Anime - Geppy-X (Japan) (Demo)                                                                                ✗      -     ✗
@@ -184,7 +187,10 @@ Addie no Okurimono - To Moze from Addie (Japan) (Demo)                          
 Adiboo _ Paziral's Secret (Europe) (En,Fr,De,Es,It)                                                                      -      -     -
 Adibou et l'Ombre Verte (France)                                                                                         -      -     -
 Adidas Power Soccer (Europe) (En,Fr,De,Es,It)                                                                            -      -     ✗
+Adidas Power Soccer (UK) (Demo)                                                                                          ✗      -     ✗
 Adidas Power Soccer (USA)                                                                                                -      -     ✗
+Adidas Power Soccer + Resident Evil + Shellshock + Descent (Europe)                                                      ✗      ✗     ✗
+Adidas Power Soccer 2 (Europe) (Demo)                                                                                    ✗      -     ✗
 Adidas Power Soccer 2 (Europe) (En,Fr,De,Es,It,Nl)                                                                       -      -     ✗
 Adidas Power Soccer 98 (Europe) (En,Fr,De,Es,It,Nl)                                                                      -      -     -
 Adidas Power Soccer 98 (France) (Demo)                                                                                   ✗      -     ✗
@@ -199,6 +205,7 @@ Advanced Dungeons _ Dragons - Iron _ Blood - Warriors of Ravenloft (USA) (Demo) 
 Advanced V.G. (Japan)                                                                                                    -      -     -
 Advanced V.G. (Japan) (Demo)                                                                                             ✗      -     ✗
 Advanced V.G. 2 (Japan)                                                                                                  -      -     -
+Adventures of Lomax + Porsche Challenge + Pandemonium + Tomb Raider + 2 Xtreme + Reloaded (France)                       ✗      ✗     ✗
 Adventures of Lomax, The (USA)                                                                                           -      -     -
 Aeon Flux (USA) (Proto)                                                                                                  ✗      -     ✗
 Aerodive (Japan)                                                                                                         -      -     -
@@ -385,6 +392,7 @@ Ape Escape (Europe) (Demo)                                                      
 Ape Escape (France)                                                                                                      -      -     -
 Ape Escape (Germany)                                                                                                     -      -     -
 Ape Escape (Italy)                                                                                                       -      -     -
+Ape Escape (SCEE) (GB)[cr PDX][SCES-01564]                                                                               ✗      ✗     ✗
 Ape Escape (USA)                                                                                                         -      -     -
 Ape Escape (USA) (Demo 1)                                                                                                ✗      -     ✗
 Ape Escape (USA) (Demo 2)                                                                                                ✗      -     ✗
@@ -416,9 +424,11 @@ Arc the Lad Collection - Arc Arena - Monster Tournament (USA) (Beta)            
 Arc the Lad Collection - Arc the Lad (USA)                                                                               -      -     -
 Arc the Lad Collection - Arc the Lad (USA) (Beta)                                                                        ✗      -     ✗
 Arc the Lad Collection - Arc the Lad II (USA)                                                                            -      -     -
+Arc the Lad Collection - Arc the Lad II (USA) (Beta)                                                                     ✗      -     ✗
 Arc the Lad Collection - Arc the Lad III (USA) (Disc 1)                                                                  -      -     -
 Arc the Lad Collection - Arc the Lad III (USA) (Disc 2)                                                                  -      -     -
 Arc the Lad Collection - The Making of Arc the Lad (USA)                                                                 -      -     -
+Arc the Lad Collection - The Making of Arc the Lad (USA) (Beta)                                                          ✗      -     ✗
 Arc the Lad II (Japan)                                                                                                   -      -     -
 Arc the Lad II (Japan) (Rev 1)                                                                                           -      -     -
 Arc the Lad II - Characters _ World CG Movie Collection (Japan)                                                          ✗      ✗     ✗
@@ -702,6 +712,7 @@ Bass Landing (Japan)                                                            
 Bass Landing (Japan) (Demo)                                                                                              ✗      -     ✗
 Bass Landing (USA)                                                                                                       -      -     -
 Bass Landing 2 (Japan)                                                                                                   -      -     -
+Bass Landing 2 (Japan) (Special Fishing Set)                                                                             ✗      ✗     ✗
 Bass Rise (USA)                                                                                                          -      -     -
 Bass Tsuri ni Ikou! (Japan)                                                                                              -      -     -
 Bassing Beat 2 (Japan)                                                                                                   -      -     -
@@ -817,7 +828,6 @@ Biohazard 2 (Japan) (Disc 2) (Claire-hen)                                       
 Biohazard 2 (Japan) (Trial Edition)                                                                                      -      -     -
 Biohazard 2 - Dual Shock Ver. (Japan) (Disc 1) (Leon-hen)                                                                -      -     -
 Biohazard 2 - Dual Shock Ver. (Japan) (Disc 2) (Claire-hen)                                                              -      -     -
-Biohazard 2 v2 (Capcom) (Japan) (Beta)                                                                                   -      ✗     ✗
 Biohazard 3 - Last Escape (Japan)                                                                                        -      -     -
 Biohazard 3 - Last Escape (Japan) (Demo)                                                                                 ✗      -     ✗
 Biohazard 3 - Last Escape (Japan) (Rev 1)                                                                                -      -     -
@@ -885,6 +895,7 @@ Block Kuzushi - Kowashite Help! (Japan)                                         
 Block Kuzushi 2 (Japan)                                                                                                  -      -     -
 Block Wars (Japan)                                                                                                       -      -     -
 Block Wars (Japan) (Demo)                                                                                                ✗      -     ✗
+Block Wars (Japan)[h LFC][SLPS-03219]                                                                                    ✗      ✗     ✗
 Blockbuster Playstation Challenge (Europe)                                                                               ✗      ✗     ✗
 Blockbuster Presents - GameShark Top 50 - Summer Fall 2001 (USA) (Unl)                                                   ✗      ✗     ✗
 Blockids (Europe)                                                                                                        -      -     -
@@ -932,7 +943,7 @@ Bokujou Monogatari - Harvest Moon (Japan)                                       
 Bokujou Monogatari - Harvest Moon (Japan) (Rev 1)                                                                        -      -     -
 Bokujou Monogatari - Harvest Moon for Girl (Japan)                                                                       -      -     -
 Bomberman (Europe)                                                                                                       -      -     -
-Bomberman (Japan)                                                                                                        -      -     ✗
+Bomberman (Japan, Asia)                                                                                                  -      -     -
 Bomberman - Party Edition (USA)                                                                                          -      -     -
 Bomberman Fantasy Race (Europe) (En,Fr,De,Es)                                                                            -      -     -
 Bomberman Fantasy Race (Japan)                                                                                           -      -     -
@@ -1413,7 +1424,7 @@ Clock Tower 2 (Japan) (Demo 2)                                                  
 Clock Tower II - The Struggle Within (USA)                                                                               -      -     -
 ClockWerx (Japan)                                                                                                        -      -     -
 Club Solaris - Miss goda (Russia) (En,Ru) (Unl)                                                                          ✗      -     ✗
-Cochons de Guerre, Les (France)                                                                                          -      -     -
+Cochons de Guerre, Les (France) (Rev 1)                                                                                  -      -     -
 Cocktail Harmony (Japan)                                                                                                 -      -     -
 Code Breaker (USA) (Unl)                                                                                                 ✗      ✗     ✗
 Code Breaker Version 2 (USA) (Unl)                                                                                       ✗      ✗     ✗
@@ -1571,8 +1582,8 @@ Courier Crisis - The Saga of the Modern Fatalist (USA)                          
 Covert Ops - Nuclear Dawn (USA) (Disc 1)                                                                                 -      -     -
 Covert Ops - Nuclear Dawn (USA) (Disc 2)                                                                                 -      -     -
 Cowboy Bebop (Japan)                                                                                                     -      -     -
-Crash Bandicoot (Europe)                                                                                                 -      -     -
 Crash Bandicoot (Europe) (EDC)                                                                                           -      -     -
+Crash Bandicoot (Europe, Australia)                                                                                      ✗      -     ✗
 Crash Bandicoot (Japan) (Otameshi Disc)                                                                                  -      -     -
 Crash Bandicoot (Japan, Asia)                                                                                            -      -     -
 Crash Bandicoot (USA)                                                                                                    -      -     -
@@ -1580,13 +1591,13 @@ Crash Bandicoot - Warped (USA)                                                  
 Crash Bandicoot - Warped (USA) (Demo)                                                                                    ✗      -     ✗
 Crash Bandicoot 2 - Cortex Strikes Back (Europe) (En,Fr,De,Es,It)                                                        -      -     -
 Crash Bandicoot 2 - Cortex Strikes Back (Europe) (En,Fr,De,Es,It) (Beta)                                                 ✗      -     ✗
-Crash Bandicoot 2 - Cortex Strikes Back (Europe) (En,Fr,De,Es,It) (EDC)                                                  -      -     -
+Crash Bandicoot 2 - Cortex Strikes Back (Europe, Australia) (En,Fr,De,Es,It) (EDC)                                       ✗      -     ✗
 Crash Bandicoot 2 - Cortex Strikes Back (USA)                                                                            -      -     -
 Crash Bandicoot 2 - Cortex no Gyakushuu! (Japan)                                                                         -      -     -
 Crash Bandicoot 2 - Cortex no Gyakushuu! (Japan) (Demo)                                                                  ✗      -     ✗
 Crash Bandicoot 3 - Buttobi! Sekai Isshuu (Japan)                                                                        -      -     -
 Crash Bandicoot 3 - Buttobi! Sekai Isshuu (Japan) (Demo)                                                                 ✗      -     ✗
-Crash Bandicoot 3 - Warped (Europe) (En,Fr,De,Es,It)                                                                     -      -     -
+Crash Bandicoot 3 - Warped (Europe, Australia) (En,Fr,De,Es,It)                                                          ✗      -     ✗
 Crash Bandicoot Carnival (Japan)                                                                                         -      -     -
 Crash Bandicoot Carnival (Japan) (Demo)                                                                                  ✗      -     ✗
 Crash Bandicoot Racing (Japan)                                                                                           -      -     -
@@ -1816,7 +1827,7 @@ De Sang Froid (France) (Disc 2)                                                 
 Dead in the Water (USA)                                                                                                  -      -     -
 Dead or Alive (Europe)                                                                                                   -      -     -
 Dead or Alive (Europe) (Beta) (Alt)                                                                                      ✗      -     ✗
-Dead or Alive (Japan)                                                                                                    -      -     -
+Dead or Alive (Japan, Asia)                                                                                              ✗      -     ✗
 Dead or Alive (UK) (Demo)                                                                                                ✗      -     ✗
 Dead or Alive (USA)                                                                                                      -      -     -
 Dead or Alive (USA) (Beta 1)                                                                                             ✗      -     ✗
@@ -1863,7 +1874,7 @@ Demo One (Version 3) (Europe, Australia)                                        
 Demo One (Version 4) (Europe)                                                                                            ✗      ✗     ✗
 Demo One (Version 4) (Germany)                                                                                           ✗      ✗     ✗
 Demo One (Version 5) (Europe)                                                                                            ✗      ✗     ✗
-Demo One (Version 6) (Europe) (En,Fr,De,Es,It)                                                                           -      -     -
+Demo One (Version 6) (Europe, Australia) (En,Fr,De,Es,It)                                                                ✗      ✗     ✗
 Demo One (Version 7) (Europe) (En,Fr,De,Es,It)                                                                           ✗      ✗     ✗
 DemoDemo PlayStation Soukan-gou Vol. 1 (Japan)                                                                           -      ✗     ✗
 DemoDemo PlayStation Special (Japan)                                                                                     ✗      ✗     ✗
@@ -2002,7 +2013,6 @@ Detana Twinbee Yahoo! Deluxe Pack (Japan)                                       
 Detective Barbie - The Mystery Cruise (Europe)                                                                           -      -     -
 Detective Barbie - The Mystery Cruise (USA)                                                                              -      -     -
 Detective Mouse (Europe) (En,Fr,De)                                                                                      -      -     -
-Deuce (Midway) (Proto)                                                                                                   ✗      ✗     ✗
 Deuce (USA) (Proto)                                                                                                      ✗      -     ✗
 Devicereign (Japan)                                                                                                      -      -     -
 Devil Dice (Europe) (En,Fr,De,Es,It)                                                                                     -      -     -
@@ -2087,6 +2097,7 @@ Dioramos (Japan) (Demo)                                                         
 Dirt Champ Motocross No. 1 (Japan)                                                                                       -      -     -
 Dirt Champ Motocross No. 1 (Japan) (Demo)                                                                                ✗      -     ✗
 Dirt Jockey - Heavy Equipment Operator (USA)                                                                             -      -     -
+Dirt Jockey - Heavy Equipment Operator (USA) (Beta)                                                                      ✗      -     ✗
 Disc Derby - Meiba o Tsukurou!! (Japan)                                                                                  -      -     -
 Disc Station Bessatsu - I Miss You. Tanaka Katsumi (Japan)                                                               -      ✗     ✗
 Discworld (Japan)                                                                                                        -      -     -
@@ -2151,6 +2162,7 @@ Disney Ven a la Fiesta! con Winnie the Pooh (Spain)                             
 Disney Winnie l'Ourson - La Chasse au Miel de Tigrou (France)                                                            -      -     -
 Disney le Roi Lion - La Formidable Aventure de Simba (France)                                                            -      -     -
 Disney's 101 Dalmatians II - Patch's London Adventure (USA)                                                              -      -     -
+Disney's 102 Dalmatians - Puppies to the Rescue (Eidos) (M5)[cr PDX][SLES-03191]                                         ✗      ✗     ✗
 Disney's 102 Dalmatians - Puppies to the Rescue (Europe)                                                                 -      -     -
 Disney's 102 Dalmatians - Puppies to the Rescue (Europe) (Fr,De,Es,It,Nl)                                                -      -     -
 Disney's 102 Dalmatians - Puppies to the Rescue (Europe) (Rev 1)                                                         -      -     -
@@ -2203,6 +2215,7 @@ Disney's Story Studio - Mulan (USA)                                             
 Disney's Tarzan (Europe)                                                                                                 -      -     -
 Disney's Tarzan (Japan)                                                                                                  -      -     -
 Disney's Tarzan (Netherlands)                                                                                            -      -     -
+Disney's Tarzan (Netherlands) (EDC)                                                                                      ✗      -     ✗
 Disney's Tarzan (USA)                                                                                                    -      -     -
 Disney's Tarzan (USA) (Rerelease)                                                                                        -      -     -
 Disney's Teigetjes Honingjacht (Netherlands)                                                                             -      -     -
@@ -2311,10 +2324,10 @@ Disneys Tarzan (Sweden)                                                         
 Disneys Tigerdyrets honningjagt (Denmark)                                                                                -      -     -
 Disneys Tiggers Honigjagd (Germany)                                                                                      -      -     -
 Disruptor (Europe)                                                                                                       -      -     -
+Disruptor (Europe) (Demo)                                                                                                ✗      -     ✗
 Disruptor (France)                                                                                                       -      -     -
 Disruptor (Germany)                                                                                                      -      -     -
 Disruptor (Japan)                                                                                                        -      -     -
-Disruptor (UK) (Demo)                                                                                                    ✗      ✗     ✗
 Disruptor (USA)                                                                                                          -      -     -
 Diver's Dream (Europe) (En,Fr,De)                                                                                        -      -     -
 Diver's Dream (Europe) (En,Fr,De) (Beta)                                                                                 ✗      -     ✗
@@ -2577,6 +2590,7 @@ EPS Series Vol. 2 - Moonlight to Daybreak - Yukie Nakama (Japan)                
 EPS Series Vol. 3 - Come and Kiss Me - Tomomi Tsunoda (Japan)                                                            -      -     -
 EPS Series Vol. 4 - Noise Reduction - Tomoa Yamamoto (Japan)                                                             -      -     -
 EPS Series Vol. 5 - Believer Dreamer - Junko Mizutani (Japan)                                                            -      -     -
+EQ One (UK) (Unl)                                                                                                        ✗      ✗     ✗
 ESPN Extreme Games (Europe)                                                                                              -      -     -
 ESPN Extreme Games (USA)                                                                                                 -      -     -
 ESPN MLS Gamenight (USA)                                                                                                 -      -     -
@@ -2719,7 +2733,6 @@ Euro Demo (Future) 95 (Europe)                                                  
 Euro Demo (Future) 96 (Europe)                                                                                           ✗      ✗     ✗
 Euro Demo (Future) 97 (Europe)                                                                                           ✗      ✗     ✗
 Euro Demo (Future) 98 (Europe)                                                                                           ✗      ✗     ✗
-Euro Demo (Future) 99 (Europe)                                                                                           -      -     -
 Euro Demo 01 (Europe)                                                                                                    ✗      ✗     ✗
 Euro Demo 01-00 (Germany)                                                                                                ✗      ✗     ✗
 Euro Demo 01-01 (Germany)                                                                                                ✗      ✗     ✗
@@ -2750,7 +2763,6 @@ Euro Demo 05-01 (Germany)                                                       
 Euro Demo 05-02 (Germany)                                                                                                ✗      ✗     ✗
 Euro Demo 05-99 (Germany)                                                                                                ✗      ✗     ✗
 Euro Demo 06 (Europe)                                                                                                    ✗      ✗     ✗
-Euro Demo 06 (France)                                                                                                    ✗      ✗     ✗
 Euro Demo 06 (Germany)                                                                                                   ✗      ✗     ✗
 Euro Demo 06-00 (Germany)                                                                                                ✗      ✗     ✗
 Euro Demo 06-01 (Germany)                                                                                                ✗      ✗     ✗
@@ -2764,8 +2776,7 @@ Euro Demo 07-00 (Germany)                                                       
 Euro Demo 07-01 (Germany)                                                                                                ✗      ✗     ✗
 Euro Demo 07-02 (Germany)                                                                                                ✗      ✗     ✗
 Euro Demo 07-99 (Germany)                                                                                                ✗      ✗     ✗
-Euro Demo 08 (Europe) (SCED-00360)                                                                                       ✗      ✗     ✗
-Euro Demo 08 (Europe) (SCES-00186)                                                                                       ✗      ✗     ✗
+Euro Demo 08 (Europe)                                                                                                    ✗      ✗     ✗
 Euro Demo 08 (Germany)                                                                                                   ✗      ✗     ✗
 Euro Demo 08-00 (Germany)                                                                                                ✗      ✗     ✗
 Euro Demo 08-01 (Germany)                                                                                                ✗      ✗     ✗
@@ -2858,16 +2869,16 @@ Euro Demo 33 (Europe)                                                           
 Euro Demo 33 (France)                                                                                                    ✗      ✗     ✗
 Euro Demo 34 (Europe)                                                                                                    ✗      ✗     ✗
 Euro Demo 34 (France)                                                                                                    ✗      ✗     ✗
-Euro Demo 35 (Europe)                                                                                                    ✗      ✗     ✗
+Euro Demo 35 (Europe, Australia)                                                                                         ✗      ✗     ✗
 Euro Demo 35 (France)                                                                                                    ✗      ✗     ✗
 Euro Demo 36 (France)                                                                                                    ✗      ✗     ✗
 Euro Demo 37 (Europe)                                                                                                    ✗      ✗     ✗
 Euro Demo 37 (France)                                                                                                    ✗      ✗     ✗
 Euro Demo 38 (Europe)                                                                                                    ✗      ✗     ✗
 Euro Demo 38 (France)                                                                                                    ✗      ✗     ✗
-Euro Demo 39 (Europe)                                                                                                    ✗      ✗     ✗
+Euro Demo 39 (Europe, Australia)                                                                                         ✗      ✗     ✗
 Euro Demo 39 (France)                                                                                                    ✗      ✗     ✗
-Euro Demo 40 (Europe)                                                                                                    ✗      ✗     ✗
+Euro Demo 40 (Europe, Australia)                                                                                         ✗      ✗     ✗
 Euro Demo 40 (France)                                                                                                    ✗      ✗     ✗
 Euro Demo 41 (Europe)                                                                                                    ✗      ✗     ✗
 Euro Demo 41 (France)                                                                                                    ✗      ✗     ✗
@@ -2939,6 +2950,7 @@ Euro Demo 89 (Europe)                                                           
 Euro Demo 90 (Europe)                                                                                                    ✗      ✗     ✗
 Euro Demo 91 (Europe)                                                                                                    ✗      ✗     ✗
 Euro Demo 92 (Europe)                                                                                                    ✗      ✗     ✗
+Euro Demo 99 (Europe)                                                                                                    ✗      ✗     ✗
 Euro Demo Classics Special (Germany)                                                                                     ✗      ✗     ✗
 Euro Demo Future 93 (Europe)                                                                                             ✗      ✗     ✗
 Europe Racer (Europe) (En,Fr,De,Es,It,Nl)                                                                                -      -     -
@@ -2970,7 +2982,7 @@ Every Child Can Succeed 4 (USA)                                                 
 Every Child Can Succeed 5 (USA)                                                                                          ✗      ✗     ✗
 Every Child Can Succeed 6 (USA)                                                                                          ✗      ✗     ✗
 Every Child Can Succeed 7 (USA)                                                                                          ✗      ✗     ✗
-Everybody's Golf (Europe) (En,Fr,De,Es,It)                                                                               ✗      ✗     ✗
+Everybody's Golf (Europe, Australia) (En,Fr,De,Es,It)                                                                    -      -     -
 Everybody's Golf 2 (Europe)                                                                                              -      -     -
 Evil Dead - Hail to the King (Europe) (Disc 1)                                                                           -      -     -
 Evil Dead - Hail to the King (Europe) (Disc 2)                                                                           -      -     -
@@ -3034,6 +3046,7 @@ F1 World Grand Prix (Germany)                                                   
 F1 World Grand Prix (Italy)                                                                                              -      -     -
 F1 World Grand Prix (USA)                                                                                                -      -     -
 F1 World Grand Prix - 1999 Season (Europe) (En,Fr,De,Es,It)                                                              -      -     -
+F1 World Grand Prix - 1999 Season (Europe) (En,Fr,De,Es,It) (Beta)                                                       ✗      -     ✗
 F1 World Grand Prix - 1999 Season (USA) (En,Fr,De,Es,It)                                                                 -      -     -
 F1 World Grand Prix - Saison 2000 (France)                                                                               -      -     -
 FEDA 2 - White Surge the Platoon (Japan)                                                                                 -      -     -
@@ -3220,7 +3233,7 @@ Fighting Force 2 (Europe) (En,Fr)                                               
 Fighting Force 2 (Europe) (Es,It)                                                                                        -      -     -
 Fighting Force 2 (Germany)                                                                                               -      -     -
 Fighting Force 2 (USA)                                                                                                   -      -     -
-Fighting Force _ Tomb Raider II (Europe) (En,Fr,De) (Demo)                                                               ✗      ✗     ✗
+Fighting Force _ Tomb Raider II (Germany) (En,Fr,De) (Demo)                                                              ✗      ✗     ✗
 Fighting Illusion - K-1 GP 2000 (Japan)                                                                                  -      -     -
 Fighting Illusion - K-1 Grand Prix '98 (Japan)                                                                           -      -     -
 Fighting Illusion - K-1 Grand Prix '98 (Japan) (Demo)                                                                    ✗      -     ✗
@@ -3432,7 +3445,6 @@ Formula Karts - Special Edition (Europe) (En,De,Es,It)                          
 Formula Nippon '99 - Racing Driver ni Narou! (Japan)                                                                     -      -     -
 Formula Nippon (Europe) (En,Es,It)                                                                                       -      -     -
 Formula Nippon (Europe) (Fr,De)                                                                                          -      -     -
-Formula One '99 (Europe) (En,Fr,De,It) (Beta)                                                                            ✗      -     ✗
 Formula One (Europe) (En,Fr,De,Es,It) (Demo)                                                                             ✗      ✗     ✗
 Formula One 2000 (Europe) (En,Fi)                                                                                        -      -     -
 Formula One 2000 (Europe) (Es,It)                                                                                        -      -     -
@@ -3445,6 +3457,7 @@ Formula One 2001 (Europe) (Fr,De)                                               
 Formula One 2001 (Russia)                                                                                                -      -     -
 Formula One 99 (Europe) (En,Es,Fi)                                                                                       -      -     -
 Formula One 99 (Europe) (En,Fr,De,It)                                                                                    -      -     -
+Formula One 99 (Europe) (En,Fr,De,It) (Beta)                                                                             ✗      ✗     ✗
 Formula One 99 (Japan)                                                                                                   -      -     -
 Formula One 99 (USA, Canada) (En,Fr,Es)                                                                                  -      -     -
 Formula One Arcade (Europe) (En,Fr,De,Es,It)                                                                             -      -     -
@@ -3477,9 +3490,21 @@ Freestyle Scooter (Europe)                                                      
 Frenzy! (Europe)                                                                                                         -      -     -
 Frogger (Europe) (En,Fr,De,Es,It)                                                                                        -      -     -
 Frogger (Japan)                                                                                                          -      -     -
+Frogger (Japan) (Demo)                                                                                                   ✗      -     ✗
 Frogger (USA)                                                                                                            -      -     -
+Frogger 2 - Swampy's Revenge (Europe) (Beta 1)                                                                           ✗      -     ✗
+Frogger 2 - Swampy's Revenge (Europe) (Beta 3)                                                                           ✗      -     ✗
+Frogger 2 - Swampy's Revenge (Europe) (Beta 4)                                                                           ✗      -     ✗
+Frogger 2 - Swampy's Revenge (Europe) (Beta 5)                                                                           ✗      -     ✗
 Frogger 2 - Swampy's Revenge (Europe) (En,Fr,De,It)                                                                      -      -     -
+Frogger 2 - Swampy's Revenge (Europe) (En,Fr,De,It) (Beta 2)                                                             ✗      -     ✗
 Frogger 2 - Swampy's Revenge (USA)                                                                                       -      -     -
+Frogger 2 - Swampy's Revenge (USA) (Beta 1)                                                                              ✗      -     ✗
+Frogger 2 - Swampy's Revenge (USA) (Beta 2)                                                                              ✗      -     ✗
+Frogger 2 - Swampy's Revenge (USA) (Beta 3)                                                                              ✗      -     ✗
+Frogger 2 - Swampy's Revenge (USA) (Beta 4)                                                                              ✗      -     ✗
+Frogger 2 - Swampy's Revenge (USA) (Beta 5)                                                                              ✗      -     ✗
+Frogger 2 - Swampy's Revenge (USA) (Beta 6)                                                                              ✗      -     ✗
 From Software 1998 Summer Preview Movies (Japan)                                                                         -      ✗     ✗
 From TV Animation One Piece - Grand Battle! (Japan)                                                                      -      -     -
 From TV Animation One Piece - Grand Battle! 2 (Japan)                                                                    -      -     -
@@ -3657,6 +3682,7 @@ GameShark CDX (USA) (Unl) (v4.11B)                                              
 GameShark CDX - Version 3.3 (USA) (Unl) (v3.3)                                                                           ✗      ✗     ✗
 GameShark Lite (USA) (Unl)                                                                                               ✗      ✗     ✗
 GameShark Sampler (USA) (Sample GameShark and Bonus Savegames) (Unl)                                                     ✗      ✗     ✗
+Gamebuster (UK) (Unl)                                                                                                    ✗      ✗     ✗
 Gamera 2000 (Japan) (Demo)                                                                                               ✗      -     ✗
 Gamera 2000 (Japan) (En,Ja)                                                                                              -      -     -
 Ganbare Goemon - Kuru nara Koi! Ayashige Ikka no Kuroi Kage (Japan)                                                      -      -     -
@@ -3800,9 +3826,12 @@ Gran Turismo (USA)                                                              
 Gran Turismo (USA) (Demo)                                                                                                ✗      -     ✗
 Gran Turismo (USA) (Rev 1)                                                                                               -      -     -
 Gran Turismo 2 (Europe) (En,Fr,De,Es,It) (Disc 1) (Arcade Mode)                                                          -      -     -
+Gran Turismo 2 (Europe) (En,Fr,De,Es,It) (Disc 1) (Arcade Mode) (Beta)                                                   ✗      ✗     ✗
 Gran Turismo 2 (Europe) (En,Fr,De,Es,It) (Disc 2) (Gran Turismo Mode)                                                    -      -     -
 Gran Turismo 2 (France) (Un CD Bonus)                                                                                    -      -     -
 Gran Turismo 2 (Japan) (Demo)                                                                                            ✗      -     ✗
+Gran Turismo 2 (Japan) (Disc 1) (Arcade) (Beta)                                                                          ✗      ✗     ✗
+Gran Turismo 2 (Japan) (Disc 2) (Gran Turismo) (Beta)                                                                    ✗      ✗     ✗
 Gran Turismo 2 (Japan) (Disc 2) (Gran Turismo) (Rev 1)                                                                   -      -     -
 Gran Turismo 2 (Japan, Asia) (Disc 1) (Arcade)                                                                           -      -     -
 Gran Turismo 2 (Japan, Asia) (Disc 2) (Gran Turismo)                                                                     -      -     -
@@ -4387,6 +4416,7 @@ Inuyasha (Japan) (Shokai Seisanban)                                             
 Inuyasha - A Feudal Fairy Tale (USA)                                                                                     -      -     -
 Inuyasha - A Feudal Fairy Tale (USA) (Rev 1)                                                                             -      -     -
 Inuyasha - Sengoku Otogi Gassen (Japan)                                                                                  -      -     -
+Inuyasha - Sengoku Otogi Gassen (Japan) (Demo)                                                                           ✗      -     ✗
 Invasion (Europe) (En,Fr,De,Es,It,Nl)                                                                                    -      -     -
 Invasion Vient de l'Espace, L' (France)                                                                                  -      -     -
 Invasion from Beyond (USA)                                                                                               -      -     -
@@ -4649,11 +4679,14 @@ Kamen Rider V3 (Japan)                                                          
 Kanazawa Shougi '95 (Japan)                                                                                              -      -     -
 Kanazawa Shougi - Tsuki (Japan)                                                                                          -      -     -
 Karat PS PS2-you Pro Action Replay CDX2 (Japan) (Unl)                                                                    ✗      ✗     ✗
+Karat PS PS2-you Pro Action Replay CDX2 (Japan) (Unl) (Rev 1)                                                            ✗      ✗     ✗
+Karat PS PS2-you Pro Action Replay CDX2 (Japan) (Unl) (Rev 2)                                                            ✗      ✗     ✗
 Karat PS PS2-you Pro Action Replay CDX2 Demo-ban (Japan) (Unl)                                                           ✗      ✗     ✗
 Karat PS PS2-you Pro Action Replay CDX2 Sampler (Japan) (Unl)                                                            ✗      ✗     ✗
 Karat PS PS2-you Pro Action Replay CDX2 Taikenban (Japan) (Unl)                                                          ✗      ✗     ✗
 Karat PS-PS2-you Catalog _ Taikenban (Japan) (Unl)                                                                       ✗      ✗     ✗
-Karat PS1-you Pro Action Replay CDX3 (Japan) (Unl)                                                                       -      ✗     ✗
+Karat PS1-you CDX3 Pro Action Replay Taikenban (Japan) (Unl)                                                             ✗      ✗     ✗
+Karat PS1-you Pro Action Replay CDX3 (Japan) (Unl) (v4.2)                                                                ✗      ✗     ✗
 Kart Challenge (Europe) (En,Fr,De,It)                                                                                    -      -     -
 Kart Race - Kimete wa Drift! (Japan)                                                                                     -      -     -
 Kartia - The Word of Fate (USA)                                                                                          -      -     -
@@ -4770,6 +4803,7 @@ Kids Station - Oja Majo DoReMi Dokkan! Maho-dou Eigo Festival (Japan)           
 Kids Station - Oshaberi Oekaki - Kikansha Thomas to Nakama-tachi (Japan)                                                 -      -     -
 Kids Station - Oshaberi Oekaki - Soreike! Anpanman (Japan)                                                               -      -     -
 Kids Station - Oshaberi Oekaki - Soreike! Anpanman (Japan) (Controller Set)                                              -      -     -
+Kids Station - Oshaberi Oekaki Kikansha Thomas to Nakamatachi (Japan) (Controller Set)                                   ✗      -     ✗
 Kids Station - Plarail - Tetsudou Monoshiri Hyakka (Japan)                                                               -      -     -
 Kids Station - Ponkickies 21 - Game no Omocha-bako (Japan)                                                               -      -     -
 Kids Station - Soreike! Anpanman (Japan)                                                                                 -      -     -
@@ -4780,6 +4814,7 @@ Kids Station - Ugoku Tomica Zukan (Japan)                                       
 Kids Station - Ultraman Cosmos (Japan)                                                                                   -      -     -
 Kids Station - Unten Daisuki - Doki Doki - Norimono Daibouken (Japan)                                                    -      -     -
 Kids Station - Yancharu Moncha (Japan)                                                                                   -      -     -
+Kids Station - Yancharu Moncha (Japan) (Controller Set)                                                                  ✗      ✗     ✗
 Kiganjou (Japan)                                                                                                         -      -     -
 Kikuni Masahiko Jirushi - Warau Fukei-san Pachi-Slot Hunter (Japan)                                                      -      -     -
 Kileak - The Blood (Europe)                                                                                              -      -     -
@@ -4817,6 +4852,7 @@ King of Fighters '98, The - Dream Match Never Ends (Japan) (Rev 1)              
 King of Fighters '99, The (Japan)                                                                                        -      -     -
 King of Fighters '99, The (USA)                                                                                          -      -     -
 King of Fighters Kyou, The (Japan)                                                                                       -      ✗     ✗
+King of Fighters Kyou, The (Japan) (Demo)                                                                                ✗      ✗     ✗
 King of Parlor (Japan)                                                                                                   -      -     -
 King of Parlor 2 (Japan)                                                                                                 -      -     -
 King of Producer (Japan)                                                                                                 -      -     -
@@ -5063,7 +5099,6 @@ Le Concert - pp - Pianissimo (Japan)                                            
 Le Mans 24 Hours (Europe) (En,Fr,De,Es,It,Pt)                                                                            -      -     -
 Leading Jockey '99 (Japan)                                                                                               -      -     -
 Leading Jockey Highbred (Japan)                                                                                          -      -     -
-Legacy of Kain - Soul Reaver (1999-06-28) (Crystal Dynamics - Eidos) (USA) (Beta)                                        ✗      ✗     ✗
 Legacy of Kain - Soul Reaver (Europe)                                                                                    -      -     -
 Legacy of Kain - Soul Reaver (Europe) (Demo)                                                                             ✗      -     ✗
 Legacy of Kain - Soul Reaver (France)                                                                                    -      -     -
@@ -5437,7 +5472,7 @@ Mars Moose Adventure - WalkAbout 2 - The Shakespeare Festival (USA)             
 Mars Moose Adventure - WalkAbout 3 - World Sports Day (USA)                                                              ✗      ✗     -
 Mars Moose Cosmic Quest 1 - City Sights (USA)                                                                            ✗      -     -
 Mars Moose Cosmic Quest 2 - Fairy Tale Island (USA)                                                                      -      -     -
-Mars Moose Cosmic Quest 3 - Race through France (USA)                                                                    ✗      ✗     ✗
+Mars Moose Cosmic Quest 3 - Race Through France (USA)                                                                    -      -     -
 Mars Moose Stay and Play 1 - In the Clubhouse (USA)                                                                      -      -     -
 Mars Moose Stay and Play 2 - In Mars' Bedroom (USA)                                                                      -      -     -
 Mars Moose Stay and Play 3 - In Lonnie's Classroom (USA)                                                                 ✗      -     -
@@ -5464,7 +5499,7 @@ Marvel vs. Capcom - Clash of Super Heroes - EX Edition (Japan) (Demo)           
 Mary King's Riding Star (Europe) (En,Fr,De,Es,It,Nl,Pt)                                                                  -      -     -
 Mary-Kate and Ashley - Crush Course (Europe)                                                                             -      -     -
 Mary-Kate and Ashley - Crush Course (USA)                                                                                -      -     -
-Mary-Kate and Ashley - Magical Mystery Mall (Europe, Australia)                                                          -      -     -
+Mary-Kate and Ashley - Magical Mystery Mall (Australia)                                                                  ✗      -     ✗
 Mary-Kate and Ashley - Magical Mystery Mall (USA)                                                                        -      -     -
 Mary-Kate and Ashley - Winners Circle (Europe)                                                                           -      -     -
 Mary-Kate and Ashley - Winners Circle (USA)                                                                              -      -     -
@@ -5478,7 +5513,7 @@ Master of Monsters - Disciples of Gaia (Europe) (En,Fr,De)                      
 Master of Monsters - Disciples of Gaia (USA)                                                                             -      -     -
 Masters - Shin Harukanaru Augusta (Japan)                                                                                -      -     -
 Masters Fighter, The (Japan)                                                                                             -      -     -
-Mat Hoffman's Pro BMX (Europe)                                                                                           ✗      -     ✗
+Mat Hoffman's Pro BMX (Europe, Australia)                                                                                -      -     -
 Mat Hoffman's Pro BMX (France)                                                                                           -      -     -
 Mat Hoffman's Pro BMX (Germany)                                                                                          -      -     -
 Mat Hoffman's Pro BMX (Japan)                                                                                            -      -     -
@@ -5557,6 +5592,7 @@ MediEvil 2 (Russia)                                                             
 MediEvil Collector's Edition (UK) (Demo)                                                                                 ✗      -     ✗
 MediEvil II (USA)                                                                                                        -      -     -
 MediEvil Special (France) (Demo)                                                                                         ✗      -     ✗
+Mega Man - Battle _ Chase (Europe)                                                                                       -      -     -
 Mega Man 8 (Europe)                                                                                                      -      -     -
 Mega Man 8 (USA)                                                                                                         -      -     -
 Mega Man Legends (Europe)                                                                                                -      -     -
@@ -5573,7 +5609,6 @@ Mega Man X6 (Europe)                                                            
 Mega Man X6 (Korea)                                                                                                      -      -     -
 Mega Man X6 (USA)                                                                                                        -      -     -
 Mega Man X6 (USA) (Rev 1)                                                                                                -      -     -
-Megaman - Battle _ Chase (Europe)                                                                                        -      ✗     ✗
 Megami Ibunroku Persona - Be Your True Mind (Japan)                                                                      -      -     -
 Megami Ibunroku Persona - Be Your True Mind (Japan) (Rev 1)                                                              -      -     -
 Megatudo 2096 (Japan)                                                                                                    -      -     -
@@ -5797,7 +5832,7 @@ Mona _ Moki 1 - Drive Me Wild! (USA)                                            
 Mona _ Moki 2 - Drive Me Wilder! (USA)                                                                                   ✗      -     -
 Monaco Grand Prix (USA)                                                                                                  -      -     -
 Monaco Grand Prix Racing Simulation 2 (Europe) (En,Fr,Es,It)                                                             -      -     -
-Monaco Grand Prix Racing Simulation 2 (Europe) (En,Fr,Es,It) (Demo)                                                      ✗      ✗     ✗
+Monaco Grand Prix Racing Simulation 2 (France) (En,Fr,Es,It) (Demo)                                                      ✗      -     ✗
 Monaco Grand Prix Racing Simulation 2 (Japan)                                                                            -      -     -
 Monde des Bleus 2, Le (France)                                                                                           -      -     -
 Monde des Bleus 2, Le (France) (Demo)                                                                                    ✗      -     ✗
@@ -5889,8 +5924,8 @@ Moto Racer (Europe) (En,Fr,De,Es,It,Sv) (EDC)                                   
 Moto Racer (France) (Demo)                                                                                               ✗      -     ✗
 Moto Racer (Japan)                                                                                                       -      -     -
 Moto Racer (USA)                                                                                                         -      -     -
-Moto Racer 2 (Europe) (Demo)                                                                                             ✗      ✗     ✗
 Moto Racer 2 (Europe) (En,Fr,De,Es,It,Sv)                                                                                -      -     -
+Moto Racer 2 (France) (Demo)                                                                                             ✗      -     ✗
 Moto Racer 2 (Japan)                                                                                                     -      -     -
 Moto Racer 2 (USA)                                                                                                       -      -     -
 Moto Racer World Tour (Europe) (En,Fr,De,Es,It,Sv)                                                                       -      -     -
@@ -5921,6 +5956,7 @@ Mr. Driller (Japan)                                                             
 Mr. Driller (Japan) (Beta)                                                                                               ✗      -     ✗
 Mr. Driller (USA)                                                                                                        -      -     -
 Mr. Driller G (Japan)                                                                                                    -      -     -
+Mr. Driller G (Namco) (Japan)[h PDX][SLPS-03336]                                                                         ✗      ✗     ✗
 Mr. Prospector - Horiate-kun (Japan)                                                                                     -      -     -
 Ms. Pac-Man Maze Madness (Europe) (En,Fr,De,Es,It)                                                                       -      -     -
 Ms. Pac-Man Maze Madness (Japan)                                                                                         -      -     -
@@ -6350,6 +6386,7 @@ Nickelodeon Rugrats - De Speurtocht naar Reptar (Netherlands)                   
 Nickelodeon Rugrats - Excursion al estudio (Spain)                                                                       -      -     -
 Nickelodeon Rugrats - La Busqueda de Reptar (Spain)                                                                      -      -     -
 Nickelodeon Rugrats - Search for Reptar (Europe)                                                                         -      -     -
+Nickelodeon Rugrats - Search for Reptar (Europe) (Demo)                                                                  ✗      -     ✗
 Nickelodeon Rugrats - Search for Reptar (USA)                                                                            -      -     -
 Nickelodeon Rugrats - Search for Reptar (USA) (Demo)                                                                     ✗      -     ✗
 Nickelodeon Rugrats - Studio Tour (Europe)                                                                               -      -     -
@@ -6399,6 +6436,7 @@ Ninja - Shadow of Darkness (Europe) (Es,It)                                     
 Ninja - Shadow of Darkness (Germany)                                                                                     -      -     -
 Ninja - Shadow of Darkness (USA)                                                                                         -      -     -
 Ninja Jajamaru-kun - Onigiri Ninpouchou (Japan)                                                                          -      -     -
+Ninja Jajamaru-kun - Onigiri Ninpouchou (Japan) (Demo)                                                                   ✗      -     ✗
 Ninkuu (Japan)                                                                                                           -      ✗     ✗
 Ninpuu Sentai Hurricanger (Japan)                                                                                        -      -     -
 Ninteiou - Zen Nihon Tsume Shougi Renmei Kaichou Okada Toshi no Tsume Shougi Kyoushitsu (Japan)                          -      -     -
@@ -6563,6 +6601,7 @@ Ogre Battle - Limited Edition (USA)                                             
 Oh No! (Japan)                                                                                                           -      -     -
 Oh! Bakyuuun (Japan)                                                                                                     -      -     -
 Oh-chan no Oekaki Logic (Japan)                                                                                          -      -     -
+Oh-chan no Oekaki Logic 2 (Japan)                                                                                        ✗      ✗     ✗
 Oh-chan no Oekaki Logic 2 (Japan) (Rev 1)                                                                                -      -     -
 Oh-chan no Oekaki Logic 3 (Japan)                                                                                        -      -     -
 Oha-Studio Dance Dance Revolution (Japan)                                                                                -      -     -
@@ -6586,8 +6625,8 @@ Omega Boost (USA)                                                               
 Omiai Commando - Ba-Couple ni Tsukkomi o (Japan)                                                                         -      -     -
 Omise de Tenshu (Japan)                                                                                                  -      -     -
 Omizu no Hanamichi (Japan)                                                                                               -      -     -
-One (Europe) (Demo)                                                                                                      ✗      ✗     ✗
 One (Europe) (En,Fr,De,Es,It)                                                                                            -      -     -
+One (France) (Demo)                                                                                                      ✗      -     ✗
 One (Japan)                                                                                                              -      -     -
 One (USA)                                                                                                                -      -     -
 One Piece Mansion (Europe)                                                                                               -      -     -
@@ -6613,6 +6652,7 @@ Option - Tuning Car Battle 2 (Japan)                                            
 Option - Tuning Car Battle Spec R (Japan)                                                                                -      -     -
 Oracle no Houseki - Jewels of the Oracle (Japan) (En,Ja,Fr,De)                                                           -      -     -
 Ore no Ryouri (Japan)                                                                                                    -      -     -
+Ore no Ryouri (Japan) (Demo)                                                                                             ✗      -     ✗
 Ore no Shikabane o Koete Yuke (Japan)                                                                                    -      -     -
 Ore no Shikabane o Koete Yuke (Japan) (Demo)                                                                             ✗      -     ✗
 Ore no Yotto - Ganbare! Nippon Challenge (Japan) (En,Ja)                                                                 -      -     -
@@ -6959,6 +6999,7 @@ Pizza Hut Disc 2 (USA) (EDC)                                                    
 Planet Dob (Japan)                                                                                                       -      -     -
 Planet Dob (Japan) (Demo)                                                                                                ✗      -     ✗
 Planet Laika (Japan)                                                                                                     -      -     -
+Planet PSX Cheats - Volume 3 (UK) (Unl)                                                                                  ✗      ✗     ✗
 Planet PSX Volume 1 (Germany) (Unl)                                                                                      ✗      ✗     ✗
 Planet PSX Volume 2 (Germany) (Unl)                                                                                      ✗      ✗     ✗
 Planet PSX Volume 3 (Germany) (Unl)                                                                                      ✗      ✗     ✗
@@ -7187,8 +7228,8 @@ Point Blank (Europe) (En,Fr,De) (Rev 1)                                         
 Point Blank (USA)                                                                                                        -      -     -
 Point Blank 2 (Europe, Australia) (En,Fr,De,Es,It)                                                                       -      -     -
 Point Blank 2 (USA)                                                                                                      -      -     -
-Point Blank 3 (Europe) (En,Fr,De,Es,It)                                                                                  -      -     -
 Point Blank 3 (Europe) (En,Fr,De,Es,It) (Beta)                                                                           ✗      -     ✗
+Point Blank 3 (Europe, Australia) (En,Fr,De,Es,It)                                                                       ✗      -     ✗
 Point Blank 3 (USA)                                                                                                      -      -     -
 Poitter's Point 2 - Sodom no Inbou (Japan, Asia)                                                                         -      -     -
 Poitters' Point (Japan)                                                                                                  -      -     -
@@ -7424,6 +7465,7 @@ RC Revenge (Europe) (En,Fr,De,Es)                                               
 RC Revenge (Europe) (En,Fr,De,Es) (Demo)                                                                                 ✗      -     ✗
 RC Revenge (Japan)                                                                                                       -      -     -
 RC Revenge (USA)                                                                                                         -      -     -
+RC Revenge (USA)[h BAD][SLUS-01168]                                                                                      ✗      ✗     ✗
 RC de Go! (Europe)                                                                                                       -      -     -
 RC de Go! (Japan)                                                                                                        -      -     -
 RC de Go! (Japan) (Demo)                                                                                                 ✗      -     ✗
@@ -7598,6 +7640,7 @@ Resident Evil (Europe)                                                          
 Resident Evil (Europe) (EDC)                                                                                             -      -     -
 Resident Evil (Europe, Australia) (Demo)                                                                                 ✗      -     ✗
 Resident Evil (France)                                                                                                   -      -     -
+Resident Evil (France) (Demo)                                                                                            ✗      -     ✗
 Resident Evil (France) (EDC)                                                                                             -      -     -
 Resident Evil (Germany)                                                                                                  -      -     -
 Resident Evil (Germany) (Demo)                                                                                           ✗      -     ✗
@@ -7772,13 +7815,12 @@ Rockman Dash - Hagane no Boukenshin (Japan)                                     
 Rockman Dash - Hagane no Boukenshin (Japan) (Demo)                                                                       ✗      -     ✗
 Rockman Dash - Hagane no Boukenshin (Japan) (Digest-ban)                                                                 -      -     -
 Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan) (Demo)                                            ✗      -     ✗
-Rockman Dash 2 - Episode 2 - Ooi naru Isan (Japan)                                                                       ✗      ✗     ✗
+Rockman Dash 2 - Episode 2 - Ooinaru Isan (Japan)                                                                        -      -     -
 Rockman X3 (Japan)                                                                                                       -      -     -
 Rockman X4 (Japan)                                                                                                       -      -     -
 Rockman X4 (Japan) (Special Limited Pack)                                                                                -      -     -
 Rockman X4, Rockman 8 - Metal Heroes, Rockman - Battle _ Chase (Japan) (Demo)                                            ✗      ✗     ✗
 Rockman X5 (Japan)                                                                                                       -      -     -
-Rockman X6 (2001-09-28) (Capcom) (Japan) (Beta)                                                                          ✗      ✗     ✗
 Rockman X6 (Japan)                                                                                                       -      -     -
 Roger Lemerre - La Selection des Champions (France)                                                                      -      -     -
 Roger Lemerre - La Selection des Champions 2002 (France)                                                                 -      -     -
@@ -7789,8 +7831,8 @@ Rogue Trip - Vacation 2012 (USA) (Demo) (Alt)                                   
 Roland Garros French Open 2001 (Europe) (En,Fr,De,Es,It)                                                                 -      -     -
 Roll Away (USA)                                                                                                          -      -     -
 Rollcage (Europe) (Demo)                                                                                                 ✗      -     ✗
-Rollcage (Europe) (En,Fr,De,Es,It)                                                                                       -      -     -
 Rollcage (Europe) (En,Fr,De,Es,It) (Demo)                                                                                ✗      -     ✗
+Rollcage (Europe, Australia) (En,Fr,De,Es,It)                                                                            ✗      -     ✗
 Rollcage (USA)                                                                                                           -      -     -
 Rollcage (USA) (Demo)                                                                                                    -      -     ✗
 Rollcage Stage II (Europe) (En,Fr,De,Es,It)                                                                              -      -     -
@@ -7866,7 +7908,7 @@ SaGa Frontier 2 (France)                                                        
 SaGa Frontier 2 (Germany)                                                                                                -      -     -
 SaGa Frontier 2 (USA)                                                                                                    -      -     -
 SaGa Frontier II (Japan, Asia)                                                                                           -      -     -
-Saban's Power Rangers - Lightspeed Rescue (Europe) (En,Fr,De)                                                            -      -     -
+Saban's Power Rangers - Lightspeed Rescue (Europe, Australia) (En,Fr,De)                                                 ✗      ✗     ✗
 Saban's Power Rangers - Lightspeed Rescue (USA)                                                                          -      -     -
 Saban's Power Rangers - Time Force (Europe)                                                                              -      -     -
 Saban's Power Rangers - Time Force (USA)                                                                                 -      -     -
@@ -7946,8 +7988,8 @@ Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Japan) (Disc 1)                
 Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Japan) (Disc 2)                                                         -      -     -
 Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Japan) (Disc 3)                                                         -      -     -
 Saru! Get You! (Japan)                                                                                                   -      -     -
-Saru! Get You! (Japan) (Demo)                                                                                            ✗      ✗     ✗
 Saru! Get You! (Japan) (Rev 1)                                                                                           -      -     -
+Saru! Get You! (Japan, Asia) (Demo)                                                                                      ✗      -     ✗
 SatelliTV (Japan)                                                                                                        -      -     -
 Satomi no Nazo (Japan)                                                                                                   -      -     -
 Schnappi - Das kleine Krokodil - 3 Fun-Games (Germany)                                                                   -      -     -
@@ -8169,7 +8211,6 @@ Silent Bomber (Japan)                                                           
 Silent Bomber (Japan) (Demo)                                                                                             ✗      -     ✗
 Silent Bomber (Spain)                                                                                                    -      -     -
 Silent Bomber (USA)                                                                                                      -      -     -
-Silent Hill (1999-01-22) (Capcom) (USA) (Beta)                                                                           ✗      ✗     ✗
 Silent Hill (Australia) (Demo)                                                                                           ✗      -     ✗
 Silent Hill (Europe) (Demo)                                                                                              ✗      -     ✗
 Silent Hill (Europe) (En,Fr,De,Es,It)                                                                                    -      -     -
@@ -8458,6 +8499,7 @@ Sonata (Japan) (Profile Disc)                                                   
 Sonic Wings Special (Europe)                                                                                             -      -     -
 Sonic Wings Special (Japan)                                                                                              -      -     -
 Sony Computer Entertainment Hyper Fan Book (Japan)                                                                       -      ✗     ✗
+Sony Computer Entertainment Inc. Monthly Software Information - 6-gatsu Hatsubai Yotei Title (Japan)                     ✗      ✗     ✗
 Sony Double Impact Games (Europe)                                                                                        ✗      ✗     ✗
 Sony Music Entertainment - PlayStation Title Digest (Japan)                                                              ✗      ✗     ✗
 Sorcerer's Maze (Europe) (En,Fr,De,Es,It)                                                                                -      -     -
@@ -8519,8 +8561,8 @@ South Park (USA)                                                                
 South Park - Chef's Luv Shack (Europe)                                                                                   -      -     -
 South Park - Chef's Luv Shack (Europe) (Demo)                                                                            ✗      -     ✗
 South Park - Chef's Luv Shack (USA)                                                                                      -      -     -
-South Park Rally (Europe)                                                                                                -      -     -
 South Park Rally (Europe) (En,Fr,De,Es)                                                                                  -      -     -
+South Park Rally (Europe, Australia)                                                                                     ✗      -     ✗
 South Park Rally (USA)                                                                                                   -      -     -
 Southern All Stars - Space MOSA Space Museum of Southern Art (Japan) (Disc 1) (Museum)                                   -      -     -
 Southern All Stars - Space MOSA Space Museum of Southern Art (Japan) (Disc 2) (Library)                                  -      -     -
@@ -8559,6 +8601,7 @@ Sparrow Garden - Namco Mahjong (Japan)                                          
 Spawn - The Eternal (Europe)                                                                                             -      -     -
 Spawn - The Eternal (Japan)                                                                                              -      -     -
 Spawn - The Eternal (USA)                                                                                                -      -     -
+Spawn - The Eternal (USA) (Beta)                                                                                         ✗      ✗     ✗
 Spec Ops - Airborne Commando (Europe) (En,Fr,De,It)                                                                      -      -     -
 Spec Ops - Airborne Commando (USA)                                                                                       -      -     -
 Spec Ops - Covert Assault (Europe) (En,Fr,De,Es,It)                                                                      -      -     -
@@ -8615,8 +8658,6 @@ Spider-Man 2 - La Revanche d'Electro (France)                                   
 Spin Jam (Europe)                                                                                                        -      -     -
 Spin Jam (USA)                                                                                                           -      -     -
 Spin Tail (Japan)                                                                                                        -      -     -
-Spirit Master (Proto)                                                                                                    ✗      ✗     ✗
-Sporting Clays (Doty, Charles) (PD)                                                                                      ✗      ✗     ✗
 Sports Car GT (Europe)                                                                                                   -      -     -
 Sports Car GT (France)                                                                                                   -      -     -
 Sports Car GT (Germany)                                                                                                  -      -     -
@@ -8642,10 +8683,10 @@ Spyro 2 - Gateway to Glimmer (Europe) (En,Fr,De,Es,It)                          
 Spyro 2 - Ripto's Rage! (USA)                                                                                            -      -     -
 Spyro 2 - Ripto's Rage! (USA) (Demo)                                                                                     ✗      -     ✗
 Spyro 2 - Ripto's Rage! _ Crash Team Racing (USA) (Demo)                                                                 ✗      ✗     ✗
-Spyro the Dragon (Europe) (En,Fr,De,Es,It)                                                                               -      -     -
+Spyro the Dragon (Europe, Australia) (En,Fr,De,Es,It)                                                                    ✗      -     ✗
 Spyro the Dragon (Japan)                                                                                                 -      -     -
 Spyro the Dragon (Japan) (Demo)                                                                                          ✗      -     ✗
-Spyro the Dragon (Japan) (Shokai Genteiban)                                                                              -      ✗     ✗
+Spyro the Dragon (Japan, Asia) (Shokai Genteiban)                                                                        -      -     -
 Spyro the Dragon (USA)                                                                                                   -      -     -
 Spyro the Dragon (USA) (Beta) (1998-06-15)                                                                               ✗      -     ✗
 Spyro the Dragon (USA) (Beta) (1998-07-18)                                                                               ✗      -     ✗
@@ -8749,7 +8790,6 @@ Star Wars - Rebel Assault II - The Hidden Empire (Spain) (Disc 1)               
 Star Wars - Rebel Assault II - The Hidden Empire (Spain) (Disc 2)                                                        -      -     -
 Star Wars - Rebel Assault II - The Hidden Empire (USA) (Disc 1)                                                          -      -     -
 Star Wars - Rebel Assault II - The Hidden Empire (USA) (Disc 2)                                                          -      -     -
-StarCon (Accolade) (Proto)                                                                                               ✗      -     ✗
 StarFighter 3000 (Europe) (En,Fr,De,Es,It)                                                                               -      -     -
 StarFighter 3000 (Japan)                                                                                                 -      -     -
 StarSweep (Europe)                                                                                                       -      -     -
@@ -9123,6 +9163,7 @@ Swing (Europe) (En,Fr,De)                                                       
 Swing (Germany)                                                                                                          -      -     -
 Sword of Camelot, The (Europe) (En,Fr,De,Nl)                                                                             -      -     -
 Sydney 2000 (Australia)                                                                                                  -      -     -
+Sydney 2000 (Eidos) (USA)[cr PDX][SLUS-01177]                                                                            ✗      ✗     ✗
 Sydney 2000 (Europe)                                                                                                     -      -     -
 Sydney 2000 (France)                                                                                                     -      -     -
 Sydney 2000 (Germany)                                                                                                    -      -     -
@@ -9133,7 +9174,7 @@ Sydney 2000 (USA)                                                               
 Syndicate Wars (Europe) (En,Fr,Es,It,Sv)                                                                                 -      -     -
 Syndicate Wars (Germany)                                                                                                 -      -     -
 Syndicate Wars (USA)                                                                                                     -      -     -
-Syphon Filter (Europe)                                                                                                   -      -     -
+Syphon Filter (Europe, Australia)                                                                                        ✗      -     ✗
 Syphon Filter (France)                                                                                                   -      -     -
 Syphon Filter (Germany)                                                                                                  -      -     -
 Syphon Filter (Italy)                                                                                                    -      -     -
@@ -9143,12 +9184,12 @@ Syphon Filter (Spain)                                                           
 Syphon Filter (USA)                                                                                                      -      -     -
 Syphon Filter (USA) (Demo)                                                                                               ✗      -     ✗
 Syphon Filter (USA) (Rev 1)                                                                                              -      -     -
-Syphon Filter 2 (Europe) (Disc 1)                                                                                        -      -     -
 Syphon Filter 2 (Europe) (Disc 1) (Beta)                                                                                 ✗      -     ✗
 Syphon Filter 2 (Europe) (Disc 1) (Rev 1)                                                                                -      -     -
 Syphon Filter 2 (Europe) (Disc 2)                                                                                        -      -     -
 Syphon Filter 2 (Europe) (Disc 2) (Beta)                                                                                 ✗      -     ✗
 Syphon Filter 2 (Europe) (Disc 2) (Rev 1)                                                                                -      -     -
+Syphon Filter 2 (Europe, Australia) (Disc 1)                                                                             ✗      -     ✗
 Syphon Filter 2 (France) (Disc 1)                                                                                        -      -     -
 Syphon Filter 2 (France) (Disc 1) (Rev 1)                                                                                -      -     -
 Syphon Filter 2 (France) (Disc 2)                                                                                        -      -     -
@@ -9168,8 +9209,8 @@ Syphon Filter 2 - Conspiracion Mortal (Spain) (Disc 1)                          
 Syphon Filter 2 - Conspiracion Mortal (Spain) (Disc 1) (Rev 1)                                                           -      -     -
 Syphon Filter 2 - Conspiracion Mortal (Spain) (Disc 2)                                                                   -      -     -
 Syphon Filter 2 - Conspiracion Mortal (Spain) (Disc 2) (Rev 1)                                                           -      -     -
-Syphon Filter 3 (Europe)                                                                                                 -      -     ✗
 Syphon Filter 3 (Europe) (Beta)                                                                                          ✗      -     ✗
+Syphon Filter 3 (Europe, Australia)                                                                                      -      -     -
 Syphon Filter 3 (France)                                                                                                 -      -     -
 Syphon Filter 3 (Germany)                                                                                                -      -     -
 Syphon Filter 3 (Italy)                                                                                                  -      -     -
@@ -9255,6 +9296,7 @@ Tall Unlimited (Japan)                                                          
 Tall Unlimited (Japan) (Major Wave)                                                                                      -      -     -
 Tama - Adventurous Ball in Giddy Labyrinth (Japan)                                                                       -      -     -
 Tamago de Puzzle (Japan)                                                                                                 -      -     -
+Tamago de Puzzle (Japan) (Demo)                                                                                          ✗      -     ✗
 Tamamayu Monogatari (Japan)                                                                                              -      -     -
 Tamamayu Monogatari (Japan) (PlayStation the Best)                                                                       -      -     -
 Tamamayu Monogatari - Dennou Bijutsukan (Japan)                                                                          -      -     -
@@ -9313,8 +9355,8 @@ Tekken 2 (USA)                                                                  
 Tekken 2 (USA) (Rev 1)                                                                                                   -      -     -
 Tekken 2 + Fade to Black + F1 + V-CD (Germany)                                                                           -      -     -
 Tekken 2 + Fade to Black + V-CD (France)                                                                                 -      -     -
-Tekken 3 (Europe)                                                                                                        -      -     -
-Tekken 3 (Europe) (Demo)                                                                                                 -      ✗     -
+Tekken 3 (Europe, Australia)                                                                                             ✗      -     ✗
+Tekken 3 (Europe, Australia) (Demo)                                                                                      ✗      -     ✗
 Tekken 3 (France) (Demo)                                                                                                 ✗      -     ✗
 Tekken 3 (Japan) (Rev 1)                                                                                                 -      -     -
 Tekken 3 (Japan, Asia)                                                                                                   -      -     -
@@ -9434,8 +9476,6 @@ Three Decoders 1, The - Riddle of the Ring (USA)                                
 Three Decoders 2, The - Key to the Carousel (USA)                                                                        ✗      -     -
 Three Lions (UK) (En,Fr,De,Es,It)                                                                                        -      -     -
 Three Stooges, The (USA)                                                                                                 -      -     -
-Thrill Kill (1998-07-09) (Proto)                                                                                         ✗      ✗     ✗
-Thrill Kill (1998-10-13) (Proto)                                                                                         ✗      ✗     ✗
 Thrill Kill (USA) (Beta)                                                                                                 -      -     -
 Thrustmaster Cheatcode S Version 1.00 (Europe) (Cheat Code Disc) (Unl)                                                   ✗      ✗     ✗
 Thunder Force V - Perfect System (Japan)                                                                                 -      -     -
@@ -9697,7 +9737,6 @@ Tonde! Tonde! Diet - Stepper Action Game (Japan)                                
 Tondemo Crisis! (Japan)                                                                                                  -      -     -
 Tondemo Crisis! (Japan) (Demo)                                                                                           ✗      -     ✗
 Tonka Space Station (USA)                                                                                                -      -     -
-Tony Hawk's Pro Skater (1999-04-09) (USA) (Beta)                                                                         ✗      ✗     ✗
 Tony Hawk's Pro Skater (Japan)                                                                                           -      -     -
 Tony Hawk's Pro Skater (USA)                                                                                             -      -     -
 Tony Hawk's Pro Skater (USA) (Beta)                                                                                      ✗      -     ✗
@@ -9866,6 +9905,7 @@ UEFA Champions League - Saison 1998-99 (France)                                 
 UEFA Champions League - Saison 1998-99 (Germany)                                                                         -      -     -
 UEFA Champions League - Season 1998-99 (Europe)                                                                          -      -     -
 UEFA Champions League - Season 1999-2000 (Europe)                                                                        -      -     -
+UEFA Champions League - Season 1999-2000 (Europe) (Beta)                                                                 ✗      -     ✗
 UEFA Champions League - Season 1999-2000 (France)                                                                        -      -     -
 UEFA Champions League - Season 1999-2000 (Germany)                                                                       -      -     -
 UEFA Champions League - Season 1999-2000 (Italy)                                                                         -      -     -
@@ -9920,6 +9960,7 @@ Um Jammer Lammy (USA) (Demo)                                                    
 Umapoly (Japan)                                                                                                          -      -     -
 Umezawa Yukari no Taikyoku Igo - Heisei Kiin II (Japan)                                                                  -      -     -
 Umi no Nushi-tsuri - Takarajima ni Mukatte (Japan)                                                                       -      -     -
+Umi no Nushi-tsuri - Takarajima ni Mukatte (Japan) (Demo)                                                                ✗      -     ✗
 Umi no Oh! Yah! (Japan)                                                                                                  -      -     -
 Umi no Oh! Yah! (Japan) (Demo)                                                                                           ✗      -     ✗
 Umihara Kawase Shun (Japan)                                                                                              -      -     -
@@ -9963,10 +10004,12 @@ V-Rally - 97 Championship Edition (Europe) (En,Fr,De)                           
 V-Rally - 97 Championship Edition (Europe) (En,Fr,De) (Rev 1)                                                            -      -     -
 V-Rally - 97 Championship Edition (Europe) (En,Fr,De) (Rev 2)                                                            -      -     -
 V-Rally - Championship Edition (Japan)                                                                                   -      -     -
+V-Rally - Championship Edition (Japan) (Demo)                                                                            ✗      -     ✗
 V-Rally - Championship Edition 2 (Europe) (Demo)                                                                         ✗      -     ✗
 V-Rally - Championship Edition 2 (Europe) (En,Fr,De)                                                                     -      -     -
 V-Rally - Championship Edition 2 (Japan)                                                                                 -      -     -
 V-Rally - Championship Edition 2 (Japan) (Demo)                                                                          -      -     ✗
+V-Rally Championship Edition 2 (M3)[cr PDX][SLES-01907]                                                                  ✗      ✗     ✗
 V-Tennis (Europe)                                                                                                        -      -     -
 V-Tennis (Japan)                                                                                                         -      -     -
 V-Tennis (USA)                                                                                                           -      -     -
@@ -10024,6 +10067,7 @@ Vandal Hearts II (Spain)                                                        
 Vandal Hearts II (USA)                                                                                                   -      -     -
 Vandal Hearts II - Tenjou no Mon (Japan)                                                                                 -      -     -
 Vanguard Bandits (USA)                                                                                                   -      -     -
+Vanguard Bandits (USA) (Beta)                                                                                            ✗      -     ✗
 Vanishing Point (Europe) (En,Fr,De,Es)                                                                                   -      -     -
 Vanishing Point (Italy)                                                                                                  -      -     -
 Vanishing Point (USA)                                                                                                    -      -     -
@@ -10321,7 +10365,7 @@ Winning Post 4 (Japan)                                                          
 Winning Post 4 - Program 2000 (Japan)                                                                                    -      -     -
 Winning Post EX (Japan)                                                                                                  -      -     -
 Winter Releases '98 (Europe)                                                                                             ✗      ✗     ✗
-Winter Releases '98 (Europe) (Rev 1)                                                                                     ✗      ✗     ✗
+Winter Releases '98 (Europe, Australia) (Rev 1)                                                                          ✗      ✗     ✗
 Winter Releases (Europe, Australia) (En,Fr,De,Es,It)                                                                     ✗      ✗     ✗
 Winter Releases - '97 Demo 01 (Europe)                                                                                   ✗      ✗     ✗
 Wip3out (Europe) (Demo)                                                                                                  ✗      -     ✗
@@ -10451,10 +10495,10 @@ X-COM - Enemy Unknown (Europe) (En,Fr,De,Es,It)                                 
 X-COM - Michinaru Shinryakusha (Japan)                                                                                   -      -     -
 X-COM - Terror from the Deep (Europe) (En,Fr,De,Es,It)                                                                   -      -     -
 X-COM - UFO Defense (USA)                                                                                                -      -     -
-X-Files, The (Europe) (Disc 1)                                                                                           -      -     -
-X-Files, The (Europe) (Disc 2)                                                                                           -      -     -
-X-Files, The (Europe) (Disc 3)                                                                                           -      -     -
-X-Files, The (Europe) (Disc 4)                                                                                           -      -     -
+X-Files, The (Europe, Australia) (Disc 1)                                                                                ✗      -     ✗
+X-Files, The (Europe, Australia) (Disc 2)                                                                                ✗      -     ✗
+X-Files, The (Europe, Australia) (Disc 3)                                                                                ✗      -     ✗
+X-Files, The (Europe, Australia) (Disc 4)                                                                                ✗      -     ✗
 X-Files, The (France) (Disc 1)                                                                                           -      -     -
 X-Files, The (France) (Disc 2)                                                                                           -      -     -
 X-Files, The (France) (Disc 3)                                                                                           -      -     -
@@ -10641,6 +10685,7 @@ Zen'yasai - Kouyasai Special Preview Disc (Japan) (Demo)                        
 Zera-chan Puzzle - Pitatto Pair (Japan)                                                                                  -      -     -
 Zero Divide (Europe)                                                                                                     -      -     -
 Zero Divide (Japan)                                                                                                      -      -     -
+Zero Divide (Japan) (Demo)                                                                                               ✗      -     ✗
 Zero Divide (USA)                                                                                                        -      -     -
 Zero Divide 2 - The Secret Wish (Europe)                                                                                 -      -     -
 Zero Divide 2 - The Secret Wish (Europe) (Beta)                                                                          ✗      -     ✗

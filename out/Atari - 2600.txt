@@ -1,9 +1,9 @@
 Atari - 2600 Missing
 
-Boxarts    695/727  95.60%
-Snaps      720/727  99.04%
-Titles     647/727  89.00%
-Total    2062/2181  94.54%
+Boxarts    694/727  95.46%
+Snaps      719/727  98.90%
+Titles     646/727  88.86%
+Total    2059/2181  94.41%
 
 Name                                                                                          Boxart  Snap  Title
 3-D Genesis (USA) (Proto)                                                                        -      -     ✗
@@ -638,7 +638,7 @@ Summer Games (USA)                                                              
 Super Baseball (USA)                                                                             -      -     -
 Super Baseball (USA, Europe) (Atari Anthology)                                                   -      -     -
 Super Breakout (USA)                                                                             -      -     -
-Super Breakout (USA, Europe) (Atari Anthology)                                                   -      -     -
+Super Breakout (USA) (Alt)                                                                       ✗      ✗     ✗
 Super Challenge Baseball (USA)                                                                   -      -     -
 Super Challenge Football (USA)                                                                   -      -     -
 Super Cobra (USA)                                                                                -      -     -

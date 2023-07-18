@@ -1,9 +1,9 @@
 VTech - V.Smile Missing
 
-Boxarts  126/196  64.29%
-Snaps    165/196  84.18%
-Titles   165/196  84.18%
-Total    456/588  77.55%
+Boxarts  119/196  60.71%
+Snaps    154/196  78.57%
+Titles   154/196  78.57%
+Total    427/588  72.62%
 
 Name                                                                         Boxart  Snap  Title
 103 Winnie the Pooh - The Honey Hunt (United Kingdom)                           ✗      -     -
@@ -36,7 +36,7 @@ Bilar - Koer ikapp i Kylarkoeping (Sweden)                                      
 Biler - Raes i Kolerkildekobing (Denmark)                                       -      -     -
 Blue's Clues - Collection Day (USA)                                             -      -     -
 Bob der Baumeister - Bobs spannender Arbeitstag (Germany)                       -      -     -
-Bob the Builder - Bob's Busy Day (Europe) (En-GB)                               -      -     -
+Bob the Builder - Bob's Busy Day (Europe)                                       ✗      ✗     ✗
 Bob the Builder - Bob's Busy Day (USA)                                          -      -     -
 Byggare Bob - Bobs stressiga dag (Sweden)                                       -      -     -
 Byggemand Bob - Bobs travle dag (Denmark)                                       -      -     -
@@ -44,7 +44,7 @@ Care Bears (USA) (V.Smile Baby)                                                 
 Care Bears - A Lesson in Caring (USA)                                           -      -     -
 Cars (United Kingdom)                                                           -      -     -
 Cars - Quatre roues (France)                                                    -      -     -
-Cars - Rev It Up in Radiator Springs (Europe) (En-GB)                           -      -     -
+Cars - Rev It Up in Radiator Springs (Europe)                                   ✗      ✗     ✗
 Cars - Rev It Up in Radiator Springs (USA)                                      -      -     -
 Cars - Rev It Up in Radiator Springs (USA) (Alt 2)                              ✗      ✗     ✗
 Cars - Rev It Up in Radiator Springs (USA) (Alt)                                ✗      ✗     ✗
@@ -56,7 +56,7 @@ Cenerentola - I desideri magici di Cenerentola (Italy)                          
 Cenerentola - I desideri magici di Cenerentola (Italy) (Rev 1)                  -      -     -
 Cinderella - Askepots magiske onsker (Denmark)                                  -      -     -
 Cinderella - Askungens magiska oenskningar (Sweden)                             -      -     -
-Cinderella - Cinderella's Magic Wishes (Europe) (En-GB)                         -      -     -
+Cinderella - Cinderella's Magic Wishes (Europe)                                 ✗      ✗     ✗
 Cinderella - Cinderella's Magic Wishes (USA)                                    -      -     -
 Cinderella - Cinderella's Magic Wishes (USA) (Rev 1)                            -      -     -
 Cinderella - Lernen im Maerchenland (Germany)                                   -      -     -
@@ -73,7 +73,7 @@ Disney's The Little Mermaid - Ariel's Majestic Journey (USA) (Rev 1) (Alt)      
 Dora - Doras Reparatur-Abenteuer (Germany) (Rev 1)                              -      -     -
 Dora - Doras Reparatur-Abenteuer (Germany) (V.Smile Motion)                     -      -     -
 Dora l'exploratrice - Les aventures de Dora Apprentie Mecano (France)           -      -     -
-Dora the Explorer - Dora's Fix-It Adventure (Europe) (En-GB)                    -      -     -
+Dora the Explorer - Dora's Fix-It Adventure (Europe)                            ✗      ✗     ✗
 Dora the Explorer - Dora's Fix-it Adventure (USA) (Rev 1)                       -      -     -
 Dora's Fix-it Adventure (United Kingdom)                                        -      -     -
 Elmos grosses Abenteuer (Germany)                                               -      -     -
@@ -115,7 +115,7 @@ My Friends Tigger _ Pooh - Die Honigjagd (Germany)                              
 NASCAR Academy - Race Car Superstar (USA) (V.Smile Motion)                      ✗      ✗     ✗
 Nalle Puh - Honungsjakten (Sweden)                                              ✗      -     -
 Nalle Puhs aeventyr i Sjumilaskogen (Sweden) (V.Smile Baby)                     ✗      -     -
-Noddy - Detective for a Day (Europe) (En-GB)                                    -      -     -
+Noddy - Detective for a Day (Europe)                                            ✗      ✗     ✗
 Noddy - Detektiv fuer einen Tag (Germany) (Rev 1)                               -      -     -
 Oben (Germany)                                                                  -      -     -
 Osos Amorosos - Una Leccion de Amor (Spain)                                     -      -     -
@@ -131,7 +131,7 @@ Re Leone, Il - La Grande Avventura di Simba (Italy)                             
 Roi Lion, Le - Simba decouvre la jungle (France)                                -      -     -
 Scooby-Doo - Panique a Funland (France)                                         -      -     -
 Scooby-Doo! - Avventura a Funland (Italy)                                       -      -     -
-Scooby-Doo! - Funland Frenzy (Europe) (En-GB) (Rev 1)                           -      -     -
+Scooby-Doo! - Funland Frenzy (Europe) (Rev 1)                                   ✗      ✗     ✗
 Scooby-Doo! - Funland Frenzy (USA)                                              -      -     -
 Scooby-Doo! - Funland Frenzy (USA) (Rev 3)                                      -      -     -
 Scooby-Doo! - Funland Frenzy (USA, Europe) (Rev 1)                              -      -     -
@@ -147,7 +147,7 @@ Shrek - Het verhaal van draakje (Netherlands)                                   
 Shrek - Le rhume de Dragonne (France)                                           -      -     -
 Shrek Forever After (USA) (V.Smile Motion)                                      ✗      ✗     ✗
 Shrek de Derde - Arthurs Schooldag Avontuur (Netherlands)                       -      -     -
-Shrek the Third - Arthur's School Day Adventure (Europe) (En-GB)                -      -     -
+Shrek the Third - Arthur's School Day Adventure (Europe)                        ✗      ✗     ✗
 Shrek the Third - Arthur's School Day Adventure (USA)                           -      -     -
 Sirenetta, La - Ariel e la Crociera Magica (Italy)                              -      -     -
 Sirenita, La - El Viaje Fantastico de Ariel (Spain)                             -      -     -
@@ -166,9 +166,9 @@ Super WHY! - The Beach Day Mystery (USA) (V.Smile Motion)                       
 Superman - A la rescousse ! (France)                                            ✗      -     -
 Superman - Der Superheld (Germany)                                              ✗      -     -
 Superman - The Greatest Hero (USA)                                              ✗      -     -
-Thomas _ Friends - Engines Working Together (Europe) (En-GB)                    ✗      -     -
-Thomas _ Friends - Engines Working Together (Europe) (En-GB) (Rev 1)            ✗      -     -
-Thomas _ Friends - Engines Working Together (USA) (En-US)                       ✗      -     -
+Thomas _ Friends - Engines Working Together (Europe)                            ✗      ✗     ✗
+Thomas _ Friends - Engines Working Together (Europe) (Rev 1)                    ✗      ✗     ✗
+Thomas _ Friends - Engines Working Together (USA)                               ✗      ✗     ✗
 Thomas _ Friends - Engines Working Together (USA) (Rev 1)                       ✗      -     -
 Thomas _ Friends - Engines Working Together (USA) (V.Smile Motion)              ✗      -     -
 Thomas _ Friends - Tagen hjaelps at (Sweden)                                    ✗      -     -
@@ -179,7 +179,7 @@ Tingeling (Sweden)                                                              
 TinkerBell (Germany) (V.Smile Motion)                                           ✗      -     -
 Topolino - Le Magiche Avventure di Topolino (Italy)                             -      -     -
 Toy Story 2 - Operation - Raedda Woody! (Sweden)                                ✗      -     -
-Toy Story 2 - Operation - Rescue Woody! (Europe) (En-GB)                        ✗      -     -
+Toy Story 2 - Operation - Rescue Woody! (Europe)                                ✗      ✗     ✗
 Toy Story 2 - Operazione - Salvataggio di Woody (Italy)                         ✗      -     -
 Toy Story 2 - Woodys spannende Rettung (Germany)                                ✗      -     -
 Toy Story 3 (USA) (V.Smile Motion)                                              ✗      ✗     ✗

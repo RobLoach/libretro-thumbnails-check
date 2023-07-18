@@ -1,9 +1,9 @@
 Sega - Mega-CD - Sega CD Missing
 
-Boxarts    440/913  48.19%
-Snaps      490/913  53.67%
-Titles     490/913  53.67%
-Total    1420/2739  51.84%
+Boxarts    439/917  47.87%
+Snaps      489/917  53.33%
+Titles     489/917  53.33%
+Total    1417/2751  51.51%
 
 Name                                                                                                                   Boxart  Snap  Title
 3 Ninjas Kick Back (USA)                                                                                                  -      -     -
@@ -118,9 +118,9 @@ Burai - Yatsudama no Yuushi Densetsu (Japan)                                    
 Burning Fists - Force Striker (Good Deal Games - J2 Games)                                                                ✗      ✗     ✗
 Burning Fists - Force Striker (USA)                                                                                       ✗      -     -
 Burning Fists - Force Striker (USA) (Unl)                                                                                 ✗      ✗     ✗
-CD Sonic The Hedgehog (Japan) (Beta 1)                                                                                    ✗      ✗     ✗
-CD Sonic The Hedgehog (Japan) (Beta 2)                                                                                    ✗      ✗     ✗
-CD Sonic The Hedgehog (Japan) (Beta 3)                                                                                    ✗      ✗     ✗
+CD Sonic the Hedgehog (Japan) (Beta 1)                                                                                    ✗      ✗     ✗
+CD Sonic the Hedgehog (Japan) (Beta 2)                                                                                    ✗      ✗     ✗
+CD Sonic the Hedgehog (Japan) (Beta 3)                                                                                    ✗      ✗     ✗
 Cadillacs and Dinosaurs - The Second Cataclysm (BR)                                                                       ✗      ✗     ✗
 Cadillacs and Dinosaurs - The Second Cataclysm (Rocket Science Games) (USA)                                               ✗      ✗     ✗
 Cadillacs and Dinosaurs - The Second Cataclysm (USA, Brazil)                                                              ✗      ✗     ✗
@@ -274,6 +274,7 @@ Final Fight CD (USA)                                                            
 Final Fight CD (USA) (Alt 1)                                                                                              -      -     -
 Flashback (Europe) (Demo)                                                                                                 ✗      -     -
 Flashback - The Quest for Identity (USA)                                                                                  -      -     -
+Flight j57 (demo) (2005-04) (Fonzie) (PD)                                                                                 ✗      ✗     ✗
 Flink (Europe)                                                                                                            -      -     -
 Flink (Psygnosis - Sony Electronic Publishing) (Europe) (M5)                                                              ✗      ✗     ✗
 Flink (Psygnosis - Sony) (Europe) (M5)                                                                                    ✗      ✗     ✗
@@ -449,6 +450,8 @@ Midnight Raiders (USA)                                                          
 Might and Magic III - Isles of Terra (CRI) (Japan)                                                                        ✗      ✗     ✗
 Might and Magic III - Isles of Terra (Japan)                                                                              -      -     -
 Mighty Mighty Missile (USA) (Unl)                                                                                         ✗      ✗     ✗
+Mighty Mighty Missile (demo) (Fonzie) (Europe) (Europe)                                                                   ✗      ✗     ✗
+Mighty Mighty Missile (demo) (Fonzie) (USA)                                                                               ✗      ✗     ✗
 Mighty Mighty Missile! (Good Deal Games - J2 Games)                                                                       ✗      ✗     ✗
 Mighty Mighty Missile! (USA)                                                                                              ✗      -     -
 Mighty Morphin Power Rangers (Europe)                                                                                     -      -     -
@@ -742,10 +745,10 @@ Sonic CD (USA) (Alt)                                                            
 Sonic CD (USA)[SEGA4407RE152 R7D]                                                                                         ✗      ✗     ✗
 Sonic MegaMix (USA) (Unl)                                                                                                 ✗      ✗     ✗
 Sonic The Hedgehog CD (Japan)                                                                                             -      -     -
-Sonic The Hedgehog CD (Japan) (Beta 1)                                                                                    ✗      ✗     ✗
-Sonic The Hedgehog CD (Japan) (Beta 2)                                                                                    ✗      ✗     ✗
-Sonic The Hedgehog CD (Japan) (Demo)                                                                                      ✗      ✗     ✗
 Sonic the Hedgehog CD (Japan)                                                                                             ✗      ✗     ✗
+Sonic the Hedgehog CD (Japan) (Beta 1)                                                                                    ✗      ✗     ✗
+Sonic the Hedgehog CD (Japan) (Beta 2)                                                                                    ✗      ✗     ✗
+Sonic the Hedgehog CD (Japan) (Demo)                                                                                      ✗      ✗     ✗
 Soul Star (Core Design - JVC) (Japan)                                                                                     ✗      ✗     ✗
 Soul Star (Core Design - Time Warner Interactive) (USA)                                                                   ✗      ✗     ✗
 Soul Star (Core Design) (Europe) (M3)                                                                                     ✗      ✗     ✗
@@ -790,7 +793,7 @@ Supreme Warrior (Europe) (Disc 1)                                               
 Supreme Warrior (Europe) (Disc 1) (Mega-CD 32X)                                                                           -      -     -
 Supreme Warrior (Europe) (Disc 2)                                                                                         -      -     -
 Supreme Warrior (Europe) (Disc 2) (Mega-CD 32X)                                                                           -      -     -
-Supreme Warrior (USA) (Disc 1) (Fire _ Earth)                                                                             -      -     -
+Supreme Warrior (USA) (Disc 1) (Fire _ Earth) (Alt)                                                                       ✗      ✗     ✗
 Supreme Warrior (USA) (Disc 1) (Fire _ Earth) (Sega CD 32X)                                                               -      -     -
 Supreme Warrior (USA) (Disc 2) (Wind _ Fang Tu)                                                                           -      -     -
 Supreme Warrior (USA) (Disc 2) (Wind _ Fang Tu) (Sega CD 32X)                                                             -      -     -
@@ -893,6 +896,7 @@ Wing Commander (USA)                                                            
 Winning Post (Japan)                                                                                                      -      -     -
 Winning Post (KOEI) (Japan)                                                                                               ✗      ✗     ✗
 Winning Post (Koei) (Japan)                                                                                               ✗      ✗     ✗
+WireHead (Europe) (Beta)                                                                                                  ✗      ✗     ✗
 WireHead (USA)                                                                                                            ✗      ✗     ✗
 Wirehead (USA)                                                                                                            -      -     -
 Wolfchild (Core Design - JVC) (Japan)                                                                                     ✗      ✗     ✗

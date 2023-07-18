@@ -1,9 +1,9 @@
 Nintendo - Game Boy Advance Missing
 
-Boxarts  3174/3330  95.32%
-Snaps    3188/3330  95.74%
-Titles   3187/3330  95.71%
-Total    9549/9990  95.59%
+Boxarts  3174/3332  95.26%
+Snaps    3187/3332  95.65%
+Titles   3187/3332  95.65%
+Total    9548/9996  95.52%
 
 Name                                                                                                                                                   Boxart  Snap  Title
 007 - Everything or Nothing (Japan)                                                                                                                       -      -     -
@@ -1110,6 +1110,7 @@ GBA AV Adapter (China) (Unl)                                                    
 GBA Jukebox (USA)                                                                                                                                         ✗      ✗     ✗
 GBA Movie Player 2 CF (Spain) (Unl)                                                                                                                       -      -     -
 GBA Personal Organizer (USA) (Unl)                                                                                                                        -      -     -
+GBA TV Tuner (Europe) (Unl)                                                                                                                               ✗      ✗     ✗
 GBA TV Tuner PAL (China) (v1.3) (Unl)                                                                                                                     -      -     -
 GBA TV Tuner PAL (China) (v2.0) (Unl)                                                                                                                     -      -     -
 GP-1 Racing (USA) (Proto)                                                                                                                                 -      -     -
@@ -1175,6 +1176,7 @@ Ghost Rider (USA, Europe) (En,Fr,De,Es,It,Nl)                                   
 Ghost Trap (Japan)                                                                                                                                        -      -     -
 Global Star - Sudoku Fever (Europe) (En,Fr,De,Es,It)                                                                                                      -      -     -
 Global Star - Sudoku Fever (USA)                                                                                                                          -      -     -
+Glucoboy (Australia)                                                                                                                                      ✗      ✗     ✗
 Go! Go! Beckham! - Adventure on Soccer Island (Europe) (En,Fr,De,Es,It)                                                                                   -      -     -
 Godzilla - Domination! (Europe) (En,Fr,De,Es,It)                                                                                                          -      -     -
 Godzilla - Domination! (USA)                                                                                                                              -      -     -
@@ -2215,6 +2217,7 @@ Pocket Monsters - Ruby (Japan) (Rev 1)                                          
 Pocket Monsters - Sapphire (Japan)                                                                                                                        -      -     -
 Pocket Monsters - Sapphire (Japan) (Pokemon Box)                                                                                                          -      -     -
 Pocket Monsters - Sapphire (Japan) (Rev 1)                                                                                                                -      -     -
+Pocket Monsters Diamond - Pocket Monsters Pearl - Manaphy Present Campaign Senyou Cartridge (Japan) (En)                                                  ✗      ✗     ✗
 Pocket Music (Europe) (En,Fr,De,Es,It)                                                                                                                    -      -     -
 Pocket Professor - Kwik Notes - Volume One (USA)                                                                                                          -      -     -
 Pocky _ Rocky with Becky (USA)                                                                                                                            -      -     -
@@ -2258,7 +2261,6 @@ Pokemon - Sapphire Version (USA, Europe)                                        
 Pokemon - Sapphire Version (USA, Europe) (Rev 1)                                                                                                          -      -     -
 Pokemon - Sapphire Version (USA, Europe) (Rev 2)                                                                                                          -      -     -
 Pokemon - Sapphire Version - Gotta Catch 'em All! (USA) (Unl)                                                                                             ✗      ✗     ✗
-Pokemon - Slot 2 Distribution (Japan) (En) (B5DJ)                                                                                                         ✗      -     ✗
 Pokemon - Slot 2 Distribution (Japan) (Proto)                                                                                                             -      -     -
 Pokemon - Smaragd-Edition (Germany)                                                                                                                       -      -     -
 Pokemon - Version Emeraude (France)                                                                                                                       -      -     -

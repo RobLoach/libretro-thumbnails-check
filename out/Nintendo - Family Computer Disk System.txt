@@ -1,9 +1,9 @@
 Nintendo - Family Computer Disk System Missing
 
-Boxarts    326/391  83.38%
-Snaps      348/391  89.00%
-Titles     348/391  89.00%
-Total    1022/1173  87.13%
+Boxarts    320/391  81.84%
+Snaps      342/391  87.47%
+Titles     342/391  87.47%
+Total    1004/1173  85.59%
 
 Name                                                                                                                Boxart  Snap  Title
 Adian no Tsue (Japan)                                                                                                  -      -     -
@@ -104,9 +104,9 @@ Fairytale (Japan)                                                               
 Falsion (Japan)                                                                                                        -      -     -
 Famicom Grand Prix - F1 Race (Japan)                                                                                   -      -     -
 Famicom Grand Prix - F1 Race (Japan) (DV 1) (Disk Writer)                                                              -      -     -
-Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 5)                                                                    -      -     -
-Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 7)                                                                    -      -     -
-Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 8) (Disk Writer)                                                      -      -     -
+Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 5) (Famicom 3D System)                                                ✗      ✗     ✗
+Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 7) (Famicom 3D System)                                                ✗      ✗     ✗
+Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 8) (Disk Writer) (Famicom 3D System)                                  ✗      ✗     ✗
 Famicom Mukashibanashi - Shin Onigashima - Kouhen (Japan)                                                              -      -     -
 Famicom Mukashibanashi - Shin Onigashima - Kouhen (Japan) (Virtual Console)                                            -      -     -
 Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 1)                                                       -      -     -
@@ -146,7 +146,7 @@ Fruits Mahjong 3 - Disk 2 - Tottemo H na Gogo (Japan) (Unl)                     
 Fruits Mahjong 4 - Disk 1 - Bishoujo Connection (Japan) (Unl)                                                          -      -     -
 Fruits Mahjong 4 - Disk 2 - Daitan H na Hirusagari (Japan) (Unl)                                                       -      -     -
 Fuuun Shourin Ken (Japan)                                                                                              -      -     -
-Fuuun Shourin Ken - Ankoku no Maou (Japan)                                                                             -      -     -
+Fuuun Shourin Ken - Ankoku no Maou (Japan) (Famicom 3D System)                                                         ✗      ✗     ✗
 Galaga (Japan) (Disk Writer)                                                                                           -      -     -
 Galaxian (Japan) (Disk Writer)                                                                                         -      -     -
 Gall Force - Eternal Story (Japan)                                                                                     -      -     -
@@ -361,7 +361,7 @@ Tenshitachi no Houkago (Japan) (Disk 2) (Unl)                                   
 Time Twist - Rekishi no Katasumi de... - Kouhen (Japan)                                                                -      -     -
 Time Twist - Rekishi no Katasumi de... - Zenpen (Japan)                                                                -      -     -
 Titanic Mystery - Ao no Senritsu (Japan)                                                                               -      -     -
-Tobidase Daisakusen (Japan)                                                                                            -      -     -
+Tobidase Daisakusen (Japan) (Famicom 3D System)                                                                        ✗      ✗     ✗
 Tonkachi Editor (Japan) (Unl)                                                                                          ✗      -     -
 Tooyama no Kinsan Space Chou - Mr. Gold (Japan)                                                                        -      -     -
 Topple Zip (Japan)                                                                                                     -      -     -
@@ -375,7 +375,7 @@ Ultraman Club - Chikyuu Dakkan Sakusen (Japan)                                  
 Ultraman Club - Chikyuu Dakkan Sakusen (Japan) (Rev 1)                                                                 -      -     -
 Volleyball (Japan)                                                                                                     -      -     -
 Vs. Excitebike (Japan) (En)                                                                                            -      -     -
-Vs. Excitebike (Japan, USA) (Virtual Console)                                                                          -      -     -
+Vs. Excitebike (Japan, USA) (En) (Virtual Console)                                                                     ✗      ✗     ✗
 Wakusei Aton Gaiden (Japan) (National Tax Agency Demo)                                                                 -      -     -
 Wardner no Mori (Japan)                                                                                                -      -     -
 Winter Games (Japan)                                                                                                   -      -     -

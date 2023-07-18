@@ -1,9 +1,9 @@
 Atari - 8-bit Missing
 
-Boxarts   1/8845  0.01%
-Snaps     1/8845  0.01%
-Titles    1/8845  0.01%
-Total    3/26535  0.01%
+Boxarts   1/9006  0.01%
+Snaps     1/9006  0.01%
+Titles    1/9006  0.01%
+Total    3/27018  0.01%
 
 Name                                                                                                                                    Boxart  Snap  Title
 0 Grad Nord (Ariolasoft) (DE) (Side A)[cr Homesoft][BASIC]                                                                                 ✗      ✗     ✗
@@ -15,6 +15,7 @@ Name                                                                            
 007 - The Living Daylights (GB)[cr L.P.S.]                                                                                                 ✗      ✗     ✗
 007 - The Living Daylights (GB)[cr S.H.A.B.]                                                                                               ✗      ✗     ✗
 007 - The Living Daylights (GB)[k-file]                                                                                                    ✗      ✗     ✗
+007 - The Living Daylights (GB)[no SIO patch]                                                                                              ✗      ✗     ✗
 007 - The Living Daylights (Zeppelin Games) (GB)                                                                                           ✗      ✗     ✗
 1040 Terminator (Antic) (USA)[BASIC]                                                                                                       ✗      ✗     ✗
 15 Mit 3 (19xx) (Funkysoft) (DE) (PD)                                                                                                      ✗      ✗     ✗
@@ -547,8 +548,8 @@ Ardy the Aardvark (1983) (Datamost) (USA)[k-file]                               
 Ardy the Aardvark (Main Street Publishing) (USA)                                                                                           ✗      ✗     ✗
 Arena (1982) (Med Systems Software) (USA)                                                                                                  ✗      ✗     ✗
 Arena (1982) (Med Systems Software) (USA) (Alt 1)                                                                                          ✗      ✗     ✗
-Arena 3000 (1982) (Med Systems) (USA) (Alt 1)[k-file]                                                                                      ✗      ✗     ✗
-Arena 3000 (1982) (Med Systems) (USA)[k-file]                                                                                              ✗      ✗     ✗
+Arena 3000 (1982) (Med Systems Software) (USA) (Alt 1)[k-file]                                                                             ✗      ✗     ✗
+Arena 3000 (1982) (Med Systems Software) (USA)[k-file]                                                                                     ✗      ✗     ✗
 Arena 3000 (Microdeal) (Europe) (GB)[no SIO patch]                                                                                         ✗      ✗     ✗
 Arena 3000 (Microdeal) (GB)                                                                                                                ✗      ✗     ✗
 Arena 3000 (Microdeal) (GB)[k-file]                                                                                                        ✗      ✗     ✗
@@ -652,11 +653,11 @@ Astrostorm (1983-06) (Compute!) (USA)                                           
 Astrowarriors (1982) (Apogee Software) (USA)                                                                                               ✗      ✗     ✗
 Astrowarriors (1982) (Apogee Software) (USA)[k-file]                                                                                       ✗      ✗     ✗
 Asylum (1983) (Screenplay) (GB)                                                                                                            ✗      ✗     ✗
-Asylum, The v3.0c (198x) (William F. Denman Jr.)                                                                                           ✗      ✗     ✗
-Asylum, The v3.0c (198x) (William F. Denman Jr.) (Alt 1)                                                                                   ✗      ✗     ✗
-Asylum, The v3.0c (198x) (William F. Denman Jr.) (Alt 2)                                                                                   ✗      ✗     ✗
-Asylum, The v3.0c (198x) (William F. Denman Jr.) (Alt 3)                                                                                   ✗      ✗     ✗
-Asylum, The v3.0c (198x) (William F. Denman Jr.)[b title]                                                                                  ✗      ✗     ✗
+Asylum, The v3.0c (198x) (Denman Jr., William F.)                                                                                          ✗      ✗     ✗
+Asylum, The v3.0c (198x) (Denman Jr., William F.) (Alt 1)                                                                                  ✗      ✗     ✗
+Asylum, The v3.0c (198x) (Denman Jr., William F.) (Alt 2)                                                                                  ✗      ✗     ✗
+Asylum, The v3.0c (198x) (Denman Jr., William F.) (Alt 3)                                                                                  ✗      ✗     ✗
+Asylum, The v3.0c (198x) (Denman Jr., William F.)[b title]                                                                                 ✗      ✗     ✗
 At the Codfish Ball (1984-02) (SoftSide Publications) (USA)                                                                                ✗      ✗     ✗
 Atari Double Monopoly v3.1 (S.L.C.) (Alt 1)[BASIC]                                                                                         ✗      ✗     ✗
 Atari Double Monopoly v3.1 (S.L.C.)[BASIC]                                                                                                 ✗      ✗     ✗
@@ -2290,6 +2291,7 @@ Cross Shoot (2020-07-03) (Caruso, Fabrizio)[color]                              
 Cross Snake Preview (2020-12-05) (Caruso, Fabrizio)[color]                                                                                 ✗      ✗     ✗
 Cross Snake v1.0 (2020-12-12) (Caruso, Fabrizio)[color]                                                                                    ✗      ✗     ✗
 Cross Snake v2.0 (2020-12-31) (Caruso, Fabrizio)[color]                                                                                    ✗      ✗     ✗
+Cross Verbix (2022-12-10) (Caruso, Fabrizio)                                                                                               ✗      ✗     ✗
 Cross-Town Crazy Eight v2.3 (XLEnt Software) (USA)                                                                                         ✗      ✗     ✗
 Crossboard (19xx) (-) (Side A)                                                                                                             ✗      ✗     ✗
 Crossboard (19xx) (-) (Side B)                                                                                                             ✗      ✗     ✗
@@ -2303,7 +2305,7 @@ Crossword (19xx) (Stephens, Mike) (USA) (PD)                                    
 Crossword Magic (1982) (Softsmith) (USA)[cr Masters of Software][OS-B]                                                                     ✗      ✗     ✗
 Crossword Magic (1982) (Softsmith) (USA)[cr Masters of Software][OS-B][k-file]                                                             ✗      ✗     ✗
 Crossword Magic v4.0 (Mindscape) (USA)                                                                                                     ✗      ✗     ✗
-Crownland (Wisniewski, Piotr) (PL) (PD) (130XE)                                                                                            ✗      ✗     ✗
+Crownland (Wisniewski, Piotr) (130XE) (PL) (PD)                                                                                            ✗      ✗     ✗
 Crownland (demo) (Wisniewski, Piotr) (PL) (PD)                                                                                             ✗      ✗     ✗
 Crumble's Crisis (Red Rat Software) (GB)                                                                                                   ✗      ✗     ✗
 Crumble's Crisis (Red Rat Software) (GB) (Alt 1)                                                                                           ✗      ✗     ✗
@@ -2351,7 +2353,7 @@ Crystal Castles (Atari) (USA) (Proto)[cr Bandits Software][k-file]              
 Crystal Castles (Atari) (USA) (Proto)[t]                                                                                                   ✗      ✗     ✗
 Crystal Castles (Atari) (USA)[XE]                                                                                                          ✗      ✗     ✗
 Crystal Caves (1983) (Antic Publishing) (USA)                                                                                              ✗      ✗     ✗
-Crystal Crisis (Page 6) (GB)                                                                                                               ✗      ✗     ✗
+Crystal Crisis (Page 6 Magazine) (GB)                                                                                                      ✗      ✗     ✗
 Crystal Raider (Mastertronic) (GB)                                                                                                         ✗      ✗     ✗
 Crystal Raider (Mastertronic) (USA)                                                                                                        ✗      ✗     ✗
 Crystal Raider (Mastertronic) (USA) (Alt 1)                                                                                                ✗      ✗     ✗
@@ -2906,7 +2908,7 @@ Drelbs (1983) (Synapse Software) (USA)[cr Dean H]                               
 Drelbs (1983) (Synapse Software) (USA)[t]                                                                                                  ✗      ✗     ✗
 Drelbs (1983) (Synapse Software) (USA)[t](Alt 1)                                                                                           ✗      ✗     ✗
 Drelbs (SynSoft) (GB)                                                                                                                      ✗      ✗     ✗
-Dreszcz (Dial) (PL) (FW) (130XE)                                                                                                           ✗      ✗     ✗
+Dreszcz (Dial) (130XE) (PL) (FW)                                                                                                           ✗      ✗     ✗
 Droga Wojownika (ASF) (PL)                                                                                                                 ✗      ✗     ✗
 Droga Wojownika (ASF) (PL)[k-file]                                                                                                         ✗      ✗     ✗
 Droga Wojownika (ASF) (PL)[t]                                                                                                              ✗      ✗     ✗
@@ -3173,8 +3175,8 @@ Eryus (Klein Keller Software) (Alt 2)[k-file]                                   
 Eryus (Klein Keller Software) (Europe)                                                                                                     ✗      ✗     ✗
 Eryus (Klein Keller Software) (USA)                                                                                                        ✗      ✗     ✗
 Eryus (Klein Keller Software) (USA) (Alt 1)                                                                                                ✗      ✗     ✗
+Eryus (Klein Keller Software) (USA) (Alt 1)[no title screen]                                                                               ✗      ✗     ✗
 Eryus (Klein Keller Software) (USA)[no title screen]                                                                                       ✗      ✗     ✗
-Eryus (Klein Keller Software) (USA)[no title screen](Alt 1)                                                                                ✗      ✗     ✗
 Eryus (Klein Keller Software)[k-file]                                                                                                      ✗      ✗     ✗
 Escape (Virgin Books) (GB)                                                                                                                 ✗      ✗     ✗
 Escape from Doomworld (Byte Back) (GB)                                                                                                     ✗      ✗     ✗
@@ -3191,6 +3193,7 @@ Escape from Satellite A19790C (1979) (Faulkner, T. W.)                          
 Escape from Satellite A19790C (1979) (Faulkner, T. W.)[k-file]                                                                             ✗      ✗     ✗
 Escape from Satellite A19790C (19xx) (Faulkner, T.W.) (USA) (PD)                                                                           ✗      ✗     ✗
 Escape from Syntron (19xx) (Snyder, Jon) (USA) (PD)                                                                                        ✗      ✗     ✗
+Escape from Traam (A1 299 Series) (GB)                                                                                                     ✗      ✗     ✗
 Escape from Vulcan's Isle (1982) (Epyx) (USA)[BASIC]                                                                                       ✗      ✗     ✗
 Escape from the Dungeon of the Gods (1982) (SoftSide Publications) (USA)[BASIC]                                                            ✗      ✗     ✗
 Escape from the Dungeon of the Gods (1982-06) (SoftSide Publications) (USA)                                                                ✗      ✗     ✗
@@ -3852,6 +3855,8 @@ Go (1982) (Hayden Software) (USA)[k-file]                                       
 Go (1983) (Stack Computer Services) (GB)[req light pen][OS-B][CLOAD+RUN][BASIC]                                                            ✗      ✗     ✗
 Go Cart (19xx) (AMC-Verlag) (DE)                                                                                                           ✗      ✗     ✗
 Go Fish (1982) (Dynacomp) (USA)[CLOAD+RUN][BASIC]                                                                                          ✗      ✗     ✗
+Go Lucky v1.11 (2022-01-16) (PPs) (DE)                                                                                                     ✗      ✗     ✗
+Go Lucky v1.12 (2022-01-17) (PPs) (DE)                                                                                                     ✗      ✗     ✗
 Gobang (1979-11) (Byte) (USA)                                                                                                              ✗      ✗     ✗
 Gobbler (1982-08) (ACE Newsletter) (USA)                                                                                                   ✗      ✗     ✗
 Gobbler (Virgin Books) (GB)                                                                                                                ✗      ✗     ✗
@@ -3912,9 +3917,9 @@ Good King Zurp (1989-08) (Antic) (USA)[BASIC]                                   
 Good Luck (Mopy Games) (FR) (PD)[BASIC]                                                                                                    ✗      ✗     ✗
 Goodbye Charlie (1983) (Compute!) (de)[bas2boot]                                                                                           ✗      ✗     ✗
 Goodbye Charlie (1983-11) (Compute!) (USA)                                                                                                 ✗      ✗     ✗
+Goonies, The (Datasoft) (130XE) (USA)[cr Mian-Software]                                                                                    ✗      ✗     ✗
 Goonies, The (Datasoft) (130XE) (USA)[cr Mian-Software][k-file]                                                                            ✗      ✗     ✗
 Goonies, The (Datasoft) (USA)                                                                                                              ✗      ✗     ✗
-Goonies, The (Datasoft) (USA) (130XE)[cr Mian-Software]                                                                                    ✗      ✗     ✗
 Goonies, The (Datasoft) (USA) (Side A)[cr N.A.P.O.][t]                                                                                     ✗      ✗     ✗
 Goonies, The (Datasoft) (USA) (Side B)[cr N.A.P.O.][t]                                                                                     ✗      ✗     ✗
 Goonies, The (Datasoft) (USA)[cr N.A.P.O.][t]                                                                                              ✗      ✗     ✗
@@ -3931,7 +3936,7 @@ Gorgon (1983) (K-Tek Software) (USA)[cr Yogi]                                   
 Gorgon (1983) (K-Tek Software) (USA)[cr Yogi][k-file]                                                                                      ✗      ✗     ✗
 Gossip (1983) (Atari) (USA)                                                                                                                ✗      ✗     ✗
 Gossip (1983) (Atari) (USA)[k-file]                                                                                                        ✗      ✗     ✗
-Grab An Apple (1983) (Page 6) (GB)                                                                                                         ✗      ✗     ✗
+Grab An Apple (1983) (Page 6 Magazine) (GB)                                                                                                ✗      ✗     ✗
 Grab an Apple (1983-07) (Page 6 Magazine) (GB)                                                                                             ✗      ✗     ✗
 Grabit (Oblad, Dave) (USA) (PD)                                                                                                            ✗      ✗     ✗
 Graf von Baerenstein (Power Per Post) (DE) (Side A)                                                                                        ✗      ✗     ✗
@@ -4133,6 +4138,7 @@ Hammurabi (19xx) (Loeser, Peter A.) (USA) (PD)[BASIC]                           
 Hammurabi - Feudalni Ekonomie (19xx) (-) (cs)                                                                                              ✗      ✗     ✗
 Hamurabi (19xx) (-)                                                                                                                        ✗      ✗     ✗
 Hamurabi (19xx) (Steinmetz, Frank) (DE) (PD)                                                                                               ✗      ✗     ✗
+Hangmad, The (2022-12-26) (bocianu) (PL) (en-pl)                                                                                           ✗      ✗     ✗
 Hangman (1981) (Softswap) (USA) (PD)                                                                                                       ✗      ✗     ✗
 Hangman (1981) (Softswap) (USA) (PD)[bas2boot]                                                                                             ✗      ✗     ✗
 Hangman (1986-05) (Callender, Gary)[BASIC]                                                                                                 ✗      ✗     ✗
@@ -5147,41 +5153,75 @@ Kupiec (ASF) (PL)[h MBsoft][tr cs][k-file]                                      
 Kupiec Info (199x) (Sword _ Magic) (cs)                                                                                                    ✗      ✗     ✗
 Kupiec Info (199x) (Sword _ Magic) (cs)[k-file]                                                                                            ✗      ✗     ✗
 Kvadryk (19xx) (Pantola, Roland) (PL)                                                                                                      ✗      ✗     ✗
+LEM (Santellocco, Filippo) (CH)                                                                                                            ✗      ✗     ✗
+LEM - The Moon Lander Game (Optimized Systems Software Inc.) (USA)[BASIC]                                                                  ✗      ✗     ✗
+LEM v1.2 (Santellocco, Filippo) (CH)                                                                                                       ✗      ✗     ✗
+Labirinto (Lindasoft) (IT)[RUN''C][BASIC]                                                                                                  ✗      ✗     ✗
+Labirynty Robbo (2013-03-17) (Sikor Soft) (PL) (PD)                                                                                        ✗      ✗     ✗
 Labyrinth (1982) (Broderbund) (USA)                                                                                                        ✗      ✗     ✗
 Labyrinth (1982) (Broderbund) (USA)[k-file]                                                                                                ✗      ✗     ✗
-Labyrinth (19xx) (Jens Woehrmann) (DE)                                                                                                     ✗      ✗     ✗
-Labyrinth (Dave Oblad) (USA) (PD)                                                                                                          ✗      ✗     ✗
-Labyrinth (Dave Oblad) (USA) (PD) (Alt 1)                                                                                                  ✗      ✗     ✗
-Labyrinth (Dave Oblad) (USA) (PD) (Alt 1)[k-file]                                                                                          ✗      ✗     ✗
-Labyrinth (Dave Oblad) (USA) (PD) (Alt 2)                                                                                                  ✗      ✗     ✗
-Labyrinth (Dave Oblad) (USA) (PD) (Alt 2)[k-file]                                                                                          ✗      ✗     ✗
-Labyrinth (Dave Oblad) (USA) (PD)[k-file]                                                                                                  ✗      ✗     ✗
+Labyrinth (19xx) (Woehrmann, Jens) (DE)                                                                                                    ✗      ✗     ✗
+Labyrinth (Oblad, Dave) (USA) (PD)                                                                                                         ✗      ✗     ✗
+Labyrinth (Oblad, Dave) (USA) (PD) (Alt 1)                                                                                                 ✗      ✗     ✗
+Labyrinth (Oblad, Dave) (USA) (PD) (Alt 1)[k-file]                                                                                         ✗      ✗     ✗
+Labyrinth (Oblad, Dave) (USA) (PD) (Alt 2)                                                                                                 ✗      ✗     ✗
+Labyrinth (Oblad, Dave) (USA) (PD) (Alt 2)[k-file]                                                                                         ✗      ✗     ✗
+Labyrinth (Oblad, Dave) (USA) (PD)[k-file]                                                                                                 ✗      ✗     ✗
+Labyrinth Run (1981) (Manhattan Software) (USA)[CLOAD+RUN][BASIC]                                                                          ✗      ✗     ✗
 Labyrinth des Todes (19xx) (ZPG Software) (DE)[BASIC]                                                                                      ✗      ✗     ✗
-Labyrinths (ANALOG Computing) (USA)                                                                                                        ✗      ✗     ✗
-Labyrinths (ANALOG Computing) (USA)[k-file]                                                                                                ✗      ✗     ✗
+Labyrinth of Crete, The (1983) (Adventure International) (USA) (Side A)                                                                    ✗      ✗     ✗
+Labyrinth of Crete, The (1983) (Adventure International) (USA) (Side B)                                                                    ✗      ✗     ✗
+Labyrinth of Crete, The (1983) (Adventure International) (USA) (Side C)                                                                    ✗      ✗     ✗
+Labyrinth of Crete, The (1983) (Adventure International) (USA) (Side D)                                                                    ✗      ✗     ✗
+Labyrinthe (19xx) (Faller, Pierre) (FR) (PD)                                                                                               ✗      ✗     ✗
+Labyrinthe (Acacia-Run) (BE)                                                                                                               ✗      ✗     ✗
+Labyrinths (1982) (PCA) (USA)[CLOAD+RUN][BASIC]                                                                                            ✗      ✗     ✗
+Labyrinths (1988-04) (ANALOG Computing) (USA)                                                                                              ✗      ✗     ✗
+Labyrinths (1988-04) (ANALOG Computing) (USA)[k-file]                                                                                      ✗      ✗     ✗
 Labyrinths of Kamerra (Codebusters)                                                                                                        ✗      ✗     ✗
 Labyrinths of Kamerra (Codebusters)[k-file]                                                                                                ✗      ✗     ✗
+Ladder Maze (1983-08) (Computer _ Video Games) (GB)                                                                                        ✗      ✗     ✗
+Lady, The (Santellocco, Filippo - Serpell, Daniel) (CH) (PD)                                                                               ✗      ✗     ✗
 Lancelot (Level 9 Computing) (GB)                                                                                                          ✗      ✗     ✗
+Land of Adventure (19xx) (CTH Enterprises) (USA) (PD)                                                                                      ✗      ✗     ✗
+Lander (19xx) (Kendrick, Bill) (USA) (PD)                                                                                                  ✗      ✗     ✗
 Landing (Cronsoft) (pl)[cr Rainbow Walker]                                                                                                 ✗      ✗     ✗
 Landing (Cronsoft) (pl)[cr Rainbow Walker](Alt 1)                                                                                          ✗      ✗     ✗
+Landing Simulator (19xx) (Jordan, Bruce) (USA) (PD)                                                                                        ✗      ✗     ✗
+Landscape (1984-09) (Page 6 Magazine) (GB)                                                                                                 ✗      ✗     ✗
 Landscape (Broderbund) (USA) (Beta)                                                                                                        ✗      ✗     ✗
 Landscape (Broderbund) (USA) (Beta)[k-file]                                                                                                ✗      ✗     ✗
+Lantern (1982) (Aim Software) (USA)[CLOAD+RUN][BASIC]                                                                                      ✗      ✗     ✗
 Lapis Philosophorum - Der Stein der Weisen (Ariolasoft) (DE) (Side A)                                                                      ✗      ✗     ✗
+Lapis Philosophorum - Der Stein der Weisen (Ariolasoft) (DE) (Side A) (Alt 1)                                                              ✗      ✗     ✗
 Lapis Philosophorum - Der Stein der Weisen (Ariolasoft) (DE) (Side B)                                                                      ✗      ✗     ✗
+Lapis Philosophorum - Der Stein der Weisen (Ariolasoft) (DE) (Side B) (Alt 1)                                                              ✗      ✗     ✗
 Lapis Philosophorum - The Philosophers' Stone (Ariolasoft) (GB) (Side A)[cr N.A.P.O.]                                                      ✗      ✗     ✗
 Lapis Philosophorum - The Philosophers' Stone (Ariolasoft) (GB) (Side B)[cr N.A.P.O.]                                                      ✗      ✗     ✗
+Las Vegas (19xx) (Chiko, Joseph R.) (130XE) (USA) (PD)                                                                                     ✗      ✗     ✗
+Las Vegas Casino (198x) (Callisto Computers) (GB)                                                                                          ✗      ✗     ✗
+Las Vegas Casino (198x) (Callisto Computers) (GB)[h ESA]                                                                                   ✗      ✗     ✗
+Las Vegas Casino (198x) (Callisto Computers) (GB)[h ESA][k-file]                                                                           ✗      ✗     ✗
 Las Vegas Casino (Zeppelin Games) (GB)                                                                                                     ✗      ✗     ✗
-Las Vegas Casino (Zeppelin Games) (GB)[h ESA]                                                                                              ✗      ✗     ✗
-Las Vegas Casino (Zeppelin Games) (GB)[h ESA][k-file]                                                                                      ✗      ✗     ✗
 Laser Ants (1982) (Syncro) (USA) (Proto)                                                                                                   ✗      ✗     ✗
 Laser Ants (1982) (Syncro) (USA) (Proto)[k-file]                                                                                           ✗      ✗     ✗
+Laser Barrage (1982-10) (Compute!) (USA)                                                                                                   ✗      ✗     ✗
+Laser Beam (1985-10) (Compute!) (USA)[BASIC]                                                                                               ✗      ✗     ✗
+Laser Blaster (2005-04-02) (MatoSimi) (SK) (PD)                                                                                            ✗      ✗     ✗
+Laser Blaster (2005-06-25) (MatoSimi) (SK) (PD)                                                                                            ✗      ✗     ✗
+Laser Chess (1987-06) (Compute!) (USA)                                                                                                     ✗      ✗     ✗
+Laser Cycle (SGM Software) (USA)                                                                                                           ✗      ✗     ✗
 Laser Duell (19xx) (Happy Computer) (DE)                                                                                                   ✗      ✗     ✗
 Laser Duell (19xx) (Happy Computer) (DE) (Alt 1)                                                                                           ✗      ✗     ✗
 Laser Duell (19xx) (Happy Computer) (DE) (Alt 1)[k-file]                                                                                   ✗      ✗     ✗
 Laser Duell (19xx) (Happy Computer) (DE)[k-file]                                                                                           ✗      ✗     ✗
+Laser Game (19xx) (-)                                                                                                                      ✗      ✗     ✗
 Laser Gates (Imagic) (USA)[cr The Cruiser]                                                                                                 ✗      ✗     ✗
 Laser Gates (Imagic) (USA)[cr The Cruiser][k-file]                                                                                         ✗      ✗     ✗
 Laser Gates (Imagic)[p]                                                                                                                    ✗      ✗     ✗
+Laser Gunner (1982-11) (Compute!) (USA)                                                                                                    ✗      ✗     ✗
+Laser Gunner II (1983-07) (Compute!) (USA)                                                                                                 ✗      ✗     ✗
+Laser Hawk (ICD) (USA)                                                                                                                     ✗      ✗     ✗
 Laser Hawk (Red Rat Software) (GB)                                                                                                         ✗      ✗     ✗
 Laser Hawk (Red Rat Software) (GB) (Alt 1)                                                                                                 ✗      ✗     ✗
 Laser Hawk (Red Rat Software) (GB) (Alt 1)[k-file]                                                                                         ✗      ✗     ✗
@@ -5192,36 +5232,48 @@ Laser Hawk (Red Rat Software) (GB)[h Ingo Tamme]                                
 Laser Hawk (Red Rat Software) (GB)[h Ingo Tamme][k-file]                                                                                   ✗      ✗     ✗
 Laser Hawk (Red Rat Software) (GB)[h]                                                                                                      ✗      ✗     ✗
 Laser Hawk (Red Rat Software) (GB)[k-file]                                                                                                 ✗      ✗     ✗
+Laser Invader (1992-02) (New Atari User) (GB)                                                                                              ✗      ✗     ✗
+Laser Maze (19xx) (Culbertson, Dave) (USA) (PD)                                                                                            ✗      ✗     ✗
+Laser Racers (1983) (Silicon Valley Systems) (USA)[CLOAD+RUN][BASIC]                                                                       ✗      ✗     ✗
 Laser Robot, The (MHS-Studio) (DE)                                                                                                         ✗      ✗     ✗
 Laser Robot, The (MHS-Studio) (DE)[k-file]                                                                                                 ✗      ✗     ✗
 Laser Robot, The (MHS-Studio) (DE)[protected]                                                                                              ✗      ✗     ✗
 Laser Squadron (19xx) (Studio Komputerowe)[Heli Killer hack]                                                                               ✗      ✗     ✗
 Laser Squadron (19xx) (Studio Komputerowe)[Heli Killer hack][k-file]                                                                       ✗      ✗     ✗
+Laser Strike (1986-12) (Compute!) (USA)                                                                                                    ✗      ✗     ✗
 Laser Strike (19xx) (Stedek Software) (USA)[Space Invaders hack]                                                                           ✗      ✗     ✗
 Laser Strike (19xx) (Stedek Software) (USA)[Space Invaders hack][k-file]                                                                   ✗      ✗     ✗
+Laser Tanks (19xx) (-) (BE) (PD)                                                                                                           ✗      ✗     ✗
+Laser Tennis (1983) (Allsoft - GDT)                                                                                                        ✗      ✗     ✗
+Laser Wars (1981) (Crystalware) (USA)[OS-A][BASIC]                                                                                         ✗      ✗     ✗
+Laserbase (19xx) (SNACC) (USA)                                                                                                             ✗      ✗     ✗
 Lasermania (L.K. Avalon) (PL)                                                                                                              ✗      ✗     ✗
 Lasermania (L.K. Avalon) (PL)[f Matosimi]                                                                                                  ✗      ✗     ✗
 Lasermania (L.K. Avalon) (PL)[f Matosimi][k-file]                                                                                          ✗      ✗     ✗
 Lasermania (L.K. Avalon) (PL)[k-file]                                                                                                      ✗      ✗     ✗
 Lasermania (L.K. Avalon) (PL)[t]                                                                                                           ✗      ✗     ✗
 Lasermania (L.K. Avalon) (PL)[t][k-file]                                                                                                   ✗      ✗     ✗
+Lasermania 2020 (MatoSimi) (SK) (PD)                                                                                                       ✗      ✗     ✗
 Lasermaze (KE-Soft) (DE)                                                                                                                   ✗      ✗     ✗
 Lasertraz (19xx) (Darren Broome)                                                                                                           ✗      ✗     ✗
-Last Chance, The (Stefan Schatz) (DE)                                                                                                      ✗      ✗     ✗
-Last Chance, The (Stefan Schatz) (DE)[k-file]                                                                                              ✗      ✗     ✗
+Last Chance, The (Schatz, Stefan) (DE)                                                                                                     ✗      ✗     ✗
+Last Chance, The (Schatz, Stefan) (DE)[k-file]                                                                                             ✗      ✗     ✗
+Last Flight of the Phoenix (1993-03) (New Atari User) (GB)                                                                                 ✗      ✗     ✗
 Last Guardian, The (L.K. Avalon) (PL)                                                                                                      ✗      ✗     ✗
 Last Guardian, The (L.K. Avalon) (PL)[cr GSL - KSL][t +3 GSL - KSL]                                                                        ✗      ✗     ✗
 Last Guardian, The (L.K. Avalon) (PL)[cr GSL - KSL][t +3 GSL - KSL][k-file]                                                                ✗      ✗     ✗
 Last Guardian, The (L.K. Avalon) (PL)[cr GSL - KSL][t +3]                                                                                  ✗      ✗     ✗
 Last Guardian, The (L.K. Avalon) (PL)[k-file]                                                                                              ✗      ✗     ✗
 Last Guardian, The (Tynesoft) (GB)                                                                                                         ✗      ✗     ✗
-Last Starfighter, The (Atari) (Proto)                                                                                                      ✗      ✗     ✗
+Last Oldie, The (1987-06) (AMC-Verlag) (DE)                                                                                                ✗      ✗     ✗
 Last Starfighter, The (Atari) (USA) (Beta)                                                                                                 ✗      ✗     ✗
 Last Starfighter, The (Atari) (USA) (Beta) (Alt 1)                                                                                         ✗      ✗     ✗
 Last Starfighter, The (Atari) (USA) (Beta) (Alt 1)[k-file]                                                                                 ✗      ✗     ✗
 Last Starfighter, The (Atari) (USA) (Beta) (Alt 2)                                                                                         ✗      ✗     ✗
 Last Starfighter, The (Atari) (USA) (Beta) (Alt 2)[k-file]                                                                                 ✗      ✗     ✗
 Last Starfighter, The (Atari) (USA) (Beta)[k-file]                                                                                         ✗      ✗     ✗
+Last Trump (19xx) (Z Innovators) (USA) (PD)                                                                                                ✗      ✗     ✗
+Last V8 - Extended Version, The (Homesoft) (DE)                                                                                            ✗      ✗     ✗
 Last V8, The (198x) (Mastertronic) (USA)                                                                                                   ✗      ✗     ✗
 Last V8, The (198x) (Mastertronic) (USA) (Alt 1)                                                                                           ✗      ✗     ✗
 Last V8, The (198x) (Mastertronic) (USA)[cr Mr. Bacardi]                                                                                   ✗      ✗     ✗
@@ -5229,74 +5281,124 @@ Last V8, The (Mastertronic) (GB)                                                
 Last V8, The (Mastertronic) (GB)[cr N.A.P.O.]                                                                                              ✗      ✗     ✗
 Last V8, The (Mastertronic) (GB)[cr N.A.P.O.](Alt 1)[k-file]                                                                               ✗      ✗     ✗
 Last V8, The (Mastertronic) (GB)[cr N.A.P.O.][k-file]                                                                                      ✗      ✗     ✗
-Last Warrior, The (Compute!) (USA)                                                                                                         ✗      ✗     ✗
-Last Warrior, The (Compute!) (USA) (Alt 1)                                                                                                 ✗      ✗     ✗
-Last Warrior, The (Compute!) (USA) (Alt 1)[k-file]                                                                                         ✗      ✗     ✗
-Last Warrior, The (Compute!) (USA)[k-file]                                                                                                 ✗      ✗     ✗
+Last Warrior, The (1985-09) (Compute!) (USA)                                                                                               ✗      ✗     ✗
+Last Warrior, The (1985-09) (Compute!) (USA) (Alt 1)                                                                                       ✗      ✗     ✗
+Last Warrior, The (1985-09) (Compute!) (USA) (Alt 1)[k-file]                                                                               ✗      ✗     ✗
+Last Warrior, The (1985-09) (Compute!) (USA)[k-file]                                                                                       ✗      ✗     ✗
+Last of the Dragons (1983) (ALA Software) (USA)                                                                                            ✗      ✗     ✗
+Launch Code (1986-09) (ANALOG Computing) (USA)                                                                                             ✗      ✗     ✗
+Laura (ArSoft Corporation) (130XE) (Europe) (PL) (France)(PD)                                                                              ✗      ✗     ✗
+Laura (ArSoft Corporation) (130XE) (Europe) (PL) (PD)                                                                                      ✗      ✗     ✗
+Laura (ArSoft Corporation) (130XE) (Europe) (PL) (cs)(PD)                                                                                  ✗      ✗     ✗
+Laura (ArSoft Corporation) (130XE) (Europe) (PL) (de)(PD)                                                                                  ✗      ✗     ✗
+Laura (ArSoft Corporation) (130XE) (Europe) (PL) (it)(PD)                                                                                  ✗      ✗     ✗
+Laura (ArSoft Corporation) (130XE) (Europe) (PL) (ru)(PD)                                                                                  ✗      ✗     ✗
+Lava Run (1983) (K-Tek Software) (USA)[BASIC]                                                                                              ✗      ✗     ✗
 Lawkeeper (Broderbund) (USA) (Proto)                                                                                                       ✗      ✗     ✗
 Lawkeeper (Broderbund) (USA) (Proto)[k-file]                                                                                               ✗      ✗     ✗
-Lazer Type (ANALOG Computing) (USA)                                                                                                        ✗      ✗     ✗
-Lazer Type (ANALOG Computing) (USA)[h Atari Sysops Alliance]                                                                               ✗      ✗     ✗
-Lazer Type (ANALOG Computing) (USA)[h Atari Sysops Alliance][k-file]                                                                       ✗      ✗     ✗
-Lazer Type (ANALOG Computing) (USA)[k-file]                                                                                                ✗      ✗     ✗
+Lawn Mower (ANALOG Computing) (USA)                                                                                                        ✗      ✗     ✗
+Lazer Feds (White Bag Software) (USA)                                                                                                      ✗      ✗     ✗
+Lazer Maze (1982) (Avant-Garde Creations) (USA)[BASIC]                                                                                     ✗      ✗     ✗
 Lazerbase (Davie, Andrew)                                                                                                                  ✗      ✗     ✗
+Lazy! (19xx) (Magenheimer, Andreas) (DE) (PD)[PCS]                                                                                         ✗      ✗     ✗
 Lazzy Larry (Peer-Soft) (CZ)[BASIC]                                                                                                        ✗      ✗     ✗
+Lazzy Larry (Peer-Soft) (CZ)[CLOAD+RUN][BASIC]                                                                                             ✗      ✗     ✗
 Leader Board (Access Software) (USA)                                                                                                       ✗      ✗     ✗
 Leader Board (Access Software) (USA) (Alt 1)                                                                                               ✗      ✗     ✗
 Leader Board (Access Software) (USA) (Alt 1)[k-file]                                                                                       ✗      ✗     ✗
+Leader Board (Access Software) (USA) (Side A)                                                                                              ✗      ✗     ✗
+Leader Board (Access Software) (USA) (Side B)                                                                                              ✗      ✗     ✗
 Leader Board (Access Software) (USA)[cr Gandalf Software]                                                                                  ✗      ✗     ✗
 Leader Board (Access Software) (USA)[cr N.A.P.O.]                                                                                          ✗      ✗     ✗
 Leader Board (Access Software) (USA)[cr N.A.P.O.](Alt 1)                                                                                   ✗      ✗     ✗
 Leader Board (Access Software) (USA)[k-file]                                                                                               ✗      ✗     ✗
 Leader Board Tournament Disk #1 (19xx) (-)                                                                                                 ✗      ✗     ✗
+Leader Board Tournament Disk (Access Software) (USA)                                                                                       ✗      ✗     ✗
+League Challenge (Atlantis Software) (GB)[BASIC]                                                                                           ✗      ✗     ✗
+Leap Frog! (1983) (Rantom Software) (USA)                                                                                                  ✗      ✗     ✗
+Leap'in Lizards! (1983) (Gentry Software) (USA) (Proto)                                                                                    ✗      ✗     ✗
 Leaper (Bug-Byte) (GB)                                                                                                                     ✗      ✗     ✗
 Leaper (Bug-Byte) (GB) (Alt 1)                                                                                                             ✗      ✗     ✗
 Leaper (Bug-Byte) (GB) (Alt 1)[k-file]                                                                                                     ✗      ✗     ✗
+Leaper (Bug-Byte) (GB)[CLOAD+RUN][BASIC]                                                                                                   ✗      ✗     ✗
 Leaper (Bug-Byte) (GB)[k-file]                                                                                                             ✗      ✗     ✗
+Leaping Larry (1987-12) (Compute!) (USA)                                                                                                   ✗      ✗     ✗
 Leapster (Alternative Software) (GB)                                                                                                       ✗      ✗     ✗
 Leapster (Alternative Software) (GB)[h Tomsoft][k-file]                                                                                    ✗      ✗     ✗
-Learning with Leeper (1983) (Sierra On-Line) (USA)                                                                                         ✗      ✗     ✗
-Leather Godesses of Phobos (Infocom) (USA) (Side A)                                                                                        ✗      ✗     ✗
-Leather Godesses of Phobos (Infocom) (USA) (Side B)                                                                                        ✗      ✗     ✗
+Leather Goddesses of Phobos (Infocom) (USA) (Side A)                                                                                       ✗      ✗     ✗
+Leather Goddesses of Phobos (Infocom) (USA) (Side B)                                                                                       ✗      ✗     ✗
 Leben (19xx) (Michael Hartmann)                                                                                                            ✗      ✗     ✗
 Leben (19xx) (Michael Hartmann)[k-file]                                                                                                    ✗      ✗     ✗
+Left - Right (19xx) (-)                                                                                                                    ✗      ✗     ✗
 Legacy, The rev7.1 (Atari) (USA) (Proto)[released as Final Legacy]                                                                         ✗      ✗     ✗
+Leggit! (1983) (Imagine) (GB)                                                                                                              ✗      ✗     ✗
 Legionnaire (1982) (Avalon Hill) (USA)                                                                                                     ✗      ✗     ✗
 Legionnaire (1982) (Avalon Hill) (USA) (Alt 1)                                                                                             ✗      ✗     ✗
 Legionnaire (1982) (Avalon Hill) (USA) (Alt 1)[k-file]                                                                                     ✗      ✗     ✗
 Legionnaire (1982) (Avalon Hill) (USA)[k-file]                                                                                             ✗      ✗     ✗
 Leise Tod, Der (R_E Software) (DE) (Side A)                                                                                                ✗      ✗     ✗
 Leise Tod, Der (R_E Software) (DE) (Side B)                                                                                                ✗      ✗     ✗
-Lemmingi (Orion Development) (PL) (PD)[p]                                                                                                  ✗      ✗     ✗
+Lemmingi (Orion Development) (PL) (PD)                                                                                                     ✗      ✗     ✗
+Lemmingi (Orion Development) (PL) (PD) (Alt 1)                                                                                             ✗      ✗     ✗
 Lemmingi (demo) (199x) (Orion Development) (PL) (PD) (preview)[with intro]                                                                 ✗      ✗     ✗
 Lemmingi (demo) (Orion Development) (PL) (PD) (preview)                                                                                    ✗      ✗     ✗
 Lemmingi (demo) (Orion Development) (PL) (PD) (preview)[later version][k-file]                                                             ✗      ✗     ✗
+Lemmings (Datri Software) (CZ)                                                                                                             ✗      ✗     ✗
+Lemmings (Datri Software) (CZ)[Intro 1]                                                                                                    ✗      ✗     ✗
+Lemmings (Datri Software) (CZ)[Intro 2]                                                                                                    ✗      ✗     ✗
+Lemmings (Datri Software) (CZ)[Intro 3]                                                                                                    ✗      ✗     ✗
 Lemonade (1981) (APX) (USA) (Alt 1)[bas2boot]                                                                                              ✗      ✗     ✗
+Lemonade (1981) (APX) (USA)[BASIC]                                                                                                         ✗      ✗     ✗
+Lemonade (1981) (APX) (USA)[CLOAD+RUN][BASIC]                                                                                              ✗      ✗     ✗
 Lemonade (1981) (APX) (USA)[bas2boot]                                                                                                      ✗      ✗     ✗
+Lemonade (1985-10) (Antic) (USA)                                                                                                           ✗      ✗     ✗
 Lepus Revenge (1983) (ALA Software) (USA)                                                                                                  ✗      ✗     ✗
 Lepus Revenge (1983) (ALA Software) (USA)[k-file]                                                                                          ✗      ✗     ✗
+Let's Hop (1989-03) (Atari Magazin) (DE)                                                                                                   ✗      ✗     ✗
 Letec v jeskyni (Oliver Cyranka) (cs)[BASIC]                                                                                               ✗      ✗     ✗
-Lifespan (1983) (Roklan) (Proto)                                                                                                           ✗      ✗     ✗
+Letter Castle (Page 6 Magazine) (GB)                                                                                                       ✗      ✗     ✗
+Letterman (1981) (APX) (USA)[BASIC]                                                                                                        ✗      ✗     ✗
+Letterman (1981) (APX) (USA)[CLOAD+RUN][BASIC]                                                                                             ✗      ✗     ✗
+Leyte (1981-10) (SoftSide Publications) (USA)[BASIC]                                                                                       ✗      ✗     ✗
+License Plates (Parada, Victor) (CL) (PD)                                                                                                  ✗      ✗     ✗
+Life (1986-04) (Antic) (USA)                                                                                                               ✗      ✗     ✗
+Life (Oblad, Dave) (USA) (PD)                                                                                                              ✗      ✗     ✗
+Life in the Fast Lane (1987-06) (ANALOG Computing) (USA)                                                                                   ✗      ✗     ✗
+Life! (Larry and Larry) (USA) (PD)                                                                                                         ✗      ✗     ✗
 Lifespan (1983) (Roklan) (USA) (Proto)                                                                                                     ✗      ✗     ✗
+Lifespan (1983) (Roklan) (USA) (Proto) (Alt 1)                                                                                             ✗      ✗     ✗
 Lifespan (1983) (Roklan) (USA) (Proto)[k-file]                                                                                             ✗      ✗     ✗
 Lifespan (Antic) (USA) (Side A)                                                                                                            ✗      ✗     ✗
 Lifespan (Antic) (USA) (Side B)                                                                                                            ✗      ✗     ✗
-Liga Polska (19xx) (Sikor Soft) (PL) (Alt 1)[BASIC]                                                                                        ✗      ✗     ✗
-Liga Polska (19xx) (Sikor Soft) (PL) (Alt 2)[BASIC]                                                                                        ✗      ✗     ✗
-Liga Polska (19xx) (Sikor Soft) (PL)[BASIC]                                                                                                ✗      ✗     ✗
+Liga Polska (Sikor Soft) (PL) (Alt 1)[BASIC]                                                                                               ✗      ✗     ✗
+Liga Polska (Sikor Soft) (PL) (Alt 2)[BASIC]                                                                                               ✗      ✗     ✗
+Liga Polska (Sikor Soft) (PL)[BASIC]                                                                                                       ✗      ✗     ✗
+Light Pen Doodle (1984-04) (Antic) (USA)[lightpen]                                                                                         ✗      ✗     ✗
+Light Up! (MatoSimi) (SK) (PD)                                                                                                             ✗      ✗     ✗
 Lighthouse (1983) (ALA Software) (USA)                                                                                                     ✗      ✗     ✗
+Lightning Robot (1982) (ACE) (USA) (PD)[BASIC]                                                                                             ✗      ✗     ✗
+Limonade (1981) (Atari) (FR)[BASIC]                                                                                                        ✗      ✗     ✗
+Line Crash (Ellman, Andrei) (NL) (PD)                                                                                                      ✗      ✗     ✗
+Line Runner (GR8 Software) (PL) (PD)                                                                                                       ✗      ✗     ✗
 Line-Up (New Age Software) (CL) (PD)                                                                                                       ✗      ✗     ✗
 Line-Up (New Age Software) (CL) (PD) (Alt 1)                                                                                               ✗      ✗     ✗
 Line-Up (New Age Software) (CL) (PD) (Alt 2)                                                                                               ✗      ✗     ✗
 Line-Up (New Age Software) (CL) (PD) (Alt 3)                                                                                               ✗      ✗     ✗
 Line-Up (New Age Software) (CL) (PD) (Alt 4)                                                                                               ✗      ✗     ✗
 Line-Up (New Age Software) (CL) (PD) (Alt 5)                                                                                               ✗      ✗     ✗
+Liner! (Sikor Soft) (PL) (PD)                                                                                                              ✗      ✗     ✗
+Lines of Action (1984-12) (ROM Magazine) (CA) (PD)                                                                                         ✗      ✗     ✗
 Linking Logic (Fisher-Price) (USA)                                                                                                         ✗      ✗     ✗
 Linking Logic (Fisher-Price) (USA)[k-file]                                                                                                 ✗      ✗     ✗
+Liquid Measurements (Gedalius, Jack) (USA) (PD)                                                                                            ✗      ✗     ✗
+Little 15 (Husak, Jakub) (PL)                                                                                                              ✗      ✗     ✗
 Little Computer People (Megamania Software) (de)                                                                                           ✗      ✗     ✗
 Little Devil (19xx) (Red Rat Software) (GB)                                                                                                ✗      ✗     ✗
 Little Devil (19xx) (Red Rat Software) (GB)[h]                                                                                             ✗      ✗     ✗
 Little Devil (19xx) (Red Rat Software) (GB)[k-file]                                                                                        ✗      ✗     ✗
+Little Frog (Pelusa Soft) (CL) (PD)                                                                                                        ✗      ✗     ✗
+Little Green Thingies from Space (19xx) (Davis, James) (USA) (PD)                                                                          ✗      ✗     ✗
+Liverpool (19xx) (Corbishley, P.) (GB)[BASIC]                                                                                              ✗      ✗     ✗
 Livewire (1983) (ANALOG Computing) (USA)[joystick default]                                                                                 ✗      ✗     ✗
 Livewire (1983) (ANALOG Computing) (USA)[joystick default][k-file]                                                                         ✗      ✗     ✗
 Livewire (1983) (ANALOG Computing) (USA)[paddle default]                                                                                   ✗      ✗     ✗
@@ -5312,6 +5414,9 @@ Lizard (Tiger Developments) (GB)[title]                                         
 Loaded Brain (HBSF) (Europe) (DE) (PD)[cr Mr. War]                                                                                         ✗      ✗     ✗
 Loaded Brain v1.1 (HBSF) (Europe) (DE) (PD) (Side A)                                                                                       ✗      ✗     ✗
 Loaded Brain v1.1 (HBSF) (Europe) (DE) (PD) (Side B)                                                                                       ✗      ✗     ✗
+Local Sidereal Time and Date (19xx) (Brennan, James J.) (USA) (PD)                                                                         ✗      ✗     ✗
+Location (1984-02) (Homecomputer) (DE)                                                                                                     ✗      ✗     ✗
+Locket (19xx) (Mirage) (PL) (Proto)                                                                                                        ✗      ✗     ✗
 Loco (Alligata Software) (GB)                                                                                                              ✗      ✗     ✗
 Loco (Alligata Software) (GB) (Alt 1)                                                                                                      ✗      ✗     ✗
 Loco (Alligata Software) (GB) (Alt 1)[k-file]                                                                                              ✗      ✗     ✗
@@ -5330,6 +5435,7 @@ Lode Runner (Atari) (USA)                                                       
 Lode Runner II (1983) (Ralf Bertenberg)[Lode Runner hack]                                                                                  ✗      ✗     ✗
 Lode Runner's Rescue (Synapse Software) (USA) (Side A)                                                                                     ✗      ✗     ✗
 Lode Runner's Rescue (Synapse Software) (USA) (Side B)                                                                                     ✗      ✗     ✗
+Lode Runner's Rescue (Synapse Software) (USA) (Side B) (Alt 1)                                                                             ✗      ✗     ✗
 Lode Runner's Rescue Editor (Synapse Software) (Side A)                                                                                    ✗      ✗     ✗
 Lode Runner's Rescue Editor (Synapse Software) (Side B)                                                                                    ✗      ✗     ✗
 Loderunner Returns (198x) (Le'Al)[Lode Runner hack]                                                                                        ✗      ✗     ✗
@@ -5337,19 +5443,30 @@ Logic Levels (Fisher-Price) (USA)                                               
 Logic Levels (Fisher-Price) (USA) (Alt 1)                                                                                                  ✗      ✗     ✗
 Logic Levels (Fisher-Price) (USA) (Alt 1)[k-file]                                                                                          ✗      ✗     ✗
 Logic Levels (Fisher-Price) (USA)[k-file]                                                                                                  ✗      ✗     ✗
+Logic Master (Terminus Games) (CZ)                                                                                                         ✗      ✗     ✗
 Logic Puzzle Gridmaker (19xx) (Michael Hill)[BASIC]                                                                                        ✗      ✗     ✗
 Logic Puzzle Gridmaker (19xx) (Michael Hill)[BASIC][k-file]                                                                                ✗      ✗     ✗
+Logik (2001-06-12) (Svoboda, Petr) (CZ) (PD)                                                                                               ✗      ✗     ✗
 Logistik (Re-Soft) (DE)                                                                                                                    ✗      ✗     ✗
-Logo-Square (Robert Dekinger) (de)                                                                                                         ✗      ✗     ✗
-Logo-Square (Robert Dekinger) (de)[k-file]                                                                                                 ✗      ✗     ✗
-Lone Raider, The (Atari) (GB)                                                                                                              ✗      ✗     ✗
-Lone Raider, The (Atari) (GB) (Alt 1)                                                                                                      ✗      ✗     ✗
-Lone Raider, The (Atari) (GB)[k-file]                                                                                                      ✗      ✗     ✗
+Logjam (1983) (Computer _ Video Games) (GB)                                                                                                ✗      ✗     ✗
+Logo-Square (Dekinger, Robert) (de)                                                                                                        ✗      ✗     ✗
+Logo-Square (Dekinger, Robert) (de)[k-file]                                                                                                ✗      ✗     ✗
+Lone Eagle's Revenge (1983-06) (Antic) (USA)                                                                                               ✗      ✗     ✗
+Lone Raider, The (1983) (Atari) (GB)                                                                                                       ✗      ✗     ✗
+Lone Raider, The (1983) (Atari) (GB) (Alt 1)                                                                                               ✗      ✗     ✗
+Lone Raider, The (1983) (Atari) (GB)[k-file]                                                                                               ✗      ✗     ✗
+Lone Raider, The (1983) (Atari) (GB)[no SIO patch]                                                                                         ✗      ✗     ✗
+Lookahead (1981) (APX) (USA)[BASIC]                                                                                                        ✗      ✗     ✗
+Looney Tunes Hotel (Homesoft) (DE)[5200]                                                                                                   ✗      ✗     ✗
+Loony Lander (19xx) (Pingitore, Lou) (PD)                                                                                                  ✗      ✗     ✗
+Loops DX (XXL) (PL) (PD)                                                                                                                   ✗      ✗     ✗
+Loops of Zen (XXL) (PL) (PD)                                                                                                               ✗      ✗     ✗
 Lord of Darkness (19xx) (The Elb) (de)                                                                                                     ✗      ✗     ✗
-Lord of the Orb (1983) (Jose Suarez)                                                                                                       ✗      ✗     ✗
-Lord of the Orb (1983) (Jose Suarez)[t SOL]                                                                                                ✗      ✗     ✗
+Lord of the Orb (Antic Software) (USA)                                                                                                     ✗      ✗     ✗
+Lord of the Orb (Antic Software) (USA)[t SOL]                                                                                              ✗      ✗     ✗
 Lords of Conquest (USA) (Side A)[cr N.A.P.O.]                                                                                              ✗      ✗     ✗
 Lords of Conquest (USA) (Side B)[cr N.A.P.O.]                                                                                              ✗      ✗     ✗
+Lords of Karma (1981) (Avalon Hill) (USA)                                                                                                  ✗      ✗     ✗
 Lords of Time (1983) (Level 9 Computing) (GB)                                                                                              ✗      ✗     ✗
 Lords of Time (1983) (Level 9 Computing) (GB)[DOS]                                                                                         ✗      ✗     ✗
 Lords of Time (1983) (Level 9 Computing) (GB)[b playable]                                                                                  ✗      ✗     ✗
@@ -5369,34 +5486,72 @@ Los Angeles 1984 Games (Atari)                                                  
 Los Angeles 1984 Games (Atari)[h US Pirates BBS]                                                                                           ✗      ✗     ✗
 Los Angeles 1984 Games (Atari)[h US Pirates BBS][k-file]                                                                                   ✗      ✗     ✗
 Los Angeles 1984 Games (Atari)[k-file]                                                                                                     ✗      ✗     ✗
-Los Angeles Swat (Mastertronic) (USA)[h SAM]                                                                                               ✗      ✗     ✗
-Los Angeles Swat (Mastertronic) (USA)[h SAM][k-file]                                                                                       ✗      ✗     ✗
+Los Angeles SWAT (Mastertronic) (GB)                                                                                                       ✗      ✗     ✗
+Los Angeles SWAT (Mastertronic) (USA)                                                                                                      ✗      ✗     ✗
+Los Angeles SWAT (Mastertronic) (USA)[h SAM]                                                                                               ✗      ✗     ✗
+Los Angeles SWAT (Mastertronic) (USA)[h SAM][k-file]                                                                                       ✗      ✗     ✗
+Lost City, The (Electric Software) (USA) (PD)                                                                                              ✗      ✗     ✗
+Lost Colony (1981) (Acorn Software) (USA)[BASIC]                                                                                           ✗      ✗     ✗
 Lost Tomb (Datasoft) (USA)                                                                                                                 ✗      ✗     ✗
 Lost Tomb (Datasoft) (USA)[cr Dupsysteme][h PVBest]                                                                                        ✗      ✗     ✗
 Lost Tomb (Datasoft) (USA)[k-file]                                                                                                         ✗      ✗     ✗
+Lost Treasure (1980) (Hayden Book Company) (USA)[m Jackson, E - Lewis, R.]                                                                 ✗      ✗     ✗
+Lost Treasure (1980) (Hayden Book Company) (USA)[m Starfleet Atari Club]                                                                   ✗      ✗     ✗
+Lost! (19xx) (Bay Area Atari Users Group) (USA) (PD)[BASIC]                                                                                ✗      ✗     ✗
 Lotto (19xx) (-) (de)                                                                                                                      ✗      ✗     ✗
 Lov Opic (Gerhard Hoppe) (pl)                                                                                                              ✗      ✗     ✗
+Lowca (Krysal) (PL)                                                                                                                        ✗      ✗     ✗
 Lowca (Krysal) (PL)[h GSL - KSL]                                                                                                           ✗      ✗     ✗
 Lowca (Krysal) (PL)[h GSL - KSL][k-file]                                                                                                   ✗      ✗     ✗
 Lowca (Krysal) (PL)[t]                                                                                                                     ✗      ✗     ✗
 Lowca (Krysal) (PL)[t][k-file]                                                                                                             ✗      ✗     ✗
-Lucifer's Realm (1981) (Med Systems) (USA)[OS-B]                                                                                           ✗      ✗     ✗
-Lucifer's Realm (1981) (Med Systems) (USA)[OS-B][k-file]                                                                                   ✗      ✗     ✗
-Lucifer's Realm (American Eagle Software) (USA) (Disk 1 of 2 Side A)                                                                       ✗      ✗     ✗
-Lucifer's Realm (American Eagle Software) (USA) (Disk 1 of 2 Side B)                                                                       ✗      ✗     ✗
-Lucifer's Realm (American Eagle Software) (USA) (Disk 2 of 2)                                                                              ✗      ✗     ✗
+Loydova Cesta (Vlakar Soft) (CZ)[BASIC]                                                                                                    ✗      ✗     ✗
+Lucifer's Realm (1981) (Med Systems Software) (USA) (Alt 1)[OS-B]                                                                          ✗      ✗     ✗
+Lucifer's Realm (1981) (Med Systems Software) (USA)[OS-B]                                                                                  ✗      ✗     ✗
+Lucifer's Realm (1981) (Med Systems Software) (USA)[OS-B][k-file]                                                                          ✗      ✗     ✗
+Lucifer's Realm (All American Adventure) (GB) (Disk 1 of 2 Side A)[OS-B]                                                                   ✗      ✗     ✗
+Lucifer's Realm (All American Adventure) (GB) (Disk 1 of 2 Side B)[OS-B]                                                                   ✗      ✗     ✗
+Lucifer's Realm (All American Adventure) (GB) (Disk 2 of 2)[OS-B]                                                                          ✗      ✗     ✗
+Lucky Digit (19xx) (Offenbacher, Jason)                                                                                                    ✗      ✗     ✗
+Lucky Lady (19xx) (-) (USA)                                                                                                                ✗      ✗     ✗
+Lumberjack (1983-11) (ANALOG Computing) (USA)                                                                                              ✗      ✗     ✗
+Lunacy (Visser, Mark J.) (CA) (PD)                                                                                                         ✗      ✗     ✗
+Lunaport (AMC-Soft) (DE)                                                                                                                   ✗      ✗     ✗
+Lunar Battle (19xx) (-) (NL)                                                                                                               ✗      ✗     ✗
+Lunar Blitz (Cosine) (GB) (PD)                                                                                                             ✗      ✗     ✗
 Lunar Defender (19xx) (Memphis Atari System Hobbyists) (USA) (PD)                                                                          ✗      ✗     ✗
 Lunar Defender (19xx) (Memphis Atari System Hobbyists) (USA) (PD)[k-file]                                                                  ✗      ✗     ✗
+Lunar Lander (1981) (ACE Program Exchange) (USA) (PD)                                                                                      ✗      ✗     ✗
+Lunar Lander (1981) (Adventure International) (USA)[CLOAD+RUN][BASIC]                                                                      ✗      ✗     ✗
+Lunar Lander (1981) (HACE) (PD)                                                                                                            ✗      ✗     ✗
+Lunar Lander (1983-10) (Electronic Fun) (USA)                                                                                              ✗      ✗     ✗
+Lunar Lander (1988-03) (Atari Explorer) (USA)                                                                                              ✗      ✗     ✗
+Lunar Lander (19xx) (Newell, Wes B.) (USA) (PD)                                                                                            ✗      ✗     ✗
+Lunar Lander (Keates, Ian) (GB) (PD)[BASIC]                                                                                                ✗      ✗     ✗
+Lunar Lander (Ryan, Gary) (AU) (PD)                                                                                                        ✗      ✗     ✗
+Lunar Landing (1983-09) (Virgin Books) (GB)                                                                                                ✗      ✗     ✗
+Lunar Landing (19xx) (Schwartzberg, Ross) (USA) (PD)                                                                                       ✗      ✗     ✗
 Lunar Leeper (1983) (Sierra On-Line) (USA)                                                                                                 ✗      ✗     ✗
 Lunar Leeper (1983) (Sierra On-Line) (USA) (Alt 1)                                                                                         ✗      ✗     ✗
 Lunar Leeper (1983) (Sierra On-Line) (USA) (Alt 2)                                                                                         ✗      ✗     ✗
 Lunar Leeper (1983) (Sierra On-Line) (USA)[OS-B]                                                                                           ✗      ✗     ✗
 Lunar Leeper (1983) (Sierra On-Line) (USA)[k-file]                                                                                         ✗      ✗     ✗
 Lunar Leeper (1983) (Sierra On-Line) (USA)[no title screen]                                                                                ✗      ✗     ✗
+Lunar Mission (1981) (Rutter, Matt) (USA) (PD)                                                                                             ✗      ✗     ✗
+Lunar Mission (1981) (Seifert, Phil) (USA) (PD)                                                                                            ✗      ✗     ✗
 Lunar Outpost (19xx) (Epyx)                                                                                                                ✗      ✗     ✗
+Lunar Patrol (1985-06) (ANALOG Computing) (USA)                                                                                            ✗      ✗     ✗
 Lunar Patrol (ANALOG Computing) (USA)[BASIC]                                                                                               ✗      ✗     ✗
+Lunar Shuttle (19xx) (Reid, Mark) (USA)[BASIC]                                                                                             ✗      ✗     ✗
+Lunar V (1981-03) (ACE Newsletter) (USA)                                                                                                   ✗      ✗     ✗
+Lunar V (1983-07) (Page 6 Magazine) (GB)                                                                                                   ✗      ✗     ✗
+Luner Jetman (Flop) (CZ)                                                                                                                   ✗      ✗     ✗
 Lurking Horror, The (Infocom) (USA) (Side A)                                                                                               ✗      ✗     ✗
 Lurking Horror, The (Infocom) (USA) (Side B)                                                                                               ✗      ✗     ✗
+Lux (1988-02) (AMC-Soft) (DE)                                                                                                              ✗      ✗     ✗
+Lvi Srdce (K-Soft) (CZ) (Part 1 of 3)                                                                                                      ✗      ✗     ✗
+Lvi Srdce (K-Soft) (CZ) (Part 2 of 3)                                                                                                      ✗      ✗     ✗
+Lvi Srdce (K-Soft) (CZ) (Part 3 of 3)                                                                                                      ✗      ✗     ✗
 M-A-S-H (1982) (Romox) (USA)                                                                                                               ✗      ✗     ✗
 M-A-S-H (1982) (Romox) (USA)[OS-B]                                                                                                         ✗      ✗     ✗
 M-A-S-H (1982) (Romox) (USA)[OS-B][k-file]                                                                                                 ✗      ✗     ✗
@@ -6221,6 +6376,7 @@ Ozzy's Orchard (1983) (TG Software) (USA)[k-file]                               
 P.O.W. (Microdaft) (USA)                                                                                                                   ✗      ✗     ✗
 Pac Munch Jr. (19xx) (Ken Siders) (USA) (PD)                                                                                               ✗      ✗     ✗
 Pac Munch Jr. (19xx) (Ken Siders) (USA) (PD)[k-file]                                                                                       ✗      ✗     ✗
+Pac Time (2022) (Luklab)                                                                                                                   ✗      ✗     ✗
 Pac-Man (1982) (Atari) (USA)                                                                                                               ✗      ✗     ✗
 Pac-Man (1982) (Atari) (USA) (Alt 1)                                                                                                       ✗      ✗     ✗
 Pac-Man (1982) (Atari) (USA) (Alt 1)[k-file]                                                                                               ✗      ✗     ✗
@@ -6657,9 +6813,9 @@ Qix (1982) (Atari) (USA) (Alt 1)                                                
 Qix (1982) (Atari) (USA) (Alt 1)[5200]                                                                                                     ✗      ✗     ✗
 Qix (1982) (Atari) (USA) (Alt 1)[5200][k-file]                                                                                             ✗      ✗     ✗
 Qix (1982) (Atari) (USA) (Alt 1)[k-file]                                                                                                   ✗      ✗     ✗
+Qix (1982) (Atari) (USA) (Alt 2)[5200]                                                                                                     ✗      ✗     ✗
 Qix (1982) (Atari) (USA) (Alt 2)[5200][k-file]                                                                                             ✗      ✗     ✗
 Qix (1982) (Atari) (USA)[5200]                                                                                                             ✗      ✗     ✗
-Qix (1982) (Atari) (USA)[5200](Alt 1)                                                                                                      ✗      ✗     ✗
 Qix (1982) (Atari) (USA)[5200][k-file]                                                                                                     ✗      ✗     ✗
 Qix (1982) (Atari) (USA)[k-file]                                                                                                           ✗      ✗     ✗
 Qix (1982) (Atari)[CXL4027]                                                                                                                ✗      ✗     ✗
@@ -7141,6 +7297,9 @@ Sargon II (1982) (Hayden Software) (USA)                                        
 Sargon II (1982) (Hayden Software) (USA) (Alt 1)                                                                                           ✗      ✗     ✗
 Sargon II (1982) (Hayden Software) (USA) (Alt 1)[k-file]                                                                                   ✗      ✗     ✗
 Sargon II (1982) (Hayden Software) (USA)[k-file]                                                                                           ✗      ✗     ✗
+Sargon III (Hayden Software Company) (Great Games and Chess Problems)[30019]                                                               ✗      ✗     ✗
+Sargon III (Hayden Software Company) (Opening Book Disk)[30019]                                                                            ✗      ✗     ✗
+Sargon III (Hayden Software Company) (Program Disk)[30019]                                                                                 ✗      ✗     ✗
 Sargon III (Hayden Software) (USA)                                                                                                         ✗      ✗     ✗
 Sargon III (Hayden Software) (USA)[k-file]                                                                                                 ✗      ✗     ✗
 Sargon III (USA) (Opening Book Disk) (5.25 inch)                                                                                           ✗      ✗     ✗
@@ -7335,6 +7494,7 @@ Sidewinder II (Mastertronic) (GB)[cr Mr. Bacardi]                               
 Sidewinder II (Mastertronic) (GB)[cr Mr. Bacardi](Alt 1)                                                                                   ✗      ✗     ✗
 Sidewinder II (Mastertronic) (GB)[cr Mr. Bacardi](Alt 1)[k-file]                                                                           ✗      ✗     ✗
 Sidewinder II (Mastertronic) (GB)[cr Mr. Bacardi][k-file]                                                                                  ✗      ✗     ✗
+Silent Service (MicroProse) (GB)                                                                                                           ✗      ✗     ✗
 Silent Service (MicroProse) (USA)                                                                                                          ✗      ✗     ✗
 Silent Service (MicroProse) (USA) (Alt 1)                                                                                                  ✗      ✗     ✗
 Silent Service (MicroProse) (USA) (Alt 2)                                                                                                  ✗      ✗     ✗
@@ -8851,3 +9011,4 @@ Zybex (Video 61 - Williams) (XE-XL)                                             
 Zybex (Zeppelin Games) (GB)                                                                                                                ✗      ✗     ✗
 Zybex (Zeppelin Games) (GB)[cr Kiwi Systems New Zealand][t]                                                                                ✗      ✗     ✗
 Zybex (Zeppelin Games) (GB)[cr Kiwi Systems New Zealand][t](Alt 1)                                                                         ✗      ✗     ✗
+cc65 Chess v1.02 (2020-07-10) (Wessels, Stefan - raxiss)                                                                                   ✗      ✗     ✗
