@@ -95,7 +95,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Sega - 32X](out/Sega%20-%2032X.txt) | 208 / 209 | 167 / 209 | 113 / 209 | 488 / 627 | **77.83%** |
 | [Sega - Dreamcast](out/Sega%20-%20Dreamcast.txt) | 1247 / 2654 | 1182 / 2654 | 1176 / 2654 | 3605 / 7962 | **45.28%** |
 | [Sega - Game Gear](out/Sega%20-%20Game%20Gear.txt) | 690 / 804 | 777 / 804 | 787 / 804 | 2254 / 2412 | **93.45%** |
-| [Sega - Master System - Mark III](out/Sega%20-%20Master%20System%20-%20Mark%20III.txt) | 268 / 637 | 629 / 637 | 328 / 637 | 1225 / 1911 | **64.10%** |
+| [Sega - Master System - Mark III](out/Sega%20-%20Master%20System%20-%20Mark%20III.txt) | 268 / 637 | 633 / 637 | 328 / 637 | 1229 / 1911 | **64.31%** |
 | [Sega - Mega Drive - Genesis](out/Sega%20-%20Mega%20Drive%20-%20Genesis.txt) | 1650 / 2482 | 1656 / 2482 | 1653 / 2482 | 4959 / 7446 | **66.60%** |
 | [Sega - Mega-CD - Sega CD](out/Sega%20-%20Mega-CD%20-%20Sega%20CD.txt) | 439 / 917 | 489 / 917 | 489 / 917 | 1417 / 2751 | **51.51%** |
 | [Sega - Naomi 2](out/Sega%20-%20Naomi%202.txt) | 0 / 7 | 0 / 7 | 0 / 7 | 0 / 21 | **0.00%** |
@@ -111,11 +111,11 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [SNK - Neo Geo CD](out/SNK%20-%20Neo%20Geo%20CD.txt) | 103 / 111 | 103 / 111 | 103 / 111 | 309 / 333 | **92.79%** |
 | [SNK - Neo Geo Pocket Color](out/SNK%20-%20Neo%20Geo%20Pocket%20Color.txt) | 80 / 127 | 81 / 127 | 114 / 127 | 275 / 381 | **72.18%** |
 | [SNK - Neo Geo Pocket](out/SNK%20-%20Neo%20Geo%20Pocket.txt) | 10 / 10 | 10 / 10 | 10 / 10 | 30 / 30 | **100.00%** |
-| [Sony - PlayStation 2](out/Sony%20-%20PlayStation%202.txt) | 8385 / 11174 | 8639 / 11174 | 6525 / 11174 | 23549 / 33522 | **70.25%** |
-| [Sony - PlayStation 3](out/Sony%20-%20PlayStation%203.txt) | 43 / 18572 | 809 / 18572 | 0 / 18572 | 852 / 55716 | **1.53%** |
-| [Sony - PlayStation Portable](out/Sony%20-%20PlayStation%20Portable.txt) | 1677 / 5403 | 3383 / 5403 | 1034 / 5403 | 6094 / 16209 | **37.60%** |
+| [Sony - PlayStation 2](out/Sony%20-%20PlayStation%202.txt) | 8385 / 11174 | 8661 / 11174 | 6525 / 11174 | 23571 / 33522 | **70.32%** |
+| [Sony - PlayStation 3](out/Sony%20-%20PlayStation%203.txt) | 43 / 18572 | 825 / 18572 | 0 / 18572 | 868 / 55716 | **1.56%** |
+| [Sony - PlayStation Portable](out/Sony%20-%20PlayStation%20Portable.txt) | 1677 / 5403 | 3407 / 5403 | 1034 / 5403 | 6118 / 16209 | **37.74%** |
 | [Sony - PlayStation Vita](out/Sony%20-%20PlayStation%20Vita.txt) | 2 / 240 | 1 / 240 | 1 / 240 | 4 / 720 | **0.56%** |
-| [Sony - PlayStation](out/Sony%20-%20PlayStation.txt) | 8918 / 10730 | 9596 / 10730 | 8676 / 10730 | 27190 / 32190 | **84.47%** |
+| [Sony - PlayStation](out/Sony%20-%20PlayStation.txt) | 8923 / 10730 | 9612 / 10730 | 8676 / 10730 | 27211 / 32190 | **84.53%** |
 | [The 3DO Company - 3DO](out/The%203DO%20Company%20-%203DO.txt) | 522 / 997 | 525 / 997 | 522 / 997 | 1569 / 2991 | **52.46%** |
 | [Thomson - MOTO](out/Thomson%20-%20MOTO.txt) | 0 / 1021 | 0 / 1021 | 0 / 1021 | 0 / 3063 | **0.00%** |
 | [TIC-80](out/TIC-80.txt) | 1041 / 1043 | 9 / 1043 | 164 / 1043 | 1214 / 3129 | **38.80%** |
@@ -127,20 +127,13 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [WASM-4](out/WASM-4.txt) | 0 / 63 | 0 / 63 | 63 / 63 | 63 / 189 | **33.33%** |
 | [Watara - Supervision](out/Watara%20-%20Supervision.txt) | 66 / 69 | 67 / 69 | 68 / 69 | 201 / 207 | **97.10%** |
 | [Wolfenstein 3D](out/Wolfenstein%203D.txt) | 10 / 10 | 6 / 10 | 9 / 10 | 25 / 30 | **83.33%** |
-| **Total** | **67622 / 310062** | **63985 / 310062** | **53902 / 310062** | **185509 / 930186** | **19.94%** |
+| **Total** | **67627 / 310062** | **64067 / 310062** | **53902 / 310062** | **185596 / 930186** | **19.95%** |
 
 ## Build
 
-1. Install all dependencies
-  - `make`
-  - `curl`
-  - [Node.js](https://nodejs.org/en/) >= 7
-
-2. Check out [libretro-thumbnails](https://github.com/libretro/libretro-thumbnails) somewhere
-3. Edit [package.json](package.json) and set the relative path to libretro-thumbnails
-
-4. Run the following to build the out directory
-  ```
-  make clean
-  make
-  ```
+```
+git clone https://github.com/RobLoach/libretro-thumbnails-check.git
+cd libretro-thumbnails-check
+git submodule update --init
+npm it
+```
