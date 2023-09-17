@@ -1,9 +1,9 @@
 Sony - PlayStation Missing
 
-Boxarts   8923/10730  83.16%
-Snaps     9612/10730  89.58%
-Titles    8676/10730  80.86%
-Total    27211/32190  84.53%
+Boxarts   8915/10737  83.03%
+Snaps     9605/10737  89.46%
+Titles    8669/10737  80.74%
+Total    27189/32211  84.41%
 
 Name                                                                                                                  Boxart  Snap  Title
 '98 Koushien (Japan) (Demo)                                                                                              -      -     ✗
@@ -100,7 +100,7 @@ A Sangue Freddo (Italy) (Disc 2)                                                
 A-Train - Trains, Power, Money (USA) (En,Ja,Fr,De)                                                                       -      -     -
 A.IV - Evolution Global (Europe) (En,Ja,Fr,De)                                                                           ✗      -     -
 A2 Racer - Europa Tour (Netherlands)                                                                                     -      -     -
-A5 - A Ressha de Ikou 5 (Japan)                                                                                          -      -     -
+A5 - A Ressha de Ikou 5 (Japan, Asia)                                                                                    ✗      ✗     ✗
 AFL 99 (Australia)                                                                                                       -      -     -
 AI Mahjong 2000 (Japan)                                                                                                  -      -     -
 AI Mahjong Selection (Japan)                                                                                             -      -     -
@@ -205,6 +205,7 @@ Advanced Dungeons _ Dragons - Iron _ Blood - Warriors of Ravenloft (USA) (Demo) 
 Advanced V.G. (Japan)                                                                                                    -      -     -
 Advanced V.G. (Japan) (Demo)                                                                                             ✗      -     ✗
 Advanced V.G. 2 (Japan)                                                                                                  -      -     -
+Advanced V.G. 2 (Japan) (Demo)                                                                                           ✗      ✗     ✗
 Adventures of Lomax + Porsche Challenge + Pandemonium + Tomb Raider + 2 Xtreme + Reloaded (France)                       ✗      ✗     ✗
 Adventures of Lomax, The (USA)                                                                                           -      -     -
 Aeon Flux (USA) (Proto)                                                                                                  ✗      -     ✗
@@ -549,9 +550,9 @@ Asterix (Europe) (En,Fr,Es,It)                                                  
 Asterix (Europe) (En,Fr,Nl) (Rev 1)                                                                                      -      -     -
 Asterix - Mega Madness (Europe) (En,Fr,De,Es,It,Nl)                                                                      -      -     -
 Asterix - Mega Madness (Europe) (En,Fr,De,Es,It,Nl) (Demo)                                                               ✗      -     ✗
-Asterix _ Obelix Take On Caesar (Europe)                                                                                 -      -     -
-Asterix _ Obelix Take On Caesar (Europe) (Es,Sv,No)                                                                      -      -     -
-Asterix _ Obelix Take On Caesar (Europe) (Fr,De,Nl)                                                                      -      -     -
+Asterix _ Obelix Take on Caesar (Europe)                                                                                 ✗      ✗     ✗
+Asterix _ Obelix Take on Caesar (Europe) (Es,Sv,No)                                                                      ✗      ✗     ✗
+Asterix _ Obelix Take on Caesar (Europe) (Fr,De,Nl)                                                                      ✗      ✗     ✗
 Asterix _ Obelix contro Cesare (Italy)                                                                                   -      -     -
 Asteroids (Europe)                                                                                                       -      -     -
 Asteroids (France)                                                                                                       -      -     -
@@ -1969,7 +1970,7 @@ Densha de Go! Professional Shiyou (Japan) (Demo)                                
 Depth (Japan)                                                                                                            -      -     -
 Derby Jockey 2001 (Japan)                                                                                                -      -     -
 Derby Jockey R (Japan)                                                                                                   -      -     -
-Derby Stallion Magazine 2000 (Japan)                                                                                     -      ✗     ✗
+Derby Stallion Magazine 2000 Vol. 1 (Japan)                                                                              ✗      ✗     ✗
 Derby Stallion Magazine 2000 Vol. 2 (Japan)                                                                              ✗      ✗     ✗
 Derby Stallion Magazine Furoku CD-ROM Soushuu-hen (Japan)                                                                ✗      ✗     ✗
 Derby Stallion Magazine Furoku CD-ROM Vol. 1 (Japan)                                                                     -      ✗     ✗
@@ -3545,6 +3546,8 @@ Future Cop - L.A.P.D. (Europe) (En,Fr) (Demo)                                   
 Future Cop - L.A.P.D. (Germany)                                                                                          -      -     -
 Future Cop - L.A.P.D. (USA)                                                                                              -      -     -
 Future Cop - L.A.P.D. (USA) (Demo)                                                                                       ✗      -     ✗
+Future GPX Cyber Formula - Aratanaru Chousensha (Japan) (Disc 1)                                                         ✗      ✗     ✗
+Future GPX Cyber Formula - Aratanaru Chousensha (Japan) (Disc 2)                                                         ✗      ✗     ✗
 Future Racer (Europe)                                                                                                    -      -     -
 Fuujin Ryouiki Eretzvaju (Japan) (Demo)                                                                                  -      -     ✗
 Fuujin Ryouiki Eretzvaju (Japan, Asia)                                                                                   -      -     -
@@ -3719,6 +3722,7 @@ Gekisou!! Grand Racing - Total Drivin' (Japan)                                  
 Gekitotsu Toma L'Arc - Tomarunner vs L'Arc-en-Ciel (Japan)                                                               -      -     -
 Gekitotsu! Yonku Battle 4WD (Japan)                                                                                      -      -     -
 Gekitou! Crush Gear Turbo (Japan)                                                                                        -      -     -
+Gekitou! Crush Gear Turbo - Comic Bom Bom Special Disc (Japan) (Demo)                                                    ✗      ✗     ✗
 Gekka no Kishi - Ouryuu-sen (Japan)                                                                                      -      -     -
 Gen'ei Tougi - Shadow Struggle (Japan)                                                                                   -      -     -
 Genghis Khan - Aoki Ookami to Shiroki Mejika IV (Japan)                                                                  -      -     -
@@ -3844,6 +3848,7 @@ Gran Turismo 2 - Music at the Speed of Sound - The Album (USA) (Bonus PlayStatio
 Grand Slam (USA)                                                                                                         -      -     -
 Grand Theft Auto (Europe) (En,Fr,De,It)                                                                                  -      -     -
 Grand Theft Auto (Europe) (En,Fr,De,It) (EDC)                                                                            -      -     -
+Grand Theft Auto (France) (Demo)                                                                                         ✗      ✗     ✗
 Grand Theft Auto (USA)                                                                                                   -      -     -
 Grand Theft Auto - London 1969 (Europe) (En,Fr,De,It)                                                                    -      -     -
 Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,De,It)                                                      -      -     -
@@ -4769,6 +4774,7 @@ Kids Station - Doraemon - Himitsu no Yojigen Pocket (Japan)                     
 Kids Station - Doraemon - Himitsu no Yojigen Pocket (Japan) (Controller Set)                                             -      -     -
 Kids Station - Doraemon - Himitsu no Yojigen Pocket (Japan) (Demo)                                                       ✗      -     ✗
 Kids Station - Gomdoli Pooh Hakseup Series - Gomdoli Pooh Sinnaneun Yuagyosil (Korea)                                    -      -     -
+Kids Station - Gomdoli Pooh Hakseup Series - Gomdoli Pooh Yuchiwon Hakseubyeohaeng (Korea) (En,Ko)                       ✗      ✗     ✗
 Kids Station - Hello Kitty no Oshaberi ABC (Japan)                                                                       -      -     -
 Kids Station - Hello Kitty no Oshaberi Town (Japan)                                                                      -      -     -
 Kids Station - Hello Kitty no Oshaberi Town (Japan) (Controller Set)                                                     -      -     -
@@ -5584,6 +5590,7 @@ MediEvil (USA) (Beta 3)                                                         
 MediEvil (USA) (Beta 4)                                                                                                  ✗      -     ✗
 MediEvil (USA) (Beta 5)                                                                                                  ✗      -     ✗
 MediEvil (USA) (Demo)                                                                                                    ✗      -     ✗
+MediEvil (USA) (Demo) (Rev 1)                                                                                            ✗      ✗     ✗
 MediEvil - Yomigaetta Gallowmere no Yuusha (Japan)                                                                       -      -     -
 MediEvil 2 (Europe) (En,Fr,De)                                                                                           -      -     -
 MediEvil 2 (Europe) (Es,It,Pt)                                                                                           -      -     -
@@ -5758,8 +5765,8 @@ Mini-Moni. Step Pyon Pyon Pyon (Japan)                                          
 Minna Atsumare! Igo Kyoushitsu (Japan)                                                                                   -      -     -
 Minna no Golf (Japan) (Demo)                                                                                             ✗      -     ✗
 Minna no Golf (Japan, Asia)                                                                                              -      -     -
-Minna no Golf 2 (Japan)                                                                                                  -      -     -
 Minna no Golf 2 (Japan) (Rev 1)                                                                                          -      -     -
+Minna no Golf 2 (Japan, Asia)                                                                                            ✗      ✗     ✗
 Minna no Kanji Kyoushitsu - Chousen! Kanji Kentei (Japan)                                                                -      -     -
 Minna no Shiiku Kyoushitsu - Kuwagata-hen (Japan)                                                                        -      -     -
 Minna no Takaramono - Watashi no Licca-chan - Otetsudai o Shiyou (Japan)                                                 -      -     -
@@ -6533,6 +6540,7 @@ Oddworld - L'Exode d'Abe (France) (Disc 1)                                      
 Oddworld - L'Exode d'Abe (France) (Disc 2)                                                                               -      -     -
 Oddworld - L'Odyssee d'Abe (France)                                                                                      -      -     -
 Odo Odo Oddity (Japan)                                                                                                   -      -     -
+Odo Odo Oddity (Japan) (Demo)                                                                                            ✗      ✗     ✗
 Oehlins Hyper-Rally (Japan)                                                                                              -      -     -
 Off-World Interceptor Extreme (Europe)                                                                                   -      -     -
 Off-World Interceptor Extreme (Japan)                                                                                    -      -     -
@@ -8142,8 +8150,6 @@ Shin Sedai Robot Senki - Brave Saga - Yuusha Gentei Koushiki Data Disc - Yuusha 
 Shin Seiki Evangelion - Eva to Yukai na Nakama-tachi (Japan)                                                             -      -     -
 Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc 1)                                                          -      -     -
 Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc 2)                                                          -      -     -
-Shin Seiki GPX Cyber Formula - Aratanaru Chousensha (Japan) (Disc 1)                                                     -      -     -
-Shin Seiki GPX Cyber Formula - Aratanaru Chousensha (Japan) (Disc 2)                                                     -      -     -
 Shin Senki Van-Gale - The War of Neo-Century (Japan)                                                                     -      -     -
 Shin Shikoutei - The First Emperor (Japan, Asia)                                                                         -      -     ✗
 Shin Super Robot Taisen (Japan)                                                                                          -      -     -
@@ -10098,6 +10104,7 @@ Victory Boxing Contender (Europe)                                               
 Victory Spike (Japan)                                                                                                    -      -     -
 Victory Zone (Japan)                                                                                                     -      -     -
 Victory Zone 2 (Japan)                                                                                                   -      -     -
+Video IDU Demo 06E (Europe) (Demo)                                                                                       ✗      ✗     ✗
 Video IDU Test v1.1 (Europe)                                                                                             ✗      ✗     ✗
 Viewpoint (Europe)                                                                                                       -      -     -
 Viewpoint (USA)                                                                                                          -      -     -

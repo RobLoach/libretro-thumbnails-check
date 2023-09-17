@@ -1,9 +1,9 @@
 Bandai - WonderSwan Color Missing
 
-Boxarts  105/107  98.13%
-Snaps    104/107  97.20%
-Titles   103/107  96.26%
-Total    312/321  97.20%
+Boxarts  104/111  93.69%
+Snaps    106/111  95.50%
+Titles   105/111  94.59%
+Total    315/333  94.59%
 
 Name                                                                                Boxart  Snap  Title
 Alchemist Marie _ Elie - Futari no Atelier (Japan)                                     -      -     -
@@ -11,6 +11,7 @@ Another Heaven - Memory of those Days (Japan)                                   
 Arc the Lad - Kishin Fukkatsu (Japan)                                                  -      -     -
 Battle Spirit - Digimon Frontier (Japan) (Rev 1)                                       -      -     -
 Blue Wing Blitz (Japan)                                                                -      -     -
+Cardinal Sins - Recycle Edition (World) (v1.02) (WonderWitch Conversion)               ✗      ✗     ✗
 Dark Eyes - Battle Gate (Japan)                                                        -      -     -
 Dicing Knight. (Japan)                                                                 -      -     -
 Digimon - Anode Tamer _ Cathode Tamer - Veedramon Version (Hong Kong) (En)             -      -     -
@@ -33,8 +34,10 @@ Final Fantasy (Japan)                                                           
 Final Fantasy II (Japan)                                                               -      -     -
 Final Fantasy IV (Japan)                                                               -      -     -
 Final Lap Special - GT _ Formula Machine (Japan)                                       -      -     -
+Fire Lancer (USA) (Demo) (2018-12-25) (Aftermarket) (Unl)                              ✗      -     -
+Fire Lancer (USA) (Demo) (2019-01-03) (Aftermarket) (Unl)                              ✗      -     -
 Flash Koibito-kun (Japan)                                                              -      -     -
-Flash Masta Firmware (USA) (2016-05-13)                                                -      ✗     ✗
+Flash Masta Firmware (USA) (2016-05-13) (Unl)                                          ✗      ✗     ✗
 Flash Masta Firmware (USA) (2016-08-29) (Unl)                                          -      ✗     ✗
 From TV Animation One Piece - Chopper no Daibouken (Japan)                             -      -     -
 From TV Animation One Piece - Grand Battle Swan Colosseum (Japan)                      -      -     -
@@ -111,5 +114,6 @@ Wild Card (Japan)                                                               
 With You - Mitsumete Itai (Japan)                                                      -      -     -
 Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan)                      -      -     -
 Wonder Classic (Japan)                                                                 -      -     -
+WonderCell (World) (v0.2) (Aftermarket) (Unl)                                          ✗      ✗     ✗
 X - Card of Fate (Japan)                                                               -      -     -
 XI Little (Japan)                                                                      -      -     -

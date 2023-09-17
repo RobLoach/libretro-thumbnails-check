@@ -1,9 +1,9 @@
 Mattel - Intellivision Missing
 
-Boxarts   148/454  32.60%
-Snaps     163/454  35.90%
-Titles    164/454  36.12%
-Total    475/1362  34.88%
+Boxarts   144/459  31.37%
+Snaps     159/459  34.64%
+Titles    160/459  34.86%
+Total    463/1377  33.62%
 
 Name                                                                                    Boxart  Snap  Title
 4-TRIS (Zbiciak, Joseph) (PD)                                                              ✗      ✗     ✗
@@ -25,8 +25,9 @@ All Star Major League Baseball (1983) (Mattel Electronics) (Proto)              
 All-Star Major League Baseball (1983) (Mattel)                                             ✗      ✗     ✗
 All-Star Major League Baseball (USA) (Beta)                                                ✗      ✗     -
 Armor Battle (1978) (Mattel)                                                               ✗      ✗     ✗
-Armor Battle (USA, Europe)                                                                 -      -     -
-Armor Battle (USA, Europe) (Intellivision Lives!) (Gamecube)                               -      -     -
+Armor Battle (USA, Europe) (Fast Tanks)                                                    ✗      ✗     ✗
+Armor Battle (USA, Europe) (Fast Tanks) (Intellivision Lives!) (Gamecube)                  ✗      ✗     ✗
+Armor Battle (USA, Europe) (Slow Tanks)                                                    ✗      ✗     ✗
 AstroSmash Competition (1981) (Mattel Electronics)                                         ✗      ✗     ✗
 Astrosmash (1981) (Mattel)                                                                 ✗      ✗     ✗
 Astrosmash (USA, Europe)                                                                   -      -     -
@@ -34,7 +35,8 @@ Astrosmash - Meteor (1981) (Mattel)                                             
 Atlantis (1981) (Imagic)                                                                   ✗      ✗     ✗
 Atlantis (USA, Europe)                                                                     -      -     -
 Auto Racing (1979) (Mattel)                                                                ✗      ✗     ✗
-Auto Racing (World)                                                                        -      -     -
+Auto Racing (World) (Car-Relative Steering)                                                ✗      ✗     ✗
+Auto Racing (World) (Screen-Relative Steering)                                             ✗      ✗     ✗
 B-17 Bomber (1981) (Mattel Electronics)[Intellivoice][3884]                                ✗      ✗     ✗
 B-17 Bomber (1981) (Mattel)                                                                ✗      ✗     ✗
 B-17 Bomber (USA, Europe)                                                                  -      -     -
@@ -126,7 +128,8 @@ Dreadnaught Factor, The (USA) (Beta)                                            
 Duncan's Thin Ice (1983) (Mattel)                                                          ✗      ✗     ✗
 Duncan's Thin Ice (USA)                                                                    -      -     -
 Easter Eggs (1981) (Mattel)                                                                ✗      -     -
-Electric Company, The - Math Fun (USA, Europe)                                             -      -     -
+Electric Company, The - Math Fun (USA, Europe) (Forward Entry)                             ✗      ✗     ✗
+Electric Company, The - Math Fun (USA, Europe) (Reverse Entry)                             ✗      ✗     ✗
 Electric Company, The - Word Fun (USA, Europe)                                             -      -     -
 Factor Fun (USA, Europe) (Intellivision Lives!)                                            -      -     -
 Fathom (1983) (Imagic)                                                                     ✗      ✗     ✗
@@ -225,6 +228,7 @@ Mission X (1982) (Mattel)                                                       
 Mission X (USA, Europe)                                                                    -      -     -
 Motocross (1982) (Mattel)                                                                  ✗      ✗     ✗
 Motocross (USA, Europe)                                                                    -      -     -
+Motocross (USA, Europe) (Alt)                                                              ✗      ✗     ✗
 Mountain Madness - Super Pro Skiing (INTV Corporation)                                     ✗      ✗     ✗
 Mountain Madness - Super Pro Skiing (USA)                                                  -      -     -
 Mouse Trap (1982) (Coleco)                                                                 ✗      ✗     ✗
@@ -342,6 +346,7 @@ Space Armada (1981) (Mattel)                                                    
 Space Armada (World)                                                                       -      -     -
 Space Battle (1979) (Mattel)                                                               ✗      ✗     ✗
 Space Battle (World)                                                                       -      -     -
+Space Battle (World) (v1.1)                                                                ✗      ✗     ✗
 Space Cunt (1983) (Mattel Electronics)[Intellivoice][unreleased]                           ✗      ✗     ✗
 Space Hawk (1981) (Mattel)                                                                 ✗      ✗     ✗
 Space Hawk (USA, Europe)                                                                   -      -     -

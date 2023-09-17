@@ -1,9 +1,9 @@
 Nintendo - Wii Missing
 
-Boxarts  4387/18981  23.11%
-Snaps    1959/18981  10.32%
-Titles   1677/18981   8.84%
-Total    8023/56943  14.09%
+Boxarts  4384/18981  23.10%
+Snaps    1957/18981  10.31%
+Titles   1674/18981   8.82%
+Total    8015/56943  14.08%
 
 Name                                                                                                                         Boxart  Snap  Title
  (Ja)                                                                                                                           ✗      ✗     ✗
@@ -3706,6 +3706,7 @@ Disney-Pixar Up (Spain)                                                         
 Disney-Pixar Up (USA) (En,Fr)                                                                                                   -      ✗     -
 Disney-Pixar WALL-E                                                                                                             -      ✗     ✗
 Disney-Pixar WALL-E (Australia) (Rev 1)                                                                                         -      ✗     -
+Disney-Pixar WALL-E (Europe)                                                                                                    ✗      ✗     ✗
 Disney-Pixar WALL-E (Europe) (En,Es,Pt)                                                                                         -      ✗     -
 Disney-Pixar WALL-E (Europe) (Fr,Nl)                                                                                            -      ✗     -
 Disney-Pixar WALL-E (Europe) (Fr,Nl) (Rev 1)                                                                                    -      ✗     -
@@ -3715,7 +3716,6 @@ Disney-Pixar WALL-E (Japan).iso                                                 
 Disney-Pixar WALL-E (Korea)                                                                                                     -      ✗     -
 Disney-Pixar WALL-E (Russia)                                                                                                    -      ✗     -
 Disney-Pixar WALL-E (Scandinavia) (En,Sv,No,Da)                                                                                 -      ✗     -
-Disney-Pixar WALL-E (UK)                                                                                                        -      ✗     -
 Disney-Pixar WALL-E (USA) (Beta)                                                                                                ✗      ✗     ✗
 Disney-Pixar WALL-E (USA) (En,Fr)                                                                                               -      ✗     -
 Disney-Pixar WALL-E (USA) (En,Fr,Es) (Rev 1)                                                                                    -      ✗     -
@@ -8964,7 +8964,7 @@ Mario _ Sonic at Vancouver Olympic (Japan)                                      
 Mario _ Sonic at Vancouver Olympic (Japan) (Rev 1)                                                                              ✗      ✗     ✗
 Mario _ Sonic at Vancouver Olympic (Japan).iso                                                                                  ✗      ✗     ✗
 Mario _ Sonic at the London 2012 Olympic Games (Europe)                                                                         ✗      ✗     ✗
-Mario _ Sonic at the London 2012 Olympic Games (Europe) (En,Fr,De,Es,It,Nl)                                                     -      -     -
+Mario _ Sonic at the London 2012 Olympic Games (Europe) (En,Ja,Fr,De,Es,It,Nl,Ko)                                               ✗      ✗     ✗
 Mario _ Sonic at the London 2012 Olympic Games (Europe).iso                                                                     ✗      ✗     ✗
 Mario _ Sonic at the London 2012 Olympic Games (USA)                                                                            -      ✗     ✗
 Mario _ Sonic at the London 2012 Olympic Games (USA) (En,Ja,Fr,Es)                                                              -      -     ✗
@@ -8976,7 +8976,7 @@ Mario _ Sonic at the Olympic Games (USA)                                        
 Mario _ Sonic at the Olympic Games (USA) (En,Fr,Es)                                                                             -      -     -
 Mario _ Sonic at the Olympic Games (USA).iso                                                                                    ✗      ✗     ✗
 Mario _ Sonic at the Olympic Winter Games (Europe)                                                                              ✗      ✗     ✗
-Mario _ Sonic at the Olympic Winter Games (Europe) (En,Fr,De,Es,It,Nl)                                                          -      -     -
+Mario _ Sonic at the Olympic Winter Games (Europe) (En,Ja,Fr,De,Es,It,Nl,Ko)                                                    ✗      ✗     ✗
 Mario _ Sonic at the Olympic Winter Games (Europe).iso                                                                          ✗      ✗     ✗
 Mario _ Sonic at the Olympic Winter Games (USA)                                                                                 -      ✗     ✗
 Mario _ Sonic at the Olympic Winter Games (USA) (En,Ja,Fr,Es)                                                                   -      -     -

@@ -1,9 +1,9 @@
 Nintendo - Nintendo 3DS Missing
 
-Boxarts  1947/2083  93.47%
-Snaps    1856/2083  89.10%
-Titles   1825/2083  87.61%
-Total    5628/6249  90.06%
+Boxarts  1946/2085  93.33%
+Snaps    1855/2085  88.97%
+Titles   1824/2085  87.48%
+Total    5625/6255  89.93%
 
 Name                                                                                                                                                        Boxart  Snap  Title
 100% Pascal Sensei - Kanpeki Paint Bombers (Japan)                                                                                                             -      -     -
@@ -591,6 +591,7 @@ Gyakuten Saiban 123 - Naruhodo Selection (Japan)                                
 Gyakuten Saiban 4 (Japan)                                                                                                                                      -      -     -
 Gyakuten Saiban 5 (Japan)                                                                                                                                      -      -     -
 Gyakuten Saiban 6 (Japan)                                                                                                                                      -      -     ✗
+Gyro Sensor Calibration CTR (World) (v5.22) (2013-07-26)                                                                                                       ✗      ✗     ✗
 Haikyu!! Cross Team Match! (Japan)                                                                                                                             -      -     -
 Haikyu!! Tsunage! Itadaki no Keshiki!! (Japan)                                                                                                                 -      -     -
 Hako Boy! Hakozume Box (Japan)                                                                                                                                 -      ✗     ✗
@@ -888,6 +889,7 @@ LEGO Ninjago - Schatten des Ronin (Germany) (En,Fr,De,Es,It,Nl,Da)              
 LEGO Ninjago - Shadow of Ronin (Europe) (En,Fr,De,Es,It,Nl,Da)                                                                                                 -      -     -
 LEGO Ninjago - Shadow of Ronin (Korea)                                                                                                                         ✗      ✗     ✗
 LEGO Ninjago - Shadow of Ronin (USA) (En,Fr,Es,Pt)                                                                                                             -      -     -
+LEGO Ninjago - Shadow of Ronin (USA) (En,Fr,Es,Pt) (Rev 1)                                                                                                     ✗      ✗     ✗
 LEGO Ninjago Ronin no Kage (Japan)                                                                                                                             -      -     -
 LEGO Pelicula el Videojuego, La (Spain) (En,Fr,Es,It,Nl,Da)                                                                                                    -      -     -
 LEGO Pirates of the Caribbean - The Video Game (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)                                                                           -      -     -
@@ -1368,7 +1370,6 @@ Pilotwings Resort (USA) (En,Fr,Es) (Rev 1)                                      
 Pinball Hall of Fame - The Williams' Collection (USA)                                                                                                          -      -     -
 Pinball Hall of Fame 3D - The Williams' Collection (Europe) (En,Fr,De,Es,It)                                                                                   -      -     -
 Pippi Longstocking 3D (Europe) (En,Fr,De,Nl,Sv,No,Da,Fi)                                                                                                       -      -     -
-Pocket Monster - Ultra Sun (Korea)                                                                                                                             -      -     -
 Pocket Monsters Moon (Japan) (En,Ja,Fr,De,Es,It,Zh,Ko)                                                                                                         -      -     -
 Pocket Monsters Moon (Korea)                                                                                                                                   -      -     -
 Pocket Monsters Sun (Japan) (En,Ja,Fr,De,Es,It,Zh,Ko)                                                                                                          -      -     -
@@ -1376,6 +1377,7 @@ Pocket Monsters Sun (Korea)                                                     
 Pocket Monsters Ultra Moon (Japan) (En,Ja,Fr,De,Es,It,Zh,Ko)                                                                                                   -      -     -
 Pocket Monsters Ultra Moon (Korea)                                                                                                                             ✗      ✗     ✗
 Pocket Monsters Ultra Sun (Japan) (En,Ja,Fr,De,Es,It,Zh,Ko)                                                                                                    -      -     -
+Pocket Monsters Ultra Sun (Korea)                                                                                                                              ✗      ✗     ✗
 Pocket Soccer League - Calciobit (Japan)                                                                                                                       -      -     -
 Pokemon Alpha Sapphire (Europe) (En,Ja,Fr,De,Es,It,Ko) (Rev 2)                                                                                                 -      -     -
 Pokemon Alpha Sapphire (Japan) (En,Ja,Fr,De,Es,It,Ko) (Rev 2)                                                                                                  -      -     -

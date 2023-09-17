@@ -1,9 +1,9 @@
 Sony - PlayStation 2 Missing
 
-Boxarts   8385/11174  75.04%
-Snaps     8661/11174  77.51%
-Titles    6525/11174  58.39%
-Total    23571/33522  70.32%
+Boxarts   8375/11241  74.50%
+Snaps     8647/11241  76.92%
+Titles    6513/11241  57.94%
+Total    23535/33723  69.79%
 
 Name                                                                                                                                                     Boxart  Snap  Title
 0 Story (Japan) (Disc 1)                                                                                                                                    -      -     -
@@ -16,6 +16,7 @@ Name                                                                            
 007 - Everything or Nothing (Europe) (En,Es,It,Nl,Sv)                                                                                                       -      -     -
 007 - Everything or Nothing (Europe) (Fr,De)                                                                                                                -      -     -
 007 - Everything or Nothing (Japan)                                                                                                                         -      -     -
+007 - Everything or Nothing (Korea)                                                                                                                         ✗      ✗     ✗
 007 - Everything or Nothing (USA)                                                                                                                           -      -     -
 007 - Everything or Nothing (USA) (Demo)                                                                                                                    ✗      -     ✗
 007 - From Russia with Love (Europe) (Demo)                                                                                                                 ✗      -     ✗
@@ -43,11 +44,13 @@ Name                                                                            
 18 Wheeler - American Pro Trucker (USA)                                                                                                                     -      -     -
 187 - Ride or Die (Europe) (Demo)                                                                                                                           ✗      -     ✗
 187 - Ride or Die (Europe, Australia) (En,Fr,De,Es,It)                                                                                                      -      -     -
+187 - Ride or Die (Korea) (En,Fr,Es)                                                                                                                        ✗      ✗     ✗
 187 - Ride or Die (USA) (En,Fr,Es)                                                                                                                          -      -     -
 1945 I _ II (Europe) (En,Fr,De,Es,It)                                                                                                                       -      -     -
 2000-2001 Winter Lineup (Japan)                                                                                                                             ✗      ✗     ✗
 2002 FIFA World Cup (Europe) (En,Sv)                                                                                                                        -      -     -
 2002 FIFA World Cup (France)                                                                                                                                -      -     -
+2002 FIFA World Cup (France) (Demo)                                                                                                                         ✗      ✗     ✗
 2002 FIFA World Cup (Germany)                                                                                                                               -      -     -
 2002 FIFA World Cup (Greece)                                                                                                                                ✗      ✗     ✗
 2002 FIFA World Cup (Italy)                                                                                                                                 -      -     -
@@ -165,6 +168,7 @@ Aces of War (Europe)                                                            
 Action Girlz Racing (Europe)                                                                                                                                -      -     -
 Action Man A.T.O.M. - Alpha Teens on Machines (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)                                                                      -      -     -
 Action Man A.T.O.M. - Alpha Teens on Machines (Poland)                                                                                                      -      -     -
+Action Replay - Lite Version (UK) (Unl)                                                                                                                     ✗      ✗     ✗
 Action Replay - Tom Clancy's Splinter Cell (USA) (Unl)                                                                                                      ✗      ✗     ✗
 Action Replay 2 (Germany) (Disc 1) (German Edition) (Unl)                                                                                                   ✗      ✗     ✗
 Action Replay 2 (USA) (Disc 1) (Unl) (v2.33)                                                                                                                ✗      ✗     ✗
@@ -257,6 +261,7 @@ Air Raid 3 (Europe)                                                             
 Air Ranger - Rescue Helicopter (Europe)                                                                                                                     -      -     -
 Air Ranger - Rescue Helicopter (Japan)                                                                                                                      -      -     -
 Air Ranger 2 - Rescue Helicopter (Japan)                                                                                                                    -      -     -
+Air Ranger 2 - Rescue Helicopter (Korea)                                                                                                                    ✗      ✗     ✗
 Air Ranger 2 Plus - Rescue Helicopter (Japan)                                                                                                               ✗      ✗     ✗
 AirBlade (Europe) (En,Fr,De,Es,It) (Beta)                                                                                                                   ✗      -     ✗
 AirBlade (Europe, Australia) (En,Fr,De,Es,It)                                                                                                               -      -     -
@@ -515,6 +520,7 @@ Ashita no Joe - Masshiro ni Moe Tsukiro! (Japan)                                
 Asobi ni Iku yo! Chikyuu Pinch no Kon'yaku Sengen (Japan) (Genteiban)                                                                                       ✗      ✗     ✗
 Assault Suits Valken (Europe)                                                                                                                               -      -     -
 Assault Suits Valken (Japan)                                                                                                                                -      -     -
+Assault Suits Valken (Korea)                                                                                                                                ✗      ✗     ✗
 Asterix _ Obelix - Kick Buttix (USA)                                                                                                                        -      -     -
 Asterix _ Obelix - Kick Buttix (USA) (Demo)                                                                                                                 ✗      -     ✗
 Asterix _ Obelix XXL (Europe) (En,Fr,De,Es,It)                                                                                                              -      -     -
@@ -631,6 +637,7 @@ Bansuk Yeongung vs. 3D (Korea)                                                  
 Baphomets Fluch - Der Schlafende Drache (Germany)                                                                                                           -      -     -
 Bara no Ki ni Bara no Hanasaku - Das Versprechen (Japan)                                                                                                    ✗      ✗     ✗
 Barbarian (Europe) (En,Fr,De,Es,It)                                                                                                                         -      -     -
+Barbarian (Korea)                                                                                                                                           ✗      ✗     ✗
 Barbarian (USA)                                                                                                                                             -      -     -
 Barbie Horse Adventures - Riding Camp (Europe) (En,Fr,De,Es,It,Nl)                                                                                          -      -     -
 Barbie Horse Adventures - Riding Camp (USA) (En,Fr)                                                                                                         -      -     -
@@ -685,6 +692,7 @@ Battlefield 2 - Modern Combat (Europe) (En,Es,Nl,Sv) (v1.00)                    
 Battlefield 2 - Modern Combat (Europe) (En,Es,Nl,Sv) (v2.01)                                                                                                -      -     -
 Battlefield 2 - Modern Combat (Europe) (Fr,De,It)                                                                                                           -      -     -
 Battlefield 2 - Modern Combat (Japan)                                                                                                                       -      -     -
+Battlefield 2 - Modern Combat (Korea)                                                                                                                       ✗      ✗     ✗
 Battlefield 2 - Modern Combat (USA)                                                                                                                         -      -     -
 Battlefield 2 - Modern Combat (USA) (Beta)                                                                                                                  ✗      -     ✗
 Battlefield 2 - Modern Combat (USA) (Demo 1)                                                                                                                ✗      -     ✗
@@ -1533,6 +1541,7 @@ Cross Channel - To All People (Japan) (Shokai Genteiban)                        
 CrossFire (Japan)                                                                                                                                           -      -     ✗
 CrossFire (Japan) (Taikenban)                                                                                                                               -      -     ✗
 Crouching Tiger, Hidden Dragon (Europe) (En,Fr,De,Es,It)                                                                                                    -      -     -
+Crouching Tiger, Hidden Dragon (Korea)                                                                                                                      ✗      ✗     ✗
 Crouching Tiger, Hidden Dragon (USA)                                                                                                                        -      -     -
 Crusty Demons (Europe) (En,Fr,De,Es,It)                                                                                                                     -      -     -
 Cubix Robots for Everyone - Showdown (USA)                                                                                                                  -      -     -
@@ -1679,6 +1688,7 @@ Dancing Stage MegaMix (Europe) (En,Fr,De,Es,It)                                 
 Dancing Stage SuperNova (Europe) (En,Fr,De,Es,It)                                                                                                           -      -     -
 Dancing Stage SuperNova 2 (Europe) (En,Fr,De,Es,It)                                                                                                         -      -     -
 Dancing with the Stars (USA)                                                                                                                                -      -     ✗
+Dark Angel - Vampire Apocalypse (Korea)                                                                                                                     ✗      ✗     ✗
 Dark Angel - Vampire Apocalypse (USA) (v1.02)                                                                                                               -      -     -
 Dark Angel - Vampire Apocalypse (USA) (v2.01)                                                                                                               -      -     -
 Dark Chronicle (Europe) (En,Fr,De,Es,It)                                                                                                                    -      -     -
@@ -1743,6 +1753,7 @@ Def Jam - Vendetta (USA)                                                        
 Def Jam - Vendetta (USA) (Demo)                                                                                                                             ✗      -     ✗
 Defender (USA)                                                                                                                                              -      -     -
 Defender - For All Mankind (Europe) (En,Fr,De,Es,It)                                                                                                        -      -     -
+Degul Degul Jjondeuk Jjondeuk - Goehon (Korea)                                                                                                              ✗      ✗     ✗
 Dejikame Album - Kuraemon (Japan)                                                                                                                           ✗      ✗     ✗
 DekaVoice (Japan)                                                                                                                                           -      -     ✗
 DekaVoice (Japan) (Doukonban)                                                                                                                               -      -     ✗
@@ -1906,6 +1917,7 @@ Digital Devil Saga - Avatar Tuner 2 (Japan, Asia)                               
 Digital Devil Saga 2 - Avatar Tuner (Korea)                                                                                                                 ✗      ✗     ✗
 Digital Hitz Factory (USA)                                                                                                                                  -      -     -
 Digital Holmes (Japan)                                                                                                                                      -      -     ✗
+Digital Holmes (Korea)                                                                                                                                      ✗      ✗     ✗
 Dino Stalker (Europe)                                                                                                                                       -      -     -
 Dino Stalker (France)                                                                                                                                       -      -     -
 Dino Stalker (Germany)                                                                                                                                      -      -     -
@@ -2086,6 +2098,7 @@ Disney-Pixar The Incredibles (Scandinavia) (Sv,No,Da,Fi)                        
 Disney-Pixar The Incredibles (USA)                                                                                                                          -      -     -
 Disney-Pixar The Incredibles - Rise of the Underminer (Europe) (En,Es,It)                                                                                   -      -     -
 Disney-Pixar The Incredibles - Rise of the Underminer (Europe) (En,Fr,De)                                                                                   -      -     -
+Disney-Pixar The Incredibles - Rise of the Underminer (Korea)                                                                                               ✗      ✗     ✗
 Disney-Pixar The Incredibles - Rise of the Underminer (Russia)                                                                                              -      -     -
 Disney-Pixar The Incredibles - Rise of the Underminer (USA)                                                                                                 -      -     -
 Disney-Pixar Toy Story 3 (Europe) (En,Fr,De,Es,It,Nl)                                                                                                       -      -     -
@@ -2255,6 +2268,7 @@ Drakengard (USA)                                                                
 Drakengard 2 (Europe) (En,Fr,De)                                                                                                                            -      -     -
 Drakengard 2 (USA)                                                                                                                                          -      -     -
 Drastic Killer (Japan)                                                                                                                                      -      -     ✗
+Drastic Killer (Japan) (Drastic Killer Excellent Box)                                                                                                       ✗      ✗     ✗
 Dream Audition (Japan)                                                                                                                                      -      -     -
 Dream Audition 2 (Japan)                                                                                                                                    -      -     -
 Dream Audition 3 (Japan)                                                                                                                                    -      -     -
@@ -2337,8 +2351,8 @@ Driving Emotion Type-S (Japan)                                                  
 Driving Emotion Type-S (USA) (En,Fr,De,Es,It)                                                                                                               -      -     -
 Drome Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)                                                                                                             -      -     -
 Drome Racers (USA)                                                                                                                                          -      -     -
-Dropship - United Peace Force (Australia) (En,Fr,De,Es,It) (Demo)                                                                                           ✗      -     ✗
 Dropship - United Peace Force (Europe, Australia) (En,Fr,De,Es,It)                                                                                          -      -     -
+Dropship - United Peace Force (Europe, Australia) (En,Fr,De,Es,It) (Demo)                                                                                   ✗      ✗     ✗
 Dropship - United Peace Force (USA)                                                                                                                         -      -     -
 DrumMania (Japan)                                                                                                                                           -      -     -
 Dual Hearts (Japan) (Tentou-you Taikenban)                                                                                                                  -      -     -
@@ -2407,8 +2421,8 @@ E.O.E - Eve of Extinction (Europe) (En,Fr,De,Es,It)                             
 E.O.E - Eve of Extinction (Korea)                                                                                                                           -      -     -
 E.O.E - Eve of Extinction (USA)                                                                                                                             -      -     -
 E.O.E - Eve of Extinction - Houkai no Zen'ya (Japan, Asia)                                                                                                  -      -     -
-EA Demo Disc - From Russia with Love + Need for Speed - Most Wanted + SSX On Tour (Australia)                                                               ✗      ✗     ✗
-EA Demo Disc - From Russia with Love + Need for Speed - Most Wanted + SSX On Tour (USA)                                                                     ✗      ✗     ✗
+EA Demo Disc - From Russia with Love + Need for Speed - Most Wanted + SSX on Tour (Australia)                                                               ✗      ✗     ✗
+EA Demo Disc - From Russia with Love + Need for Speed - Most Wanted + SSX on Tour (USA)                                                                     ✗      ✗     ✗
 EGBrowser (Japan) (v1.06)                                                                                                                                   ✗      ✗     ✗
 EGBrowser (Japan) (v1.16)                                                                                                                                   ✗      ✗     ✗
 EGBrowser BB (Japan)                                                                                                                                        ✗      ✗     ✗
@@ -2578,6 +2592,7 @@ Everybody's Golf (Europe) (Beta)                                                
 Everybody's Golf (Europe, Australia) (En,Fr,De,Es,It)                                                                                                       -      -     -
 Everybody's Golf 4 (Korea)                                                                                                                                  -      -     -
 Everybody's Tennis (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)                                                                                              -      -     -
+Everybody's Tennis (Korea)                                                                                                                                  ✗      ✗     ✗
 Evil Dead - A Fistful of Boomstick (Europe)                                                                                                                 -      -     -
 Evil Dead - A Fistful of Boomstick (Europe) (Special Movie Edition)                                                                                         -      -     -
 Evil Dead - A Fistful of Boomstick (USA)                                                                                                                    -      -     -
@@ -2624,6 +2639,7 @@ EyeToy - Chat (Europe) (Beta)                                                   
 EyeToy - Chat (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)                                                                                                   -      -     ✗
 EyeToy - Chat Light (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)                                                                                             -      -     ✗
 EyeToy - Christmas Wishi Washi (Europe)                                                                                                                     ✗      ✗     ✗
+EyeToy - EduKids (Korea)                                                                                                                                    ✗      ✗     ✗
 EyeToy - Furi Furi Dance Tengoku (Japan)                                                                                                                    -      -     ✗
 EyeToy - Furi Furi Dance Tengoku (Japan) (EyeToy Camera Doukonban)                                                                                          -      -     ✗
 EyeToy - Groove (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)                                                                                      -      -     ✗
@@ -2663,6 +2679,7 @@ EyeToy - Play Sports (Europe) (En,Fr,De,Es,It) (Demo)                           
 EyeToy - Play Sports (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El,Cs,Tr)                                                                     -      -     ✗
 EyeToy - Saru EyeToy - Oosawagi! Ukkiuki Game Tenkomori!! (China)                                                                                           -      -     ✗
 EyeToy - Saru EyeToy - Oosawagi! Ukkiuki Game Tenkomori!! (Japan)                                                                                           -      -     ✗
+EyeToy - Tales (Korea)                                                                                                                                      ✗      ✗     ✗
 EyeToy Play - Astro Zoo (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs)                                                                  -      -     ✗
 EyeToy Play - Hero (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs)                                                                       -      -     ✗
 EyeToy Play - PomPom Party (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs)                                                               -      -     ✗
@@ -2706,6 +2723,7 @@ FIFA 07 (Europe) (Es,Pt)                                                        
 FIFA 07 (Europe) (Fr,De,It)                                                                                                                                 -      -     -
 FIFA 07 (Europe, Australia)                                                                                                                                 -      -     -
 FIFA 07 (Korea)                                                                                                                                             ✗      ✗     ✗
+FIFA 08 (Europe) (Demo)                                                                                                                                     ✗      ✗     ✗
 FIFA 08 (Europe) (En,Nl,Sv,No,Da)                                                                                                                           -      -     -
 FIFA 08 (Europe) (En,Pl,Ru,Cs,Hu)                                                                                                                           -      -     -
 FIFA 08 (Europe) (Es,Pt)                                                                                                                                    -      -     -
@@ -2885,6 +2903,7 @@ Fight Night 2004 (USA)                                                          
 Fight Night 2004 (USA) (Demo)                                                                                                                               ✗      -     ✗
 Fight Night Round 2 (Europe) (En,Fr,De)                                                                                                                     -      -     -
 Fight Night Round 2 (Japan)                                                                                                                                 -      -     -
+Fight Night Round 2 (Korea)                                                                                                                                 ✗      ✗     ✗
 Fight Night Round 2 (USA)                                                                                                                                   -      -     -
 Fight Night Round 2 (USA) (Demo)                                                                                                                            ✗      -     ✗
 Fight Night Round 3 (Europe) (Demo)                                                                                                                         ✗      -     ✗
@@ -3078,6 +3097,7 @@ Freedom Fighters (Japan)                                                        
 Freedom Fighters (Spain)                                                                                                                                    -      -     -
 Freedom Fighters (USA)                                                                                                                                      -      -     -
 Freekstyle (Europe) (En,Fr,De,Es,It)                                                                                                                        -      -     -
+Freekstyle (Korea)                                                                                                                                          ✗      ✗     ✗
 Freekstyle (USA)                                                                                                                                            -      -     -
 Freekstyle Motocross (Japan)                                                                                                                                -      -     -
 Freestyle Metal X (Europe) (En,Fr,De,Es,It)                                                                                                                 -      -     -
@@ -3125,6 +3145,7 @@ Full Spectrum Warrior (Korea)                                                   
 Full Spectrum Warrior (USA)                                                                                                                                 -      -     -
 Full Spectrum Warrior - Ten Hammers (Europe) (En,Fr,De,It)                                                                                                  -      -     -
 Full Spectrum Warrior - Ten Hammers (Germany)                                                                                                               -      -     -
+Full Spectrum Warrior - Ten Hammers (Korea)                                                                                                                 ✗      ✗     ✗
 Full Spectrum Warrior - Ten Hammers (USA)                                                                                                                   -      -     -
 Full Spectrum Warrior 2 - Ten Hammers (Japan)                                                                                                               ✗      ✗     ✗
 Fullmetal Alchemist - Dream Carnival (Korea)                                                                                                                -      -     ✗
@@ -3150,6 +3171,10 @@ Futakoi-jima - Koi to Mizugi no Survival (Japan)                                
 Futari no Fantavision (Japan)                                                                                                                               -      -     -
 Futurama (Europe) (En,Fr,De,Es,It)                                                                                                                          -      -     -
 Futurama (USA)                                                                                                                                              -      -     -
+Future GPX Cyber Formula - Road to the Infinity (Japan)                                                                                                     ✗      ✗     ✗
+Future GPX Cyber Formula - Road to the Infinity 2 (Japan)                                                                                                   ✗      ✗     ✗
+Future GPX Cyber Formula - Road to the Infinity 3 (Japan)                                                                                                   ✗      ✗     ✗
+Future GPX Cyber Formula - Road to the Infinity 4 (Japan)                                                                                                   ✗      ✗     ✗
 Future Tactics - The Uprising (Europe) (En,Fr,De,Es,It)                                                                                                     -      -     -
 Future Tactics - The Uprising (USA)                                                                                                                         -      -     -
 Fuuraiki (Japan)                                                                                                                                            -      -     ✗
@@ -3385,6 +3410,8 @@ Ghosthunter (USA)                                                               
 Giant Robo - The Animation - Chikyuu ga Seishi suru Hi (Japan)                                                                                              -      ✗     ✗
 Giants - Citizen Kabuto (Europe)                                                                                                                            -      -     -
 Giants - Citizen Kabuto (USA)                                                                                                                               -      -     -
+Gidong Jeonsa Gundam - Climax U.C. (Korea)                                                                                                                  ✗      ✗     ✗
+Gidong Jeonsa Gundam - Gundam vs. Z Gundam (Korea)                                                                                                          ✗      ✗     ✗
 Gidong Jeonsa Gundam - Haehu-ui Uju (Korea)                                                                                                                 -      -     -
 Gift (Europe)                                                                                                                                               -      -     -
 Gift (France)                                                                                                                                               -      -     -
@@ -3503,7 +3530,7 @@ Gran Turismo - Subaru Driving Simulator Version (Japan)                         
 Gran Turismo 2000 (Japan) (Taikenban)                                                                                                                       -      -     -
 Gran Turismo 3 - A-Spec (Europe, Australia) (En,Fr,De,Es,It) (v1.00)                                                                                        -      -     -
 Gran Turismo 3 - A-Spec (Europe, Australia) (En,Fr,De,Es,It) (v2.00)                                                                                        -      -     -
-Gran Turismo 3 - A-Spec (Japan)                                                                                                                             ✗      -     -
+Gran Turismo 3 - A-Spec (Japan, Asia)                                                                                                                       ✗      ✗     ✗
 Gran Turismo 3 - A-Spec (USA) (Demo)                                                                                                                        ✗      -     ✗
 Gran Turismo 3 - A-Spec (USA) (v1.00)                                                                                                                       -      -     -
 Gran Turismo 3 - A-Spec (USA) (v1.10)                                                                                                                       -      -     -
@@ -3549,6 +3576,7 @@ Gran Turismo Special Edition 2004 Toyota Demo (USA)                             
 Grand Prix Challenge (Europe) (En,Fr,De,Es,It)                                                                                                              -      -     -
 Grand Prix Challenge (Japan)                                                                                                                                -      -     -
 Grand Prix Challenge (USA)                                                                                                                                  -      -     -
+Grand Slam 2003 Tennis (Korea)                                                                                                                              ✗      ✗     ✗
 Grand Theft Auto - Liberty City Stories (Europe, Australia) (En,Fr,De,Es,It)                                                                                -      -     -
 Grand Theft Auto - Liberty City Stories (Germany) (En,De)                                                                                                   -      -     -
 Grand Theft Auto - Liberty City Stories (Japan)                                                                                                             -      -     -
@@ -3781,6 +3809,7 @@ Hajime no Ippo 2 - Victorious Road (Japan)                                      
 Hajime no Ippo 2 - Victorious Road (Japan) (Taikenban)                                                                                                      -      -     ✗
 Hajime no Ippo All Stars (Japan)                                                                                                                            -      -     ✗
 Hajime no Ippo All Stars (Japan) (Taikenban)                                                                                                                -      -     ✗
+Hajime-ui Ilbo - The Fighting! Victorious Boxers - Championship Version (Korea)                                                                             ✗      ✗     ✗
 Hajime-ui Ilbo 2 - Victorious Road (Korea)                                                                                                                  ✗      ✗     ✗
 Hakarena Heart - Kimi ga Tame ni Kagayaki o (Japan)                                                                                                         -      -     ✗
 Hakarena Heart - Kimi ga Tame ni Kagayaki o (Japan) (Genteiban)                                                                                             -      -     ✗
@@ -3803,6 +3832,7 @@ Hana to Taiyou to Ame to (Japan)                                                
 Hanabi Hyakkei (Japan)                                                                                                                                      -      -     -
 Hanabi Hyakkei (Japan) (Tokutenban)                                                                                                                         -      -     -
 Hanabi Shokunin ni Narou 2 (Japan)                                                                                                                          ✗      ✗     ✗
+Hanakisou (Japan) (v1.01)                                                                                                                                   ✗      ✗     ✗
 Hanakisou (Japan) (v2.01)                                                                                                                                   ✗      ✗     ✗
 Hanayoi Romanesque - Ai to Kanashimi - Sore wa Kimi no Tame no Aria (Japan)                                                                                 ✗      ✗     ✗
 Hanayoi Romanesque - Ai to Kanashimi - Sore wa Kimi no Tame no Aria (Japan) (Genteiban)                                                                     ✗      ✗     ✗
@@ -4067,6 +4097,7 @@ Horse Breaker (Japan)                                                           
 Horsez (USA)                                                                                                                                                -      -     -
 Hoshi no Furu Toki (Japan)                                                                                                                                  ✗      ✗     ✗
 Hoshi-iro no Okurimono (Japan)                                                                                                                              -      -     ✗
+Hoshi-iro no Okurimono (Japan) (Shokai Special Genteiban)                                                                                                   ✗      ✗     ✗
 Hoshifuru - Hoshi no Furu Machi (Japan)                                                                                                                     -      -     ✗
 Hoshigari Empusa (Japan)                                                                                                                                    ✗      ✗     ✗
 Hot 100 Saves (USA) (Unl)                                                                                                                                   ✗      ✗     ✗
@@ -4179,7 +4210,7 @@ In the Groove (USA)                                                             
 Inaka Kurashi - Minami no Shima no Monogatari (Japan)                                                                                                       -      ✗     ✗
 Incredible Hulk, The (Europe) (En,Es,It)                                                                                                                    -      -     -
 Incredible Hulk, The (Europe) (En,Fr,De)                                                                                                                    -      -     -
-Incredible Hulk, The (USA)                                                                                                                                  -      -     -
+Incredible Hulk, The (USA) (En,Fr)                                                                                                                          ✗      ✗     ✗
 Incredible Hulk, The - Ultimate Destruction (Europe) (En,Fr,De) (Demo)                                                                                      ✗      -     ✗
 Incredible Hulk, The - Ultimate Destruction (Europe) (En,Fr,Es,It)                                                                                          -      -     -
 Incredible Hulk, The - Ultimate Destruction (USA)                                                                                                           -      -     -
@@ -4286,6 +4317,7 @@ Jackass - The Game (Australia)                                                  
 Jackass - The Game (Europe) (En,Fr,De,Es,It)                                                                                                                -      -     -
 Jackass - The Game (USA)                                                                                                                                    -      -     -
 Jacked (Europe, Australia) (En,Fr,De,Es,It)                                                                                                                 -      -     -
+Jacked (Korea)                                                                                                                                              ✗      ✗     ✗
 Jackie Chan Adventures (Europe) (En,Fr,De,Es,It,Nl,Pt) (Demo)                                                                                               ✗      -     ✗
 Jackie Chan Adventures (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt)                                                                                           -      -     -
 Jackpot Madness (Europe)                                                                                                                                    -      -     -
@@ -4412,9 +4444,11 @@ Jin Hondura (Korea) (En,Fr,De,Es,It)                                            
 Jin Samguk Mussang (Korea)                                                                                                                                  ✗      ✗     ✗
 Jin Samguk Mussang 2 (Korea)                                                                                                                                ✗      ✗     ✗
 Jin Samguk Mussang 2 - Maengjangjeon (Korea)                                                                                                                ✗      ✗     ✗
+Jin Samguk Mussang 2 _ Maengjangjeon - Choegang Data (Korea)                                                                                                ✗      ✗     ✗
 Jin Samguk Mussang 3 (Korea) (v2.00)                                                                                                                        ✗      ✗     ✗
 Jin Samguk Mussang 3 - Empires (Korea)                                                                                                                      -      -     -
 Jin Samguk Mussang 3 - Maengjangjeon (Korea)                                                                                                                ✗      ✗     ✗
+Jin Samguk Mussang 3 _ Maengjangjeon - Choegang Data (Korea)                                                                                                ✗      ✗     ✗
 Jin Samguk Mussang 4 (Korea)                                                                                                                                ✗      ✗     ✗
 Jin Samguk Mussang 4 - Maengjangjeon (Korea)                                                                                                                ✗      ✗     ✗
 Jin Samguk Mussang 5 Special (Korea)                                                                                                                        ✗      ✗     ✗
@@ -4535,11 +4569,11 @@ Kaeru Batake de Tsukamaete (Japan)                                              
 Kaeru Batake de Tsukamaete - Natsu Chigira Sansen! (Japan)                                                                                                  ✗      ✗     ✗
 Kagero II - Dark Illusion (Japan) (PlayStation 2 the Best)                                                                                                  -      -     -
 Kagero II - Dark Illusion (Japan, Asia)                                                                                                                     -      -     -
+Kaido Battle (Korea)                                                                                                                                        ✗      ✗     ✗
 Kaido Racer (Europe) (En,Fr,De,Es,It)                                                                                                                       -      -     -
 Kaido Racer 2 (Europe) (En,Fr,De)                                                                                                                           -      -     -
 Kaidou - Touge no Densetsu (Japan)                                                                                                                          -      -     -
 Kaidou - Touge no Densetsu (Japan) (Taikenban)                                                                                                              ✗      ✗     ✗
-Kaidou Battle (Korea)                                                                                                                                       ✗      ✗     ✗
 Kaidou Battle - Nikko, Haruna, Rokko, Hakone (Japan)                                                                                                        -      -     ✗
 Kaidou Battle - Nikko, Haruna, Rokko, Hakone (Japan) (Taikenban)                                                                                            -      -     ✗
 Kaidou Battle 2 - Chain Reaction (Japan)                                                                                                                    -      -     -
@@ -4736,6 +4770,7 @@ Kin'iro no Corda (Japan)                                                        
 Kin'iro no Corda 2 (Japan)                                                                                                                                  -      -     ✗
 Kin'iro no Corda 2 (Japan) (Premium Box)                                                                                                                    -      -     ✗
 Kin'iro no Corda 2 Encore (Japan)                                                                                                                           -      -     ✗
+Kin'iro no Corda 2 Encore (Japan) (Premium Box)                                                                                                             ✗      ✗     ✗
 Kin'iro no Corda 3 (Japan)                                                                                                                                  -      -     ✗
 Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (Japan) (Sea-Mic Controller Doukonban)                                                                  -      -     ✗
 Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (Japan) (Sea-Mic Controller Original Doukonban)                                                         -      -     ✗
@@ -4930,6 +4965,7 @@ Kya - Dark Lineage (USA) (Demo)                                                 
 Kyou kara Maou! Hajimari no Tabi (Japan)                                                                                                                    -      -     ✗
 Kyou kara Maou! Hajimari no Tabi (Japan) (Premium Box)                                                                                                      -      -     ✗
 Kyou kara Maou! Shin Makoku no Kyuujitsu (Japan)                                                                                                            -      -     ✗
+Kyou kara Maou! Shin Makoku no Kyuujitsu (Japan) (Limited Box)                                                                                              ✗      ✗     ✗
 Kyoufu Shinbun Heisei-ban - Kaiki! Shinrei File (Japan)                                                                                                     -      -     ✗
 Kyoushuu Kikou Butai - Kougeki Helicopter Senki (Japan)                                                                                                     -      ✗     ✗
 Kyuuketsu Kitan Moonties (Japan)                                                                                                                            ✗      ✗     ✗
@@ -4968,6 +5004,7 @@ LMA Manager 2005 (Europe) (SLES-53149)                                          
 LMA Manager 2006 (Europe) (En,Fr,De,Es,It)                                                                                                                  -      -     -
 LMA Manager 2007 (Europe) (En,Fr,De,Es,It)                                                                                                                  -      -     ✗
 LMB Nouvelle Generation (France)                                                                                                                            -      -     ✗
+La Pucelle (Korea)                                                                                                                                          ✗      ✗     ✗
 Lake Masters EX (Europe) (En,Fr,De)                                                                                                                         -      -     -
 Lake Masters EX (Japan)                                                                                                                                     -      -     -
 Lake Masters EX (Japan) (Taikenban)                                                                                                                         -      -     -
@@ -5025,6 +5062,7 @@ Legend of Spyro, The - The Eternal Night (USA)                                  
 Legend of the Dragon (Europe) (En,Fr,De,Es,It)                                                                                                              -      -     -
 Legend of the Dragon (USA) (En,Fr,Es)                                                                                                                       -      -     -
 Legends of Wrestling (Europe)                                                                                                                               -      -     -
+Legends of Wrestling (Korea)                                                                                                                                ✗      ✗     ✗
 Legends of Wrestling (USA) (v1.00)                                                                                                                          -      -     -
 Legends of Wrestling (USA) (v1.02)                                                                                                                          -      -     -
 Legends of Wrestling II (Europe)                                                                                                                            -      -     -
@@ -5341,7 +5379,8 @@ Mahjong Party - Gen Shuizhe Meinue Dajiquan (Asia)                              
 Mahjong Party - Idol to Mahjong Shoubu (Japan)                                                                                                              ✗      ✗     ✗
 Mahjong Sangokushi (Japan)                                                                                                                                  ✗      ✗     ✗
 Mahjong Sengen - Saken de Ron! (Japan)                                                                                                                      ✗      ✗     ✗
-Mahjong Taikai III - Millennium League (Japan)                                                                                                              ✗      ✗     ✗
+Mahjong Taikai III - Millennium League (Japan) (v1.10)                                                                                                      ✗      ✗     ✗
+Mahjong Taikai III - Millennium League (Japan) (v1.30)                                                                                                      ✗      ✗     ✗
 Mahjong Yarou ze! 2 (Japan)                                                                                                                                 ✗      ✗     ✗
 Mahoroba Stories - Library of Fortune (Japan)                                                                                                               -      -     ✗
 Mahoromatic - Moetto Kira Kira Maid-san. (Japan)                                                                                                            ✗      ✗     ✗
@@ -5765,7 +5804,9 @@ Mobile Suit Gundam - Lost War Chronicles (Japan)                                
 Mobile Suit Gundam - Lost War Chronicles (Japan) (Limited Box)                                                                                              -      ✗     ✗
 Mobile Suit Gundam - Zeonic Front (USA)                                                                                                                     -      -     -
 Mobile Suit Gundam Seed (Korea)                                                                                                                             -      ✗     ✗
+Mobile Suit Gundam Seed - Kkeunnaji Anneun Naeillo (Korea)                                                                                                  ✗      ✗     ✗
 Mobile Suit Gundam Seed - Never Ending Tomorrow (USA)                                                                                                       -      -     -
+Mobile Suit Gundam Seed - Yeonhap vs. Z.A.F.T. (Korea)                                                                                                      ✗      ✗     ✗
 Moderngroove - Ministry of Sound Edition (Europe)                                                                                                           -      -     -
 Moe Moe 2-Ji Taisen (Ryaku) 2 (Japan)                                                                                                                       -      -     ✗
 Moe Moe 2-Ji Taisen (Ryaku) Deluxe (Japan)                                                                                                                  -      -     ✗
@@ -6058,6 +6099,7 @@ NBA Street V3 (Korea)                                                           
 NBA Street V3 (USA)                                                                                                                                         -      -     -
 NBA Street V3 (USA) (Demo)                                                                                                                                  ✗      -     ✗
 NBA Street Vol. 2 (Europe) (En,Fr)                                                                                                                          -      -     -
+NBA Street Vol. 2 (Korea)                                                                                                                                   ✗      ✗     ✗
 NBA Street Vol. 2 (USA)                                                                                                                                     -      -     -
 NBA Street Vol. 2 (USA) (Demo)                                                                                                                              ✗      -     ✗
 NCAA Basketball 09 (USA)                                                                                                                                    -      -     ✗
@@ -6194,6 +6236,7 @@ Nanatsuiro Drops Pure!! (Japan) (Shokai Genteiban)                              
 Nanobreaker (Europe) (En,Fr,De,Es,It)                                                                                                                       -      -     -
 Nanobreaker (Japan)                                                                                                                                         -      -     -
 Nanobreaker (Japan) (Beta)                                                                                                                                  ✗      -     ✗
+Nanobreaker (Korea) (En,Ja)                                                                                                                                 ✗      ✗     ✗
 Nanobreaker (USA)                                                                                                                                           -      -     -
 Naraku no Shiro - Ichiyanagi Nagomu, 2-dome no Junan (Japan)                                                                                                -      -     ✗
 Narc (USA)                                                                                                                                                  ✗      -     -
@@ -6479,7 +6522,7 @@ Nihon Pro Yakyuu Kikou Kounin - Pro Yakyuu Japan 2001 (Japan)                   
 Nihon Sumou Kyoukai Kounin - Nihon Oozumou - Gekitou Honbasho-hen (Japan)                                                                                   -      ✗     ✗
 Nihon Sumou Kyoukai Kounin - Nihon Oozumou - Kakutou-hen (Japan)                                                                                            -      -     ✗
 Ninja Assault (Europe) (En,Fr,De,Es,It)                                                                                                                     -      -     -
-Ninja Assault (Japan)                                                                                                                                       -      -     -
+Ninja Assault (Japan, Asia)                                                                                                                                 ✗      ✗     ✗
 Ninja Assault (Korea)                                                                                                                                       ✗      ✗     ✗
 Ninja Assault (USA)                                                                                                                                         -      -     -
 Ninjabread Man (Europe)                                                                                                                                     -      -     -
@@ -6893,6 +6936,7 @@ Omoi no Kakera - Close to (Japan)                                               
 Omoide ni Kawaru Kimi - Memories Off (Japan)                                                                                                                -      -     -
 One Piece - Grand Battle! 3 (Japan)                                                                                                                         -      ✗     ✗
 One Piece - Grand Battle! Rush (Japan)                                                                                                                      -      -     ✗
+One Piece - Grand Battle! Rush (Korea)                                                                                                                      -      -     ✗
 One Piece - Pirates Carnival (Japan)                                                                                                                        -      -     ✗
 One Piece - Pirates Carnival (Japan) (Multi Tap (SCPH-10090) Doukonban)                                                                                     -      -     ✗
 One Piece - Pirates Carnival (Japan) (Multi Tap (SCPH-70120) Doukonban)                                                                                     -      -     ✗
@@ -6941,6 +6985,7 @@ Onmyou Taisenki - Byakko Enbu (Japan) (EyeToy Camera Doukonban)                 
 Onmyou Taisenki - Hasha no In (Japan)                                                                                                                       -      -     ✗
 Ookami (Europe) (En,Fr,De)                                                                                                                                  -      -     -
 Ookami (Japan)                                                                                                                                              -      -     -
+Ookami (Korea)                                                                                                                                              ✗      ✗     ✗
 Ookami (USA)                                                                                                                                                -      -     -
 Ookami - Fude-hajime no Maki (Japan) (Taikenban)                                                                                                            -      -     -
 Oookuki (Japan)                                                                                                                                             ✗      ✗     ✗
@@ -6988,6 +7033,7 @@ Osouji Sentai Clean Keeper H (Japan)                                            
 Otome no Jijou (Japan)                                                                                                                                      -      -     ✗
 Otome wa Boku ni Koishiteru (Japan)                                                                                                                         ✗      ✗     ✗
 Otome-teki Koi Kakumei - Love Revo!! (Japan)                                                                                                                ✗      ✗     ✗
+Otome-teki Koi Kakumei - Love Revo!! (Japan) (Love Revo Box)                                                                                                ✗      ✗     ✗
 Otona no Gal-jong - Kimi ni Haneman! (Japan)                                                                                                                ✗      ✗     ✗
 Otona no Gal-jong 2 - Koishite Bai Man! (Japan)                                                                                                             ✗      ✗     ✗
 Otostaz (Asia) (En,Zh)                                                                                                                                      -      -     -
@@ -7424,6 +7470,7 @@ Premier Manager 2006-2007 (Germany)                                             
 Pri-Saga! Princess o Sagase! (Japan)                                                                                                                        ✗      ✗     ✗
 Pride (Japan)                                                                                                                                               -      -     -
 Pride FC - Fighting Championships (Europe)                                                                                                                  -      -     -
+Pride FC - Fighting Championships (Korea)                                                                                                                   ✗      ✗     ✗
 Pride FC - Fighting Championships (USA)                                                                                                                     -      -     -
 Pride FC - Fighting Championships (USA) (Demo)                                                                                                              ✗      -     ✗
 PrideGP Grand Prix 2003 (Japan)                                                                                                                             ✗      ✗     ✗
@@ -7805,6 +7852,7 @@ RedCard 20-03 (USA) (En,Fr,De,Es,It)                                            
 Reel Fishing III (Europe)                                                                                                                                   -      -     ✗
 Reel Fishing III (USA)                                                                                                                                      -      -     ✗
 Reign of Fire (Europe) (En,Fr,De,Es,It)                                                                                                                     -      -     -
+Reign of Fire (Korea)                                                                                                                                       ✗      ✗     ✗
 Reign of Fire (USA)                                                                                                                                         -      -     -
 Reiselied - Ephemeral Fantasia (Japan) (v1.00)                                                                                                              -      -     -
 Reiselied - Ephemeral Fantasia (Japan) (v2.01)                                                                                                              -      -     -
@@ -8102,18 +8150,18 @@ SSX 3 (Japan)                                                                   
 SSX 3 (Korea)                                                                                                                                               -      -     -
 SSX 3 (Korea) (Cheheompan)                                                                                                                                  -      -     -
 SSX 3 (USA)                                                                                                                                                 -      -     -
-SSX On Tour (Europe)                                                                                                                                        -      -     -
-SSX On Tour (Europe) (Demo)                                                                                                                                 ✗      -     ✗
-SSX On Tour (Europe) (En,Fr,De,Es,Nl,Sv,No,Fi)                                                                                                              -      -     -
-SSX On Tour (Japan)                                                                                                                                         -      -     -
-SSX On Tour (Korea)                                                                                                                                         -      -     -
-SSX On Tour (USA)                                                                                                                                           -      -     -
-SSX On Tour (USA) (Demo)                                                                                                                                    ✗      -     ✗
 SSX Tricky (Asia)                                                                                                                                           -      -     -
 SSX Tricky (Europe) (En,Fr,De)                                                                                                                              -      -     -
 SSX Tricky (Japan)                                                                                                                                          -      -     -
 SSX Tricky (Korea)                                                                                                                                          -      -     -
 SSX Tricky (USA)                                                                                                                                            -      -     -
+SSX on Tour (Europe)                                                                                                                                        ✗      ✗     ✗
+SSX on Tour (Europe) (Demo)                                                                                                                                 ✗      ✗     ✗
+SSX on Tour (Europe) (En,Fr,De,Es,Nl,Sv,No,Fi)                                                                                                              ✗      ✗     ✗
+SSX on Tour (Japan)                                                                                                                                         ✗      ✗     ✗
+SSX on Tour (Korea)                                                                                                                                         ✗      ✗     ✗
+SSX on Tour (USA)                                                                                                                                           ✗      ✗     ✗
+SSX on Tour (USA) (Demo)                                                                                                                                    ✗      ✗     ✗
 SWAT - Global Strike Team (Europe) (En,Fr,Es,It)                                                                                                            -      -     -
 SWAT - Global Strike Team (Germany) (En,De)                                                                                                                 -      -     -
 SWAT - Global Strike Team (USA)                                                                                                                             -      -     -
@@ -8133,11 +8181,12 @@ Saikyou Toudai Shougi Special (Japan)                                           
 Saikyou Toudai Shougi Special II (Japan)                                                                                                                    ✗      ✗     ✗
 Saikyou no Igo 2 (Japan)                                                                                                                                    ✗      ✗     ✗
 Saint Beast - Rasen no Shou (Japan)                                                                                                                         -      -     ✗
+Saint Beast - Rasen no Shou (Japan) (Genteiban)                                                                                                             ✗      ✗     ✗
 Saint Seiya - Meiou Hades Juunikyuu-hen (Japan)                                                                                                             -      -     -
 Saint Seiya - Meiou Hades Juunikyuu-hen (Japan) (Taikenban)                                                                                                 -      -     -
 Saint Seiya - Sanctuary Juunikyuu-hen (Japan)                                                                                                               -      -     -
-Saint Seiya - The Hades (Europe) (En,Ja,Fr,Es,It)                                                                                                           -      -     -
-Saint Seiya - The Sanctuary (Europe) (En,Ja,Fr,De,Es,It)                                                                                                    -      -     -
+Saint Seiya - The Hades (Europe) (En,Fr,Es,It)                                                                                                              ✗      ✗     ✗
+Saint Seiya - The Sanctuary (Europe) (En,Fr,De,Es,It)                                                                                                       ✗      ✗     ✗
 Saint _ Sinner (Europe)                                                                                                                                     -      -     ✗
 Saints - Seinaru Mamono (Japan) (En,Ja)                                                                                                                     -      -     -
 Saishuu Densha (Japan)                                                                                                                                      -      ✗     ✗
@@ -8404,6 +8453,7 @@ Serious Sam - Next Encounter (Europe, Australia) (En,Fr,De)                     
 Serious Sam - Next Encounter (USA)                                                                                                                          -      -     -
 Seven Samurai 20XX (Europe) (En,Fr,De,Es,It)                                                                                                                -      -     ✗
 Seven Samurai 20XX (Japan)                                                                                                                                  -      -     ✗
+Seven Samurai 20XX (Korea)                                                                                                                                  ✗      ✗     ✗
 Seven Samurai 20XX (USA)                                                                                                                                    -      -     ✗
 Shadow Hearts (Europe) (En,Fr,De)                                                                                                                           -      -     -
 Shadow Hearts (Japan)                                                                                                                                       -      -     -
@@ -8462,6 +8512,7 @@ SharkPort - Code and Save Transfer Kit (USA) (Unl) (v1.2)                       
 SharkPort - Code and Save Transfer Kit (USA) (Unl) (v1.23)                                                                                                  ✗      ✗     ✗
 SharkPort - Code and Save Transfer Kit (USA) (Unl) (v2.21)                                                                                                  ✗      ✗     ✗
 Shaun Palmer's Pro Snowboarder (Europe)                                                                                                                     -      -     -
+Shaun Palmer's Pro Snowboarder (Europe) (Demo)                                                                                                              ✗      ✗     ✗
 Shaun Palmer's Pro Snowboarder (France)                                                                                                                     -      -     -
 Shaun Palmer's Pro Snowboarder (Germany)                                                                                                                    -      -     -
 Shaun Palmer's Pro Snowboarder (Japan)                                                                                                                      -      -     -
@@ -8494,7 +8545,6 @@ Shin Best Play Pro Yakyuu (Japan)                                               
 Shin Bokujou Monogatari - Pure - Innocent Life (Japan)                                                                                                      -      -     -
 Shin Combat Choro Q (Japan)                                                                                                                                 -      -     -
 Shin Combat Choro Q (Japan) (Taikenban)                                                                                                                     -      -     -
-Shin Combat Choro Q (Korea)                                                                                                                                 ✗      ✗     ✗
 Shin Contra (Asia)                                                                                                                                          -      -     -
 Shin Contra (Japan)                                                                                                                                         -      -     -
 Shin Gouketsuji Ichizoku - Bonnou Kaihou (Japan)                                                                                                            -      -     ✗
@@ -8563,10 +8613,6 @@ Shin Seiki Evangelion - Battle Orchestra (Japan)                                
 Shin Seiki Evangelion - Koutetsu no Girlfriend 2nd (Japan)                                                                                                  -      -     -
 Shin Seiki Evangelion - Koutetsu no Girlfriend Tokubetsu-hen (Japan)                                                                                        -      -     -
 Shin Seiki Evangelion 2 - Evangelions (Japan)                                                                                                               -      -     -
-Shin Seiki GPX Cyber Formula - Road to the Infinity (Japan)                                                                                                 ✗      ✗     ✗
-Shin Seiki GPX Cyber Formula - Road to the Infinity 2 (Japan)                                                                                               ✗      ✗     ✗
-Shin Seiki GPX Cyber Formula - Road to the Infinity 3 (Japan)                                                                                               ✗      ✗     ✗
-Shin Seiki GPX Cyber Formula - Road to the Infinity 4 (Japan)                                                                                               ✗      ✗     ✗
 Shine - Kotoba o Tsumui de (Japan)                                                                                                                          ✗      ✗     ✗
 Shine - Kotoba o Tsumui de (Japan) (Shokai Genteiban)                                                                                                       ✗      ✗     ✗
 Shining Force EXA (Japan)                                                                                                                                   -      -     -
@@ -8700,6 +8746,7 @@ Silent Scope 2 - Fatal Judgement (Europe) (En,Ja,Fr,De,Es,It)                   
 Silent Scope 2 - Innocent Sweeper (Japan)                                                                                                                   ✗      ✗     ✗
 Silent Scope 3 (Europe) (En,Fr,De,Es,It)                                                                                                                    -      -     -
 Silent Scope 3 (Japan)                                                                                                                                      -      -     -
+Silent Scope 3 (Korea) (En,Ko)                                                                                                                              ✗      ✗     ✗
 Silent Scope 3 (USA) (En,Ja,Es)                                                                                                                             -      -     -
 Silpheed - The Lost Planet (Europe)                                                                                                                         -      -     -
 Silpheed - The Lost Planet (Japan)                                                                                                                          -      -     -
@@ -8715,6 +8762,8 @@ Simple 2000 Honkaku Shikou Series Vol. 5 - The Kiryoku Kentei - Tanoshiku Manabe
 Simple 2000 Honkaku Shikou Series Vol. 6 - The Card - Blackjack, Daifugou, Draw Poker, Speed, Page One, etc. (Japan)                                        -      -     -
 Simple 2000 Series - Hello Kitty Vol. 1 - Starlight Puzzle - Isogashi Cube Dossun Fuwawa (Japan)                                                            ✗      -     ✗
 Simple 2000 Series - Hello Kitty Vol. 2 - Minna de Sugoroku - Fushigi na Sekai no Nakayoshi Sugoroku (Japan)                                                ✗      ✗     ✗
+Simple 2000 Series - Love - Upper! (Korea)                                                                                                                  ✗      ✗     ✗
+Simple 2000 Series - The Block Kuzushi Hyper (Korea)                                                                                                        ✗      ✗     ✗
 Simple 2000 Series - The Daemiin (Korea)                                                                                                                    ✗      ✗     ✗
 Simple 2000 Series Ultimate Vol. 1 - Love - Smash! (Japan)                                                                                                  -      -     -
 Simple 2000 Series Ultimate Vol. 10 - Love - Songs - Idol ga Classmate (Japan)                                                                              -      -     ✗
@@ -8744,7 +8793,6 @@ Simple 2000 Series Ultimate Vol. 33 - Ururun Quest - Koiyuuki (Japan)           
 Simple 2000 Series Ultimate Vol. 4 - Urawaza Ikasa Mahjonggai - Nii-san, Tsukanjimatta You da ne (Japan)                                                    ✗      ✗     ✗
 Simple 2000 Series Ultimate Vol. 5 - Love - Mahjong! (Japan)                                                                                                -      ✗     ✗
 Simple 2000 Series Ultimate Vol. 6 - Love - Upper! (Japan)                                                                                                  -      -     -
-Simple 2000 Series Ultimate Vol. 6 - Love - Upper! (Korea)                                                                                                  ✗      ✗     ✗
 Simple 2000 Series Ultimate Vol. 7 - Saikyou! Shirobai King - Security Police (Japan)                                                                       -      -     -
 Simple 2000 Series Ultimate Vol. 8 - Gekitou! Meiro King (Japan)                                                                                            -      -     -
 Simple 2000 Series Ultimate Vol. 9 - Bakusou! Manhattan - Runabout 3 - Neo Age (Japan)                                                                      -      -     ✗
@@ -8899,16 +8947,19 @@ Sims 2, The - Castaway (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,
 Sims 2, The - Castaway (USA)                                                                                                                                -      -     -
 Sims 2, The - Pets (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi,Pl) (v1.00)                                                                                      -      -     -
 Sims 2, The - Pets (Europe, Australia) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi,Pl) (v2.00)                                                                           -      -     -
+Sims 2, The - Pets (Korea)                                                                                                                                  ✗      ✗     ✗
 Sims 2, The - Pets (USA)                                                                                                                                    -      -     -
 Sims, The (Asia)                                                                                                                                            -      -     -
 Sims, The (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)                                                                                                                -      -     -
 Sims, The (Japan)                                                                                                                                           -      -     -
+Sims, The (Korea)                                                                                                                                           ✗      ✗     ✗
 Sims, The (USA)                                                                                                                                             -      -     -
 Sims, The - Bustin' Out (Asia)                                                                                                                              -      -     -
 Sims, The - Bustin' Out (Europe) (En,Fr,De,Es,It,Nl)                                                                                                        -      -     -
 Sims, The - Bustin' Out (Europe) (En,Sv,No,Da,Fi)                                                                                                           -      -     -
 Sims, The - Bustin' Out (Korea)                                                                                                                             ✗      ✗     ✗
 Sims, The - Bustin' Out (USA)                                                                                                                               -      -     -
+Sin Combat Choro Q (Korea)                                                                                                                                  ✗      ✗     ✗
 Sinbad Adventure wa Enomoto Kanako de Dou desu ka (Japan)                                                                                                   ✗      ✗     ✗
 SingStar '80s (Europe) (Demo)                                                                                                                               ✗      -     ✗
 SingStar '80s (Europe, Australia) (v1.00)                                                                                                                   -      -     ✗
@@ -9242,6 +9293,7 @@ Soul Nomad _ the World Eaters (USA)                                             
 Soul Reaver 2 (Asia)                                                                                                                                        -      -     -
 Soul Reaver 2 (Japan)                                                                                                                                       -      -     -
 Soul Reaver 2 (Japan) (Taikenban)                                                                                                                           -      -     -
+Soul Reaver 2 (Korea)                                                                                                                                       ✗      ✗     ✗
 Soulcalibur II (Europe) (Demo)                                                                                                                              ✗      -     ✗
 Soulcalibur II (Europe) (En,Fr,De,Es,It)                                                                                                                    -      -     -
 Soulcalibur II (Japan)                                                                                                                                      -      -     -
@@ -9253,9 +9305,9 @@ Soulcalibur III (Europe) (Demo)                                                 
 Soulcalibur III (Europe) (En,Fr,De,Es,It) (Beta)                                                                                                            ✗      -     ✗
 Soulcalibur III (Europe, Australia) (En,Fr,De,Es,It) (v1.00)                                                                                                -      -     -
 Soulcalibur III (Europe, Australia) (En,Fr,De,Es,It) (v2.00)                                                                                                -      -     -
+Soulcalibur III (Japan) (En,Ja) (v2.00)                                                                                                                     ✗      ✗     ✗
 Soulcalibur III (Japan) (Taikenban Special Disk)                                                                                                            -      -     -
 Soulcalibur III (Japan) (v1.01)                                                                                                                             -      -     -
-Soulcalibur III (Japan) (v2.00)                                                                                                                             -      -     -
 Soulcalibur III (Korea)                                                                                                                                     -      -     -
 Soulcalibur III (USA)                                                                                                                                       -      -     -
 Sousei no Aquarion (Japan)                                                                                                                                  ✗      ✗     ✗
@@ -9274,6 +9326,7 @@ Space Fishermen (Japan)                                                         
 Space Invaders - Invasion Day (Europe) (En,Fr,De,Es,It)                                                                                                     -      -     -
 Space Invaders Anniversary (Europe) (En,Fr,De,Es,It)                                                                                                        -      -     ✗
 Space Invaders Anniversary (Japan)                                                                                                                          -      -     ✗
+Space Invaders Anniversary (Korea)                                                                                                                          ✗      ✗     ✗
 Space Raiders (Japan)                                                                                                                                       -      -     -
 Space Raiders (Korea)                                                                                                                                       -      -     -
 Space Rebellion (Europe)                                                                                                                                    -      -     ✗
@@ -9355,6 +9408,7 @@ Sprint Cars - Road to Knoxville (USA)                                           
 Sprint Cars 2 - Showdown at Eldora (USA)                                                                                                                    -      -     ✗
 Spy Fiction (Europe) (En,Fr,De,Es,It)                                                                                                                       -      -     -
 Spy Fiction (Japan)                                                                                                                                         -      -     -
+Spy Fiction (Korea)                                                                                                                                         ✗      ✗     ✗
 Spy Fiction (USA)                                                                                                                                           -      -     -
 Spy vs. Spy (Europe) (En,Fr,De,Es)                                                                                                                          -      -     -
 SpyHunter (Europe) (Demo)                                                                                                                                   ✗      -     ✗
@@ -9621,6 +9675,9 @@ Super Puzzle Bobble (Japan) (Taikenban)                                         
 Super Puzzle Bobble (Korea)                                                                                                                                 -      -     -
 Super Puzzle Bobble 2 (China)                                                                                                                               -      -     -
 Super Puzzle Bobble 2 (Japan)                                                                                                                               -      -     -
+Super Puzzle Bobble 2 (Korea)                                                                                                                               ✗      ✗     ✗
+Super Puzzle Bobble Collection (Korea) (Disc 1)                                                                                                             ✗      ✗     ✗
+Super Puzzle Bobble Collection (Korea) (Disc 2)                                                                                                             ✗      ✗     ✗
 Super Robot Taisen - Scramble Commander (Japan)                                                                                                             -      ✗     ✗
 Super Robot Taisen - Scramble Commander the 2nd (Japan)                                                                                                     ✗      ✗     ✗
 Super Robot Taisen Impact (Japan) (Genteiban)                                                                                                               -      ✗     ✗
@@ -10058,12 +10115,14 @@ Thrillville - Off the Rails (USA)                                               
 Thrillville - Verrueckte Achterbahn (Germany)                                                                                                               -      -     -
 Thunder Force VI (Japan) (En,Ja)                                                                                                                            -      -     -
 Thunder Strike - Operation Phoenix (Japan)                                                                                                                  -      -     -
+Thunder Strike - Operation Phoenix (Korea)                                                                                                                  ✗      ✗     ✗
 Thunderbirds (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)                                                                                                    -      -     ✗
 Thunderhawk - Operation Phoenix (Europe) (En,Fr,De,Es,It)                                                                                                   -      -     -
 Thunderstrike - Operation Phoenix (Asia)                                                                                                                    -      -     -
 Thunderstrike - Operation Phoenix (USA) (v1.00)                                                                                                             -      -     -
 Thunderstrike - Operation Phoenix (USA) (v2.00)                                                                                                             -      -     -
 Tianzhu Hong (Asia)                                                                                                                                         -      -     -
+Tiger Woods PGA Tour 06 (Europe) (Demo)                                                                                                                     ✗      ✗     ✗
 Tiger Woods PGA Tour 06 (Europe) (En,Fr,De,Sv)                                                                                                              -      -     ✗
 Tiger Woods PGA Tour 06 (Europe) (En,Fr,De,Sv) (Beta 1)                                                                                                     ✗      -     ✗
 Tiger Woods PGA Tour 06 (Europe) (En,Fr,De,Sv) (Beta 2)                                                                                                     ✗      -     ✗
@@ -10099,6 +10158,7 @@ Tim Burton's The Nightmare Before Christmas - Boogie no Gyakushuu (Japan)       
 Tim Burton's The Nightmare Before Christmas - Boogie no Gyakushuu (Japan) (Taikenban)                                                                       -      -     -
 Tim Burton's The Nightmare Before Christmas - Oogie's Revenge (Europe) (En,Fr,De,Es,It)                                                                     -      -     -
 Tim Burton's The Nightmare Before Christmas - Oogie's Revenge (USA)                                                                                         -      -     -
+Time Crisis - Crisis Zone (Korea)                                                                                                                           ✗      ✗     ✗
 Time Crisis - Crisis Zone (USA)                                                                                                                             -      -     -
 Time Crisis 2 _ Vampire Night (Japan) (Taikenban)                                                                                                           ✗      ✗     ✗
 Time Crisis 3 (Asia)                                                                                                                                        -      -     -
@@ -10127,6 +10187,7 @@ TimeSplitters - Future Perfect (USA) (Beta)                                     
 TimeSplitters 2 (Europe) (Demo)                                                                                                                             ✗      -     ✗
 TimeSplitters 2 (Europe) (En,Fr,De,Es,It)                                                                                                                   -      -     -
 TimeSplitters 2 (Europe) (En,Fr,De,Es,It) (Beta)                                                                                                            ✗      -     ✗
+TimeSplitters 2 (Korea)                                                                                                                                     ✗      ✗     ✗
 TimeSplitters 2 (USA)                                                                                                                                       -      -     -
 Tir Na Nog - Yuukyuu no Jin (Japan)                                                                                                                         ✗      ✗     ✗
 Titeuf Mega-compet' (France)                                                                                                                                -      -     -
@@ -10313,6 +10374,7 @@ Transformers (USA) (Demo 2)                                                     
 Transformers - Optimus Prime (Europe) (Demo)                                                                                                                ✗      ✗     ✗
 Transformers - Red Alert (Europe) (Demo)                                                                                                                    ✗      ✗     ✗
 Transformers - Revenge of the Fallen (Europe) (En,Fr,De,Es,It)                                                                                              -      -     -
+Transformers - Revenge of the Fallen (Korea)                                                                                                                ✗      ✗     ✗
 Transformers - Revenge of the Fallen (USA)                                                                                                                  -      -     -
 Transformers - The Game (Europe)                                                                                                                            -      -     -
 Transformers - The Game (Europe) (De,It)                                                                                                                    -      -     -
@@ -10505,6 +10567,7 @@ Urban Reign (USA)                                                               
 Urbz, The - Sims in the City (Asia)                                                                                                                         -      -     -
 Urbz, The - Sims in the City (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi,Pl)                                                                                    -      -     -
 Urbz, The - Sims in the City (Japan)                                                                                                                        -      -     -
+Urbz, The - Sims in the City (Korea)                                                                                                                        ✗      ✗     ✗
 Urbz, The - Sims in the City (USA)                                                                                                                          -      -     -
 Usagi - Yasei no Touhai - Dramatic Mahjong (Japan)                                                                                                          ✗      ✗     ✗
 Usagi - Yasei no Touhai - The Arcade (Japan)                                                                                                                ✗      ✗     ✗
@@ -10539,7 +10602,7 @@ Value 2000 Series - Shougi 4 (Japan)                                            
 Vampire - Darkstalkers Collection (Japan)                                                                                                                   -      -     -
 Vampire Night (Europe) (Beta)                                                                                                                               ✗      -     ✗
 Vampire Night (Europe, Australia) (En,Fr,De,Es,It)                                                                                                          -      -     -
-Vampire Night (Japan)                                                                                                                                       -      -     -
+Vampire Night (Japan, Asia)                                                                                                                                 ✗      ✗     ✗
 Vampire Night (USA)                                                                                                                                         -      -     -
 Vampire Panic (Japan)                                                                                                                                       -      -     -
 Van Helsing (Europe, Australia) (En,Fr,De,Es,It)                                                                                                            -      -     -
@@ -10647,9 +10710,11 @@ WWE SmackDown vs. Raw 2007 (USA)                                                
 WWE SmackDown vs. Raw 2008 (Europe) (En,Fr,De,Es,It)                                                                                                        -      -     ✗
 WWE SmackDown vs. Raw 2008 (Europe, Australia)                                                                                                              -      -     ✗
 WWE SmackDown vs. Raw 2008 (Japan)                                                                                                                          -      -     ✗
+WWE SmackDown vs. Raw 2008 (Korea)                                                                                                                          ✗      ✗     ✗
 WWE SmackDown vs. Raw 2008 (USA)                                                                                                                            -      -     ✗
 WWE SmackDown vs. Raw 2009 (Australia)                                                                                                                      -      -     -
 WWE SmackDown vs. Raw 2009 (Europe) (En,Fr,De,Es,It)                                                                                                        -      -     -
+WWE SmackDown vs. Raw 2009 (Korea)                                                                                                                          ✗      ✗     ✗
 WWE SmackDown vs. Raw 2009 (USA) (En,Fr)                                                                                                                    -      -     -
 WWE SmackDown vs. Raw 2010 (Europe, Australia) (En,Fr,De,Es,It)                                                                                             -      -     -
 WWE SmackDown vs. Raw 2010 (USA) (En,Fr,Es)                                                                                                                 -      -     -
@@ -10812,7 +10877,8 @@ Winning Post 6 (Japan)                                                          
 Winning Post 6 (Japan) (Premium Pack)                                                                                                                       ✗      ✗     ✗
 Winning Post 6 - 2005-nendoban (Japan)                                                                                                                      ✗      ✗     ✗
 Winning Post 6 Maximum 2004 (Japan)                                                                                                                         ✗      ✗     ✗
-Winning Post 7 (Japan)                                                                                                                                      ✗      ✗     ✗
+Winning Post 7 (Japan) (v1.00)                                                                                                                              ✗      ✗     ✗
+Winning Post 7 (Japan) (v1.03)                                                                                                                              ✗      ✗     ✗
 Winning Post 7 Maximum 2006 (Japan)                                                                                                                         ✗      ✗     ✗
 Winning Post 7 Maximum 2007 (Japan) (v1.00)                                                                                                                 ✗      ✗     ✗
 Winning Post 7 Maximum 2007 (Japan) (v1.01)                                                                                                                 ✗      ✗     ✗
@@ -11029,6 +11095,7 @@ Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 2)                   
 Xenosaga Freaks (Japan)                                                                                                                                     -      ✗     -
 Xiaolin Showdown (Europe) (En,Fr,De,Es,It)                                                                                                                  -      -     -
 Xiaolin Showdown (USA)                                                                                                                                      -      -     -
+Xtreme Cheats - Pro Edition (UK) (Unl)                                                                                                                      ✗      ✗     ✗
 Xtreme Cheats - Pro Edition fuer PlayStation 2 (Germany) (Unl)                                                                                              ✗      ✗     ✗
 Xtreme Cheats - Special Edition (UK) (Unl)                                                                                                                  ✗      ✗     ✗
 Xtreme Speed (Europe)                                                                                                                                       -      -     ✗
