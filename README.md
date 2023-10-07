@@ -31,7 +31,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Commodore - VIC-20](out/Commodore%20-%20VIC-20.txt) | 80 / 235 | 97 / 235 | 97 / 235 | 274 / 705 | **38.87%** |
 | [Dinothawr](out/Dinothawr.txt) | 1 / 2 | 1 / 2 | 1 / 2 | 3 / 6 | **50.00%** |
 | [DOOM](out/DOOM.txt) | 48 / 120 | 14 / 120 | 30 / 120 | 92 / 360 | **25.56%** |
-| [DOS](out/DOS.txt) | 0 / 19848 | 3729 / 19848 | 0 / 19848 | 3729 / 59544 | **6.26%** |
+| [DOS](out/DOS.txt) | 1862 / 19848 | 3731 / 19848 | 3649 / 19848 | 9242 / 59544 | **15.52%** |
 | [Emerson - Arcadia 2001](out/Emerson%20-%20Arcadia%202001.txt) | 48 / 48 | 48 / 48 | 48 / 48 | 144 / 144 | **100.00%** |
 | [Entex - Adventure Vision](out/Entex%20-%20Adventure%20Vision.txt) | 4 / 4 | 4 / 4 | 4 / 4 | 12 / 12 | **100.00%** |
 | [Epoch - Super Cassette Vision](out/Epoch%20-%20Super%20Cassette%20Vision.txt) | 2 / 33 | 2 / 33 | 2 / 33 | 6 / 99 | **6.06%** |
@@ -79,8 +79,8 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Nintendo - Pokemon Mini](out/Nintendo%20-%20Pokemon%20Mini.txt) | 43 / 43 | 43 / 43 | 43 / 43 | 129 / 129 | **100.00%** |
 | [Nintendo - Satellaview](out/Nintendo%20-%20Satellaview.txt) | 61 / 295 | 248 / 295 | 246 / 295 | 555 / 885 | **62.71%** |
 | [Nintendo - Sufami Turbo](out/Nintendo%20-%20Sufami%20Turbo.txt) | 13 / 13 | 13 / 13 | 13 / 13 | 39 / 39 | **100.00%** |
-| [Nintendo - Super Nintendo Entertainment System](out/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System.txt) | 3532 / 3782 | 3546 / 3782 | 3545 / 3782 | 10623 / 11346 | **93.63%** |
-| [Nintendo - Virtual Boy](out/Nintendo%20-%20Virtual%20Boy.txt) | 31 / 76 | 31 / 76 | 31 / 76 | 93 / 228 | **40.79%** |
+| [Nintendo - Super Nintendo Entertainment System](out/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System.txt) | 3531 / 3782 | 3546 / 3782 | 3545 / 3782 | 10622 / 11346 | **93.62%** |
+| [Nintendo - Virtual Boy](out/Nintendo%20-%20Virtual%20Boy.txt) | 31 / 76 | 34 / 76 | 34 / 76 | 99 / 228 | **43.42%** |
 | [Nintendo - Wii](out/Nintendo%20-%20Wii.txt) | 4384 / 18981 | 1957 / 18981 | 1674 / 18981 | 8015 / 56943 | **14.08%** |
 | [Philips - CD-i](out/Philips%20-%20CD-i.txt) | 245 / 2006 | 223 / 2006 | 50 / 2006 | 518 / 6018 | **8.61%** |
 | [Philips - Videopac+](out/Philips%20-%20Videopac+.txt) | 32 / 32 | 32 / 32 | 32 / 32 | 96 / 96 | **100.00%** |
@@ -122,12 +122,13 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Tiger - Game.com](out/Tiger%20-%20Game.com.txt) | 22 / 23 | 23 / 23 | 23 / 23 | 68 / 69 | **98.55%** |
 | [Tomb Raider](out/Tomb%20Raider.txt) | 11 / 11 | 11 / 11 | 11 / 11 | 33 / 33 | **100.00%** |
 | [Uzebox](out/Uzebox.txt) | 0 / 65 | 0 / 65 | 0 / 65 | 0 / 195 | **0.00%** |
+| [Vircon32](out/Vircon32.txt) | 13 / 28 | 28 / 28 | 13 / 28 | 54 / 84 | **64.29%** |
 | [VTech - CreatiVision](out/VTech%20-%20CreatiVision.txt) | 0 / 31 | 0 / 31 | 0 / 31 | 0 / 93 | **0.00%** |
 | [VTech - V.Smile](out/VTech%20-%20V.Smile.txt) | 119 / 196 | 154 / 196 | 154 / 196 | 427 / 588 | **72.62%** |
 | [WASM-4](out/WASM-4.txt) | 0 / 101 | 0 / 101 | 100 / 101 | 100 / 303 | **33.00%** |
 | [Watara - Supervision](out/Watara%20-%20Supervision.txt) | 66 / 70 | 67 / 70 | 68 / 70 | 201 / 210 | **95.71%** |
 | [Wolfenstein 3D](out/Wolfenstein%203D.txt) | 10 / 10 | 6 / 10 | 9 / 10 | 25 / 30 | **83.33%** |
-| **Total** | **67406 / 315537** | **67865 / 315537** | **53933 / 315537** | **189204 / 946611** | **19.99%** |
+| **Total** | **69280 / 315565** | **67898 / 315565** | **57598 / 315565** | **194776 / 946695** | **20.57%** |
 
 ## Build
 
