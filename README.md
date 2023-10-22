@@ -30,7 +30,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Commodore - Plus-4](out/Commodore%20-%20Plus-4.txt) | 5 / 5 | 5 / 5 | 5 / 5 | 15 / 15 | **100.00%** |
 | [Commodore - VIC-20](out/Commodore%20-%20VIC-20.txt) | 80 / 235 | 97 / 235 | 97 / 235 | 274 / 705 | **38.87%** |
 | [Dinothawr](out/Dinothawr.txt) | 1 / 2 | 1 / 2 | 1 / 2 | 3 / 6 | **50.00%** |
-| [DOOM](out/DOOM.txt) | 48 / 120 | 14 / 120 | 30 / 120 | 92 / 360 | **25.56%** |
+| [DOOM](out/DOOM.txt) | 54 / 120 | 23 / 120 | 37 / 120 | 114 / 360 | **31.67%** |
 | [DOS](out/DOS.txt) | 1862 / 19848 | 3731 / 19848 | 3649 / 19848 | 9242 / 59544 | **15.52%** |
 | [Emerson - Arcadia 2001](out/Emerson%20-%20Arcadia%202001.txt) | 48 / 48 | 48 / 48 | 48 / 48 | 144 / 144 | **100.00%** |
 | [Entex - Adventure Vision](out/Entex%20-%20Adventure%20Vision.txt) | 4 / 4 | 4 / 4 | 4 / 4 | 12 / 12 | **100.00%** |
@@ -38,7 +38,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Fairchild - Channel F](out/Fairchild%20-%20Channel%20F.txt) | 34 / 34 | 34 / 34 | 34 / 34 | 102 / 102 | **100.00%** |
 | [Flashback](out/Flashback.txt) | 1 / 1 | 1 / 1 | 1 / 1 | 3 / 3 | **100.00%** |
 | [Funtech - Super Acan](out/Funtech%20-%20Super%20Acan.txt) | 11 / 11 | 11 / 11 | 11 / 11 | 33 / 33 | **100.00%** |
-| [GamePark - GP32](out/GamePark%20-%20GP32.txt) | 27 / 28 | 27 / 28 | 27 / 28 | 81 / 84 | **96.43%** |
+| [GamePark - GP32](out/GamePark%20-%20GP32.txt) | 28 / 28 | 28 / 28 | 28 / 28 | 84 / 84 | **100.00%** |
 | [GCE - Vectrex](out/GCE%20-%20Vectrex.txt) | 43 / 43 | 43 / 43 | 43 / 43 | 129 / 129 | **100.00%** |
 | [Handheld Electronic Game](out/Handheld%20Electronic%20Game.txt) | 0 / 59 | 0 / 59 | 0 / 59 | 0 / 177 | **0.00%** |
 | [Hartung - Game Master](out/Hartung%20-%20Game%20Master.txt) | 8 / 18 | 12 / 18 | 14 / 18 | 34 / 54 | **62.96%** |
@@ -63,7 +63,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [NEC - PC Engine CD - TurboGrafx-CD](out/NEC%20-%20PC%20Engine%20CD%20-%20TurboGrafx-CD.txt) | 859 / 930 | 437 / 930 | 439 / 930 | 1735 / 2790 | **62.19%** |
 | [NEC - PC Engine SuperGrafx](out/NEC%20-%20PC%20Engine%20SuperGrafx.txt) | 5 / 5 | 5 / 5 | 5 / 5 | 15 / 15 | **100.00%** |
 | [NEC - PC-98](out/NEC%20-%20PC-98.txt) | 66 / 113 | 89 / 113 | 87 / 113 | 242 / 339 | **71.39%** |
-| [NEC - PC-FX](out/NEC%20-%20PC-FX.txt) | 22 / 142 | 18 / 142 | 18 / 142 | 58 / 426 | **13.62%** |
+| [NEC - PC-FX](out/NEC%20-%20PC-FX.txt) | 59 / 142 | 60 / 142 | 55 / 142 | 174 / 426 | **40.85%** |
 | [Nintendo - e-Reader](out/Nintendo%20-%20e-Reader.txt) | 0 / 3240 | 0 / 3240 | 0 / 3240 | 0 / 9720 | **0.00%** |
 | [Nintendo - Family Computer Disk System](out/Nintendo%20-%20Family%20Computer%20Disk%20System.txt) | 320 / 393 | 342 / 393 | 342 / 393 | 1004 / 1179 | **85.16%** |
 | [Nintendo - Game Boy Advance](out/Nintendo%20-%20Game%20Boy%20Advance.txt) | 3170 / 3406 | 3183 / 3406 | 3183 / 3406 | 9536 / 10218 | **93.33%** |
@@ -80,7 +80,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Nintendo - Satellaview](out/Nintendo%20-%20Satellaview.txt) | 61 / 295 | 248 / 295 | 246 / 295 | 555 / 885 | **62.71%** |
 | [Nintendo - Sufami Turbo](out/Nintendo%20-%20Sufami%20Turbo.txt) | 13 / 13 | 13 / 13 | 13 / 13 | 39 / 39 | **100.00%** |
 | [Nintendo - Super Nintendo Entertainment System](out/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System.txt) | 3531 / 3782 | 3546 / 3782 | 3545 / 3782 | 10622 / 11346 | **93.62%** |
-| [Nintendo - Virtual Boy](out/Nintendo%20-%20Virtual%20Boy.txt) | 31 / 76 | 34 / 76 | 34 / 76 | 99 / 228 | **43.42%** |
+| [Nintendo - Virtual Boy](out/Nintendo%20-%20Virtual%20Boy.txt) | 34 / 76 | 36 / 76 | 36 / 76 | 106 / 228 | **46.49%** |
 | [Nintendo - Wii](out/Nintendo%20-%20Wii.txt) | 4384 / 18981 | 1957 / 18981 | 1674 / 18981 | 8015 / 56943 | **14.08%** |
 | [Philips - CD-i](out/Philips%20-%20CD-i.txt) | 245 / 2006 | 223 / 2006 | 50 / 2006 | 518 / 6018 | **8.61%** |
 | [Philips - Videopac+](out/Philips%20-%20Videopac+.txt) | 32 / 32 | 32 / 32 | 32 / 32 | 96 / 96 | **100.00%** |
@@ -127,8 +127,8 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [VTech - V.Smile](out/VTech%20-%20V.Smile.txt) | 119 / 196 | 154 / 196 | 154 / 196 | 427 / 588 | **72.62%** |
 | [WASM-4](out/WASM-4.txt) | 0 / 101 | 0 / 101 | 100 / 101 | 100 / 303 | **33.00%** |
 | [Watara - Supervision](out/Watara%20-%20Supervision.txt) | 66 / 70 | 67 / 70 | 68 / 70 | 201 / 210 | **95.71%** |
-| [Wolfenstein 3D](out/Wolfenstein%203D.txt) | 10 / 10 | 6 / 10 | 9 / 10 | 25 / 30 | **83.33%** |
-| **Total** | **69280 / 315565** | **67898 / 315565** | **57598 / 315565** | **194776 / 946695** | **20.57%** |
+| [Wolfenstein 3D](out/Wolfenstein%203D.txt) | 10 / 10 | 10 / 10 | 10 / 10 | 30 / 30 | **100.00%** |
+| **Total** | **69327 / 315565** | **67956 / 315565** | **57646 / 315565** | **194929 / 946695** | **20.59%** |
 
 ## Build
 
