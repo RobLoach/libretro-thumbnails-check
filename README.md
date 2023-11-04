@@ -21,11 +21,12 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Casio - PV-1000](out/Casio%20-%20PV-1000.txt) | 13 / 13 | 13 / 13 | 13 / 13 | 39 / 39 | **100.00%** |
 | [Cave Story](out/Cave%20Story.txt) | 3 / 3 | 3 / 3 | 3 / 3 | 9 / 9 | **100.00%** |
 | [ChaiLove](out/ChaiLove.txt) | 1 / 6 | 5 / 6 | 1 / 6 | 7 / 18 | **38.89%** |
+| [CHIP-8](out/CHIP-8.txt) | 0 / 1 | 0 / 1 | 0 / 1 | 0 / 3 | **0.00%** |
 | [Coleco - ColecoVision](out/Coleco%20-%20ColecoVision.txt) | 162 / 197 | 159 / 197 | 159 / 197 | 480 / 591 | **81.22%** |
 | [Commodore - 64](out/Commodore%20-%2064.txt) | 213 / 237 | 232 / 237 | 229 / 237 | 674 / 711 | **94.80%** |
 | [Commodore - Amiga](out/Commodore%20-%20Amiga.txt) | 2863 / 47481 | 3006 / 47481 | 2996 / 47481 | 8865 / 142443 | **6.22%** |
 | [Commodore - CD32](out/Commodore%20-%20CD32.txt) | 72 / 376 | 137 / 376 | 73 / 376 | 282 / 1128 | **25.00%** |
-| [Commodore - CDTV](out/Commodore%20-%20CDTV.txt) | 0 / 114 | 0 / 114 | 0 / 114 | 0 / 342 | **0.00%** |
+| [Commodore - CDTV](out/Commodore%20-%20CDTV.txt) | 11 / 114 | 7 / 114 | 7 / 114 | 25 / 342 | **7.31%** |
 | [Commodore - PET](out/Commodore%20-%20PET.txt) | 0 / 108 | 0 / 108 | 0 / 108 | 0 / 324 | **0.00%** |
 | [Commodore - Plus-4](out/Commodore%20-%20Plus-4.txt) | 5 / 5 | 5 / 5 | 5 / 5 | 15 / 15 | **100.00%** |
 | [Commodore - VIC-20](out/Commodore%20-%20VIC-20.txt) | 80 / 235 | 97 / 235 | 97 / 235 | 274 / 705 | **38.87%** |
@@ -100,7 +101,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Sega - Mega-CD - Sega CD](out/Sega%20-%20Mega-CD%20-%20Sega%20CD.txt) | 439 / 917 | 489 / 917 | 489 / 917 | 1417 / 2751 | **51.51%** |
 | [Sega - Naomi 2](out/Sega%20-%20Naomi%202.txt) | 0 / 7 | 0 / 7 | 0 / 7 | 0 / 21 | **0.00%** |
 | [Sega - Naomi](out/Sega%20-%20Naomi.txt) | 0 / 29 | 0 / 29 | 0 / 29 | 0 / 87 | **0.00%** |
-| [Sega - PICO](out/Sega%20-%20PICO.txt) | 151 / 444 | 10 / 444 | 9 / 444 | 170 / 1332 | **12.76%** |
+| [Sega - PICO](out/Sega%20-%20PICO.txt) | 151 / 444 | 10 / 444 | 153 / 444 | 314 / 1332 | **23.57%** |
 | [Sega - Saturn](out/Sega%20-%20Saturn.txt) | 1855 / 2637 | 1832 / 2637 | 1895 / 2637 | 5582 / 7911 | **70.56%** |
 | [Sega - SG-1000](out/Sega%20-%20SG-1000.txt) | 80 / 212 | 203 / 212 | 92 / 212 | 375 / 636 | **58.96%** |
 | [Sharp - X1](out/Sharp%20-%20X1.txt) | 0 / 237 | 0 / 237 | 0 / 237 | 0 / 711 | **0.00%** |
@@ -128,7 +129,7 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [WASM-4](out/WASM-4.txt) | 0 / 101 | 0 / 101 | 100 / 101 | 100 / 303 | **33.00%** |
 | [Watara - Supervision](out/Watara%20-%20Supervision.txt) | 66 / 70 | 67 / 70 | 68 / 70 | 201 / 210 | **95.71%** |
 | [Wolfenstein 3D](out/Wolfenstein%203D.txt) | 10 / 10 | 10 / 10 | 10 / 10 | 30 / 30 | **100.00%** |
-| **Total** | **69327 / 315565** | **67956 / 315565** | **57646 / 315565** | **194929 / 946695** | **20.59%** |
+| **Total** | **69338 / 315566** | **67963 / 315566** | **57797 / 315566** | **195098 / 946698** | **20.61%** |
 
 ## Build
 

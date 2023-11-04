@@ -1,7 +1,7 @@
 {
   "name": "libretro-thumbnails-check",
   "private": true,
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Checks consistancy of libretro-thumbnails",
   "main": "index.js",
   "scripts": {
@@ -23,9 +23,9 @@
     "glob": "^7.2.0",
     "globby": "^11.0.1",
     "listr": "^0.14.3",
-    "marked": "^1.1.1",
-    "minimatch": "^3.0.4",
-    "multimatch": "^4.0.0",
+    "marked": "^9.1.5",
+    "minimatch": "^9.0.3",
+    "multimatch": "^7.0.0",
     "multispinner": "^0.2.1",
     "nodejs-file-downloader": "^4.12.1",
     "recursive-readdir-sync": "^1.0.6",
