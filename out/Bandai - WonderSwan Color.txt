@@ -1,9 +1,9 @@
 Bandai - WonderSwan Color Missing
 
-Boxarts  104/111  93.69%
-Snaps    106/111  95.50%
-Titles   105/111  94.59%
-Total    315/333  94.59%
+Boxarts  104/109  95.41%
+Snaps    104/109  95.41%
+Titles   103/109  94.50%
+Total    311/327  95.11%
 
 Name                                                                                Boxart  Snap  Title
 Alchemist Marie _ Elie - Futari no Atelier (Japan)                                     -      -     -
@@ -34,8 +34,6 @@ Final Fantasy (Japan)                                                           
 Final Fantasy II (Japan)                                                               -      -     -
 Final Fantasy IV (Japan)                                                               -      -     -
 Final Lap Special - GT _ Formula Machine (Japan)                                       -      -     -
-Fire Lancer (USA) (Demo) (2018-12-25) (Aftermarket) (Unl)                              ✗      -     -
-Fire Lancer (USA) (Demo) (2019-01-03) (Aftermarket) (Unl)                              ✗      -     -
 Flash Koibito-kun (Japan)                                                              -      -     -
 Flash Masta Firmware (USA) (2016-05-13) (Unl)                                          ✗      ✗     ✗
 Flash Masta Firmware (USA) (2016-08-29) (Unl)                                          -      ✗     ✗
@@ -86,6 +84,7 @@ RUN=DIM - Return to Earth (Japan)                                               
 Raku Jongg (Japan)                                                                     -      -     -
 Rhyme Rider Kerorican (Japan)                                                          -      -     -
 Riviera - Yakusoku no Chi Riviera (Japan)                                              -      -     -
+Riviera - Yakusoku no Chi Riviera (Japan) (Rev 1)                                      ✗      ✗     ✗
 Rockman EXE - N1 Battle (Japan) (Rev 1)                                                -      -     -
 Rockman EXE WS (Japan)                                                                 -      -     -
 Romancing Sa-Ga (Japan)                                                                -      -     -
@@ -114,6 +113,5 @@ Wild Card (Japan)                                                               
 With You - Mitsumete Itai (Japan)                                                      -      -     -
 Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan)                      -      -     -
 Wonder Classic (Japan)                                                                 -      -     -
-WonderCell (World) (v0.2) (Aftermarket) (Unl)                                          ✗      ✗     ✗
 X - Card of Fate (Japan)                                                               -      -     -
 XI Little (Japan)                                                                      -      -     -

@@ -1,9 +1,9 @@
 Nintendo - Nintendo 64 Missing
 
-Boxarts  1036/1153  89.85%
-Snaps     930/1153  80.66%
-Titles    961/1153  83.35%
-Total    2927/3459  84.62%
+Boxarts  1033/1140  90.61%
+Snaps     927/1140  81.32%
+Titles    958/1140  84.04%
+Total    2918/3420  85.32%
 
 Name                                                                                       Boxart  Snap  Title
 007 - The World Is Not Enough (Europe) (En,Fr,De)                                             -      -     -
@@ -13,9 +13,7 @@ Name                                                                            
 1080 Snowboarding (Europe) (En,Ja,Fr,De)                                                      -      -     -
 1080 Snowboarding (Japan, USA) (En,Ja)                                                        -      -     -
 1080 Snowboarding (USA) (En,Ja) (LodgeNet)                                                    ✗      ✗     ✗
-2048 (World) (En,Fr,Es) (Aftermarket) (Unl)                                                   ✗      ✗     ✗
 40 Winks (Europe) (En,Es,It) (Proto) (1999-10-07)                                             -      -     -
-40 Winks (USA) (Aftermarket) (Unl)                                                            -      -     -
 40 Winks (USA) (Proto) (2000-01-10)                                                           -      ✗     ✗
 64 Hanafuda - Tenshi no Yakusoku (Japan)                                                      -      -     -
 64 Oozumou (Japan)                                                                            -      -     -
@@ -122,6 +120,7 @@ Bust-A-Move '99 (USA)                                                           
 Bust-A-Move 2 - Arcade Edition (Europe)                                                       -      -     -
 Bust-A-Move 2 - Arcade Edition (USA)                                                          -      -     -
 Bust-A-Move 3 DX (Europe)                                                                     -      -     -
+Bust-A-Move 3 DX (USA) (Beta) (1998-08-28)                                                    ✗      ✗     ✗
 California Speed (Europe) (Proto)                                                             -      -     -
 California Speed (USA)                                                                        -      -     -
 Carmageddon 64 (Europe) (En,Fr,De,Es)                                                         -      -     -
@@ -189,7 +188,7 @@ Densha de Go! 64 (Japan)                                                        
 Derby Stallion 64 (Japan)                                                                     -      -     -
 Destruction Derby 64 (Europe) (En,Fr,De)                                                      -      -     -
 Destruction Derby 64 (USA)                                                                    -      -     -
-Destruction Derby 64 (USA) (1998-07-31) (Beta)                                                ✗      ✗     ✗
+Destruction Derby 64 (USA) (Beta) (1998-07-31)                                                ✗      ✗     ✗
 Dezaemon 3D (Japan)                                                                           -      -     -
 Diddy Kong Racing (Europe) (En,Fr,De)                                                         -      -     -
 Diddy Kong Racing (Europe) (En,Fr,De) (Rev 1)                                                 -      -     -
@@ -208,7 +207,6 @@ Donkey Kong 64 (Japan)                                                          
 Donkey Kong 64 (USA)                                                                          -      -     -
 Donkey Kong 64 (USA) (Demo) (Kiosk)                                                           -      -     -
 Donkey Kong 64 (USA) (LodgeNet)                                                               ✗      ✗     ✗
-Donsol (World) (Aftermarket) (Unl)                                                            ✗      ✗     ✗
 Doom 64 (Europe)                                                                              -      -     -
 Doom 64 (Japan)                                                                               -      -     -
 Doom 64 (USA)                                                                                 -      -     -
@@ -222,12 +220,13 @@ Doubutsu no Mori (Japan)                                                        
 Dr. Mario 64 (USA)                                                                            -      -     -
 Dr. Mario 64 (USA) (LodgeNet)                                                                 ✗      ✗     ✗
 Dragon Sword 64 (Europe) (Proto)                                                              -      ✗     ✗
-Dragon Sword 64 (USA) (1999-08-25) (Proto)                                                    ✗      ✗     ✗
+Dragon Sword 64 (USA) (Proto) (1999-08-25)                                                    -      -     -
 Dual Heroes (Europe)                                                                          -      -     -
 Dual Heroes (Japan)                                                                           -      -     -
 Dual Heroes (USA)                                                                             -      -     -
 Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es)                                             -      -     -
-Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta) (2000-03-07)                         -      -     -
+Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta 1)                                    ✗      ✗     ✗
+Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta 2) (2000-03-07)                       ✗      ✗     ✗
 Duke Nukem - Zero Hour (Europe)                                                               -      -     -
 Duke Nukem - Zero Hour (France)                                                               -      -     -
 Duke Nukem - Zero Hour (USA)                                                                  -      -     -
@@ -293,8 +292,6 @@ Fighters Destiny (USA)                                                          
 Fighting Cup (Japan)                                                                          -      -     -
 Fighting Force 64 (Europe)                                                                    -      -     -
 Fighting Force 64 (USA)                                                                       -      -     -
-Fission Failure 64 (World) (Aftermarket) (Unl)                                                ✗      ✗     ✗
-Flood64 (World) (En,Fr,Es) (Aftermarket) (Unl)                                                ✗      ✗     ✗
 Flying Dragon (Europe)                                                                        -      -     -
 Flying Dragon (USA)                                                                           -      -     -
 Forsaken (Europe) (En,Fr,Es,It)                                                               -      -     -
@@ -309,7 +306,7 @@ G.A.S.P!! Fighters' NEXTream (Europe)                                           
 G.A.S.P!! Fighters' NEXTream (Japan)                                                          -      -     -
 GT 64 - Championship Edition (Europe) (En,Fr,De)                                              -      -     -
 GT 64 - Championship Edition (USA)                                                            -      -     -
-GT 64 - Championship Edition (USA) (1998-05-25) (Beta)                                        ✗      ✗     ✗
+GT 64 - Championship Edition (USA) (Beta) (1998-05-25)                                        -      ✗     ✗
 GameBooster 64 (Europe) (v1.1) (Unl)                                                          -      -     ✗
 GameBooster 64 (USA) (v1.1) (Unl)                                                             -      -     ✗
 GameShark Pro (USA) (v2.0) (Unl)                                                              -      -     ✗
@@ -327,7 +324,6 @@ Gex 3 - Deep Cover Gecko (Europe) (Fr,De)                                       
 Gex 3 - Deep Cover Gecko (USA)                                                                -      -     -
 Gex 64 - Enter the Gecko (Europe)                                                             -      -     -
 Gex 64 - Enter the Gecko (USA)                                                                -      -     -
-Glamorous Zombie Flakes (World) (Aftermarket) (Unl)                                           ✗      ✗     ✗
 Glover (Europe) (En,Fr,De)                                                                    -      -     -
 Glover (USA)                                                                                  -      -     -
 Glover (USA) (1998-09-04) (Beta)                                                              ✗      ✗     ✗
@@ -377,6 +373,7 @@ Hyper Olympics in Nagano 64 (Japan)                                             
 Ide Yosuke no Mahjong Juku (Japan)                                                            -      -     -
 Iggy's Reckin' Balls (Europe)                                                                 -      -     -
 Iggy's Reckin' Balls (USA)                                                                    -      -     -
+Iggy's Reckin' Balls (USA) (Beta)                                                             ✗      ✗     ✗
 Iggy-kun no Bura Bura Poyon (Japan)                                                           -      -     -
 Illustrations - Funny accessories 1 (Japan)                                                   ✗      ✗     ✗
 Illustrations - Postal cards 1 (Japan)                                                        ✗      ✗     ✗
@@ -386,7 +383,7 @@ Indiana Jones and the Infernal Machine (Australia) (Proto)                      
 Indiana Jones and the Infernal Machine (USA)                                                  -      -     -
 Indy Racing 2000 (USA)                                                                        -      -     -
 International Superstar Soccer '98 (Europe)                                                   -      -     -
-International Superstar Soccer '98 (Europe) (1998-03-02) (Beta)                               ✗      ✗     ✗
+International Superstar Soccer '98 (Europe) (Beta) (1998-03-02)                               -      ✗     ✗
 International Superstar Soccer '98 (USA)                                                      -      -     -
 International Superstar Soccer 2000 (Europe) (En,De)                                          -      -     -
 International Superstar Soccer 2000 (Europe) (Fr,It)                                          -      -     -
@@ -420,7 +417,7 @@ Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan) (Rev 1)                    
 Jikkyou Powerful Pro Yakyuu 2000 (Japan)                                                      -      -     -
 Jikkyou Powerful Pro Yakyuu 2000 (Japan) (Rev 1)                                              -      -     -
 Jikkyou Powerful Pro Yakyuu 4 (Japan)                                                         -      -     -
-Jikkyou Powerful Pro Yakyuu 4 (Japan) (1996-11-30) (Beta)                                     ✗      ✗     ✗
+Jikkyou Powerful Pro Yakyuu 4 (Japan) (Beta) (1996-11-30)                                     -      ✗     ✗
 Jikkyou Powerful Pro Yakyuu 4 (Japan) (Rev 1)                                                 -      -     -
 Jikkyou Powerful Pro Yakyuu 5 (Japan)                                                         -      -     -
 Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 1)                                                 -      -     -
@@ -478,11 +475,9 @@ Legend of Zelda, The - Ocarina of Time (USA) (GameCube)                         
 Legend of Zelda, The - Ocarina of Time (USA) (LodgeNet)                                       ✗      ✗     ✗
 Legend of Zelda, The - Ocarina of Time (USA) (Rev 1)                                          -      -     -
 Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)                                          -      -     -
-Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube)                     -      -     -
+Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (En,Fr,De) (GameCube)          ✗      ✗     ✗
 Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube) (Debug)             ✗      ✗     -
 Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)                        -      -     -
-Legend of Zelda, The - The Sealed Palace (USA) (v1.21) (Aftermarket) (Pirate)                 ✗      ✗     ✗
-Legend of Zelda, The - The Sealed Palace (USA) (v1.3) (Aftermarket) (Pirate)                  ✗      ✗     ✗
 Let's Smash (Japan)                                                                           -      -     -
 Lode Runner 3-D (Europe) (En,Fr,De,Es,It)                                                     -      -     -
 Lode Runner 3-D (Japan)                                                                       -      -     -
@@ -611,6 +606,7 @@ NBA Jam 2000 (Europe)                                                           
 NBA Jam 2000 (USA)                                                                            -      -     -
 NBA Jam 99 (Europe)                                                                           -      -     -
 NBA Jam 99 (USA)                                                                              -      -     -
+NBA Jam 99 (USA) (Beta) (1998-09-25)                                                          ✗      ✗     ✗
 NBA Live 2000 (Europe) (En,Fr,De,Es)                                                          -      -     -
 NBA Live 2000 (USA) (En,Fr,De,Es)                                                             -      -     -
 NBA Live 99 (Europe) (En,Fr,De,Es,It)                                                         -      -     -
@@ -680,6 +676,7 @@ Onegai Monsters (Japan)                                                         
 Operation WinBack (Europe) (En,Fr,De,Es,It)                                                   -      -     -
 PD Ultraman Battle Collection 64 (Japan)                                                      -      -     -
 PGA European Tour (USA)                                                                       -      -     -
+PGA European Tour Golf (Europe) (En,De) (Version B.29) (Beta)                                 ✗      ✗     ✗
 PGA European Tour Golf (Europe) (En,Fr,De,Es,It)                                              -      -     -
 Pachinko 365 Nichi (Japan)                                                                    -      -     -
 Paper Mario (Europe) (En,Fr,De,Es)                                                            -      -     -
@@ -751,9 +748,6 @@ Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen (Japan)                     
 Puyo Puyo Sun 64 (Japan)                                                                      -      -     -
 Puyo Puyoon Party (Japan)                                                                     -      -     -
 Puzzle Bobble 64 (Japan)                                                                      -      -     -
-Pyoro 64 (Unknown) (Aftermarket) (Unl)                                                        ✗      ✗     ✗
-Pyoro 64 (Unknown) (Europe) (Aftermarket) (Unl)                                               ✗      ✗     ✗
-Pyoro 64 (Unknown) (MPAL) (Aftermarket) (Unl)                                                 ✗      ✗     ✗
 Quake (Europe)                                                                                -      -     -
 Quake (USA)                                                                                   -      -     -
 Quake II (Europe)                                                                             -      -     -
@@ -805,7 +799,6 @@ Rocket - Robot on Wheels (Europe) (Beta) (1999-09-29)                           
 Rocket - Robot on Wheels (Europe) (En,Fr,De)                                                  -      -     -
 Rocket - Robot on Wheels (USA)                                                                -      -     -
 Rockman Dash - Hagane no Boukenshin (Japan)                                                   -      -     -
-Ronaldinho's Soccer 64 (Brazil) (Pirate)                                                      -      ✗     ✗
 Rugrats - Die grosse Schatzsuche (Germany)                                                    -      -     -
 Rugrats - Scavenger Hunt (USA)                                                                -      -     -
 Rugrats - Scavenger Hunt (USA) (Beta) (1999-04-02)                                            ✗      ✗     ✗
@@ -828,7 +821,6 @@ San Francisco Rush - Extreme Racing (USA) (En,Fr,De)                            
 San Francisco Rush - Extreme Racing (USA) (En,Fr,De) (Rev 1)                                  -      -     -
 San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl)                                          -      -     -
 San Francisco Rush 2049 (USA)                                                                 -      -     -
-Sblobber 64 (World) (Aftermarket) (Unl)                                                       ✗      ✗     ✗
 Scooby-Doo! - Classic Creep Capers (Europe)                                                   -      -     -
 Scooby-Doo! - Classic Creep Capers (USA)                                                      -      -     -
 Scooby-Doo! - Classic Creep Capers (USA) (Rev 1)                                              -      -     -
@@ -885,7 +877,8 @@ Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console)                               
 Star Fox 64 (USA)                                                                             -      -     -
 Star Fox 64 (USA) (LodgeNet)                                                                  ✗      ✗     ✗
 Star Fox 64 (USA) (Rev 1)                                                                     -      -     -
-Star Soldier - Vanishing Earth (Japan)                                                        -      -     -
+Star Soldier - Vanishing Earth (Japan) (En)                                                   ✗      ✗     ✗
+Star Soldier - Vanishing Earth (Japan) (En) (Beta) (1998-03-10)                               ✗      ✗     ✗
 Star Soldier - Vanishing Earth (USA)                                                          -      -     -
 Star Twins (Japan)                                                                            -      -     -
 Star Wars - Rogue Squadron (Europe) (En,Fr,De)                                                -      ✗     -
@@ -895,7 +888,6 @@ Star Wars - Rogue Squadron (USA) (LodgeNet)                                     
 Star Wars - Rogue Squadron (USA) (Rev 1)                                                      -      ✗     -
 Star Wars - Shadows of the Empire (Europe)                                                    -      -     -
 Star Wars - Shadows of the Empire (USA)                                                       -      -     -
-Star Wars - Shadows of the Empire (USA) (Aftermarket) (Unl)                                   -      ✗     ✗
 Star Wars - Shadows of the Empire (USA) (Beta) (1996-10-15)                                   -      -     -
 Star Wars - Shadows of the Empire (USA) (Rev 1)                                               -      -     -
 Star Wars - Shadows of the Empire (USA) (Rev 2)                                               -      -     -
@@ -907,7 +899,6 @@ Star Wars Episode I - Battle for Naboo (USA) (Beta)                             
 Star Wars Episode I - Racer (Europe) (En,Fr,De)                                               -      -     -
 Star Wars Episode I - Racer (Japan)                                                           -      -     -
 Star Wars Episode I - Racer (USA)                                                             -      -     -
-Star Wars Episode I - Racer (USA) (Aftermarket) (Unl)                                         -      ✗     ✗
 StarCraft 64 (Australia)                                                                      -      -     -
 StarCraft 64 (Germany) (Proto)                                                                -      -     -
 StarCraft 64 (USA)                                                                            -      -     -
@@ -915,7 +906,6 @@ StarCraft 64 (USA) (Beta)                                                       
 Starshot - Space Circus Fever (Europe) (En,Fr,De)                                             -      -     -
 Starshot - Space Circus Fever (USA) (En,Fr,Es)                                                -      -     -
 Stunt Racer 64 (USA)                                                                          -      -     -
-Styx (World) (Aftermarket) (Unl)                                                              ✗      ✗     ✗
 Super B-Daman - Battle Phoenix 64 (Japan)                                                     -      -     -
 Super Bowling (Japan)                                                                         -      -     -
 Super Bowling (USA)                                                                           -      -     -
@@ -937,7 +927,6 @@ Superman (Europe) (En,Fr,De,Es,It,Nl)                                           
 Superman (USA) (Beta) (1998-09-06)                                                            -      -     -
 Superman - The New Superman Aventures (USA) (En,Fr,Es)                                        -      -     -
 Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan)                                    -      -     -
-Swoop 64, The (World) (Aftermarket) (Unl)                                                     ✗      ✗     ✗
 Sydney 2000 (Europe) (Proto)                                                                  -      ✗     ✗
 Sydney 2000 (USA) (Proto)                                                                     -      -     -
 TG Rally 2 (Europe)                                                                           -      -     -
@@ -949,7 +938,6 @@ Tarzan (USA)                                                                    
 Taz Express (Europe) (En,Fr,De,Es,It,Nl)                                                      -      -     -
 Taz Express (USA) (Proto) (2000-05-15)                                                        -      -     -
 Telefoot Soccer 2000 (France)                                                                 -      ✗     -
-Telocation - Gemini (World) (v1.2) (Aftermarket) (Unl)                                        ✗      ✗     ✗
 Tetris 64 (Japan) (En)                                                                        -      -     -
 Tetrisphere (Europe)                                                                          -      -     -
 Tetrisphere (USA)                                                                             -      -     -
@@ -962,6 +950,7 @@ Tom Clancy's Rainbow Six (USA)                                                  
 Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl)                                  -      -     -
 Tom and Jerry in Fists of Furry (USA)                                                         -      -     -
 Tommy Thunder (USA) (Proto) (1997-10-01)                                                      -      -     -
+Tonic Trouble (Europe) (Beta)                                                                 ✗      ✗     ✗
 Tonic Trouble (Europe) (En,Fr,De,Es,It)                                                       -      -     -
 Tonic Trouble (USA) (Rev 1)                                                                   -      -     -
 Tony Hawk's Pro Skater (USA)                                                                  -      -     -
@@ -1113,8 +1102,6 @@ WinBack - Covert Operations (USA)                                               
 Wipeout 64 (Europe)                                                                           -      -     -
 Wipeout 64 (Europe) (Beta)                                                                    -      ✗     ✗
 Wipeout 64 (USA)                                                                              -      -     -
-Wizard of the Board (World) (Aftermarket) (Unl)                                               ✗      ✗     ✗
-Wizard of the Board (World) (Europe) (Aftermarket) (Unl)                                      ✗      ✗     ✗
 Wonder Project J2 - Koruro no Mori no Jozet (Japan)                                           -      -     -
 World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)                                               -      -     -
 World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da)                                                  -      -     -

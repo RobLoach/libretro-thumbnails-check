@@ -1,9 +1,9 @@
 The 3DO Company - 3DO Missing
 
-Boxarts    522/997  52.36%
-Snaps      525/997  52.66%
-Titles     522/997  52.36%
-Total    1569/2991  52.46%
+Boxarts   522/1003  52.04%
+Snaps     527/1003  52.54%
+Titles    524/1003  52.24%
+Total    1573/3009  52.28%
 
 Name                                                                                                                      Boxart  Snap  Title
 20th Century Video Almanac (USA)                                                                                             -      -     -
@@ -18,6 +18,7 @@ Name                                                                            
 3DO Multi Game Sampler Number 3, The (Europe)                                                                                ✗      ✗     ✗
 3DO de Shiru Miru Asobu - Nakajima Miyuki (Japan)                                                                            ✗      ✗     ✗
 AI Shougi (Japan)                                                                                                            -      -     -
+Agi Gongnyong Goldie (Korea)                                                                                                 ✗      ✗     ✗
 Alone in the Dark (Europe)                                                                                                   ✗      ✗     ✗
 Alone in the Dark (Europe) (En,Fr)                                                                                           -      -     -
 Alone in the Dark (Europe) (En,Fr) (NTSC Version)                                                                            -      -     -
@@ -616,8 +617,11 @@ Pro Stadium (Sanyo) (Japan)                                                     
 Pro Yakyuu Virtual Stadium - Professional Baseball (Japan)                                                                   -      -     -
 Pro Yakyuu Virtual Stadium - Professional Baseball (Japan) (Demo)                                                            ✗      ✗     ✗
 Psychic Detective (Europe) (Disc 1 of 3)                                                                                     ✗      ✗     ✗
+Psychic Detective (Europe) (Disc 1)                                                                                          ✗      ✗     ✗
 Psychic Detective (Europe) (Disc 2 of 3)                                                                                     ✗      ✗     ✗
+Psychic Detective (Europe) (Disc 2)                                                                                          ✗      ✗     ✗
 Psychic Detective (Europe) (Disc 3 of 3)                                                                                     ✗      ✗     ✗
+Psychic Detective (Europe) (Disc 3)                                                                                          ✗      ✗     ✗
 Psychic Detective (USA) (Disc 1 of 3)                                                                                        ✗      ✗     ✗
 Psychic Detective (USA) (Disc 1)                                                                                             -      -     -
 Psychic Detective (USA) (Disc 2 of 3)                                                                                        ✗      ✗     ✗
@@ -970,6 +974,8 @@ Wing Commander III - Heart of the Tiger (Origin) (USA) (Disc 3 of 4)            
 Wing Commander III - Heart of the Tiger (Origin) (USA) (Disc 4 of 4)                                                         ✗      ✗     ✗
 Wing Commander III - Heart of the Tiger (USA) (Disc 1)                                                                       -      -     -
 Wing Commander III - Heart of the Tiger (USA) (Disc 2)                                                                       -      -     -
+Wing Commander III - Heart of the Tiger (USA) (Disc 3)                                                                       ✗      -     -
+Wing Commander III - Heart of the Tiger (USA) (Disc 4)                                                                       ✗      -     -
 Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 1)                                                               -      -     -
 Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 2)                                                               -      -     -
 Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 3)                                                               -      -     -

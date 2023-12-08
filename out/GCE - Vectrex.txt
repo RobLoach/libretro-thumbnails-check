@@ -1,21 +1,21 @@
 GCE - Vectrex Missing
 
-Boxarts    43/43  100.00%
-Snaps      43/43  100.00%
-Titles     43/43  100.00%
-Total    129/129  100.00%
+Boxarts    37/43  86.05%
+Snaps      37/43  86.05%
+Titles     37/43  86.05%
+Total    111/129  86.05%
 
 Name                                                       Boxart  Snap  Title
 3D Crazy Coaster (USA)                                        -      -     -
 3D Mine Storm (USA)                                           -      -     -
 3D Narrow Escape (USA)                                        -      -     -
 AnimAction - Advanced Animation (USA)                         -      -     -
-Armor..Attack (World)                                         -      -     -
+Armor Attack (World)                                          ✗      ✗     ✗
 Art Master (USA)                                              -      -     -
 Bedlam (USA, Europe)                                          -      -     -
 Berzerk (World)                                               -      -     -
-Blitz! - Action Football (USA, Europe) (0F11CE0C)             -      -     -
-Blitz! - Action Football (USA, Europe) (881B27C5)             -      -     -
+Blitz! - Action Football (USA, Europe)                        ✗      ✗     ✗
+Blitz! - Action Football (USA, Europe) (Alt)                  ✗      ✗     ✗
 Clean Sweep (World)                                           -      -     -
 Cosmic Chasm (World)                                          -      -     -
 Dark Tower (USA) (Proto)                                      -      -     -
@@ -32,8 +32,8 @@ Mr. Boston Clean Sweep (Europe)                               -      -     -
 Pitcher's Duel (USA) (Proto)                                  -      -     -
 Polar Rescue (USA)                                            -      -     -
 Polar Rescue (USA) (Beta)                                     -      -     -
-Pole Position (USA) (A00ED3D6)                                -      -     -
-Pole Position (USA) (C10F37D8)                                -      -     -
+Pole Position (USA)                                           ✗      ✗     ✗
+Pole Position (USA) (Alt)                                     ✗      ✗     ✗
 RA+A Spectrum I+ Stress Tester (USA) (Proto)                  -      -     -
 Rip Off (World)                                               -      -     -
 Scramble (USA, Europe)                                        -      -     -
@@ -41,7 +41,7 @@ Sledge 3D (USA) (Sample)                                      -      -     -
 Solar Quest (World)                                           -      -     -
 Space Wars (World)                                            -      -     -
 Spike (USA, Europe)                                           -      -     -
-Spin ball (USA)                                               -      -     -
+Spinball (USA)                                                ✗      ✗     ✗
 Star Castle (USA)                                             -      -     -
 Star Ship (Europe)                                            -      -     -
 Star Trek - The Motion Picture (USA)                          -      -     -

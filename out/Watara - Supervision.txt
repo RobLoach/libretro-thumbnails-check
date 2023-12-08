@@ -1,9 +1,9 @@
 Watara - Supervision Missing
 
-Boxarts    66/70  94.29%
-Snaps      67/70  95.71%
-Titles     68/70  97.14%
-Total    201/210  95.71%
+Boxarts    63/72  87.50%
+Snaps      64/72  88.89%
+Titles     65/72  90.28%
+Total    192/216  88.89%
 
 Name                                                                             Boxart  Snap  Title
 2 in 1 - Block Buster + Cross High (USA, Europe)                                    -      -     -
@@ -14,15 +14,16 @@ Balloon Fight (USA, Europe)                                                     
 Block Buster (USA, Europe)                                                          -      -     -
 Brain Power (USA, Europe)                                                           -      -     -
 Bubble World (USA, Europe)                                                          -      -     -
-Carrier (USA, Europe)                                                               -      -     -
+Carrier (USA, Europe) (Rev 1)                                                       ✗      ✗     ✗
 Cave Wonders (USA, Europe)                                                          -      -     -
 Challenger Tank (USA, Europe)                                                       -      -     -
 Chimera (USA, Europe)                                                               -      -     -
 Chinese Checkers (USA, Europe)                                                      -      -     -
 Classic Casino (USA, Europe)                                                        -      -     -
 Climber (USA, Europe)                                                               -      -     -
-Cross High (USA, Europe)                                                            -      -     -
+Cross High (USA, Europe) (Rev 1)                                                    ✗      ✗     ✗
 Crystball (USA, Europe)                                                             -      -     -
+Crystball (USA, Europe) (Rev 1)                                                     ✗      ✗     ✗
 Dancing Block (USA, Europe)                                                         -      -     -
 Delta Hero (USA, Europe)                                                            -      -     -
 Dream World (USA, Europe)                                                           -      -     -
@@ -35,7 +36,7 @@ Galaxy Fighter (USA, Europe)                                                    
 Grand Prix (USA, Europe)                                                            -      -     -
 Happy Pairs (USA, Europe)                                                           -      -     -
 Happy Race (USA, Europe)                                                            -      -     -
-Hash Blocks (USA, Europe)                                                           -      -     -
+Hash Blocks (USA, Europe) (Rev 1)                                                   ✗      ✗     ✗
 Hero Hawk (USA, Europe)                                                             -      -     -
 Hero Kid (USA, Europe)                                                              -      -     -
 Honey Bee (USA, Europe)                                                             -      -     -
@@ -64,6 +65,7 @@ SSSnake (USA, Europe)                                                           
 Scaffolder (USA, Europe)                                                            -      -     -
 Soccer Champion (USA, Europe)                                                       -      -     -
 Sonny X'Press (USA, Europe)                                                         -      -     -
+Sonny X'Press (USA, Europe) (Beta)                                                  ✗      ✗     ✗
 Space Fighter (USA, Europe)                                                         -      -     -
 Super Block (USA, Europe)                                                           -      -     -
 Super Kong (USA, Europe)                                                            -      -     -

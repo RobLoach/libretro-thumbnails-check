@@ -1,9 +1,9 @@
 Atari - 5200 Missing
 
-Boxarts  107/111   96.40%
-Snaps    111/111  100.00%
-Titles   107/111   96.40%
-Total    325/333   97.60%
+Boxarts  107/119  89.92%
+Snaps    111/119  93.28%
+Titles   107/119  89.92%
+Total    325/357  91.04%
 
 Name                                                      Boxart  Snap  Title
 5200 Menu (USA) (Proto)                                      -      -     -
@@ -29,6 +29,7 @@ Blue Print (USA)                                             -      -     -
 Boogie (USA) (Demo)                                          -      -     -
 Bounty Bob Strikes Back! (USA)                               -      -     -
 Buck Rogers - Planet of Zoom (USA)                           -      -     -
+Buck Rogers - Planet of Zoom (USA) (Alt)                     ✗      ✗     ✗
 Carol Shaw's River Raid (USA)                                -      -     -
 Castle Blast (USA) (Unl)                                     -      -     -
 Castle Crisis (USA) (Unl)                                    -      -     -
@@ -45,9 +46,11 @@ Frisky Tom (USA) (Proto)                                     -      -     -
 Frogger (USA)                                                -      -     -
 Frogger II - Threeedeep! (USA)                               -      -     -
 Galaxian (USA)                                               -      -     -
+Galaxian (USA) (Alt)                                         ✗      ✗     ✗
 Gorf (USA)                                                   -      -     -
 Gremlins (USA)                                               -      -     -
 Gyruss (USA)                                                 -      -     -
+Gyruss (USA) (Alt)                                           ✗      ✗     ✗
 H.E.R.O. (USA)                                               -      -     -
 James Bond 007 (USA)                                         -      -     -
 Joust (USA)                                                  -      -     -
@@ -61,6 +64,7 @@ Koffi - Yellow Kopter (USA) (Unl)                            -      -     -
 Last Starfighter, The (USA) (Proto)                          -      -     -
 Looney Tunes Hotel (USA) (Proto)                             -      -     -
 Mario Bros. (USA)                                            -      -     -
+Mario Bros. (USA) (Alt)                                      ✗      ✗     ✗
 Meebzork (USA) (Proto)                                       -      -     -
 MegaMania (USA)                                              -      -     -
 Meteorites (USA)                                             -      -     -
@@ -99,7 +103,9 @@ Space Shuttle - A Journey Into Space (USA)                   -      -     -
 Spitfire (USA) (Proto)                                       -      -     -
 Sport Goofy (USA) (Proto)                                    -      -     -
 Star Raiders (USA)                                           -      -     -
+Star Raiders (USA) (Alternate)                               ✗      ✗     ✗
 Star Trek - Strategic Operations Simulator (USA)             -      -     -
+Star Trek - Strategic Operations Simulator (USA) (Alt)       ✗      ✗     ✗
 Star Wars - Return of the Jedi - Death Star Battle (USA)     -      -     -
 Star Wars - The Arcade Game (USA)                            -      -     -
 Stargate (USA) (Proto)                                       -      -     -
@@ -107,10 +113,12 @@ Super Breakout (USA)                                         -      -     -
 Super Cobra (USA)                                            -      -     -
 Super Pac-Man (USA) (Proto)                                  -      -     -
 Super Pacman (USA) (Proto) (Alt)                             -      -     -
+Tempest (USA) (AtariAge)                                     ✗      ✗     ✗
 Tempest (USA) (Proto)                                        -      -     -
 Track and Field (USA) (Proto)                                -      -     -
 Vanguard (USA)                                               -      -     -
 Wizard of Wor (USA)                                          -      -     -
+Xari Arena (USA) (Proto 2)                                   ✗      ✗     ✗
 Xari Arena (USA) (Proto)                                     -      -     -
 Xevious (USA) (Proto)                                        -      -     -
 Yellow Submarine (USA) (Demo)                                -      -     -

@@ -1,9 +1,9 @@
 Sharp - X68000 Missing
 
 Boxarts  1797/3271  54.94%
-Snaps      13/3271   0.40%
+Snaps     152/3271   4.65%
 Titles      1/3271   0.03%
-Total    1811/9813  18.46%
+Total    1950/9813  19.87%
 
 Name                                                                                               Boxart  Snap  Title
 15 Puzzle (Sygnas)                                                                                    ✗      ✗     ✗
@@ -69,7 +69,7 @@ Abunai Tengu Densetsu (Alice Soft) (Japan) (Disk A)                             
 Abunai Tengu Densetsu (Alice Soft) (Japan) (Disk B)                                                   ✗      ✗     ✗
 Abunai Tengu Densetsu (Alice Soft) (Japan) (Disk C)                                                   ✗      ✗     ✗
 Access Heat (Fox Factory)                                                                             ✗      ✗     ✗
-Active Shoot (Satou Kouji)                                                                            ✗      ✗     ✗
+Active Shoot (Satou Kouji)                                                                            ✗      -     ✗
 Advanced Ruumik Quiz (Master Piece)                                                                   ✗      ✗     ✗
 Advanced Ruumik Quiz 2 (199x) (Master Piece)                                                          ✗      ✗     ✗
 Adventure Land (Keima - Jn1fez)                                                                       ✗      ✗     ✗
@@ -84,7 +84,7 @@ Air Combat II Yuugekiou II (System Soft) (Disk 1 of 2) (System)                 
 Air Combat II Yuugekiou II (System Soft) (Disk 1 of 2) (System) (Alt 1)                               -      ✗     ✗
 Air Combat II Yuugekiou II (System Soft) (Disk 2 of 2) (User)                                         -      ✗     ✗
 Air Combat II Yuugekiou II (System Soft) (Disk 2 of 2) (User) (Alt 1)                                 -      ✗     ✗
-Air Hork (PCCM)                                                                                       ✗      ✗     ✗
+Air Hork (PCCM)                                                                                       ✗      -     ✗
 Air Management (19xx) (Koei) (Disk 1 of 2) (Disk A)                                                   -      ✗     ✗
 Air Management (19xx) (Koei) (Disk 2 of 2) (Disk B)                                                   -      ✗     ✗
 Akazukin Cha Cha Cha v1.04 (Sprite)                                                                   ✗      ✗     ✗
@@ -102,7 +102,7 @@ Akumajou Dracula (Konami) (Disk 2 of 2)                                         
 Akumajou Dracula (Konami) (Disk 2 of 2) (Alt 1)                                                       -      ✗     ✗
 Akumajou Dracula (Konami) (Disk 2 of 2) (Alt 2)                                                       -      ✗     ✗
 Akumajou Dracula (Konami) (Disk 2 of 2) (Alt 3)                                                       -      ✗     ✗
-Alfarne (Shilpheed Software)                                                                          ✗      ✗     ✗
+Alfarne (Shilpheed Software)                                                                          ✗      -     ✗
 Alfarne (Shilpheed Software) (Alt 1)                                                                  ✗      ✗     ✗
 Algarna (MNM Software) (Disk 1 of 2) (System Disk)                                                    ✗      ✗     ✗
 Algarna (MNM Software) (Disk 2 of 2) (Data Disk)                                                      ✗      ✗     ✗
@@ -117,7 +117,7 @@ Alice No Yakata II (Alice Soft) (Disk 3 of 4) (Disk C)                          
 Alice No Yakata II (Alice Soft) (Disk 3 of 4) (Disk C) (Alt 1)                                        -      ✗     ✗
 Alice No Yakata II (Alice Soft) (Disk 4 of 4) (Disk D)                                                -      ✗     ✗
 Alice No Yakata II (Alice Soft) (Disk 4 of 4) (Disk D) (Alt 1)                                        -      ✗     ✗
-Alien Syndrome (Dempa)                                                                                ✗      ✗     ✗
+Alien Syndrome (Dempa)                                                                                ✗      -     ✗
 Alien Syndrome (Dempa) (Alt 1)                                                                        ✗      ✗     ✗
 Alien Syndrome (Dempa) (Alt 2)                                                                        ✗      ✗     ✗
 Alien Syndrome (Dempa) (Alt 3)                                                                        ✗      ✗     ✗
@@ -139,7 +139,7 @@ Ambivalenz (Alice Soft) (Disk 7 of 7)                                           
 Ame Game 0.90 (19xx) (Shin - Kisshin)                                                                 ✗      ✗     ✗
 American Heroes BF 92 Extra Version (LTT - Kuma)                                                      ✗      ✗     ✗
 Andromeda Seiun (19xx) (Reki)                                                                         ✗      ✗     ✗
-Angel Dive (Yamada Kikaku)                                                                            ✗      ✗     ✗
+Angel Dive (Yamada Kikaku)                                                                            ✗      -     ✗
 Ani Mahjongg (demo) (Sogna)                                                                           -      ✗     ✗
 Ani Mahjongg (demo) (Sogna)[tsuika file]                                                              -      ✗     ✗
 Anmira Daihinmin (19xx) (Nippousha)                                                                   ✗      ✗     ✗
@@ -173,12 +173,12 @@ Arcus Pro 68k (Disk 4 of 5)                                                     
 Arcus Pro 68k (Disk 4 of 5) (Alt 1)                                                                   -      ✗     ✗
 Arcus Pro 68k (Disk 5 of 5)                                                                           -      ✗     ✗
 Arcus Pro 68k (Disk 5 of 5) (Alt 1)                                                                   -      ✗     ✗
-Are You Happy Shiawase (68 Bank)                                                                      ✗      ✗     ✗
+Are You Happy Shiawase (68 Bank)                                                                      ✗      -     ✗
 Argos No Senshi (Dempa)                                                                               ✗      ✗     ✗
 Argos No Senshi (Dempa) (Alt 1)                                                                       ✗      ✗     ✗
 Argos No Senshi (Dempa) (Alt 2)                                                                       ✗      ✗     ✗
 Arianshuu (19xx) (Haiteidoradorazu)                                                                   ✗      ✗     ✗
-Arkanoid Revenge of Doh (Sharp - SPS)                                                                 ✗      ✗     ✗
+Arkanoid Revenge of Doh (Sharp - SPS)                                                                 ✗      -     ✗
 Arkanoid Revenge of Doh (Sharp - SPS) (Alt 1)                                                         ✗      ✗     ✗
 Arkanoid Revenge of Doh (Sharp - SPS) (Alt 2)                                                         ✗      ✗     ✗
 Armored Trooper Votoms Dead Ash (Family Soft) (Disk 1 of 2) (Disk A)                                  ✗      ✗     ✗
@@ -195,7 +195,7 @@ Asuka 120 Percent Burning Fest (Family Soft) (Disk 1 of 2)                      
 Asuka 120 Percent Burning Fest (Family Soft) (Disk 2 of 2)                                            -      ✗     ✗
 Atomic Robo-Kid (System Sacom) (Disk 1 of 2) (Disk A)                                                 -      ✗     ✗
 Atomic Robo-Kid (System Sacom) (Disk 2 of 2) (Disk B)                                                 -      ✗     ✗
-Atomic Runner Chelnov (Dempa)                                                                         ✗      ✗     ✗
+Atomic Runner Chelnov (Dempa)                                                                         ✗      -     ✗
 Atomic Runner Chelnov (Dempa) (Alt 1)                                                                 ✗      ✗     ✗
 Atomic Runner Chelnov (Dempa) (Alt 2)                                                                 ✗      ✗     ✗
 Atomic Runner Chelnov (Dempa) (Alt 3)                                                                 ✗      ✗     ✗
@@ -207,7 +207,7 @@ Baba Fighter II (199x) (Tsururinkun) (Disk 1 of 3) (Disk A)                     
 Baba Fighter II (199x) (Tsururinkun) (Disk 2 of 3) (Disk B)                                           ✗      ✗     ✗
 Baba Fighter II (199x) (Tsururinkun) (Disk 3 of 3) (Disk C)                                           ✗      ✗     ✗
 Babel (Gamma AWC)                                                                                     ✗      ✗     ✗
-Babel No Tou (Gamma AWC)                                                                              ✗      ✗     ✗
+Babel No Tou (Gamma AWC)                                                                              ✗      -     ✗
 Bad Road (19xx) (-)                                                                                   ✗      ✗     ✗
 Bakamedesu (Surpasser Gin)                                                                            ✗      ✗     ✗
 Bakudan Yuugi (X-Soft)                                                                                ✗      ✗     ✗
@@ -216,16 +216,16 @@ Bakuretsu Aniki (Catsoft)                                                       
 Bakuretsu Aniki (Catsoft) (Alt 1)                                                                     ✗      ✗     ✗
 Balloon Fight (19xx) (-)[p]                                                                           ✗      ✗     ✗
 Balloon Fight (19xx) (-)[p](Alt 1)                                                                    ✗      ✗     ✗
-Baraduke (Dempa)                                                                                      ✗      ✗     ✗
+Baraduke (Dempa)                                                                                      ✗      -     ✗
 Baraduke (Dempa) (Alt 1)                                                                              ✗      ✗     ✗
 Barcelona Fighter 92 Bangaihen Sekaiichi Ha Ore Da (LTT - Kuma)                                       ✗      ✗     ✗
 Barcelona Fighter 92 v2.00 (LTT - Kuma)                                                               ✗      ✗     ✗
 Barcelona Fighter 92 v2.00 (LTT - Kuma) (Alt 1)                                                       ✗      ✗     ✗
-Bari Bari Attack 3 Erice (Studio KBO)                                                                 ✗      ✗     ✗
+Bari Bari Attack 3 Erice (Studio KBO)                                                                 ✗      -     ✗
 Baruusa No Fukushuu (Zain Soft) (Disk 1 of 3) (Disk A)                                                -      ✗     ✗
 Baruusa No Fukushuu (Zain Soft) (Disk 2 of 3) (Disk B)                                                -      ✗     ✗
 Baruusa No Fukushuu (Zain Soft) (Disk 3 of 3) (Opening)                                               -      ✗     ✗
-Baseball Knuckles '94, The (DCS)                                                                      ✗      ✗     ✗
+Baseball Knuckles '94, The (DCS)                                                                      ✗      -     ✗
 Battle Chess (Pack-In-Video) (Disk 1 of 2) (Disk A)                                                   -      ✗     ✗
 Battle Chess (Pack-In-Video) (Disk 2 of 2) (Disk B)                                                   -      ✗     ✗
 Battle City (19xx) (-)[p]                                                                             ✗      ✗     ✗
@@ -233,7 +233,7 @@ Battle City (19xx) (-)[p](Alt 1)                                                
 Battle Game (Imai Takashi)                                                                            ✗      ✗     ✗
 Battle Mania' (Biwahosi Software)                                                                     ✗      ✗     ✗
 Battle Unit (199x) (Pan-Q)                                                                            ✗      ✗     ✗
-Battle Unit II (Takumi Soft)                                                                          ✗      ✗     ✗
+Battle Unit II (Takumi Soft)                                                                          ✗      -     ✗
 Battletech (Crossmedia) (Disk 1 of 3) (Disk A)                                                        -      ✗     ✗
 Battletech (Crossmedia) (Disk 2 of 3) (Disk B)                                                        -      ✗     ✗
 Battletech (Crossmedia) (Disk 3 of 3) (Opening)                                                       -      ✗     ✗
@@ -252,10 +252,10 @@ Birdy World (Birdy Soft) (Disk 3 of 3) (Disk C) (Alt 1)                         
 Bishoujo Noriko (19xx) (System House Oh!)                                                             -      ✗     ✗
 Bishoujo Senshi Lady Fighter v0.00 (Sprite)                                                           ✗      ✗     ✗
 Bishoujo Senshi Lady Fighter v0.00 (Sprite) (Alt 1)                                                   ✗      ✗     ✗
-Bishoujo Senshi Lady Fighter v1.00 (Sprite)                                                           ✗      ✗     ✗
+Bishoujo Senshi Lady Fighter v1.00 (Sprite)                                                           ✗      -     ✗
 Bishoujo Senshi Lady Fighter v1.00 (Sprite) (Alt 1)                                                   ✗      ✗     ✗
 Bishoujo Senshi Moon Fighter v2.10 (Sprite)                                                           ✗      ✗     ✗
-Bishoujo Senshi Moon Fighter v2.11 (Sprite)                                                           ✗      ✗     ✗
+Bishoujo Senshi Moon Fighter v2.11 (Sprite)                                                           ✗      -     ✗
 Bishoujo Senshi Moon Fighter v2.11 (Sprite) (Alt 1)                                                   ✗      ✗     ✗
 Bishoujo Senshi Sailor V (199x) (DK Software)[3 player version]                                       ✗      ✗     ✗
 Bishoujo Senshi Sailor V (199x) (DK Software)[5 player version]                                       ✗      ✗     ✗
@@ -283,7 +283,7 @@ Biyoyon Car Game (199x) (Eins-Soft)                                             
 Black Jack 68K II Animation Version (19xx) (KZO)                                                      ✗      ✗     ✗
 Black Jack 68K II Animation Version (19xx) (KZO) (Alt 1)                                              ✗      ✗     ✗
 Blanka In Shura No Kuni (Haiteidoradorazu)                                                            ✗      ✗     ✗
-Bleed Out Sakuretsu (Gold Cats Project)                                                               ✗      ✗     ✗
+Bleed Out Sakuretsu (Gold Cats Project)                                                               ✗      -     ✗
 Blind Spot (Dolphin Game Studio)                                                                      ✗      ✗     ✗
 Blitzkrieg Toubu Sensen 1941-45 (199x) (System Soft) (Disk 1 of 2)                                    ✗      ✗     ✗
 Blitzkrieg Toubu Sensen 1941-45 (199x) (System Soft) (Disk 2 of 2)                                    ✗      ✗     ✗
@@ -291,15 +291,15 @@ Block Stocker v2.00 (X-Soft)                                                    
 Blockout Modoki (19xx) (Bee)                                                                          ✗      ✗     ✗
 Blodia (19xx) (Broderbund) (Disk 1 of 2) (Disk A)                                                     -      ✗     ✗
 Blodia (19xx) (Broderbund) (Disk 2 of 2) (Disk B)                                                     -      ✗     ✗
-Blue Waver Special (Simokouchi M.)                                                                    ✗      ✗     ✗
+Blue Waver Special (Simokouchi M.)                                                                    ✗      -     ✗
 Blue Wings 2 Blue Knights (OS Software) (Disk 1 of 2) (Disk A)                                        ✗      ✗     ✗
 Blue Wings 2 Blue Knights (OS Software) (Disk 2 of 2) (Disk B)                                        ✗      ✗     ✗
 Bodhidharma Mark 2 v0.01 (Take Soft)                                                                  ✗      ✗     ✗
 Bodhidharma v0.30 (Take Soft)                                                                         ✗      ✗     ✗
-Bodhidharma v1.01 Hehebereke (Take Soft)                                                              ✗      ✗     ✗
+Bodhidharma v1.01 Hehebereke (Take Soft)                                                              ✗      -     ✗
 Bomber Man (19xx) (-)[p]                                                                              ✗      ✗     ✗
 Bomber Man (19xx) (-)[p](Alt 1)                                                                       ✗      ✗     ✗
-Bomber Man (System Soft)                                                                              -      ✗     ✗
+Bomber Man (System Soft)                                                                              -      -     ✗
 Bomber Man (System Soft) (Alt 1)                                                                      -      ✗     ✗
 Bomber Man (System Soft) (Alt 2)                                                                      -      ✗     ✗
 Bonanza Bros (Sharp - SPS) (Disk 1 of 2) (Disk A)                                                     -      ✗     ✗
@@ -320,12 +320,12 @@ Bonnou Yobikou 2 (Software House Parsley) (Disk 2 of 2) (Disk B)                
 Bonnou Yobikou 2 (Software House Parsley) (Disk 2 of 2) (Disk B) (Alt 1)                              -      ✗     ✗
 Bonnou Yobikou 3 (199x) (Software House Parsley) (Disk 1 of 2) (Disk A)                               -      ✗     ✗
 Bonnou Yobikou 3 (199x) (Software House Parsley) (Disk 2 of 2) (Disk B)                               -      ✗     ✗
-Bosconian (Dempa)                                                                                     ✗      ✗     ✗
+Bosconian (Dempa)                                                                                     ✗      -     ✗
 Bosconian (Dempa) (Alt 1)                                                                             ✗      ✗     ✗
 Bosconian (Dempa) (Alt 2)                                                                             ✗      ✗     ✗
 Bosconian (Dempa) (Alt 3)                                                                             ✗      ✗     ✗
 Bottoro 2 (19xx) (-)                                                                                  ✗      ✗     ✗
-Boyon Boyon (-)                                                                                       ✗      ✗     ✗
+Boyon Boyon (-)                                                                                       ✗      -     ✗
 Boyoyon v3.31 (Noz)                                                                                   ✗      ✗     ✗
 Branmarker (DO) (Disk 1 of 8) (Disk A)                                                                -      ✗     ✗
 Branmarker (DO) (Disk 1 of 8) (Disk A) (Alt 1)                                                        -      ✗     ✗
@@ -350,12 +350,12 @@ Bretonne Lais Scenario Shuu 1 Kaname (19xx) (System Soft) (Disk 1 of 2)         
 Bretonne Lais Scenario Shuu 1 Kaname (19xx) (System Soft) (Disk 2 of 2)                               -      ✗     ✗
 Bretonne Lais Scenario Shuu 2 Kaname (19xx) (System Soft) (Disk 1 of 2)                               -      ✗     ✗
 Bretonne Lais Scenario Shuu 2 Kaname (19xx) (System Soft) (Disk 2 of 2)                               -      ✗     ✗
-Bubble Bobble (Dempa)                                                                                 ✗      ✗     ✗
+Bubble Bobble (Dempa)                                                                                 ✗      -     ✗
 Bubble Bobble (Dempa) (Alt 1)                                                                         ✗      ✗     ✗
 Bubble Bobble (Dempa) (Alt 2)                                                                         ✗      ✗     ✗
 Bubble Bobble (Dempa)[h]                                                                              ✗      ✗     ✗
 Butarian (68 Bank)                                                                                    ✗      ✗     ✗
-Butasan (Dempa)                                                                                       ✗      ✗     ✗
+Butasan (Dempa)                                                                                       ✗      -     ✗
 Butasan (Dempa) (Alt 1)                                                                               ✗      ✗     ✗
 Butasan (Dempa) (Alt 2)                                                                               ✗      ✗     ✗
 Butasan Quest (Tehehe-Net)                                                                            ✗      ✗     ✗
@@ -381,7 +381,7 @@ Cal Eien No Bishoujotachi (19xx) (Birdy Soft) (Disk 1 of 2) (Disk A) (Alt 4)    
 Cal Eien No Bishoujotachi (19xx) (Birdy Soft) (Disk 1 of 2) (Disk A) (Alt 5)                          ✗      ✗     ✗
 Cal Eien No Bishoujotachi (19xx) (Birdy Soft) (Disk 1 of 2) (Disk A) (Alt 6)                          ✗      ✗     ✗
 Cal Eien No Bishoujotachi (19xx) (Birdy Soft) (Disk 2 of 2) (Disk B)                                  ✗      ✗     ✗
-Cameltry (Denpa)                                                                                      ✗      ✗     ✗
+Cameltry (Denpa)                                                                                      ✗      -     ✗
 Cameltry (Denpa) (Alt 1)                                                                              ✗      ✗     ✗
 Can Can Bunny (Cocktail Soft) (Disk 1 of 2) (Disk A)                                                  -      ✗     ✗
 Can Can Bunny (Cocktail Soft) (Disk 1 of 2) (Disk A) (Alt 1)                                          -      ✗     ✗
@@ -419,12 +419,12 @@ Cat's Part-1 (Cat's Pro) (Disk 1 of 3) (Disk A)                                 
 Cat's Part-1 (Cat's Pro) (Disk 2 of 3) (Disk B)                                                       -      ✗     ✗
 Cat's Part-1 (Cat's Pro) (Disk 3 of 3) (Disk C)                                                       -      ✗     ✗
 Caterpi (19xx) (-)                                                                                    ✗      ✗     ✗
-Cave Crowds (Brings Onion Software)                                                                   ✗      ✗     ✗
+Cave Crowds (Brings Onion Software)                                                                   ✗      -     ✗
 Cave Crowds (Brings Onion Software) (Alt 1)                                                           ✗      ✗     ✗
 Cave Crowds (Brings Onion Software)[comiket version]                                                  ✗      ✗     ✗
 Cave Crowds (Brings Onion Software)[h]                                                                ✗      ✗     ✗
 Celcion 68000 (SPC Soft)                                                                              ✗      ✗     ✗
-Celia (B-Cat Software)                                                                                ✗      ✗     ✗
+Celia (B-Cat Software)                                                                                ✗      -     ✗
 Celia (demo) (B-Cat Software)                                                                         ✗      ✗     ✗
 Chacha Fighter V v1.00 (TMK) (Disk 1 of 2)                                                            ✗      ✗     ✗
 Chacha Fighter V v1.00 (TMK) (Disk 1 of 2) (Alt 1)                                                    ✗      ✗     ✗
@@ -455,11 +455,11 @@ Chou Bakudan Otoko Densetsu (Ferrow)                                            
 Choujin (Fix) (Disk 1 of 2) (System)                                                                  ✗      ✗     ✗
 Choujin (Fix) (Disk 2 of 2) (Data)                                                                    ✗      ✗     ✗
 Choujin (demo) (Fix)                                                                                  ✗      ✗     ✗
-Chourensha 68K v0.10 (Famibe No Yosshin)                                                              ✗      ✗     ✗
-Chourensha 68K v0.35 (Famibe No Yosshin)                                                              ✗      ✗     ✗
-Chourensha 68K v0.45 (Famibe No Yosshin)                                                              ✗      ✗     ✗
-Chourensha 68K v1.01 (Famibe No Yosshin)                                                              ✗      ✗     ✗
-Chuka Taisen (Sharp - SPS)                                                                            -      ✗     ✗
+Chourensha 68K v0.10 (Famibe No Yosshin)                                                              ✗      -     ✗
+Chourensha 68K v0.35 (Famibe No Yosshin)                                                              ✗      -     ✗
+Chourensha 68K v0.45 (Famibe No Yosshin)                                                              ✗      -     ✗
+Chourensha 68K v1.01 (Famibe No Yosshin)                                                              ✗      -     ✗
+Chuka Taisen (Sharp - SPS)                                                                            -      -     ✗
 Chuka Taisen (Sharp - SPS) (Alt 1)                                                                    -      ✗     ✗
 Cinderella Perudue (Studio Angel)                                                                     -      ✗     ✗
 Circus Circus (19xx) (IT)                                                                             ✗      ✗     ✗
@@ -501,7 +501,7 @@ Cosmic Psyco (Cocktail Soft) (Disk 1 of 4) (Disk A) (Alt 1)                     
 Cosmic Psyco (Cocktail Soft) (Disk 2 of 4) (Disk B)                                                   -      ✗     ✗
 Cosmic Psyco (Cocktail Soft) (Disk 3 of 4) (Disk C)                                                   -      ✗     ✗
 Cosmic Psyco (Cocktail Soft) (Disk 4 of 4) (Disk D)                                                   -      ✗     ✗
-Cosmo Gang The Puzzle (Kukan)                                                                         ✗      ✗     ✗
+Cosmo Gang The Puzzle (Kukan)                                                                         ✗      -     ✗
 Cosmo Gang The Puzzle (Kukan) (Alt 1)                                                                 ✗      ✗     ✗
 Cosmo Gang The Puzzle Modoki (19xx) (Kukan)                                                           ✗      ✗     ✗
 Cotton Fantastic Night Dreams (Disk 1 of 2)                                                           -      ✗     ✗
@@ -525,14 +525,14 @@ Crescent (199x) (Silky's) (Disk 4 of 4) (Disk D)                                
 Crescent Moon Girl (Alice Soft) (Disk 1 of 3) (Disk A)                                                -      ✗     ✗
 Crescent Moon Girl (Alice Soft) (Disk 2 of 3) (Disk B)                                                -      ✗     ✗
 Crescent Moon Girl (Alice Soft) (Disk 3 of 3) (Disk C)                                                -      ✗     ✗
-Cross Fire EX (OS Software)                                                                           ✗      ✗     ✗
-Crystal Tower (Master Piece)                                                                          ✗      ✗     ✗
+Cross Fire EX (OS Software)                                                                           ✗      -     ✗
+Crystal Tower (Master Piece)                                                                          ✗      -     ✗
 Cuarto (ASCII) (Disk 1 of 2) (Disk A)                                                                 ✗      ✗     ✗
 Cuarto (ASCII) (Disk 2 of 2) (Disk B)                                                                 ✗      ✗     ✗
-Cube Gradius 3 Cube Simulation (Fukuiinchou)                                                          ✗      ✗     ✗
+Cube Gradius 3 Cube Simulation (Fukuiinchou)                                                          ✗      -     ✗
 Cube Runner (SPS)                                                                                     -      ✗     ✗
-Cyber Core (SPS)                                                                                      -      ✗     ✗
-Cyber Field (Saijou Satoshi)                                                                          ✗      ✗     ✗
+Cyber Core (SPS)                                                                                      -      -     ✗
+Cyber Field (Saijou Satoshi)                                                                          ✗      -     ✗
 Cyber RPG Pemo Pemo Pro-68K (Kashiya)                                                                 ✗      ✗     ✗
 Cyberblock Metal Orange EX (Custom) (Disk 1 of 2) (Disk A)                                            -      ✗     ✗
 Cyberblock Metal Orange EX (Custom) (Disk 1 of 2) (Disk A) (Alt 1)                                    -      ✗     ✗
@@ -596,11 +596,11 @@ Dalk (Alice Soft) (Disk 5 of 6) (Disk E)                                        
 Dalk (Alice Soft) (Disk 6 of 6) (Disk F)                                                              -      ✗     ✗
 Damage Fight II+ (Kazz)                                                                               ✗      ✗     ✗
 Dancing Express (Moai)                                                                                ✗      ✗     ✗
-Danger Area (Art Spec)                                                                                ✗      ✗     ✗
-Dariball (Empty)                                                                                      ✗      ✗     ✗
+Danger Area (Art Spec)                                                                                ✗      -     ✗
+Dariball (Empty)                                                                                      ✗      -     ✗
 Darius (19xx) (Hasamichi)                                                                             ✗      ✗     ✗
 Darius (19xx) (Hasamichi) (Alt 1)                                                                     ✗      ✗     ✗
-Darius Dokomade Tatakaemasuka (-)                                                                     ✗      ✗     ✗
+Darius Dokomade Tatakaemasuka (-)                                                                     ✗      -     ✗
 Darius Dokomade Tatakaemasuka (-) (Alt 1)                                                             ✗      ✗     ✗
 Darius Dokomade Tatakaemasuka (-) (Alt 2)                                                             ✗      ✗     ✗
 Darius Dokomade Tatakaemasuka (-) (Alt 3)                                                             ✗      ✗     ✗
@@ -652,9 +652,9 @@ Death Bringer (Telnet) (Disk 2 of 3) (Disk B) (Alt 1)                           
 Death Bringer (Telnet) (Disk 3 of 3) (Disk C)                                                         -      ✗     ✗
 Death Fighter v2 (Battle Arts)                                                                        ✗      ✗     ✗
 Deep Scan (19xx) (Kin-chan)                                                                           ✗      ✗     ✗
-Deep Scan (Tiny-Tomo)                                                                                 ✗      ✗     ✗
+Deep Scan (Tiny-Tomo)                                                                                 ✗      -     ✗
 Deep, The (Blast Off Dennou)                                                                          ✗      ✗     ✗
-Deflektor (BPS)                                                                                       -      ✗     ✗
+Deflektor (BPS)                                                                                       -      -     ✗
 Deg-On (Pineapple)                                                                                    ✗      ✗     ✗
 Delta Arm (Login) (Disk 1 of 3) (Disk A)                                                              ✗      ✗     ✗
 Delta Arm (Login) (Disk 2 of 3) (Disk B)                                                              ✗      ✗     ✗
@@ -674,7 +674,7 @@ Dennou Gakuen (19xx) (-) (Disk 2 of 3) (Disk B)                                 
 Dennou Gakuen (19xx) (-) (Disk 3 of 3) (Disk C)                                                       ✗      ✗     ✗
 Desperado v0.11 (199x) (Kabosu)                                                                       ✗      ✗     ✗
 Desperado v0.11 (199x) (Kabosu) (Alt 1)                                                               ✗      ✗     ✗
-Desperado v0.29d (Kabosu)                                                                             ✗      ✗     ✗
+Desperado v0.29d (Kabosu)                                                                             ✗      -     ✗
 Detana! Twin Bee (Konami) (Disk 1 of 2) (Disk A)                                                      -      ✗     ✗
 Detana! Twin Bee (Konami) (Disk 1 of 2) (Disk A) (Alt 1)                                              -      ✗     ✗
 Detana! Twin Bee (Konami) (Disk 1 of 2) (Disk A) (Alt 2)                                              -      ✗     ✗
@@ -688,7 +688,7 @@ Detana!! TwinBee (1991-12-06) (Konami) (Japan) (Disk 2 of 2)                    
 Detana!! TwinBee (Japan) (5.25 inch)                                                                  ✗      ✗     ✗
 Devil Chain (G-Limited)                                                                               ✗      ✗     ✗
 Diamond Explorer (19xx) (Michael Company)                                                             ✗      ✗     ✗
-Diamond Explorer II (Michael Company)                                                                 ✗      ✗     ✗
+Diamond Explorer II (Michael Company)                                                                 ✗      -     ✗
 Die Bahnwelt (Glodia) (Disk 1 of 6) (System)                                                          -      ✗     ✗
 Die Bahnwelt (Glodia) (Disk 1 of 6) (System) (Alt 1)                                                  -      ✗     ✗
 Die Bahnwelt (Glodia) (Disk 2 of 6) (Data A)                                                          -      ✗     ✗
@@ -766,10 +766,10 @@ Dor Special Edition Sakigake (199x) (DO) (Disk 4 of 6) (Disk 3)                 
 Dor Special Edition Sakigake (199x) (DO) (Disk 5 of 6) (Disk 4)                                       -      ✗     ✗
 Dor Special Edition Sakigake (199x) (DO) (Disk 6 of 6) (Disk 5)                                       -      ✗     ✗
 Dori Dor Qizu (Daikokuya Dennou)                                                                      ✗      ✗     ✗
-Dorix (YoKoMuMu)                                                                                      ✗      ✗     ✗
+Dorix (YoKoMuMu)                                                                                      ✗      -     ✗
 Double Eagle (Artdink) (Disk 1 of 2) (Disk A)                                                         -      ✗     ✗
 Double Eagle (Artdink) (Disk 2 of 2) (Disk B)                                                         -      ✗     ✗
-Double Target (Proceed)                                                                               ✗      ✗     ✗
+Double Target (Proceed)                                                                               ✗      -     ✗
 Douke Shisatsujin Jiken (19xx) (Thinking Rabbit) (Disk 1 of 2) (Disk 0)                               -      ✗     ✗
 Douke Shisatsujin Jiken (19xx) (Thinking Rabbit) (Disk 2 of 2) (Disk 1)                               -      ✗     ✗
 Doukyuusei (Elf) (Disk 1 of 9) (Disk A)                                                               -      ✗     ✗
@@ -798,7 +798,7 @@ Dracula Hakushaku (Fairy Tale) (Disk 2 of 4)                                    
 Dracula Hakushaku (Fairy Tale) (Disk 3 of 4)                                                          -      ✗     ✗
 Dracula Hakushaku (Fairy Tale) (Disk 4 of 4)                                                          -      ✗     ✗
 Dragon (Log)                                                                                          -      ✗     ✗
-Dragon Buster (Dempa)                                                                                 ✗      ✗     ✗
+Dragon Buster (Dempa)                                                                                 ✗      -     ✗
 Dragon Buster (Dempa) (Alt 1)                                                                         ✗      ✗     ✗
 Dragon Buster (Dempa) (Alt 2)                                                                         ✗      ✗     ✗
 Dragon City (19xx) (Fairytale) (Disk 1 of 3) (Disk A)                                                 -      ✗     ✗
@@ -870,7 +870,7 @@ Drakkhen (Epic) (Disk 2 of 2) (Data)                                            
 Drakkhen (Epic) (Disk 2 of 2) (Data) (Alt 1)                                                          -      ✗     ✗
 Drinky _ Smokey (Dream Staff)                                                                         ✗      ✗     ✗
 Drinky _ Smokey (demo) (Dream Staff)                                                                  ✗      ✗     ✗
-Duel Fighter (Take Soft)                                                                              ✗      ✗     ✗
+Duel Fighter (Take Soft)                                                                              ✗      -     ✗
 Duel Fighter 2 (Mugen Unagi Team) (Disk 1 of 4)[Req Install]                                          ✗      ✗     ✗
 Duel Fighter 2 (Mugen Unagi Team) (Disk 2 of 4)[Req Install]                                          ✗      ✗     ✗
 Duel Fighter 2 (Mugen Unagi Team) (Disk 3 of 4)[Req Install]                                          ✗      ✗     ✗
@@ -880,8 +880,8 @@ Dungeon Master (FTL) (Disk 1 of 2) (System) (Alt 1)                             
 Dungeon Master (FTL) (Disk 1 of 2) (System) (Alt 2)                                                   -      ✗     ✗
 Dungeon Master (FTL) (Disk 2 of 2) (User)                                                             -      ✗     ✗
 Dungeon Master (FTL) (Disk 2 of 2) (User) (Alt 1)                                                     -      ✗     ✗
-Dungeon Seekers (Haraiso)                                                                             ✗      ✗     ✗
-Dynamic Fomesion Soccer (MIX)                                                                         ✗      ✗     ✗
+Dungeon Seekers (Haraiso)                                                                             ✗      -     ✗
+Dynamic Fomesion Soccer (MIX)                                                                         ✗      -     ✗
 Dynamite Duke (Hertz) (Disk 1 of 3) (System)                                                          -      ✗     ✗
 Dynamite Duke (Hertz) (Disk 1 of 3) (System) (Alt 1)                                                  -      ✗     ✗
 Dynamite Duke (Hertz) (Disk 2 of 3) (Disk A)                                                          -      ✗     ✗
@@ -938,12 +938,12 @@ Europe Sensen (Koei) (Disk 2 of 3) (Disk B)                                     
 Europe Sensen (Koei) (Disk 3 of 3) (Disk C)                                                           -      ✗     ✗
 Excitebike (19xx) (-)[p]                                                                              ✗      ✗     ✗
 Excitebike (19xx) (-)[p](Alt 1)                                                                       ✗      ✗     ✗
-Exciting Hour Jusse Oozumou (Dempa)                                                                   ✗      ✗     ✗
+Exciting Hour Jusse Oozumou (Dempa)                                                                   ✗      -     ✗
 Exciting Hour Jusse Oozumou (Dempa) (Alt 1)                                                           ✗      ✗     ✗
 Exterlian (DO) (Disk 1 of 3) (Disk A)                                                                 -      ✗     ✗
 Exterlian (DO) (Disk 2 of 3) (Disk B)                                                                 -      ✗     ✗
 Exterlian (DO) (Disk 3 of 3) (Disk C)                                                                 -      ✗     ✗
-Ezoris (K.W.P)                                                                                        ✗      ✗     ✗
+Ezoris (K.W.P)                                                                                        ✗      -     ✗
 Ezoris (K.W.P) (Alt 1)                                                                                ✗      ✗     ✗
 F-1 Fastest Lap (Michael Company)                                                                     ✗      ✗     ✗
 F-15 Strike Eagle II (Microprose) (Disk 1 of 2) (Disk A)                                              -      ✗     ✗
@@ -963,9 +963,9 @@ Fairyland Story, The (SPS) (Disk 2 of 2) (Disk B) (Alt 1)                       
 Fairytale Kaizoku Han (199x) (Takeru) (Disk 1 of 2) (Disk A)                                          ✗      ✗     ✗
 Fairytale Kaizoku Han (199x) (Takeru) (Disk 2 of 2) (Disk B)                                          ✗      ✗     ✗
 Famass (VHS - Demon's)                                                                                ✗      ✗     ✗
-Fancy Qix (A.H.S.)                                                                                    ✗      ✗     ✗
+Fancy Qix (A.H.S.)                                                                                    ✗      -     ✗
 Fantasy Shooting (Michael Company)                                                                    ✗      ✗     ✗
-Fantasy Zone (Dempa)                                                                                  ✗      ✗     ✗
+Fantasy Zone (Dempa)                                                                                  ✗      -     ✗
 Fantasy Zone (Dempa) (Alt 1)                                                                          ✗      ✗     ✗
 Fantasy Zone (Dempa) (Alt 2)                                                                          ✗      ✗     ✗
 Fantasy Zone (Dempa) (Alt 3)                                                                          ✗      ✗     ✗
@@ -983,26 +983,26 @@ Final Fight (Capcom) (Disk 2 of 2) (Alt 1)                                      
 Final Fight (Capcom) (Disk 2 of 2) (Alt 2)                                                            -      ✗     ✗
 Final Fight (Capcom) (Disk 2 of 2) (Alt 3)                                                            -      ✗     ✗
 Fire (19xx) (Takahashi Tokiyuki)                                                                      ✗      ✗     ✗
-Firia (Scuderia Phantom)                                                                              ✗      ✗     ✗
+Firia (Scuderia Phantom)                                                                              ✗      -     ✗
 First Blow (199x) (Project G)                                                                         ✗      ✗     ✗
 First Crisis Ma Jin No Toubou (Minkey Soft)                                                           ✗      ✗     ✗
 First Crisis Ma Jin No Toubou (Minkey Soft) (Alt 1)                                                   ✗      ✗     ✗
 First Crisis Ma Jin No Toubou (Minkey Soft) (Alt 2)                                                   ✗      ✗     ✗
 First Main Dish Pasta (Toukyou Kogei Daigaku Programming Kenkyuukai)                                  ✗      ✗     ✗
-First Mission (YOH)                                                                                   ✗      ✗     ✗
+First Mission (YOH)                                                                                   ✗      -     ✗
 First Mission II Final Mission (YOH) (Disk 1 of 2) (Disk A)                                           ✗      ✗     ✗
 First Mission II Final Mission (YOH) (Disk 2 of 2) (Disk B)                                           ✗      ✗     ✗
 First Queen II (19xx) (KSK) (Disk 1 of 3)                                                             -      ✗     ✗
 First Queen II (19xx) (KSK) (Disk 2 of 3)                                                             -      ✗     ✗
 First Queen II (19xx) (KSK) (Disk 3 of 3) (Opening)                                                   -      ✗     ✗
-Flame Wing v1.02 (Itasenpara)                                                                         ✗      ✗     ✗
-Flaming Dart (Kei-H)                                                                                  ✗      ✗     ✗
+Flame Wing v1.02 (Itasenpara)                                                                         ✗      -     ✗
+Flaming Dart (Kei-H)                                                                                  ✗      -     ✗
 Flappy 2 Blue Star Fukkatsu No Hi (dB-Soft)                                                           -      ✗     ✗
 Flappy 2 Blue Star Fukkatsu No Hi (dB-Soft) (Alt 1)                                                   -      ✗     ✗
 Flappy 2 Blue Star Fukkatsu No Hi (dB-Soft) (Alt 2)                                                   -      ✗     ✗
 Flappy 2 Blue Star Fukkatsu No Hi (dB-Soft) (Alt 3)                                                   -      ✗     ✗
 Flip Flop (Maitake)                                                                                   ✗      ✗     ✗
-Flipull (MRO)                                                                                         ✗      ✗     ✗
+Flipull (MRO)                                                                                         ✗      -     ✗
 Fly (Login)                                                                                           ✗      ✗     ✗
 Fly Shooters (Pineapple)                                                                              ✗      ✗     ✗
 Formula X (-)                                                                                         ✗      ✗     ✗
@@ -1073,22 +1073,22 @@ Galaga '88 (Dempa) (Disk 2 of 2) (Disk B)                                       
 Galaga '88 (Dempa) (Disk 2 of 2) (Disk B) (Alt 1)                                                     ✗      ✗     ✗
 Galaga (19xx) (-)[p]                                                                                  ✗      ✗     ✗
 Galaga (19xx) (-)[p](Alt 1)                                                                           ✗      ✗     ✗
-Galaxian (XYZ)                                                                                        ✗      ✗     ✗
-Galaxian 2 (68 Bank)                                                                                  ✗      ✗     ✗
+Galaxian (XYZ)                                                                                        ✗      -     ✗
+Galaxian 2 (68 Bank)                                                                                  ✗      -     ✗
 Galaxian X68K (19xx) (Gyo)                                                                            ✗      ✗     ✗
 Galaxy Wars (Tiny-Tomo)                                                                               ✗      ✗     ✗
 Galseed (Login) (Disk 1 of 2) (Disk A)                                                                ✗      ✗     ✗
 Galseed (Login) (Disk 1 of 2) (Disk A) (Alt 1)                                                        ✗      ✗     ✗
 Galseed (Login) (Disk 2 of 2) (Disk B)                                                                ✗      ✗     ✗
 Galseed (Login) (Disk 2 of 2) (Disk B) (Alt 1)                                                        ✗      ✗     ✗
-Game.x (Kugenuma Soft)                                                                                ✗      ✗     ✗
+Game.x (Kugenuma Soft)                                                                                ✗      -     ✗
 Game.x (Kugenuma Soft) (PD)                                                                           ✗      ✗     ✗
 Game.x (Kugenuma Soft) (PD) (Alt 1)                                                                   ✗      ✗     ✗
 Gamma Planet (Compac)                                                                                 -      ✗     ✗
 Gamma Planet (Compac) (Alt 1)                                                                         -      ✗     ✗
-Ganbare! Paichan (Daba)                                                                               ✗      ✗     ✗
+Ganbare! Paichan (Daba)                                                                               ✗      -     ✗
 Gardis Light v2.02 (Sprite)                                                                           ✗      ✗     ✗
-Gardis Light v2.10 (Sprite)                                                                           ✗      ✗     ✗
+Gardis Light v2.10 (Sprite)                                                                           ✗      -     ✗
 Garou Densetsu (Magical Company) (Disk 1 of 4) (Disk A)                                               -      ✗     ✗
 Garou Densetsu (Magical Company) (Disk 1 of 4) (Disk A) (Alt 1)                                       -      ✗     ✗
 Garou Densetsu (Magical Company) (Disk 2 of 4) (Disk B)                                               -      ✗     ✗
@@ -1166,7 +1166,7 @@ Genocide 2 - Master of the Dark Communion (Zoom) (Japan) (Disk 1 of 4) (System) 
 Genocide 2 - Master of the Dark Communion (Zoom) (Japan) (Disk 2 of 4) (Data A)                       ✗      ✗     ✗
 Genocide 2 - Master of the Dark Communion (Zoom) (Japan) (Disk 3 of 4) (Data B)                       ✗      ✗     ✗
 Genocide 2 - Master of the Dark Communion (Zoom) (Japan) (Disk 4 of 4) (Data C)                       ✗      ✗     ✗
-Genpei Toumaden (Dempa)                                                                               ✗      ✗     ✗
+Genpei Toumaden (Dempa)                                                                               ✗      -     ✗
 Genpei Toumaden (Dempa) (Alt 1)                                                                       ✗      ✗     ✗
 Genpei Toumaden (Dempa) (Alt 2)                                                                       ✗      ✗     ✗
 Genpei Toumaden (Dempa) (Alt 3)                                                                       ✗      ✗     ✗
@@ -1241,11 +1241,11 @@ Ground Master (19xx) (Zain Soft) (Disk 1 of 2) (Disk A)                         
 Ground Master (19xx) (Zain Soft) (Disk 2 of 2) (Disk B)                                               -      ✗     ✗
 Group X (Compac) (Disk 1 of 2)                                                                        -      ✗     ✗
 Group X (Compac) (Disk 2 of 2)                                                                        -      ✗     ✗
-Guardian (Trap Zero)                                                                                  ✗      ✗     ✗
+Guardian (Trap Zero)                                                                                  ✗      -     ✗
 Guardians (Moai)                                                                                      ✗      ✗     ✗
 Guerriere Lyeward (Technopolis) (Disk 1 of 2) (Disk A)                                                -      ✗     ✗
 Guerriere Lyeward (Technopolis) (Disk 2 of 2) (Disk B)                                                -      ✗     ✗
-Gunship (Microprose)                                                                                  -      ✗     ✗
+Gunship (Microprose)                                                                                  -      -     ✗
 Gyaos (Project Makkusu)                                                                               ✗      ✗     ✗
 Hacchake Ayatosan II Ikenai Holiday (19xx) (Hard)                                                     ✗      ✗     ✗
 Hacchake Ayayosan Pro-68K (19xx) (Hard)                                                               ✗      ✗     ✗
@@ -1285,11 +1285,11 @@ Heart of Saphilamun (Annandule Project) (Disk 3 of 4) (Disk C)                  
 Heart of Saphilamun (Annandule Project) (Disk 3 of 4) (Disk C) (Alt 1)                                ✗      ✗     ✗
 Heart of Saphilamun (Annandule Project) (Disk 4 of 4) (Disk D)                                        ✗      ✗     ✗
 Heart of Saphilamun (Annandule Project) (Disk 4 of 4) (Disk D) (Alt 1)                                ✗      ✗     ✗
-Heavy Nova (Micronet)                                                                                 -      ✗     ✗
+Heavy Nova (Micronet)                                                                                 -      -     ✗
 Heiankyou Alien (19xx) (Kin-chan)                                                                     ✗      ✗     ✗
 Heiankyou Alien 68K (Tiny-Tomo)                                                                       ✗      ✗     ✗
 Heiankyou Alien 68K (Tiny-Tomo) (Alt 1)                                                               ✗      ✗     ✗
-Hellhound (Breakthrough)                                                                              ✗      ✗     ✗
+Hellhound (Breakthrough)                                                                              ✗      -     ✗
 Helmet (Ma)                                                                                           ✗      ✗     ✗
 Hero Hero Disk 1 (19xx) (Opt. 1)                                                                      ✗      ✗     ✗
 Hero Hero Disk 4 Indojin No Yabou (Opt. 1)                                                            ✗      ✗     ✗
@@ -1311,7 +1311,7 @@ Himitsu No Hanazono (Technopolis) (Disk 2 of 3) (Disk B)                        
 Himitsu No Hanazono (Technopolis) (Disk 3 of 3) (Disk C)                                              -      ✗     ✗
 Hiroshi (19xx) (Rats)                                                                                 ✗      ✗     ✗
 Hiroshi II (Rats)                                                                                     ✗      ✗     ✗
-Hishouzame Flying Shark (Kaneko)                                                                      ✗      ✗     ✗
+Hishouzame Flying Shark (Kaneko)                                                                      ✗      -     ✗
 Hishouzame Flying Shark (Kaneko) (Alt 1)                                                              ✗      ✗     ✗
 Hishouzame Flying Shark (demo) (Kaneko)                                                               ✗      ✗     ✗
 Hissatsu Yuusha Tsuitoshi (19xx) (Mugen Unagi Team)                                                   ✗      ✗     ✗
@@ -1371,7 +1371,7 @@ Hydlide 3 The Space Memories Special Version (T_E Soft) (Disk 2 of 2)           
 Hydlide II Shine of Darkness (199x) (Yokoshiba Soft)                                                  ✗      ✗     ✗
 Iinoyama No Oishii (Toukyou Kogei Daigaku Programming Kenkyuukai) (Disk 1 of 2) (Disk A)              ✗      ✗     ✗
 Iinoyama No Oishii (Toukyou Kogei Daigaku Programming Kenkyuukai) (Disk 2 of 2) (Disk B)              ✗      ✗     ✗
-Ika Blade (Yax)                                                                                       ✗      ✗     ✗
+Ika Blade (Yax)                                                                                       ✗      -     ✗
 Ikkaku Toushi Cecil (T_H Project)                                                                     ✗      ✗     ✗
 Illumina (Cocktail Soft) (Disk 1 of 3) (Disk A)                                                       -      ✗     ✗
 Illumina (Cocktail Soft) (Disk 1 of 3) (Disk A) (Alt 1)                                               -      ✗     ✗
@@ -1395,7 +1395,7 @@ Imperial Force (19xx) (System Soft) (Disk 2 of 2) (Game)                        
 Inindou Datou Nobunaga (199x) (Koei) (Disk 1 of 3) (Disk A)                                           -      ✗     ✗
 Inindou Datou Nobunaga (199x) (Koei) (Disk 2 of 3) (Disk B)                                           -      ✗     ✗
 Inindou Datou Nobunaga (199x) (Koei) (Disk 3 of 3) (Disk C)                                           -      ✗     ✗
-Integral Arm (Yoshitaka Higashi)                                                                      ✗      ✗     ✗
+Integral Arm (Yoshitaka Higashi)                                                                      ✗      -     ✗
 Intro Pro 68K v2.10+ (Sprite)                                                                         ✗      ✗     ✗
 Irohanihoheto (Studio Angel)                                                                          ✗      ✗     ✗
 Ishidou (ASCII) (Disk 1 of 2) (Disk A)                                                                ✗      ✗     ✗
@@ -1427,7 +1427,7 @@ Jan Jaka Jan (Elf) (Disk 3 of 5) (Disk C)                                       
 Jan Jaka Jan (Elf) (Disk 4 of 5) (Disk D)                                                             -      ✗     ✗
 Jan Jaka Jan (Elf) (Disk 5 of 5) (Disk E)                                                             -      ✗     ✗
 Jan Ken Club v1.2 (19xx) (Dream Project)                                                              ✗      ✗     ✗
-Jane (System House Oh!)                                                                               -      ✗     ✗
+Jane (System House Oh!)                                                                               -      -     ✗
 Jane (System House Oh!) (Japan)                                                                       ✗      ✗     ✗
 Jangou 1 (Crossmedia) (Disk 1 of 2) (Disk A)                                                          -      ✗     ✗
 Jangou 1 (Crossmedia) (Disk 2 of 2) (Disk B)                                                          -      ✗     ✗
@@ -1440,7 +1440,7 @@ Janshin Quest (SPS) (Disk 1 of 2) (System) (Alt 1)                              
 Janshin Quest (SPS) (Disk 2 of 2) (Data)                                                              -      ✗     ✗
 Janshin Quest (SPS) (Disk 2 of 2) (Data) (Alt 1)                                                      -      ✗     ✗
 Janshin Quest (demo) (199x) (SPS)                                                                     -      ✗     ✗
-Japan 2136 Nihon Gokei (Login)                                                                        ✗      ✗     ✗
+Japan 2136 Nihon Gokei (Login)                                                                        ✗      -     ✗
 Jastis (ASM)                                                                                          ✗      ✗     ✗
 Jeena No Taibouken (T_H Project)                                                                      ✗      ✗     ✗
 Jissen Billiards (Pack-In-Video) (Disk 1 of 3) (Disk A)                                               -      ✗     ✗
@@ -1459,7 +1459,7 @@ Joshua (Panther Software) (Disk 2 of 5) (Opening)                               
 Joshua (Panther Software) (Disk 3 of 5) (Scenario 1)                                                  -      ✗     ✗
 Joshua (Panther Software) (Disk 4 of 5) (Scenario 2)                                                  -      ✗     ✗
 Joshua (Panther Software) (Disk 5 of 5) (Scenario 3)                                                  -      ✗     ✗
-Jotei Senki 1 Queen Edition (Linner System)                                                           ✗      ✗     ✗
+Jotei Senki 1 Queen Edition (Linner System)                                                           ✗      -     ✗
 Jotei Senki 2 Legend of Heroines (Linner System) (Disk 1 of 2) (Disk A)                               ✗      ✗     ✗
 Jotei Senki 2 Legend of Heroines (Linner System) (Disk 1 of 2) (Disk A) (Alt 1)                       ✗      ✗     ✗
 Jotei Senki 2 Legend of Heroines (Linner System) (Disk 1 of 2) (Disk A) (Alt 2)                       ✗      ✗     ✗
@@ -1482,7 +1482,7 @@ Kaerimichi Ha Kiken Ga Ippai (DO) (Disk 2 of 4) (Disk B)                        
 Kaerimichi Ha Kiken Ga Ippai (DO) (Disk 3 of 4) (Disk C)                                              -      ✗     ✗
 Kaerimichi Ha Kiken Ga Ippai (DO) (Disk 4 of 4) (Disk D)                                              -      ✗     ✗
 Kaisen Game Daa! (Project Team Interrupt)                                                             ✗      ✗     ✗
-Kaizoku (ORB)                                                                                         ✗      ✗     ✗
+Kaizoku (ORB)                                                                                         ✗      -     ✗
 Kankyou Soft Shuu (Hazama Kuroo)                                                                      ✗      ✗     ✗
 Karei Naru Jinsei Minasan No Okage Desu (Fairy Tale) (Disk 1 of 3) (Disk A)                           -      ✗     ✗
 Karei Naru Jinsei Minasan No Okage Desu (Fairy Tale) (Disk 2 of 3) (Disk B)                           -      ✗     ✗
@@ -1510,7 +1510,7 @@ Kawaharazaki Ie No Ichizoku (199x) (Silky's) (Disk 5 of 5) (Disk E)             
 Kawai Sou Monogatari Kanketsuhen (Master Piece) (Disk 1 of 2)                                         ✗      ✗     ✗
 Kawai Sou Monogatari Kanketsuhen (Master Piece) (Disk 2 of 2)                                         ✗      ✗     ✗
 Kax (Takashi Imai)                                                                                    ✗      ✗     ✗
-Keeper (Success - ASCII)                                                                              -      ✗     ✗
+Keeper (Success - ASCII)                                                                              -      -     ✗
 Keeper (Success - ASCII) (Alt 1)                                                                      -      ✗     ✗
 Kera Kera Hoshi (Cocktail Soft) (Disk 1 of 2) (Disk A)                                                -      ✗     ✗
 Kera Kera Hoshi (Cocktail Soft) (Disk 1 of 2) (Disk A) (Alt 1)                                        -      ✗     ✗
@@ -1538,7 +1538,7 @@ King of Chicago, The (Master Designer) (Disk 2 of 2) (Disk B)                   
 Kishikaisei Taiho Shichimauzo Hyoukahan (Team Phantom)                                                ✗      ✗     ✗
 Kitahei 68K (SPS) (Disk 2 of 2) (Jouseki)                                                             -      ✗     ✗
 Kiwame (Log)                                                                                          ✗      ✗     ✗
-Klax (Hudson)                                                                                         -      ✗     ✗
+Klax (Hudson)                                                                                         -      -     ✗
 Klax (Project M)                                                                                      ✗      -     ✗
 Knight Arena (Creation Team Xelf) (Disk 1 of 3) (Disk A)                                              ✗      ✗     ✗
 Knight Arena (Creation Team Xelf) (Disk 2 of 3) (Disk B)                                              ✗      ✗     ✗
@@ -1650,10 +1650,10 @@ Last Piece II (POP Software) (Disk 1 of 2) (Disk A)                             
 Last Piece II (POP Software) (Disk 2 of 2) (Disk B)                                                   ✗      ✗     ✗
 Last Tempest, The (Koucha Kikaku) (Disk 1 of 2) (Disk A)                                              ✗      ✗     ✗
 Last Tempest, The (Koucha Kikaku) (Disk 2 of 2) (Disk B)                                              ✗      ✗     ✗
-Laydock (Hoshishiba Takayuki)                                                                         ✗      ✗     ✗
+Laydock (Hoshishiba Takayuki)                                                                         ✗      -     ✗
 Leading Company (Koei) (Disk 1 of 2) (Disk A)                                                         -      ✗     ✗
 Leading Company (Koei) (Disk 2 of 2) (Disk B)                                                         -      ✗     ✗
-Lemmings (Imagineer)                                                                                  -      ✗     ✗
+Lemmings (Imagineer)                                                                                  -      -     ✗
 Lemmings (Imagineer) (Alt 1)                                                                          -      ✗     ✗
 Lenam (Hertz) (Disk 2 of 6) (Disk A)                                                                  -      ✗     ✗
 Lenam (Hertz) (Disk 3 of 6) (Disk B)                                                                  -      ✗     ✗
@@ -1663,7 +1663,7 @@ Lenam (Hertz) (Disk 6 of 6) (Opening)                                           
 Level Point v1.0 (199x) (Erenvmvrcom)                                                                 ✗      ✗     ✗
 Level Point v1.1 (199x) (Erenvmvrcom)                                                                 ✗      ✗     ✗
 Lexus 2 (199x) (SPC Soft)                                                                             ✗      ✗     ✗
-Libble Rabble (Dempa)                                                                                 ✗      ✗     ✗
+Libble Rabble (Dempa)                                                                                 ✗      -     ✗
 Libble Rabble (Dempa) (Alt 1)                                                                         ✗      ✗     ✗
 Libble Rabble (Dempa) (Alt 2)                                                                         ✗      ✗     ✗
 Libble Rabble v0.1 (19xx) (-)                                                                         ✗      ✗     ✗
@@ -1724,7 +1724,7 @@ Lumchan Comike Ni Iku (Master Piece)                                            
 Lumchan No Kawai Sou Monogatari (Master Piece)                                                        ✗      ✗     ✗
 Lunatic Fantasy v2.0 (199x) (Studio Light Cross)                                                      ✗      ✗     ✗
 Luster Soursh (Mugen Kaisha Rana)                                                                     ✗      ✗     ✗
-Lyrical Party (MIX)                                                                                   ✗      ✗     ✗
+Lyrical Party (MIX)                                                                                   ✗      -     ✗
 MCHA (FNeW)                                                                                           ✗      ✗     ✗
 Macross (19xx) (-)[p]                                                                                 ✗      ✗     ✗
 Macross (19xx) (-)[p](Alt 1)                                                                          ✗      ✗     ✗
@@ -1742,7 +1742,7 @@ Magery No Sekai He Youkoso For Otaku (199x) (Nihon Sennou Club) (Disk 1 of 2) (D
 Magery No Sekai He Youkoso For Otaku (199x) (Nihon Sennou Club) (Disk 2 of 2) (Disk B)                ✗      ✗     ✗
 Magical Crash (Proceed) (Disk 1 of 2) (System)                                                        ✗      ✗     ✗
 Magical Crash (Proceed) (Disk 2 of 2) (Data)                                                          ✗      ✗     ✗
-Magical Shot (MNM Software)                                                                           -      ✗     ✗
+Magical Shot (MNM Software)                                                                           -      -     ✗
 Magical Shot (MNM Software) (Alt 1)                                                                   -      ✗     ✗
 Magritte (Moai)                                                                                       ✗      ✗     ✗
 Mahjongg Clinic Zoukangou (Home Data) (Disk 1 of 2)                                                   -      ✗     ✗
@@ -1801,10 +1801,10 @@ Makenshi Kumiko (19xx) (System House Oh!)                                       
 Man I Love, The (19xx) (Thinking Rabbit)                                                              -      ✗     ✗
 Mappy (N. Kei)                                                                                        ✗      -     ✗
 Mappy (Yopino)                                                                                        ✗      -     ✗
-Marble Madness (Home Data)                                                                            ✗      ✗     ✗
+Marble Madness (Home Data)                                                                            ✗      -     ✗
 Marble Madness (Home Data) (Alt 1)                                                                    ✗      ✗     ✗
 Marble Madness (Home Data) (Alt 2)                                                                    ✗      ✗     ✗
-Marble Magic (Rats Soft)                                                                              ✗      ✗     ✗
+Marble Magic (Rats Soft)                                                                              ✗      -     ✗
 Marble Panic (Studio KS - Rats Soft)                                                                  ✗      ✗     ✗
 Marble Reverser (Studio Pickles)[test version]                                                        ✗      ✗     ✗
 Marble Reverser 2 (Studio Pickles)                                                                    ✗      ✗     ✗
@@ -1836,12 +1836,12 @@ Me No Sakkaku Honken Program (IJI Team)                                         
 Mega Powerful Jangken Pro-68K v1.05 (Gainen Shuppon)                                                  ✗      ✗     ✗
 Megalomania (Imagineer) (Disk 1 of 2)                                                                 -      ✗     ✗
 Megalomania (Imagineer) (Disk 2 of 2)                                                                 -      ✗     ✗
-Megami De Pon (DCS)                                                                                   ✗      ✗     ✗
+Megami De Pon (DCS)                                                                                   ✗      -     ✗
 Meisaku Rouman Bunko Neji Shiki (19xx) (Zeit) (Disk 1 of 3) (System)                                  ✗      ✗     ✗
 Meisaku Rouman Bunko Neji Shiki (19xx) (Zeit) (Disk 2 of 3) (Data 1)                                  ✗      ✗     ✗
 Meisaku Rouman Bunko Neji Shiki (19xx) (Zeit) (Disk 3 of 3) (Data 2)                                  ✗      ✗     ✗
 Meisaku Rouman Bunko Neji Shiki (demo) (19xx) (Zeit)                                                  ✗      ✗     ✗
-Memory Broken (Fukuiinchou)                                                                           ✗      ✗     ✗
+Memory Broken (Fukuiinchou)                                                                           ✗      -     ✗
 Mercury (19xx) (Maxima) (Disk 1 of 2) (System)                                                        -      ✗     ✗
 Mercury (19xx) (Maxima) (Disk 2 of 2) (Data)                                                          -      ✗     ✗
 Metal Eye (199x) (Elf) (Disk 1 of 7) (Disk A)                                                         -      ✗     ✗
@@ -1872,7 +1872,7 @@ Mid-Garts Gold (Disk 1 of 4)                                                    
 Mid-Garts Gold (Disk 2 of 4)                                                                          -      ✗     ✗
 Mid-Garts Gold (Disk 3 of 4)                                                                          -      ✗     ✗
 Mid-Garts Gold (Disk 4 of 4)                                                                          -      ✗     ✗
-Mikkun Fly! (Brace)                                                                                   ✗      ✗     ✗
+Mikkun Fly! (Brace)                                                                                   ✗      -     ✗
 Milk Time (System House Oh!) (Disk 1 of 3)                                                            ✗      ✗     ✗
 Milk Time (System House Oh!) (Disk 2 of 3)                                                            ✗      ✗     ✗
 Milk Time (System House Oh!) (Disk 3 of 3)                                                            ✗      ✗     ✗
@@ -1905,10 +1905,10 @@ Mobile Suit Gundam Classic Operation (Family Soft) (Disk 3 of 3) (Disk C)       
 Mobile Suit Gundam Classic Operation (Family Soft) (Disk 3 of 3) (Disk C) (Alt 1)                     -      ✗     ✗
 Mogu (Phoenix)                                                                                        ✗      ✗     ✗
 Mogura Attacker (Project Makkusu)                                                                     ✗      ✗     ✗
-Mokona In Space (68 Bank)                                                                             ✗      ✗     ✗
+Mokona In Space (68 Bank)                                                                             ✗      -     ✗
 Molo-Q (19xx) (-)                                                                                     ✗      ✗     ✗
 Momotarou (Todo2)                                                                                     ✗      ✗     ✗
-Momotarou Densetsu (Hudson Soft)                                                                      -      ✗     ✗
+Momotarou Densetsu (Hudson Soft)                                                                      -      -     ✗
 Momotarou Densetsu (Hudson Soft) (Alt 1)                                                              -      ✗     ✗
 Momotarou Gaiden Momokochan Fight! (Todo2) (Disk 1 of 2) (Disk A)                                     ✗      ✗     ✗
 Momotarou Gaiden Momokochan Fight! (Todo2) (Disk 2 of 2) (Disk B)                                     ✗      ✗     ✗
@@ -1980,8 +1980,8 @@ Naniwa Do Konjou Series Nouten Chokudake! 3 (Iron Gear) (Alt 1)                 
 Naniwa Do Konjou Series Nouten Chokudake! 3 (Iron Gear) (Alt 2)                                       ✗      ✗     ✗
 Nasake Muyou Fire 2! (Yamaco)                                                                         ✗      ✗     ✗
 Nazo No Rooguu Shuu (19xx) (Team-ms)                                                                  ✗      ✗     ✗
-Nectaris (System Soft)                                                                                -      ✗     ✗
-Nekketsu Koukou Dodgeball Bu (Sharp - SPS)                                                            -      ✗     ✗
+Nectaris (System Soft)                                                                                -      -     ✗
+Nekketsu Koukou Dodgeball Bu (Sharp - SPS)                                                            -      -     ✗
 Nekketsu Koukou Dodgeball Bu (Sharp - SPS) (Alt 1)                                                    -      ✗     ✗
 Nekketsu Koukou Dodgeball Bu Soccer Hen (Sharp - SPS) (Disk 1 of 2) (Disk A)                          -      ✗     ✗
 Nekketsu Koukou Dodgeball Bu Soccer Hen (Sharp - SPS) (Disk 2 of 2) (Disk B)                          -      ✗     ✗
@@ -1995,8 +1995,8 @@ Nemesis '90 Kai (SPS) (Disk 2 of 2) (Data) (Alt 2)                              
 Nemesis '90 Kai (SPS) (Disk 2 of 2) (Data) (Alt 3)                                                    -      ✗     ✗
 Nemesis '90 Kai (SPS) (Disk 2 of 2) (Data) (Alt 4)                                                    -      ✗     ✗
 Nemesis '90 Kai (demo) (199x) (SPS)                                                                   -      ✗     ✗
-Nemesis '93 Gradius 2 (Gra2 Project Team)                                                             ✗      ✗     ✗
-Nemesis '94 Gradius 2 (Gra2 Project Team)                                                             ✗      ✗     ✗
+Nemesis '93 Gradius 2 (Gra2 Project Team)                                                             ✗      -     ✗
+Nemesis '94 Gradius 2 (Gra2 Project Team)                                                             ✗      -     ✗
 Nervous Black Jack v2.00 (T.O.F.)                                                                     ✗      ✗     ✗
 Neural Gear (Crossmedia) (Disk 1 of 2) (Disk A)                                                       -      ✗     ✗
 Neural Gear (Crossmedia) (Disk 1 of 2) (Disk A) (Alt 1)                                               -      ✗     ✗
@@ -2103,7 +2103,7 @@ Overtake (Zoom) (Disk 5 of 6) (Opening 1)                                       
 Overtake (Zoom) (Disk 5 of 6) (Opening 1) (Alt 1)                                                     -      ✗     ✗
 Overtake (Zoom) (Disk 6 of 6) (Opening 2)                                                             -      ✗     ✗
 Overtake (Zoom) (Disk 6 of 6) (Opening 2) (Alt 1)                                                     -      ✗     ✗
-Pac-Land (Dempa)                                                                                      ✗      ✗     ✗
+Pac-Land (Dempa)                                                                                      ✗      -     ✗
 Pac-Land (Dempa) (Alt 1)                                                                              ✗      ✗     ✗
 Pac-Land (Dempa) (Alt 2)                                                                              ✗      ✗     ✗
 Pac-Man (19xx) (-)[p]                                                                                 ✗      ✗     ✗
@@ -2127,12 +2127,12 @@ Parodius Da! (Konami) (Disk 2 of 2)                                             
 Parodius Da! (Konami) (Disk 2 of 2) (Alt 1)                                                           -      ✗     ✗
 Parodius Da! (demo) (Konami)                                                                          -      ✗     ✗
 Paroran v2.12 (Hayabusa Soft)                                                                         ✗      ✗     ✗
-Paroran v3.00 (Hayabusa Soft)                                                                         ✗      ✗     ✗
+Paroran v3.00 (Hayabusa Soft)                                                                         ✗      -     ✗
 Parsec v3.05 (199x) (Parsec)                                                                          ✗      ✗     ✗
 Parsec v3.11 (199x) (Parsec)                                                                          ✗      ✗     ✗
 Paruru (199x) (Maimu Koubou)                                                                          ✗      ✗     ✗
 Patariro! Game (19xx) (68 Bank)                                                                       ✗      ✗     ✗
-Pensan CD (Tanaka Yuu)                                                                                ✗      ✗     ✗
+Pensan CD (Tanaka Yuu)                                                                                ✗      -     ✗
 Pentaris (Phoenix)                                                                                    ✗      ✗     ✗
 Peshi Peshi Puzzle (199x) (To.)                                                                       ✗      ✗     ✗
 Peshi Peshi Puzzle 2 (199x) (To.)                                                                     ✗      ✗     ✗
@@ -2151,7 +2151,7 @@ Pias (19xx) (Birdy Soft) (Disk 1 of 2) (Disk A)                                 
 Pias (19xx) (Birdy Soft) (Disk 2 of 2) (Disk B)                                                       -      ✗     ✗
 Pinball (19xx) (-)[p]                                                                                 ✗      ✗     ✗
 Pinball (19xx) (-)[p](Alt 1)                                                                          ✗      ✗     ✗
-Pinball Pinball (Softec)                                                                              -      ✗     ✗
+Pinball Pinball (Softec)                                                                              -      -     ✗
 Pinky 1 (System House Oh!) (Disk 1 of 4)                                                              ✗      ✗     ✗
 Pinky 1 (System House Oh!) (Disk 2 of 4)                                                              ✗      ✗     ✗
 Pinky 1 (System House Oh!) (Disk 3 of 4)                                                              ✗      ✗     ✗
@@ -2185,7 +2185,7 @@ Populous Promised Land (19xx) (Imagineer) (Alt 1)                               
 Porolith (Ko.mo.mo)                                                                                   ✗      ✗     ✗
 Port Tower Monogatari (Brings Onion Software)                                                         ✗      ✗     ✗
 Potton (Sprite)                                                                                       ✗      ✗     ✗
-Power League (Hudson)                                                                                 -      ✗     ✗
+Power League (Hudson)                                                                                 -      -     ✗
 Power Racing (Mashita Katsuaki)                                                                       ✗      ✗     ✗
 Powermonger (Imagineer)                                                                               -      ✗     ✗
 Powermonger (Imagineer) (Alt 1)                                                                       -      ✗     ✗
@@ -2214,7 +2214,7 @@ Prince of Persia (Broderbund) (Disk 2 of 3) (Disk B) (Alt 1)                    
 Prince of Persia (Broderbund) (Disk 3 of 3) (Disk C)                                                  -      ✗     ✗
 Princess Bingo (19xx) (User So)                                                                       ✗      ✗     ✗
 Princess Ha Street Girl (19xx) (Zenryuutsuu)                                                          -      ✗     ✗
-Pro Soccer 68 (Anco)                                                                                  -      ✗     ✗
+Pro Soccer 68 (Anco)                                                                                  -      -     ✗
 Pro Soccer 68 (Anco) (Alt 1)                                                                          -      ✗     ✗
 Pro Student G (Alice Soft) (Disk 1 of 7) (Disk A)                                                     -      ✗     ✗
 Pro Student G (Alice Soft) (Disk 2 of 7) (Disk B)                                                     -      ✗     ✗
@@ -2253,16 +2253,16 @@ Psycho Harrier (Koumajutsu)                                                     
 Puchi Puchi Pro-68K (Hazama Kuroo)                                                                    ✗      ✗     ✗
 Punincess Maker (Oguchin)                                                                             ✗      ✗     ✗
 Puppet Show (19xx) (Artist Soft)                                                                      ✗      ✗     ✗
-Push Bon! (-)                                                                                         ✗      ✗     ✗
+Push Bon! (-)                                                                                         ✗      -     ✗
 Push Bon! (-) (Alt 1)                                                                                 ✗      ✗     ✗
-Puyo Puyo (SPS)                                                                                       -      ✗     ✗
+Puyo Puyo (SPS)                                                                                       -      -     ✗
 Puyo Puyo (SPS) (Alt 1)                                                                               -      ✗     ✗
 Puyo Puyo (SPS) (Alt 2)                                                                               -      ✗     ✗
 Puyo Puyo (demo) (SPS)                                                                                -      ✗     ✗
 Puzzle (-)                                                                                            ✗      ✗     ✗
 Puzznick (Broderbund)                                                                                 -      ✗     ✗
 Quarter Staff The Tomb of The Setmoth (Starcraft) (Disk 2 of 2) (Player)                              ✗      ✗     ✗
-Quarth (Konami)                                                                                       -      ✗     ✗
+Quarth (Konami)                                                                                       -      -     ✗
 Quarth (Konami) (Alt 1)                                                                               -      ✗     ✗
 Quarth (Konami) (Alt 2)                                                                               -      ✗     ✗
 Quarth (Konami) (Alt 3)                                                                               -      ✗     ✗
@@ -2300,7 +2300,7 @@ Quiz Mangaka No Yabou (199x) (-)                                                
 Quiz Sniper (Masqurade)                                                                               ✗      ✗     ✗
 Quiz Torimonochou (Dempa)                                                                             ✗      ✗     ✗
 Quiz Torimonochou (Dempa) (Alt 1)                                                                     ✗      ✗     ✗
-R-Type (Irem)                                                                                         -      ✗     ✗
+R-Type (Irem)                                                                                         -      -     ✗
 R-Type (Irem) (Alt 1)                                                                                 -      ✗     ✗
 R-Type (Irem) (Alt 2)                                                                                 -      ✗     ✗
 R.C. Robot Construction (Electric Sheep)                                                              ✗      ✗     ✗
@@ -2310,7 +2310,7 @@ R.C. Robot Construction Shuu + alpha Vol. 4 (Electric Sheep)                    
 R3 Golf (19xx) (Black FTZ) (Disk 1 of 2) (Disk A)                                                     ✗      ✗     ✗
 R3 Golf (19xx) (Black FTZ) (Disk 2 of 2) (Disk B)                                                     ✗      ✗     ✗
 Raguna (Azuma Development)                                                                            ✗      ✗     ✗
-Rally-X (IT)                                                                                          ✗      ✗     ✗
+Rally-X (IT)                                                                                          ✗      -     ✗
 Ramune Club v1.50 (Mog-Net)                                                                           ✗      ✗     ✗
 Rance 2 Hangyaku No Shoujotachi (Alice Soft) (Disk 1 of 6)                                            -      ✗     ✗
 Rance 2 Hangyaku No Shoujotachi (Alice Soft) (Disk 2 of 6)                                            -      ✗     ✗
@@ -2387,7 +2387,7 @@ Ryu Naki No Ryuu Yori (Disk 4 of 4)                                             
 Ryuu Kyuu (Login)                                                                                     -      ✗     ✗
 Ryuu Kyuu (Login) (Alt 1)                                                                             -      ✗     ✗
 Ryuu Kyuu (Login) (Alt 2)                                                                             -      ✗     ✗
-SD Fighter (Une Une Soft)                                                                             ✗      ✗     ✗
+SD Fighter (Une Une Soft)                                                                             ✗      -     ✗
 SD Sadistic Gamers (199x) (Ankoku Baitai Software House)                                              ✗      ✗     ✗
 SD Toki No Kagi (-) (Disk 1 of 2) (Disk A)                                                            ✗      ✗     ✗
 SD Toki No Kagi (-) (Disk 1 of 2) (Disk A) (Alt 1)                                                    ✗      ✗     ✗
@@ -2440,12 +2440,12 @@ Satori Shooting Practice Program v2 (Fukuiinchou)                               
 Satori Shooting Practice Program v2 (Fukuiinchou) (Alt 1)                                             ✗      ✗     ✗
 Sazae A Isono's Family Crazy Story (68 Bank)                                                          ✗      ✗     ✗
 Sazae A Isono's Family Crazy Story (68 Bank) (Alt 1)                                                  ✗      ✗     ✗
-Scarlet (Login)                                                                                       ✗      ✗     ✗
+Scarlet (Login)                                                                                       ✗      -     ✗
 Scarlet (Login) (Alt 1)                                                                               ✗      ✗     ✗
 Schwarzschild Kyouran No Ginga (19xx) (Kogado) (Disk 1 of 3) (Disk A)                                 -      ✗     ✗
 Schwarzschild Kyouran No Ginga (19xx) (Kogado) (Disk 2 of 3) (Disk B)                                 -      ✗     ✗
 Schwarzschild Kyouran No Ginga (19xx) (Kogado) (Disk 3 of 3) (Disk C)                                 ✗      ✗     ✗
-Scorpius (Shinseisha)                                                                                 -      ✗     ✗
+Scorpius (Shinseisha)                                                                                 -      -     ✗
 Scorpius (Shinseisha) (Alt 1)                                                                         -      ✗     ✗
 Scorpius (Shinseisha) (Alt 2)                                                                         -      ✗     ✗
 Scramble Pyuuta Han (19xx) (XYZ)                                                                      ✗      ✗     ✗
@@ -2517,11 +2517,11 @@ Signatory Chouinsha (NCS) (Japan) (Disk 2 of 5) (Scenario Disk A)               
 Signatory Chouinsha (NCS) (Japan) (Disk 3 of 5) (Scenario Disk B)                                     ✗      ✗     ✗
 Signatory Chouinsha (NCS) (Japan) (Disk 4 of 5) (Scenario Disk C)                                     ✗      ✗     ✗
 Signatory Chouinsha (NCS) (Japan) (Disk 5 of 5) (Scenario Disk D)                                     ✗      ✗     ✗
-Silkroad 2 v1.00 (Sprite)                                                                             ✗      ✗     ✗
+Silkroad 2 v1.00 (Sprite)                                                                             ✗      -     ✗
 Silkroad 2 v1.00 (Sprite) (Alt 1)                                                                     ✗      ✗     ✗
-Silkroad Legend of Gero v2.10r (Sprite)                                                               ✗      ✗     ✗
+Silkroad Legend of Gero v2.10r (Sprite)                                                               ✗      -     ✗
 Silkroad Legend of Gero v2.10r (Sprite) (Alt 1)                                                       ✗      ✗     ✗
-Silsteel (P.Pink.Pot)                                                                                 ✗      ✗     ✗
+Silsteel (P.Pink.Pot)                                                                                 ✗      -     ✗
 Silsteel (P.Pink.Pot) (Alt 1)                                                                         ✗      ✗     ✗
 Silsteel (P.Pink.Pot) (Alt 2)                                                                         ✗      ✗     ✗
 Silver Ball (X-Soft)                                                                                  ✗      ✗     ✗
@@ -2536,10 +2536,10 @@ Sim City Terrain Editor (Imagineer)                                             
 Sim City Terrain Editor (Imagineer) (Alt 1)                                                           -      ✗     ✗
 Sim Earth (19xx) (Imagineer)                                                                          -      ✗     ✗
 Sion (Soft Bank)                                                                                      ✗      ✗     ✗
-Sion II (Soft Bank)                                                                                   ✗      ✗     ✗
+Sion II (Soft Bank)                                                                                   ✗      -     ✗
 Sion II (Soft Bank) (Alt 1)                                                                           ✗      ✗     ✗
 Sion II (Soft Bank) (Alt 2)                                                                           ✗      ✗     ✗
-Sion IV (Soft Bank)                                                                                   ✗      ✗     ✗
+Sion IV (Soft Bank)                                                                                   ✗      -     ✗
 Sion IV (Soft Bank) (Alt 1)                                                                           ✗      ✗     ✗
 Sion IV (Soft Bank) (Alt 2)                                                                           ✗      ✗     ✗
 Slime Master (19xx) (-)                                                                               ✗      ✗     ✗
@@ -2598,7 +2598,7 @@ Sotsugyou Graduation (JHV) (Disk 7 of 7) (Disk G) (Alt 2)                       
 Sotsugyou Shashin with Biki (Cocktail Soft) (Disk 1 of 3) (Disk A)                                    -      ✗     ✗
 Sotsugyou Shashin with Biki (Cocktail Soft) (Disk 2 of 3) (Disk B)                                    -      ✗     ✗
 Sotsugyou Shashin with Biki (Cocktail Soft) (Disk 3 of 3) (Biki)                                      -      ✗     ✗
-Souhou Blue Phoenix (Stillrise)                                                                       ✗      ✗     ✗
+Souhou Blue Phoenix (Stillrise)                                                                       ✗      -     ✗
 Souhou Blue Phoenix Taste Version (Stillrise)                                                         ✗      ✗     ✗
 Soukoban (19xx) (-)                                                                                   ✗      ✗     ✗
 Soukoban Perfect (Thinking Rabbit)                                                                    ✗      ✗     ✗
@@ -2606,7 +2606,7 @@ Soukou Hohei Butai Cannon Sight (Nihon Computer Club Renmei) (Disk 1 of 2) (Disk
 Soukou Hohei Butai Cannon Sight (Nihon Computer Club Renmei) (Disk 1 of 2) (Disk A) (Alt 1)           ✗      ✗     ✗
 Soukou Hohei Butai Cannon Sight (Nihon Computer Club Renmei) (Disk 2 of 2) (Disk B)                   ✗      ✗     ✗
 Soukou Hohei Butai Cannon Sight (Nihon Computer Club Renmei) (Disk 2 of 2) (Disk B) (Alt 1)           ✗      ✗     ✗
-Space Harrier (Dempa)                                                                                 ✗      ✗     ✗
+Space Harrier (Dempa)                                                                                 ✗      -     ✗
 Space Harrier (Dempa) (Alt 1)                                                                         ✗      ✗     ✗
 Space Harrier (Dempa) (Alt 2)                                                                         ✗      ✗     ✗
 Space Harrier (Dempa) (Alt 3)                                                                         ✗      ✗     ✗
@@ -2616,7 +2616,7 @@ Space Harrier (Dempa)[h4]                                                       
 Space Harrier (Dempa)[h5]                                                                             ✗      ✗     ✗
 Space Harrier (Dempa)[h6]                                                                             ✗      ✗     ✗
 Space Harrier (Dempa)[h]                                                                              ✗      ✗     ✗
-Space Invaders (Tiny-Tomo)                                                                            ✗      ✗     ✗
+Space Invaders (Tiny-Tomo)                                                                            ✗      -     ✗
 Space Landing S-Type Mission 2 (Cross Soft)                                                           ✗      ✗     ✗
 Space Rogue (Wave Train) (Disk 1 of 2) (Disk A)                                                       -      ✗     ✗
 Space Rogue (Wave Train) (Disk 2 of 2) (Disk B)                                                       -      ✗     ✗
@@ -2631,19 +2631,19 @@ Square Resort (Family Soft) (Disk 2 of 2) (Data)                                
 Square Resort (Family Soft) (Disk 2 of 2) (Data) (Alt 1)                                              -      ✗     ✗
 Star Blade v1.00 (19xx) (Nami.dat)                                                                    ✗      ✗     ✗
 Star Blade v1.00+ (19xx) (Nami.dat)                                                                   ✗      ✗     ✗
-Star Charge (KMC)                                                                                     ✗      ✗     ✗
+Star Charge (KMC)                                                                                     ✗      -     ✗
 Star Cruiser (Arsys) (Disk 1 of 2) (Disk A)                                                           -      ✗     ✗
 Star Cruiser (Arsys) (Disk 1 of 2) (Disk A) (Alt 1)                                                   -      ✗     ✗
 Star Cruiser (Arsys) (Disk 1 of 2) (Disk A) (Alt 2)                                                   -      ✗     ✗
 Star Cruiser (Arsys) (Disk 2 of 2) (Disk B)                                                           -      ✗     ✗
 Star Cruiser Sol Will 2 (Proceed)                                                                     ✗      ✗     ✗
-Star Fighter (Faw)                                                                                    ✗      ✗     ✗
-Star Force (Dempa)                                                                                    ✗      ✗     ✗
+Star Fighter (Faw)                                                                                    ✗      -     ✗
+Star Force (Dempa)                                                                                    ✗      -     ✗
 Star Force (Dempa) (Alt 1)                                                                            ✗      ✗     ✗
 Star Force (Dempa) (Alt 2)                                                                            ✗      ✗     ✗
 Star Force (Dempa) (Alt 3)                                                                            ✗      ✗     ✗
 Star Luster (19xx) (-)[p]                                                                             -      ✗     ✗
-Star Luster (Dempa)                                                                                   -      ✗     ✗
+Star Luster (Dempa)                                                                                   -      -     ✗
 Star Luster (Dempa) (Alt 1)                                                                           -      ✗     ✗
 Star Luster (Dempa) (Alt 2)                                                                           -      ✗     ✗
 Star Mobile (MNM Software)                                                                            -      ✗     ✗
@@ -2654,7 +2654,7 @@ Star Trader (Takeru) (Disk 2 of 2)                                              
 Star Trader (Takeru) (Disk 2 of 2) (Alt 1)                                                            -      ✗     ✗
 Star Trader (Takeru) (Disk 2 of 2) (Alt 2)                                                            -      ✗     ✗
 Star Trek (19xx) (To$hi)                                                                              ✗      ✗     ✗
-Star War 1991 v2 (K.Y.A.T.)                                                                           ✗      ✗     ✗
+Star War 1991 v2 (K.Y.A.T.)                                                                           ✗      -     ✗
 Star Wars Attack On The Death Star (MNM Software) (Disk 1 of 2) (Disk A)                              -      ✗     ✗
 Star Wars Attack On The Death Star (MNM Software) (Disk 1 of 2) (Disk A) (Alt 1)                      -      ✗     ✗
 Star Wars Attack On The Death Star (MNM Software) (Disk 1 of 2) (Disk A) (Alt 2)                      -      ✗     ✗
@@ -2723,7 +2723,7 @@ Super Daisenryaku 68K (System Soft) (Disk 1 of 2) (System)                      
 Super Daisenryaku 68K (System Soft) (Disk 2 of 2) (Map)                                               ✗      ✗     ✗
 Super Daisenryaku 68K (System Soft)[map data]                                                         -      ✗     ✗
 Super FiSS Fighting Sailor Soldiers (Fiss Seisaku Iinkai)                                             ✗      ✗     ✗
-Super First Mission (YOH)                                                                             ✗      ✗     ✗
+Super First Mission (YOH)                                                                             ✗      -     ✗
 Super Graphic Theater (Angeldust) (Disk 1 of 2) (Disk A)                                              ✗      ✗     ✗
 Super Graphic Theater (Angeldust) (Disk 2 of 2) (Disk B)                                              ✗      ✗     ✗
 Super Hang-On (Sharp - SPS) (Disk 1 of 2) (Disk A)                                                    -      ✗     ✗
@@ -2746,9 +2746,9 @@ Super Shanghai Dragon's Eye (Hot B) (Disk 2 of 2) (Data)                        
 Super Shinpi No Kyoseki (19xx) (FC Software)                                                          ✗      ✗     ✗
 Super Star Shooter (Dotmap Brothers)                                                                  ✗      ✗     ✗
 Super Star Shooter v1.00 (demo) (Dotmap Brothers)                                                     ✗      ✗     ✗
-Super Star Shooter v2.00 (Dotmap Brothers)                                                            ✗      ✗     ✗
+Super Star Shooter v2.00 (Dotmap Brothers)                                                            ✗      -     ✗
 Super Street Bomber X (19xx) (Dragon Studio)[Req Install]                                             ✗      ✗     ✗
-Super Tiny Phalanx (XYZ)                                                                              ✗      ✗     ✗
+Super Tiny Phalanx (XYZ)                                                                              ✗      -     ✗
 Super X-Day X (PYX)                                                                                   ✗      ✗     ✗
 Super X-Day X'95 (PYX)                                                                                ✗      ✗     ✗
 Superior Mahjongg PII _ PIII (Ving) (Disk 1 of 6) (System)                                            -      ✗     ✗
@@ -2859,7 +2859,7 @@ Tako Game II (19xx) (Norikun)                                                   
 Tank Battalion (199x) (L. Sound)                                                                      ✗      ✗     ✗
 Tank Battalion (Pineapple)                                                                            ✗      -     ✗
 Tank-6 (TEC - EPT)                                                                                    ✗      ✗     ✗
-Target (RKS Project)                                                                                  ✗      ✗     ✗
+Target (RKS Project)                                                                                  ✗      -     ✗
 Tatakae! Dai 8 Kikou Shidan (PYN)                                                                     ✗      ✗     ✗
 Tatakae! Konyanko Comike 46 (Nankoku Byouyou) (Disk 1 of 2) (Disk A)                                  ✗      ✗     ✗
 Tatakae! Konyanko Comike 46 (Nankoku Byouyou) (Disk 2 of 2) (Disk B)                                  ✗      ✗     ✗
@@ -2892,7 +2892,7 @@ Tenshin Ranma (Elf) (Disk 4 of 5) (Disk D)                                      
 Tenshin Ranma (Elf) (Disk 5 of 5) (Disk E)                                                            -      ✗     ✗
 Tenshitachi No Gogo III Bangaihen (Jast) (Disk 1 of 2)                                                -      ✗     ✗
 Tenshitachi No Gogo III Bangaihen (Jast) (Disk 2 of 2)                                                -      ✗     ✗
-Terra Drive (Unique's)                                                                                ✗      ✗     ✗
+Terra Drive (Unique's)                                                                                ✗      -     ✗
 Teruminachan, The (Micro Hage Chabin)                                                                 ✗      ✗     ✗
 Tesera (Technopolis) (Disk 1 of 6) (Disk A)                                                           -      ✗     ✗
 Tesera (Technopolis) (Disk 2 of 6) (Disk B)                                                           -      ✗     ✗
@@ -2930,7 +2930,7 @@ Till The Walls Come Tumblin' Down (SSL - Au)                                    
 Tim Country Club 1994 (Moai)                                                                          ✗      ✗     ✗
 Tim Paper Huzoku Scenario Dairyuuou Alexas (Moai)                                                     ✗      ✗     ✗
 Time Pilot (19xx) (IT)                                                                                ✗      ✗     ✗
-Tinna The Seven Crystals (Project Team Interrupt)                                                     ✗      ✗     ✗
+Tinna The Seven Crystals (Project Team Interrupt)                                                     ✗      -     ✗
 Tiny Columns X68000 Special (19xx) (ASM)                                                              ✗      ✗     ✗
 Tiny Hopping Mappy (19xx) (Illkun 68K)                                                                ✗      ✗     ✗
 Tokimeki Cherry Box (19xx) (DO) (Disk 1 of 2) (Disk A)                                                -      ✗     ✗
@@ -2948,7 +2948,7 @@ Tokushu Koudou Keisatsu Sap (Great) (Disk 1 of 3) (Game)                        
 Tokushu Koudou Keisatsu Sap (Great) (Disk 2 of 3) (Disk A)                                            ✗      ✗     ✗
 Tokushu Koudou Keisatsu Sap (Great) (Disk 3 of 3) (Disk B)                                            ✗      ✗     ✗
 Tokusou Keiji (199x) (-)                                                                              ✗      ✗     ✗
-Tonkotsu Pro Roku Hachi Kei (Ichigo)                                                                  ✗      ✗     ✗
+Tonkotsu Pro Roku Hachi Kei (Ichigo)                                                                  ✗      -     ✗
 Toride Spirits Gaiden (19xx) (Takebee) (Disk 1 of 2) (Disk A)                                         ✗      ✗     ✗
 Toride Spirits Gaiden (19xx) (Takebee) (Disk 2 of 2) (Disk B)                                         ✗      ✗     ✗
 Totsugeki! Bakkon Street (Jast) (Disk 1 of 2) (Disk A)                                                ✗      ✗     ✗
@@ -2988,12 +2988,12 @@ Twilight Zone 4 Dreamy Alien Girls (Great) (Disk 1 of 4) (Disk A)               
 Twilight Zone 4 Dreamy Alien Girls (Great) (Disk 2 of 4) (Disk B)                                     -      ✗     ✗
 Twilight Zone 4 Dreamy Alien Girls (Great) (Disk 3 of 4) (Disk C)                                     -      ✗     ✗
 Twilight Zone 4 Dreamy Alien Girls (Great) (Disk 4 of 4) (Disk D)                                     -      ✗     ✗
-Twin Bee (Sharp - SPS)                                                                                -      ✗     ✗
+Twin Bee (Sharp - SPS)                                                                                -      -     ✗
 Twin Bee (Sharp - SPS) (Alt 1)                                                                        -      ✗     ✗
 Twin Bee (Sharp - SPS) (Alt 2)                                                                        -      ✗     ✗
-Twin Soul (-)                                                                                         ✗      ✗     ✗
-Twins (Mugen Kaisha Rana)                                                                             ✗      ✗     ✗
-U.S. Championship Beach Volley V'ball (Sharp - SPS)                                                   -      ✗     ✗
+Twin Soul (-)                                                                                         ✗      -     ✗
+Twins (Mugen Kaisha Rana)                                                                             ✗      -     ✗
+U.S. Championship Beach Volley V'ball (Sharp - SPS)                                                   -      -     ✗
 U.S. Championship Beach Volley V'ball (Sharp - SPS) (Alt 1)                                           -      ✗     ✗
 U.S. Championship Beach Volley V'ball (Sharp - SPS) (Alt 2)                                           -      ✗     ✗
 Uchuu Kaitou Funny Bee (Alice Soft) (Disk 1 of 7) (Disk A)                                            -      ✗     ✗
@@ -3090,8 +3090,8 @@ Warning Type 68 (Cosmos Computer) (Japan) (Disk B)                              
 Water Blue (19xx) (Hypa Soft Lab) (Disk 1 of 2) (Disk A)                                              ✗      ✗     ✗
 Water Blue (19xx) (Hypa Soft Lab) (Disk 2 of 2) (Disk B)                                              ✗      ✗     ✗
 Wild Card (19xx) (Mr. Karmu)                                                                          ✗      ✗     ✗
-Wind Blast (Scuderia Phantom)                                                                         ✗      ✗     ✗
-Wings (Broderbund)                                                                                    -      ✗     ✗
+Wind Blast (Scuderia Phantom)                                                                         ✗      -     ✗
+Wings (Broderbund)                                                                                    -      -     ✗
 Wings (Broderbund) (Alt 1)                                                                            -      ✗     ✗
 Winning Post (Koei) (Disk 1 of 3) (Disk A)                                                            -      ✗     ✗
 Winning Post (Koei) (Disk 1 of 3) (Disk A) (Alt 1)                                                    -      ✗     ✗
@@ -3141,7 +3141,7 @@ Xanadu (Yokoshiba Soft)                                                         
 Xenon 2 Megablast (Imageworks) (Disk 1 of 2) (Disk A)                                                 -      ✗     ✗
 Xenon 2 Megablast (Imageworks) (Disk 2 of 2) (Disk B)                                                 -      ✗     ✗
 Xevious (19xx) (-)[p]                                                                                 ✗      ✗     ✗
-Xevious (Dempa)                                                                                       ✗      ✗     ✗
+Xevious (Dempa)                                                                                       ✗      -     ✗
 Xevious (Dempa) (Alt 1)                                                                               ✗      ✗     ✗
 Xevious (Dempa) (Alt 2)                                                                               ✗      ✗     ✗
 Xevious (Dempa) (Alt 3)                                                                               ✗      ✗     ✗
@@ -3167,7 +3167,7 @@ Yami No Ketsuzoku Kanketsuhen (System Sacom) (Disk 3 of 4)                      
 Yami No Ketsuzoku Kanketsuhen (System Sacom) (Disk 4 of 4)                                            -      ✗     ✗
 Yaritai Houdai (19xx) (Zenryuutsuu)                                                                   -      ✗     ✗
 Yaritai Houdai 2 (19xx) (Zenryuutsuu)                                                                 -      ✗     ✗
-Yesterday (System House Oh!)                                                                          -      ✗     ✗
+Yesterday (System House Oh!)                                                                          -      -     ✗
 Yet Another Column (19xx) (-)                                                                         ✗      ✗     ✗
 Yonkaku (19xx) (Nyagi)                                                                                ✗      ✗     ✗
 Yoru No Tenshitachi (Jast) (Disk 1 of 2)                                                              -      ✗     ✗
@@ -3268,12 +3268,12 @@ Zero Master-Striker (Kazuyuki Shinjuki Gumi)                                    
 Zero Master-Striker (Kazuyuki Shinjuki Gumi) (Alt 1)                                                  ✗      ✗     ✗
 Zero Master-Striker (Kazuyuki Shinjuki Gumi) (Alt 2)                                                  ✗      ✗     ✗
 Zero Master-Striker v1.0 (Kazuyuki Shinjuki Gumi)                                                     ✗      ✗     ✗
-Zero Rei (Kazuyuki Shinjuki Gumi)                                                                     ✗      ✗     ✗
+Zero Rei (Kazuyuki Shinjuki Gumi)                                                                     ✗      -     ✗
 Zero Rei (Kazuyuki Shinjuki Gumi) (Alt 1)                                                             ✗      ✗     ✗
 Zolgus (PCCM)                                                                                         ✗      ✗     ✗
-Zounds (Mugen Unagi Team)                                                                             ✗      ✗     ✗
+Zounds (Mugen Unagi Team)                                                                             ✗      -     ✗
 Zoutage Hunters (Haiteidoradorazu)                                                                    ✗      ✗     ✗
-Zugya (Sprite)                                                                                        ✗      ✗     ✗
+Zugya (Sprite)                                                                                        ✗      -     ✗
 Zugya (Sprite) (Alt 1)                                                                                ✗      ✗     ✗
 eXOn (Softec) (Disk 1 of 2) (Disk A)                                                                  ✗      ✗     ✗
 eXOn (Softec) (Disk 2 of 2) (Disk B)                                                                  ✗      ✗     ✗

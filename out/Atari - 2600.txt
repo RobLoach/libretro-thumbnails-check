@@ -1,9 +1,9 @@
 Atari - 2600 Missing
 
-Boxarts    695/770  90.26%
-Snaps      724/770  94.03%
-Titles     646/770  83.90%
-Total    2065/2310  89.39%
+Boxarts    689/743  92.73%
+Snaps      714/743  96.10%
+Titles     643/743  86.54%
+Total    2046/2229  91.79%
 
 Name                                                                                          Boxart  Snap  Title
 3-D Genesis (USA) (Proto)                                                                        -      -     ✗
@@ -44,21 +44,7 @@ Alpha Beam with Ernie (Europe)                                                  
 Alpha Beam with Ernie (Japan, USA) (En)                                                          -      -     -
 Amidar (Europe)                                                                                  -      -     -
 Amidar (USA)                                                                                     -      -     -
-Amoeba Jump (World) (Aftermarket) (Unl)                                                          ✗      ✗     ✗
-Amoeba Jump (World) (PAL 50Hz) (Aftermarket) (Unl)                                               ✗      ✗     ✗
-Amoeba Jump (World) (PAL 60Hz) (Aftermarket) (Unl)                                               ✗      ✗     ✗
-Amoeba Jump (World) (Retron 77 Version) (Aftermarket) (Unl)                                      ✗      ✗     ✗
-Amoeba Jump (World) (v0.1) (Aftermarket) (Unl)                                                   ✗      ✗     ✗
-Amoeba Jump (World) (v1.1) (Aftermarket) (Unl)                                                   ✗      ✗     ✗
-Amoeba Jump (World) (v1.1) (Europe) (Aftermarket) (Unl)                                          ✗      ✗     ✗
-Amoeba Jump (World) (v1.2) (Aftermarket) (Unl)                                                   ✗      ✗     ✗
-Amoeba Jump (World) (v1.2) (Europe) (Aftermarket) (Unl)                                          ✗      ✗     ✗
-Amoeba Jump (World) (v1.3) (Aftermarket) (Unl)                                                   ✗      ✗     ✗
-Amoeba Jump (World) (v1.3) (Europe) (Aftermarket) (Unl)                                          ✗      ✗     ✗
 AndroMan on the Moon (USA) (Proto)                                                               -      -     ✗
-Angry Video Game Nerd K.O. Boxing (World) (Aftermarket) (Unl)                                    ✗      ✗     ✗
-Angry Video Game Nerd K.O. Boxing (World) (PAL 60hz) (Aftermarket) (Unl)                         ✗      ✗     ✗
-Anguna 2600 (World) (Aftermarket)                                                                ✗      -     ✗
 Apples and Dolls (Brazil) (En) (Unl)                                                             ✗      -     ✗
 Aquaventure (Brazil) (En) (Proto) (Unl)                                                          -      -     ✗
 Aquaventure (USA) (Proto) (1983-08-12)                                                           -      -     ✗
@@ -67,9 +53,9 @@ Armor Ambush (USA)                                                              
 Artillery Duel (Europe)                                                                          -      -     -
 Artillery Duel (USA)                                                                             -      -     -
 Assault (USA)                                                                                    -      -     -
-Assembloids (World) (Aftermarket) (Unl)                                                          ✗      ✗     ✗
 Asteroids (Europe)                                                                               -      -     -
 Asteroids (Japan, USA) (En)                                                                      -      -     -
+Asteroids (USA) (Alternate)                                                                      ✗      ✗     ✗
 Asteroids (USA) (Atari Anthology)                                                                -      -     -
 Astroblast (Europe)                                                                              -      -     -
 Astroblast (USA)                                                                                 -      -     -
@@ -118,6 +104,7 @@ Bermuda Triangle (USA)                                                          
 Berzerk (Brazil) (En) (Unl)                                                                      ✗      -     ✗
 Berzerk (Europe)                                                                                 -      -     -
 Berzerk (Japan, USA) (En)                                                                        -      -     -
+Berzerk (World) (Enhanced Edition)                                                               ✗      ✗     ✗
 Big Bird's Egg Catch (Europe)                                                                    -      -     -
 Big Bird's Egg Catch (Japan, USA) (En)                                                           -      -     -
 Big Bird's Egg Catch (Japan, USA) (En) (Beta) (1982-12-08)                                       -      -     ✗
@@ -164,6 +151,7 @@ Bump 'n' Jump (USA)                                                             
 Bumper Bash (Europe)                                                                             -      -     -
 Bumper Bash (USA)                                                                                -      -     -
 BurgerTime (USA)                                                                                 -      -     -
+Burgertime (USA) (PROPER 12K)                                                                    ✗      ✗     ✗
 Burning Desire (Europe)                                                                          -      -     -
 Burning Desire (USA)                                                                             -      -     -
 Cabbage Patch Kids - Adventures in the Park (USA) (Proto) (1984-09-13)                           -      -     ✗
@@ -202,7 +190,7 @@ Codebreaker (USA)                                                               
 Col 'N' (Europe) (Unl)                                                                           -      -     ✗
 Color Bar Generator (USA)                                                                        -      -     -
 Colors (Europe) (Proto)                                                                          ✗      -     ✗
-Colours (USA, Europe) (Atari Anthology)                                                          -      -     ✗
+Colours (USA, Europe) (Demo) (Atari Anthology)                                                   ✗      ✗     ✗
 Combat (Europe)                                                                                  -      -     -
 Combat (USA, Europe) (Atari Anthology)                                                           -      -     -
 Combat Two (USA) (Proto)                                                                         -      -     -
@@ -242,6 +230,7 @@ Dark Chambers (USA)                                                             
 Deadly Duck (USA)                                                                                -      -     -
 Death Trap (USA)                                                                                 -      -     -
 Defender (USA)                                                                                   -      -     -
+Defender II (USA) (Alternate)                                                                    ✗      ✗     ✗
 Demolition Herby (USA)                                                                           -      -     -
 Demon Attack (USA) (Rev 1)                                                                       -      -     -
 Demons to Diamonds (USA)                                                                         -      -     -
@@ -287,6 +276,7 @@ Farmyard Fun (USA)                                                              
 Fast Eddie (USA)                                                                                 -      -     -
 Fast Food (USA)                                                                                  -      -     -
 Fatal Run (Europe)                                                                               -      -     -
+Fatal Run (Europe) (Alternate)                                                                   ✗      ✗     ✗
 Fatal Run (USA)                                                                                  -      -     -
 Fathom (USA)                                                                                     -      -     -
 Final Approach (USA)                                                                             -      -     -
@@ -302,7 +292,7 @@ Forest (Europe)                                                                 
 Frankenstein's Monster (USA)                                                                     -      -     -
 Freeway (USA)                                                                                    -      -     -
 Frisco (USA)                                                                                     -      -     -
-Frog Demo (Europe)                                                                               -      -     -
+Frog Demo (Europe) (Demo)                                                                        ✗      ✗     ✗
 Frog Pond (USA) (Proto)                                                                          -      -     -
 Frogger (USA)                                                                                    -      -     -
 Frogger II - Threeedeep! (USA)                                                                   -      -     -
@@ -323,8 +313,6 @@ Ghostbusters II (Europe)                                                        
 Gigolo (USA)                                                                                     -      -     -
 Glacier Patrol (USA)                                                                             -      -     -
 Glib - Video Word Game (USA)                                                                     -      -     -
-Go Fish! (World) (Aftermarket)                                                                   ✗      ✗     ✗
-Go Fish! (World) (Europe) (Aftermarket)                                                          ✗      ✗     ✗
 Going-Up (USA) (Proto)                                                                           -      -     ✗
 Golf (USA)                                                                                       -      -     -
 Good Luck, Charlie Brown (USA) (Proto)                                                           -      -     ✗
@@ -340,7 +328,6 @@ Guardian (USA)                                                                  
 Gyruss (USA)                                                                                     -      -     -
 H.E.R.O. (USA)                                                                                   -      -     -
 Halloween (USA)                                                                                  -      -     -
-Halo 2600 (World) (Aftermarket) (Unl)                                                            ✗      ✗     ✗
 Hangman ~ Spelling (USA)                                                                         -      -     -
 Hard-Head (USA) (Proto)                                                                          -      -     ✗
 Harem (USA) (Proto)                                                                              -      -     ✗
@@ -354,9 +341,6 @@ Hunt _ Score ~ Memory Match (USA)                                               
 I Want My Mommy (USA)                                                                            -      -     -
 I.Q. 180 (USA)                                                                                   -      -     -
 I.Q. Memory Teaser (Europe)                                                                      -      -     -
-INV+ (World) (2004-04-08) (Beta) (Aftermarket)                                                   ✗      -     ✗
-INV+ (World) (2004-04-29) (Beta) (Aftermarket)                                                   ✗      -     ✗
-INV+ (World) (Aftermarket)                                                                       ✗      -     ✗
 IQ 180 (USA)                                                                                     -      -     -
 Ice Hockey (USA)                                                                                 -      -     -
 Ikari Warriors (USA)                                                                             -      -     -
@@ -389,7 +373,6 @@ Kool-Aid Man (USA)                                                              
 Krull (USA)                                                                                      -      -     -
 Kung-Fu Master (USA)                                                                             -      -     -
 Kyphus (USA) (Proto)                                                                             -      -     -
-Laaser Voley (Europe) (Pirate)                                                                   -      -     ✗
 Lady in Wading (USA)                                                                             -      -     ✗
 Laser Blast (USA)                                                                                -      -     -
 Laser Gates (USA)                                                                                -      -     -
@@ -453,12 +436,12 @@ Mr. Do! (USA)                                                                   
 Mr. Do!'s Castle (USA)                                                                           -      -     -
 Mr. Postman (Europe)                                                                             -      -     -
 Mr. Postman (USA)                                                                                -      -     -
+Mr. Run and Jump (World)                                                                         ✗      ✗     ✗
 Ms. Pac-Man (USA)                                                                                -      -     -
 Ms. Pac-Man (United Kingdom)                                                                     -      -     -
 Music Machine, The (USA)                                                                         -      -     -
 My Golf (Europe)                                                                                 -      -     -
 Mysterious Thief, A (USA) (Proto)                                                                -      -     -
-Mystery Science Theater 2600 (USA) (Aftermarket) (Pirate)                                        ✗      ✗     ✗
 Name This Game (USA)                                                                             -      -     -
 Night Driver (Europe)                                                                            ✗      ✗     ✗
 Night Driver (USA)                                                                               -      -     -
@@ -480,7 +463,6 @@ Othello (USA)                                                                   
 Out of Control (USA)                                                                             -      -     -
 Outlaw (Europe)                                                                                  -      -     -
 Outlaw ~ Gunslinger (USA)                                                                        -      -     -
-Oystron (World) (Aftermarket) (Unl)                                                              ✗      ✗     ✗
 Pac-Man (USA)                                                                                    -      -     -
 Panda Chase (Europe)                                                                             -      -     -
 Parachute (Europe)                                                                               -      -     -
@@ -553,7 +535,6 @@ River Raid (USA)                                                                
 River Raid II (USA)                                                                              -      -     -
 Road Runner (USA)                                                                                -      -     -
 Robin Hood (USA)                                                                                 -      -     -
-Robo-Ninja Climb (World) (Aftermarket) (Unl)                                                     ✗      ✗     ✗
 Robot Tank (USA)                                                                                 -      -     -
 Roc 'n Rope (USA)                                                                                -      -     -
 Rocky _ Bullwinkle (USA) (Proto)                                                                 ✗      -     ✗
@@ -579,9 +560,6 @@ Secret Agent (USA) (Proto)                                                      
 Secret Quest (USA)                                                                               -      -     -
 See Saw (Europe)                                                                                 -      -     ✗
 Sentinel (USA)                                                                                   -      -     -
-Sheep It Up! - NTSC (World) (Aftermarket) (Unl)                                                  ✗      ✗     ✗
-Sheep It Up! - PAL (World) (Aftermarket) (Unl)                                                   ✗      ✗     ✗
-Sheep It Up! - SECAM (World) (Aftermarket) (Unl)                                                 ✗      ✗     ✗
 Shootin' Gallery (Europe) (Proto)                                                                ✗      -     ✗
 Shootin' Gallery (USA)                                                                           -      -     -
 Shooting Arcade (USA) (Proto)                                                                    -      -     -
@@ -603,6 +581,7 @@ Sky Jinks (USA)                                                                 
 Sky Patrol (USA) (Proto)                                                                         -      -     -
 Sky Skipper (USA)                                                                                -      -     -
 Slot Machine ~ Slots (USA)                                                                       -      -     -
+Slot Racers (Europe)                                                                             ✗      ✗     ✗
 Slot Racers ~ Maze (USA)                                                                         -      -     -
 Smurf - Rescue in Gargamel's Castle (USA)                                                        -      -     -
 Smurfs Save the Day (USA)                                                                        -      -     -
@@ -616,7 +595,7 @@ Solaris (USA)                                                                   
 Sonar (Unknown) (Proto)                                                                          ✗      ✗     ✗
 Sorcerer (USA)                                                                                   -      -     -
 Sorcerer's Apprentice (USA)                                                                      -      -     -
-Sound (USA, Europe) (Atari Anthology)                                                            -      -     ✗
+Sound (USA, Europe) (Demo) (Atari Anthology)                                                     ✗      ✗     ✗
 Space Attack (USA)                                                                               -      -     -
 Space Cavern (USA)                                                                               -      -     -
 Space Invaders (USA)                                                                             -      -     -
@@ -697,7 +676,7 @@ Swordfight (USA)                                                                
 TRON - Deadly Discs (USA)                                                                        -      -     -
 Tac-Scan (USA)                                                                                   -      -     -
 Tank AI (USA, Europe)                                                                            ✗      -     ✗
-Tanks But no Tanks (USA)                                                                         -      -     -
+Tanks but No Tanks (USA)                                                                         ✗      ✗     ✗
 Tapeworm (USA)                                                                                   -      -     -
 Tapper (USA)                                                                                     -      -     -
 Tax Avoiders (USA)                                                                               -      -     -
@@ -734,7 +713,7 @@ Universal Chaos (USA)                                                           
 Up 'n Down (USA)                                                                                 -      -     -
 Vanguard (USA)                                                                                   -      -     -
 Vault Assault (USA) (Unl)                                                                        -      -     -
-Venetian Blinds Demo (USA)                                                                       -      -     -
+Venetian Blinds Demo (USA) (Demo)                                                                ✗      ✗     ✗
 Venture (USA)                                                                                    -      -     -
 Video Checkers ~ Checkers (USA)                                                                  -      -     -
 Video Chess (USA)                                                                                -      -     -
@@ -748,12 +727,6 @@ Wabbit (USA)                                                                    
 Walker ~ Schussel, der Polizistenschreck (Europe)                                                -      -     -
 Wall Ball (USA)                                                                                  -      -     -
 Wall Break (Europe)                                                                              -      -     -
-Wall Jump Ninja (World) (2015-01-15) (Aftermarket) (Unl)                                         ✗      ✗     ✗
-Wall Jump Ninja (World) (2015-01-15) (Europe) (Aftermarket) (Unl)                                ✗      ✗     ✗
-Wall Jump Ninja (World) (2015-01-15) (PAL 60Hz) (Aftermarket) (Unl)                              ✗      ✗     ✗
-Wall Jump Ninja (World) (Aftermarket) (Unl)                                                      ✗      ✗     ✗
-Wall Jump Ninja (World) (v1.1) (2016-05-08) (Aftermarket) (Unl)                                  ✗      ✗     ✗
-Wall Jump Ninja (World) (v1.1) (2016-05-08) (Europe) (Aftermarket) (Unl)                         ✗      ✗     ✗
 Wall-Defender (USA)                                                                              -      -     -
 Warlords (USA)                                                                                   -      -     -
 Warplock (USA)                                                                                   -      -     -
