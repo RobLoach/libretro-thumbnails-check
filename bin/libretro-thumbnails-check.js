@@ -10,11 +10,7 @@ var writeReport = require('..').writeReport
 var thumbnails = require('..').thumbnails
 var getGameThumbnails = require('..').getGameThumbnails
 var cleanGameName = require('..').cleanGameName
-const Downloader = require('nodejs-file-downloader')
-
-function getRandomInt(max) {
-	return Math.floor(Math.random() * max);
-  }
+var fetchThumbnailIndex = require('..').fetchThumbnailIndex
 
 glob('libretro-database/rdb/*.rdb', function (err, files) {
 	// Create the task runner.
@@ -29,19 +25,19 @@ glob('libretro-database/rdb/*.rdb', function (err, files) {
 			title: system + ' Index',
 			task: function(context) {
 				return new Promise(async function (resolve, reject) {
-					const downloader = new Downloader({
-						url: `https://thumbnails.libretro.com/${system.replaceAll(' ', '%20')}/.index?nocaches=${getRandomInt(1000)}&${getRandomInt(1000)}`,
-						directory: __dirname + '/../indexFiles',
-						fileName: `${system}.index`,
-						skipExistingFileName: true
-					})
+					const indexFile = `${__dirname}/../indexFiles/${system}.index`
+					if (fs.existsSync(indexFile)) {
+						return resolve()
+					}
 
 					try {
-						await downloader.download()
+						let files = await fetchThumbnailIndex(system)
+						fs.mkdirSync(path.dirname(indexFile), { recursive: true })
+						fs.writeFileSync(indexFile, files.join('\n'))
 						resolve()
 					}
 					catch (error) {
-						fs.writeFileSync(`${__dirname}/../indexFiles/${system}.index`, `404 Index not found: https://thumbnails.libretro.com/${system.replaceAll(' ', '%20')}/.index`)
+						fs.writeFileSync(indexFile, `404 Index not found: https://thumbnails.libretro.com/${encodeURIComponent(system)}/`)
 						resolve()
 					}
 				})

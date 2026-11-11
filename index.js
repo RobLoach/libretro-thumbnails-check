@@ -169,7 +169,30 @@ function writeReport(system, games, thumbs) {
 }
 
 /**
- * Downloads the index of all thumbnails.
+ * Builds the list of thumbnails for a system from the server directory listings.
+ */
+async function fetchThumbnailIndex(system) {
+	let files = []
+	for (let type of ['Named_Boxarts', 'Named_Snaps', 'Named_Titles']) {
+		let url = `https://thumbnails.libretro.com/${encodeURIComponent(system)}/${type}/`
+		let response = await fetch(url)
+		if (response.status == 404) {
+			continue
+		}
+		if (!response.ok) {
+			throw new Error(`${response.status} ${url}`)
+		}
+		let html = await response.text()
+		for (let match of html.matchAll(/<a href="([^"?\/][^"]*\.png)"/g)) {
+			let href = match[1].replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&')
+			files.push(type + '/' + decodeURIComponent(href))
+		}
+	}
+	return files
+}
+
+/**
+ * Loads the index of all thumbnails.
  */
 function thumbnails(system) {
 
@@ -196,6 +219,7 @@ module.exports = {
 	processSystem: processSystem,
 	writeReport: writeReport,
 	thumbnails: thumbnails,
+	fetchThumbnailIndex: fetchThumbnailIndex,
 	getGameThumbnails: getGameThumbnails,
 	cleanGameName: cleanGameName
 }
