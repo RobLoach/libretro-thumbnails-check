@@ -1,21 +1,13 @@
 'use strict'
 
 // Dependencies
-var path = require('path')
-var pkg = require('./package.json')
 var fs = require('fs')
-var glob = require('glob')
 var globby = require('globby')
 var datfile = require('robloach-datfile')
-var minimatch = require('minimatch')
 var table = require('text-table')
-var fileExists = require('file-exists')
-var sanitizeFilename = require('sanitize-filename')
 var batchreplace = require('batchreplace')
 var sort = require('sort-object-keys')
-var Listr = require('listr')
 var exists = require('fs-exists-sync')
-var recursiveReadDirSync = require('recursive-readdir-sync')
 
 // Construct the thumbnail cleaner.
 var cleanGameName = batchreplace.mapReplacer({
