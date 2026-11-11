@@ -175,7 +175,13 @@ async function fetchThumbnailIndex(system) {
 	let files = []
 	for (let type of ['Named_Boxarts', 'Named_Snaps', 'Named_Titles']) {
 		let url = `https://thumbnails.libretro.com/${encodeURIComponent(system)}/${type}/`
-		let response = await fetch(url)
+		let response
+		try {
+			response = await fetch(url)
+		}
+		catch (error) {
+			throw new Error(`${error.message} ${url}`)
+		}
 		if (response.status == 404) {
 			continue
 		}

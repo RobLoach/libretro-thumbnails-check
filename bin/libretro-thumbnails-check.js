@@ -12,10 +12,22 @@ var getGameThumbnails = require('..').getGameThumbnails
 var cleanGameName = require('..').cleanGameName
 var fetchThumbnailIndex = require('..').fetchThumbnailIndex
 
+// Pass --refresh to ignore cached index files and fetch them again.
+var refresh = process.argv.includes('--refresh')
+
 glob('libretro-database/rdb/*.rdb', function (err, files) {
+	if (err) {
+		console.error(err)
+		process.exit(1)
+	}
+
+	// Systems that failed, mapped to their error message.
+	var failed = {}
+
 	// Create the task runner.
 	var tasks = new Listr([], {
-		concurrent: false
+		concurrent: false,
+		exitOnError: false
 	})
 	files.forEach((file) => {
 		'use strict'
@@ -26,7 +38,7 @@ glob('libretro-database/rdb/*.rdb', function (err, files) {
 			task: function(context) {
 				return new Promise(async function (resolve, reject) {
 					const indexFile = `${__dirname}/../indexFiles/${system}.index`
-					if (fs.existsSync(indexFile)) {
+					if (!refresh && fs.existsSync(indexFile)) {
 						return resolve()
 					}
 
@@ -37,14 +49,19 @@ glob('libretro-database/rdb/*.rdb', function (err, files) {
 						resolve()
 					}
 					catch (error) {
-						fs.writeFileSync(indexFile, `404 Index not found: https://thumbnails.libretro.com/${encodeURIComponent(system)}/`)
-						resolve()
+						failed[system] = `Index fetch failed: ${error.message}`
+						reject(new Error(`${system}: ${failed[system]}`))
 					}
 				})
 			}
 		})
 		tasks.add({
 			title: system,
+			skip: function () {
+				if (failed[system]) {
+					return 'Skipped: index unavailable'
+				}
+			},
 			task: function (context) {
 				return new Promise(function (resolve, reject) {
 					processSystem(system).then(function (fileResult) {
@@ -77,13 +94,20 @@ glob('libretro-database/rdb/*.rdb', function (err, files) {
 						}
 						return resolve()
 					}).catch(function (err) {
+						failed[system] = err.message
 						reject(err)
 					})
 				})
 			}
 		})
 	})
-	tasks.run().then(function (report) {
+	tasks.run().catch(function (err) {
+		// With exitOnError disabled, the context of the successful systems is still available.
+		if (err.errors && err.context) {
+			return err.context
+		}
+		throw err
+	}).then(function (report) {
 		let output = ''
 		let totals = {
 			boxart: 0,
@@ -114,7 +138,17 @@ glob('libretro-database/rdb/*.rdb', function (err, files) {
 		var contents = fs.readFileSync('.README.template.md', {encoding:'utf8'})
 		contents = contents.replace('{{ contents }}', output)
 		fs.writeFileSync('README.md', contents)
+
+		let failedSystems = Object.keys(failed)
+		if (failedSystems.length > 0) {
+			console.error(`\n${failedSystems.length} system(s) failed:`)
+			for (let systemName of failedSystems) {
+				console.error(`- ${systemName}: ${failed[systemName]}`)
+			}
+			process.exitCode = 1
+		}
 	}).catch(function (err) {
-		console.error(err);
-	});
+		console.error(err)
+		process.exitCode = 1
+	})
 })
