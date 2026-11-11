@@ -142,6 +142,7 @@ glob('libretro-database/rdb/*.rdb', { cwd: root }, function (err, files) {
 
 		var contents = fs.readFileSync(path.join(root, '.README.template.md'), {encoding:'utf8'})
 		contents = contents.replace('{{ contents }}', output)
+		contents = contents.replace('{{ date }}', new Date().toISOString().slice(0, 10))
 		fs.writeFileSync(path.join(root, 'README.md'), contents)
 
 		let failedSystems = Object.keys(failed)

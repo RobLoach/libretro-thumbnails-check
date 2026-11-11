@@ -1,6 +1,8 @@
 # libretro-thumbnails-check
 
-Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libretro-thumbnails) against [libretro-database](https://github.com/libretro/libretro-database).
+Checks the consistency of [libretro-thumbnails](https://github.com/libretro/libretro-thumbnails) against [libretro-database](https://github.com/libretro/libretro-database).
+
+Generated on 2023-12-08.
 
 | System | Boxarts | Snaps | Titles | Total | Percent |
 | :--- | :---: | :---: | :---: | :---: | ---: |
@@ -132,11 +134,28 @@ Checks the consistancy of [libretro-thumbnails](https://github.com/libretro/libr
 | [Wolfenstein 3D](out/Wolfenstein%203D.txt) | 10 / 10 | 10 / 10 | 10 / 10 | 30 / 30 | **100.00%** |
 | **Total** | **71753 / 314947** | **75792 / 314947** | **64490 / 314947** | **212035 / 944841** | **22.44%** |
 
-## Build
+## Reports
+
+Each system links to `out/<system>.txt`, which lists every game in the database and whether it has a boxart, snap and title thumbnail. Thumbnails that don't match any game are listed in `out/<system> Orphans.txt`, usually from a misnamed or renamed game.
+
+The thumbnail lists are built from the directory listings on [thumbnails.libretro.com](https://thumbnails.libretro.com), and cached in `indexFiles/`.
+
+## Usage
+
+Requires [Node.js](https://nodejs.org) 18 or later.
 
 ```
 git clone https://github.com/RobLoach/libretro-thumbnails-check.git
 cd libretro-thumbnails-check
-git submodule update --init
-npm it
+make
 ```
+
+`make` initializes the libretro-database submodule, runs `npm install`, and generates the report. `make clean` removes the generated output, `node_modules` and the cached thumbnail lists.
+
+To run the report directly:
+
+```
+node bin/libretro-thumbnails-check.js
+```
+
+Pass `--refresh` to fetch the thumbnail lists again instead of using the cache in `indexFiles/`. The command exits with a non-zero code if any system's thumbnail list fails to fetch.
