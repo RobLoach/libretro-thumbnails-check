@@ -2,6 +2,7 @@
 
 // Dependencies
 var fs = require('fs')
+var path = require('path')
 var globby = require('globby')
 var datfile = require('robloach-datfile')
 var table = require('text-table')
@@ -41,7 +42,7 @@ function processSystem(system) {
 			'libretro-database/metadat/no-intro/' + system + '.dat',
 			'libretro-database/dat/' + system + '.dat'
 		]
-		globby(patterns).then(function (paths) {
+		globby(patterns, { cwd: __dirname, absolute: true }).then(function (paths) {
 			var promises = []
 			for (var i in paths) {
 				var file = paths[i]
@@ -85,8 +86,9 @@ function getGameThumbnails(thumbs, system, name) {
  * Writes a system report containing the thumbnails.
  */
 function writeReport(system, games, thumbs) {
-	if (!exists('out')) {
-		fs.mkdirSync('out')
+	let outDir = path.join(__dirname, 'out')
+	if (!exists(outDir)) {
+		fs.mkdirSync(outDir)
 	}
 	games = sort(games)
 	let output = system + ' Missing\n\n'
@@ -150,7 +152,7 @@ function writeReport(system, games, thumbs) {
 			}
 		}
 		let orphans = [...thumbs].filter((thumb) => !matched.has(thumb))
-		let orphansFile = 'out/' + system + ' Orphans.txt'
+		let orphansFile = path.join(outDir, system + ' Orphans.txt')
 		if (orphans.length > 0) {
 			fs.writeFileSync(orphansFile, system + ' Orphans\n\n' + orphans.join('\n'))
 		}
@@ -158,7 +160,7 @@ function writeReport(system, games, thumbs) {
 			fs.rmSync(orphansFile, { force: true })
 		}
 	}
-	fs.writeFileSync('out/' + system + '.txt', output)
+	fs.writeFileSync(path.join(outDir, system + '.txt'), output)
 	return count
 }
 

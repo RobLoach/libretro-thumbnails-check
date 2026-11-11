@@ -15,7 +15,15 @@ var fetchThumbnailIndex = require('..').fetchThumbnailIndex
 // Pass --refresh to ignore cached index files and fetch them again.
 var refresh = process.argv.includes('--refresh')
 
-glob('libretro-database/rdb/*.rdb', function (err, files) {
+// Resolve all paths relative to the project root, not the working directory.
+var root = path.join(__dirname, '..')
+
+// Percentage of a count, or 0 when there is nothing to count.
+function percent(count, total) {
+	return (total > 0 ? (count / total) * 100 : 0).toFixed(2)
+}
+
+glob('libretro-database/rdb/*.rdb', { cwd: root }, function (err, files) {
 	if (err) {
 		console.error(err)
 		process.exit(1)
@@ -37,7 +45,7 @@ glob('libretro-database/rdb/*.rdb', function (err, files) {
 			title: system + ' Index',
 			task: function(context) {
 				return new Promise(async function (resolve, reject) {
-					const indexFile = `${__dirname}/../indexFiles/${system}.index`
+					const indexFile = path.join(root, 'indexFiles', system + '.index')
 					if (!refresh && fs.existsSync(indexFile)) {
 						return resolve()
 					}
@@ -75,23 +83,20 @@ glob('libretro-database/rdb/*.rdb', function (err, files) {
 							}
 						}
 
-						// If there are any games.
-						if (games.length > 0) {
-							let output = {}
-							// Load the system thumbnails.
-							let thumbs = thumbnails(system)
-							let gameName = null
-							let gameIndex = 0
-							// Loop through each game and fill in the thumbnail data.
-							for (gameIndex in games) {
-								gameName = cleanGameName(games[gameIndex])
-								if (!output[gameName]) {
-									output[gameName] = getGameThumbnails(thumbs, system, gameName)
-								}
+						let output = {}
+						// Load the system thumbnails.
+						let thumbs = thumbnails(system)
+						let gameName = null
+						let gameIndex = 0
+						// Loop through each game and fill in the thumbnail data.
+						for (gameIndex in games) {
+							gameName = cleanGameName(games[gameIndex])
+							if (!output[gameName]) {
+								output[gameName] = getGameThumbnails(thumbs, system, gameName)
 							}
-							let totals = writeReport(system, output, thumbs)
-							context[system] = totals
 						}
+						// Systems with no games are still reported, with zero counts.
+						context[system] = writeReport(system, output, thumbs)
 						return resolve()
 					}).catch(function (err) {
 						failed[system] = err.message
@@ -123,21 +128,21 @@ glob('libretro-database/rdb/*.rdb', function (err, files) {
 			totals.total += systemReport.total
 		}
 		var titletotal = totals.snap + totals.boxart + totals.title
-		let totalTotalPercent = ((titletotal / (totals.total * 3)) * 100).toFixed(2)
+		let totalTotalPercent = percent(titletotal, totals.total * 3)
 		output += `| System | Boxarts | Snaps | Titles | Total | Percent |\n`
 		output += `| :--- | :---: | :---: | :---: | :---: | ---: |\n`
 		for (let systemName in report) {
 			let systemReport = report[systemName]
 			let total = systemReport.snap + systemReport.boxart + systemReport.title
-			let totalPercent = ((total / (systemReport.total * 3)) * 100).toFixed(2)
+			let totalPercent = percent(total, systemReport.total * 3)
 			var urlName = systemName.split(' ').join('%20')
 			output += `| [${systemName}](out/${urlName}.txt) | ${systemReport.boxart} / ${systemReport.total} | ${systemReport.snap} / ${systemReport.total} | ${systemReport.title} / ${systemReport.total} | ${total} / ${systemReport.total * 3} | **${totalPercent}%** |\n`
 		}
 		output += `| **Total** | **${totals.boxart} / ${totals.total}** | **${totals.snap} / ${totals.total}** | **${totals.title} / ${totals.total}** | **${titletotal} / ${totals.total * 3}** | **${totalTotalPercent}%** |`
 
-		var contents = fs.readFileSync('.README.template.md', {encoding:'utf8'})
+		var contents = fs.readFileSync(path.join(root, '.README.template.md'), {encoding:'utf8'})
 		contents = contents.replace('{{ contents }}', output)
-		fs.writeFileSync('README.md', contents)
+		fs.writeFileSync(path.join(root, 'README.md'), contents)
 
 		let failedSystems = Object.keys(failed)
 		if (failedSystems.length > 0) {
