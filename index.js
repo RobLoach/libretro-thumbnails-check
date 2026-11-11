@@ -17,9 +17,6 @@ var Listr = require('listr')
 var exists = require('fs-exists-sync')
 var recursiveReadDirSync = require('recursive-readdir-sync')
 
-// Set the location where libretro-thumbnails is.
-var libretroThumbnailsPath = pkg.config['libretro-thumbnails-path']
-
 // Construct the thumbnail cleaner.
 var cleanGameName = batchreplace.mapReplacer({
 	'&': '_',
@@ -79,13 +76,13 @@ function processSystem(system) {
 function getGameThumbnails(thumbs, system, name) {
 	var result = {}
 
-	if (thumbs.includes(`Named_Boxarts/${name}.png`)) {
+	if (thumbs.has(`Named_Boxarts/${name}.png`)) {
 		result.boxart = true
 	}
-	if (thumbs.includes(`Named_Snaps/${name}.png`)) {
+	if (thumbs.has(`Named_Snaps/${name}.png`)) {
 		result.snap = true
 	}
-	if (thumbs.includes(`Named_Titles/${name}.png`)) {
+	if (thumbs.has(`Named_Titles/${name}.png`)) {
 		result.title = true
 	}
 
@@ -152,16 +149,21 @@ function writeReport(system, games, thumbs) {
 			align: ['l', 'c', 'c', 'c']
 		})
 
-		let orphans = ''
-		for (let o in thumbs) {
-			// Ignore the .git folder.
-			if (thumbs[o].indexOf('.git') < 0 && thumbs[o].indexOf('.travis.') < 0 && thumbs[o] != '.travis.yml') {
-				orphans += '\n' + thumbs[o].replace(system + '/', '').replace(libretroThumbnailsPath, '')
+		// Orphans are thumbnails that match no game.
+		let matched = new Set()
+		for (let gameName in games) {
+			let name = cleanGameName(gameName)
+			for (let type of ['Named_Boxarts', 'Named_Snaps', 'Named_Titles']) {
+				matched.add(`${type}/${name}.png`)
 			}
 		}
-		if (orphans.length >= 5) {
-			orphans = system + ' Orphans\n' + orphans
-			fs.writeFileSync('out/' + system + ' Orphans.txt', orphans)
+		let orphans = [...thumbs].filter((thumb) => !matched.has(thumb))
+		let orphansFile = 'out/' + system + ' Orphans.txt'
+		if (orphans.length > 0) {
+			fs.writeFileSync(orphansFile, system + ' Orphans\n\n' + orphans.join('\n'))
+		}
+		else {
+			fs.rmSync(orphansFile, { force: true })
 		}
 	}
 	fs.writeFileSync('out/' + system + '.txt', output)
@@ -198,7 +200,7 @@ async function fetchThumbnailIndex(system) {
 }
 
 /**
- * Loads the index of all thumbnails.
+ * Loads the index of all thumbnails as a Set.
  */
 function thumbnails(system) {
 
@@ -206,19 +208,7 @@ function thumbnails(system) {
 
 	let content = fs.readFileSync(fileName, 'utf8')
 
-	let files = content.split('\n').filter(Boolean)
-
-	// let filePath = path.join(libretroThumbnailsPath, system)
-	// try {
-	// 	files = recursiveReadDirSync(filePath)
-	// }
-	// catch (err) {
-	// 	// Nothing.
-	// }
-	// for (let i in files) {
-	// 	files[i] = files[i].replace(libretroThumbnailsPath + '/', '')
-	// }
-	return files
+	return new Set(content.split('\n').filter(Boolean))
 }
 
 module.exports = {
