@@ -9,7 +9,6 @@ const {
 	cleanGameName,
 	thumbnailRepo,
 	thumbnails,
-	hasLogos,
 	getGameThumbnails,
 	findInvalidThumbnails,
 	writeReport,
@@ -77,13 +76,6 @@ test('thumbnails returns the Named_* PNG paths as a Set', () => {
 test('thumbnails handles a missing index', () => {
 	assert.strictEqual(thumbnails(null).size, 0)
 	assert.strictEqual(thumbnails([]).size, 0)
-})
-
-test('hasLogos checks for files in Named_Logos', () => {
-	assert.strictEqual(hasLogos([file('Named_Boxarts/A.png'), file('Named_Logos/A.png')]), true)
-	assert.strictEqual(hasLogos([file('Named_Boxarts/A.png'), file('Named_Logos_Old/A.png')]), false)
-	assert.strictEqual(hasLogos([]), false)
-	assert.strictEqual(hasLogos(null), false)
 })
 
 test('getGameThumbnails flags each thumbnail type the game has', () => {
@@ -226,14 +218,13 @@ test('writeReport counts thumbnails and writes orphans and invalid files', (t) =
 		'Missing': {}
 	}
 	let invalid = findInvalidThumbnails([file('Named_Boxarts/Bad.jpg', 0)])
-	let count = writeReport('Test - System', games, thumbs, true, true, invalid, outDir)
+	let count = writeReport('Test - System', games, thumbs, true, invalid, outDir)
 
 	assert.deepStrictEqual(count, {
 		boxart: 2,
 		snap: 1,
 		title: 0,
 		logo: 1,
-		hasLogos: true,
 		invalid: 1,
 		total: 3
 	})
@@ -243,17 +234,47 @@ test('writeReport counts thumbnails and writes orphans and invalid files', (t) =
 
 	// Matching every thumbnail, and fixing the invalid ones, removes the old files.
 	games['Orphan'] = { boxart: true }
-	count = writeReport('Test - System', games, thumbs, true, true, {}, outDir)
+	count = writeReport('Test - System', games, thumbs, true, {}, outDir)
 	assert.strictEqual(count.invalid, 0)
 	assert.strictEqual(fs.existsSync(path.join(outDir, 'Test - System Orphans.txt')), false)
 	assert.strictEqual(fs.existsSync(path.join(outDir, 'Test - System Invalid.txt')), false)
+})
+
+test('writeReport counts logos towards the total, listed before it', (t) => {
+	let outDir = fs.mkdtempSync(path.join(os.tmpdir(), 'libretro-thumbnails-check-test-'))
+	t.after(() => fs.rmSync(outDir, { recursive: true, force: true }))
+
+	let games = {
+		'A': { boxart: true, snap: true, title: true, logo: true },
+		'B': { snap: true, logo: true }
+	}
+	writeReport('Test', games, new Set(), true, {}, outDir)
+	let summary = fs.readFileSync(path.join(outDir, 'Test.txt'), 'utf8').split('\n\n')[1]
+	assert.strictEqual(summary, [
+		'Boxarts  1/2   50.00%',
+		'Snaps    2/2  100.00%',
+		'Titles   1/2   50.00%',
+		'Logos    2/2  100.00%',
+		'Total    6/8   75.00%'
+	].join('\n'))
+})
+
+test('writeReport counts missing logos as 0', (t) => {
+	let outDir = fs.mkdtempSync(path.join(os.tmpdir(), 'libretro-thumbnails-check-test-'))
+	t.after(() => fs.rmSync(outDir, { recursive: true, force: true }))
+
+	let count = writeReport('Test', { 'A': { boxart: true } }, new Set(), true, {}, outDir)
+	assert.strictEqual(count.logo, 0)
+	let output = fs.readFileSync(path.join(outDir, 'Test.txt'), 'utf8')
+	assert.match(output, /Logos +0\/1 +0\.00%\nTotal +1\/4 +25\.00%/)
+	assert.match(output, /A +- +✗ +✗ +✗/)
 })
 
 test('writeReport matches orphans by the cleaned game name', (t) => {
 	let outDir = fs.mkdtempSync(path.join(os.tmpdir(), 'libretro-thumbnails-check-test-'))
 	t.after(() => fs.rmSync(outDir, { recursive: true, force: true }))
 
-	writeReport('Test', { 'Tom & Jerry': { boxart: true } }, new Set(['Named_Boxarts/Tom _ Jerry.png']), true, false, {}, outDir)
+	writeReport('Test', { 'Tom & Jerry': { boxart: true } }, new Set(['Named_Boxarts/Tom _ Jerry.png']), true, {}, outDir)
 	assert.strictEqual(fs.existsSync(path.join(outDir, 'Test Orphans.txt')), false)
 })
 
@@ -261,7 +282,7 @@ test('writeReport marks systems without a thumbnail repository', (t) => {
 	let outDir = fs.mkdtempSync(path.join(os.tmpdir(), 'libretro-thumbnails-check-test-'))
 	t.after(() => fs.rmSync(outDir, { recursive: true, force: true }))
 
-	let count = writeReport('Philips - Videopac+', {}, new Set(), false, false, {}, outDir)
+	let count = writeReport('Philips - Videopac+', {}, new Set(), false, {}, outDir)
 	assert.strictEqual(count.noRepo, true)
 	assert.strictEqual(count.total, 0)
 	let output = fs.readFileSync(path.join(outDir, 'Philips - Videopac+.txt'), 'utf8')

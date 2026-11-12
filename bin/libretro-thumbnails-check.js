@@ -8,7 +8,7 @@ var Listr = require('listr')
 var processSystem = require('..').processSystem
 var writeReport = require('..').writeReport
 var thumbnails = require('..').thumbnails
-var hasLogos = require('..').hasLogos
+var THUMBNAIL_TYPES = require('..').THUMBNAIL_TYPES
 var getGameThumbnails = require('..').getGameThumbnails
 var cleanGameName = require('..').cleanGameName
 var fetchThumbnailIndex = require('..').fetchThumbnailIndex
@@ -141,7 +141,7 @@ glob('libretro-database/rdb/*.rdb', { cwd: root }, async function (err, files) {
 						}
 						// Systems with no games are still reported, with zero counts.
 						let invalid = findInvalidThumbnails(indexes[system], symlinkTargets[system])
-						context[system] = writeReport(system, output, thumbs, indexes[system] !== null, hasLogos(indexes[system]), invalid)
+						context[system] = writeReport(system, output, thumbs, indexes[system] !== null, invalid)
 						return resolve()
 					}).catch(function (err) {
 						failed[system] = err.message
@@ -159,48 +159,37 @@ glob('libretro-database/rdb/*.rdb', { cwd: root }, async function (err, files) {
 		throw err
 	}).then(function (report) {
 		let output = ''
+		let types = Object.keys(THUMBNAIL_TYPES)
+		// Every thumbnail type counts towards the total.
+		let thumbnailTotal = (counts) => types.reduce((sum, key) => sum + counts[key], 0)
 		let totals = {
-			boxart: 0,
-			snap: 0,
-			title: 0,
 			invalid: 0,
-			total: 0,
-			// Logos are only counted for systems that have a Named_Logos directory.
-			logo: 0,
-			logoTotal: 0
+			total: 0
 		}
+		types.forEach((key) => totals[key] = 0)
 		for (let systemName in report) {
 			let systemReport = report[systemName]
 			// Systems without a thumbnail repository don't count towards the total.
 			if (systemReport.noRepo) {
 				continue
 			}
-			totals.boxart += systemReport.boxart
-			totals.snap += systemReport.snap
-			totals.title += systemReport.title
+			types.forEach((key) => totals[key] += systemReport[key])
 			totals.invalid += systemReport.invalid
 			totals.total += systemReport.total
-			if (systemReport.hasLogos) {
-				totals.logo += systemReport.logo
-				totals.logoTotal += systemReport.total
-			}
 		}
-		var titletotal = totals.snap + totals.boxart + totals.title
-		let totalTotalPercent = percent(titletotal, totals.total * 3)
-		let totalLogos = totals.logoTotal > 0 ? `**${totals.logo} / ${totals.logoTotal}**` : '-'
+		var titletotal = thumbnailTotal(totals)
+		let totalTotalPercent = percent(titletotal, totals.total * types.length)
 		output += `| System | Boxarts | Snaps | Titles | Logos | Invalid | Total | Percent |\n`
 		output += `| :--- | :---: | :---: | :---: | :---: | :---: | :---: | ---: |\n`
 		for (let systemName in report) {
 			let systemReport = report[systemName]
-			let total = systemReport.snap + systemReport.boxart + systemReport.title
-			let totalPercent = systemReport.noRepo ? 'No thumbnails repo' : `**${percent(total, systemReport.total * 3)}%**`
-			// Logos are shown on their own, and left out of the total and percent.
-			let logos = systemReport.hasLogos ? `${systemReport.logo} / ${systemReport.total}` : '-'
+			let total = thumbnailTotal(systemReport)
+			let totalPercent = systemReport.noRepo ? 'No thumbnails repo' : `**${percent(total, systemReport.total * types.length)}%**`
 			var urlName = systemName.split(' ').join('%20')
 			let invalid = systemReport.invalid > 0 ? `[${systemReport.invalid}](out/${urlName}%20Invalid.txt)` : 0
-			output += `| [${systemName}](out/${urlName}.txt) | ${systemReport.boxart} / ${systemReport.total} | ${systemReport.snap} / ${systemReport.total} | ${systemReport.title} / ${systemReport.total} | ${logos} | ${invalid} | ${total} / ${systemReport.total * 3} | ${totalPercent} |\n`
+			output += `| [${systemName}](out/${urlName}.txt) | ${systemReport.boxart} / ${systemReport.total} | ${systemReport.snap} / ${systemReport.total} | ${systemReport.title} / ${systemReport.total} | ${systemReport.logo} / ${systemReport.total} | ${invalid} | ${total} / ${systemReport.total * types.length} | ${totalPercent} |\n`
 		}
-		output += `| **Total** | **${totals.boxart} / ${totals.total}** | **${totals.snap} / ${totals.total}** | **${totals.title} / ${totals.total}** | ${totalLogos} | **${totals.invalid}** | **${titletotal} / ${totals.total * 3}** | **${totalTotalPercent}%** |`
+		output += `| **Total** | **${totals.boxart} / ${totals.total}** | **${totals.snap} / ${totals.total}** | **${totals.title} / ${totals.total}** | **${totals.logo} / ${totals.total}** | **${totals.invalid}** | **${titletotal} / ${totals.total * types.length}** | **${totalTotalPercent}%** |`
 
 		var contents = fs.readFileSync(path.join(root, '.README.template.md'), {encoding:'utf8'})
 		contents = contents.replace('{{ contents }}', output)

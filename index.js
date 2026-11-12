@@ -91,11 +91,10 @@ function getGameThumbnails(thumbs, system, name) {
 /**
  * Writes a system report containing the thumbnails.
  *
- * Pass hasRepo as false when the system has no thumbnail repository, hasLogos as false
- * when its repository has no Named_Logos directory, and invalid as the result of
- * findInvalidThumbnails(). The report files are written to outDir.
+ * Pass hasRepo as false when the system has no thumbnail repository, and invalid as
+ * the result of findInvalidThumbnails(). The report files are written to outDir.
  */
-function writeReport(system, games, thumbs, hasRepo = true, hasLogos = false, invalid = {}, outDir = path.join(__dirname, 'out')) {
+function writeReport(system, games, thumbs, hasRepo = true, invalid = {}, outDir = path.join(__dirname, 'out')) {
 	if (!exists(outDir)) {
 		fs.mkdirSync(outDir)
 	}
@@ -106,7 +105,6 @@ function writeReport(system, games, thumbs, hasRepo = true, hasLogos = false, in
 		snap: 0,
 		title: 0,
 		logo: 0,
-		hasLogos: hasLogos,
 		invalid: 0,
 		total: Object.keys(games).length
 	}
@@ -129,8 +127,7 @@ function writeReport(system, games, thumbs, hasRepo = true, hasLogos = false, in
 				let boxart = game.boxart ? '-' : '✗'
 				let snap = game.snap ? '-' : '✗'
 				let title = game.title ? '-' : '✗'
-				// Leave the logo column blank when the system has no logos at all.
-				let logo = !hasLogos ? '' : game.logo ? '-' : '✗'
+				let logo = game.logo ? '-' : '✗'
 
 				if (game.boxart) {
 					count.boxart++
@@ -150,15 +147,16 @@ function writeReport(system, games, thumbs, hasRepo = true, hasLogos = false, in
 			}
 		}
 
-		// Logos only exist for some systems, so they're left out of the total.
-		let total = count.snap + count.boxart + count.title
-		output += table([
-			['Boxarts', count.boxart + '/' + count.total, (count.boxart / count.total * 100).toFixed(2) + '%'],
-			['Snaps', count.snap + '/' + count.total, (count.snap / count.total * 100).toFixed(2) + '%'],
-			['Titles', count.title + '/' + count.total, (count.title / count.total * 100).toFixed(2) + '%'],
-			['Total', total + '/' + count.total * 3, ((total / (count.total * 3)) * 100).toFixed(2) + '%'],
-			hasLogos ? ['Logos', count.logo + '/' + count.total, (count.logo / count.total * 100).toFixed(2) + '%'] : ['Logos', '-', '']
-		], {
+		// Every thumbnail type counts towards the total.
+		let summary = []
+		let total = 0
+		for (let key in THUMBNAIL_TYPES) {
+			summary.push([THUMBNAIL_TYPES[key].replace('Named_', ''), count[key] + '/' + count.total, (count[key] / count.total * 100).toFixed(2) + '%'])
+			total += count[key]
+		}
+		let possible = count.total * Object.keys(THUMBNAIL_TYPES).length
+		summary.push(['Total', total + '/' + possible, (total / possible * 100).toFixed(2) + '%'])
+		output += table(summary, {
 			align: ['l', 'r', 'r']
 		})
 
@@ -402,15 +400,6 @@ function thumbnails(index) {
 }
 
 /**
- * Returns whether a thumbnail index has a Named_Logos directory.
- *
- * Git doesn't store empty directories, so the directory exists when any file is in it.
- */
-function hasLogos(index) {
-	return (index || []).some((entry) => entry.path.startsWith(THUMBNAIL_TYPES.logo + '/'))
-}
-
-/**
  * Returns whether a top-level directory looks like it's meant to hold thumbnails.
  */
 function isThumbnailFolder(dir) {
@@ -569,7 +558,6 @@ module.exports = {
 	processSystem: processSystem,
 	writeReport: writeReport,
 	thumbnails: thumbnails,
-	hasLogos: hasLogos,
 	fetchThumbnailIndex: fetchThumbnailIndex,
 	findInvalidThumbnails: findInvalidThumbnails,
 	fetchSymlinkTargets: fetchSymlinkTargets,
@@ -577,5 +565,6 @@ module.exports = {
 	thumbnailRepo: thumbnailRepo,
 	getGameThumbnails: getGameThumbnails,
 	cleanGameName: cleanGameName,
-	staleReports: staleReports
+	staleReports: staleReports,
+	THUMBNAIL_TYPES: THUMBNAIL_TYPES
 }

@@ -142,7 +142,7 @@ On a full run, reports in `out/` for systems that are no longer in libretro-data
 
 Thumbnails that RetroArch can never load are listed in `out/<system> Invalid.txt`, and counted in the Invalid column. These are files without a lowercase `.png` extension, names with a character RetroArch replaces with `_` (``&*/:`<>?\|"``), empty or tiny files, files in folders other than `Named_Boxarts`, `Named_Snaps`, `Named_Titles` and `Named_Logos`, and symlinks pointing at a missing file. Symlink targets are fetched with the GitHub GraphQL API and cached in `.cache/symlinks.json`.
 
-The thumbnail lists are fetched fresh on every run from the system repositories in the [libretro-thumbnails](https://github.com/libretro-thumbnails) GitHub organization. Systems without a thumbnail repository are marked "No thumbnails repo" and left out of the total. Only some systems have logos, so the Logos column is left out of the total and percent, and shows "-" for systems without a `Named_Logos` folder.
+The thumbnail lists are fetched fresh on every run from the system repositories in the [libretro-thumbnails](https://github.com/libretro-thumbnails) GitHub organization. Systems without a thumbnail repository are marked "No thumbnails repo" and left out of the total. Logos count towards the total and percent like the other thumbnails, so systems without a `Named_Logos` folder have 0 logos.
 
 ## Usage
 
