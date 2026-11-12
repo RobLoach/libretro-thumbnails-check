@@ -14,6 +14,14 @@ var batchreplace = require('batchreplace')
 var sort = require('sort-object-keys')
 var exists = require('fs-exists-sync')
 
+// Thumbnail types, mapping each game report key to its libretro-thumbnails directory.
+const THUMBNAIL_TYPES = {
+	boxart: 'Named_Boxarts',
+	snap: 'Named_Snaps',
+	title: 'Named_Titles',
+	logo: 'Named_Logos'
+}
+
 // Construct the thumbnail cleaner.
 var cleanGameName = batchreplace.mapReplacer({
 	'&': '_',
@@ -65,22 +73,16 @@ function processSystem(system) {
 }
 
 /**
- * Returns an array of objects, with the following boolean values:
- * - boxart
- * - snap
- * - title
+ * Returns an object with a true value for each THUMBNAIL_TYPES key (boxart, snap,
+ * title, logo) the game has a thumbnail for.
  */
 function getGameThumbnails(thumbs, system, name) {
 	var result = {}
 
-	if (thumbs.has(`Named_Boxarts/${name}.png`)) {
-		result.boxart = true
-	}
-	if (thumbs.has(`Named_Snaps/${name}.png`)) {
-		result.snap = true
-	}
-	if (thumbs.has(`Named_Titles/${name}.png`)) {
-		result.title = true
+	for (let key in THUMBNAIL_TYPES) {
+		if (thumbs.has(`${THUMBNAIL_TYPES[key]}/${name}.png`)) {
+			result[key] = true
+		}
 	}
 
 	return result
@@ -89,9 +91,10 @@ function getGameThumbnails(thumbs, system, name) {
 /**
  * Writes a system report containing the thumbnails.
  *
- * Pass hasRepo as false when the system has no thumbnail repository.
+ * Pass hasRepo as false when the system has no thumbnail repository, and hasLogos as
+ * false when its repository has no Named_Logos directory.
  */
-function writeReport(system, games, thumbs, hasRepo = true) {
+function writeReport(system, games, thumbs, hasRepo = true, hasLogos = false) {
 	let outDir = path.join(__dirname, 'out')
 	if (!exists(outDir)) {
 		fs.mkdirSync(outDir)
@@ -102,6 +105,8 @@ function writeReport(system, games, thumbs, hasRepo = true) {
 		boxart: 0,
 		snap: 0,
 		title: 0,
+		logo: 0,
+		hasLogos: hasLogos,
 		total: Object.keys(games).length
 	}
 	if (!hasRepo) {
@@ -113,7 +118,7 @@ function writeReport(system, games, thumbs, hasRepo = true) {
 	}
 	else {
 		let entries = []
-		entries.push(['Name', 'Boxart', 'Snap', 'Title'])
+		entries.push(['Name', 'Boxart', 'Snap', 'Title', 'Logo'])
 		for (let gameName in games) {
 			if (games[gameName]) {
 				let game = games[gameName]
@@ -123,6 +128,8 @@ function writeReport(system, games, thumbs, hasRepo = true) {
 				let boxart = game.boxart ? '-' : '✗'
 				let snap = game.snap ? '-' : '✗'
 				let title = game.title ? '-' : '✗'
+				// Leave the logo column blank when the system has no logos at all.
+				let logo = !hasLogos ? '' : game.logo ? '-' : '✗'
 
 				if (game.boxart) {
 					count.boxart++
@@ -133,31 +140,36 @@ function writeReport(system, games, thumbs, hasRepo = true) {
 				if (game.title) {
 					count.title++
 				}
+				if (game.logo) {
+					count.logo++
+				}
 				//if (boxart == '✗' || snap == '✗' || title == '✗') {
-					entries.push([gameName, boxart, snap, title])
+					entries.push([gameName, boxart, snap, title, logo])
 				//}
 			}
 		}
 
+		// Logos only exist for some systems, so they're left out of the total.
 		let total = count.snap + count.boxart + count.title
 		output += table([
 			['Boxarts', count.boxart + '/' + count.total, (count.boxart / count.total * 100).toFixed(2) + '%'],
 			['Snaps', count.snap + '/' + count.total, (count.snap / count.total * 100).toFixed(2) + '%'],
 			['Titles', count.title + '/' + count.total, (count.title / count.total * 100).toFixed(2) + '%'],
-			['Total', total + '/' + count.total * 3, ((total / (count.total * 3)) * 100).toFixed(2) + '%']
+			['Total', total + '/' + count.total * 3, ((total / (count.total * 3)) * 100).toFixed(2) + '%'],
+			hasLogos ? ['Logos', count.logo + '/' + count.total, (count.logo / count.total * 100).toFixed(2) + '%'] : ['Logos', '-', '']
 		], {
 			align: ['l', 'r', 'r']
 		})
 
 		output += '\n\n' + table(entries, {
-			align: ['l', 'c', 'c', 'c']
+			align: ['l', 'c', 'c', 'c', 'c']
 		})
 
 		// Orphans are thumbnails that match no game.
 		let matched = new Set()
 		for (let gameName in games) {
 			let name = cleanGameName(gameName)
-			for (let type of ['Named_Boxarts', 'Named_Snaps', 'Named_Titles']) {
+			for (let type of Object.values(THUMBNAIL_TYPES)) {
 				matched.add(`${type}/${name}.png`)
 			}
 		}
@@ -356,17 +368,27 @@ async function fetchThumbnailIndex(system) {
 }
 
 /**
- * Returns the boxart, snap and title paths (Named_X/<name>.png) of a thumbnail index as a Set.
+ * Returns the THUMBNAIL_TYPES paths (Named_X/<name>.png) of a thumbnail index as a Set.
  */
 function thumbnails(index) {
-	let pattern = /^Named_(Boxarts|Snaps|Titles)\/[^\/]+\.png$/
+	let pattern = new RegExp(`^(${Object.values(THUMBNAIL_TYPES).join('|')})/[^/]+\\.png$`)
 	return new Set((index || []).map((entry) => entry.path).filter((file) => pattern.test(file)))
+}
+
+/**
+ * Returns whether a thumbnail index has a Named_Logos directory.
+ *
+ * Git doesn't store empty directories, so the directory exists when any file is in it.
+ */
+function hasLogos(index) {
+	return (index || []).some((entry) => entry.path.startsWith(THUMBNAIL_TYPES.logo + '/'))
 }
 
 module.exports = {
 	processSystem: processSystem,
 	writeReport: writeReport,
 	thumbnails: thumbnails,
+	hasLogos: hasLogos,
 	fetchThumbnailIndex: fetchThumbnailIndex,
 	checkGitHubAuth: checkGitHubAuth,
 	thumbnailRepo: thumbnailRepo,
