@@ -12,7 +12,8 @@ const {
 	hasLogos,
 	getGameThumbnails,
 	findInvalidThumbnails,
-	writeReport
+	writeReport,
+	staleReports
 } = require('..')
 
 // Builds a regular file tree entry.
@@ -266,4 +267,31 @@ test('writeReport marks systems without a thumbnail repository', (t) => {
 	let output = fs.readFileSync(path.join(outDir, 'Philips - Videopac+.txt'), 'utf8')
 	assert.ok(output.includes('No thumbnails repository at https://github.com/libretro-thumbnails/Philips_-_Videopac'))
 	assert.ok(output.includes('Error parsing dat files.'))
+})
+
+test('staleReports removes the reports of unknown systems', () => {
+	let files = ['Atari - 8-bit.txt', 'Atari - 8-bit Orphans.txt', 'Atari - 8-bit Invalid.txt', 'Atari - 2600.txt']
+	assert.deepStrictEqual(staleReports(files, ['Atari - 2600']), ['Atari - 8-bit.txt', 'Atari - 8-bit Orphans.txt', 'Atari - 8-bit Invalid.txt'])
+})
+
+test('staleReports keeps a known system and its Orphans and Invalid reports', () => {
+	let files = ['Atari - 2600.txt', 'Atari - 2600 Orphans.txt', 'Atari - 2600 Invalid.txt']
+	assert.deepStrictEqual(staleReports(files, ['Atari - 2600']), [])
+})
+
+test('staleReports only strips the Orphans and Invalid suffixes', () => {
+	assert.deepStrictEqual(staleReports(['Atari - 2600 Other.txt', 'Atari - 2600 Orphans Invalid.txt'], ['Atari - 2600']), ['Atari - 2600 Other.txt', 'Atari - 2600 Orphans Invalid.txt'])
+})
+
+test('staleReports ignores files that are not .txt', () => {
+	assert.deepStrictEqual(staleReports(['Atari - 8-bit.png', 'Atari - 8-bit.txt.bak', '.gitkeep'], ['Atari - 2600']), [])
+})
+
+test('staleReports handles a system whose name ends in Orphans', () => {
+	let files = ['Test Orphans.txt', 'Test Orphans Orphans.txt', 'Test Orphans Invalid.txt']
+	// The system "Test Orphans" keeps all of its reports.
+	assert.deepStrictEqual(staleReports(files, ['Test Orphans']), [])
+	// Its reports aren't mistaken for the orphans of a system named "Test".
+	assert.deepStrictEqual(staleReports(files, ['Test']), ['Test Orphans Orphans.txt', 'Test Orphans Invalid.txt'])
+	assert.deepStrictEqual(staleReports(files, []), files)
 })

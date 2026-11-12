@@ -15,6 +15,7 @@ var fetchThumbnailIndex = require('..').fetchThumbnailIndex
 var checkGitHubAuth = require('..').checkGitHubAuth
 var findInvalidThumbnails = require('..').findInvalidThumbnails
 var fetchSymlinkTargets = require('..').fetchSymlinkTargets
+var staleReports = require('..').staleReports
 
 // Pass --system "<name>" (repeatable) to only check the given systems.
 var onlySystems = []
@@ -205,6 +206,21 @@ glob('libretro-database/rdb/*.rdb', { cwd: root }, async function (err, files) {
 		contents = contents.replace('{{ contents }}', output)
 		contents = contents.replace('{{ date }}', new Date().toISOString().slice(0, 10))
 		fs.writeFileSync(path.join(root, 'README.md'), contents)
+
+		// On a full run, remove the reports of systems no longer in the database.
+		// Failed systems are still in the database, so their reports are kept.
+		if (onlySystems.length == 0 && files.length > 0) {
+			let outDir = path.join(root, 'out')
+			let reportFiles = fs.existsSync(outDir) ? fs.readdirSync(outDir, { withFileTypes: true }).filter((entry) => entry.isFile()).map((entry) => entry.name) : []
+			let stale = staleReports(reportFiles, files.map((file) => path.parse(file).name))
+			if (stale.length > 0) {
+				console.log(`\nRemoved ${stale.length} stale report(s):`)
+				for (let fileName of stale) {
+					fs.unlinkSync(path.join(outDir, fileName))
+					console.log(`- out/${fileName}`)
+				}
+			}
+		}
 
 		let failedSystems = Object.keys(failed)
 		if (failedSystems.length > 0) {

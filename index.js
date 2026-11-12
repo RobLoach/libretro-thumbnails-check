@@ -540,6 +540,31 @@ async function fetchSymlinkTargets(system, index) {
 	return targets
 }
 
+/**
+ * Returns the report file names, out of fileNames, that don't belong to any of
+ * the given systems. A file belongs to a system when its name without `.txt` is
+ * the system, or the system followed by " Orphans" or " Invalid". Files that
+ * aren't `.txt` are never returned.
+ */
+function staleReports(fileNames, systems) {
+	let known = new Set(systems)
+	return fileNames.filter((fileName) => {
+		if (!fileName.endsWith('.txt')) {
+			return false
+		}
+		let name = fileName.slice(0, -'.txt'.length)
+		if (known.has(name)) {
+			return false
+		}
+		for (let suffix of [' Orphans', ' Invalid']) {
+			if (name.endsWith(suffix) && known.has(name.slice(0, -suffix.length))) {
+				return false
+			}
+		}
+		return true
+	})
+}
+
 module.exports = {
 	processSystem: processSystem,
 	writeReport: writeReport,
@@ -551,5 +576,6 @@ module.exports = {
 	checkGitHubAuth: checkGitHubAuth,
 	thumbnailRepo: thumbnailRepo,
 	getGameThumbnails: getGameThumbnails,
-	cleanGameName: cleanGameName
+	cleanGameName: cleanGameName,
+	staleReports: staleReports
 }
