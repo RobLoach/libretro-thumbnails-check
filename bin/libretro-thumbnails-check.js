@@ -13,6 +13,8 @@ var getGameThumbnails = require('..').getGameThumbnails
 var cleanGameName = require('..').cleanGameName
 var fetchThumbnailIndex = require('..').fetchThumbnailIndex
 var checkGitHubAuth = require('..').checkGitHubAuth
+var findInvalidThumbnails = require('..').findInvalidThumbnails
+var fetchSymlinkTargets = require('..').fetchSymlinkTargets
 
 // Pass --system "<name>" (repeatable) to only check the given systems.
 var onlySystems = []
@@ -69,6 +71,9 @@ glob('libretro-database/rdb/*.rdb', { cwd: root }, async function (err, files) {
 	// Thumbnail index of each system, or null when it has no thumbnail repository.
 	var indexes = {}
 
+	// Symlink targets of each system, by blob sha.
+	var symlinkTargets = {}
+
 	// Create the task runner.
 	var tasks = new Listr([], {
 		concurrent: false,
@@ -84,11 +89,19 @@ glob('libretro-database/rdb/*.rdb', { cwd: root }, async function (err, files) {
 				return new Promise(async function (resolve, reject) {
 					try {
 						indexes[system] = await fetchThumbnailIndex(system)
-						resolve()
 					}
 					catch (error) {
 						failed[system] = `Index fetch failed: ${error.message}`
-						reject(new Error(`${system}: ${failed[system]}`))
+						return reject(new Error(`${system}: ${failed[system]}`))
+					}
+					try {
+						symlinkTargets[system] = await fetchSymlinkTargets(system, indexes[system])
+						resolve()
+					}
+					catch (error) {
+						// Without the targets, broken symlinks just aren't reported.
+						console.warn(`${system}: Symlink fetch failed: ${error.message}`)
+						resolve()
 					}
 				})
 			}
@@ -126,7 +139,8 @@ glob('libretro-database/rdb/*.rdb', { cwd: root }, async function (err, files) {
 							}
 						}
 						// Systems with no games are still reported, with zero counts.
-						context[system] = writeReport(system, output, thumbs, indexes[system] !== null, hasLogos(indexes[system]))
+						let invalid = findInvalidThumbnails(indexes[system], symlinkTargets[system])
+						context[system] = writeReport(system, output, thumbs, indexes[system] !== null, hasLogos(indexes[system]), invalid)
 						return resolve()
 					}).catch(function (err) {
 						failed[system] = err.message
@@ -148,6 +162,7 @@ glob('libretro-database/rdb/*.rdb', { cwd: root }, async function (err, files) {
 			boxart: 0,
 			snap: 0,
 			title: 0,
+			invalid: 0,
 			total: 0,
 			// Logos are only counted for systems that have a Named_Logos directory.
 			logo: 0,
@@ -162,6 +177,7 @@ glob('libretro-database/rdb/*.rdb', { cwd: root }, async function (err, files) {
 			totals.boxart += systemReport.boxart
 			totals.snap += systemReport.snap
 			totals.title += systemReport.title
+			totals.invalid += systemReport.invalid
 			totals.total += systemReport.total
 			if (systemReport.hasLogos) {
 				totals.logo += systemReport.logo
@@ -171,8 +187,8 @@ glob('libretro-database/rdb/*.rdb', { cwd: root }, async function (err, files) {
 		var titletotal = totals.snap + totals.boxart + totals.title
 		let totalTotalPercent = percent(titletotal, totals.total * 3)
 		let totalLogos = totals.logoTotal > 0 ? `**${totals.logo} / ${totals.logoTotal}**` : '-'
-		output += `| System | Boxarts | Snaps | Titles | Logos | Total | Percent |\n`
-		output += `| :--- | :---: | :---: | :---: | :---: | :---: | ---: |\n`
+		output += `| System | Boxarts | Snaps | Titles | Logos | Invalid | Total | Percent |\n`
+		output += `| :--- | :---: | :---: | :---: | :---: | :---: | :---: | ---: |\n`
 		for (let systemName in report) {
 			let systemReport = report[systemName]
 			let total = systemReport.snap + systemReport.boxart + systemReport.title
@@ -180,9 +196,10 @@ glob('libretro-database/rdb/*.rdb', { cwd: root }, async function (err, files) {
 			// Logos are shown on their own, and left out of the total and percent.
 			let logos = systemReport.hasLogos ? `${systemReport.logo} / ${systemReport.total}` : '-'
 			var urlName = systemName.split(' ').join('%20')
-			output += `| [${systemName}](out/${urlName}.txt) | ${systemReport.boxart} / ${systemReport.total} | ${systemReport.snap} / ${systemReport.total} | ${systemReport.title} / ${systemReport.total} | ${logos} | ${total} / ${systemReport.total * 3} | ${totalPercent} |\n`
+			let invalid = systemReport.invalid > 0 ? `[${systemReport.invalid}](out/${urlName}%20Invalid.txt)` : 0
+			output += `| [${systemName}](out/${urlName}.txt) | ${systemReport.boxart} / ${systemReport.total} | ${systemReport.snap} / ${systemReport.total} | ${systemReport.title} / ${systemReport.total} | ${logos} | ${invalid} | ${total} / ${systemReport.total * 3} | ${totalPercent} |\n`
 		}
-		output += `| **Total** | **${totals.boxart} / ${totals.total}** | **${totals.snap} / ${totals.total}** | **${totals.title} / ${totals.total}** | ${totalLogos} | **${titletotal} / ${totals.total * 3}** | **${totalTotalPercent}%** |`
+		output += `| **Total** | **${totals.boxart} / ${totals.total}** | **${totals.snap} / ${totals.total}** | **${totals.title} / ${totals.total}** | ${totalLogos} | **${totals.invalid}** | **${titletotal} / ${totals.total * 3}** | **${totalTotalPercent}%** |`
 
 		var contents = fs.readFileSync(path.join(root, '.README.template.md'), {encoding:'utf8'})
 		contents = contents.replace('{{ contents }}', output)

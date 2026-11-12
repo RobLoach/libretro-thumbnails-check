@@ -91,10 +91,11 @@ function getGameThumbnails(thumbs, system, name) {
 /**
  * Writes a system report containing the thumbnails.
  *
- * Pass hasRepo as false when the system has no thumbnail repository, and hasLogos as
- * false when its repository has no Named_Logos directory.
+ * Pass hasRepo as false when the system has no thumbnail repository, hasLogos as false
+ * when its repository has no Named_Logos directory, and invalid as the result of
+ * findInvalidThumbnails().
  */
-function writeReport(system, games, thumbs, hasRepo = true, hasLogos = false) {
+function writeReport(system, games, thumbs, hasRepo = true, hasLogos = false, invalid = {}) {
 	let outDir = path.join(__dirname, 'out')
 	if (!exists(outDir)) {
 		fs.mkdirSync(outDir)
@@ -107,6 +108,7 @@ function writeReport(system, games, thumbs, hasRepo = true, hasLogos = false) {
 		title: 0,
 		logo: 0,
 		hasLogos: hasLogos,
+		invalid: 0,
 		total: Object.keys(games).length
 	}
 	if (!hasRepo) {
@@ -183,6 +185,25 @@ function writeReport(system, games, thumbs, hasRepo = true, hasLogos = false) {
 		}
 	}
 	fs.writeFileSync(path.join(outDir, system + '.txt'), output)
+
+	// Invalid thumbnails, grouped by reason.
+	let invalidOutput = ''
+	let invalidPaths = new Set()
+	for (let reason in INVALID_REASONS) {
+		let items = invalid[reason] || []
+		if (items.length > 0) {
+			invalidOutput += `\n\n${INVALID_REASONS[reason]}\n\n` + items.map((item) => item.detail ? `${item.path} ${item.detail}` : item.path).join('\n')
+			items.forEach((item) => invalidPaths.add(item.path))
+		}
+	}
+	count.invalid = invalidPaths.size
+	let invalidFile = path.join(outDir, system + ' Invalid.txt')
+	if (invalidPaths.size > 0) {
+		fs.writeFileSync(invalidFile, system + ' Invalid' + invalidOutput)
+	}
+	else {
+		fs.rmSync(invalidFile, { force: true })
+	}
 	return count
 }
 
@@ -323,7 +344,9 @@ async function gitTreeEntries(repo) {
  * Builds the list of thumbnails for a system from its libretro-thumbnails repository.
  *
  * Returns an array of tree entries ({ path, mode, type, size, sha }) for the files and
- * symlinks in the Named_* directories, or null when the system has no thumbnail repository.
+ * symlinks in the repository, or null when the system has no thumbnail repository. For
+ * repositories too large to list at once, only the root files and the directories that look
+ * like thumbnail directories are included.
  */
 async function fetchThumbnailIndex(system) {
 	let octokit = await getOctokit()
@@ -349,7 +372,11 @@ async function fetchThumbnailIndex(system) {
 		entries = []
 		let root = await fetchTree(octokit, repo, 'HEAD', false)
 		for (let dir of root.tree) {
-			if (dir.type != 'tree' || !dir.path.startsWith('Named_')) {
+			if (dir.type != 'tree') {
+				entries.push(dir)
+				continue
+			}
+			if (!isThumbnailFolder(dir.path)) {
 				continue
 			}
 			let subtree = await fetchTree(octokit, repo, dir.sha, true)
@@ -364,7 +391,7 @@ async function fetchThumbnailIndex(system) {
 		}
 	}
 
-	return entries.filter((entry) => FILE_MODES.has(entry.mode) && entry.path.startsWith('Named_'))
+	return entries.filter((entry) => FILE_MODES.has(entry.mode))
 }
 
 /**
@@ -384,12 +411,144 @@ function hasLogos(index) {
 	return (index || []).some((entry) => entry.path.startsWith(THUMBNAIL_TYPES.logo + '/'))
 }
 
+/**
+ * Returns whether a top-level directory looks like it's meant to hold thumbnails.
+ */
+function isThumbnailFolder(dir) {
+	return /^named_|boxart|snap|title|logo/i.test(dir)
+}
+
+// Files smaller than this can't be a real thumbnail, as the smallest valid PNG is about 67 bytes.
+const MIN_THUMBNAIL_SIZE = 100
+
+// Characters RetroArch replaces with "_" in thumbnail names, so files containing them never match.
+const BAD_FILENAME_CHARS = /[&*/:`<>?\\|"]/
+
+// Kinds of invalid thumbnails, in report order.
+const INVALID_REASONS = {
+	notPng: 'Not a PNG',
+	badChars: 'Bad filename characters',
+	tooSmall: 'Empty or tiny files',
+	unknownFolder: 'Unknown folders',
+	brokenSymlink: 'Broken symlinks'
+}
+
+/**
+ * Finds invalid thumbnails in a thumbnail index using only the tree metadata.
+ *
+ * symlinkTargets maps a symlink blob sha to its target. Symlinks with an unknown target
+ * aren't checked. Returns an object with an array of { path, detail } for each
+ * INVALID_REASONS key.
+ */
+function findInvalidThumbnails(index, symlinkTargets = {}) {
+	let invalid = {}
+	for (let reason in INVALID_REASONS) {
+		invalid[reason] = []
+	}
+	let types = new Set(Object.values(THUMBNAIL_TYPES))
+	let paths = new Set((index || []).map((entry) => entry.path))
+	for (let entry of index || []) {
+		let dir = path.posix.dirname(entry.path)
+		let name = path.posix.basename(entry.path)
+		// Dotfiles like .gitkeep and .gitignore aren't thumbnails.
+		if (entry.path.split('/').some((part) => part.startsWith('.'))) {
+			continue
+		}
+		if (!types.has(dir)) {
+			// Root files like README.md aren't thumbnails.
+			if (dir != '.' && isThumbnailFolder(entry.path.split('/')[0])) {
+				invalid.unknownFolder.push({ path: entry.path })
+			}
+			continue
+		}
+		if (!name.endsWith('.png')) {
+			invalid.notPng.push({ path: entry.path })
+		}
+		if (BAD_FILENAME_CHARS.test(name)) {
+			invalid.badChars.push({ path: entry.path })
+		}
+		if (entry.mode == '120000') {
+			let target = symlinkTargets[entry.sha]
+			if (target === undefined) {
+				continue
+			}
+			let resolved = path.posix.normalize(path.posix.join(dir, target))
+			if (path.posix.isAbsolute(target) || resolved == '..' || resolved.startsWith('../')) {
+				invalid.brokenSymlink.push({ path: entry.path, detail: `-> ${target} (outside the repository)` })
+			}
+			else if (!paths.has(resolved)) {
+				invalid.brokenSymlink.push({ path: entry.path, detail: `-> ${target}` })
+			}
+		}
+		// A symlink's size is the length of its target, so only check regular files.
+		else if (entry.size !== undefined && entry.size < MIN_THUMBNAIL_SIZE) {
+			invalid.tooSmall.push({ path: entry.path, detail: `(${entry.size} bytes)` })
+		}
+	}
+	return invalid
+}
+
+// Symlink targets by blob sha, cached across runs as blobs never change.
+const SYMLINK_CACHE = path.join(__dirname, '.cache', 'symlinks.json')
+let symlinkCache = null
+
+/**
+ * Fetches the targets of a system's symlinks, keyed by blob sha.
+ *
+ * Uncached symlink blobs are read with batched GraphQL queries, 100 blobs per query.
+ */
+async function fetchSymlinkTargets(system, index) {
+	if (!symlinkCache) {
+		try {
+			symlinkCache = JSON.parse(fs.readFileSync(SYMLINK_CACHE, 'utf8'))
+		}
+		catch (error) {
+			symlinkCache = {}
+		}
+	}
+	let shas = (index || []).filter((entry) => entry.mode == '120000').map((entry) => entry.sha)
+	let missing = [...new Set(shas)].filter((sha) => !(sha in symlinkCache))
+	if (missing.length > 0) {
+		let octokit = await getOctokit()
+		try {
+			for (let i = 0; i < missing.length; i += 100) {
+				let batch = missing.slice(i, i + 100)
+				let fields = batch.map((sha, n) => `s${n}: object(oid: "${sha}") { ... on Blob { text } }`).join('\n')
+				let result = await octokit.graphql(`query ($owner: String!, $name: String!) { repository(owner: $owner, name: $name) { ${fields} } }`, {
+					owner: THUMBNAILS_ORG,
+					name: thumbnailRepo(system)
+				})
+				batch.forEach(function (sha, n) {
+					let blob = result.repository[`s${n}`]
+					if (blob && typeof blob.text == 'string') {
+						symlinkCache[sha] = blob.text
+					}
+				})
+			}
+		}
+		finally {
+			// Keep what was fetched, even when a later batch fails.
+			fs.mkdirSync(path.dirname(SYMLINK_CACHE), { recursive: true })
+			fs.writeFileSync(SYMLINK_CACHE, JSON.stringify(symlinkCache))
+		}
+	}
+	let targets = {}
+	for (let sha of shas) {
+		if (sha in symlinkCache) {
+			targets[sha] = symlinkCache[sha]
+		}
+	}
+	return targets
+}
+
 module.exports = {
 	processSystem: processSystem,
 	writeReport: writeReport,
 	thumbnails: thumbnails,
 	hasLogos: hasLogos,
 	fetchThumbnailIndex: fetchThumbnailIndex,
+	findInvalidThumbnails: findInvalidThumbnails,
+	fetchSymlinkTargets: fetchSymlinkTargets,
 	checkGitHubAuth: checkGitHubAuth,
 	thumbnailRepo: thumbnailRepo,
 	getGameThumbnails: getGameThumbnails,
