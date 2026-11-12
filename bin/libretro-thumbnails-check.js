@@ -11,9 +11,23 @@ var thumbnails = require('..').thumbnails
 var getGameThumbnails = require('..').getGameThumbnails
 var cleanGameName = require('..').cleanGameName
 var fetchThumbnailIndex = require('..').fetchThumbnailIndex
+var checkGitHubAuth = require('..').checkGitHubAuth
 
-// Pass --refresh to ignore cached index files and fetch them again.
-var refresh = process.argv.includes('--refresh')
+// Pass --system "<name>" (repeatable) to only check the given systems.
+var onlySystems = []
+var args = process.argv.slice(2)
+for (var i = 0; i < args.length; i++) {
+	if (args[i] == '--system' && i + 1 < args.length) {
+		onlySystems.push(args[++i])
+	}
+	else if (args[i].startsWith('--system=')) {
+		onlySystems.push(args[i].slice('--system='.length))
+	}
+	else {
+		console.error(`Unknown argument: ${args[i]}\nUsage: libretro-thumbnails-check [--system "<name>"]...`)
+		process.exit(1)
+	}
+}
 
 // Resolve all paths relative to the project root, not the working directory.
 var root = path.join(__dirname, '..')
@@ -23,14 +37,36 @@ function percent(count, total) {
 	return (total > 0 ? (count / total) * 100 : 0).toFixed(2)
 }
 
-glob('libretro-database/rdb/*.rdb', { cwd: root }, function (err, files) {
+glob('libretro-database/rdb/*.rdb', { cwd: root }, async function (err, files) {
 	if (err) {
 		console.error(err)
 		process.exit(1)
 	}
 
+	if (onlySystems.length > 0) {
+		let known = new Set(files.map((file) => path.parse(file).name))
+		let unknown = onlySystems.filter((system) => !known.has(system))
+		if (unknown.length > 0) {
+			console.error(`Unknown system(s): ${unknown.join(', ')}`)
+			process.exit(1)
+		}
+		files = files.filter((file) => onlySystems.includes(path.parse(file).name))
+	}
+
+	// Fail early when GitHub can't be reached or the token is missing or invalid.
+	try {
+		await checkGitHubAuth()
+	}
+	catch (error) {
+		console.error(error.message)
+		process.exit(1)
+	}
+
 	// Systems that failed, mapped to their error message.
 	var failed = {}
+
+	// Thumbnail index of each system, or null when it has no thumbnail repository.
+	var indexes = {}
 
 	// Create the task runner.
 	var tasks = new Listr([], {
@@ -45,15 +81,8 @@ glob('libretro-database/rdb/*.rdb', { cwd: root }, function (err, files) {
 			title: system + ' Index',
 			task: function(context) {
 				return new Promise(async function (resolve, reject) {
-					const indexFile = path.join(root, 'indexFiles', system + '.index')
-					if (!refresh && fs.existsSync(indexFile)) {
-						return resolve()
-					}
-
 					try {
-						let files = await fetchThumbnailIndex(system)
-						fs.mkdirSync(path.dirname(indexFile), { recursive: true })
-						fs.writeFileSync(indexFile, files.join('\n'))
+						indexes[system] = await fetchThumbnailIndex(system)
 						resolve()
 					}
 					catch (error) {
@@ -85,7 +114,7 @@ glob('libretro-database/rdb/*.rdb', { cwd: root }, function (err, files) {
 
 						let output = {}
 						// Load the system thumbnails.
-						let thumbs = thumbnails(system)
+						let thumbs = thumbnails(indexes[system])
 						let gameName = null
 						let gameIndex = 0
 						// Loop through each game and fill in the thumbnail data.
@@ -96,7 +125,7 @@ glob('libretro-database/rdb/*.rdb', { cwd: root }, function (err, files) {
 							}
 						}
 						// Systems with no games are still reported, with zero counts.
-						context[system] = writeReport(system, output, thumbs)
+						context[system] = writeReport(system, output, thumbs, indexes[system] !== null)
 						return resolve()
 					}).catch(function (err) {
 						failed[system] = err.message
@@ -122,6 +151,10 @@ glob('libretro-database/rdb/*.rdb', { cwd: root }, function (err, files) {
 		}
 		for (let systemName in report) {
 			let systemReport = report[systemName]
+			// Systems without a thumbnail repository don't count towards the total.
+			if (systemReport.noRepo) {
+				continue
+			}
 			totals.boxart += systemReport.boxart
 			totals.snap += systemReport.snap
 			totals.title += systemReport.title
@@ -134,9 +167,9 @@ glob('libretro-database/rdb/*.rdb', { cwd: root }, function (err, files) {
 		for (let systemName in report) {
 			let systemReport = report[systemName]
 			let total = systemReport.snap + systemReport.boxart + systemReport.title
-			let totalPercent = percent(total, systemReport.total * 3)
+			let totalPercent = systemReport.noRepo ? 'No thumbnails repo' : `**${percent(total, systemReport.total * 3)}%**`
 			var urlName = systemName.split(' ').join('%20')
-			output += `| [${systemName}](out/${urlName}.txt) | ${systemReport.boxart} / ${systemReport.total} | ${systemReport.snap} / ${systemReport.total} | ${systemReport.title} / ${systemReport.total} | ${total} / ${systemReport.total * 3} | **${totalPercent}%** |\n`
+			output += `| [${systemName}](out/${urlName}.txt) | ${systemReport.boxart} / ${systemReport.total} | ${systemReport.snap} / ${systemReport.total} | ${systemReport.title} / ${systemReport.total} | ${total} / ${systemReport.total * 3} | ${totalPercent} |\n`
 		}
 		output += `| **Total** | **${totals.boxart} / ${totals.total}** | **${totals.snap} / ${totals.total}** | **${totals.title} / ${totals.total}** | **${titletotal} / ${totals.total * 3}** | **${totalTotalPercent}%** |`
 

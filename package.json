@@ -5,8 +5,7 @@
   "description": "Checks consistancy of libretro-thumbnails",
   "main": "index.js",
   "scripts": {
-    "test": "bin/libretro-thumbnails-check.js",
-    "clean": "rm -rf indexFiles/*.index"
+    "test": "bin/libretro-thumbnails-check.js"
   },
   "bin": {
     "libretro-thumbnails-check": "./bin/libretro-thumbnails-check.js"
@@ -17,6 +16,9 @@
     "node": ">=18"
   },
   "dependencies": {
+    "@octokit/plugin-retry": "^7.2.1",
+    "@octokit/plugin-throttling": "^9.6.1",
+    "@octokit/rest": "^21.1.1",
     "batchreplace": "^1.0.1",
     "fs-exists-sync": "^0.1.0",
     "glob": "^7.2.0",
