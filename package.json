@@ -5,7 +5,8 @@
   "description": "Checks consistancy of libretro-thumbnails",
   "main": "index.js",
   "scripts": {
-    "test": "bin/libretro-thumbnails-check.js"
+    "report": "bin/libretro-thumbnails-check.js",
+    "test": "node --test test/index.test.js"
   },
   "bin": {
     "libretro-thumbnails-check": "./bin/libretro-thumbnails-check.js"

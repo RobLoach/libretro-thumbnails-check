@@ -93,10 +93,9 @@ function getGameThumbnails(thumbs, system, name) {
  *
  * Pass hasRepo as false when the system has no thumbnail repository, hasLogos as false
  * when its repository has no Named_Logos directory, and invalid as the result of
- * findInvalidThumbnails().
+ * findInvalidThumbnails(). The report files are written to outDir.
  */
-function writeReport(system, games, thumbs, hasRepo = true, hasLogos = false, invalid = {}) {
-	let outDir = path.join(__dirname, 'out')
+function writeReport(system, games, thumbs, hasRepo = true, hasLogos = false, invalid = {}, outDir = path.join(__dirname, 'out')) {
 	if (!exists(outDir)) {
 		fs.mkdirSync(outDir)
 	}

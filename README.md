@@ -157,7 +157,15 @@ make
 To run the report directly:
 
 ```
-node bin/libretro-thumbnails-check.js
+npm run report
 ```
 
-Pass `--system "<name>"`, once per system, to only check those systems, for example `--system "Atari - 2600" --system "MrBoom"`. The README table is then built from just those systems. The command exits with a non-zero code if any system's thumbnail list fails to fetch.
+Pass `--system "<name>"`, once per system, to only check those systems, for example `npm run report -- --system "Atari - 2600" --system "MrBoom"`. The README table is then built from just those systems. The command exits with a non-zero code if any system's thumbnail list fails to fetch.
+
+## Tests
+
+```
+npm test
+```
+
+Runs the unit tests with the built-in Node.js test runner. They don't need the network, a GitHub token or the libretro-database submodule.
