@@ -1,40 +1,40 @@
 Philips - Videopac+ Missing
 
-Boxarts  32/32  100.00%
-Snaps    32/32  100.00%
-Titles   32/32  100.00%
-Total    96/96  100.00%
+Boxarts   30/31  96.77%
+Snaps     30/31  96.77%
+Titles    30/31  96.77%
+Logos      0/31   0.00%
+Total    90/124  72.58%
 
-Name                                                    Boxart  Snap  Title
-Air Battle (Europe)                                        -      -     -
-Billard Americain (France)                                 -      -     -
-Billard Electrique (France)                                -      -     -
-Chez Maxime (France)                                       -      -     -
-Clay Pigeon (Europe) (Proto)                               -      -     -
-Clay Pigeon (Europe) (Proto) (Alt)                         -      -     -
-Cosmic Conflict (Europe)                                   -      -     -
-Course de Voitures + Autodrome + Cryptogramme (France)     -      -     -
-Demon Attack (France)                                      -      -     -
-Electronic Billiards (Europe) (Proto)                      -      -     -
-Exojet (France)                                            -      -     -
-Flipper Game (Europe) (Proto)                              -      -     -
-Freedom Fighters (Europe)                                  -      -     -
-Guerre de l'Espace (France)                                -      -     -
-Helicopter Rescue (Europe)                                 -      -     -
-Jeu de Quilles + Basketball (France)                       -      -     -
-Killer Bees (Europe)                                       -      -     -
-Loony Balloon (Europe)                                     -      -     -
-Moto-Crash (France)                                        -      -     -
-Neutron Star (Europe)                                      -      -     -
-Nightmare (Europe)                                         -      -     -
-Norseman (Europe)                                          -      -     -
-Pickaxe Pete (Europe)                                      -      -     -
-Race + Spin-out + Cryptogram (Europe)                      -      -     -
-Ruche Infernale, La (France)                               -      -     -
-Satellite Attack (Europe)                                  -      -     -
-Stone Sling (Europe)                                       -      -     -
-Syracuse (France)                                          -      -     -
-Tenpin Bowling + Basketball (Europe) (Proto)               -      -     -
-Terrahawks (Europe)                                        -      -     -
-Trans American Rally (Europe)                              -      -     -
-Tresor Englouti, Le (France)                               -      -     -
+Name                                                    Boxart  Snap  Title  Logo
+Air Battle (Europe)                                        -      -     -      ✗
+Billard Electrique (France)                                -      -     -      ✗
+Billiard Americain (France)                                ✗      ✗     ✗      ✗
+Chez Maxime (France)                                       -      -     -      ✗
+Clay Pigeon (Europe) (Proto)                               -      -     -      ✗
+Cosmic Conflict (Europe)                                   -      -     -      ✗
+Course de Voitures + Autodrome + Cryptogramme (France)     -      -     -      ✗
+Demon Attack (France)                                      -      -     -      ✗
+Electronic Billiards (Europe) (Proto)                      -      -     -      ✗
+Exojet (France)                                            -      -     -      ✗
+Flipper Game (Europe) (Proto)                              -      -     -      ✗
+Freedom Fighters (Europe)                                  -      -     -      ✗
+Guerre de l'Espace (France)                                -      -     -      ✗
+Helicopter Rescue (Europe)                                 -      -     -      ✗
+Jeu de Quilles + Basketball (France)                       -      -     -      ✗
+Killer Bees (Europe)                                       -      -     -      ✗
+Loony Balloon (Europe)                                     -      -     -      ✗
+Moto-Crash (France)                                        -      -     -      ✗
+Neutron Star (Europe)                                      -      -     -      ✗
+Nightmare (Europe)                                         -      -     -      ✗
+Norseman (Europe)                                          -      -     -      ✗
+Pickaxe Pete (Europe)                                      -      -     -      ✗
+Race + Spin-out + Cryptogram (Europe)                      -      -     -      ✗
+Ruche Infernale, La (France)                               -      -     -      ✗
+Satellite Attack (Europe)                                  -      -     -      ✗
+Stone Sling (Europe)                                       -      -     -      ✗
+Syracuse (France)                                          -      -     -      ✗
+Tenpin Bowling + Basketball (Europe) (Proto)               -      -     -      ✗
+Terrahawks (Europe)                                        -      -     -      ✗
+Trans American Rally (Europe)                              -      -     -      ✗
+Tresor Englouti, Le (France)                               -      -     -      ✗

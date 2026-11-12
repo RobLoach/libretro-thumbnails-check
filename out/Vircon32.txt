@@ -1,36 +1,64 @@
 Vircon32 Missing
 
-Boxarts  13/28   46.43%
-Snaps    28/28  100.00%
-Titles   13/28   46.43%
-Total    54/84   64.29%
+Boxarts    34/55   61.82%
+Snaps      55/55  100.00%
+Titles     39/55   70.91%
+Logos       0/55    0.00%
+Total    128/220   58.18%
 
-Name                    Boxart  Snap  Title
-2048                       -      -     -
-Basic Platformer           -      -     -
-Bricks (Demo)              ✗      -     ✗
-Chip-8 Emulator            -      -     -
-Fierce Soldier             -      -     -
-JellyFish                  -      -     -
-Mahjong                    -      -     -
-MineSweeper                -      -     -
-Party Man                  -      -     -
-Pseudo-3D Racer (Demo)     ✗      -     ✗
-Simple Tennis              -      -     -
-Solitaire                  -      -     -
-Test - Beat editor         ✗      -     ✗
-Test - Blending modes      ✗      -     ✗
-Test - Date and time       ✗      -     ✗
-Test - Gamepads            ✗      -     ✗
-Test - Large zoom          ✗      -     ✗
-Test - Math functions      ✗      -     ✗
-Test - Memory card         ✗      -     ✗
-Test - Minimal test        ✗      -     ✗
-Test - Random numbers      ✗      -     ✗
-Test - Rotozoom            ✗      -     ✗
-Test - Sound effects       ✗      -     ✗
-Test - Tile map            ✗      -     ✗
-Tic Tac Toe                -      -     -
-Triple Bubble (Demo)       -      -     -
-Virconstein 3D (Demo)      ✗      -     ✗
-Vitris                     -      -     -
+Name                    Boxart  Snap  Title  Logo
+2048                       -      -     -      ✗
+Bad Apple (Demo)           ✗      -     ✗      ✗
+Basic Platformer           -      -     -      ✗
+Blips                      -      -     -      ✗
+Blips 2                    -      -     -      ✗
+Blockdude                  -      -     -      ✗
+Bricks (Demo)              ✗      -     -      ✗
+Chip-8 Emulator            -      -     -      ✗
+Crisp Game Lib             -      -     -      ✗
+Doom (frameskip)           -      -     -      ✗
+Doom (original)            -      -     -      ✗
+Electron Cat               -      -     -      ✗
+Fierce Soldier             -      -     -      ✗
+Fifteen                    ✗      -     -      ✗
+Formula1                   -      -     -      ✗
+Gamebuino Classic          -      -     -      ✗
+Haunty Ghost               ✗      -     -      ✗
+JellyFish                  -      -     -      ✗
+Mahjong                    -      -     -      ✗
+Mazethingie                -      -     -      ✗
+MineSweeper                -      -     -      ✗
+Ocean Storm                -      -     -      ✗
+One Skill                  -      -     -      ✗
+Party Man                  -      -     -      ✗
+Pseudo-3D Racer (Demo)     ✗      -     ✗      ✗
+Puztrix                    -      -     -      ✗
+Puzzle Land                -      -     -      ✗
+RetroTime                  -      -     -      ✗
+Rubido                     -      -     -      ✗
+Savannah Sprint            -      -     -      ✗
+Simple Tennis              -      -     -      ✗
+Skyward Escape             ✗      -     -      ✗
+Solitaire                  -      -     -      ✗
+Test - Beat editor         ✗      -     ✗      ✗
+Test - Blending modes      ✗      -     ✗      ✗
+Test - CPU errors          ✗      -     ✗      ✗
+Test - Date and time       ✗      -     ✗      ✗
+Test - Gamepads            ✗      -     ✗      ✗
+Test - Large zoom          ✗      -     ✗      ✗
+Test - Math functions      ✗      -     ✗      ✗
+Test - Memory card         ✗      -     ✗      ✗
+Test - Minimal test        ✗      -     ✗      ✗
+Test - Random numbers      ✗      -     ✗      ✗
+Test - Rotozoom            ✗      -     ✗      ✗
+Test - Sound effects       ✗      -     ✗      ✗
+Test - Tile map            ✗      -     ✗      ✗
+Tic Tac Toe                -      -     -      ✗
+Tinyjoypad                 -      -     -      ✗
+Triple Bubble (Demo)       -      -     -      ✗
+Vircoban                   -      -     -      ✗
+Virconstein 3D (Demo)      ✗      -     ✗      ✗
+Vitris                     -      -     -      ✗
+Waternet                   -      -     -      ✗
+Worm                       ✗      -     -      ✗
+Znax                       -      -     -      ✗

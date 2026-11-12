@@ -1,99 +1,332 @@
 Atari - Jaguar Missing
 
-Boxarts    69/91  75.82%
-Snaps      76/91  83.52%
-Titles     54/91  59.34%
-Total    199/273  72.89%
+Boxarts    64/323  19.81%
+Snaps      68/323  21.05%
+Titles     58/323  17.96%
+Logos      48/323  14.86%
+Total    238/1292  18.42%
 
-Name                                                         Boxart  Snap  Title
-Aircars (USA) (Beta) (1994-11-14)                               -      -     -
-Alien vs Predator (World)                                       -      -     -
-Alien vs Predator (World) (Beta) (1993-08-18)                   -      -     -
-Alien vs Predator (World) (Beta) (1993-10-13)                   -      -     -
-Alien vs Predator (World) (v0.93) (Beta) (1994-04-08)           ✗      ✗     ✗
-Atari Karts (World)                                             -      -     -
-Atari Karts (World) (Beta)                                      -      -     -
-Attack of the Mutant Penguins (World)                           -      -     -
-Barkley Shut Up and Jam (USA) (Beta)                            ✗      ✗     ✗
-Breakout 2000 (USA, Europe)                                     -      -     ✗
-Breakout 2000 (USA, Europe) (Beta)                              -      -     ✗
-Brutal Sports Football (World)                                  -      -     -
-Bubsy in Fractured Furry Tales (World)                          -      -     -
-Burn Out (World) (Demo 1)                                       ✗      ✗     ✗
-Burn Out (World) (Demo 2) (WCES 1995)                           ✗      ✗     ✗
-Cannon Fodder (World)                                           -      -     -
-Checkered Flag (World)                                          -      -     -
-Checkered Flag (World) (Beta) (CES 1993)                        -      -     ✗
-Club Drive (World)                                              -      -     -
-Club Drive (World) (Beta)                                       -      ✗     ✗
-Cybermorph (World) (Beta) (1993-08-23)                          -      -     ✗
-Cybermorph (World) (Rev A)                                      -      -     -
-Cybermorph (World) (Rev B)                                      -      -     -
-Defender 2000 (World)                                           -      -     -
-Defender 2000 (World) (Beta)                                    -      -     ✗
-Doom (World)                                                    -      -     -
-Double Dragon V - The Shadow Falls (World)                      -      -     -
-Dragon - The Bruce Lee Story (World)                            -      -     -
-Dragon - The Bruce Lee Story (World) (Beta) (1994-09-26)        -      ✗     ✗
-Dragon - The Bruce Lee Story (World) (Beta) (1994-10-06)        -      ✗     ✗
-Evolution - Dino Dudes (World)                                  -      -     -
-Fever Pitch Soccer (World) (En,Fr,De,Es,It)                     -      -     -
-Fight for Life (USA, Europe)                                    -      -     -
-Fight for Life (USA, Europe) (Beta) (1995-03-22)                -      -     -
-Fight for Life (USA, Europe) (Beta) (1995-09-07)                -      -     ✗
-Flashback - The Quest for Identity (World) (En,Fr)              -      -     -
-Flip Out! (World)                                               -      -     -
-High Voltage C Maze (USA) (Demo)                                ✗      ✗     ✗
-Hover Strike (World)                                            -      -     -
-I-War (USA, Europe)                                             -      -     -
-I-War (USA, Europe) (Beta) (1995-10-20)                         ✗      -     ✗
-International Sensible Soccer (World)                           -      -     -
-Iron Soldier (World)                                            -      -     -
-Jack Nicklaus Cyber Golf (USA) (v0.02) (Proto) (1994-07-04)     ✗      ✗     ✗
-Jack Nicklaus Cyber Golf (USA) (v0.03) (Demo) (1995-01-13)      ✗      -     ✗
-Jack Nicklaus Cyber Golf (USA) (v0.04) (Demo) (1995-01-16)      ✗      -     ✗
-Jaguar Hockey Legends 2013 (World) (Unl)                        ✗      ✗     ✗
-Kasumi Ninja (World)                                            -      -     -
-Kasumi Ninja (World) (v0.01) (Beta)                             ✗      ✗     ✗
-Kasumi Ninja (World) (v0.29) (Beta) (1994-05-24)                ✗      -     ✗
-Missile Command 3D (World)                                      -      -     -
-Missile Command VR (World) (Beta) (1995-07-05)                  ✗      -     ✗
-NBA Jam - Tournament Edition (USA, Europe)                      -      -     -
-Painter (World) (1995-12-29) (Unl)                              ✗      ✗     ✗
-Pinball Fantasies (World)                                       -      -     -
-Pitfall - The Mayan Adventure (USA, Europe)                     -      -     -
-Plucky Duck in Hollywood Hijinks (USA) (Proto) (1994-10-28)     ✗      -     ✗
-Power Drive Rally (World)                                       -      -     -
-Raiden (World)                                                  -      -     -
-Raiden (World) (Rev A)                                          -      -     ✗
-Rayman (World)                                                  -      -     -
-Rayman (World) (Beta 1)                                         -      -     ✗
-Rayman (World) (Beta 2)                                         -      -     ✗
-Ruiner Pinball (USA, Europe)                                    -      -     -
-SkyCopter II (USA) (Proto)                                      ✗      -     ✗
-Speedster II (USA) (Proto)                                      ✗      -     ✗
-Super Burnout (World)                                           -      -     -
-Supercross 3D (USA, Europe)                                     -      -     -
-Syndicate (World)                                               -      -     -
-Tempest 2000 (World)                                            -      -     -
-Thea Realm Fighters (USA) (Proto 1)                             -      -     ✗
-Thea Realm Fighters (USA) (Proto 2)                             -      ✗     ✗
-Theme Park (World)                                              -      -     -
-Tiny Toon Adventures (USA) (Proto)                              -      -     -
-Total Carnage (USA) (Beta)                                      ✗      ✗     ✗
-Towers II - Plight of the Stargazer (USA, Europe)               -      -     -
-Trevor McFur in the Crescent Galaxy (World)                     -      -     -
-Trevor McFur in the Crescent Galaxy (World) (Beta)              -      -     ✗
-Trevor McFur in the Crescent Galaxy (World) (Rev A)             -      -     ✗
-Troy Aikman NFL Football (World)                                -      -     -
-Ultimate Brain Games (USA) (Proto)                              ✗      -     ✗
-Ultra Vortek (World)                                            -      -     -
-Ultra Vortex (World) (Beta) (1995-03-20)                        -      -     -
-Val d'Isere Skiing and Snowboarding (World)                     -      -     -
-Virtual VCS (USA) (Proto)                                       ✗      -     -
-White Men Can't Jump (USA, Europe)                              -      -     -
-Wolfenstein 3D (World)                                          -      -     -
-Zero 5 (USA) (Beta)                                             ✗      ✗     ✗
-Zool 2 (World)                                                  -      -     -
-Zoop (USA, Europe)                                              -      -     -
-Zzyorxx II (USA) (Demo)                                         ✗      -     ✗
+Name                                                            Boxart  Snap  Title  Logo
+1943 (World)                                                       ✗      ✗     ✗      ✗
+2048 (World)                                                       ✗      ✗     ✗      ✗
+Abyss (World) (v0.74) (Proto)                                      ✗      ✗     ✗      ✗
+Action Fighter (World)                                             ✗      ✗     ✗      ✗
+Air Cars                                                           ✗      ✗     ✗      ✗
+Air Cars (USA)                                                     ✗      ✗     ✗      ✗
+Aircars (World)                                                    ✗      ✗     ✗      ✗
+Alice's Mom's Rescue (World) (En,Fr,De,Es,It)                      ✗      ✗     ✗      ✗
+Alien Syndrome (World)                                             ✗      ✗     ✗      ✗
+Alien vs Predator                                                  ✗      ✗     ✗      ✗
+Alien vs Predator (World)                                          -      -     -      -
+Alien vs Predator (alpha)                                          ✗      ✗     ✗      ✗
+Arena Football '95 (World)                                         -      -     -      ✗
+Arena Football '95 [J9003E 800108-006]                             ✗      ✗     ✗      ✗
+Arkanoid - Revenge of DoH (World)                                  ✗      ✗     ✗      ✗
+Assassin, The (World) (Demo 1)                                     ✗      ✗     ✗      ✗
+Assassin, The (World) (Demo 2)                                     ✗      ✗     ✗      ✗
+Asteroids                                                          ✗      ✗     ✗      ✗
+Asteroids (World)                                                  ✗      ✗     ✗      ✗
+AstroStorm (World) (v1.43) (Digital)                               ✗      ✗     ✗      ✗
+Atari Karts                                                        ✗      ✗     ✗      ✗
+Atari Karts (Proto)                                                ✗      ✗     ✗      ✗
+Atari Karts (World)                                                -      -     -      -
+Atomic (World)                                                     ✗      ✗     ✗      ✗
+Atomic Reloaded (World)                                            ✗      ✗     ✗      ✗
+Attack of the Mutant Penguins                                      ✗      ✗     ✗      ✗
+Attack of the Mutant Penguins (World)                              -      -     -      -
+Bad Apple (World) (Color Version)                                  ✗      ✗     ✗      ✗
+Bad Apple (World) (Monochrome Version)                             ✗      ✗     ✗      ✗
+Badlands (World)                                                   ✗      ✗     ✗      ✗
+Barbarian (World) (AMIGA)                                          ✗      ✗     ✗      ✗
+Barbarian (World) (Atari ST)                                       ✗      ✗     ✗      ✗
+Barkley Shut Up and Jam (World)                                    -      -     -      ✗
+Barkley Shut Up and Jam! [J9018E 705018-001]                       ✗      ✗     ✗      ✗
+Battle Sphere Gold [J0201G]                                        ✗      ✗     ✗      ✗
+Battle Sphere [J9807E]                                             ✗      ✗     ✗      ✗
+BattleSphere (World)                                               ✗      ✗     ✗      ✗
+BattleSphere Gold (World)                                          ✗      ✗     ✗      ✗
+Beach Volley (World)                                               ✗      ✗     ✗      ✗
+Beast Busters (World)                                              ✗      ✗     ✗      ✗
+Beebris (World)                                                    ✗      ✗     ✗      ✗
+Bionic Commando (World)                                            ✗      ✗     ✗      ✗
+Biopede (World) (v1.3)                                             ✗      ✗     ✗      ✗
+Black Lamp (World)                                                 ✗      ✗     ✗      ✗
+Blackhole (World) (Proto)                                          ✗      ✗     ✗      ✗
+Block'em Sock'em (World) (Digital)                                 ✗      ✗     ✗      ✗
+Boingy (World) (Demo 1)                                            ✗      ✗     ✗      ✗
+Boingy (World) (Demo 2)                                            ✗      ✗     ✗      ✗
+Boingy (World) (Demo 3)                                            ✗      ✗     ✗      ✗
+Breakout 2000 (Proto)[xx0327]                                      ✗      ✗     ✗      ✗
+Breakout 2000 (USA, Europe)                                        -      -     ✗      -
+Breakout 2000 [J9093E]                                             ✗      ✗     ✗      ✗
+Brett Hull Hockey (World)                                          -      ✗     ✗      ✗
+Brett Hull NHL Hockey [J9021E 705021-002]                          ✗      ✗     ✗      ✗
+Brutal Sports Football (World)                                     -      -     -      -
+Brutal Sports Football [JA100]                                     ✗      ✗     ✗      ✗
+Brutal Sports Football [o][JA100]                                  ✗      ✗     ✗      ✗
+Bubble Bobble (World)                                              ✗      ✗     ✗      ✗
+Bubsy in Fractured Furry Tales                                     ✗      ✗     ✗      ✗
+Bubsy in Fractured Furry Tales (World)                             -      -     -      -
+Burn Out (Proto)[Super Burnout][WCES 1995]                         ✗      ✗     ✗      ✗
+Burn Out (World) (Demo 1)                                          ✗      -     ✗      ✗
+Burn Out (World) (Demo 2) (WCES 1995)                              ✗      -     ✗      ✗
+Cannon Fodder                                                      ✗      ✗     ✗      ✗
+Cannon Fodder (World)                                              -      -     -      ✗
+Caribean Tavern (World) (Proto) (GemTos 2023)                      ✗      ✗     ✗      ✗
+Checkered Flag                                                     ✗      ✗     ✗      ✗
+Checkered Flag (Proto)[CES 1993]                                   ✗      ✗     ✗      ✗
+Checkered Flag (World)                                             -      -     -      -
+Classic Kong Complete (World)                                      ✗      ✗     ✗      ✗
+Clicks! (World)                                                    ✗      ✗     ✗      ✗
+Club Drive                                                         ✗      ✗     ✗      ✗
+Club Drive (World)                                                 -      -     -      -
+Cybermorph (Proto)                                                 ✗      ✗     ✗      ✗
+Cybermorph (World) (Rev A)                                         -      -     -      -
+Cybermorph (World) (Rev B)                                         -      -     -      -
+Cybermorph Rev A                                                   ✗      ✗     ✗      ✗
+Cybermorph Rev B [J9000E 700700-3]                                 ✗      ✗     ✗      ✗
+Cybernoid - The Fighting Machine (World)                           ✗      ✗     ✗      ✗
+Cybernoid II - The Revenge (World)                                 ✗      ✗     ✗      ✗
+Dance Dance Xirius - Space Party (World)                           ✗      ✗     ✗      ✗
+Darius+ (World)                                                    ✗      ✗     ✗      ✗
+Dark Guardian Episode 1 - Unknown Enemy (USA)                      ✗      ✗     ✗      ✗
+Dark Guardian Episode 1 - Unknown Enemy (World) (Proto)            ✗      ✗     ✗      ✗
+Defender 2000                                                      ✗      ✗     ✗      ✗
+Defender 2000 (Proto)                                              ✗      ✗     ✗      ✗
+Defender 2000 (World)                                              -      -     -      -
+Degz (World)                                                       ✗      ✗     ✗      ✗
+Diam Jag (World)                                                   ✗      ✗     ✗      ✗
+Dino Rage (World) (Proto 1) (Grid)                                 ✗      ✗     ✗      ✗
+Dino Rage (World) (Proto 1) (Jungle)                               ✗      ✗     ✗      ✗
+Dino Rage (World) (Proto 2)                                        ✗      ✗     ✗      ✗
+Do the Same (World)                                                ✗      ✗     ✗      ✗
+Doger (World)                                                      ✗      ✗     ✗      ✗
+Doom                                                               ✗      ✗     ✗      ✗
+Doom (World)                                                       -      -     -      -
+Doom 2 (World) (AC 2011)                                           ✗      ✗     ✗      ✗
+Doom 2 (World) (AC 98) (E-JagFest 2010)                            ✗      ✗     ✗      ✗
+Double Dragon V                                                    ✗      ✗     ✗      ✗
+Double Dragon V - The Shadow Falls                                 ✗      ✗     ✗      ✗
+Double Dragon V - The Shadow Falls (World)                         -      -     -      -
+Downfall (World)                                                   ✗      ✗     ✗      ✗
+Dragon - The Bruce Lee Story                                       ✗      ✗     ✗      ✗
+Dragon - The Bruce Lee Story (World)                               -      -     -      -
+Dragon Breed (World)                                               ✗      ✗     ✗      ✗
+DragonKeep (World) (v1.01)                                         ✗      ✗     ✗      ✗
+Duckie Egg (World)                                                 ✗      ✗     ✗      ✗
+Escape 2042 - The Truth Defenders (World) (En,Ja,Fr,Es)            ✗      ✗     ✗      ✗
+Escape from the Planet of the Robot Monsters (World)               ✗      ✗     ✗      ✗
+Evolution - Dino Dudes                                             ✗      ✗     ✗      ✗
+Evolution - Dino Dudes (World)                                     -      -     -      -
+Expressway (World)                                                 ✗      ✗     ✗      ✗
+Fallen Angels (World)                                              ✗      ✗     ✗      ✗
+Fantasy World Dizzy (World)                                        ✗      ✗     ✗      ✗
+Fast Food 64 (World) (v1.4b)                                       ✗      ✗     ✗      ✗
+Fernandez Must Die (World)                                         ✗      ✗     ✗      ✗
+Fever Pitch Soccer                                                 ✗      ✗     ✗      ✗
+Fever Pitch Soccer (World) (En,Fr,De,Es,It)                        -      -     -      -
+Fight for Life                                                     ✗      ✗     ✗      ✗
+Fight for Life (Proto)[xx0322]                                     ✗      ✗     ✗      ✗
+Fight for Life (Proto)[xx0907]                                     ✗      ✗     ✗      ✗
+Fight for Life (USA, Europe)                                       -      -     -      -
+Flashback - The Quest for Identity (En,Fr)                         ✗      ✗     ✗      ✗
+Flashback - The Quest for Identity (World) (En,Fr)                 -      -     -      -
+Flip Out!                                                          ✗      ✗     ✗      ✗
+Flip Out! (World)                                                  -      -     -      -
+Flying Shark (World)                                               ✗      ✗     ✗      ✗
+Frog Feast                                                         ✗      ✗     ✗      ✗
+Frog Feast (World)                                                 -      -     -      ✗
+Gauntlet II (World)                                                ✗      ✗     ✗      ✗
+Gem Race (World)                                                   ✗      ✗     ✗      ✗
+Ghouls'n Ghosts (World)                                            ✗      ✗     ✗      ✗
+Golden Axe (World) (AMIGA)                                         ✗      ✗     ✗      ✗
+Golden Axe (World) (Atari ST)                                      ✗      ✗     ✗      ✗
+Gryzzles (World)                                                   ✗      ✗     ✗      ✗
+HMS RaptoR (World)                                                 ✗      ✗     ✗      ✗
+HMS RaptoR (World) (v1.1) (U-235)                                  ✗      ✗     ✗      ✗
+Half Circle - 8biteer (World)                                      ✗      ✗     ✗      ✗
+Hook (World)                                                       ✗      ✗     ✗      ✗
+Hover Strike                                                       ✗      ✗     ✗      ✗
+Hover Strike (World)                                               -      -     -      -
+Hyper Force (World)                                                -      -     -      ✗
+Hyper Force [CF3003]                                               ✗      ✗     ✗      ✗
+I-War                                                              ✗      ✗     ✗      ✗
+I-War (USA, Europe)                                                -      -     -      -
+Impulse X (World)                                                  ✗      ✗     ✗      ✗
+International Sensible Soccer                                      ✗      ✗     ✗      ✗
+International Sensible Soccer (World)                              -      -     -      -
+Iron Soldier                                                       ✗      ✗     ✗      ✗
+Iron Soldier (World)                                               -      -     -      -
+Iron Soldier 2 (World)                                             ✗      ✗     ✗      ✗
+Iron Soldier 2 [JA810]                                             ✗      ✗     ✗      ✗
+Iron Soldier v1.04                                                 ✗      ✗     ✗      ✗
+Jack Nicklaus Cyber Golf (Proto)[v001]                             ✗      ✗     ✗      ✗
+Jack Nicklaus Cyber Golf (Proto)[v003]                             ✗      ✗     ✗      ✗
+Jack Nicklaus Cyber Golf (Proto)[v004]                             ✗      ✗     ✗      ✗
+Jack Nicklaus Cyber Golf (USA) (v0.02) (Proto)                     ✗      ✗     ✗      ✗
+JagMania (World)                                                   ✗      ✗     ✗      ✗
+JagWorm (World) (Proto)                                            ✗      ✗     ✗      ✗
+Jagmatch                                                           ✗      ✗     ✗      ✗
+Jagmatch (World)                                                   ✗      ✗     ✗      ✗
+Jaguar Hockey Legends 2013 (World)                                 ✗      ✗     ✗      ✗
+Jaguar Tetris (World)                                              ✗      ✗     ✗      ✗
+Jalaga (World) (GemTos 2023)                                       ✗      ✗     ✗      ✗
+Jet Set Willy (World)                                              ✗      ✗     ✗      ✗
+Jetpac (World)                                                     ✗      ✗     ✗      ✗
+Joust (World)                                                      ✗      ✗     ✗      ✗
+Jungle Jag (World)                                                 ✗      ✗     ✗      ✗
+Kasumi Ninja                                                       ✗      ✗     ✗      ✗
+Kasumi Ninja (World)                                               -      -     -      -
+Kasumi Ninja - TestBed v0.01 (Proto)                               ✗      ✗     ✗      ✗
+Klax (World)                                                       ✗      ✗     ✗      ✗
+Kobayashi Maru (World)                                             ✗      ✗     ✗      ✗
+Kobayashi Maru Final (World) (Digital)                             ✗      ✗     ✗      ✗
+Laby sur Therouanne (World)                                        ✗      ✗     ✗      ✗
+Mad Bodies (World) (Proto)                                         ✗      ✗     ✗      ✗
+Martian Attack (World)                                             ✗      ✗     ✗      ✗
+Martian Attack (World) (JagCode 2007)                              ✗      ✗     ✗      ✗
+Memory Track [JagCD cart][J8911 700140]                            ✗      ✗     ✗      ✗
+Midnight Resistance (World)                                        ✗      ✗     ✗      ✗
+Missile Command 3D                                                 ✗      ✗     ✗      ✗
+Missile Command 3D (World)                                         -      -     -      -
+Missile Command VR [VR headset]                                    ✗      ✗     ✗      ✗
+Moon Patrol (World)                                                ✗      ✗     ✗      ✗
+Mr. Heli (World)                                                   ✗      ✗     ✗      ✗
+NBA Jam - Tournament Edition (USA, Europe)                         -      -     -      -
+NBA Jam T.E. - Tournament Edition                                  ✗      ✗     ✗      ✗
+Native (World) (Proto)                                             ✗      ✗     ✗      ✗
+Native - Level 1 Demo                                              ✗      ✗     ✗      ✗
+Ninja Mission (World)                                              ✗      ✗     ✗      ✗
+Operation Thunderbolt (World)                                      ✗      ✗     ✗      ✗
+Operation Thunderbolt (World) (v1.1)                               ✗      ✗     ✗      ✗
+Orion_'s Jaguar Collection (World)                                 ✗      ✗     ✗      ✗
+Outrun (World)                                                     ✗      ✗     ✗      ✗
+Outrun (World) (v1.1)                                              ✗      ✗     ✗      ✗
+Painter                                                            ✗      ✗     ✗      ✗
+Painter (PD)                                                       ✗      ✗     ✗      ✗
+Painter (World)                                                    ✗      ✗     ✗      ✗
+Passing Shot (World)                                               ✗      ✗     ✗      ✗
+Phase Zero                                                         ✗      ✗     ✗      ✗
+Phase Zero (PD)                                                    ✗      ✗     ✗      ✗
+Phase Zero (World)                                                 -      -     -      ✗
+Pinball Fantasies                                                  ✗      ✗     ✗      ✗
+Pinball Fantasies (World)                                          -      -     -      -
+Pitfall - The Mayan Adventure                                      ✗      ✗     ✗      ✗
+Pitfall - The Mayan Adventure (USA, Europe)                        -      -     -      -
+Plucky Duck in Hollywood Hijinks (Proto)[unreleased tech demo]     ✗      ✗     ✗      ✗
+Plucky Duck in Hollywood Hijinks (USA) (Proto)                     ✗      ✗     ✗      ✗
+Power Drive Rally                                                  ✗      ✗     ✗      ✗
+Power Drive Rally (World)                                          -      -     -      -
+Protector (World)                                                  -      ✗     ✗      ✗
+Protector - Special Edition (World)                                -      -     -      ✗
+Protector - Special Edition [CF3004]                               ✗      ✗     ✗      ✗
+Protector [CF3004]                                                 ✗      ✗     ✗      ✗
+Quest, The (World)                                                 ✗      ✗     ✗      ✗
+R-Type (World)                                                     ✗      ✗     ✗      ✗
+R-Type II (World)                                                  ✗      ✗     ✗      ✗
+Raiden                                                             ✗      ✗     ✗      ✗
+Raiden (World)                                                     -      -     -      -
+Raiden (World) (Rev A)                                             -      -     ✗      -
+Raiden Rev A [J9005E 700705-2]                                     ✗      ✗     ✗      ✗
+Rampage (World)                                                    ✗      ✗     ✗      ✗
+Rayman                                                             ✗      ✗     ✗      ✗
+Rayman (Proto)                                                     ✗      ✗     ✗      ✗
+Rayman (Proto)[earlier prototype]                                  ✗      ✗     ✗      ✗
+Rayman (World)                                                     -      -     -      -
+Rebooteroids (World) (Proto)                                       ✗      ✗     ✗      ✗
+Rebooteroids (World) (RC1.1)                                       ✗      ✗     ✗      ✗
+Rick Dangerous (World)                                             ✗      ✗     ✗      ✗
+Rick Dangerous 2 (World)                                           ✗      ✗     ✗      ✗
+Rings (World) (RC3)                                                ✗      ✗     ✗      ✗
+Rocks Off! (World)                                                 ✗      ✗     ✗      ✗
+Ruiner Pinball                                                     ✗      ✗     ✗      ✗
+Ruiner Pinball (USA, Europe)                                       -      -     -      -
+S.p.a.c.e. (World) (Demo 1)                                        ✗      ✗     ✗      ✗
+S.p.a.c.e. (World) (Demo 2)                                        ✗      ✗     ✗      ✗
+Shoot'em up (World)                                                ✗      ✗     ✗      ✗
+SkyCopter II (USA) (Proto)                                         ✗      -     ✗      ✗
+Skyhammer (World)                                                  -      -     -      ✗
+Skyhammer [CF3001]                                                 ✗      ✗     ✗      ✗
+Slam Racer (Proto)                                                 ✗      ✗     ✗      ✗
+Slam Racer (Proto)[earlier]                                        ✗      ✗     ✗      ✗
+Slam Racer (Proto)[o]                                              ✗      ✗     ✗      ✗
+Slam Racer (World) (Proto 1)                                       ✗      ✗     ✗      ✗
+Slam Racer (World) (Proto 2)                                       ✗      ✗     ✗      ✗
+SlipStream (World) (Proto)                                         ✗      ✗     ✗      ✗
+Snowman, The (World)                                               ✗      ✗     ✗      ✗
+Soccer Kid (World)                                                 -      -     -      ✗
+Soccer Kid [BIOS blaster][re-release][CF3002]                      ✗      ✗     ✗      ✗
+Soccer Kid [h universal header][CF3002]                            ✗      ✗     ✗      ✗
+Soccer Kid [re-release][CF3002]                                    ✗      ✗     ✗      ✗
+Solomon's Key (World)                                              ✗      ✗     ✗      ✗
+Space War 2000                                                     ✗      ✗     ✗      ✗
+Space War 2000 (Proto)                                             ✗      ✗     ✗      ✗
+Space War 2000 (World)                                             -      -     -      ✗
+Speedster II (USA) (Proto)                                         ✗      -     ✗      ✗
+Star Wars (World)                                                  ✗      ✗     ✗      ✗
+Star Wars - Return of the Jedi (World)                             ✗      ✗     ✗      ✗
+Star Wars - The Empire Strikes Back (World)                        ✗      ✗     ✗      ✗
+Strider (World)                                                    ✗      ✗     ✗      ✗
+Stunt Car Racer (World)                                            ✗      ✗     ✗      ✗
+Super Burnout                                                      ✗      ✗     ✗      ✗
+Super Burnout (World)                                              -      -     -      -
+SuperCross 3D                                                      ✗      ✗     ✗      ✗
+SuperFly DX (World)                                                ✗      ✗     ✗      ✗
+SuperFly DX (World) (v1.1)                                         ✗      ✗     ✗      ✗
+Supercross 3D (USA, Europe)                                        -      -     -      -
+Syndicate                                                          ✗      ✗     ✗      ✗
+Syndicate (World)                                                  -      -     -      -
+Teenage Mutant Hero Turtles (World)                                ✗      ✗     ✗      ✗
+Tempest 2000                                                       ✗      ✗     ✗      ✗
+Tempest 2000 (World)                                               -      -     -      -
+Thea Realm Fighters (USA) (Proto 1)                                -      -     ✗      ✗
+Thea Realm Fighters (USA) (Proto 2)                                -      -     ✗      ✗
+Thea Realm Fighters (alpha)                                        ✗      ✗     ✗      ✗
+Thea Realm Fighters (alpha)[early demo]                            ✗      ✗     ✗      ✗
+Theme Park                                                         ✗      ✗     ✗      ✗
+Theme Park (World)                                                 -      -     -      -
+Tiny Toon Adventures (USA) (Proto)                                 -      -     -      ✗
+Tiny Toon Adventures v1 [J6004E 110403-110]                        ✗      ✗     ✗      ✗
+Total Carnage (Proto)[Evaluation copy for Computer West]           ✗      ✗     ✗      ✗
+Total Carnage (World)                                              -      -     -      ✗
+Total Carnage [CF3006]                                             ✗      ✗     ✗      ✗
+Towers II - Plight of the Stargazer (USA, Europe)                  -      -     -      -
+Towers II - Plight of the Stargazer [JA256]                        ✗      ✗     ✗      ✗
+Trevor McFur in the Crescent Galaxy                                ✗      ✗     ✗      ✗
+Trevor McFur in the Crescent Galaxy (World)                        -      -     -      -
+Trevor McFur in the Crescent Galaxy (World) (Rev A)                -      -     ✗      -
+Trevor McFur in the Crescent Galaxy Rev A                          ✗      ✗     ✗      ✗
+Trevor McFur in the Crescent Galaxy [J9001E 700701]                ✗      ✗     ✗      ✗
+Troy Aikman NFL Football                                           ✗      ✗     ✗      ✗
+Troy Aikman NFL Football (World)                                   -      -     -      -
+Tube (World)                                                       ✗      ✗     ✗      ✗
+Tube - Second Edition (World)                                      ✗      ✗     ✗      ✗
+Tube2020 (World) (RC1)                                             ✗      ✗     ✗      ✗
+Tube2020 (World) (RC2)                                             ✗      ✗     ✗      ✗
+UWOL - Quest for Money (World)                                     ✗      ✗     ✗      ✗
+UWOL - Quest for Money (World) (Silly Venture 2017)                ✗      ✗     ✗      ✗
+Ultimate Brain Games (Proto)                                       ✗      ✗     ✗      ✗
+Ultimate Brain Games (USA) (Proto)                                 ✗      -     ✗      ✗
+Ultimate Brain Games [unreleased]                                  ✗      ✗     ✗      ✗
+Ultra Vortek                                                       ✗      ✗     ✗      ✗
+Ultra Vortek (World)                                               -      -     -      -
+Ultra Vortex v0.94 (Proto)                                         ✗      ✗     ✗      ✗
+Val D'Isere Skiing _ Snowboarding                                  ✗      ✗     ✗      ✗
+Val d'Isere Skiing and Snowboarding (World)                        -      -     -      -
+Virtual VCS (Proto)                                                ✗      ✗     ✗      ✗
+Virtual VCS (USA) (Proto)                                          ✗      -     -      ✗
+White Men Can't Jump                                               ✗      ✗     ✗      ✗
+White Men Can't Jump (USA, Europe)                                 -      -     -      -
+Wolfenstein 3D                                                     ✗      ✗     ✗      ✗
+Wolfenstein 3D (World)                                             -      -     -      -
+Worms (World)                                                      ✗      ✗     ✗      ✗
+Worms [JA103]                                                      ✗      ✗     ✗      ✗
+Zero 5 (Proto)                                                     ✗      ✗     ✗      ✗
+Zero 5 (USA, Europe) (Proto)                                       ✗      ✗     ✗      ✗
+Zero 5 (World)                                                     ✗      ✗     ✗      ✗
+Zero 5 [J4011]                                                     ✗      ✗     ✗      ✗
+Zool 2                                                             ✗      ✗     ✗      ✗
+Zool 2 (World)                                                     -      -     -      -
+Zoop (USA, Europe)                                                 -      -     -      -
+Zoop!                                                              ✗      ✗     ✗      ✗
+Zzyorxx II (Proto)                                                 ✗      ✗     ✗      ✗

@@ -1,109 +1,160 @@
 WASM-4 Missing
 
-Boxarts    0/101   0.00%
-Snaps      0/101   0.00%
-Titles   100/101  99.01%
-Total    100/303  33.00%
+Boxarts    0/151   0.00%
+Snaps      0/151   0.00%
+Titles   150/151  99.34%
+Logos      0/151   0.00%
+Total    150/604  24.83%
 
-Name                           Boxart  Snap  Title
-2048                              ✗      ✗     -
-A Simple Space Invaders game      ✗      ✗     -
-Antcopter                         ✗      ✗     -
-Assemblio                         ✗      ✗     -
-Big Space Iron                    ✗      ✗     -
-Bombfighters                      ✗      ✗     -
-Break-It                          ✗      ✗     -
-Bubblewrap                        ✗      ✗     -
-Dashy Dango                       ✗      ✗     -
-Dodgeball                         ✗      ✗     -
-Don't Smash Into Obstacles        ✗      ✗     -
-Endless Runner                    ✗      ✗     -
-Escape Guldur                     ✗      ✗     -
-Explore the Grotto                ✗      ✗     -
-First Flight                      ✗      ✗     -
-Floppy Fish                       ✗      ✗     -
-Fool's Paradise                   ✗      ✗     -
-Future Avoid                      ✗      ✗     -
-Fuzzy World Cup                   ✗      ✗     -
-Game of Life                      ✗      ✗     -
-Game of Life_ Zig Edition         ✗      ✗     -
-Glowfish Chess                    ✗      ✗     -
-HAMMER JOE                        ✗      ✗     -
-Hills in the Moonlight            ✗      ✗     -
-Image Carousel                    ✗      ✗     -
-It's Corn!                        ✗      ✗     -
-Journey to Entorus                ✗      ✗     -
-Lake Shooter                      ✗      ✗     -
-Lime Volleyball                   ✗      ✗     -
-Lingword                          ✗      ✗     -
-Lumber Night                      ✗      ✗     -
-MIKU-15                           ✗      ✗     -
-Match3                            ✗      ✗     -
-Maze                              ✗      ✗     -
-Maze Wanderer                     ✗      ✗     -
-Meteoroids                        ✗      ✗     -
-Micro Quest                       ✗      ✗     -
-Mind Palace                       ✗      ✗     -
-Minesweeper                       ✗      ✗     -
-Minicraft                         ✗      ✗     -
-Mouse Demo                        ✗      ✗     -
-Ninja vs Knights                  ✗      ✗     -
-Nyan Cat                          ✗      ✗     -
-One Slime Army                    ✗      ✗     -
-PHANTOM SHIFT                     ✗      ✗     -
-PID Controller                    ✗      ✗     -
-PING                              ✗      ✗     -
-Palette Previewer                 ✗      ✗     -
-Piano                             ✗      ✗     -
-Pl_tfarmer                        ✗      ✗     -
-Plasma Cube                       ✗      ✗     -
-Platformer Test                   ✗      ✗     -
-Pocket Dust                       ✗      ✗     -
-Pong                              ✗      ✗     -
-Presents to the Metal             ✗      ✗     -
-Projectron                        ✗      ✗     -
-Punch'Em Up                       ✗      ✗     -
-Puyo                              ✗      ✗     -
-Racer                             ✗      ✗     -
-Raw Assembly Test                 ✗      ✗     -
-Rolly Dango                       ✗      ✗     -
-Samurai Revenge                   ✗      ✗     -
-Seal Adventure                    ✗      ✗     -
-Seed Creator Showcase             ✗      ✗     -
-Shieldshooter                     ✗      ✗     -
-Simple Rocket                     ✗      ✗     -
-Skip Ahead                        ✗      ✗     -
-Smash Sugar Parallelepipeds       ✗      ✗     -
-Snake                             ✗      ✗     -
-Snakery                           ✗      ✗     -
-Sokoban                           ✗      ✗     -
-Sound Demo                        ✗      ✗     -
-Sound Test                        ✗      ✗     -
-Space Delivery                    ✗      ✗     -
-Space Kommand                     ✗      ✗     -
-Spunky                            ✗      ✗     -
-Strikeforce                       ✗      ✗     -
-TO THE CORE                       ✗      ✗     -
-Tail Gunner                       ✗      ✗     -
-Text Input                        ✗      ✗     -
-The Legend of GEML_ Awakening     ✗      ✗     -
-The Romans Are Coming             ✗      ✗     -
-The Royal Game of Ur              ✗      ✗     -
-Tic Tac Toe                       ✗      ✗     -
-Totally not sumo                  ✗      ✗     -
-Touhou Spirits                    ✗      ✗     -
-Train!                            ✗      ✗     -
-Trials of the dark sea            ✗      ✗     -
-Tᴀᴜ Flight Simulator 1.0          ✗      ✗     ✗
-WLOKU                             ✗      ✗     -
-Wasm Wars                         ✗      ✗     -
-Watris                            ✗      ✗     -
-Win 4 Fighter (W4F)               ✗      ✗     -
-Wired                             ✗      ✗     -
-Wormhole                          ✗      ✗     -
-Wumpus Hunt                       ✗      ✗     -
-You Will Return                   ✗      ✗     -
-Zoop Zoop Bee Adventures 7        ✗      ✗     -
-ZxZ                               ✗      ✗     -
-disk-0 MADNESS                    ✗      ✗     -
-wasm4nia                          ✗      ✗     -
+Name                            Boxart  Snap  Title  Logo
+2048                               ✗      ✗     -      ✗
+A Simple Space Invaders game       ✗      ✗     -      ✗
+Annoying Robots                    ✗      ✗     -      ✗
+Antcopter                          ✗      ✗     -      ✗
+Apple Game                         ✗      ✗     -      ✗
+Assemblio                          ✗      ✗     -      ✗
+Big Space Iron                     ✗      ✗     -      ✗
+Bombfighters                       ✗      ✗     -      ✗
+Break-It                           ✗      ✗     -      ✗
+Bubblewrap                         ✗      ✗     -      ✗
+Cosmic Hopper                      ✗      ✗     -      ✗
+Cosmic Inw4ders                    ✗      ✗     -      ✗
+Customizable Pong                  ✗      ✗     -      ✗
+Dashy Dango                        ✗      ✗     -      ✗
+Dodgeball                          ✗      ✗     -      ✗
+Don't Smash Into Obstacles         ✗      ✗     -      ✗
+Dragon Poker Draw                  ✗      ✗     -      ✗
+Duck Maze                          ✗      ✗     -      ✗
+Earth Invaders                     ✗      ✗     -      ✗
+Endless Runner                     ✗      ✗     -      ✗
+Escape Guldur                      ✗      ✗     -      ✗
+Explore the Grotto                 ✗      ✗     -      ✗
+FULL STEAM AHEAD TO THE RESCUE     ✗      ✗     -      ✗
+First Flight                       ✗      ✗     -      ✗
+Floppy Fish                        ✗      ✗     -      ✗
+Fool's Paradise                    ✗      ✗     -      ✗
+Formula 1                          ✗      ✗     -      ✗
+Future Avoid                       ✗      ✗     -      ✗
+Fuzzy World Cup                    ✗      ✗     -      ✗
+Game of Life                       ✗      ✗     -      ✗
+Game of Life_ Zig Edition          ✗      ✗     -      ✗
+Glitch Dungeon                     ✗      ✗     -      ✗
+Glowfish Chess                     ✗      ✗     -      ✗
+HAMMER JOE                         ✗      ✗     -      ✗
+Hero of the Woods v3               ✗      ✗     -      ✗
+Hills in the Moonlight             ✗      ✗     -      ✗
+IOCCC 98 Flight Sim                ✗      ✗     -      ✗
+IWAS                               ✗      ✗     -      ✗
+Image Carousel                     ✗      ✗     -      ✗
+It's Corn!                         ✗      ✗     -      ✗
+Journey to Entorus                 ✗      ✗     -      ✗
+Journey to the Steam Planet        ✗      ✗     -      ✗
+Jump 'n' Shoot                     ✗      ✗     -      ✗
+Kitty Game                         ✗      ✗     -      ✗
+Lad 2024                           ✗      ✗     -      ✗
+Lake Shooter                       ✗      ✗     -      ✗
+Last Train Home                    ✗      ✗     -      ✗
+Lava Hop!                          ✗      ✗     -      ✗
+Lime Volleyball                    ✗      ✗     -      ✗
+Lingword                           ✗      ✗     -      ✗
+Lumber Night                       ✗      ✗     -      ✗
+MIKU-15                            ✗      ✗     -      ✗
+Mandelbrot                         ✗      ✗     -      ✗
+Match3                             ✗      ✗     -      ✗
+Maze                               ✗      ✗     -      ✗
+Maze Wanderer                      ✗      ✗     -      ✗
+Mazethingie                        ✗      ✗     -      ✗
+Melancholy_ cart 0                 ✗      ✗     -      ✗
+Melancholy_ cart 3                 ✗      ✗     -      ✗
+Meteoroids                         ✗      ✗     -      ✗
+Micro Quest                        ✗      ✗     -      ✗
+Mind Palace                        ✗      ✗     -      ✗
+Minesweeper                        ✗      ✗     -      ✗
+Mini Civ                           ✗      ✗     -      ✗
+Minicraft                          ✗      ✗     -      ✗
+Mouse Demo                         ✗      ✗     -      ✗
+NAIR DEMAKE                        ✗      ✗     -      ✗
+Ninja vs Knights                   ✗      ✗     -      ✗
+Number Slide                       ✗      ✗     -      ✗
+Nyan Cat                           ✗      ✗     -      ✗
+One Slime Army                     ✗      ✗     -      ✗
+PHANTOM SHIFT                      ✗      ✗     -      ✗
+PID Controller                     ✗      ✗     -      ✗
+PING                               ✗      ✗     -      ✗
+Palette Previewer                  ✗      ✗     -      ✗
+Particle Editor v1.0               ✗      ✗     -      ✗
+Pega-Pega_ the game                ✗      ✗     -      ✗
+Piano                              ✗      ✗     -      ✗
+Pixel vs Zombies                   ✗      ✗     -      ✗
+Pl_tfarmer                         ✗      ✗     -      ✗
+Plasma Cube                        ✗      ✗     -      ✗
+Platformer Test                    ✗      ✗     -      ✗
+Pocket Dust                        ✗      ✗     -      ✗
+Pong                               ✗      ✗     -      ✗
+Presents to the Metal              ✗      ✗     -      ✗
+Projectron                         ✗      ✗     -      ✗
+Punch'Em Up                        ✗      ✗     -      ✗
+Puyo                               ✗      ✗     -      ✗
+Racer                              ✗      ✗     -      ✗
+Raw Assembly Test                  ✗      ✗     -      ✗
+Rolly Dango                        ✗      ✗     -      ✗
+Rubido                             ✗      ✗     -      ✗
+Samurai Revenge                    ✗      ✗     -      ✗
+Seal Adventure                     ✗      ✗     -      ✗
+Seed Creator Showcase              ✗      ✗     -      ✗
+Shieldshooter                      ✗      ✗     -      ✗
+Simple Rocket                      ✗      ✗     -      ✗
+Skip Ahead                         ✗      ✗     -      ✗
+Smash Sugar Parallelepipeds        ✗      ✗     -      ✗
+Snake                              ✗      ✗     -      ✗
+Snakery                            ✗      ✗     -      ✗
+Sokoban                            ✗      ✗     -      ✗
+Sound Demo                         ✗      ✗     -      ✗
+Sound Test                         ✗      ✗     -      ✗
+Space Delivery                     ✗      ✗     -      ✗
+Space Kommand                      ✗      ✗     -      ✗
+Spunky                             ✗      ✗     -      ✗
+StarShard Scavengers               ✗      ✗     -      ✗
+Starfighter Arena                  ✗      ✗     -      ✗
+Starfighter Ship Creator           ✗      ✗     -      ✗
+Strikeforce                        ✗      ✗     -      ✗
+TO THE CORE                        ✗      ✗     -      ✗
+Tail Gunner                        ✗      ✗     -      ✗
+Tank Battle                        ✗      ✗     -      ✗
+Tank Wars                          ✗      ✗     -      ✗
+Tankle                             ✗      ✗     -      ✗
+Tankle Adventure                   ✗      ✗     -      ✗
+Text Input                         ✗      ✗     -      ✗
+The Legend of GEML_ Awakening      ✗      ✗     -      ✗
+The Romans Are Coming              ✗      ✗     -      ✗
+The Royal Game of Ur               ✗      ✗     -      ✗
+Tic Tac Toe                        ✗      ✗     -      ✗
+Tiny Pong                          ✗      ✗     -      ✗
+Totally not sumo                   ✗      ✗     -      ✗
+Touhou Spirits                     ✗      ✗     -      ✗
+Train!                             ✗      ✗     -      ✗
+Trials of the dark sea             ✗      ✗     -      ✗
+Tᴀᴜ Flight Simulator 1.0           ✗      ✗     ✗      ✗
+UEM Mini Game                      ✗      ✗     -      ✗
+Untangle                           ✗      ✗     -      ✗
+WASM Invaders                      ✗      ✗     -      ✗
+WASM-4 City                        ✗      ✗     -      ✗
+WASM-4 RPG                         ✗      ✗     -      ✗
+WASMstein 3D                       ✗      ✗     -      ✗
+WLOKU                              ✗      ✗     -      ✗
+Wasm Wars                          ✗      ✗     -      ✗
+Wasm4 Gameboy VGM Player           ✗      ✗     -      ✗
+Waternet                           ✗      ✗     -      ✗
+Watris                             ✗      ✗     -      ✗
+Win 4 Fighter (W4F)                ✗      ✗     -      ✗
+Wired                              ✗      ✗     -      ✗
+Wormhole                           ✗      ✗     -      ✗
+Wumpus Hunt                        ✗      ✗     -      ✗
+You Will Return                    ✗      ✗     -      ✗
+Zigtris                            ✗      ✗     -      ✗
+Zoop Zoop Bee Adventures 7         ✗      ✗     -      ✗
+ZxZ                                ✗      ✗     -      ✗
+comic-sans                         ✗      ✗     -      ✗
+disk-0 MADNESS                     ✗      ✗     -      ✗
+panelpon4                          ✗      ✗     -      ✗
+wasm4nia                           ✗      ✗     -      ✗

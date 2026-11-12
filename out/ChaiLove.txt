@@ -1,14 +1,15 @@
 ChaiLove Missing
 
-Boxarts   1/6  16.67%
-Snaps     5/6  83.33%
-Titles    1/6  16.67%
-Total    7/18  38.89%
+Boxarts    1/6   16.67%
+Snaps      6/6  100.00%
+Titles     4/6   66.67%
+Logos      0/6    0.00%
+Total    11/24   45.83%
 
-Name          Boxart  Snap  Title
-Floppy Bird      -      -     -
-Game of Life     ✗      -     ✗
-JSTest           ✗      -     ✗
-Launcher         ✗      ✗     ✗
-Nyan Cat         ✗      -     ✗
-Snake            ✗      -     ✗
+Name          Boxart  Snap  Title  Logo
+Floppy Bird      -      -     -      ✗
+Game of Life     ✗      -     ✗      ✗
+JSTest           ✗      -     -      ✗
+Launcher         ✗      -     -      ✗
+Nyan Cat         ✗      -     ✗      ✗
+Snake            ✗      -     -      ✗

@@ -1,39 +1,40 @@
 VTech - CreatiVision Missing
 
-Boxarts  0/31  0.00%
-Snaps    0/31  0.00%
-Titles   0/31  0.00%
-Total    0/93  0.00%
+Boxarts   11/31  35.48%
+Snaps     10/31  32.26%
+Titles    11/31  35.48%
+Logos      0/31   0.00%
+Total    32/124  25.81%
 
-Name                                                           Boxart  Snap  Title
-Air Sea Attack (Europe, Asia) (En)                                ✗      ✗     ✗
-Astro Pinball (Europe, Asia) (En)                                 ✗      ✗     ✗
-Auto Chase (Europe, Asia) (En)                                    ✗      ✗     ✗
-BASIC (Europe, Asia) (En)                                         ✗      ✗     ✗
-BASIC (Europe, Asia) (En) (Rev 1)                                 ✗      ✗     ✗
-BASIC (Europe, Asia) (En) (Rev 2)                                 ✗      ✗     ✗
-BASIC (Europe, Asia) (En) (Rev 3)                                 ✗      ✗     ✗
-Chopper Rescue (Europe, Asia) (En)                                ✗      ✗     ✗
-Crazy Chicky (Europe, Asia) (En)                                  ✗      ✗     ✗
-Crazy Pucker ~ Crazy Moonie ~ Crazy Chewy (Europe, Asia) (En)     ✗      ✗     ✗
-Deep Sea Adventure (Europe, Asia) (En) (6K)                       ✗      ✗     ✗
-Deep Sea Adventure (Europe, Asia) (En) (8K)                       ✗      ✗     ✗
-Locomotive (Europe, Asia) (En) (10K)                              ✗      ✗     ✗
-Locomotive (Europe, Asia) (En) (12K)                              ✗      ✗     ✗
-Mouse Puzzle (Europe, Asia) (En)                                  ✗      ✗     ✗
-Music Maker (Europe, Asia) (En)                                   ✗      ✗     ✗
-Planet Defender (Europe, Asia) (En) (6K)                          ✗      ✗     ✗
-Planet Defender (Europe, Asia) (En) (8K)                          ✗      ✗     ✗
-Police Jump (Europe, Asia) (En)                                   ✗      ✗     ✗
-Police Jump (Europe, Asia) (En) (Rev 1)                           ✗      ✗     ✗
-Soccer (Europe, Asia) (En)                                        ✗      ✗     ✗
-Sonic Invader (Europe, Asia) (En)                                 ✗      ✗     ✗
-Stone Age (Europe, Asia) (En)                                     ✗      ✗     ✗
-Tank Attack (Europe, Asia) (En) (6K)                              ✗      ✗     ✗
-Tank Attack (Europe, Asia) (En) (8K)                              ✗      ✗     ✗
-Tennis (Europe, Asia) (En) (Coca-Cola ~ Sprite)                   ✗      ✗     ✗
-Tennis (Europe, Asia) (En) (DSE)                                  ✗      ✗     ✗
-Tennis (Europe, Asia) (En) (DSE) (Rev 1) (6K)                     ✗      ✗     ✗
-Tennis (Europe, Asia) (En) (DSE) (Rev 1) (8K)                     ✗      ✗     ✗
-Tennis (Europe, Asia) (En) (Wimbledon) (6K)                       ✗      ✗     ✗
-Tennis (Europe, Asia) (En) (Wimbledon) (8K)                       ✗      ✗     ✗
+Name                                                           Boxart  Snap  Title  Logo
+Air Sea Attack (Europe, Asia) (En)                                -      -     -      ✗
+Astro Pinball (Europe, Asia) (En)                                 -      -     -      ✗
+Auto Chase (Europe, Asia) (En)                                    -      -     -      ✗
+BASIC (Europe, Asia) (En)                                         ✗      ✗     ✗      ✗
+BASIC (Europe, Asia) (En) (Rev 1)                                 ✗      ✗     ✗      ✗
+BASIC (Europe, Asia) (En) (Rev 2)                                 ✗      ✗     ✗      ✗
+BASIC (Europe, Asia) (En) (Rev 3)                                 ✗      ✗     ✗      ✗
+Chopper Rescue (Europe, Asia) (En)                                -      -     -      ✗
+Crazy Chicky (Europe, Asia) (En)                                  -      -     -      ✗
+Crazy Pucker ~ Crazy Moonie ~ Crazy Chewy (Europe, Asia) (En)     ✗      ✗     ✗      ✗
+Deep Sea Adventure (Europe, Asia) (En) (6K)                       ✗      ✗     ✗      ✗
+Deep Sea Adventure (Europe, Asia) (En) (8K)                       ✗      ✗     ✗      ✗
+Locomotive (Europe, Asia) (En) (10K)                              ✗      ✗     ✗      ✗
+Locomotive (Europe, Asia) (En) (12K)                              ✗      ✗     ✗      ✗
+Mouse Puzzle (Europe, Asia) (En)                                  -      -     -      ✗
+Music Maker (Europe, Asia) (En)                                   -      -     -      ✗
+Planet Defender (Europe, Asia) (En) (6K)                          ✗      ✗     ✗      ✗
+Planet Defender (Europe, Asia) (En) (8K)                          ✗      ✗     ✗      ✗
+Police Jump (Europe, Asia) (En)                                   -      -     -      ✗
+Police Jump (Europe, Asia) (En) (Rev 1)                           ✗      ✗     ✗      ✗
+Soccer (Europe, Asia) (En)                                        -      -     -      ✗
+Sonic Invader (Europe, Asia) (En)                                 -      -     -      ✗
+Stone Age (Europe, Asia) (En)                                     ✗      ✗     ✗      ✗
+Tank Attack (Europe, Asia) (En) (6K)                              ✗      ✗     ✗      ✗
+Tank Attack (Europe, Asia) (En) (8K)                              ✗      ✗     ✗      ✗
+Tennis (Europe, Asia) (En) (Coca-Cola ~ Sprite)                   ✗      ✗     ✗      ✗
+Tennis (Europe, Asia) (En) (DSE)                                  -      ✗     -      ✗
+Tennis (Europe, Asia) (En) (DSE) (Rev 1) (6K)                     ✗      ✗     ✗      ✗
+Tennis (Europe, Asia) (En) (DSE) (Rev 1) (8K)                     ✗      ✗     ✗      ✗
+Tennis (Europe, Asia) (En) (Wimbledon) (6K)                       ✗      ✗     ✗      ✗
+Tennis (Europe, Asia) (En) (Wimbledon) (8K)                       ✗      ✗     ✗      ✗

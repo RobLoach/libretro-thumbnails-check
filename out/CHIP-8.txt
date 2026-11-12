@@ -1,9 +1,12 @@
 CHIP-8 Missing
 
+No thumbnails repository at https://github.com/libretro-thumbnails/CHIP-8
+
 Boxarts  0/1  0.00%
 Snaps    0/1  0.00%
 Titles   0/1  0.00%
-Total    0/3  0.00%
+Logos    0/1  0.00%
+Total    0/4  0.00%
 
-Name        Boxart  Snap  Title
-Wonky Pong     ✗      ✗     ✗
+Name        Boxart  Snap  Title  Logo
+Wonky Pong     ✗      ✗     ✗      ✗

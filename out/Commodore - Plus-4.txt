@@ -3,11 +3,12 @@ Commodore - Plus-4 Missing
 Boxarts    5/5  100.00%
 Snaps      5/5  100.00%
 Titles     5/5  100.00%
-Total    15/15  100.00%
+Logos      3/5   60.00%
+Total    18/20   90.00%
 
-Name                            Boxart  Snap  Title
-Atomic Mission (USA, Europe)       -      -     -
-Jack Attack (USA, Europe)          -      -     -
-Pirate Adventure (USA, Europe)     -      -     -
-Strange Odyssey (USA, Europe)      -      -     -
-Viduzzles (USA, Europe)            -      -     -
+Name                            Boxart  Snap  Title  Logo
+Atomic Mission (USA, Europe)       -      -     -      ✗
+Jack Attack (USA, Europe)          -      -     -      ✗
+Pirate Adventure (USA, Europe)     -      -     -      -
+Strange Odyssey (USA, Europe)      -      -     -      -
+Viduzzles (USA, Europe)            -      -     -      -

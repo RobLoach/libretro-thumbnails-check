@@ -1,132 +1,350 @@
 Atari - 7800 Missing
 
-Boxarts  120/124   96.77%
-Snaps    124/124  100.00%
-Titles   119/124   95.97%
-Total    363/372   97.58%
+Boxarts   114/341  33.43%
+Snaps     117/341  34.31%
+Titles    114/341  33.43%
+Logos      78/341  22.87%
+Total    423/1364  31.01%
 
-Name                                          Boxart  Snap  Title
-32 in 1 (Australia)                              -      -     ✗
-Ace of Aces (Europe)                             -      -     -
-Ace of Aces (USA)                                -      -     -
-Alien Brigade (Europe)                           -      -     -
-Alien Brigade (USA)                              -      -     -
-Asteroids (USA)                                  -      -     -
-Asteroids (USA) (Beta)                           -      -     -
-Atari 7800 Development Card (USA)                ✗      -     ✗
-Ballblazer (Europe)                              -      -     -
-Ballblazer (USA)                                 -      -     -
-Barnyard Blaster (Europe)                        -      -     -
-Barnyard Blaster (USA)                           -      -     -
-Baseball (Europe)                                -      -     -
-Basketbrawl (Europe)                             -      -     -
-Basketbrawl (USA)                                -      -     -
-Centipede (Europe)                               -      -     -
-Centipede (USA)                                  -      -     -
-Choplifter! (Europe)                             -      -     -
-Choplifter! (USA)                                -      -     -
-Commando (Europe)                                -      -     -
-Commando (USA)                                   -      -     -
-Crack'ed (Europe)                                -      -     -
-Crack'ed (USA)                                   -      -     -
-Crossbow (Europe)                                -      -     -
-Crossbow (USA)                                   -      -     -
-Dark Chambers (Europe)                           -      -     -
-Dark Chambers (USA)                              -      -     -
-Desert Falcon (Europe)                           -      -     -
-Desert Falcon (USA)                              -      -     -
-Diagnostic Test Cartrige (USA)                   -      -     -
-Diagnostic Test Cartrige (USA) (Beta)            ✗      -     ✗
-Dig Dug (Europe)                                 -      -     -
-Dig Dug (USA)                                    -      -     -
-Donkey Kong (Europe)                             -      -     -
-Donkey Kong (USA)                                -      -     -
-Donkey Kong Junior (Europe)                      -      -     -
-Donkey Kong Junior (USA)                         -      -     -
-Double Dragon (Europe)                           -      -     -
-Double Dragon (USA)                              -      -     -
-F-18 Hornet (Europe)                             -      -     -
-F-18 Hornet (USA)                                -      -     -
-Fatal Run (Europe)                               -      -     -
-Fatal Run (USA)                                  -      -     -
-Fight Night (Europe)                             -      -     -
-Fight Night (USA)                                -      -     -
-Food Fight (Europe)                              -      -     -
-Food Fight (USA)                                 -      -     -
-Food Fight (USA) (Beta)                          -      -     -
-GATO (USA) (Proto)                               -      -     -
-Galaga (Europe)                                  -      -     -
-Galaga (USA)                                     -      -     -
-Hat Trick (Europe)                               -      -     -
-Hat Trick (USA)                                  -      -     -
-High Score Cartridge (USA) (Proto)               ✗      -     ✗
-Ikari Warriors (Europe)                          -      -     -
-Ikari Warriors (USA)                             -      -     -
-Impossible Mission (Europe)                      -      -     -
-Impossible Mission (USA)                         -      -     -
-Jinks (Europe)                                   -      -     -
-Jinks (USA)                                      -      -     -
-Joust (Europe)                                   -      -     -
-Joust (USA)                                      -      -     -
-Karateka (Europe)                                -      -     -
-Karateka (USA)                                   -      -     -
-Klax (USA) (Proto)                               -      -     -
-Kung-Fu Master (Europe)                          -      -     -
-Kung-Fu Master (USA)                             -      -     -
-Mario Bros. (Europe)                             -      -     -
-Mario Bros. (USA)                                -      -     -
-Mat Mania Challenge (Europe)                     -      -     -
-Mat Mania Challenge (USA)                        -      -     -
-Mean 18 Ultimate Golf (Europe)                   -      -     -
-Mean 18 Ultimate Golf (USA)                      -      -     -
-Meltdown (Europe)                                -      -     -
-Meltdown (USA)                                   -      -     -
-Midnight Mutants (Europe)                        -      -     -
-Midnight Mutants (USA)                           -      -     -
-Missing in Action (USA) (Proto)                  ✗      -     ✗
-Motor Psycho (Europe)                            -      -     -
-Motor Psycho (USA)                               -      -     -
-Ms. Pac-Man (Europe)                             -      -     -
-Ms. Pac-Man (USA)                                -      -     -
-Ninja Golf (Europe)                              -      -     -
-Ninja Golf (USA)                                 -      -     -
-One-on-One Basketball (Europe)                   -      -     -
-One-on-One Basketball (USA)                      -      -     -
-Pete Rose Baseball (USA)                         -      -     -
-Pit Fighter (USA) (Proto)                        -      -     -
-Planet Smashers (Europe)                         -      -     -
-Planet Smashers (USA)                            -      -     -
-Plutos (USA) (Proto)                             -      -     -
-Pole Position II (Europe)                        -      -     -
-Pole Position II (USA)                           -      -     -
-Pole Position II (USA) (Beta)                    -      -     -
-Rampage (USA)                                    -      -     -
-Rampart (USA) (Proto)                            -      -     -
-RealSports Baseball (USA)                        -      -     -
-Rescue on Fractalus (USA) (Proto)                -      -     -
-Robotron - 2084 (USA)                            -      -     -
-Scrapyard Dog (Europe)                           -      -     -
-Scrapyard Dog (USA)                              -      -     -
-Sentinel (Europe)                                -      -     -
-Sentinel (USA) (Proto)                           -      -     -
-Sirius (USA) (Proto)                             -      -     -
-Summer Games (USA)                               -      -     -
-Super Huey UH-IX (Europe)                        -      -     -
-Super Huey UH-IX (USA)                           -      -     -
-Super Skateboardin' (Europe)                     -      -     -
-Super Skateboardin' (USA)                        -      -     -
-Tank Command (USA)                               -      -     -
-Title Match Pro Wrestling (Europe)               -      -     -
-Title Match Pro Wrestling (USA)                  -      -     -
-Tomcat - The F-14 Fighter Simulator (Europe)     -      -     -
-Tomcat - The F-14 Fighter Simulator (USA)        -      -     -
-Touchdown Football (USA)                         -      -     -
-Tower Toppler (Europe)                           -      -     -
-Tower Toppler (USA)                              -      -     -
-Water Ski (USA)                                  -      -     -
-Winter Games (USA)                               -      -     -
-Xenophobe (Europe)                               -      -     -
-Xenophobe (USA)                                  -      -     -
-Xevious (Europe)                                 -      -     -
-Xevious (USA)                                    -      -     -
-Xevious (USA) (Beta)                             -      -     -
+Name                                                             Boxart  Snap  Title  Logo
+1942 (Extended) (World)                                             ✗      ✗     ✗      ✗
+1942 (Small) (World)                                                ✗      ✗     ✗      ✗
+1942 (World)                                                        ✗      ✗     ✗      ✗
+2048 (World)                                                        ✗      ✗     ✗      ✗
+3D Asteroids (Proto)                                                ✗      ✗     ✗      ✗
+Ace Of Aces                                                         ✗      ✗     ✗      ✗
+Ace of Aces                                                         ✗      ✗     ✗      ✗
+Ace of Aces (Europe)                                                -      -     -      -
+Ace of Aces (PAL)                                                   ✗      ✗     ✗      ✗
+Ace of Aces (USA)                                                   -      -     -      -
+Alien Brigade                                                       ✗      ✗     ✗      ✗
+Alien Brigade (Europe)                                              -      -     -      -
+Alien Brigade (PAL)                                                 ✗      ✗     ✗      ✗
+Alien Brigade (USA)                                                 -      -     -      -
+Alpha Race (World)                                                  ✗      ✗     ✗      ✗
+Armor Attack II (World)                                             ✗      ✗     ✗      ✗
+Asteroids                                                           ✗      ✗     ✗      ✗
+Asteroids (USA)                                                     -      -     -      ✗
+Asteroids Deluxe (World)                                            ✗      ✗     ✗      ✗
+Asteroids Deluxe (World) (PAL)                                      ✗      ✗     ✗      ✗
+Astro Blaster (World)                                               ✗      ✗     ✗      ✗
+Astro Fighter (World)                                               ✗      ✗     ✗      ✗
+Atari 7800 Development Card (USA)                                   ✗      -     ✗      ✗
+Atlas (World)                                                       ✗      ✗     ✗      ✗
+Baby Pac-Man (World) (Digital)                                      ✗      ✗     ✗      ✗
+Ballblazer                                                          ✗      ✗     ✗      ✗
+Ballblazer (Europe)                                                 -      -     -      ✗
+Ballblazer (PAL)                                                    ✗      ✗     ✗      ✗
+Ballblazer (USA)                                                    -      -     -      ✗
+Barnyard Blaster                                                    ✗      ✗     ✗      ✗
+Barnyard Blaster (Europe)                                           -      -     -      -
+Barnyard Blaster (PAL)                                              ✗      ✗     ✗      ✗
+Barnyard Blaster (USA)                                              -      -     -      -
+Baseball (Europe)                                                   -      -     -      -
+Baseball (PAL)                                                      ✗      ✗     ✗      ✗
+Basketbrawl                                                         ✗      ✗     ✗      ✗
+Basketbrawl (Europe)                                                -      -     -      -
+Basketbrawl (PAL)                                                   ✗      ✗     ✗      ✗
+Basketbrawl (USA)                                                   -      -     -      -
+Bentley Bear's Crystal Quest (World)                                ✗      ✗     ✗      ✗
+Cartesian Chaos (World)                                             ✗      ✗     ✗      ✗
+Centipede                                                           ✗      ✗     ✗      ✗
+Centipede (Europe)                                                  -      -     -      ✗
+Centipede (PAL)                                                     ✗      ✗     ✗      ✗
+Centipede (USA)                                                     -      -     -      ✗
+Choplifter!                                                         ✗      ✗     ✗      ✗
+Choplifter! (Europe)                                                -      -     -      -
+Choplifter! (PAL)                                                   ✗      ✗     ✗      ✗
+Choplifter! (USA)                                                   -      -     -      -
+Commando                                                            ✗      ✗     ✗      ✗
+Commando (Europe)                                                   -      -     -      ✗
+Commando (PAL)                                                      ✗      ✗     ✗      ✗
+Commando (USA)                                                      -      -     -      ✗
+Crack'ed                                                            ✗      ✗     ✗      ✗
+Crack'ed (Europe)                                                   -      -     -      ✗
+Crack'ed (PAL)                                                      ✗      ✗     ✗      ✗
+Crack'ed (USA)                                                      -      -     -      ✗
+Crazy Bricks (World)                                                ✗      ✗     ✗      ✗
+Crossbow                                                            ✗      ✗     ✗      ✗
+Crossbow (Europe)                                                   -      -     -      ✗
+Crossbow (PAL)                                                      ✗      ✗     ✗      ✗
+Crossbow (USA)                                                      -      -     -      ✗
+Dark Chambers                                                       ✗      ✗     ✗      ✗
+Dark Chambers (Europe)                                              -      -     -      -
+Dark Chambers (PAL)                                                 ✗      ✗     ✗      ✗
+Dark Chambers (USA)                                                 -      -     -      -
+DeathMerchant (World) (v1.30) (Digital)                             ✗      ✗     ✗      ✗
+Desert Falcon                                                       ✗      ✗     ✗      ✗
+Desert Falcon (Europe)                                              -      -     -      -
+Desert Falcon (PAL)                                                 ✗      ✗     ✗      ✗
+Desert Falcon (USA)                                                 -      -     -      -
+Destroyer 7800 (World) (v1.03)                                      ✗      ✗     ✗      ✗
+Dig Dug                                                             ✗      ✗     ✗      ✗
+Dig Dug (Europe)                                                    -      -     -      -
+Dig Dug (PAL)                                                       ✗      ✗     ✗      ✗
+Dig Dug (USA)                                                       -      -     -      -
+Donkey Kong                                                         ✗      ✗     ✗      ✗
+Donkey Kong (Europe)                                                -      -     -      ✗
+Donkey Kong (PAL)                                                   ✗      ✗     ✗      ✗
+Donkey Kong (USA)                                                   -      -     -      ✗
+Donkey Kong Junior                                                  ✗      ✗     ✗      ✗
+Donkey Kong Junior (Europe)                                         -      -     -      -
+Donkey Kong Junior (PAL)                                            ✗      ✗     ✗      ✗
+Donkey Kong Junior (USA)                                            -      -     -      -
+Double Dragon                                                       ✗      ✗     ✗      ✗
+Double Dragon (Europe)                                              -      -     -      ✗
+Double Dragon (PAL)                                                 ✗      ✗     ✗      ✗
+Double Dragon (USA)                                                 -      -     -      ✗
+Dragon's Cache (World)                                              ✗      ✗     ✗      ✗
+Dragon's Cache (World) (BupSystem)                                  ✗      ✗     ✗      ✗
+Dragon's Descent (World)                                            ✗      ✗     ✗      ✗
+Drelbs (World)                                                      ✗      ✗     ✗      ✗
+Dungeon Stalker (World) (1.245d)                                    ✗      ✗     ✗      ✗
+Easter Klondike Solitaire (World)                                   ✗      ✗     ✗      ✗
+F-18 Hornet                                                         ✗      ✗     ✗      ✗
+F-18 Hornet (Europe)                                                -      -     -      -
+F-18 Hornet (PAL)                                                   ✗      ✗     ✗      ✗
+F-18 Hornet (USA)                                                   -      -     -      -
+F-18 Hornet [b2]                                                    ✗      ✗     ✗      ✗
+FailSafe (World)                                                    ✗      ✗     ✗      ✗
+FailSafe (World) (PAL)                                              ✗      ✗     ✗      ✗
+Fatal Run                                                           ✗      ✗     ✗      ✗
+Fatal Run (Europe)                                                  -      -     -      -
+Fatal Run (PAL)                                                     ✗      ✗     ✗      ✗
+Fatal Run (USA)                                                     -      -     -      -
+Fight Night                                                         ✗      ✗     ✗      ✗
+Fight Night (Europe)                                                -      -     -      -
+Fight Night (PAL)                                                   ✗      ✗     ✗      ✗
+Fight Night (USA)                                                   -      -     -      -
+Food Fight                                                          ✗      ✗     ✗      ✗
+Food Fight (Europe)                                                 -      -     -      -
+Food Fight (PAL)                                                    ✗      ✗     ✗      ✗
+Food Fight (USA)                                                    -      -     -      -
+Frenzy (World) (v1.06)                                              ✗      ✗     ✗      ✗
+Frenzy (World) (v1.07)                                              ✗      ✗     ✗      ✗
+Froggie (World)                                                     ✗      ✗     ✗      ✗
+GATO (Proto)                                                        ✗      ✗     ✗      ✗
+GATO (USA) (Proto)                                                  -      -     -      ✗
+Galaga                                                              ✗      ✗     ✗      ✗
+Galaga (Europe)                                                     -      -     -      -
+Galaga (PAL)                                                        ✗      ✗     ✗      ✗
+Galaga (USA)                                                        -      -     -      -
+Galaxian (World)                                                    ✗      ✗     ✗      ✗
+GoSub (World) (Digital)                                             ✗      ✗     ✗      ✗
+Harpy's Curse (World) (Proto)                                       ✗      ✗     ✗      ✗
+Hat Trick                                                           ✗      ✗     ✗      ✗
+Hat Trick (Europe)                                                  -      -     -      -
+Hat Trick (PAL)                                                     ✗      ✗     ✗      ✗
+Hat Trick (USA)                                                     -      -     -      -
+High Score Cartridge (USA) (Proto)                                  ✗      -     ✗      ✗
+Ikari Warriors                                                      ✗      ✗     ✗      ✗
+Ikari Warriors (Europe)                                             -      -     -      -
+Ikari Warriors (PAL)                                                ✗      ✗     ✗      ✗
+Ikari Warriors (USA)                                                -      -     -      -
+Impossible Mission                                                  ✗      ✗     ✗      ✗
+Impossible Mission (Europe)                                         -      -     -      ✗
+Impossible Mission (PAL)                                            ✗      ✗     ✗      ✗
+Impossible Mission (USA)                                            -      -     -      ✗
+Impossible Mission (USA) (Rev 1) (Proto)                            ✗      ✗     ✗      ✗
+Jacks or Better Poker (World) (v1.37)                               ✗      ✗     ✗      ✗
+Jinks                                                               ✗      ✗     ✗      ✗
+Jinks (Europe)                                                      -      -     -      -
+Jinks (PAL)                                                         ✗      ✗     ✗      ✗
+Jinks (USA)                                                         -      -     -      -
+Joust                                                               ✗      ✗     ✗      ✗
+Joust (Europe)                                                      -      -     -      -
+Joust (PAL)                                                         ✗      ✗     ✗      ✗
+Joust (USA)                                                         -      -     -      -
+Jr. Pac-Man (World)                                                 ✗      ✗     ✗      ✗
+Jr. Pac-Man (World) (PAL)                                           ✗      ✗     ✗      ✗
+K.C. Munchkin (World) (v1.00)                                       ✗      ✗     ✗      ✗
+K.C. Munchkin (World) (v1.01)                                       ✗      ✗     ✗      ✗
+Karateka                                                            ✗      ✗     ✗      ✗
+Karateka (Europe)                                                   -      -     -      ✗
+Karateka (PAL)                                                      ✗      ✗     ✗      ✗
+Karateka (USA)                                                      -      -     -      ✗
+Keystone Koppers (World)                                            ✗      ✗     ✗      ✗
+Klax (Proto)                                                        ✗      ✗     ✗      ✗
+Klax (USA) (Proto)                                                  -      -     -      ✗
+Knight Guy in Low-Res World - Castle Days (World) (RC1.1)           ✗      ✗     ✗      ✗
+Kung-Fu Master                                                      ✗      ✗     ✗      ✗
+Kung-Fu Master (Europe)                                             -      -     -      ✗
+Kung-Fu Master (PAL)                                                ✗      ✗     ✗      ✗
+Kung-Fu Master (USA)                                                -      -     -      ✗
+Legend of Silverpeak (World) (v1.00)                                ✗      ✗     ✗      ✗
+Legend of Silverpeak (World) (v1.01)                                ✗      ✗     ✗      ✗
+Mario Bros.                                                         ✗      ✗     ✗      ✗
+Mario Bros. (Europe)                                                -      -     -      -
+Mario Bros. (PAL)                                                   ✗      ✗     ✗      ✗
+Mario Bros. (USA)                                                   -      -     -      -
+Mat Mania Challenge                                                 ✗      ✗     ✗      ✗
+Mat Mania Challenge (Europe)                                        -      -     -      -
+Mat Mania Challenge (PAL)                                           ✗      ✗     ✗      ✗
+Mat Mania Challenge (USA)                                           -      -     -      -
+Mean 18 Ultimate Golf                                               ✗      ✗     ✗      ✗
+Mean 18 Ultimate Golf (Europe)                                      -      -     -      -
+Mean 18 Ultimate Golf (PAL)                                         ✗      ✗     ✗      ✗
+Mean 18 Ultimate Golf (USA)                                         -      -     -      -
+Meltdown                                                            ✗      ✗     ✗      ✗
+Meltdown (Europe)                                                   -      -     -      -
+Meltdown (PAL)                                                      ✗      ✗     ✗      ✗
+Meltdown (USA)                                                      -      -     -      -
+Meteor Shower (World) (v1.05)                                       ✗      ✗     ✗      ✗
+Meteor Shower (World) (v1.05) (PAL)                                 ✗      ✗     ✗      ✗
+Meteor Shower (World) (v1.06)                                       ✗      ✗     ✗      ✗
+Meteor Shower (World) (v1.06) (PAL)                                 ✗      ✗     ✗      ✗
+Midnight Mutants                                                    ✗      ✗     ✗      ✗
+Midnight Mutants (Europe)                                           -      -     -      -
+Midnight Mutants (PAL)                                              ✗      ✗     ✗      ✗
+Midnight Mutants (USA)                                              -      -     -      -
+Missing in Action (USA) (Proto)                                     ✗      -     ✗      ✗
+Moon Cresta (World)                                                 ✗      ✗     ✗      ✗
+Moon Cresta (World) (PAL)                                           ✗      ✗     ✗      ✗
+Motor Psycho                                                        ✗      ✗     ✗      ✗
+Motor Psycho (Europe)                                               -      -     -      -
+Motor Psycho (PAL)                                                  ✗      ✗     ✗      ✗
+Motor Psycho (USA)                                                  -      -     -      -
+Ms. Pac-Man                                                         ✗      ✗     ✗      ✗
+Ms. Pac-Man (Europe)                                                -      -     -      -
+Ms. Pac-Man (PAL)                                                   ✗      ✗     ✗      ✗
+Ms. Pac-Man (USA)                                                   -      -     -      -
+Ms. Pac-Man 320 (World)                                             ✗      ✗     ✗      ✗
+Ms. Pac-Man 320 (World) (PAL)                                       ✗      ✗     ✗      ✗
+Ninja Golf                                                          ✗      ✗     ✗      ✗
+Ninja Golf (Europe)                                                 -      -     -      -
+Ninja Golf (PAL)                                                    ✗      ✗     ✗      ✗
+Ninja Golf (USA)                                                    -      -     -      -
+One-on-One Basketball                                               ✗      ✗     ✗      ✗
+One-on-One Basketball (Europe)                                      -      -     -      -
+One-on-One Basketball (PAL)                                         ✗      ✗     ✗      ✗
+One-on-One Basketball (USA)                                         -      -     -      -
+Oozy the Goo Gaiden (World)                                         ✗      ✗     ✗      ✗
+Orion Assault (World) (v01.78b) (Proto)                             ✗      ✗     ✗      ✗
+Pac-Man - Energy Drink Edition (World) (v1.02)                      ✗      ✗     ✗      ✗
+Pac-Man 320 (World) (v1.05)                                         ✗      ✗     ✗      ✗
+Pac-Man 320 (World) (v1.05) (PAL)                                   ✗      ✗     ✗      ✗
+Pac-Man Collection (World) (Digital)                                ✗      ✗     ✗      ✗
+Pac-Man Collection (World) (Digital) (PAL)                          ✗      ✗     ✗      ✗
+Pac-Man Collection - 40th Anniversary Edition (World) (Digital)     ✗      ✗     ✗      ✗
+Pac-Man Collection - Remastered Edition (World) (PAL) (TIA)         ✗      ✗     ✗      ✗
+Pac-Man Collection - Remastered Edition (World) (TIA)               ✗      ✗     ✗      ✗
+Pac-Man Collection - Ultimate Edition (World) (PAL) (Pokey)         ✗      ✗     ✗      ✗
+Pac-Man Collection - Ultimate Edition (World) (Pokey)               ✗      ✗     ✗      ✗
+Pac-Man Plus 320 (World)                                            ✗      ✗     ✗      ✗
+Pac-Man Plus 320 (World) (PAL)                                      ✗      ✗     ✗      ✗
+Pete Rose Baseball                                                  ✗      ✗     ✗      ✗
+Pete Rose Baseball (USA)                                            -      -     -      -
+Pirate Cove (World)                                                 ✗      ✗     ✗      ✗
+Pit Fighter (Proto)                                                 ✗      ✗     ✗      ✗
+Pit Fighter (Proto)[o]                                              ✗      ✗     ✗      ✗
+Pit Fighter (USA) (Proto)                                           -      -     -      ✗
+Planet Smashers                                                     ✗      ✗     ✗      ✗
+Planet Smashers (Europe)                                            -      -     -      -
+Planet Smashers (PAL)                                               ✗      ✗     ✗      ✗
+Planet Smashers (USA)                                               -      -     -      -
+Plink (World)                                                       ✗      ✗     ✗      ✗
+Plutos (USA) (Proto)                                                -      -     -      ✗
+Plutos XM (World)                                                   ✗      ✗     ✗      ✗
+Poetiru (World)                                                     ✗      ✗     ✗      ✗
+Pole Position II                                                    ✗      ✗     ✗      ✗
+Pole Position II (Europe)                                           -      -     -      -
+Pole Position II (PAL)                                              ✗      ✗     ✗      ✗
+Pole Position II (USA)                                              -      -     -      -
+Rampage                                                             ✗      ✗     ✗      ✗
+Rampage (USA)                                                       -      -     -      ✗
+Rampart (USA) (Proto)                                               -      -     -      ✗
+RealSports Baseball                                                 ✗      ✗     ✗      ✗
+RealSports Baseball (USA)                                           -      -     -      -
+RealSports Baseball [o]                                             ✗      ✗     ✗      ✗
+Rescue on Fractalus (USA) (Proto)                                   -      -     -      ✗
+Rip-Off (World) (v1.05)                                             ✗      ✗     ✗      ✗
+Rip-Off (World) (v1.05) (PAL)                                       ✗      ✗     ✗      ✗
+Rip-Off (World) (v1.06)                                             ✗      ✗     ✗      ✗
+Rip-Off (World) (v1.06) (PAL)                                       ✗      ✗     ✗      ✗
+Robot Finds Kitten (World)                                          ✗      ✗     ✗      ✗
+Robotron - 2084                                                     ✗      ✗     ✗      ✗
+Robotron - 2084 (USA)                                               -      -     -      -
+Santa Simon (World)                                                 ✗      ✗     ✗      ✗
+Scramble (World) (v1.14)                                            ✗      ✗     ✗      ✗
+Scramble (World) (v1.14) (PAL)                                      ✗      ✗     ✗      ✗
+Scramble (World) (v1.15)                                            ✗      ✗     ✗      ✗
+Scramble (World) (v1.15) (PAL)                                      ✗      ✗     ✗      ✗
+Scrapyard Dog                                                       ✗      ✗     ✗      ✗
+Scrapyard Dog (Europe)                                              -      -     -      -
+Scrapyard Dog (PAL)                                                 ✗      ✗     ✗      ✗
+Scrapyard Dog (USA)                                                 -      -     -      -
+Sentinel (Europe)                                                   -      -     -      -
+Sentinel (PAL)                                                      ✗      ✗     ✗      ✗
+Sentinel (Proto)                                                    ✗      ✗     ✗      ✗
+Sentinel (USA) (Proto)                                              -      -     -      ✗
+Serpentine (World)                                                  ✗      ✗     ✗      ✗
+Shoot the UFO 2015 (World)                                          ✗      ✗     ✗      ✗
+Shuriken (World)                                                    ✗      ✗     ✗      ✗
+Sick Pickles (World)                                                ✗      ✗     ✗      ✗
+Sirius (USA) (Proto)                                                -      -     -      ✗
+Sirius XM (World)                                                   ✗      ✗     ✗      ✗
+Slide Boy in Maze Land (World) (Digital)                            ✗      ✗     ✗      ✗
+Space Duel (World) (v1.09)                                          ✗      ✗     ✗      ✗
+Space Duel (World) (v1.09) (PAL)                                    ✗      ✗     ✗      ✗
+Space Invaders (World) (v2.01)                                      ✗      ✗     ✗      ✗
+Space Invaders (World) (v2.01) (PAL)                                ✗      ✗     ✗      ✗
+Space Invaders (World) (v2.02)                                      ✗      ✗     ✗      ✗
+Space Race (World) (v0.96)                                          ✗      ✗     ✗      ✗
+Stinger (World)                                                     ✗      ✗     ✗      ✗
+Summer Games                                                        ✗      ✗     ✗      ✗
+Summer Games (USA)                                                  -      -     -      ✗
+Super Circus AtariAge (World)                                       ✗      ✗     ✗      ✗
+Super Circus AtariAge (World) (PAL)                                 ✗      ✗     ✗      ✗
+Super Huey UH-1X                                                    ✗      ✗     ✗      ✗
+Super Huey UH-1X (PAL)                                              ✗      ✗     ✗      ✗
+Super Huey UH-IX (Europe)                                           -      -     -      -
+Super Huey UH-IX (USA)                                              -      -     -      -
+Super Pac-Man (World) (v1.09)                                       ✗      ✗     ✗      ✗
+Super Pac-Man (World) (v1.09) (PAL)                                 ✗      ✗     ✗      ✗
+Super Pac-Man (World) (v1.10)                                       ✗      ✗     ✗      ✗
+Super Pac-Man (World) (v1.10) (PAL)                                 ✗      ✗     ✗      ✗
+Super Skateboardin'                                                 ✗      ✗     ✗      ✗
+Super Skateboardin' (Europe)                                        -      -     -      -
+Super Skateboardin' (PAL)                                           ✗      ✗     ✗      ✗
+Super Skateboardin' (USA)                                           -      -     -      -
+Super Stunt Cycle (USA) (Proto)                                     ✗      ✗     ✗      ✗
+Tank Command                                                        ✗      ✗     ✗      ✗
+Tank Command (USA)                                                  -      -     -      -
+Tank Command [o]                                                    ✗      ✗     ✗      ✗
+Title Match Pro Wrestling                                           ✗      ✗     ✗      ✗
+Title Match Pro Wrestling (Europe)                                  -      -     -      -
+Title Match Pro Wrestling (PAL)                                     ✗      ✗     ✗      ✗
+Title Match Pro Wrestling (USA)                                     -      -     -      -
+Tomcat - The F-14 Fighter Simulator                                 ✗      ✗     ✗      ✗
+Tomcat - The F-14 Fighter Simulator (Europe)                        -      -     -      -
+Tomcat - The F-14 Fighter Simulator (PAL)                           ✗      ✗     ✗      ✗
+Tomcat - The F-14 Fighter Simulator (USA)                           -      -     -      -
+Touchdown Challenge (World) (v2.21)                                 ✗      ✗     ✗      ✗
+Touchdown Football                                                  ✗      ✗     ✗      ✗
+Touchdown Football (USA)                                            -      -     -      -
+Tower Toppler                                                       ✗      ✗     ✗      ✗
+Tower Toppler (Europe)                                              -      -     -      ✗
+Tower Toppler (PAL)                                                 ✗      ✗     ✗      ✗
+Tower Toppler (USA)                                                 -      -     -      ✗
+Tower Toppler [o]                                                   ✗      ✗     ✗      ✗
+Tunnels of Hyperion (World)                                         ✗      ✗     ✗      ✗
+UniWarS (World) (v1.05)                                             ✗      ✗     ✗      ✗
+UniWarS (World) (v1.06)                                             ✗      ✗     ✗      ✗
+Wasp! (World)                                                       ✗      ✗     ✗      ✗
+Water Ski                                                           ✗      ✗     ✗      ✗
+Water Ski (USA)                                                     -      -     -      -
+Water Ski [o]                                                       ✗      ✗     ✗      ✗
+Winter Games                                                        ✗      ✗     ✗      ✗
+Winter Games (USA)                                                  -      -     -      ✗
+Wizard's Dungeon (World)                                            ✗      ✗     ✗      ✗
+Wordle (World) (v1.07)                                              ✗      ✗     ✗      ✗
+Worm! (World)                                                       ✗      ✗     ✗      ✗
+Xenophobe                                                           ✗      ✗     ✗      ✗
+Xenophobe (Europe)                                                  -      -     -      -
+Xenophobe (PAL)                                                     ✗      ✗     ✗      ✗
+Xenophobe (USA)                                                     -      -     -      -
+Xevious                                                             ✗      ✗     ✗      ✗
+Xevious (Europe)                                                    -      -     -      ✗
+Xevious (PAL)                                                       ✗      ✗     ✗      ✗
+Xevious (USA)                                                       -      -     -      ✗
+bonQ (World)                                                        ✗      ✗     ✗      ✗

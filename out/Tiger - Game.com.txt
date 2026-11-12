@@ -3,29 +3,30 @@ Tiger - Game.com Missing
 Boxarts  22/23   95.65%
 Snaps    23/23  100.00%
 Titles   23/23  100.00%
-Total    68/69   98.55%
+Logos    18/23   78.26%
+Total    86/92   93.48%
 
-Name                                                   Boxart  Snap  Title
-Batman _ Robin (USA)                                      -      -     -
-Castlevania - Symphony of the Night (Unknown) (Proto)     ✗      -     -
-Centipede (USA)                                           -      -     -
-Duke Nukem 3D (USA)                                       -      -     -
-Fighters Megamix (USA)                                    -      -     -
-Frogger (USA)                                             -      -     -
-Henry (USA)                                               -      -     -
-Indy 500 (USA)                                            -      -     -
-Internet (USA)                                            -      -     -
-Jeopardy! (USA)                                           -      -     -
-Jurassic Park - The Lost World (USA)                      -      -     -
-Lights Out (USA)                                          -      -     -
-Monopoly (USA)                                            -      -     -
-Mortal Kombat Trilogy (USA)                               -      -     -
-Quiz Wiz - Cyber Trivia (USA)                             -      -     -
-Resident Evil 2 (USA)                                     -      -     -
-Scrabble (USA)                                            -      -     -
-Sonic Jam (USA)                                           -      -     -
-Tiger Casino (USA)                                        -      -     -
-Tiger Web Link (USA)                                      -      -     -
-Wheel of Fortune (USA)                                    -      -     -
-Wheel of Fortune 2 (USA)                                  -      -     -
-Williams Arcade Classics (USA)                            -      -     -
+Name                                                   Boxart  Snap  Title  Logo
+Batman _ Robin (USA)                                      -      -     -      -
+Castlevania - Symphony of the Night (Unknown) (Proto)     ✗      -     -      ✗
+Centipede (USA)                                           -      -     -      ✗
+Duke Nukem 3D (USA)                                       -      -     -      -
+Fighters Megamix (USA)                                    -      -     -      -
+Frogger (USA)                                             -      -     -      -
+Henry (USA)                                               -      -     -      -
+Indy 500 (USA)                                            -      -     -      -
+Internet (USA)                                            -      -     -      ✗
+Jeopardy! (USA)                                           -      -     -      -
+Jurassic Park - The Lost World (USA)                      -      -     -      -
+Lights Out (USA)                                          -      -     -      -
+Monopoly (USA)                                            -      -     -      ✗
+Mortal Kombat Trilogy (USA)                               -      -     -      -
+Quiz Wiz - Cyber Trivia (USA)                             -      -     -      -
+Resident Evil 2 (USA)                                     -      -     -      -
+Scrabble (USA)                                            -      -     -      -
+Sonic Jam (USA)                                           -      -     -      -
+Tiger Casino (USA)                                        -      -     -      -
+Tiger Web Link (USA)                                      -      -     -      ✗
+Wheel of Fortune (USA)                                    -      -     -      -
+Wheel of Fortune 2 (USA)                                  -      -     -      -
+Williams Arcade Classics (USA)                            -      -     -      -

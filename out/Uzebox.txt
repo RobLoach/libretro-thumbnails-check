@@ -1,73 +1,76 @@
 Uzebox Missing
 
+No thumbnails repository at https://github.com/libretro-thumbnails/Uzebox
+
 Boxarts   0/65  0.00%
 Snaps     0/65  0.00%
 Titles    0/65  0.00%
-Total    0/195  0.00%
+Logos     0/65  0.00%
+Total    0/260  0.00%
 
-Name                   Boxart  Snap  Title
-2048                      ✗      ✗     ✗
-Alter Ego                 ✗      ✗     ✗
-Arkanoid                  ✗      ✗     ✗
-Atomix                    ✗      ✗     ✗
-B.C. Dash                 ✗      ✗     ✗
-Babylon Tower             ✗      ✗     ✗
-Boulderdash               ✗      ✗     ✗
-Buddha                    ✗      ✗     ✗
-Candle Burner             ✗      ✗     ✗
-Chess for Uzebox          ✗      ✗     ✗
-Chuckie Egg               ✗      ✗     ✗
-Columns                   ✗      ✗     ✗
-Controller Tester         ✗      ✗     ✗
-Conway's Game of Life     ✗      ✗     ✗
-Corrida Nebososa          ✗      ✗     ✗
-Daleks                    ✗      ✗     ✗
-Das Boot                  ✗      ✗     ✗
-Donkey Kong               ✗      ✗     ✗
-Dr. Mario                 ✗      ✗     ✗
-ESD Attack                ✗      ✗     ✗
-Fifteen Puzzle            ✗      ✗     ✗
-Fireman Rescue            ✗      ✗     ✗
-Frog Feast                ✗      ✗     ✗
-Frogger                   ✗      ✗     ✗
-Ghosty Ghost              ✗      ✗     ✗
-Gorillas                  ✗      ✗     ✗
-Happy Easter              ✗      ✗     ✗
-Holey Moley               ✗      ✗     ✗
-Joyrider                  ✗      ✗     ✗
-Lander                    ✗      ✗     ✗
-Lode Runner               ✗      ✗     ✗
-Mega Sokoban              ✗      ✗     ✗
-Megatris                  ✗      ✗     ✗
-Melli's Retro land        ✗      ✗     ✗
-Memory                    ✗      ✗     ✗
-Ninja Beatdown            ✗      ✗     ✗
-Pac-Man                   ✗      ✗     ✗
-Pengo                     ✗      ✗     ✗
-Pentago                   ✗      ✗     ✗
-Pipes                     ✗      ✗     ✗
-Pong                      ✗      ✗     ✗
-Ruby Crush                ✗      ✗     ✗
-Simon                     ✗      ✗     ✗
-Snakes                    ✗      ✗     ✗
-Sokoban                   ✗      ✗     ✗
-Sokoban World             ✗      ✗     ✗
-Sokoban World 2           ✗      ✗     ✗
-Space Age                 ✗      ✗     ✗
-Space Invaders            ✗      ✗     ✗
-SubMarine                 ✗      ✗     ✗
-Tron                      ✗      ✗     ✗
-Uze Feud                  ✗      ✗     ✗
-Uze Snakes                ✗      ✗     ✗
-Uze Wars                  ✗      ✗     ✗
-Uze8                      ✗      ✗     ✗
-UzeBeats                  ✗      ✗     ✗
-Uzeamp                    ✗      ✗     ✗
-Uzekickers                ✗      ✗     ✗
-Uzepede                   ✗      ✗     ✗
-Uzesweeper                ✗      ✗     ✗
-Vector Game               ✗      ✗     ✗
-Videopoker                ✗      ✗     ✗
-Whack-a-Mole              ✗      ✗     ✗
-XOR                       ✗      ✗     ✗
-Zombienator               ✗      ✗     ✗
+Name                   Boxart  Snap  Title  Logo
+2048                      ✗      ✗     ✗      ✗
+Alter Ego                 ✗      ✗     ✗      ✗
+Arkanoid                  ✗      ✗     ✗      ✗
+Atomix                    ✗      ✗     ✗      ✗
+B.C. Dash                 ✗      ✗     ✗      ✗
+Babylon Tower             ✗      ✗     ✗      ✗
+Boulderdash               ✗      ✗     ✗      ✗
+Buddha                    ✗      ✗     ✗      ✗
+Candle Burner             ✗      ✗     ✗      ✗
+Chess for Uzebox          ✗      ✗     ✗      ✗
+Chuckie Egg               ✗      ✗     ✗      ✗
+Columns                   ✗      ✗     ✗      ✗
+Controller Tester         ✗      ✗     ✗      ✗
+Conway's Game of Life     ✗      ✗     ✗      ✗
+Corrida Nebososa          ✗      ✗     ✗      ✗
+Daleks                    ✗      ✗     ✗      ✗
+Das Boot                  ✗      ✗     ✗      ✗
+Donkey Kong               ✗      ✗     ✗      ✗
+Dr. Mario                 ✗      ✗     ✗      ✗
+ESD Attack                ✗      ✗     ✗      ✗
+Fifteen Puzzle            ✗      ✗     ✗      ✗
+Fireman Rescue            ✗      ✗     ✗      ✗
+Frog Feast                ✗      ✗     ✗      ✗
+Frogger                   ✗      ✗     ✗      ✗
+Ghosty Ghost              ✗      ✗     ✗      ✗
+Gorillas                  ✗      ✗     ✗      ✗
+Happy Easter              ✗      ✗     ✗      ✗
+Holey Moley               ✗      ✗     ✗      ✗
+Joyrider                  ✗      ✗     ✗      ✗
+Lander                    ✗      ✗     ✗      ✗
+Lode Runner               ✗      ✗     ✗      ✗
+Mega Sokoban              ✗      ✗     ✗      ✗
+Megatris                  ✗      ✗     ✗      ✗
+Melli's Retro land        ✗      ✗     ✗      ✗
+Memory                    ✗      ✗     ✗      ✗
+Ninja Beatdown            ✗      ✗     ✗      ✗
+Pac-Man                   ✗      ✗     ✗      ✗
+Pengo                     ✗      ✗     ✗      ✗
+Pentago                   ✗      ✗     ✗      ✗
+Pipes                     ✗      ✗     ✗      ✗
+Pong                      ✗      ✗     ✗      ✗
+Ruby Crush                ✗      ✗     ✗      ✗
+Simon                     ✗      ✗     ✗      ✗
+Snakes                    ✗      ✗     ✗      ✗
+Sokoban                   ✗      ✗     ✗      ✗
+Sokoban World             ✗      ✗     ✗      ✗
+Sokoban World 2           ✗      ✗     ✗      ✗
+Space Age                 ✗      ✗     ✗      ✗
+Space Invaders            ✗      ✗     ✗      ✗
+SubMarine                 ✗      ✗     ✗      ✗
+Tron                      ✗      ✗     ✗      ✗
+Uze Feud                  ✗      ✗     ✗      ✗
+Uze Snakes                ✗      ✗     ✗      ✗
+Uze Wars                  ✗      ✗     ✗      ✗
+Uze8                      ✗      ✗     ✗      ✗
+UzeBeats                  ✗      ✗     ✗      ✗
+Uzeamp                    ✗      ✗     ✗      ✗
+Uzekickers                ✗      ✗     ✗      ✗
+Uzepede                   ✗      ✗     ✗      ✗
+Uzesweeper                ✗      ✗     ✗      ✗
+Vector Game               ✗      ✗     ✗      ✗
+Videopoker                ✗      ✗     ✗      ✗
+Whack-a-Mole              ✗      ✗     ✗      ✗
+XOR                       ✗      ✗     ✗      ✗
+Zombienator               ✗      ✗     ✗      ✗

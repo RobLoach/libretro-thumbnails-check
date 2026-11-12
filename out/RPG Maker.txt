@@ -1,22 +1,24 @@
 RPG Maker Missing
 
-Boxarts   7/14  50.00%
-Snaps     7/14  50.00%
-Titles    3/14  21.43%
-Total    17/42  40.48%
+Boxarts   7/15  46.67%
+Snaps     7/15  46.67%
+Titles    3/15  20.00%
+Logos     0/15   0.00%
+Total    17/60  28.33%
 
-Name                           Boxart  Snap  Title
-.flow                             ✗      ✗     ✗
-Dead Again                        -      -     ✗
-Dessert Nightmare                 ✗      ✗     ✗
-Embric of Wulfhammer's Castle     -      -     ✗
-Ib                                ✗      ✗     ✗
-Lavender                          ✗      ✗     ✗
-Lisa the First                    -      -     ✗
-Momoka                            ✗      ✗     ✗
-RPG Maker 2000 Test Suite         -      -     -
-RPG Maker 2003 Test Suite         ✗      ✗     ✗
-Super Columbine Massacre RPG      -      -     ✗
-The Huntress of the Hollow        ✗      ✗     ✗
-Yume 2kki                         -      -     -
-Yume Nikki                        -      -     -
+Name                           Boxart  Snap  Title  Logo
+.flow                             ✗      ✗     ✗      ✗
+Dead Again                        -      -     ✗      ✗
+Dessert Nightmare                 ✗      ✗     ✗      ✗
+Embric of Wulfhammer's Castle     -      -     ✗      ✗
+Ib                                ✗      ✗     ✗      ✗
+Lavender                          ✗      ✗     ✗      ✗
+Lisa the First                    -      -     ✗      ✗
+Momoka                            ✗      ✗     ✗      ✗
+Mother_ Cognitive Dissonance      ✗      ✗     ✗      ✗
+RPG Maker 2000 Test Suite         -      -     -      ✗
+RPG Maker 2003 Test Suite         ✗      ✗     ✗      ✗
+Super Columbine Massacre RPG      -      -     ✗      ✗
+The Huntress of the Hollow        ✗      ✗     ✗      ✗
+Yume 2kki                         -      -     -      ✗
+Yume Nikki                        -      -     -      ✗
