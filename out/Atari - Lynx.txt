@@ -1,121 +1,561 @@
 Atari - Lynx Missing
 
-Boxarts   67/113  59.29%
-Snaps     67/113  59.29%
-Titles    67/113  59.29%
-Total    201/339  59.29%
+Boxarts   151/552  27.36%
+Snaps     195/552  35.33%
+Titles    179/552  32.43%
+Logos       0/552   0.00%
+Total    525/2208  23.78%
 
-Name                                                        Boxart  Snap  Title
-A.P.B. (USA, Europe)                                           -      -     -
-Alien vs Predator (USA) (Proto) (1993-12-17)                   -      -     -
-Awesome Golf (USA, Europe)                                     -      -     -
-Baseball Heroes (USA, Europe)                                  -      -     -
-Basketbrawl (USA, Europe)                                      -      -     -
-Batman Returns (USA, Europe)                                   -      -     -
-Battle Wheels (USA, Europe)                                    -      -     -
-Battlezone 2000 (USA, Europe)                                  -      -     -
-Bill _ Ted's Excellent Adventure (USA, Europe)                 -      -     -
-Block Out (USA, Europe)                                        -      -     -
-Blue Lightning (World)                                         ✗      ✗     ✗
-Blue Lightning (World) (Demo)                                  ✗      ✗     ✗
-Bubble Trouble (USA, Europe)                                   -      -     -
-Cabal (USA) (Demo)                                             ✗      ✗     ✗
-California Games (World)                                       ✗      ✗     ✗
-Centipede (USA) (Proto)                                        -      -     -
-Checkered Flag (USA, Europe)                                   -      -     -
-Chip's Challenge (World)                                       ✗      ✗     ✗
-Crystal Mines II (USA, Europe)                                 -      -     -
-Daemon's Gate (USA) (Proto 1)                                  ✗      ✗     ✗
-Daemon's Gate (USA) (Proto 2)                                  ✗      ✗     ✗
-Desert Strike - Return to the Gulf (USA, Europe)               -      -     -
-Dinolympics (USA, Europe)                                      -      -     -
-Dirty Larry - Renegade Cop (USA, Europe)                       -      -     -
-Double Dragon (USA, Europe)                                    -      -     -
-Dracula the Undead (USA, Europe)                               -      -     -
-Electrocop (World)                                             ✗      ✗     ✗
-European Soccer Challenge (USA, Europe)                        -      -     -
-Eye of the Beholder (USA) (Proto 1)                            ✗      ✗     ✗
-Eye of the Beholder (World) (Unl)                              ✗      ✗     ✗
-Fat Bobby (USA, Europe)                                        -      -     -
-Fidelity Ultimate Chess Challenge, The (USA, Europe)           -      -     -
-Friendly (World) (Demo) (Unl)                                  ✗      ✗     ✗
-Full Court Press (USA) (Proto)                                 ✗      ✗     ✗
-Gates of Zendocon (World)                                      ✗      ✗     ✗
-Gauntlet - The Third Encounter (World)                         ✗      ✗     ✗
-Gauntlet - The Third Encounter (World) (Beta) (1990-06-04)     ✗      ✗     ✗
-Geoduel (USA) (Demo)                                           ✗      ✗     ✗
-Gordo 106 (USA, Europe)                                        -      -     -
-Guardians, The - Storm Over Doria (USA) (Proto 1)              ✗      ✗     ✗
-Guardians, The - Storm Over Doria (USA) (Proto 2)              ✗      ✗     ✗
-Hard Drivin' (USA, Europe)                                     -      -     -
-Hockey (USA, Europe)                                           -      -     -
-Hydra (USA, Europe)                                            -      -     -
-Ishido - The Way of Stones (USA, Europe)                       -      -     -
-Jimmy Connors' Tennis (USA, Europe)                            -      -     -
-Joust (USA, Europe)                                            -      -     -
-Klax (World)                                                   ✗      ✗     ✗
-Klax (World) (Beta)                                            ✗      ✗     ✗
-Krazy Ace - Miniature Golf (USA, Europe)                       -      -     -
-Kung Food (USA, Europe)                                        -      -     -
-Lemmings (USA, Europe)                                         -      -     -
-Lode Runner (USA) (Proto 1)                                    -      -     -
-Lode Runner (USA) (Proto 2)                                    -      -     -
-Loopz (USA) (v0.04) (Proto) (1992-09-16)                       ✗      ✗     ✗
-Loopz (USA) (v0.06) (Proto) (1992-11-05)                       ✗      ✗     ✗
-Lynx Casino (USA, Europe)                                      -      -     -
-Lynx II Production Test Program (USA)                          -      -     -
-Malibu Bikini Volleyball (USA, Europe)                         -      -     -
-Malibu Bikini Volleyball (USA, Europe) (Beta) (1993-05-11)     -      -     -
-Marlboro Go! (Europe) (Proto 1)                                ✗      ✗     ✗
-Marlboro Go! (Europe) (Proto 2)                                ✗      ✗     ✗
-Ms. Pac-Man (World)                                            ✗      ✗     ✗
-NFL Football (USA, Europe)                                     -      -     -
-Ninja Gaiden (USA, Europe)                                     -      -     -
-Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe)      -      -     -
-Ninja Nerd (USA) (Demo)                                        ✗      ✗     ✗
-Pac-Land (USA, Europe)                                         -      -     -
-Paperboy (World)                                               ✗      ✗     ✗
-Pinball Jam (USA, Europe)                                      -      -     -
-Pit-Fighter (USA, Europe)                                      -      -     -
-Pit-Fighter (USA, Europe) (Beta) (1992-10-13)                  -      -     -
-Poker (Europe) (Fr) (Proto)                                    ✗      ✗     ✗
-Pounce! (USA) (Proto)                                          ✗      ✗     ✗
-Power Factor (USA, Europe)                                     -      -     -
-QIX (USA, Europe)                                              -      -     -
-Raiden (USA, Europe)                                           ✗      ✗     ✗
-Raiden (USA, Europe) (Beta)                                    ✗      ✗     ✗
-Rampage (World)                                                ✗      ✗     ✗
-Rampart (USA, Europe)                                          -      -     -
-Road Riot 4WD (USA) (Proto 1)                                  -      -     -
-Road Riot 4WD (USA) (Proto 2)                                  -      -     -
-Road Riot 4WD (USA) (Proto 3)                                  -      -     -
-Road Riot 4WD (USA) (Proto 4)                                  ✗      ✗     ✗
-RoadBlasters (World)                                           ✗      ✗     ✗
-Robo-Squash (World)                                            ✗      ✗     ✗
-Robotron 2084 (USA, Europe)                                    -      -     -
-Rolling Thunder (USA) (Proto)                                  ✗      ✗     ✗
-Rygar (World)                                                  ✗      ✗     ✗
-S.T.U.N. Runner (USA, Europe)                                  -      -     -
-Scrapyard Dog (USA, Europe)                                    -      -     -
-Shadow of the Beast (USA, Europe)                              -      -     -
-Shanghai (World)                                               ✗      ✗     ✗
-Spacewar (USA) (Demo)                                          ✗      ✗     ✗
-Steel Talons (USA, Europe)                                     -      -     -
-Super Asteroids, Missile Command (USA, Europe)                 -      -     -
-Super Off-Road (USA, Europe)                                   -      -     -
-Super Skweek (USA, Europe)                                     -      -     -
-Switchblade II (USA, Europe)                                   -      -     -
-Todd's Adventures in Slime World (World)                       ✗      ✗     ✗
-Toki (USA, Europe)                                             -      -     -
-Tournament Cyberball (USA, Europe)                             -      -     -
-Turbo Sub (USA, Europe)                                        -      -     -
-Viking Child (USA, Europe)                                     -      -     -
-Vindicators (USA) (Proto)                                      ✗      ✗     ✗
-Warbirds (USA, Europe)                                         -      -     -
-Wolfman (USA) (Demo) (Kiosk)                                   ✗      ✗     ✗
-World Class Soccer (USA, Europe)                               -      -     -
-Xenophobe (World)                                              ✗      ✗     ✗
-Xybots (USA, Europe)                                           -      -     -
-Zaku (World) (Beta) (Unl)                                      ✗      ✗     ✗
-Zaku (World) (Unl)                                             ✗      ✗     ✗
-Zarlor Mercenary (World)                                       ✗      ✗     ✗
+Name                                                                 Boxart  Snap  Title  Logo
+2048 (World)                                                            ✗      ✗     ✗      ✗
+4Ttude (World) (v1.0) (Atari Lynx 30th Birthday)                        ✗      ✗     ✗      ✗
+4Ttude (World) (v1.1)                                                   ✗      ✗     ✗      ✗
+4Ttude (World) (v1.2)                                                   ✗      ✗     ✗      ✗
+A.P.B. (USA, Europe)                                                    -      -     -      ✗
+Alien (World) (v1.02)                                                   ✗      ✗     ✗      ✗
+Alien (World) (v1.03)                                                   ✗      ✗     ✗      ✗
+Alien (World) (v1.04)                                                   ✗      ✗     ✗      ✗
+Alien (World) (v1.06)                                                   ✗      ✗     ✗      ✗
+Alien vs Predator (Europe) (Proto)                                      -      -     -      ✗
+Alien vs Predator (Proto)                                               ✗      ✗     ✗      ✗
+All Points Bulletin                                                     ✗      ✗     ✗      ✗
+Allein (World) (De)                                                     ✗      ✗     ✗      ✗
+Always Winter, Never Christmas (World)                                  ✗      ✗     ✗      ✗
+Angry Motes (World)                                                     ✗      ✗     ✗      ✗
+Anti A-Bomb Aircraft Artillery (World) (v1.0)                           ✗      ✗     ✗      ✗
+Anti A-Bomb Aircraft Artillery (World) (v1.1)                           ✗      ✗     ✗      ✗
+Assembloids (World) (v1.00) (Digital) (Atari Lynx 30th Birthday)        ✗      ✗     ✗      ✗
+Assembloids (World) (v1.04) (Digital)                                   ✗      ✗     ✗      ✗
+Asteroids Chasers (World) (Proto)                                       ✗      ✗     ✗      ✗
+Atari Tabletops Collection (World) (v1.0)                               ✗      ✗     ✗      ✗
+Atari Tabletops Collection (World) (v1.1)                               ✗      ✗     ✗      ✗
+Atomix (World) (Proto)                                                  ✗      ✗     ✗      ✗
+Awesome Golf                                                            ✗      ✗     ✗      ✗
+Awesome Golf (USA, Europe)                                              -      -     -      ✗
+Awesome Golf (World) (Atari Lynx Collection 1)                          ✗      ✗     ✗      ✗
+Banana Ghost (World) (v0.1) (Proto)                                     ✗      ✗     ✗      ✗
+Banana Ghost (World) (v0.2) (Proto)                                     ✗      ✗     ✗      ✗
+Banana Ghost v0.1                                                       ✗      ✗     ✗      ✗
+Banana Ghost v0.2                                                       ✗      ✗     ✗      ✗
+Bars (World) (Proto)                                                    ✗      ✗     ✗      ✗
+Baseball Heroes (USA, Europe)                                           -      -     -      ✗
+Baseball Heroes [b2]                                                    ✗      ✗     ✗      ✗
+Basketbrawl                                                             ✗      ✗     ✗      ✗
+Basketbrawl (USA, Europe)                                               -      -     -      ✗
+Basketbrawl (World) (Atari Lynx Collection 1)                           ✗      ✗     ✗      ✗
+Bathman (World)                                                         ✗      ✗     ✗      ✗
+Batman Returns                                                          ✗      ✗     ✗      ✗
+Batman Returns (USA, Europe)                                            -      -     -      ✗
+Batman Returns (USA, Europe) (Rev 1) (Proto)                            ✗      ✗     ✗      ✗
+Battle Wheels                                                           ✗      ✗     ✗      ✗
+Battle Wheels (USA, Europe)                                             -      -     -      ✗
+Battlezone 2000                                                         ✗      ✗     ✗      ✗
+Battlezone 2000 (USA, Europe)                                           -      -     -      ✗
+Bbomb Bbot (World) (LynxJam 2024)                                       ✗      ✗     ✗      ✗
+Befok (World) (Proto)                                                   ✗      ✗     ✗      ✗
+Bezerkoids (World) (Proto 1)                                            ✗      ✗     ✗      ✗
+Bezerkoids (World) (Proto 2)                                            ✗      ✗     ✗      ✗
+Bezerkoids (World) (Proto 3)                                            ✗      ✗     ✗      ✗
+Bill _ Ted's Excellent Adventure                                        ✗      ✗     ✗      ✗
+Bill _ Ted's Excellent Adventure (USA, Europe)                          -      -     -      ✗
+Biniax (World) (v1.0)                                                   ✗      ✗     ✗      ✗
+Bitchy (World) (Digital)                                                ✗      ✗     ✗      ✗
+Black Pit                                                               ✗      ✗     ✗      ✗
+Black Pit (World) (Proto)                                               ✗      ✗     ✗      ✗
+Black Pit [AGACART]                                                     ✗      ✗     ✗      ✗
+Blasting Robots (World) (LynxJam 2024)                                  ✗      ✗     ✗      ✗
+Block Out                                                               ✗      ✗     ✗      ✗
+Block Out (USA, Europe)                                                 -      -     -      ✗
+Blue Lightning                                                          ✗      ✗     ✗      ✗
+Blue Lightning (World)                                                  -      -     -      ✗
+Bobo (World) (Proto)                                                    ✗      ✗     ✗      ✗
+Bowling Area (World) (Proto)                                            ✗      ✗     ✗      ✗
+Bubble Trouble                                                          ✗      ✗     ✗      ✗
+Bubble Trouble (USA, Europe)                                            -      -     -      ✗
+Bug Hunt (World) (Proto)                                                ✗      ✗     ✗      ✗
+Burst Bot (World) (LynxJam 2024)                                        ✗      ✗     ✗      ✗
+C-Gull (World)                                                          ✗      ✗     ✗      ✗
+California Games                                                        ✗      ✗     ✗      ✗
+California Games (World)                                                -      -     -      ✗
+Carzilla (World) (v0.4) (Proto) (LynxJam 2024)                          ✗      ✗     ✗      ✗
+Catkanoid (World)                                                       ✗      ✗     ✗      ✗
+Centipede                                                               ✗      ✗     ✗      ✗
+Centipede (USA) (Proto)                                                 -      -     -      ✗
+Chase (World)                                                           ✗      ✗     ✗      ✗
+Chasm Warden (World) (Proto)                                            ✗      ✗     ✗      ✗
+Checkered Flag                                                          ✗      ✗     ✗      ✗
+Checkered Flag (USA, Europe)                                            -      -     -      ✗
+Chip's Challenge                                                        ✗      ✗     ✗      ✗
+Chip's Challenge (World)                                                -      -     -      ✗
+Choplifter X (World)                                                    ✗      ✗     ✗      ✗
+Circuit Dude (World) (Proto)                                            ✗      ✗     ✗      ✗
+Clicks! (World)                                                         ✗      ✗     ✗      ✗
+Columns (World) (Proto)                                                 ✗      ✗     ✗      ✗
+Conquistador (World) (v1.0)                                             ✗      ✗     ✗      ✗
+Conquistador (World) (v1.1)                                             ✗      ✗     ✗      ✗
+Crate Challenge (World) (v1.1)                                          ✗      ✗     ✗      ✗
+Cross Bomber (World)                                                    ✗      ✗     ✗      ✗
+Cross Chase (World) (v1.0)                                              ✗      ✗     ✗      ✗
+Cross Chase (World) (v1.1)                                              ✗      ✗     ✗      ✗
+Cross Chase (World) (v1.2)                                              ✗      ✗     ✗      ✗
+Cross Horde (World)                                                     ✗      ✗     ✗      ✗
+Cross Shoot (World)                                                     ✗      ✗     ✗      ✗
+Cross Snake (World)                                                     ✗      ✗     ✗      ✗
+Crystal Mines II                                                        ✗      ✗     ✗      ✗
+Crystal Mines II (USA, Europe)                                          -      -     -      ✗
+Crystal Mines II - Buried Treasure (World)                              ✗      ✗     ✗      ✗
+Cyber Virus (World)                                                     ✗      ✗     ✗      ✗
+Cyberpunk Experiment 2037 (World) (Proto)                               ✗      ✗     ✗      ✗
+Daemon's Gate (USA) (Proto 1)                                           ✗      -     -      ✗
+Daemon's Gate (USA) (Proto 2)                                           ✗      -     -      ✗
+Dance, Bro! (World)                                                     ✗      ✗     ✗      ✗
+Desert Strike - Return to the Gulf                                      ✗      ✗     ✗      ✗
+Desert Strike - Return to the Gulf (USA, Europe)                        -      -     -      ✗
+Dinolympics                                                             ✗      ✗     ✗      ✗
+Dinolympics (USA, Europe)                                               -      -     -      ✗
+Dirty Larry - Renegade Cop                                              ✗      ✗     ✗      ✗
+Dirty Larry - Renegade Cop (USA, Europe)                                -      -     -      ✗
+Double Dragon                                                           ✗      ✗     ✗      ✗
+Double Dragon (USA, Europe)                                             -      -     -      ✗
+Dracula - The Undead                                                    ✗      ✗     ✗      ✗
+Dracula - The Undead (USA, Europe)                                      -      -     -      ✗
+Dracula - The Undead (World) (Atari Lynx Collection 1)                  ✗      ✗     ✗      ✗
+DrunkWitch (World)                                                      ✗      ✗     ✗      ✗
+Dungeddon (World) (v1.1)                                                ✗      ✗     ✗      ✗
+Eggsavier's Cackleberry Rescue (World) (v1.0)                           ✗      ✗     ✗      ✗
+Eggsavier's Cackleberry Rescue (World) (v1.1)                           ✗      ✗     ✗      ✗
+Electrocop                                                              ✗      ✗     ✗      ✗
+Electrocop (World)                                                      -      -     -      ✗
+Escape from Dungeon of Deja Vu (World) (Proto)                          ✗      ✗     ✗      ✗
+European Soccer Challenge                                               ✗      ✗     ✗      ✗
+European Soccer Challenge (USA, Europe)                                 -      -     -      ✗
+Eye of the Beholder (Proto)                                             ✗      ✗     ✗      ✗
+Eye of the Beholder (USA) (Proto 1)                                     ✗      -     -      ✗
+Eye of the Beholder (USA) (Proto 2)                                     ✗      ✗     ✗      ✗
+Eye of the Beholder (World)                                             ✗      ✗     ✗      ✗
+Fat Bobby                                                               ✗      ✗     ✗      ✗
+Fat Bobby (USA, Europe)                                                 -      -     -      ✗
+Fidelity Ultimate Chess Challenge                                       ✗      ✗     ✗      ✗
+Fidelity Ultimate Chess Challenge, The (USA, Europe)                    -      -     -      ✗
+Final Melee (World)                                                     ✗      ✗     ✗      ✗
+Find a Way to My Heart (World)                                          ✗      ✗     ✗      ✗
+Find a Way to My Heart (World) (Atari Lynx 30th Birthday)               ✗      ✗     ✗      ✗
+Fishing for Atari (FW)                                                  ✗      ✗     ✗      ✗
+Fishing for Atari (World)                                               ✗      ✗     ✗      ✗
+Fission (World) (v0.6) (Proto)                                          ✗      ✗     ✗      ✗
+Fortress Fighter (World) (Proto)                                        ✗      ✗     ✗      ✗
+Full Court Press (USA) (Proto)                                          ✗      -     ✗      ✗
+Garci (World) (Proto)                                                   ✗      ✗     ✗      ✗
+Gates of Zendocon (World)                                               -      -     -      ✗
+Gates of Zendocon, The                                                  ✗      ✗     ✗      ✗
+Gauntlet - The Third Encounter                                          ✗      ✗     ✗      ✗
+Gauntlet - The Third Encounter (World)                                  -      -     -      ✗
+Gift Catcher (FW)                                                       ✗      ✗     ✗      ✗
+Gift Catcher (World)                                                    ✗      ✗     ✗      ✗
+Glob Shoot (World) (v0.62) (Proto)                                      ✗      ✗     ✗      ✗
+Gnop! (World) (v0.4) (Proto)                                            ✗      ✗     ✗      ✗
+Gnop! (World) (v0.6) (Proto)                                            ✗      ✗     ✗      ✗
+Gomoku (World)                                                          ✗      ✗     ✗      ✗
+Gordo 106 (USA, Europe)                                                 -      -     -      ✗
+Gordo 106 (World) (Atari Lynx Collection 1)                             ✗      ✗     ✗      ✗
+Gordo 106 - The Mutated Lab Monkey                                      ✗      ✗     ✗      ✗
+Gordo 106 - The Mutated Lab Monkey [b2]                                 ✗      ✗     ✗      ✗
+Grail of the Lava Kingdom, The (World) (Proto)                          ✗      ✗     ✗      ✗
+Griel's Quest for the Sangraal (World) (v0.1) (Proto)                   ✗      ✗     ✗      ✗
+Griel's Quest for the Sangraal (World) (v0.2) (Proto)                   ✗      ✗     ✗      ✗
+Griel's Quest for the Sangraal (World) (v0.3) (Proto)                   ✗      ✗     ✗      ✗
+Griel's Quest for the Sangraal (World) (v0.4) (Proto)                   ✗      ✗     ✗      ✗
+Grogger (World)                                                         ✗      ✗     ✗      ✗
+Growing Ties (FW)                                                       ✗      ✗     ✗      ✗
+Growing Ties (World)                                                    ✗      ✗     ✗      ✗
+Grub-O-Grotto (World)                                                   ✗      ✗     ✗      ✗
+Guardians, The - Storm Over Doria (USA) (Proto 1)                       ✗      -     ✗      ✗
+Guardians, The - Storm Over Doria (USA) (Proto 2)                       ✗      -     ✗      ✗
+Hard Drivin'                                                            ✗      ✗     ✗      ✗
+Hard Drivin' (USA, Europe)                                              -      -     -      ✗
+Hero Dust (World) (Proto)                                               ✗      ✗     ✗      ✗
+Hockey                                                                  ✗      ✗     ✗      ✗
+Hockey (USA, Europe)                                                    -      -     -      ✗
+Hotdog (World)                                                          ✗      ✗     ✗      ✗
+Hungry Monsters (World) (v1.0) (Retro Platform Jam #4)                  ✗      ✗     ✗      ✗
+Hungry Monsters (World) (v1.1)                                          ✗      ✗     ✗      ✗
+Hydra                                                                   ✗      ✗     ✗      ✗
+Hydra (USA, Europe)                                                     -      -     -      ✗
+Ishido - The Way of Stones (USA, Europe)                                -      -     -      ✗
+Ishido - The Way of Stones (World) (Atari Lynx Collection 1)            ✗      ✗     ✗      ✗
+Ishido - The Way of the Stones                                          ✗      ✗     ✗      ✗
+JetPack Hero (World) (Proto)                                            ✗      ✗     ✗      ✗
+Jimmy Connors Tennis                                                    ✗      ✗     ✗      ✗
+Jimmy Connors Tennis [b2]                                               ✗      ✗     ✗      ✗
+Jimmy Connors' Tennis (USA, Europe)                                     -      -     -      ✗
+Jimmy Connors' Tennis (World) (Atari Lynx Collection 1)                 ✗      ✗     ✗      ✗
+Joust                                                                   ✗      ✗     ✗      ✗
+Joust (USA, Europe)                                                     -      -     -      ✗
+Jungle Jack (World)                                                     ✗      ✗     ✗      ✗
+Klax                                                                    ✗      ✗     ✗      ✗
+Klax (World)                                                            -      -     -      ✗
+Knight Moves (World)                                                    ✗      ✗     ✗      ✗
+Knightmare (World) (v1.0)                                               ✗      ✗     ✗      ✗
+Knightmare (World) (v1.1)                                               ✗      ✗     ✗      ✗
+Krazy Ace - Miniature Golf (USA, Europe)                                -      -     -      ✗
+Krazy Ace Minature Golf                                                 ✗      ✗     ✗      ✗
+Krazy Ace Minature Golf [b2]                                            ✗      ✗     ✗      ✗
+Krazy Ace Minature Golf [b3]                                            ✗      ✗     ✗      ✗
+Krow v1.01                                                              ✗      ✗     ✗      ✗
+Kung Food                                                               ✗      ✗     ✗      ✗
+Kung Food (USA, Europe)                                                 -      -     -      ✗
+LCD Tester Vers. 0.90 (World)                                           ✗      ✗     ✗      ✗
+Lawnmower (World) (v1.1)                                                ✗      ✗     ✗      ✗
+Leaf and the Forgotten Temple - Ynxa Version [AGACART]                  ✗      ✗     ✗      ✗
+Leaf and the Forgotten Temple - Ynxa Version [FLASH]                    ✗      ✗     ✗      ✗
+Lemmings                                                                ✗      ✗     ✗      ✗
+Lemmings (USA, Europe)                                                  -      -     -      ✗
+Lexis                                                                   ✗      ✗     ✗      ✗
+Lexis (World)                                                           ✗      ✗     ✗      ✗
+Lode Runner                                                             ✗      ✗     ✗      ✗
+Lode Runner (World) (Proto 1)                                           ✗      ✗     ✗      ✗
+Lode Runner (World) (Proto 2)                                           ✗      ✗     ✗      ✗
+Loopz (USA) (v0.04) (Proto)                                             ✗      ✗     -      ✗
+Loopz (USA) (v0.06) (Proto)                                             ✗      ✗     -      ✗
+Loopz (World) (v0.7)                                                    ✗      ✗     ✗      ✗
+Loopz v0.06 (Proto)                                                     ✗      ✗     ✗      ✗
+Lynx Casino                                                             ✗      ✗     ✗      ✗
+Lynx Casino (USA, Europe)                                               -      -     -      ✗
+Lynx II Production Test Program (USA)                                   ✗      -     -      ✗
+Lynx II Production Test Program (World) (v0.01)                         ✗      ✗     ✗      ✗
+Lynx Ops (World) (v0.1) (Proto)                                         ✗      ✗     ✗      ✗
+Lynx Ops (World) (v0.2) (Proto)                                         ✗      ✗     ✗      ✗
+Lynx Othello (World)                                                    ✗      ✗     ✗      ✗
+Lynx Quest (World) (v1.00) (Atari Lynx 30th Birthday)                   ✗      ✗     ✗      ✗
+Lynx Quest (World) (v1.04)                                              ✗      ✗     ✗      ✗
+Lynx Tris (World)                                                       ✗      ✗     ✗      ✗
+Lynxopoly (World)                                                       ✗      ✗     ✗      ✗
+Maldetetemagic Vol.1 (World)                                            ✗      ✗     ✗      ✗
+Maldetetemagic Vol.2 (World)                                            ✗      ✗     ✗      ✗
+Malibu Bikini Volleyball                                                ✗      ✗     ✗      ✗
+Malibu Bikini Volleyball (USA, Europe)                                  -      -     -      ✗
+Malibu Bikini Volleyball (World) (Atari Lynx Collection 1)              ✗      ✗     ✗      ✗
+Marble Madness (World)                                                  ✗      ✗     ✗      ✗
+Marlboro Go! (Europe) (Proto 1)                                         -      -     -      ✗
+Marlboro Go! (Europe) (Proto 2)                                         -      -     -      ✗
+Marlboro Go! (Proto)                                                    ✗      ✗     ✗      ✗
+MegaPak Vol.1 (World)                                                   ✗      ✗     ✗      ✗
+Microvaders (World) (Proto)                                             ✗      ✗     ✗      ✗
+Minimal (World) (Proto)                                                 ✗      ✗     ✗      ✗
+Monster Demolition (USA) (Proto)                                        ✗      ✗     ✗      ✗
+Moon Runner (World) (Proto)                                             ✗      ✗     ✗      ✗
+Mortal Kombat (World)                                                   ✗      ✗     ✗      ✗
+Ms. Pac-Man                                                             ✗      ✗     ✗      ✗
+Ms. Pac-Man (World)                                                     -      -     -      ✗
+MultiPong 1k (World)                                                    ✗      ✗     ✗      ✗
+NFL Football                                                            ✗      ✗     ✗      ✗
+NFL Football (USA, Europe)                                              -      -     -      ✗
+Nezumi-kun to Poker Shiyouyo (World) (Ja) (v1.0)                        ✗      ✗     ✗      ✗
+Nezumi-kun to Poker Shiyouyo (World) (Ja) (v1.1)                        ✗      ✗     ✗      ✗
+Nezumi-kun to Poker Shiyouyo (World) (Ja) (v1.2)                        ✗      ✗     ✗      ✗
+Ninja Gaiden                                                            ✗      ✗     ✗      ✗
+Ninja Gaiden (USA, Europe)                                              -      -     -      ✗
+Ninja Gaiden III - Ancient Ship of Doom                                 ✗      ✗     ✗      ✗
+Ninja Gaiden III - Ancient Ship of Doom [b2]                            ✗      ✗     ✗      ✗
+Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe)               -      -     -      ✗
+Nutmeg (World)                                                          ✗      ✗     ✗      ✗
+On Duty (World)                                                         ✗      ✗     ✗      ✗
+Othello (World)                                                         ✗      ✗     ✗      ✗
+Ouragan (World) (Demo 1)                                                ✗      ✗     ✗      ✗
+Ouragan (World) (Demo 2)                                                ✗      ✗     ✗      ✗
+Oxymore (World) (Proto)                                                 ✗      ✗     ✗      ✗
+Pac-Land                                                                ✗      ✗     ✗      ✗
+Pac-Land (USA, Europe)                                                  -      -     -      ✗
+Paperboy                                                                ✗      ✗     ✗      ✗
+Paperboy (World)                                                        -      -     -      ✗
+Peg Solitaire (World) (v1.0)                                            ✗      ✗     ✗      ✗
+Peg Solitaire (World) (v1.1)                                            ✗      ✗     ✗      ✗
+Peg Solitaire (World) (v1.2) (256k)                                     ✗      ✗     ✗      ✗
+Peg Solitaire (World) (v1.2) (512k)                                     ✗      ✗     ✗      ✗
+Peg Solitaire (World) (v1.3)                                            ✗      ✗     ✗      ✗
+Pinball Jam                                                             ✗      ✗     ✗      ✗
+Pinball Jam (USA, Europe)                                               -      -     -      ✗
+Pit Fighter                                                             ✗      ✗     ✗      ✗
+Pit-Fighter (USA, Europe)                                               -      -     -      ✗
+Poachin' Jeff (World) (Proto)                                           ✗      ✗     ✗      ✗
+Poker (Europe) (Fr) (Proto)                                             ✗      -     ✗      ✗
+Pong (World) (Demo 1)                                                   ✗      ✗     ✗      ✗
+Pong (World) (Demo 2)                                                   ✗      ✗     ✗      ✗
+Pong-4-Fun (World) (Proto)                                              ✗      ✗     ✗      ✗
+Pounce! (USA) (Proto)                                                   ✗      -     ✗      ✗
+Power Factor                                                            ✗      ✗     ✗      ✗
+Power Factor (USA, Europe)                                              -      -     -      ✗
+Power Factor (World) (Atari Lynx Collection 1)                          ✗      ✗     ✗      ✗
+Puyo Puyo (World) (Demo 1)                                              ✗      ✗     ✗      ✗
+Puyo Puyo (World) (Demo 2)                                              ✗      ✗     ✗      ✗
+Puzzler 2000 (World) (Proto)                                            ✗      ✗     ✗      ✗
+QIX (USA, Europe)                                                       -      -     -      ✗
+Qix                                                                     ✗      ✗     ✗      ✗
+Quantum Invasion (World) (LynxJam 2024)                                 ✗      ✗     ✗      ✗
+RED v1.01                                                               ✗      ✗     ✗      ✗
+Raid on TriCity - First Impact (World) (v1.01)                          ✗      ✗     ✗      ✗
+Raid on TriCity - Second Wave (World) (Digital)                         ✗      ✗     ✗      ✗
+Raiden                                                                  ✗      ✗     ✗      ✗
+Raiden (World)                                                          ✗      ✗     ✗      ✗
+Rainbow (World) (Proto)                                                 ✗      ✗     ✗      ✗
+Rampage                                                                 ✗      ✗     ✗      ✗
+Rampage (World)                                                         -      -     -      ✗
+Rampart                                                                 ✗      ✗     ✗      ✗
+Rampart (USA, Europe)                                                   -      -     -      ✗
+Red Square (World) (v1.0)                                               ✗      ✗     ✗      ✗
+Red Square (World) (v1.1)                                               ✗      ✗     ✗      ✗
+Remnant - Planar Wars (World)                                           ✗      ✗     ✗      ✗
+Road Blasters                                                           ✗      ✗     ✗      ✗
+Road Riot                                                               ✗      ✗     ✗      ✗
+Road Riot 4WD (USA) (Proto 1)                                           -      -     -      ✗
+Road Riot 4WD (USA) (Proto 2)                                           -      -     -      ✗
+Road Riot 4WD (USA) (Proto 3)                                           -      -     -      ✗
+Road Riot 4WD (USA) (Proto 4)                                           ✗      -     -      ✗
+RoadBlasters (World)                                                    -      -     -      ✗
+Robo Escape (World) (LynxJam 2024)                                      ✗      ✗     ✗      ✗
+Robo Reacher (World) (v2.0)                                             ✗      ✗     ✗      ✗
+Robo Squash                                                             ✗      ✗     ✗      ✗
+Robo-Squash (World)                                                     -      -     -      ✗
+Robotron 2084                                                           ✗      ✗     ✗      ✗
+Robotron 2084 (USA, Europe)                                             -      -     -      ✗
+Rolling Thunder (USA) (Proto)                                           ✗      -     ✗      ✗
+Running Knight (World)                                                  ✗      ✗     ✗      ✗
+Rygar (World)                                                           -      -     -      ✗
+Rygar - Legendary Warrior                                               ✗      ✗     ✗      ✗
+S.T.U.N. Runner                                                         ✗      ✗     ✗      ✗
+S.T.U.N. Runner (USA, Europe)                                           -      -     -      ✗
+Santa Factory (World)                                                   ✗      ✗     ✗      ✗
+Santa's Empty Sack (World)                                              ✗      ✗     ✗      ✗
+Saving Santa Tree (World)                                               ✗      ✗     ✗      ✗
+Scrapyard Dog                                                           ✗      ✗     ✗      ✗
+Scrapyard Dog (USA, Europe)                                             -      -     -      ✗
+Scroll of theTime Lords - Lovejoy Prologue (World)                      ✗      ✗     ✗      ✗
+Shadow of the Beast                                                     ✗      ✗     ✗      ✗
+Shadow of the Beast (USA, Europe)                                       -      -     -      ✗
+Shaken, Not Stirred (World) (v1.0)                                      ✗      ✗     ✗      ✗
+Shaken, Not Stirred (World) (v1.1)                                      ✗      ✗     ✗      ✗
+Shaken, Not Stirred (World) (v1.2)                                      ✗      ✗     ✗      ✗
+Shaken, Not Stirred (World) (v1.3)                                      ✗      ✗     ✗      ✗
+Shanghai                                                                ✗      ✗     ✗      ✗
+Shanghai (World)                                                        -      -     -      ✗
+Shuriken (World)                                                        ✗      ✗     ✗      ✗
+Silas Adventure (World)                                                 ✗      ✗     ✗      ✗
+Silly Archery (World)                                                   ✗      ✗     ✗      ✗
+Silly Blaster (World)                                                   ✗      ✗     ✗      ✗
+SillySis (World)                                                        ✗      ✗     ✗      ✗
+Snake (World) (Proto)                                                   ✗      ✗     ✗      ✗
+Snow Ball (World)                                                       ✗      ✗     ✗      ✗
+Solitaire (World) (karri)                                               ✗      ✗     ✗      ✗
+Sorrow (World) (Proto)                                                  ✗      ✗     ✗      ✗
+Space Domino (World)                                                    ✗      ✗     ✗      ✗
+Space Lock _ Space Shoot (World) (Proto)                                ✗      ✗     ✗      ✗
+Star Blader (World) (Proto)                                             ✗      ✗     ✗      ✗
+Star Raiders (World) (Demo 1)                                           ✗      ✗     ✗      ✗
+Star Raiders (World) (Demo 2)                                           ✗      ✗     ✗      ✗
+Stardreamer (World) (Proto)                                             ✗      ✗     ✗      ✗
+Steel Talons                                                            ✗      ✗     ✗      ✗
+Steel Talons (USA, Europe)                                              -      -     -      ✗
+Stinger (World)                                                         ✗      ✗     ✗      ✗
+Sudoku (World) (Proto)                                                  ✗      ✗     ✗      ✗
+Super Asteroids _ Missile Command                                       ✗      ✗     ✗      ✗
+Super Asteroids, Missile Command (USA, Europe)                          -      -     -      ✗
+Super Off Road                                                          ✗      ✗     ✗      ✗
+Super Off-Road (USA, Europe)                                            -      -     -      ✗
+Super Skweek                                                            ✗      ✗     ✗      ✗
+Super Skweek (USA, Europe)                                              -      -     -      ✗
+Super Skweek (World) (Atari Lynx Collection 1)                          ✗      ✗     ✗      ✗
+Swaping Tiles (World) (Proto)                                           ✗      ✗     ✗      ✗
+Switchblade II                                                          ✗      ✗     ✗      ✗
+Switchblade II (USA, Europe)                                            -      -     -      ✗
+Switchblade II [tr es Wave]                                             ✗      ✗     ✗      ✗
+Sybil's Nightmare Run (World) (Proto)                                   ✗      ✗     ✗      ✗
+T-Tris (World) (Pirate)                                                 -      -     -      ✗
+Teen Dance (World)                                                      ✗      ✗     ✗      ✗
+Tetris [b2]                                                             ✗      ✗     ✗      ✗
+Tetris [b3]                                                             ✗      ✗     ✗      ✗
+Tetrisnoid (World) (Proto)                                              ✗      ✗     ✗      ✗
+Timeloop (FW)                                                           ✗      ✗     ✗      ✗
+Timeloop (World)                                                        ✗      ✗     ✗      ✗
+Tiny Lynx Adventure (World)                                             ✗      ✗     ✗      ✗
+Titan (World) (Proto)                                                   ✗      ✗     ✗      ✗
+Todd's Adventures - Slime World                                         ✗      ✗     ✗      ✗
+Todd's Adventures in Slime World (World)                                -      -     -      ✗
+Toki                                                                    ✗      ✗     ✗      ✗
+Toki (USA, Europe)                                                      -      -     -      ✗
+Tournament Cyberball (USA, Europe)                                      -      -     -      ✗
+Tournament Cyberball 2072                                               ✗      ✗     ✗      ✗
+Town Patrol (World) (v0.3) (Proto) (LynxJam 2024)                       ✗      ✗     ✗      ✗
+Town Patrol (World) (v0.4) (Proto)                                      ✗      ✗     ✗      ✗
+Tron-6-Fun (World) (Proto)                                              ✗      ✗     ✗      ✗
+Tropsy (World) (Proto)                                                  ✗      ✗     ✗      ✗
+Turbo Sub                                                               ✗      ✗     ✗      ✗
+Turbo Sub (USA, Europe)                                                 -      -     -      ✗
+Twitter Panic (World) (Proto)                                           ✗      ✗     ✗      ✗
+Verbix (World)                                                          ✗      ✗     ✗      ✗
+Viking Child                                                            ✗      ✗     ✗      ✗
+Viking Child (USA, Europe)                                              -      -     -      ✗
+Vindicators (USA) (Proto 1)                                             ✗      ✗     ✗      ✗
+Vindicators (USA) (Proto 2)                                             ✗      ✗     ✗      ✗
+Warbirds                                                                ✗      ✗     ✗      ✗
+Warbirds (USA, Europe)                                                  -      -     -      ✗
+Wizzy (World) (Proto)                                                   ✗      ✗     ✗      ✗
+Wolfenstein 3D (World) (Demo 1)                                         ✗      ✗     ✗      ✗
+Wolfenstein 3D (World) (Demo 2)                                         ✗      ✗     ✗      ✗
+World Class Soccer                                                      ✗      ✗     ✗      ✗
+World Class Soccer (USA, Europe)                                        -      -     -      ✗
+World Class Soccer [b2]                                                 ✗      ✗     ✗      ✗
+Xenophobe                                                               ✗      ✗     ✗      ✗
+Xenophobe (World)                                                       -      -     -      ✗
+Xump - The Final Run (World) (Retroguru) (Digital)                      ✗      ✗     ✗      ✗
+Xump - The Final Run (World) (Songbird) (Digital)                       ✗      ✗     ✗      ✗
+Xump - The Final Run (World) (v1.2) (Retroguru) (Digital)               ✗      ✗     ✗      ✗
+Xump 2 - Back to Space (World) (Proto)                                  ✗      ✗     ✗      ✗
+Xybots                                                                  ✗      ✗     ✗      ✗
+Xybots (USA, Europe)                                                    -      -     -      ✗
+YNXA (World) (Game Jam Edition) (Digital)                               ✗      ✗     ✗      ✗
+YNXA - Leaf and the Guardians of Time (World) (Proto 1)                 ✗      ✗     ✗      ✗
+YNXA - Leaf and the Guardians of Time (World) (Proto 2) (LynxJam23)     ✗      ✗     ✗      ✗
+Yastuna Volume 1 - The Alchemy of Cubes (World) (v1.00) (Digital)       ✗      ✗     ✗      ✗
+Yastuna Volume 1 - The Alchemy of Cubes (World) (v1.01) (Digital)       ✗      ✗     ✗      ✗
+Yastuna Volume 2 - The Space Incident (World) (v1.00) (Digital)         ✗      ✗     ✗      ✗
+Yastuna Volume 2 - The Space Incident (World) (v1.01) (Digital)         ✗      ✗     ✗      ✗
+Z.A.P. (World)                                                          ✗      ✗     ✗      ✗
+ZZZ-UNK-2001                                                            ✗      -     ✗      ✗
+ZZZ-UNK-2001_V2                                                         ✗      -     ✗      ✗
+ZZZ-UNK-A.P.B. - All Points Bulletin (UE)                               -      -     -      ✗
+ZZZ-UNK-ATARI                                                           ✗      ✗     ✗      ✗
+ZZZ-UNK-Anti A-Bomb Aircraft Artillery (Sampo)                          ✗      ✗     ✗      ✗
+ZZZ-UNK-Awesome Golf (UE)                                               -      -     -      ✗
+ZZZ-UNK-Basketbrawl (UE)                                                ✗      -     ✗      ✗
+ZZZ-UNK-Batman Returns                                                  ✗      ✗     ✗      ✗
+ZZZ-UNK-Batman Returns (UE)                                             -      -     -      ✗
+ZZZ-UNK-Battle Wheels (UE)                                              -      -     -      ✗
+ZZZ-UNK-Battlezone 2000 (UE)                                            -      -     -      ✗
+ZZZ-UNK-Bill _ Ted's Excellent Adventure (UE)                           ✗      -     -      ✗
+ZZZ-UNK-Block Out (UE)                                                  -      -     -      ✗
+ZZZ-UNK-Blue Lightning (UE)                                             -      -     -      ✗
+ZZZ-UNK-Bubble Trouble (Telegames)                                      ✗      ✗     ✗      ✗
+ZZZ-UNK-Bubble Trouble (UE)                                             -      -     -      ✗
+ZZZ-UNK-CARDHEAD-                                                       ✗      ✗     ✗      ✗
+ZZZ-UNK-California Games (UE)                                           -      -     -      ✗
+ZZZ-UNK-Centipede (Prototype) (Shadowsoft)                              ✗      ✗     ✗      ✗
+ZZZ-UNK-Checkered Flag (UE)                                             -      -     -      ✗
+ZZZ-UNK-Chip's Challenge                                                ✗      ✗     ✗      ✗
+ZZZ-UNK-Chip's Challenge (UE)                                           -      -     -      ✗
+ZZZ-UNK-Crystal Mines II (UE)                                           ✗      -     ✗      ✗
+ZZZ-UNK-Crystal Mines II [o]                                            ✗      ✗     ✗      ✗
+ZZZ-UNK-Desert Strike - Return to the Gulf (UE)                         -      -     -      ✗
+ZZZ-UNK-Dinolympics (UE)                                                -      -     -      ✗
+ZZZ-UNK-Dirty Larry - Renegade Cop (UE)                                 -      -     -      ✗
+ZZZ-UNK-Double Dragon (UE)                                              -      -     -      ✗
+ZZZ-UNK-Dracula - The Undead (UE)                                       -      -     -      ✗
+ZZZ-UNK-Electrocop (UE)                                                 -      -     -      ✗
+ZZZ-UNK-European Soccer Challenge (Telegames)                           ✗      ✗     ✗      ✗
+ZZZ-UNK-European Soccer Challenge (UE)                                  -      -     -      ✗
+ZZZ-UNK-Fat Bobby (UE)                                                  -      -     -      ✗
+ZZZ-UNK-Fidelity Ultimate Chess Challenge, The (UE)                     -      -     -      ✗
+ZZZ-UNK-GOTBALLS                                                        ✗      -     ✗      ✗
+ZZZ-UNK-Gates of Zendocon, The (UE)                                     -      -     -      ✗
+ZZZ-UNK-Gauntlet - The Third Encounter (UE)                             -      -     -      ✗
+ZZZ-UNK-Gordo 106 - The Mutated Lab Monkey                              ✗      ✗     ✗      ✗
+ZZZ-UNK-Gordo 106 - The Mutated Lab Monkey (UE)                         -      -     -      ✗
+ZZZ-UNK-Hard Drivin' (UE)                                               -      -     -      ✗
+ZZZ-UNK-Hockey (UE)                                                     -      -     -      ✗
+ZZZ-UNK-Hydra (UE)                                                      -      -     -      ✗
+ZZZ-UNK-INSERT                                                          ✗      ✗     ✗      ✗
+ZZZ-UNK-Ishido - The Way of Stones (UE)                                 ✗      -     ✗      ✗
+ZZZ-UNK-Ishido - The Way of the Stones                                  ✗      ✗     ✗      ✗
+ZZZ-UNK-Jimmy Conners' Tennis (UE)                                      -      -     -      ✗
+ZZZ-UNK-Joust (UE)                                                      ✗      -     ✗      ✗
+ZZZ-UNK-Joust (Williams)                                                ✗      ✗     ✗      ✗
+ZZZ-UNK-Karateboy minidemo                                              ✗      -     -      ✗
+ZZZ-UNK-Klax (UE)                                                       -      -     -      ✗
+ZZZ-UNK-Knightmare minidemo                                             ✗      -     -      ✗
+ZZZ-UNK-Krazy Ace - Miniature Golf (UE)                                 -      -     -      ✗
+ZZZ-UNK-Kung Food (UE)                                                  -      -     -      ✗
+ZZZ-UNK-Lemmings (UE)                                                   -      -     -      ✗
+ZZZ-UNK-Lexis (Songbird)                                                ✗      ✗     ✗      ✗
+ZZZ-UNK-Lexis (UE)                                                      -      -     -      ✗
+ZZZ-UNK-Lynx Cart Demo 1.1                                              ✗      -     -      ✗
+ZZZ-UNK-Lynx Casino                                                     ✗      ✗     ✗      ✗
+ZZZ-UNK-Lynx Casino (UE)                                                -      -     -      ✗
+ZZZ-UNK-Malibu Bikini Volleyball (UE)                                   -      -     -      ✗
+ZZZ-UNK-Ms. Pac-Man (UE)                                                -      -     -      ✗
+ZZZ-UNK-NFL Football (UE)                                               -      -     -      ✗
+ZZZ-UNK-Ninja Gaiden (UE)                                               -      -     -      ✗
+ZZZ-UNK-Ninja Gaiden III - The Ancient Ship of Doom (UE)                -      -     -      ✗
+ZZZ-UNK-Pac-Land (UE)                                                   -      -     -      ✗
+ZZZ-UNK-Paperboy (UE)                                                   -      -     -      ✗
+ZZZ-UNK-Paraply minidemo                                                ✗      -     -      ✗
+ZZZ-UNK-Pinball Jam (UE)                                                -      -     -      ✗
+ZZZ-UNK-Pit Fighter - The Ultimate Competition (UE)                     -      -     -      ✗
+ZZZ-UNK-Power Factor (UE)                                               -      -     -      ✗
+ZZZ-UNK-Qix (Telegames) [o]                                             ✗      ✗     ✗      ✗
+ZZZ-UNK-Qix (UE)                                                        -      -     -      ✗
+ZZZ-UNK-Raiden (U) (CES Version) (v3.0)                                 -      -     -      ✗
+ZZZ-UNK-Rampage (UE)                                                    -      -     -      ✗
+ZZZ-UNK-Rampart (UE)                                                    -      -     -      ✗
+ZZZ-UNK-RoadBlasters (UE)                                               -      -     -      ✗
+ZZZ-UNK-Robo-Squash (UE)                                                -      -     -      ✗
+ZZZ-UNK-Robotron 2084 (UE)                                              -      -     -      ✗
+ZZZ-UNK-Rygar - Legendary Warrior (UE)                                  -      -     -      ✗
+ZZZ-UNK-S.T.U.N. Runner (UE)                                            -      -     -      ✗
+ZZZ-UNK-Scrapyard Dog (UE)                                              -      -     -      ✗
+ZZZ-UNK-Shadow of the Beast (UE)                                        -      -     -      ✗
+ZZZ-UNK-Shanghai                                                        ✗      ✗     ✗      ✗
+ZZZ-UNK-Shanghai (UE)                                                   -      -     -      ✗
+ZZZ-UNK-Sound driver demo1                                              ✗      -     -      ✗
+ZZZ-UNK-Sound driver demo2                                              ✗      -     -      ✗
+ZZZ-UNK-Sound driver demo3                                              ✗      -     -      ✗
+ZZZ-UNK-Sprite driver demo 4                                            ✗      -     -      ✗
+ZZZ-UNK-Steel Talons (UE)                                               -      -     -      ✗
+ZZZ-UNK-Super Asteroids _ Missile Command (UE)                          ✗      ✗     ✗      ✗
+ZZZ-UNK-Super Off-Road (UE)                                             -      -     -      ✗
+ZZZ-UNK-Super Skweek (UE)                                               -      -     -      ✗
+ZZZ-UNK-Switchblade II (UE)                                             -      -     -      ✗
+ZZZ-UNK-Todd's Adventures in Slime World (UE)                           -      -     -      ✗
+ZZZ-UNK-Toki (UE)                                                       -      -     -      ✗
+ZZZ-UNK-Tournament Cyberball 2072 (UE)                                  -      -     -      ✗
+ZZZ-UNK-Turbo Sub                                                       ✗      ✗     ✗      ✗
+ZZZ-UNK-Turbo Sub (UE)                                                  -      -     -      ✗
+ZZZ-UNK-Viking Child (UE)                                               -      -     -      ✗
+ZZZ-UNK-Warbirds (UE)                                                   -      -     -      ✗
+ZZZ-UNK-World Class Soccer (UE)                                         -      -     -      ✗
+ZZZ-UNK-Xenophobe (UE)                                                  -      -     -      ✗
+ZZZ-UNK-Xybots (UE)                                                     -      -     -      ✗
+ZZZ-UNK-Zarlor Mercenary (UE)                                           -      -     -      ✗
+ZZZ-UNK-bombe                                                           ✗      ✗     ✗      ✗
+ZZZ-UNK-building                                                        ✗      -     -      ✗
+ZZZ-UNK-bullet                                                          ✗      ✗     ✗      ✗
+ZZZ-UNK-clock                                                           ✗      ✗     ✗      ✗
+ZZZ-UNK-dead                                                            ✗      ✗     ✗      ✗
+ZZZ-UNK-dgate [prototype]                                               ✗      -     -      ✗
+ZZZ-UNK-fahne                                                           ✗      ✗     ✗      ✗
+ZZZ-UNK-gras                                                            ✗      ✗     ✗      ✗
+ZZZ-UNK-gravitar physics techdemo                                       ✗      -     -      ✗
+ZZZ-UNK-gwn_demo                                                        ✗      -     -      ✗
+ZZZ-UNK-knight                                                          ✗      -     -      ✗
+ZZZ-UNK-knight moves                                                    ✗      ✗     ✗      ✗
+ZZZ-UNK-leer                                                            ✗      ✗     ✗      ✗
+ZZZ-UNK-loader                                                          ✗      ✗     ✗      ✗
+ZZZ-UNK-minimal                                                         ✗      -     ✗      ✗
+ZZZ-UNK-othello                                                         ✗      -     -      ✗
+ZZZ-UNK-phobyx1                                                         ✗      ✗     ✗      ✗
+ZZZ-UNK-play_smp                                                        ✗      ✗     ✗      ✗
+ZZZ-UNK-playsmp1                                                        ✗      ✗     ✗      ✗
+ZZZ-UNK-playsmp2                                                        ✗      ✗     ✗      ✗
+ZZZ-UNK-projet                                                          ✗      -     ✗      ✗
+ZZZ-UNK-rapide_racer                                                    ✗      -     -      ✗
+ZZZ-UNK-sintab_8                                                        ✗      ✗     ✗      ✗
+ZZZ-UNK-soltest6                                                        ✗      -     -      ✗
+ZZZ-UNK-stars                                                           ✗      -     ✗      ✗
+ZZZ-UNK-tank                                                            ✗      ✗     ✗      ✗
+ZZZ-UNK-tetris                                                          ✗      -     -      ✗
+ZZZ-UNK-tetris alt                                                      ✗      -     -      ✗
+ZZZ-UNK-thedeep                                                         ✗      -     -      ✗
+ZZZ-UNK-tipover                                                         ✗      -     -      ✗
+ZZZ-UNK-tutowav                                                         ✗      -     ✗      ✗
+ZZZ-UNK-wav                                                             ✗      -     ✗      ✗
+Zaku (World)                                                            ✗      ✗     ✗      ✗
+Zarlor Mercenary                                                        ✗      ✗     ✗      ✗
+Zarlor Mercenary (World)                                                -      -     -      ✗

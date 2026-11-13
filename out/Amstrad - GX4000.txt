@@ -1,34 +1,67 @@
 Amstrad - GX4000 Missing
 
-Boxarts  0/26   0.00%
-Snaps    9/26  34.62%
-Titles   0/26   0.00%
-Total    9/78  11.54%
+Boxarts   0/58  0.00%
+Snaps     0/58  0.00%
+Titles    0/58  0.00%
+Logos     0/58  0.00%
+Total    0/232  0.00%
 
-Name                                                               Boxart  Snap  Title
-Cross Bomber (2020-08-26) (Caruso, Fabrizio)                          ✗      -     ✗
-Cross Bomber (2021-05-13) (Caruso, Fabrizio)                          ✗      -     ✗
-Cross Chase (2018-04-15) (Caruso, Fabrizio)                           ✗      ✗     ✗
-Cross Chase (2018-05-19) (Caruso, Fabrizio)                           ✗      ✗     ✗
-Cross Chase (2018-07-19) (Caruso, Fabrizio)                           ✗      ✗     ✗
-Cross Chase (2018-08-04) (Caruso, Fabrizio)                           ✗      ✗     ✗
-Cross Chase (2018-10-29) (Caruso, Fabrizio)                           ✗      ✗     ✗
-Cross Chase (2020-04-02) (Caruso, Fabrizio)                           ✗      ✗     ✗
-Cross Chase (2021-05-13) (Caruso, Fabrizio)                           ✗      ✗     ✗
-Cross Horde (2021-04-16) (Caruso, Fabrizio)[mode0]                    ✗      ✗     ✗
-Cross Horde (2021-04-16) (Caruso, Fabrizio)[mode1][cpcrslib]          ✗      ✗     ✗
-Cross Horde (2021-04-16) (Caruso, Fabrizio)[mode2]                    ✗      ✗     ✗
-Cross Horde v1.0 (2021-05-01) (Caruso, Fabrizio)[mode0]               ✗      ✗     ✗
-Cross Horde v1.0 (2021-05-01) (Caruso, Fabrizio)[mode1][cpcrslib]     ✗      ✗     ✗
-Cross Horde v1.0 (2021-05-01) (Caruso, Fabrizio)[mode2]               ✗      ✗     ✗
-Cross Shoot (2020-07-03) (Caruso, Fabrizio)                           ✗      ✗     ✗
-Cross Snake Preview (2020-12-05) (Caruso, Fabrizio)                   ✗      -     ✗
-Cross Snake v1.0 (2020-12-12) (Caruso, Fabrizio)[mode0]               ✗      -     ✗
-Cross Snake v1.0 (2020-12-12) (Caruso, Fabrizio)[mode1][cpcrslib]     ✗      -     ✗
-Cross Snake v1.0 (2020-12-12) (Caruso, Fabrizio)[mode2]               ✗      -     ✗
-Cross Snake v2.0 (2020-12-31) (Caruso, Fabrizio)[mode0]               ✗      -     ✗
-Cross Snake v2.0 (2020-12-31) (Caruso, Fabrizio)[mode1][cpcrslib]     ✗      -     ✗
-Cross Snake v2.0 (2020-12-31) (Caruso, Fabrizio)[mode2]               ✗      -     ✗
-Cross Verbix (2022-12-05) (Caruso, Fabrizio)                          ✗      ✗     ✗
-Missile Command (2022) (Ayor61 - TITAN) (FR)                          ✗      ✗     ✗
-Tenebra (2022-12-07) (Haplo) (AU)                                     ✗      ✗     ✗
+Name                                           Boxart  Snap  Title  Logo
+Baba's Palace (Spain)                             ✗      ✗     ✗      ✗
+Blinky's Scary School v1.3                        ✗      ✗     ✗      ✗
+Brick Rick v1.0.1                                 ✗      ✗     ✗      ✗
+CPC Soccer Community Edition                      ✗      ✗     ✗      ✗
+Chloe Aprende a Reciclar (Spain)                  ✗      ✗     ✗      ✗
+Cross Bomber                                      ✗      ✗     ✗      ✗
+Cross Chase                                       ✗      ✗     ✗      ✗
+Cross Horde [mode0]                               ✗      ✗     ✗      ✗
+Cross Horde [mode1][cpcrslib]                     ✗      ✗     ✗      ✗
+Cross Horde [mode2]                               ✗      ✗     ✗      ✗
+Cross Horde v1.0 [mode0]                          ✗      ✗     ✗      ✗
+Cross Horde v1.0 [mode1][cpcrslib]                ✗      ✗     ✗      ✗
+Cross Horde v1.0 [mode2]                          ✗      ✗     ✗      ✗
+Cross Shoot                                       ✗      ✗     ✗      ✗
+Cross Snake Preview                               ✗      ✗     ✗      ✗
+Cross Snake v1.0 [mode0]                          ✗      ✗     ✗      ✗
+Cross Snake v1.0 [mode1][cpcrslib]                ✗      ✗     ✗      ✗
+Cross Snake v1.0 [mode2]                          ✗      ✗     ✗      ✗
+Cross Snake v2.0 [mode0]                          ✗      ✗     ✗      ✗
+Cross Snake v2.0 [mode1][cpcrslib]                ✗      ✗     ✗      ✗
+Cross Snake v2.0 [mode2]                          ✗      ✗     ✗      ✗
+Cross Trex [mode0]                                ✗      ✗     ✗      ✗
+Cross Verbix                                      ✗      ✗     ✗      ✗
+Culotte de Zelda, La v3.2                         ✗      ✗     ✗      ✗
+Culotte de Zelda, La v3.2 (France)                ✗      ✗     ✗      ✗
+Dawn of Kernel, The v1.0.1                        ✗      ✗     ✗      ✗
+Domino                                            ✗      ✗     ✗      ✗
+Domino (Spain)                                    ✗      ✗     ✗      ✗
+Foggy's Quest                                     ✗      ✗     ✗      ✗
+Foggy's Quest [CPC+ colors - smooth]              ✗      ✗     ✗      ✗
+Galastrad v3.0                                    ✗      ✗     ✗      ✗
+Ghost Trick - Delirium Edition                    ✗      ✗     ✗      ✗
+Ghost Trick v2.0                                  ✗      ✗     ✗      ✗
+Goldorak Versus (France)                          ✗      ✗     ✗      ✗
+Goldorak v0.1 [Crocofest]                         ✗      ✗     ✗      ✗
+Goldorak v3.3.1                                   ✗      ✗     ✗      ✗
+Heart of Salamanderland, The v1.0.3               ✗      ✗     ✗      ✗
+Heroes Rescue (Spain)                             ✗      ✗     ✗      ✗
+Hyperdrive v1.0.1                                 ✗      ✗     ✗      ✗
+Kung Fu Master GX4000 Reskin 2023 v3              ✗      ✗     ✗      ✗
+Mandarin 2, The - Limoncello's Revenge            ✗      ✗     ✗      ✗
+Masarat Khatira                                   ✗      ✗     ✗      ✗
+Masarat Khatira (Spain)                           ✗      ✗     ✗      ✗
+Masarat Khatira (Spain)[t +1][infinite lives]     ✗      ✗     ✗      ✗
+Masarat Khatira [t +1][infinite lives]            ✗      ✗     ✗      ✗
+Missile Command (France)                          ✗      ✗     ✗      ✗
+Octopus (France)                                  ✗      ✗     ✗      ✗
+Octopus 21                                        ✗      ✗     ✗      ✗
+Prospector v2.0                                   ✗      ✗     ✗      ✗
+Rigor Mortis (Spain)                              ✗      ✗     ✗      ✗
+Shuriken [mode0]                                  ✗      ✗     ✗      ✗
+Space Cowboy in Lost Planet                       ✗      ✗     ✗      ✗
+Stinger [XXX]                                     ✗      ✗     ✗      ✗
+Stinger [mode0]                                   ✗      ✗     ✗      ✗
+Stinger [mode2]                                   ✗      ✗     ✗      ✗
+Tenebra (Australia)                               ✗      ✗     ✗      ✗
+Tenebra 2                                         ✗      ✗     ✗      ✗
+Tenebra 2 [noflicker]                             ✗      ✗     ✗      ✗

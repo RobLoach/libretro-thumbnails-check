@@ -3,24 +3,25 @@ Hartung - Game Master Missing
 Boxarts   8/18  44.44%
 Snaps    12/18  66.67%
 Titles   14/18  77.78%
-Total    34/54  62.96%
+Logos    10/18  55.56%
+Total    44/72  61.11%
 
-Name                          Boxart  Snap  Title
-Bubble Boy (Europe)              -      -     -
-Car Racing (Europe)              -      ✗     ✗
-Continental Galaxy (Europe)      -      -     -
-Dungeon Advanture (Europe)       ✗      ✗     ✗
-Falling Block (Europe)           ✗      -     -
-Finite Zone (Europe)             ✗      ✗     ✗
-Go Bang! (Europe)                -      -     -
-Hyper Space (Europe)             ✗      -     -
-Kung Fu (Europe)                 -      -     -
-Move It (Germany) (En)           ✗      -     -
-Pin Ball (Europe)                -      -     -
-Soccer (Europe)                  -      -     -
-Space Castle (Europe)            ✗      -     -
-Space Invader (Germany) (En)     ✗      ✗     -
-Space Warrior (Germany) (En)     ✗      ✗     ✗
-Tank War (Germany) (En)          ✗      ✗     -
-Tennis (Europe)                  -      -     -
-Urban Champion (Europe)          ✗      -     -
+Name                          Boxart  Snap  Title  Logo
+Bubble Boy (Europe)              -      -     -      -
+Car Racing (Europe)              -      ✗     ✗      ✗
+Continental Galaxy (Europe)      -      -     -      -
+Dungeon Advanture (Europe)       ✗      ✗     ✗      ✗
+Falling Block (Europe)           ✗      -     -      -
+Finite Zone (Europe)             ✗      ✗     ✗      ✗
+Go Bang! (Europe)                -      -     -      -
+Hyper Space (Europe)             ✗      -     -      -
+Kung Fu (Europe)                 -      -     -      -
+Move It (Germany) (En)           ✗      -     -      ✗
+Pin Ball (Europe)                -      -     -      -
+Soccer (Europe)                  -      -     -      ✗
+Space Castle (Europe)            ✗      -     -      -
+Space Invader (Germany) (En)     ✗      ✗     -      ✗
+Space Warrior (Germany) (En)     ✗      ✗     ✗      ✗
+Tank War (Germany) (En)          ✗      ✗     -      ✗
+Tennis (Europe)                  -      -     -      -
+Urban Champion (Europe)          ✗      -     -      -

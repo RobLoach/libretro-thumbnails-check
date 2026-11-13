@@ -1,25 +1,27 @@
 RCA - Studio II Missing
 
-Boxarts  12/17  70.59%
-Snaps     3/17  17.65%
-Titles    3/17  17.65%
-Total    18/51  35.29%
+Boxarts  12/18  66.67%
+Snaps     3/18  16.67%
+Titles    3/18  16.67%
+Logos     0/18   0.00%
+Total    18/72  25.00%
 
-Name                                                           Boxart  Snap  Title
-Concentration Match (Europe)                                      ✗      ✗     ✗
-Demonstration Cartridge (USA)                                     -      ✗     ✗
-Grand Pack (Europe)                                               ✗      ✗     ✗
-Pinball (Europe)                                                  ✗      ✗     ✗
-Speedway + Tag (Europe)                                           ✗      ✗     ✗
-Star Wars (Europe)                                                ✗      ✗     ✗
-TV Arcade I - Space War (USA)                                     -      -     -
-TV Arcade II - Fun with Numbers (USA)                             -      ✗     ✗
-TV Arcade III - Tennis + Squash (USA)                             -      -     -
-TV Arcade IV - Baseball (USA)                                     -      -     -
-TV Arcade Series - Gunfighter + Moonship Battle (USA, Europe)     -      ✗     ✗
-TV Arcade Series - Speedway + Tag (USA)                           -      ✗     ✗
-TV Casino Series - Blackjack (USA)                                -      ✗     ✗
-TV Casino Series - TV Bingo (USA, Europe)                         -      ✗     ✗
-TV Mystic Series - Biorhythm (USA, Europe)                        -      ✗     ✗
-TV School House I (USA)                                           -      ✗     ✗
-TV School House II - Math Fun (USA, Europe)                       -      ✗     ✗
+Name                                                           Boxart  Snap  Title  Logo
+Concentration Match (Europe)                                      ✗      ✗     ✗      ✗
+Demonstration Cartridge (USA)                                     -      ✗     ✗      ✗
+Grand Pack (Europe)                                               ✗      ✗     ✗      ✗
+Pinball (Europe)                                                  ✗      ✗     ✗      ✗
+Space Explorer (USA) (Proto)                                      ✗      ✗     ✗      ✗
+Speedway + Tag (Europe)                                           ✗      ✗     ✗      ✗
+Star Wars (Europe)                                                ✗      ✗     ✗      ✗
+TV Arcade I - Space War (USA)                                     -      -     -      ✗
+TV Arcade II - Fun with Numbers (USA)                             -      ✗     ✗      ✗
+TV Arcade III - Tennis + Squash (USA)                             -      -     -      ✗
+TV Arcade IV - Baseball (USA)                                     -      -     -      ✗
+TV Arcade Series - Gunfighter + Moonship Battle (USA, Europe)     -      ✗     ✗      ✗
+TV Arcade Series - Speedway + Tag (USA)                           -      ✗     ✗      ✗
+TV Casino Series - Blackjack (USA)                                -      ✗     ✗      ✗
+TV Casino Series - TV Bingo (USA, Europe)                         -      ✗     ✗      ✗
+TV Mystic Series - Biorhythm (USA, Europe)                        -      ✗     ✗      ✗
+TV School House I (USA)                                           -      ✗     ✗      ✗
+TV School House II - Math Fun (USA, Europe)                       -      ✗     ✗      ✗

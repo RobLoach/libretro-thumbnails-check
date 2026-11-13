@@ -1,51 +1,51 @@
 GCE - Vectrex Missing
 
-Boxarts    37/43  86.05%
-Snaps      37/43  86.05%
-Titles     37/43  86.05%
-Total    111/129  86.05%
+Boxarts   28/42  66.67%
+Snaps     28/42  66.67%
+Titles    28/42  66.67%
+Logos      7/42  16.67%
+Total    91/168  54.17%
 
-Name                                                       Boxart  Snap  Title
-3D Crazy Coaster (USA)                                        -      -     -
-3D Mine Storm (USA)                                           -      -     -
-3D Narrow Escape (USA)                                        -      -     -
-AnimAction - Advanced Animation (USA)                         -      -     -
-Armor Attack (World)                                          ✗      ✗     ✗
-Art Master (USA)                                              -      -     -
-Bedlam (USA, Europe)                                          -      -     -
-Berzerk (World)                                               -      -     -
-Blitz! - Action Football (USA, Europe)                        ✗      ✗     ✗
-Blitz! - Action Football (USA, Europe) (Alt)                  ✗      ✗     ✗
-Clean Sweep (World)                                           -      -     -
-Cosmic Chasm (World)                                          -      -     -
-Dark Tower (USA) (Proto)                                      -      -     -
-Engine Analyzer (USA) (Proto)                                 -      -     -
-Fortress of Narzod (USA, Europe)                              -      -     -
-Heads-Up - Action Soccer (USA)                                -      -     -
-HyperChase - Auto Race (World)                                -      -     -
-Mail Plane (USA) (Proto) (05838962)                           -      -     -
-Mail Plane (USA) (Proto) (DA1AC0DB)                           -      -     -
-Melody Master - Music Composition and Entertainment (USA)     -      -     -
-Mine Storm (World)                                            -      -     -
-Mine Storm II (USA) (Rev 2)                                   -      -     -
-Mr. Boston Clean Sweep (Europe)                               -      -     -
-Pitcher's Duel (USA) (Proto)                                  -      -     -
-Polar Rescue (USA)                                            -      -     -
-Polar Rescue (USA) (Beta)                                     -      -     -
-Pole Position (USA)                                           ✗      ✗     ✗
-Pole Position (USA) (Alt)                                     ✗      ✗     ✗
-RA+A Spectrum I+ Stress Tester (USA) (Proto)                  -      -     -
-Rip Off (World)                                               -      -     -
-Scramble (USA, Europe)                                        -      -     -
-Sledge 3D (USA) (Sample)                                      -      -     -
-Solar Quest (World)                                           -      -     -
-Space Wars (World)                                            -      -     -
-Spike (USA, Europe)                                           -      -     -
-Spinball (USA)                                                ✗      ✗     ✗
-Star Castle (USA)                                             -      -     -
-Star Ship (Europe)                                            -      -     -
-Star Trek - The Motion Picture (USA)                          -      -     -
-StarHawk (World)                                              -      -     -
-Tour De France (USA) (Proto)                                  -      -     -
-WebWarp (Europe)                                              -      -     -
-WebWars (USA)                                                 -      -     -
+Name                                                       Boxart  Snap  Title  Logo
+3D Crazy Coaster (USA)                                        -      -     -      ✗
+3D Mine Storm (USA)                                           -      -     -      ✗
+3D Narrow Escape (USA)                                        -      -     -      ✗
+AnimAction - Advanced Animation (USA)                         -      -     -      ✗
+Armor Attack (World)                                          ✗      ✗     ✗      ✗
+Art Master (USA)                                              -      -     -      ✗
+Bedlam (World)                                                ✗      ✗     ✗      ✗
+Berzerk (Europe) (Rev 2)                                      ✗      ✗     ✗      ✗
+Berzerk (USA)                                                 ✗      ✗     ✗      ✗
+Blitz! - Action Football (World)                              ✗      ✗     ✗      ✗
+Clean Sweep (World)                                           -      -     -      -
+Cosmic Chasm (World)                                          -      -     -      ✗
+Dark Tower (USA) (Proto)                                      -      -     -      ✗
+Engine Analyzer (USA) (Proto)                                 -      -     -      ✗
+Fortress of Narzod (Europe) (Rev 2)                           ✗      ✗     ✗      ✗
+Fortress of Narzod (USA)                                      ✗      ✗     ✗      ✗
+Heads-Up - Action Soccer (World)                              ✗      ✗     ✗      ✗
+HyperChase - Auto Race (World)                                -      -     -      -
+Mail Plane (USA) (Proto) (05838962)                           -      -     -      ✗
+Mail Plane (USA) (Proto) (DA1AC0DB)                           -      -     -      ✗
+Melody Master - Music Composition and Entertainment (USA)     -      -     -      ✗
+Mine Storm (World)                                            -      -     -      -
+Mine Storm II (USA) (Rev 2)                                   -      -     -      -
+Mr. Boston - Clean Sweep (USA)                                ✗      ✗     ✗      ✗
+Pitcher's Duel (USA) (Proto)                                  -      -     -      ✗
+Polar Rescue (USA)                                            -      -     -      ✗
+Pole Position (USA)                                           ✗      ✗     ✗      ✗
+RA+A Spectrum I+ Stress Tester (USA) (Proto)                  -      -     -      ✗
+Rip Off (World)                                               -      -     -      -
+Scramble (World)                                              ✗      ✗     ✗      ✗
+Sledge 3D (USA) (Sample)                                      -      -     -      ✗
+Solar Quest (World)                                           -      -     -      -
+Space Wars (World)                                            -      -     -      ✗
+Spike (World)                                                 ✗      ✗     ✗      ✗
+Spinball (World)                                              ✗      ✗     ✗      ✗
+Star Castle (USA)                                             -      -     -      ✗
+Star Ship (Europe)                                            -      -     -      ✗
+Star Trek - The Motion Picture (USA)                          -      -     -      ✗
+StarHawk (World)                                              -      -     -      -
+Tour De France (USA) (Proto)                                  -      -     -      ✗
+WebWarp (Europe)                                              -      -     -      ✗
+WebWars (World)                                               ✗      ✗     ✗      ✗

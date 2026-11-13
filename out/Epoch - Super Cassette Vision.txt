@@ -1,41 +1,41 @@
 Epoch - Super Cassette Vision Missing
 
-Boxarts  27/33  81.82%
-Snaps    24/33  72.73%
-Titles   24/33  72.73%
-Total    75/99  75.76%
+Boxarts   27/32  84.38%
+Snaps     23/32  71.88%
+Titles    23/32  71.88%
+Logos     20/32  62.50%
+Total    93/128  72.66%
 
-Name                                                   Boxart  Snap  Title
-Astro Wars - Invaders from Space (Japan, France) (En)     ✗      -     -
-Astro Wars II - Battle in Galaxy (Japan) (En)             -      -     -
-Basic Nyuumon (Japan) (En)                                -      ✗     ✗
-Boulder Dash (France) (En)                                ✗      ✗     ✗
-Boulder Dash (Japan) (En)                                 -      -     -
-Comic Circus (Japan) (En)                                 -      -     -
-Doraemon (Japan) (En)                                     -      -     -
-Dragon Ball - Dragon Dai Hikyou (Japan) (En)              -      ✗     ✗
-Dragon Slayer (Japan) (En)                                -      ✗     ✗
-Elevator Fight (Japan) (En)                               -      -     -
-Kung Fu Road (Japan) (En)                                 -      -     -
-Lupin Sansei (Japan) (En)                                 -      -     -
-Mappy (Japan) (En)                                        -      ✗     ✗
-Milky Princess (Japan) (En)                               -      -     -
-Miner 2049er (Japan) (En)                                 -      -     -
-Nebula (Japan) (En)                                       -      -     -
-Nebula (Japan) (En) (Alt)                                 ✗      -     -
-Pole Position II (Japan) (En)                             -      -     -
-Pop _ Chips (Japan) (En)                                  ✗      ✗     ✗
-Professional Wrestling (Japan) (En)                       -      -     -
-Punch Boy (Japan) (En)                                    -      -     -
-Real Graphic Mahjongg (Japan)                             -      -     -
-Sansupyuta (Japan) (En)                                   -      -     -
-Shougi Nyuumon (Japan)                                    -      -     -
-Sky Kid (Japan) (En)                                      -      ✗     ✗
-Star Speeder (Japan) (En)                                 -      ✗     ✗
-Super Baseball (Japan) (En)                               -      -     -
-Super Golf (Japan) (En)                                   -      -     -
-Super Soccer (France) (En)                                ✗      -     -
-Super Soccer (Japan) (En)                                 -      -     -
-Ton Ton Ball (Japan) (En)                                 -      -     -
-Wai Wai Monster Land (Japan) (En)                         -      ✗     ✗
-Wheelie Racer (Japan, France) (En)                        ✗      -     -
+Name                                                   Boxart  Snap  Title  Logo
+Astro Wars - Invaders from Space (Japan, France) (En)     ✗      -     -      ✗
+Astro Wars II - Battle in Galaxy (Japan) (En)             -      -     -      -
+Basic Nyuumon (Japan) (En)                                -      ✗     ✗      ✗
+Boulder Dash (France) (En)                                ✗      ✗     ✗      ✗
+Boulder Dash (Japan) (En)                                 -      -     -      ✗
+Comic Circus (Japan) (En)                                 -      -     -      -
+Doraemon (Japan) (En)                                     -      -     -      ✗
+Dragon Ball - Dragon Dai Hikyou (Japan) (En)              -      ✗     ✗      -
+Dragon Slayer (Japan) (En)                                -      ✗     ✗      -
+Elevator Fight (Japan) (En)                               -      -     -      -
+Kung Fu Road (Japan) (En)                                 -      -     -      -
+Lupin Sansei (Japan) (En)                                 -      -     -      -
+Mappy (Japan) (En)                                        -      ✗     ✗      -
+Milky Princess (Japan) (En)                               -      -     -      ✗
+Miner 2049er (Japan) (En)                                 -      -     -      -
+Nebula (Japan) (En)                                       -      -     -      -
+Pole Position II (Japan) (En)                             -      -     -      -
+Pop _ Chips (Japan) (En)                                  ✗      ✗     ✗      -
+Professional Wrestling (Japan) (En)                       -      -     -      -
+Punch Boy (Japan) (En)                                    -      -     -      -
+Real Graphic Mahjongg (Japan)                             -      -     -      ✗
+Sansupyuta (Japan) (En)                                   -      -     -      ✗
+Shougi Nyuumon (Japan)                                    -      -     -      ✗
+Sky Kid (Japan) (En)                                      -      ✗     ✗      -
+Star Speeder (Japan) (En)                                 -      ✗     ✗      -
+Super Baseball (Japan) (En)                               -      -     -      ✗
+Super Golf (Japan) (En)                                   -      -     -      -
+Super Soccer (France) (En)                                ✗      -     -      ✗
+Super Soccer (Japan) (En)                                 -      -     -      -
+Ton Ton Ball (Japan) (En)                                 -      -     -      -
+Wai Wai Monster Land (Japan) (En)                         -      ✗     ✗      -
+Wheelie Racer (Japan, France) (En)                        ✗      -     -      ✗

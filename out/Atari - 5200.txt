@@ -1,127 +1,298 @@
 Atari - 5200 Missing
 
-Boxarts  107/119  89.92%
-Snaps    111/119  93.28%
-Titles   107/119  89.92%
-Total    325/357  91.04%
+Boxarts    95/289  32.87%
+Snaps     107/289  37.02%
+Titles     95/289  32.87%
+Logos      58/289  20.07%
+Total    355/1156  30.71%
 
-Name                                                      Boxart  Snap  Title
-5200 Menu (USA) (Proto)                                      -      -     -
-A.E. (USA) (Proto)                                           -      -     -
-Activision Decathlon, The (USA)                              -      -     -
-Asteroids (USA) (Proto)                                      -      -     -
-Astro Chase (USA)                                            -      -     -
-Astrogrover (USA) (Proto)                                    ✗      -     ✗
-Atari PAM - Pete's Test (USA)                                -      -     -
-Atari PAM Diagnostics (USA) (v2.0)                           -      -     -
-Atari PAM Diagnostics (USA) (v2.3)                           -      -     -
-Atari PAM System Test (USA) (v1.02)                          -      -     -
-Ballblazer (USA)                                             -      -     -
-Barroom Baseball (USA) (Proto)                               -      -     -
-Battlezone (USA) (Proto)                                     -      -     -
-Battlezone (USA) (Proto) (Alt)                               -      -     -
-Beamrider (USA)                                              -      -     -
-Behind Jaggi Lines! (USA) (Proto)                            ✗      -     ✗
-BerZerk (USA)                                                -      -     -
-Black Belt (USA) (Proto)                                     -      -     -
-Blaster (USA) (Proto)                                        -      -     -
-Blue Print (USA)                                             -      -     -
-Boogie (USA) (Demo)                                          -      -     -
-Bounty Bob Strikes Back! (USA)                               -      -     -
-Buck Rogers - Planet of Zoom (USA)                           -      -     -
-Buck Rogers - Planet of Zoom (USA) (Alt)                     ✗      ✗     ✗
-Carol Shaw's River Raid (USA)                                -      -     -
-Castle Blast (USA) (Unl)                                     -      -     -
-Castle Crisis (USA) (Unl)                                    -      -     -
-Centipede (USA)                                              -      -     -
-Choplifter! (USA)                                            -      -     -
-Congo Bongo (USA)                                            -      -     -
-Countermeasure (USA)                                         -      -     -
-David Crane's Pitfall II - Lost Caverns (USA)                -      -     -
-Defender (USA)                                               -      -     -
-Dig Dug (USA)                                                -      -     -
-Dreadnaught Factor, The (USA)                                -      -     -
-Final Legacy (USA) (Proto)                                   -      -     -
-Frisky Tom (USA) (Proto)                                     -      -     -
-Frogger (USA)                                                -      -     -
-Frogger II - Threeedeep! (USA)                               -      -     -
-Galaxian (USA)                                               -      -     -
-Galaxian (USA) (Alt)                                         ✗      ✗     ✗
-Gorf (USA)                                                   -      -     -
-Gremlins (USA)                                               -      -     -
-Gyruss (USA)                                                 -      -     -
-Gyruss (USA) (Alt)                                           ✗      ✗     ✗
-H.E.R.O. (USA)                                               -      -     -
-James Bond 007 (USA)                                         -      -     -
-Joust (USA)                                                  -      -     -
-Jr. Pac-Man (USA) (Proto)                                    -      -     -
-Jungle Hunt (USA)                                            -      -     -
-K-Razy Shoot-Out (USA)                                       -      -     -
-Kaboom! (USA)                                                -      -     -
-Kangaroo (USA)                                               -      -     -
-Keystone Kapers (USA)                                        -      -     -
-Koffi - Yellow Kopter (USA) (Unl)                            -      -     -
-Last Starfighter, The (USA) (Proto)                          -      -     -
-Looney Tunes Hotel (USA) (Proto)                             -      -     -
-Mario Bros. (USA)                                            -      -     -
-Mario Bros. (USA) (Alt)                                      ✗      ✗     ✗
-Meebzork (USA) (Proto)                                       -      -     -
-MegaMania (USA)                                              -      -     -
-Meteorites (USA)                                             -      -     -
-Microgammon SB (USA) (Proto)                                 -      -     -
-Millipede (USA) (Proto)                                      -      -     -
-Miner 2049er Starring Bounty Bob (USA)                       -      -     -
-Miniature Golf (USA) (Proto)                                 -      -     -
-Missile Command (USA)                                        -      -     -
-Montezuma's Revenge - Featuring Panama Joe (USA)             -      -     -
-Moon Patrol (USA)                                            -      -     -
-Mountain King (USA)                                          -      -     -
-Mr. Do!'s Castle (USA)                                       -      -     -
-Ms. Pac-Man (USA)                                            -      -     -
-Pac-Man (USA)                                                -      -     -
-Pengo (USA)                                                  -      -     -
-Pitfall! (USA)                                               -      -     -
-Pole Position (USA)                                          -      -     -
-Pole Position (USA) (Proto)                                  -      -     -
-Popeye (USA)                                                 -      -     -
-Q-bert (USA)                                                 -      -     -
-QIX (USA)                                                    -      -     -
-Quest for Quintana Roo (USA)                                 -      -     -
-RealSports Baseball (USA)                                    -      -     -
-RealSports Basketball (USA)                                  -      -     -
-RealSports Basketball (USA) (Proto) (1982-11-05)             ✗      -     ✗
-RealSports Basketball (USA) (Proto) (1983-10-31)             ✗      -     ✗
-RealSports Football (USA)                                    -      -     -
-RealSports Soccer (USA)                                      -      -     -
-RealSports Tennis (USA)                                      -      -     -
-Rescue on Fractalus! (USA)                                   -      -     -
-Road Runner (USA) (Proto)                                    -      -     -
-Robotron 2084 (USA)                                          -      -     -
-Space Dungeon (USA)                                          -      -     -
-Space Invaders (USA)                                         -      -     -
-Space Shuttle - A Journey Into Space (USA)                   -      -     -
-Spitfire (USA) (Proto)                                       -      -     -
-Sport Goofy (USA) (Proto)                                    -      -     -
-Star Raiders (USA)                                           -      -     -
-Star Raiders (USA) (Alternate)                               ✗      ✗     ✗
-Star Trek - Strategic Operations Simulator (USA)             -      -     -
-Star Trek - Strategic Operations Simulator (USA) (Alt)       ✗      ✗     ✗
-Star Wars - Return of the Jedi - Death Star Battle (USA)     -      -     -
-Star Wars - The Arcade Game (USA)                            -      -     -
-Stargate (USA) (Proto)                                       -      -     -
-Super Breakout (USA)                                         -      -     -
-Super Cobra (USA)                                            -      -     -
-Super Pac-Man (USA) (Proto)                                  -      -     -
-Super Pacman (USA) (Proto) (Alt)                             -      -     -
-Tempest (USA) (AtariAge)                                     ✗      ✗     ✗
-Tempest (USA) (Proto)                                        -      -     -
-Track and Field (USA) (Proto)                                -      -     -
-Vanguard (USA)                                               -      -     -
-Wizard of Wor (USA)                                          -      -     -
-Xari Arena (USA) (Proto 2)                                   ✗      ✗     ✗
-Xari Arena (USA) (Proto)                                     -      -     -
-Xevious (USA) (Proto)                                        -      -     -
-Yellow Submarine (USA) (Demo)                                -      -     -
-Zaxxon (USA)                                                 -      -     -
-Zenji (USA)                                                  -      -     -
-Zone Ranger (USA)                                            -      -     -
+Name                                                            Boxart  Snap  Title  Logo
+5200 Menu (USA) (Proto)                                            -      -     -      ✗
+A.E. (USA) (Proto 1)                                               ✗      -     ✗      ✗
+A.E. (USA) (Proto 2)                                               ✗      ✗     ✗      ✗
+A.E. (USA) (Proto)                                                 -      -     -      ✗
+Activision Decathlon, The (USA)                                    -      -     -      -
+Activision Decathlon, The (USA)[FC-008]                            ✗      ✗     ✗      ✗
+Asteroids (USA) (Proto)                                            -      -     -      ✗
+Asteroids (USA) (Proto) (Final)                                    ✗      -     ✗      ✗
+Asteroids (USA) (Proto)[CX5201]                                    ✗      ✗     ✗      ✗
+Asteroids (USA) (Proto)[o][CX5201]                                 ✗      ✗     ✗      ✗
+Astro Chase (USA)                                                  -      -     -      -
+Astro Chase (USA)[9560]                                            ✗      ✗     ✗      ✗
+Astro Grover (Proto)[CX5233]                                       ✗      ✗     ✗      ✗
+Astrogrover (USA) (Proto)                                          ✗      -     ✗      ✗
+Atari PAM - Pete's Test (USA)                                      -      -     -      ✗
+Atari PAM Diagnostics (USA) (v1.1)                                 ✗      -     ✗      ✗
+Atari PAM Diagnostics (USA) (v2.0)                                 -      -     -      ✗
+Atari PAM Diagnostics (USA) (v2.3)                                 -      -     -      ✗
+Atari PAM System Test (USA) (v1.02)                                -      -     -      ✗
+Ballblazer (USA)                                                   -      -     -      ✗
+Ballblazer (USA)[CX5255]                                           ✗      ✗     ✗      ✗
+Barroom Baseball (USA) (Proto 1)                                   ✗      -     ✗      ✗
+Barroom Baseball (USA) (Proto 2)                                   ✗      ✗     ✗      ✗
+Barroom Baseball (USA) (Proto)                                     -      -     -      ✗
+Battlezone (USA) (Proto 1)                                         ✗      ✗     ✗      ✗
+Battlezone (USA) (Proto 2)                                         ✗      -     ✗      ✗
+Battlezone (USA) (Proto)[CX5239]                                   ✗      ✗     ✗      ✗
+Beamrider (USA)                                                    -      -     -      -
+Beamrider (USA)[FZ-009]                                            ✗      ✗     ✗      ✗
+Beamrider (USA)[o][FZ-009]                                         ✗      ✗     ✗      ✗
+Behind Jaggi Lines! (USA) (Proto)[AKA Rescue on Fractalus]         ✗      ✗     ✗      ✗
+BerZerk (USA)                                                      -      -     -      -
+Berzerk (USA)[CX5221]                                              ✗      ✗     ✗      ✗
+Berzerk (USA)[o][CX5221]                                           ✗      ✗     ✗      ✗
+Black Belt (USA) (Proto 1)                                         ✗      -     ✗      ✗
+Black Belt (USA) (Proto 2)                                         ✗      -     ✗      ✗
+Black Belt (USA) (Proto 3)                                         ✗      -     ✗      ✗
+Black Belt (USA) (Proto)[CX5231]                                   ✗      ✗     ✗      ✗
+Blaster (USA) (Proto)                                              -      -     -      ✗
+Blue Print (USA)                                                   -      -     -      -
+Blue Print (USA)[80033]                                            ✗      ✗     ✗      ✗
+Blue Print (USA)[b2][80033]                                        ✗      ✗     ✗      ✗
+Blue Print (USA)[o2][80033]                                        ✗      ✗     ✗      ✗
+Blue Print (USA)[o][80033]                                         ✗      ✗     ✗      ✗
+Boogie (USA) (Proto)                                               ✗      ✗     ✗      ✗
+Boogie (USA) (Proto)[o2]                                           ✗      ✗     ✗      ✗
+Boogie (USA) (Proto)[o]                                            ✗      ✗     ✗      ✗
+Bounty Bob Strikes Back! (USA)                                     -      -     -      ✗
+Buck Rogers - Planet of Zoom (USA)                                 -      -     -      ✗
+Buck Rogers - Planet of Zoom (USA)[005-02]                         ✗      ✗     ✗      ✗
+Buck Rogers - Planet of Zoom (USA)[b2][005-02]                     ✗      ✗     ✗      ✗
+Carol Shaw's River Raid (USA)                                      -      -     -      -
+Castle Blast (USA)                                                 ✗      ✗     ✗      ✗
+Castle Crisis (USA)                                                ✗      ✗     ✗      ✗
+Centipede (USA)                                                    -      -     -      ✗
+Centipede (USA)[CX5212]                                            ✗      ✗     ✗      ✗
+Choplifter! (USA)                                                  -      -     -      -
+Choplifter! (USA)[CX5253]                                          ✗      ✗     ✗      ✗
+Choplifter! (USA)[o][CX5253]                                       ✗      ✗     ✗      ✗
+Congo Bongo (USA)                                                  -      -     -      ✗
+Congo Bongo (USA)[006-02]                                          ✗      ✗     ✗      ✗
+Congo Bongo (USA)[b2][006-02]                                      ✗      ✗     ✗      ✗
+Countermeasure (USA)                                               -      -     -      -
+Countermeasure (USA)[CX5210]                                       ✗      ✗     ✗      ✗
+Countermeasure (USA)[o][CX5210]                                    ✗      ✗     ✗      ✗
+David Crane's Pitfall II - Lost Caverns (USA)                      -      -     -      -
+David Crane's Pitfall II - Lost Caverns (USA)[FZ-011]              ✗      ✗     ✗      ✗
+David Crane's Pitfall II - Lost Caverns (USA)[o][FZ-011]           ✗      ✗     ✗      ✗
+Defender (USA)                                                     -      -     -      ✗
+Defender (USA)[CX5218]                                             ✗      ✗     ✗      ✗
+Defender (USA)[b2][CX5218]                                         ✗      ✗     ✗      ✗
+Dig Dug (USA)                                                      -      -     -      -
+Dig Dug (USA)[CX5211]                                              ✗      ✗     ✗      ✗
+Dreadnaught Factor, The (USA)                                      -      -     -      -
+Dreadnaught Factor, The (USA)[FZ-005]                              ✗      ✗     ✗      ✗
+Dreadnaught Factor, The (USA)[o][FZ-005]                           ✗      ✗     ✗      ✗
+Final Legacy (USA) (Proto)                                         -      -     -      ✗
+Final Legacy (USA) (Proto)[CX5256]                                 ✗      ✗     ✗      ✗
+Frisky Tom (USA) (Proto)                                           -      -     -      ✗
+Frogger (USA)                                                      -      -     -      -
+Frogger (USA)[9530]                                                ✗      ✗     ✗      ✗
+Frogger (USA)[b2][9530]                                            ✗      ✗     ✗      ✗
+Frogger (USA)[o2][9530]                                            ✗      ✗     ✗      ✗
+Frogger (USA)[o][9530]                                             ✗      ✗     ✗      ✗
+Frogger II - Threeedeep! (USA)                                     -      -     -      -
+Frogger II - Threeedeep! (USA)[9090]                               ✗      ✗     ✗      ✗
+Frogger II - Threeedeep! (USA)[o2][9090]                           ✗      ✗     ✗      ✗
+Frogger II - Threeedeep! (USA)[o][9090]                            ✗      ✗     ✗      ✗
+Galaxian (USA)                                                     -      -     -      -
+Galaxian (USA)[CX5206]                                             ✗      ✗     ✗      ✗
+Galaxian (USA)[o2][CX5206]                                         ✗      ✗     ✗      ✗
+Galaxian (USA)[o][CX5206]                                          ✗      ✗     ✗      ✗
+Gorf (USA)                                                         -      -     -      -
+Gorf (USA)[80013]                                                  ✗      ✗     ✗      ✗
+Gorf [o][80013]                                                    ✗      ✗     ✗      ✗
+Gremlins (USA)                                                     -      -     -      -
+Gremlins (USA)[CX5257]                                             ✗      ✗     ✗      ✗
+Gremlins (USA)[b2][CX5257]                                         ✗      ✗     ✗      ✗
+Gyruss (USA)                                                       -      -     -      -
+Gyruss (USA) (Rev 1)                                               ✗      -     ✗      ✗
+Gyruss (USA)[9080]                                                 ✗      ✗     ✗      ✗
+H.E.R.O. (USA)                                                     -      -     -      -
+H.E.R.O. (USA)[FZ-007]                                             ✗      ✗     ✗      ✗
+H.E.R.O. (USA)[o][FZ-007]                                          ✗      ✗     ✗      ✗
+James Bond 007 (USA)                                               -      -     -      -
+James Bond 007 (USA)[9100]                                         ✗      ✗     ✗      ✗
+James Bond 007 (USA)[b2][9100]                                     ✗      ✗     ✗      ✗
+Joust (USA)                                                        -      -     -      -
+Joust (USA)[CX5240]                                                ✗      ✗     ✗      ✗
+Jr. Pac-Man (USA) (Proto)                                          -      -     -      ✗
+Jr. Pac-Man (USA) (Proto)[CX5251]                                  ✗      ✗     ✗      ✗
+Jr. Pac-Man (USA) (Proto)[b2][CX5251]                              ✗      ✗     ✗      ✗
+Jungle Hunt (USA)                                                  -      -     -      -
+Jungle Hunt (USA)[CX5222]                                          ✗      ✗     ✗      ✗
+K-Razy Shoot-Out (USA)                                             -      -     -      -
+K-Razy Shootout (USA)[80503]                                       ✗      ✗     ✗      ✗
+K-Razy Shootout (USA)[o][80503]                                    ✗      ✗     ✗      ✗
+Kaboom! (USA)                                                      -      -     -      -
+Kaboom! (USA)[FZ-001]                                              ✗      ✗     ✗      ✗
+Kaboom! (USA)[o][FZ-001]                                           ✗      ✗     ✗      ✗
+Kangaroo (USA)                                                     -      -     -      -
+Kangaroo (USA)[CX5229]                                             ✗      ✗     ✗      ✗
+Kangaroo (USA)[b2][CX5229]                                         ✗      ✗     ✗      ✗
+Kangaroo (USA)[o][CX5229]                                          ✗      ✗     ✗      ✗
+Keystone Kapers (USA)                                              -      -     -      -
+Keystone Kapers (USA)[FZ-006]                                      ✗      ✗     ✗      ✗
+Keystone Kapers (USA)[o][FZ-006]                                   ✗      ✗     ✗      ✗
+Koffi - Yellow Kopter (USA)                                        ✗      ✗     ✗      ✗
+Last Starfighter, The (USA) (Proto)                                -      -     -      ✗
+Last Starfighter, The (USA) (Proto)[CX5260]                        ✗      ✗     ✗      ✗
+Looney Tunes Hotel (USA) (Proto)                                   -      -     -      ✗
+Looney Tunes Hotel (USA) (Proto)[b2]                               ✗      ✗     ✗      ✗
+Looney Tunes Hotel (USA) (Proto)[b3]                               ✗      ✗     ✗      ✗
+Mario Bros. (USA)                                                  -      -     -      -
+Mario Bros. (USA)[CX5247]                                          ✗      ✗     ✗      ✗
+Meebzork (USA) (Proto)                                             -      -     -      ✗
+MegaMania (USA)                                                    -      -     -      -
+Megamania (USA)[FZ-003]                                            ✗      ✗     ✗      ✗
+Megamania (USA)[o][FZ-003]                                         ✗      ✗     ✗      ✗
+Meteorites (USA)                                                   -      -     -      -
+Meteorites (USA)[o]                                                ✗      ✗     ✗      ✗
+Micro-gammon SB (USA) (Proto)                                      ✗      ✗     ✗      ✗
+Microgammon SB (USA) (Proto)                                       -      -     -      ✗
+Millipede (USA) (Proto)                                            -      -     -      ✗
+Millipede (USA) (Proto)[CX5248]                                    ✗      ✗     ✗      ✗
+Millipede (USA) (Proto)[o][CX5248]                                 ✗      ✗     ✗      ✗
+Miner 2049er (USA)[BF1912]                                         ✗      ✗     ✗      ✗
+Miner 2049er (USA)[o][BF1912]                                      ✗      ✗     ✗      ✗
+Miner 2049er Starring Bounty Bob (USA)                             -      -     -      -
+Miniature Golf (USA) (Proto)                                       -      -     -      ✗
+Miniature Golf (USA) (Proto)[CX5230]                               ✗      ✗     ✗      ✗
+Missile Command (Europe) (Proto)                                   ✗      ✗     ✗      ✗
+Missile Command (USA)                                              -      -     -      -
+Missile Command (USA)[CX5202]                                      ✗      ✗     ✗      ✗
+Missile Command (USA)[b2][CX5202]                                  ✗      ✗     ✗      ✗
+Missile Command (USA)[b3][CX5202]                                  ✗      ✗     ✗      ✗
+Montezuma's Revenge (USA)[9460]                                    ✗      ✗     ✗      ✗
+Montezuma's Revenge - Featuring Panama Joe (USA)                   -      -     -      -
+Moon Patrol (USA)                                                  -      -     -      -
+Moon Patrol (USA)[CX5241]                                          ✗      ✗     ✗      ✗
+Moon Patrol (USA)[o][CX5241]                                       ✗      ✗     ✗      ✗
+Mountain King (USA)                                                -      -     -      -
+Mountain King (USA)[80083]                                         ✗      ✗     ✗      ✗
+Mountain King (USA)[o2][80083]                                     ✗      ✗     ✗      ✗
+Mountain King (USA)[o][80083]                                      ✗      ✗     ✗      ✗
+Mr. Do!'s Castle (USA)                                             -      -     -      -
+Mr. Do!'s Castle (USA)[9420]                                       ✗      ✗     ✗      ✗
+Mr. Do!'s Castle (USA)[b2][9420]                                   ✗      ✗     ✗      ✗
+Mr. Do!'s Castle (USA)[o][9420]                                    ✗      ✗     ✗      ✗
+Ms. Pac-Man (USA)                                                  -      -     -      -
+Ms. Pac-Man (USA)[CX5243]                                          ✗      ✗     ✗      ✗
+Ms. Pac-Man (USA)[b2][CX5243]                                      ✗      ✗     ✗      ✗
+Pac-Man (USA)                                                      -      -     -      ✗
+Pac-Man (USA)[CX5208]                                              ✗      ✗     ✗      ✗
+Pac-Man (USA)[b2][CX5208]                                          ✗      ✗     ✗      ✗
+Pac-Man (USA)[b3][CX5208]                                          ✗      ✗     ✗      ✗
+Pengo (USA)                                                        -      -     -      -
+Pengo (USA)[CX5236]                                                ✗      ✗     ✗      ✗
+Pitfall! (USA)                                                     -      -     -      -
+Pitfall! (USA)[FZ-004]                                             ✗      ✗     ✗      ✗
+Pitfall! (USA)[o][FZ-004]                                          ✗      ✗     ✗      ✗
+Pole Position (USA)                                                -      -     -      -
+Pole Position (USA) (Proto)[133-05]                                ✗      ✗     ✗      ✗
+Pole Position (USA)[CX5217]                                        ✗      ✗     ✗      ✗
+Popeye (USA)                                                       -      -     -      -
+Popeye (USA)[9510]                                                 ✗      ✗     ✗      ✗
+Q-bert (USA)                                                       -      -     -      -
+Q-bert (USA)[9500]                                                 ✗      ✗     ✗      ✗
+Q-bert (USA)[o][9500]                                              ✗      ✗     ✗      ✗
+QIX (USA)                                                          -      -     -      -
+Qix (USA)[CX5221]                                                  ✗      ✗     ✗      ✗
+Qix (USA)[b2][CX5221]                                              ✗      ✗     ✗      ✗
+Quest for Quintana Roo (USA)                                       -      -     -      -
+Quest for Quintana Roo (USA)[1603]                                 ✗      ✗     ✗      ✗
+Quest for Quintana Roo (USA)[o][1603]                              ✗      ✗     ✗      ✗
+RealSports Baseball (USA)                                          -      -     -      -
+RealSports Baseball (USA)[CX5209]                                  ✗      ✗     ✗      ✗
+RealSports Baseball (USA)[o][CX5209]                               ✗      ✗     ✗      ✗
+RealSports Basketball (USA) (Proto)                                ✗      ✗     ✗      ✗
+RealSports Basketball (USA) (Proto)[CX5219]                        ✗      ✗     ✗      ✗
+RealSports Basketball (USA)[CX5219]                                ✗      ✗     ✗      ✗
+RealSports Football (USA)                                          -      -     -      -
+RealSports Football (USA)[CX5207]                                  ✗      ✗     ✗      ✗
+RealSports Soccer (USA)                                            -      -     -      -
+RealSports Soccer (USA)[CX5213]                                    ✗      ✗     ✗      ✗
+RealSports Soccer (USA)[b2][CX5213]                                ✗      ✗     ✗      ✗
+RealSports Tennis (USA)                                            -      -     -      -
+RealSports Tennis (USA)[CX5214]                                    ✗      ✗     ✗      ✗
+Rescue on Fractalus (USA)[CX5254]                                  ✗      ✗     ✗      ✗
+Rescue on Fractalus! (USA)                                         -      -     -      ✗
+River Raid (USA)[FZ-002]                                           ✗      ✗     ✗      ✗
+River Raid (USA)[b2][FZ-002]                                       ✗      ✗     ✗      ✗
+River Raid (USA)[o][FZ-002]                                        ✗      ✗     ✗      ✗
+Road Runner (USA) (Proto)                                          -      -     -      ✗
+Road Runner (USA) (Proto)[CX5242]                                  ✗      ✗     ✗      ✗
+Robotron - 2084 (USA)[CX5225]                                      ✗      ✗     ✗      ✗
+Robotron - 2084 (USA)[o2][CX5225]                                  ✗      ✗     ✗      ✗
+Robotron - 2084 (USA)[o][CX5225]                                   ✗      ✗     ✗      ✗
+Robotron 2084 (USA)                                                -      -     -      -
+Sinistar                                                           ✗      ✗     ✗      ✗
+Space Dungeon (USA)                                                -      -     -      -
+Space Dungeon (USA)[CX5232]                                        ✗      ✗     ✗      ✗
+Space Invaders (USA)                                               -      -     -      -
+Space Invaders (USA)[CX5204]                                       ✗      ✗     ✗      ✗
+Space Invaders (USA)[o2][CX5204]                                   ✗      ✗     ✗      ✗
+Space Invaders (USA)[o][CX5204]                                    ✗      ✗     ✗      ✗
+Space Shuttle - A Journey Into Space (USA)                         -      -     -      ✗
+Space Shuttle - A Journey Into Space (USA)[FZ-012]                 ✗      ✗     ✗      ✗
+Space Shuttle - A Journey Into Space (USA)[o][FZ-012]              ✗      ✗     ✗      ✗
+Spitfire (USA) (Proto)                                             -      -     -      ✗
+Sport Goofy (USA) (Proto)                                          -      -     -      ✗
+Sport Goofy (USA) (Proto)[CX5237]                                  ✗      ✗     ✗      ✗
+Sport Goofy (USA) (Proto)[b2][CX5237]                              ✗      ✗     ✗      ✗
+Sport Goofy (USA) (Proto)[b3][CX5237]                              ✗      ✗     ✗      ✗
+Star Raiders (Europe) (Proto)                                      ✗      ✗     ✗      ✗
+Star Raiders (USA)                                                 -      -     -      -
+Star Raiders (USA)[CX5202]                                         ✗      ✗     ✗      ✗
+Star Raiders (USA)[b2][CX5202]                                     ✗      ✗     ✗      ✗
+Star Raiders (USA)[b3][CX5202]                                     ✗      ✗     ✗      ✗
+Star Trek - Strategic Operations Simulator (USA)                   -      -     -      ✗
+Star Trek - Strategic Operations Simulator (USA)[004-02]           ✗      ✗     ✗      ✗
+Star Wars - Return of the Jedi - Death Star Battle (USA)           -      -     -      -
+Star Wars - Return of the Jedi - Death Star Battle (USA)[9060]     ✗      ✗     ✗      ✗
+Star Wars - The Arcade Game (USA)                                  -      -     -      ✗
+Star Wars - The Arcade Game (USA)[9040]                            ✗      ✗     ✗      ✗
+Stargate (USA) (Proto 1)                                           ✗      ✗     ✗      ✗
+Stargate (USA) (Proto 2)                                           ✗      ✗     ✗      ✗
+Stargate (USA) (Proto 3)                                           ✗      ✗     ✗      ✗
+Stargate (USA) (Proto)[CX5252]                                     ✗      ✗     ✗      ✗
+Super Breakout (USA)                                               -      -     -      -
+Super Breakout (USA)[CX5203]                                       ✗      ✗     ✗      ✗
+Super Breakout (USA)[o2][CX5203]                                   ✗      ✗     ✗      ✗
+Super Breakout (USA)[o][CX5203]                                    ✗      ✗     ✗      ✗
+Super Cobra (USA)                                                  -      -     -      -
+Super Cobra (USA)[9550]                                            ✗      ✗     ✗      ✗
+Super Cobra (USA)[o2][9550]                                        ✗      ✗     ✗      ✗
+Super Cobra (USA)[o][9550]                                         ✗      ✗     ✗      ✗
+Super Pac-Man (USA) (Proto)                                        -      -     -      ✗
+Super Pac-Man (USA) (Proto) (Final)                                ✗      -     ✗      ✗
+Tempest                                                            ✗      ✗     ✗      ✗
+Tempest (USA) (AtariAge)                                           ✗      -     ✗      ✗
+Tempest (USA) (Proto)                                              -      -     -      ✗
+Tempest (USA) (Proto)[CX5220]                                      ✗      ✗     ✗      ✗
+Touch Pad Game (USA) (Proto)                                       ✗      ✗     ✗      ✗
+Track and Field (USA) (Proto)                                      -      -     -      ✗
+Track and Field (USA) (Proto)[CX5258]                              ✗      ✗     ✗      ✗
+Track and Field (USA) (Proto)[o][CX5258]                           ✗      ✗     ✗      ✗
+Vanguard (USA)                                                     -      -     -      -
+Vanguard (USA)[CX5216]                                             ✗      ✗     ✗      ✗
+Wizard of Wor (USA)                                                -      -     -      -
+Wizard of Wor (USA)[80003]                                         ✗      ✗     ✗      ✗
+Wizard of Wor (USA)[o][80003]                                      ✗      ✗     ✗      ✗
+Xari Arena (USA) (Proto)                                           -      -     -      ✗
+Xari Arena (USA) (Proto)[later]                                    ✗      ✗     ✗      ✗
+Xari Arena (USA) (Proto)[o][b2]                                    ✗      ✗     ✗      ✗
+Xevious (USA) (Proto)                                              -      -     -      ✗
+Xevious (USA) (Proto) (Unknown)                                    ✗      ✗     ✗      ✗
+Xevious (USA) (Proto)[CX5246]                                      ✗      ✗     ✗      ✗
+Yellow Submarine (USA) (Proto)                                     ✗      ✗     ✗      ✗
+Yellow Submarine (USA) (Proto)[o2]                                 ✗      ✗     ✗      ✗
+Yellow Submarine (USA) (Proto)[o]                                  ✗      ✗     ✗      ✗
+Zaxxon (USA)                                                       -      -     -      -
+Zaxxon (USA)[008-02]                                               ✗      ✗     ✗      ✗
+Zenji (USA)                                                        -      -     -      -
+Zenji (USA)[FZ-010]                                                ✗      ✗     ✗      ✗
+Zenji (USA)[o][FZ-010]                                             ✗      ✗     ✗      ✗
+Zone Ranger (USA)                                                  -      -     -      -
+Zone Ranger (USA)[FZ-101]                                          ✗      ✗     ✗      ✗
+Zone Ranger (USA)[o][FZ-101]                                       ✗      ✗     ✗      ✗

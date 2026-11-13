@@ -1,18 +1,19 @@
 Nintendo - Nintendo 64DD Missing
 
-Boxarts  10/10  100.00%
-Snaps     7/10   70.00%
-Titles    7/10   70.00%
-Total    24/30   80.00%
+Boxarts   8/10  80.00%
+Snaps     7/10  70.00%
+Titles    7/10  70.00%
+Logos     7/10  70.00%
+Total    29/40  72.50%
 
-Name                                                     Boxart  Snap  Title
-Dezaemon DD (Japan) (Proto)                                 -      ✗     ✗
-F-Zero X - Expansion Kit (Japan)                            -      -     -
-Kyojin no Doshin (Japan)                                    -      -     -
-Mario Artist - Communication Kit (Japan)                    -      -     -
-Mario Artist - Paint Studio (Japan)                         -      -     -
-Mario Artist - Paint Studio (Japan) (Beta) (1999-02-11)     -      ✗     ✗
-Mario Artist - Polygon Studio (Japan)                       -      -     -
-Mario Artist - Talent Studio (Japan)                        -      -     -
-SimCity 64 (Japan)                                          -      -     -
-Super Mario 64 - Disk Version (Japan) (Proto)               -      ✗     ✗
+Name                                                         Boxart  Snap  Title  Logo
+Dezaemon DD (Japan) (Proto) (1998-02-23T192425) (Expansion)     ✗      ✗     ✗      ✗
+Dezaemon DD (Japan) (Proto) (Expansion)                         ✗      ✗     ✗      ✗
+F-Zero X - Expansion Kit (Japan)                                -      -     -      -
+Kyojin no Doshin (Japan)                                        -      -     -      -
+Mario Artist - Communication Kit (Japan)                        -      -     -      -
+Mario Artist - Paint Studio (Japan)                             -      -     -      -
+Mario Artist - Polygon Studio (Japan)                           -      -     -      -
+Mario Artist - Talent Studio (Japan)                            -      -     -      -
+SimCity 64 (Japan)                                              -      -     -      -
+Super Mario 64 - Disk Version (Japan) (Proto)                   -      ✗     ✗      ✗
