@@ -554,6 +554,229 @@ function staleReports(fileNames, systems) {
 	})
 }
 
+// DAT files that set game names, in the order the .rdb build reads them. Later files win,
+// so dat/ takes precedence over metadat/. See libretro-super's libretro-build-database.sh.
+const NAME_SOURCES = [
+	'metadat/{system}.dat',
+	'metadat/goodtools/{system}.dat',
+	'metadat/headered/{system}.dat',
+	'metadat/hacks/{system}.dat',
+	'metadat/homebrew/{system}.dat',
+	'metadat/mame-nonmerged/{system}.dat',
+	'metadat/mame-split/{system}.dat',
+	'metadat/mame-member/{system}.dat',
+	'metadat/mame/{system}.dat',
+	'metadat/fbneo-merged/{system}.dat',
+	'metadat/fbneo-split/{system}.dat',
+	'metadat/fbneo-member/{system}.dat',
+	'metadat/tosec/{system}.dat',
+	'metadat/libretro-dats/{system}.dat',
+	'metadat/redump/{system}.dat',
+	'metadat/no-intro/{system}.dat',
+	'metadat/lost-level-archive/{system}.dat',
+	'dat/{system}.dat'
+]
+
+// Systems RetroArch matches by serial rather than CRC.
+const SERIAL_SYSTEMS = new Set([
+	'Microsoft - Xbox 360',
+	'Nintendo - GameCube',
+	'Nintendo - Nintendo Switch',
+	'Nintendo - Wii',
+	'Nintendo - Wii U',
+	'Sega - Dreamcast',
+	'Sega - Mega-CD - Sega CD',
+	'Sega - Naomi',
+	'Sega - Naomi 2',
+	'Sega - Saturn',
+	'Sony - PlayStation',
+	'Sony - PlayStation 2',
+	'Sony - PlayStation 3',
+	'Sony - PlayStation Portable',
+	'Sony - PlayStation Vita'
+])
+
+/**
+ * Returns whether a system's games are matched by serial or by crc.
+ */
+function matchKey(system) {
+	return SERIAL_SYSTEMS.has(system) ? 'serial' : 'crc'
+}
+
+/**
+ * Maps each CRC (uppercased) or serial to the game name RetroArch shows.
+ *
+ * dats is an array of parsed DAT files in NAME_SOURCES order, so later files win. Games
+ * without a name, like the metadata-only DATs, are skipped.
+ */
+function gameNames(dats, key = 'crc') {
+	let names = new Map()
+	for (let games of dats) {
+		for (let game of games || []) {
+			if (!game.name) {
+				continue
+			}
+			let keys = []
+			if (key == 'serial' && game.serial) {
+				keys.push(game.serial)
+			}
+			for (let rom of game.entries || []) {
+				if (rom[key]) {
+					keys.push(rom[key])
+				}
+			}
+			for (let value of keys) {
+				names.set(key == 'crc' ? value.toUpperCase() : value, game.name)
+			}
+		}
+	}
+	return names
+}
+
+/**
+ * Returns { key, from, to } for every key whose game name changed between two gameNames() maps.
+ */
+function renamedGames(oldNames, newNames) {
+	let renames = []
+	for (let [key, from] of oldNames) {
+		let to = newNames.get(key)
+		if (to !== undefined && to != from) {
+			renames.push({ key: key, from: from, to: to })
+		}
+	}
+	return renames
+}
+
+/**
+ * Returns the { path, target } symlinks that give renamed games their thumbnails back.
+ *
+ * For each rename and thumbnail type, links Named_X/<new>.png to Named_X/<old>.png when the
+ * old image exists and the new one doesn't. When the old image is a symlink, the link points
+ * at its final target instead. Symlinks with an unknown target are linked to as they are, and
+ * broken ones are skipped. The target is relative to the link's folder.
+ */
+function thumbnailLinks(renames, index, symlinkTargets = {}) {
+	let entries = new Map((index || []).map((entry) => [entry.path, entry]))
+	let links = []
+	let added = new Set()
+
+	// Follows symlinks to the final file, or returns null when broken.
+	function resolve(file) {
+		let seen = new Set()
+		let entry = entries.get(file)
+		while (entry && entry.mode == '120000') {
+			let target = symlinkTargets[entry.sha]
+			if (target === undefined) {
+				return file
+			}
+			if (seen.has(file) || path.posix.isAbsolute(target)) {
+				return null
+			}
+			seen.add(file)
+			file = path.posix.normalize(path.posix.join(path.posix.dirname(file), target))
+			entry = entries.get(file)
+		}
+		return entry ? file : null
+	}
+
+	for (let rename of renames) {
+		let from = cleanGameName(rename.from)
+		let to = cleanGameName(rename.to)
+		if (from == to) {
+			continue
+		}
+		for (let dir of Object.values(THUMBNAIL_TYPES)) {
+			let link = `${dir}/${to}.png`
+			if (entries.has(link) || added.has(link)) {
+				continue
+			}
+			let target = resolve(`${dir}/${from}.png`)
+			if (!target || target == link) {
+				continue
+			}
+			added.add(link)
+			links.push({ path: link, target: path.posix.relative(dir, target) })
+		}
+	}
+	return links
+}
+
+/**
+ * Quotes a string for a POSIX shell.
+ */
+function shellQuote(value) {
+	return "'" + value.split("'").join("'\\''") + "'"
+}
+
+/**
+ * Renders a shell script that adds the thumbnailLinks() symlinks to a thumbnail repository.
+ *
+ * The links are added to the git index without needing the images, so it runs in a sparse,
+ * blobless clone.
+ */
+function linkScript(system, links) {
+	let repo = thumbnailRepo(system)
+	let lines = [
+		'#!/bin/sh',
+		`# Links ${system} thumbnails of games renamed in libretro-database to their new name.`,
+		'# Run inside a clone of the thumbnail repository, then commit:',
+		`#   git clone --filter=blob:none --sparse https://github.com/${THUMBNAILS_ORG}/${repo}.git`,
+		`#   cd ${repo} && sh "/path/to/${system}.sh" && git commit -m "Link renamed games"`,
+		'set -e',
+		'',
+		'# link <path> <target>',
+		'link() {',
+		'\tblob=$(printf \'%s\' "$2" | git hash-object -w --stdin)',
+		'\tgit update-index --add --cacheinfo "120000,$blob,$1"',
+		'\tgit update-index --skip-worktree "$1"',
+		'}',
+		''
+	]
+	for (let link of links) {
+		lines.push(`link ${shellQuote(link.path)} ${shellQuote(link.target)}`)
+	}
+	return lines.join('\n') + '\n'
+}
+
+// Files in each libretro-database revision, cached by revision.
+const revisionFiles = {}
+
+/**
+ * Parses the DAT files that name a system's games, in NAME_SOURCES order.
+ *
+ * Reads the libretro-database checkout, or the given git revision of it.
+ */
+async function readNameDats(system, revision = null) {
+	let database = path.join(__dirname, 'libretro-database')
+	if (revision && !revisionFiles[revision]) {
+		let result = await execFile('git', ['-C', database, 'ls-tree', '-r', '-z', '--name-only', revision, '--', 'dat', 'metadat'], { maxBuffer: 256 * 1024 * 1024 })
+		revisionFiles[revision] = new Set(result.stdout.split('\0').filter(Boolean))
+	}
+	let dats = []
+	for (let source of NAME_SOURCES) {
+		let file = source.replace('{system}', system)
+		// TODO: Fix the MAME.dat parsing.
+		if (file.indexOf('MAME.dat') >= 0) {
+			continue
+		}
+		let contents
+		if (revision) {
+			if (!revisionFiles[revision].has(file)) {
+				continue
+			}
+			contents = (await execFile('git', ['-C', database, 'show', `${revision}:${file}`], { maxBuffer: 1024 * 1024 * 1024 })).stdout
+		}
+		else if (exists(path.join(database, file))) {
+			contents = fs.readFileSync(path.join(database, file), 'utf8')
+		}
+		else {
+			continue
+		}
+		dats.push(await datfile.parse(contents, { ignoreHeader: true }))
+	}
+	return dats
+}
+
 module.exports = {
 	processSystem: processSystem,
 	writeReport: writeReport,
@@ -566,5 +789,11 @@ module.exports = {
 	getGameThumbnails: getGameThumbnails,
 	cleanGameName: cleanGameName,
 	staleReports: staleReports,
+	matchKey: matchKey,
+	gameNames: gameNames,
+	renamedGames: renamedGames,
+	thumbnailLinks: thumbnailLinks,
+	linkScript: linkScript,
+	readNameDats: readNameDats,
 	THUMBNAIL_TYPES: THUMBNAIL_TYPES
 }

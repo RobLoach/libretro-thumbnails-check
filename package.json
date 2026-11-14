@@ -6,10 +6,12 @@
   "main": "index.js",
   "scripts": {
     "report": "bin/libretro-thumbnails-check.js",
+    "links": "bin/libretro-thumbnails-links.js",
     "test": "node --test test/index.test.js"
   },
   "bin": {
-    "libretro-thumbnails-check": "./bin/libretro-thumbnails-check.js"
+    "libretro-thumbnails-check": "./bin/libretro-thumbnails-check.js",
+    "libretro-thumbnails-links": "./bin/libretro-thumbnails-links.js"
   },
   "author": "Rob Loach (http://robloach.net)",
   "license": "MIT",
