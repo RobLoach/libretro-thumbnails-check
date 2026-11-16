@@ -12,8 +12,15 @@ const {
 	getGameThumbnails,
 	findInvalidThumbnails,
 	writeReport,
-	staleReports
+	staleReports,
+	matchKey,
+	gameNames,
+	renamedGames,
+	thumbnailLinks,
+	linkScript
 } = require('..')
+const datfile = require('robloach-datfile')
+const { execFileSync } = require('child_process')
 
 // Builds a regular file tree entry.
 function file(filePath, size = 1000) {
@@ -315,4 +322,105 @@ test('staleReports handles a system whose name ends in Orphans', () => {
 	// Its reports aren't mistaken for the orphans of a system named "Test".
 	assert.deepStrictEqual(staleReports(files, ['Test']), ['Test Orphans Orphans.txt', 'Test Orphans Invalid.txt'])
 	assert.deepStrictEqual(staleReports(files, []), files)
+})
+
+test('matchKey uses serials for disc systems', () => {
+	assert.strictEqual(matchKey('Sony - PlayStation'), 'serial')
+	assert.strictEqual(matchKey('Nintendo - Game Boy'), 'crc')
+})
+
+test('gameNames lets later DATs override earlier ones, like dat/ over metadat/', async () => {
+	let metadat = await datfile.parse('game (\n\tname "Old Name (USA)"\n\trom ( name "a.gb" crc abcd1234 )\n)\ngame (\n\tname "Other (USA)"\n\trom ( name "b.gb" crc 11111111 )\n)\n')
+	let dat = await datfile.parse('game (\n\tname "New Name (USA)"\n\trom ( name "a.gb" crc ABCD1234 )\n)\n')
+	let names = gameNames([metadat, dat])
+	assert.strictEqual(names.get('ABCD1234'), 'New Name (USA)')
+	assert.strictEqual(names.get('11111111'), 'Other (USA)')
+	assert.strictEqual(names.size, 2)
+})
+
+test('gameNames skips games without a name', () => {
+	assert.strictEqual(gameNames([[{ comment: 'Game (USA)', entries: [{ crc: '9A024415' }] }]]).size, 0)
+})
+
+test('gameNames maps serials', () => {
+	let names = gameNames([[{ name: 'Game (Japan)', serial: 'SLPS-01204', entries: [{ crc: '8ACD8FB1' }] }]], 'serial')
+	assert.deepStrictEqual([...names], [['SLPS-01204', 'Game (Japan)']])
+})
+
+test('renamedGames compares CRCs case-insensitively', () => {
+	let oldNames = gameNames([[{ name: 'A (USA)', entries: [{ crc: 'abcd1234' }] }, { name: 'Gone', entries: [{ crc: '22222222' }] }, { name: 'Same', entries: [{ crc: '33333333' }] }]])
+	let newNames = gameNames([[{ name: 'A (USA, Europe)', entries: [{ crc: 'ABCD1234' }] }, { name: 'Same', entries: [{ crc: '33333333' }] }]])
+	assert.deepStrictEqual(renamedGames(oldNames, newNames), [{ key: 'ABCD1234', from: 'A (USA)', to: 'A (USA, Europe)' }])
+})
+
+test('thumbnailLinks links the new name to the old image in each folder', () => {
+	let links = thumbnailLinks([{ key: '1', from: 'Old', to: 'New' }], [
+		file('Named_Boxarts/Old.png'),
+		file('Named_Snaps/Old.png'),
+		file('Named_Snaps/New.png'),
+		file('Named_Logos/Other.png')
+	])
+	assert.deepStrictEqual(links, [{ path: 'Named_Boxarts/New.png', target: 'Old.png' }])
+})
+
+test('thumbnailLinks scrubs the names like RetroArch', () => {
+	let links = thumbnailLinks([
+		{ key: '1', from: 'Tom & Jerry: A', to: 'Tom & Jerry: B' },
+		{ key: '2', from: 'C?', to: 'C*' }
+	], [file('Named_Titles/Tom _ Jerry_ A.png'), file('Named_Titles/C_.png')])
+	assert.deepStrictEqual(links, [{ path: 'Named_Titles/Tom _ Jerry_ B.png', target: 'Tom _ Jerry_ A.png' }])
+})
+
+test('thumbnailLinks only adds each link once', () => {
+	let links = thumbnailLinks([
+		{ key: '1', from: 'A', to: 'New' },
+		{ key: '2', from: 'B', to: 'New' }
+	], [file('Named_Boxarts/A.png'), file('Named_Boxarts/B.png')])
+	assert.deepStrictEqual(links, [{ path: 'Named_Boxarts/New.png', target: 'A.png' }])
+})
+
+test('thumbnailLinks links to the final target of a symlink', () => {
+	let index = [
+		symlink('Named_Boxarts/Old.png', 'sha-old'),
+		symlink('Named_Boxarts/Middle.png', 'sha-middle'),
+		file('Named_Boxarts/Real.png'),
+		symlink('Named_Snaps/Old.png', 'sha-broken'),
+		symlink('Named_Titles/Old.png', 'sha-unknown'),
+		symlink('Named_Logos/Old.png', 'sha-loop')
+	]
+	let targets = {
+		'sha-old': 'Middle.png',
+		'sha-middle': '../Named_Boxarts/Real.png',
+		'sha-broken': 'Missing.png',
+		'sha-loop': 'Old.png'
+	}
+	assert.deepStrictEqual(thumbnailLinks([{ key: '1', from: 'Old', to: 'New' }], index, targets), [
+		{ path: 'Named_Boxarts/New.png', target: 'Real.png' },
+		// The target is unknown, so it links to the symlink itself.
+		{ path: 'Named_Titles/New.png', target: 'Old.png' }
+	])
+})
+
+test('thumbnailLinks handles a missing index', () => {
+	assert.deepStrictEqual(thumbnailLinks([{ key: '1', from: 'Old', to: 'New' }], null), [])
+})
+
+test('linkScript adds each link to the git index as a symlink', () => {
+	let script = linkScript('Nintendo - Game Boy', [{ path: "Named_Boxarts/Tom's Game.png", target: 'Old.png' }])
+	assert.ok(script.startsWith('#!/bin/sh\n'))
+	assert.ok(script.includes('git clone --filter=blob:none --sparse https://github.com/libretro-thumbnails/Nintendo_-_Game_Boy.git'))
+	assert.ok(script.includes('git update-index --add --cacheinfo "120000,$blob,$1"'))
+	assert.ok(script.endsWith("link 'Named_Boxarts/Tom'\\''s Game.png' 'Old.png'\n"))
+})
+
+test('linkScript runs in a git repository', (t) => {
+	let dir = fs.mkdtempSync(path.join(os.tmpdir(), 'links-test-'))
+	t.after(() => fs.rmSync(dir, { recursive: true, force: true }))
+	execFileSync('git', ['init', '--quiet', dir])
+	fs.writeFileSync(path.join(dir, 'links.sh'), linkScript('MrBoom', [{ path: "Named_Boxarts/Tom's & Game.png", target: 'Old Name.png' }]))
+	execFileSync('sh', ['links.sh'], { cwd: dir })
+	let entry = execFileSync('git', ['ls-files', '-s'], { cwd: dir, encoding: 'utf8' }).trim()
+	assert.match(entry, /^120000 [0-9a-f]+ 0\tNamed_Boxarts\/Tom's & Game.png$/)
+	let blob = entry.split(' ')[1]
+	assert.strictEqual(execFileSync('git', ['cat-file', 'blob', blob], { cwd: dir, encoding: 'utf8' }), 'Old Name.png')
 })

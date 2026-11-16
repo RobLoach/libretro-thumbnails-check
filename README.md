@@ -189,6 +189,26 @@ npm run report
 
 Pass `--system "<name>"`, once per system, to only check those systems, for example `npm run report -- --system "Atari - 2600" --system "MrBoom"`. The README table is then built from just those systems. The command exits with a non-zero code if any system's thumbnail list fails to fetch.
 
+## Renamed games
+
+When libretro-database renames a game, RetroArch looks for its thumbnails under the new name. To link them to the existing images, pass the libretro-database revision the thumbnails were last checked against:
+
+```
+git -C libretro-database fetch --unshallow
+npm run links -- --from <revision>
+```
+
+For each system, this maps every CRC (serial for disc systems) to its name at both revisions, with `dat/` taking precedence over `metadat/` like the `.rdb` build. For each renamed game and thumbnail folder where `<old>.png` exists and `<new>.png` doesn't, `<new>.png` becomes a relative symlink to `<old>.png`, or to its final target when it's a symlink itself. Old names are kept. Only systems with renamed games are fetched from GitHub. Pass `--system "<name>"` to only check some systems, and `--out <dir>` to change where the scripts go.
+
+The links are written to `out/links/<system>.sh`, a script that adds them to the git index without downloading any images. Run it inside a sparse clone of the system's thumbnail repository, then commit:
+
+```
+git clone --filter=blob:none --sparse https://github.com/libretro-thumbnails/<repo>.git
+cd <repo>
+sh "../libretro-thumbnails-check/out/links/<system>.sh"
+git commit -m "Link renamed games"
+```
+
 ## Tests
 
 ```
