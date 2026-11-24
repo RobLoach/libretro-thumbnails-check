@@ -40,36 +40,31 @@ var cleanGameName = batchreplace.mapReplacer({
 /**
  * Go through all games of a system, and check their thumbnails.
  */
-function processSystem(system) {
-	return new Promise(function (resolve, reject) {
-		var patterns = [
-			// Only report on No-Intro and custom DATs.
-			//'libretro-database/metadat/goodtools/' + system + '.dat',
-			//'libretro-database/metadat/libretro-dats/' + system + '.dat',
-			'libretro-database/metadat/mame/' + system + '.dat',
-			'libretro-database/metadat/mame-split/' + system + '.dat',
-			'libretro-database/metadat/mame-member/' + system + '.dat',
-			'libretro-database/metadat/redump/' + system + '.dat',
-			'libretro-database/metadat/tosec/' + system + '.dat',
-			'libretro-database/metadat/no-intro/' + system + '.dat',
-			'libretro-database/dat/' + system + '.dat'
-		]
-		globby(patterns, { cwd: __dirname, absolute: true }).then(function (paths) {
-			var promises = []
-			for (var i in paths) {
-				var file = paths[i]
-				// TODO: Fix the MAME.dat parsing.
-				if (file.indexOf('MAME.dat') < 0) {
-					promises.push(datfile.parseFile(file, {
-						ignoreHeader: true
-					}))
-				}
-			}
-			resolve(Promise.all(promises))
-		}).catch(function (err) {
-			reject(new Error(err))
-		})
-	})
+async function processSystem(system) {
+	var patterns = [
+		// Only report on No-Intro and custom DATs.
+		//'libretro-database/metadat/goodtools/' + system + '.dat',
+		//'libretro-database/metadat/libretro-dats/' + system + '.dat',
+		'libretro-database/metadat/mame/' + system + '.dat',
+		'libretro-database/metadat/mame-split/' + system + '.dat',
+		'libretro-database/metadat/mame-member/' + system + '.dat',
+		'libretro-database/metadat/redump/' + system + '.dat',
+		'libretro-database/metadat/tosec/' + system + '.dat',
+		'libretro-database/metadat/no-intro/' + system + '.dat',
+		'libretro-database/dat/' + system + '.dat'
+	]
+	var paths = await globby(patterns, { cwd: __dirname, absolute: true })
+	var promises = []
+	for (var i in paths) {
+		var file = paths[i]
+		// TODO: Fix the MAME.dat parsing.
+		if (file.indexOf('MAME.dat') < 0) {
+			promises.push(datfile.parseFile(file, {
+				ignoreHeader: true
+			}))
+		}
+	}
+	return Promise.all(promises)
 }
 
 /**

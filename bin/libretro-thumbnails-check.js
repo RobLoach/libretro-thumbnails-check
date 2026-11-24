@@ -41,12 +41,7 @@ function percent(count, total) {
 	return (total > 0 ? (count / total) * 100 : 0).toFixed(2)
 }
 
-glob('libretro-database/rdb/*.rdb', { cwd: root }, async function (err, files) {
-	if (err) {
-		console.error(err)
-		process.exit(1)
-	}
-
+async function main(files) {
 	if (onlySystems.length > 0) {
 		let known = new Set(files.map((file) => path.parse(file).name))
 		let unknown = onlySystems.filter((system) => !known.has(system))
@@ -86,25 +81,21 @@ glob('libretro-database/rdb/*.rdb', { cwd: root }, async function (err, files) {
 		let system = path.parse(file).name
 		tasks.add({
 			title: system + ' Index',
-			task: function(context) {
-				return new Promise(async function (resolve, reject) {
-					try {
-						indexes[system] = await fetchThumbnailIndex(system)
-					}
-					catch (error) {
-						failed[system] = `Index fetch failed: ${error.message}`
-						return reject(new Error(`${system}: ${failed[system]}`))
-					}
-					try {
-						symlinkTargets[system] = await fetchSymlinkTargets(system, indexes[system])
-						resolve()
-					}
-					catch (error) {
-						// Without the targets, broken symlinks just aren't reported.
-						console.warn(`${system}: Symlink fetch failed: ${error.message}`)
-						resolve()
-					}
-				})
+			task: async function(context) {
+				try {
+					indexes[system] = await fetchThumbnailIndex(system)
+				}
+				catch (error) {
+					failed[system] = `Index fetch failed: ${error.message}`
+					throw new Error(`${system}: ${failed[system]}`)
+				}
+				try {
+					symlinkTargets[system] = await fetchSymlinkTargets(system, indexes[system])
+				}
+				catch (error) {
+					// Without the targets, broken symlinks just aren't reported.
+					console.warn(`${system}: Symlink fetch failed: ${error.message}`)
+				}
 			}
 		})
 		tasks.add({
@@ -151,7 +142,7 @@ glob('libretro-database/rdb/*.rdb', { cwd: root }, async function (err, files) {
 			}
 		})
 	})
-	tasks.run().catch(function (err) {
+	return tasks.run().catch(function (err) {
 		// With exitOnError disabled, the context of the successful systems is still available.
 		if (err.errors && err.context) {
 			return err.context
@@ -219,8 +210,18 @@ glob('libretro-database/rdb/*.rdb', { cwd: root }, async function (err, files) {
 			}
 			process.exitCode = 1
 		}
-	}).catch(function (err) {
-		console.error(err)
+	})
+}
+
+glob('libretro-database/rdb/*.rdb', { cwd: root }, function (err, files) {
+	if (err) {
+		console.error(err.message)
+		process.exitCode = 1
+		return
+	}
+	// Any error escaping the run fails the process with its message.
+	main(files).catch(function (err) {
+		console.error(err && err.message ? err.message : err)
 		process.exitCode = 1
 	})
 })
