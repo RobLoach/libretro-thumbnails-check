@@ -1,5 +1,4 @@
 node_modules
 .tmp
-alias
 .cache
-versions
+out/links/

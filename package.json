@@ -2,7 +2,7 @@
   "name": "libretro-thumbnails-check",
   "private": true,
   "version": "0.2.1",
-  "description": "Checks consistancy of libretro-thumbnails",
+  "description": "Checks consistency of libretro-thumbnails",
   "main": "index.js",
   "scripts": {
     "report": "bin/libretro-thumbnails-check.js",

@@ -1,5 +1,4 @@
-default: .tmp libretro-database/dat/BIOS.dat out node_modules
-	#@node --stack-size=1000000000 index.js
+default: libretro-database/dat/BIOS.dat out node_modules
 	npm run report
 
 node_modules:
@@ -8,12 +7,9 @@ node_modules:
 out:
 	mkdir -p out
 
-.tmp:
-	mkdir -p .tmp
-
 libretro-database/dat/BIOS.dat:
 	git submodule init
 	git submodule update
 
 clean:
-	rm -rf .tmp out node_modules
+	rm -rf out node_modules
