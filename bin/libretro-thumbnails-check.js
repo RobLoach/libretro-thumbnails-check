@@ -113,8 +113,7 @@ async function main(files) {
 						for (var fileResultIndex in fileResult) {
 							var entries = fileResult[fileResultIndex]
 							for (var x in entries) {
-								let game = entries[x]
-								games.push(game.name)
+								games.push(entries[x])
 							}
 						}
 
@@ -125,9 +124,20 @@ async function main(files) {
 						let gameIndex = 0
 						// Loop through each game and fill in the thumbnail data.
 						for (gameIndex in games) {
-							gameName = cleanGameName(games[gameIndex])
+							let game = games[gameIndex]
+							gameName = cleanGameName(game.name)
 							if (!output[gameName]) {
 								output[gameName] = getGameThumbnails(thumbs, system, gameName)
+								// The DAT name and identifiers, for the JSON manifest.
+								output[gameName].name = game.name
+								let rom = (game.entries || []).find((entry) => entry.crc)
+								if (rom) {
+									output[gameName].crc = rom.crc.toUpperCase()
+								}
+								let serial = game.serial || ((game.entries || []).find((entry) => entry.serial) || {}).serial
+								if (serial) {
+									output[gameName].serial = serial
+								}
 							}
 						}
 						// Systems with no games are still reported, with zero counts.

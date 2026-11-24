@@ -82,10 +82,49 @@ function getGameThumbnails(thumbs, system, name) {
 }
 
 /**
+ * Returns the machine-readable thumbnail manifest of a system, as JSON with one game per line.
+ *
+ * Only games with a thumbnail are listed, keyed by their DAT name, from game.name or else the
+ * games key, with their crc and serial when known, and the THUMBNAIL_TYPES folders that have
+ * it. Their thumbnail file name is only given when it isn't the DAT name with .png.
+ */
+function manifest(system, games, hasRepo = true) {
+	let entries = {}
+	for (let key in games) {
+		let game = games[key] || {}
+		let thumbnails = Object.keys(THUMBNAIL_TYPES).filter((type) => game[type]).map((type) => THUMBNAIL_TYPES[type])
+		if (thumbnails.length == 0) {
+			continue
+		}
+		let name = game.name || key
+		let entry = {}
+		if (game.crc) {
+			entry.crc = game.crc
+		}
+		if (game.serial) {
+			entry.serial = game.serial
+		}
+		if (cleanGameName(key) != name) {
+			entry.file = cleanGameName(key) + '.png'
+		}
+		entry.thumbnails = thumbnails
+		entries[name] = sort(entry)
+	}
+	let lines = Object.keys(sort(entries)).map((name) => '\t\t' + JSON.stringify(name) + ': ' + JSON.stringify(entries[name]))
+	return '{\n' +
+		'\t"system": ' + JSON.stringify(system) + ',\n' +
+		'\t"repo": ' + JSON.stringify(hasRepo ? thumbnailRepo(system) : null) + ',\n' +
+		'\t"games": {' + (lines.length > 0 ? '\n' + lines.join(',\n') + '\n\t' : '') + '}\n' +
+		'}\n'
+}
+
+/**
  * Writes a system report containing the thumbnails.
  *
- * Pass hasRepo as false when the system has no thumbnail repository, and invalid as
- * the result of findInvalidThumbnails(). The report files are written to outDir.
+ * games maps each game's thumbnail name to the getGameThumbnails() flags, optionally
+ * with the name, crc and serial from the DAT for the JSON manifest. Pass hasRepo as false
+ * when the system has no thumbnail repository, and invalid as the result of
+ * findInvalidThumbnails(). The report files are written to outDir.
  */
 function writeReport(system, games, thumbs, hasRepo = true, invalid = {}, outDir = path.join(__dirname, 'out')) {
 	if (!exists(outDir)) {
@@ -175,6 +214,7 @@ function writeReport(system, games, thumbs, hasRepo = true, invalid = {}, outDir
 		}
 	}
 	fs.writeFileSync(path.join(outDir, system + '.txt'), output)
+	fs.writeFileSync(path.join(outDir, system + '.json'), manifest(system, games, hasRepo))
 
 	// Invalid thumbnails, grouped by reason.
 	let invalidOutput = ''
@@ -524,13 +564,17 @@ async function fetchSymlinkTargets(system, index) {
 
 /**
  * Returns the report file names, out of fileNames, that don't belong to any of
- * the given systems. A file belongs to a system when its name without `.txt` is
- * the system, or the system followed by " Orphans" or " Invalid". Files that
- * aren't `.txt` are never returned.
+ * the given systems. A `.txt` file belongs to a system when its name without
+ * `.txt` is the system, or the system followed by " Orphans" or " Invalid". A
+ * `.json` file belongs to a system when its name without `.json` is the system.
+ * Files that aren't `.txt` or `.json` are never returned.
  */
 function staleReports(fileNames, systems) {
 	let known = new Set(systems)
 	return fileNames.filter((fileName) => {
+		if (fileName.endsWith('.json')) {
+			return !known.has(fileName.slice(0, -'.json'.length))
+		}
 		if (!fileName.endsWith('.txt')) {
 			return false
 		}

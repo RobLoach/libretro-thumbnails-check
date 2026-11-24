@@ -297,22 +297,68 @@ test('writeReport marks systems without a thumbnail repository', (t) => {
 	assert.ok(output.includes('Error parsing dat files.'))
 })
 
-test('staleReports removes the reports of unknown systems', () => {
-	let files = ['Atari - 8-bit.txt', 'Atari - 8-bit Orphans.txt', 'Atari - 8-bit Invalid.txt', 'Atari - 2600.txt']
-	assert.deepStrictEqual(staleReports(files, ['Atari - 2600']), ['Atari - 8-bit.txt', 'Atari - 8-bit Orphans.txt', 'Atari - 8-bit Invalid.txt'])
+test('writeReport writes a sorted JSON manifest with the DAT names and identifiers', (t) => {
+	let outDir = fs.mkdtempSync(path.join(os.tmpdir(), 'libretro-thumbnails-check-test-'))
+	t.after(() => fs.rmSync(outDir, { recursive: true, force: true }))
+
+	let games = {
+		'Tom _ Jerry': { boxart: true, snap: true, name: 'Tom & Jerry', crc: 'ABCD1234' },
+		'B': { logo: true, name: 'B', crc: '11111111', serial: 'SLUS-00001' },
+		'A': {}
+	}
+	writeReport('Test - System', games, new Set(), true, {}, outDir)
+	let contents = fs.readFileSync(path.join(outDir, 'Test - System.json'), 'utf8')
+	assert.deepStrictEqual(JSON.parse(contents), {
+		system: 'Test - System',
+		repo: 'Test_-_System',
+		games: {
+			'B': { crc: '11111111', serial: 'SLUS-00001', thumbnails: ['Named_Logos'] },
+			'Tom & Jerry': { crc: 'ABCD1234', file: 'Tom _ Jerry.png', thumbnails: ['Named_Boxarts', 'Named_Snaps'] }
+		}
+	})
+	// One game per line, in sorted order, for diff-stable output.
+	let lines = contents.split('\n')
+	assert.strictEqual(lines.length, 9)
+	assert.ok(lines[4].startsWith('\t\t"B": {'))
+	assert.strictEqual(lines[5], '\t\t"Tom & Jerry": {"crc":"ABCD1234","file":"Tom _ Jerry.png","thumbnails":["Named_Boxarts","Named_Snaps"]}')
+	// The txt report is unchanged by the extra game fields.
+	assert.match(fs.readFileSync(path.join(outDir, 'Test - System.txt'), 'utf8'), /Tom _ Jerry +- +- +✗ +✗/)
 })
 
-test('staleReports keeps a known system and its Orphans and Invalid reports', () => {
-	let files = ['Atari - 2600.txt', 'Atari - 2600 Orphans.txt', 'Atari - 2600 Invalid.txt']
+test('writeReport writes no games and a null repo for systems without a thumbnail repository', (t) => {
+	let outDir = fs.mkdtempSync(path.join(os.tmpdir(), 'libretro-thumbnails-check-test-'))
+	t.after(() => fs.rmSync(outDir, { recursive: true, force: true }))
+
+	writeReport('Philips - Videopac+', { 'A': { name: 'A', crc: '11111111' } }, new Set(), false, {}, outDir)
+	assert.deepStrictEqual(JSON.parse(fs.readFileSync(path.join(outDir, 'Philips - Videopac+.json'), 'utf8')), {
+		system: 'Philips - Videopac+',
+		repo: null,
+		games: {}
+	})
+	writeReport('Empty', {}, new Set(), false, {}, outDir)
+	assert.deepStrictEqual(JSON.parse(fs.readFileSync(path.join(outDir, 'Empty.json'), 'utf8')), { system: 'Empty', repo: null, games: {} })
+})
+
+test('staleReports removes the reports of unknown systems', () => {
+	let files = ['Atari - 8-bit.txt', 'Atari - 8-bit Orphans.txt', 'Atari - 8-bit Invalid.txt', 'Atari - 8-bit.json', 'Atari - 2600.txt', 'Atari - 2600.json']
+	assert.deepStrictEqual(staleReports(files, ['Atari - 2600']), ['Atari - 8-bit.txt', 'Atari - 8-bit Orphans.txt', 'Atari - 8-bit Invalid.txt', 'Atari - 8-bit.json'])
+})
+
+test('staleReports keeps a known system and its Orphans, Invalid and JSON reports', () => {
+	let files = ['Atari - 2600.txt', 'Atari - 2600 Orphans.txt', 'Atari - 2600 Invalid.txt', 'Atari - 2600.json']
 	assert.deepStrictEqual(staleReports(files, ['Atari - 2600']), [])
+})
+
+test('staleReports only keeps the JSON manifest of the system itself', () => {
+	assert.deepStrictEqual(staleReports(['Atari - 2600 Orphans.json', 'Atari - 2600.json'], ['Atari - 2600']), ['Atari - 2600 Orphans.json'])
 })
 
 test('staleReports only strips the Orphans and Invalid suffixes', () => {
 	assert.deepStrictEqual(staleReports(['Atari - 2600 Other.txt', 'Atari - 2600 Orphans Invalid.txt'], ['Atari - 2600']), ['Atari - 2600 Other.txt', 'Atari - 2600 Orphans Invalid.txt'])
 })
 
-test('staleReports ignores files that are not .txt', () => {
-	assert.deepStrictEqual(staleReports(['Atari - 8-bit.png', 'Atari - 8-bit.txt.bak', '.gitkeep'], ['Atari - 2600']), [])
+test('staleReports ignores files that are not .txt or .json', () => {
+	assert.deepStrictEqual(staleReports(['Atari - 8-bit.png', 'Atari - 8-bit.txt.bak', 'Atari - 8-bit.json.bak', '.gitkeep'], ['Atari - 2600']), [])
 })
 
 test('staleReports handles a system whose name ends in Orphans', () => {
