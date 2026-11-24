@@ -3,7 +3,6 @@
 
 var fs = require('fs')
 var path = require('path')
-var glob = require('glob')
 var execFileSync = require('child_process').execFileSync
 var {
 	matchKey,
@@ -14,7 +13,8 @@ var {
 	readNameDats,
 	fetchThumbnailIndex,
 	fetchSymlinkTargets,
-	checkGitHubAuth
+	checkGitHubAuth,
+	listRdbFiles
 } = require('..')
 
 // Resolve all paths relative to the project root, not the working directory.
@@ -58,7 +58,7 @@ catch (error) {
 }
 
 (async function () {
-	let systems = glob.sync('libretro-database/rdb/*.rdb', { cwd: root }).map((file) => path.parse(file).name)
+	let systems = listRdbFiles(root).map((file) => path.parse(file).name)
 	if (onlySystems.length > 0) {
 		let unknown = onlySystems.filter((system) => !systems.includes(system))
 		if (unknown.length > 0) {

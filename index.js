@@ -7,12 +7,9 @@ var os = require('os')
 var childProcess = require('child_process')
 var execFileSync = childProcess.execFileSync
 var execFile = require('util').promisify(childProcess.execFile)
-var globby = require('globby')
 var datfile = require('robloach-datfile')
 var table = require('text-table')
-var batchreplace = require('batchreplace')
-var sort = require('sort-object-keys')
-var exists = require('fs-exists-sync')
+var exists = fs.existsSync
 
 // Thumbnail types, mapping each game report key to its libretro-thumbnails directory.
 const THUMBNAIL_TYPES = {
@@ -23,19 +20,20 @@ const THUMBNAIL_TYPES = {
 }
 
 // Construct the thumbnail cleaner.
-var cleanGameName = batchreplace.mapReplacer({
-	'&': '_',
-	'*': '_',
-	'/': '_',
-	':': '_',
-	'\`': '_',
-	'<': '_',
-	'>': '_',
-	'?': '_',
-	'\\': '_',
-	'|': '_',
-	'"': '_'
-})
+function cleanGameName(name) {
+	return name.replace(/[&*/:`<>?\\|"]/g, '_')
+}
+
+/**
+ * Returns a copy of the object with its keys sorted.
+ */
+function sort(object) {
+	var result = Object.create(null)
+	for (var key of Object.keys(object).sort()) {
+		result[key] = object[key]
+	}
+	return result
+}
 
 /**
  * Go through all games of a system, and check their thumbnails.
@@ -53,7 +51,7 @@ async function processSystem(system) {
 		'libretro-database/metadat/no-intro/' + system + '.dat',
 		'libretro-database/dat/' + system + '.dat'
 	]
-	var paths = await globby(patterns, { cwd: __dirname, absolute: true })
+	var paths = patterns.map((pattern) => path.join(__dirname, pattern)).filter((file) => exists(file))
 	var promises = []
 	for (var i in paths) {
 		var file = paths[i]
@@ -772,7 +770,30 @@ async function readNameDats(system, revision = null) {
 	return dats
 }
 
+/**
+ * Lists the libretro-database/rdb/*.rdb files under root, as paths relative to root
+ * sorted like glob did. Returns an empty list when the directory is missing.
+ */
+function listRdbFiles(root) {
+	var dir = 'libretro-database/rdb'
+	var names
+	try {
+		names = fs.readdirSync(path.join(root, dir))
+	}
+	catch (err) {
+		if (err.code === 'ENOENT' || err.code === 'ENOTDIR') {
+			return []
+		}
+		throw err
+	}
+	return names
+		.filter((name) => !name.startsWith('.') && name.endsWith('.rdb'))
+		.sort((a, b) => a.localeCompare(b, 'en'))
+		.map((name) => dir + '/' + name)
+}
+
 module.exports = {
+	listRdbFiles: listRdbFiles,
 	processSystem: processSystem,
 	writeReport: writeReport,
 	thumbnails: thumbnails,

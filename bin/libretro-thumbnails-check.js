@@ -3,7 +3,7 @@
 
 var fs = require('fs')
 var path = require('path')
-var glob = require('glob')
+var listRdbFiles = require('..').listRdbFiles
 var Listr = require('listr')
 var processSystem = require('..').processSystem
 var writeReport = require('..').writeReport
@@ -213,15 +213,18 @@ async function main(files) {
 	})
 }
 
-glob('libretro-database/rdb/*.rdb', { cwd: root }, function (err, files) {
-	if (err) {
-		console.error(err.message)
-		process.exitCode = 1
-		return
-	}
+let files
+try {
+	files = listRdbFiles(root)
+}
+catch (err) {
+	console.error(err.message)
+	process.exitCode = 1
+}
+if (files) {
 	// Any error escaping the run fails the process with its message.
 	main(files).catch(function (err) {
 		console.error(err && err.message ? err.message : err)
 		process.exitCode = 1
 	})
-})
+}
