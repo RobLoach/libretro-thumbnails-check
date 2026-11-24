@@ -1,0 +1,12 @@
+{
+	"system": "Nintendo - Nintendo DSi",
+	"repo": "Nintendo_-_Nintendo_DSi",
+	"games": {
+		"Clubhouse Games Express - Card Classics (USA, Australia) (Rev 1)": {"crc":"7F626587","serial":"KTRT","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Dictionary 6 in 1 with Camera Function (Europe, Australia) (En,Fr,De,Es,It) (Rev 1)": {"crc":"20E0AA37","serial":"KCDV","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Heathcliff - Spot On (USA)": {"crc":"B10B8E45","serial":"K6SE","thumbnails":["Named_Boxarts","Named_Snaps"]},
+		"Master of Illusion Express - Shuffle Games (USA, Australia)": {"crc":"C39DE9B3","serial":"KMST","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Nintendogs (China) (iQue)": {"crc":"727F8BA5","serial":"KDOC","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"WarioWare - Touched! DL (USA, Australia) (3DS Only)": {"crc":"C8A5A061","serial":"Z2AT","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]}
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"system": "Sony - PlayStation Vita",
+	"repo": "Sony_-_PlayStation_Vita",
+	"games": {
+		"Child of Light (Europe) (En,Fr,De,Es,It,Ru)": {"crc":"23FE7FE4","serial":"PCSB-00598","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Ninja Gaiden Sigma (USA)": {"crc":"5492FCF6","serial":"PCSE-00021","thumbnails":["Named_Boxarts"]}
+	}
+}

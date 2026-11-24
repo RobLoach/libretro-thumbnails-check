@@ -1,0 +1,29 @@
+{
+	"system": "LowRes NX",
+	"repo": "LowRes_NX",
+	"games": {
+		"Alice": {"crc":"\"2FA8AEDA\"","thumbnails":["Named_Boxarts","Named_Titles"]},
+		"Arkanoid": {"crc":"\"A8EFA92D\"","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"CHIP8": {"crc":"\"97A8631E\"","thumbnails":["Named_Boxarts","Named_Titles"]},
+		"Demo": {"crc":"\"EF7CCD96\"","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"EPAINT": {"crc":"\"10418CE\"","thumbnails":["Named_Boxarts","Named_Titles"]},
+		"FreeSkate": {"crc":"\"B5E95BFE\"","thumbnails":["Named_Boxarts","Named_Titles"]},
+		"Gravity": {"crc":"\"A54E76C4\"","thumbnails":["Named_Boxarts","Named_Titles"]},
+		"Infiltrator": {"crc":"\"4074EC45\"","thumbnails":["Named_Boxarts","Named_Titles"]},
+		"L-Tron": {"crc":"\"E8DABDB8\"","thumbnails":["Named_Boxarts","Named_Titles"]},
+		"Lowtris": {"crc":"\"3157728F\"","thumbnails":["Named_Boxarts","Named_Titles"]},
+		"Music": {"crc":"\"787508F5\"","thumbnails":["Named_Boxarts","Named_Titles"]},
+		"Poink": {"crc":"\"3245A0EE\"","thumbnails":["Named_Boxarts","Named_Titles"]},
+		"Shuttle": {"crc":"\"AEFFF107\"","thumbnails":["Named_Boxarts","Named_Titles"]},
+		"Tennis": {"crc":"\"4CEB5E6D\"","thumbnails":["Named_Boxarts","Named_Titles"]},
+		"amaziograph": {"crc":"\"A5E4EBED\"","thumbnails":["Named_Boxarts","Named_Titles"]},
+		"candy": {"crc":"\"D2BDA251\"","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"freecell": {"crc":"\"5C4030CA\"","thumbnails":["Named_Boxarts","Named_Titles"]},
+		"lastbullet": {"crc":"\"D0C72645\"","thumbnails":["Named_Boxarts","Named_Titles"]},
+		"micromachines": {"crc":"\"42BD6C45\"","thumbnails":["Named_Boxarts","Named_Titles"]},
+		"othello": {"crc":"\"D350CFB2\"","thumbnails":["Named_Boxarts","Named_Titles"]},
+		"pill": {"crc":"\"6537803D\"","thumbnails":["Named_Boxarts","Named_Titles"]},
+		"pitman": {"crc":"\"97910AC7\"","thumbnails":["Named_Boxarts","Named_Titles"]},
+		"twenty": {"crc":"\"99A0CB7C\"","thumbnails":["Named_Boxarts","Named_Titles"]}
+	}
+}

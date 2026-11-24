@@ -1,0 +1,10 @@
+{
+	"system": "Thomson - MOTO",
+	"repo": "Thomson_-_MOTO",
+	"games": {
+		"Blitz!": {"crc":"19DDE6C1","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Blue Star": {"crc":"07F0944B","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Blue War": {"crc":"4ACA3466","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Sokoban": {"crc":"DA657210","thumbnails":["Named_Snaps"]}
+	}
+}

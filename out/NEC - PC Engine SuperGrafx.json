@@ -1,0 +1,11 @@
+{
+	"system": "NEC - PC Engine SuperGrafx",
+	"repo": "NEC_-_PC_Engine_SuperGrafx",
+	"games": {
+		"1941 - Counter Attack (Japan)": {"crc":"8C4588E2","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Aldynes - The Misson Code for Rage Crisis (Japan) (En)": {"crc":"4C2126B0","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Battle Ace (Japan) (En)": {"crc":"3B13AF61","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Daimakaimura (Japan) (En)": {"crc":"B486A8ED","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Madou King Granzort (Japan) (En)": {"crc":"1F041166","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]}
+	}
+}

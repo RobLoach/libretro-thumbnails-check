@@ -1,0 +1,16 @@
+{
+	"system": "Quake",
+	"repo": "Quake",
+	"games": {
+		"Quake (2021 re-release)": {"crc":"844B7967","thumbnails":["Named_Boxarts","Named_Snaps"]},
+		"Quake (v1.01)": {"crc":"BC98DFE5","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Quake (v1.06)": {"crc":"74E3B084","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Quake Mission Pack 1: Scourge of Armagon": {"crc":"D17835FB","file":"Quake Mission Pack 1_ Scourge of Armagon.png","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Quake Mission Pack 1: Scourge of Armagon (2021 re-release)": {"crc":"FDDF383B","file":"Quake Mission Pack 1_ Scourge of Armagon (2021 re-release).png","thumbnails":["Named_Boxarts"]},
+		"Quake Mission Pack 2: Dissolution of Eternity": {"crc":"38B70CE8","file":"Quake Mission Pack 2_ Dissolution of Eternity.png","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Quake Mission Pack 2: Dissolution of Eternity (2021 re-release)": {"crc":"A7003C4D","file":"Quake Mission Pack 2_ Dissolution of Eternity (2021 re-release).png","thumbnails":["Named_Boxarts"]},
+		"Quake Mission Pack 3: Dimension of the Past": {"crc":"8A68D267","file":"Quake Mission Pack 3_ Dimension of the Past.png","thumbnails":["Named_Boxarts","Named_Snaps"]},
+		"Quake Mission Pack 3: Dimension of the Past (2021 re-release)": {"crc":"E9786CCF","file":"Quake Mission Pack 3_ Dimension of the Past (2021 re-release).png","thumbnails":["Named_Boxarts"]},
+		"Quake Mission Pack 4: Dimension of the Machine (2021 re-release)": {"crc":"7583A274","file":"Quake Mission Pack 4_ Dimension of the Machine (2021 re-release).png","thumbnails":["Named_Snaps"]}
+	}
+}

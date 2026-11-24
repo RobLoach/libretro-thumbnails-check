@@ -1,0 +1,9 @@
+{
+	"system": "Cave Story",
+	"repo": "Cave_Story",
+	"games": {
+		"Cave Story (De)": {"crc":"0C0644BA","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Cave Story (En)": {"crc":"C5A2A3F6","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Doukutsu Monogatari (Ja)": {"crc":"439AD666","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"system": "SNK - Neo Geo Pocket",
+	"repo": "SNK_-_Neo_Geo_Pocket",
+	"games": {
+		"Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)": {"crc":"CAA3A827","serial":"0007","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)": {"crc":"DCEB7E11","serial":"0001","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Melon-chan no Seichou Nikki (Japan)": {"crc":"C4E58FD2","serial":"0004","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Neo Cherry Master - Real Casino Series (Japan) (En,Ja)": {"crc":"D5B4696C","serial":"0014","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"NeoGeo Cup '98 (Japan, Europe) (En,Ja)": {"crc":"33ADD5BD","serial":"0002","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)": {"crc":"4B1EED05","serial":"0009","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Renketsu Puzzle Tsunagete Pon! (Japan)": {"crc":"CE09F534","serial":"0012","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)": {"crc":"32E4696A","serial":"0008","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Shougi no Tatsujin (Japan)": {"crc":"F34D0C9B","serial":"0005","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]}
+	}
+}

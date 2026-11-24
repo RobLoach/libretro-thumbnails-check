@@ -1,0 +1,7 @@
+{
+	"system": "Quake III",
+	"repo": "Quake_III",
+	"games": {
+		"Quake III Arena": {"crc":"C6554342","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]}
+	}
+}

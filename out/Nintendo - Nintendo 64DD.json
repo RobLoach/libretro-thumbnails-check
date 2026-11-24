@@ -1,0 +1,14 @@
+{
+	"system": "Nintendo - Nintendo 64DD",
+	"repo": "Nintendo_-_Nintendo_64DD",
+	"games": {
+		"F-Zero X - Expansion Kit (Japan)": {"crc":"78295A68","serial":"EFZJ","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Kyojin no Doshin (Japan)": {"crc":"14ACD221","serial":"DKDJ","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Mario Artist - Communication Kit (Japan)": {"crc":"3BF36EDA","serial":"DMBJ","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Mario Artist - Paint Studio (Japan)": {"crc":"B732C3AD","serial":"DMPJ","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Mario Artist - Polygon Studio (Japan)": {"crc":"AC304109","serial":"DMGJ","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Mario Artist - Talent Studio (Japan)": {"crc":"649BBCB1","serial":"DMTJ","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"SimCity 64 (Japan)": {"crc":"163456CA","serial":"DSCJ","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Super Mario 64 - Disk Version (Japan) (Proto)": {"crc":"11589525","thumbnails":["Named_Boxarts"]}
+	}
+}

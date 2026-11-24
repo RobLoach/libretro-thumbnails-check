@@ -1,0 +1,22 @@
+{
+	"system": "Jump 'n Bump",
+	"repo": "Jump_n_Bump",
+	"games": {
+		"Blutopia": {"crc":"E6D7DD51","thumbnails":["Named_Snaps"]},
+		"Bubble": {"crc":"79D6AF59","thumbnails":["Named_Snaps"]},
+		"Castle": {"crc":"8CB27771","thumbnails":["Named_Snaps"]},
+		"Crystal": {"crc":"3E7EC41D","thumbnails":["Named_Snaps"]},
+		"Green": {"crc":"C48F9C81","thumbnails":["Named_Snaps"]},
+		"Iceberg": {"crc":"17CD7258","thumbnails":["Named_Snaps"]},
+		"Jump 'n Bump": {"crc":"5FA1F7D5","thumbnails":["Named_Snaps"]},
+		"Kirby Death Match": {"crc":"1D394960","thumbnails":["Named_Snaps"]},
+		"Mario Death Match": {"crc":"20626436","thumbnails":["Named_Snaps"]},
+		"Metal Slug": {"crc":"8FD024F5","thumbnails":["Named_Snaps"]},
+		"New Arena": {"crc":"3B957A3A","thumbnails":["Named_Snaps"]},
+		"Rabbit Town": {"crc":"6EC4E6DB","thumbnails":["Named_Snaps"]},
+		"Stilts": {"crc":"58398D17","thumbnails":["Named_Snaps"]},
+		"Super Mario Brothers": {"crc":"D18ABF2C","thumbnails":["Named_Snaps"]},
+		"Terra": {"crc":"F2503646","thumbnails":["Named_Snaps"]},
+		"Topsy": {"crc":"ED8D363D","thumbnails":["Named_Snaps"]}
+	}
+}

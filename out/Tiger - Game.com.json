@@ -1,0 +1,29 @@
+{
+	"system": "Tiger - Game.com",
+	"repo": "Tiger_-_Game.com",
+	"games": {
+		"Batman & Robin (USA)": {"crc":"B336E530","file":"Batman _ Robin (USA).png","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Castlevania - Symphony of the Night (Unknown) (Proto)": {"crc":"EEC4E8E3","thumbnails":["Named_Snaps","Named_Titles"]},
+		"Centipede (USA)": {"crc":"1A041FF0","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Duke Nukem 3D (USA)": {"crc":"884568D1","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Fighters Megamix (USA)": {"crc":"061E943F","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Frogger (USA)": {"crc":"10E4C5CD","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Henry (USA)": {"crc":"75D3C8D8","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Indy 500 (USA)": {"crc":"845ED281","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Internet (USA)": {"crc":"7E721A84","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Jeopardy! (USA)": {"crc":"8C512912","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Jurassic Park - The Lost World (USA)": {"crc":"B422C5F8","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Lights Out (USA)": {"crc":"496EFA62","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Monopoly (USA)": {"crc":"D6A65A07","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Mortal Kombat Trilogy (USA)": {"crc":"BD29C844","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Quiz Wiz - Cyber Trivia (USA)": {"crc":"0E018F6A","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Resident Evil 2 (USA)": {"crc":"0984C7F5","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Scrabble (USA)": {"crc":"4D4AD909","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Sonic Jam (USA)": {"crc":"8B4A63F9","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Tiger Casino (USA)": {"crc":"E7FB8FD9","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Tiger Web Link (USA)": {"crc":"4C13E65B","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Wheel of Fortune (USA)": {"crc":"048347A0","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Wheel of Fortune 2 (USA)": {"crc":"B91E2E32","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Williams Arcade Classics (USA)": {"crc":"F894065D","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]}
+	}
+}

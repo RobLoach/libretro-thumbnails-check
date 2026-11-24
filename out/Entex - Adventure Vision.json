@@ -1,0 +1,10 @@
+{
+	"system": "Entex - Adventure Vision",
+	"repo": "Entex_-_Adventure_Vision",
+	"games": {
+		"Defender (USA, Europe)": {"crc":"3E280096","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Space Force (USA, Europe)": {"crc":"C70D4028","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Super Cobra (USA, Europe)": {"crc":"B6045C9E","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Turtles (USA, Europe)": {"crc":"33A23EBA","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]}
+	}
+}

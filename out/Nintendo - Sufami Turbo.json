@@ -1,0 +1,19 @@
+{
+	"system": "Nintendo - Sufami Turbo",
+	"repo": "Nintendo_-_Sufami_Turbo",
+	"games": {
+		"Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)": {"crc":"BB5C4238","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Crayon Shin-chan - Nagagutsu Dobon!! (Japan)": {"crc":"8EB753F3","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Gegege no Kitarou - Youkai Donjara (Japan)": {"crc":"4296500D","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan)": {"crc":"14C66FCA","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Poi Poi Ninja World (Japan)": {"crc":"32B2B3DD","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"SD Gundam Generation - Axis Senki (Japan)": {"crc":"72B4235F","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"SD Gundam Generation - Babylonia Kenkoku Senki (Japan)": {"crc":"792D884C","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"SD Gundam Generation - Colony Kakutouki (Japan)": {"crc":"C5DFA8FD","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"SD Gundam Generation - Gryps Senki (Japan)": {"crc":"48ECAE44","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"SD Gundam Generation - Ichinen Sensouki (Japan)": {"crc":"AFD74DCB","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"SD Gundam Generation - Zanscare Senki (Japan)": {"crc":"EFD3A865","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"SD Ultra Battle - Seven Densetsu (Japan)": {"crc":"43AD5A45","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"SD Ultra Battle - Ultraman Densetsu (Japan)": {"crc":"04939D14","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"system": "VTech - CreatiVision",
+	"repo": "VTech_-_CreatiVision",
+	"games": {
+		"Air Sea Attack (Europe, Asia) (En)": {"crc":"81A9257D","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Astro Pinball (Europe, Asia) (En)": {"crc":"D03C0603","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Auto Chase (Europe, Asia) (En)": {"crc":"BD091EE0","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Chopper Rescue (Europe, Asia) (En)": {"crc":"AFB482AE","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Crazy Chicky (Europe, Asia) (En)": {"crc":"B1B5BFE5","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Mouse Puzzle (Europe, Asia) (En)": {"crc":"E954C46B","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Music Maker (Europe, Asia) (En)": {"crc":"F8383D33","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Police Jump (Europe, Asia) (En)": {"crc":"173FF42C","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Soccer (Europe, Asia) (En)": {"crc":"90A7438D","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Sonic Invader (Europe, Asia) (En)": {"crc":"767A1F38","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Tennis (Europe, Asia) (En) (DSE)": {"crc":"28774D6B","thumbnails":["Named_Boxarts","Named_Titles"]}
+	}
+}

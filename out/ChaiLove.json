@@ -1,0 +1,12 @@
+{
+	"system": "ChaiLove",
+	"repo": "ChaiLove",
+	"games": {
+		"Floppy Bird": {"crc":"1A534BBB","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Game of Life": {"crc":"A4E28C8C","thumbnails":["Named_Snaps"]},
+		"JSTest": {"crc":"61DC7B7C","thumbnails":["Named_Snaps","Named_Titles"]},
+		"Launcher": {"crc":"68194648","thumbnails":["Named_Snaps","Named_Titles"]},
+		"Nyan Cat": {"crc":"41C29B13","thumbnails":["Named_Snaps"]},
+		"Snake": {"crc":"3B300B4B","thumbnails":["Named_Snaps","Named_Titles"]}
+	}
+}

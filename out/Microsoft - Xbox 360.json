@@ -1,0 +1,11 @@
+{
+	"system": "Microsoft - Xbox 360",
+	"repo": "Microsoft_-_Xbox_360",
+	"games": {
+		"Catherine (USA)": {"crc":"6E1F5B01","serial":"AT-2007","thumbnails":["Named_Boxarts"]},
+		"Dead Rising (USA)": {"crc":"8F31A9ED","serial":"CC-2002","thumbnails":["Named_Boxarts"]},
+		"Dead or Alive 5 (USA)": {"crc":"AA1454CD","serial":"KV-2010","thumbnails":["Named_Boxarts"]},
+		"Final Fantasy XIII-2 (USA)": {"crc":"F9D84980","serial":"SQ-2054","thumbnails":["Named_Boxarts"]},
+		"Lightning Returns - Final Fantasy XIII (Japan)": {"crc":"BEBDB35B","serial":"SQ-2075","thumbnails":["Named_Boxarts"]}
+	}
+}

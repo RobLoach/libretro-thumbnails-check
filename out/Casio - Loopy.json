@@ -1,0 +1,15 @@
+{
+	"system": "Casio - Loopy",
+	"repo": "Casio_-_Loopy",
+	"games": {
+		"Anime Land (Japan)": {"crc":"3FD9713B","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Dream Change - Kogane-chan no Fashion Party (Japan)": {"crc":"0FB0A794","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"HARIHARI Seal Paradise (Japan)": {"crc":"B82AC7F3","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Little Romance (Japan)": {"crc":"550616F0","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Loopy Town no Oheya ga Hoshii! (Japan)": {"crc":"352B4AE6","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Lupiton no Wonder Palette (Japan)": {"crc":"F4662E66","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Nigaoe Artist (Japan)": {"crc":"EF1B33F3","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Pasocom Collection (Japan)": {"crc":"FE3BE881","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Wanwan Aijou Monogatari (Japan)": {"crc":"10C5F568","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]}
+	}
+}

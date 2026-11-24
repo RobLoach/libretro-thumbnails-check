@@ -1,0 +1,16 @@
+{
+	"system": "Wolfenstein 3D",
+	"repo": "Wolfenstein_3D",
+	"games": {
+		"Spear of Destiny (Shareware)": {"crc":"C9F3AFEE","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Spear of Destiny Mission 1 - Spear of Destiny": {"crc":"B564A0BE","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Spear of Destiny Mission 2 - Return to Danger": {"crc":"5110F693","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Spear of Destiny Mission 3 - Ultimate Challenge": {"crc":"CA7B1074","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Super 3D Noah's Ark": {"crc":"5CB6A201","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Wolfenstein 3D v1.1": {"crc":"DB7B0962","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Wolfenstein 3D v1.1 (Shareware)": {"crc":"7750E1D4","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Wolfenstein 3D v1.2 (Shareware)": {"crc":"1751B3A1","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Wolfenstein 3D v1.4": {"crc":"ADA5C827","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Wolfenstein 3D v1.4 (Shareware)": {"crc":"CC53D341","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]}
+	}
+}

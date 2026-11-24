@@ -1,0 +1,11 @@
+{
+	"system": "Commodore - Plus-4",
+	"repo": "Commodore_-_Plus-4",
+	"games": {
+		"Atomic Mission (USA, Europe)": {"crc":"A059FCCB","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Jack Attack (USA, Europe)": {"crc":"6B624FEC","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Pirate Adventure (USA, Europe)": {"crc":"A903DC53","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Strange Odyssey (USA, Europe)": {"crc":"994C9B98","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Viduzzles (USA, Europe)": {"crc":"EAAA44ED","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]}
+	}
+}

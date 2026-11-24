@@ -1,0 +1,17 @@
+{
+	"system": "Funtech - Super Acan",
+	"repo": "Funtech_-_Super_Acan",
+	"games": {
+		"Boom Zoo (Taiwan)": {"crc":"6099BB44","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Formosa Duel (Taiwan)": {"crc":"B2BF31DC","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Gambling Lord (Taiwan)": {"crc":"AC4FA721","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Journey to the Laugh (Taiwan)": {"crc":"CEE25EEA","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Magical Pool (Taiwan)": {"crc":"AED4E4F8","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Monopoly - Adventure in Africa (Taiwan)": {"crc":"DC3B7B84","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Sango Fighter (Taiwan)": {"crc":"A4DE6DDE","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Speedy Dragon (Taiwan)": {"crc":"F631383C","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Super Dragon Force (Taiwan)": {"crc":"C4FE1CA1","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Super Taiwanese Baseball League (Taiwan)": {"crc":"CCF6829B","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"The Son of Evil (Taiwan)": {"crc":"9F6119A7","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]}
+	}
+}

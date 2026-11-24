@@ -1,0 +1,13 @@
+{
+	"system": "RPG Maker",
+	"repo": "RPG_Maker",
+	"games": {
+		"Dead Again": {"crc":"5532163A","thumbnails":["Named_Boxarts","Named_Snaps"]},
+		"Embric of Wulfhammer's Castle": {"crc":"AC414842","thumbnails":["Named_Boxarts","Named_Snaps"]},
+		"Lisa the First": {"crc":"813BB223","thumbnails":["Named_Boxarts","Named_Snaps"]},
+		"RPG Maker 2000 Test Suite": {"crc":"3C394AEF","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Super Columbine Massacre RPG": {"crc":"40F0519C","thumbnails":["Named_Boxarts","Named_Snaps"]},
+		"Yume 2kki": {"crc":"CFFBE463","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Yume Nikki": {"crc":"57A92897","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]}
+	}
+}

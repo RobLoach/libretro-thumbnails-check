@@ -2,7 +2,7 @@
 
 Checks the consistency of [libretro-thumbnails](https://github.com/libretro/libretro-thumbnails) against [libretro-database](https://github.com/libretro/libretro-database).
 
-Generated on 2026-11-12.
+Generated on 2026-11-24.
 
 | System | Boxarts | Snaps | Titles | Logos | Invalid | Total | Percent |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | ---: |
@@ -95,14 +95,14 @@ Generated on 2026-11-12.
 | [Nintendo - Nintendo 64DD](out/Nintendo%20-%20Nintendo%2064DD.txt) | 8 / 10 | 7 / 10 | 7 / 10 | 7 / 10 | 0 | 29 / 40 | **72.50%** |
 | [Nintendo - Nintendo DS](out/Nintendo%20-%20Nintendo%20DS.txt) | 6493 / 7529 | 6331 / 7529 | 4224 / 7529 | 0 / 7529 | [23](out/Nintendo%20-%20Nintendo%20DS%20Invalid.txt) | 17048 / 30116 | **56.61%** |
 | [Nintendo - Nintendo DSi](out/Nintendo%20-%20Nintendo%20DSi.txt) | 6 / 1068 | 6 / 1068 | 5 / 1068 | 0 / 1068 | [1](out/Nintendo%20-%20Nintendo%20DSi%20Invalid.txt) | 17 / 4272 | **0.40%** |
-| [Nintendo - Nintendo Entertainment System](out/Nintendo%20-%20Nintendo%20Entertainment%20System.txt) | 3068 / 16722 | 5317 / 16722 | 5311 / 16722 | 2476 / 16722 | [832](out/Nintendo%20-%20Nintendo%20Entertainment%20System%20Invalid.txt) | 16172 / 66888 | **24.18%** |
+| [Nintendo - Nintendo Entertainment System](out/Nintendo%20-%20Nintendo%20Entertainment%20System.txt) | 3076 / 16722 | 5321 / 16722 | 5315 / 16722 | 2481 / 16722 | [832](out/Nintendo%20-%20Nintendo%20Entertainment%20System%20Invalid.txt) | 16193 / 66888 | **24.21%** |
 | [Nintendo - Nintendo Switch](out/Nintendo%20-%20Nintendo%20Switch.txt) | 0 / 48145 | 0 / 48145 | 0 / 48145 | 0 / 48145 | 0 | 0 / 192580 | No thumbnails repo |
 | [Nintendo - Pokemon Mini](out/Nintendo%20-%20Pokemon%20Mini.txt) | 39 / 42 | 39 / 42 | 39 / 42 | 39 / 42 | 0 | 156 / 168 | **92.86%** |
 | [Nintendo - Satellaview](out/Nintendo%20-%20Satellaview.txt) | 32 / 518 | 163 / 518 | 161 / 518 | 82 / 518 | 0 | 438 / 2072 | **21.14%** |
 | [Nintendo - Sufami Turbo](out/Nintendo%20-%20Sufami%20Turbo.txt) | 13 / 13 | 13 / 13 | 13 / 13 | 13 / 13 | 0 | 52 / 52 | **100.00%** |
 | [Nintendo - Super Nintendo Entertainment System](out/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System.txt) | 3171 / 5764 | 3188 / 5764 | 3186 / 5764 | 3017 / 5764 | [66](out/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System%20Invalid.txt) | 12562 / 23056 | **54.48%** |
 | [Nintendo - Virtual Boy](out/Nintendo%20-%20Virtual%20Boy.txt) | 28 / 64 | 28 / 64 | 28 / 64 | 20 / 64 | 0 | 104 / 256 | **40.63%** |
-| [Nintendo - Wii (Digital)](out/Nintendo%20-%20Wii%20(Digital).txt) | 0 / 0 | 0 / 0 | 0 / 0 | 0 / 0 | 0 | 0 / 0 | No thumbnails repo |
+| [Nintendo - Wii (Digital)](out/Nintendo%20-%20Wii%20(Digital).txt) | 0 / 2715 | 0 / 2715 | 0 / 2715 | 0 / 2715 | 0 | 0 / 10860 | No thumbnails repo |
 | [Nintendo - Wii U](out/Nintendo%20-%20Wii%20U.txt) | 55 / 5588 | 54 / 5588 | 51 / 5588 | 0 / 5588 | [65](out/Nintendo%20-%20Wii%20U%20Invalid.txt) | 160 / 22352 | **0.72%** |
 | [Nintendo - Wii](out/Nintendo%20-%20Wii.txt) | 4111 / 19086 | 1928 / 19086 | 1658 / 19086 | 2918 / 19086 | [137](out/Nintendo%20-%20Wii%20Invalid.txt) | 10615 / 76344 | **13.90%** |
 | [Philips - CD-i](out/Philips%20-%20CD-i.txt) | 284 / 2265 | 244 / 2265 | 50 / 2265 | 186 / 2265 | 0 | 764 / 9060 | **8.43%** |
@@ -136,10 +136,10 @@ Generated on 2026-11-12.
 | [SNK - Neo Geo Pocket Color](out/SNK%20-%20Neo%20Geo%20Pocket%20Color.txt) | 64 / 106 | 64 / 106 | 95 / 106 | 92 / 106 | 0 | 315 / 424 | **74.29%** |
 | [SNK - Neo Geo Pocket](out/SNK%20-%20Neo%20Geo%20Pocket.txt) | 9 / 9 | 9 / 9 | 9 / 9 | 8 / 9 | 0 | 35 / 36 | **97.22%** |
 | [SNK - Neo Geo](out/SNK%20-%20Neo%20Geo.txt) | 236 / 278 | 246 / 278 | 246 / 278 | 0 / 278 | 0 | 728 / 1112 | **65.47%** |
-| [Sony - PlayStation 2](out/Sony%20-%20PlayStation%202.txt) | 8097 / 11065 | 7752 / 11065 | 6301 / 11065 | 6499 / 11065 | [121](out/Sony%20-%20PlayStation%202%20Invalid.txt) | 28649 / 44260 | **64.73%** |
-| [Sony - PlayStation 3 (PSN)](out/Sony%20-%20PlayStation%203%20(PSN).txt) | 0 / 0 | 0 / 0 | 0 / 0 | 0 / 0 | 0 | 0 / 0 | No thumbnails repo |
+| [Sony - PlayStation 2](out/Sony%20-%20PlayStation%202.txt) | 8099 / 11065 | 7753 / 11065 | 6303 / 11065 | 6499 / 11065 | [121](out/Sony%20-%20PlayStation%202%20Invalid.txt) | 28654 / 44260 | **64.74%** |
+| [Sony - PlayStation 3 (PSN)](out/Sony%20-%20PlayStation%203%20(PSN).txt) | 0 / 5483 | 0 / 5483 | 0 / 5483 | 0 / 5483 | 0 | 0 / 21932 | No thumbnails repo |
 | [Sony - PlayStation 3](out/Sony%20-%20PlayStation%203.txt) | 41 / 19394 | 720 / 19394 | 0 / 19394 | 0 / 19394 | 0 | 761 / 77576 | **0.98%** |
-| [Sony - PlayStation Portable (PSN)](out/Sony%20-%20PlayStation%20Portable%20(PSN).txt) | 0 / 0 | 0 / 0 | 0 / 0 | 0 / 0 | 0 | 0 / 0 | No thumbnails repo |
+| [Sony - PlayStation Portable (PSN)](out/Sony%20-%20PlayStation%20Portable%20(PSN).txt) | 0 / 2613 | 0 / 2613 | 0 / 2613 | 0 / 2613 | 0 | 0 / 10452 | No thumbnails repo |
 | [Sony - PlayStation Portable](out/Sony%20-%20PlayStation%20Portable.txt) | 1674 / 6008 | 3222 / 6008 | 1158 / 6008 | 0 / 6008 | [4](out/Sony%20-%20PlayStation%20Portable%20Invalid.txt) | 6054 / 24032 | **25.19%** |
 | [Sony - PlayStation Vita](out/Sony%20-%20PlayStation%20Vita.txt) | 2 / 240 | 1 / 240 | 1 / 240 | 0 / 240 | 0 | 4 / 960 | **0.42%** |
 | [Sony - PlayStation](out/Sony%20-%20PlayStation.txt) | 8639 / 10086 | 8615 / 10086 | 8439 / 10086 | 6972 / 10086 | [8](out/Sony%20-%20PlayStation%20Invalid.txt) | 32665 / 40344 | **80.97%** |
@@ -157,7 +157,7 @@ Generated on 2026-11-12.
 | [WASM-4](out/WASM-4.txt) | 0 / 151 | 0 / 151 | 150 / 151 | 0 / 151 | 0 | 150 / 604 | **24.83%** |
 | [Watara - Supervision](out/Watara%20-%20Supervision.txt) | 63 / 72 | 70 / 72 | 70 / 72 | 62 / 72 | 0 | 265 / 288 | **92.01%** |
 | [Wolfenstein 3D](out/Wolfenstein%203D.txt) | 10 / 10 | 10 / 10 | 10 / 10 | 0 / 10 | 0 | 30 / 40 | **75.00%** |
-| **Total** | **72455 / 339193** | **76877 / 339193** | **66961 / 339193** | **45199 / 339193** | **8858** | **261492 / 1356772** | **19.27%** |
+| **Total** | **72465 / 339193** | **76882 / 339193** | **66967 / 339193** | **45204 / 339193** | **8858** | **261518 / 1356772** | **19.28%** |
 
 ## Reports
 

@@ -1,0 +1,18 @@
+{
+	"system": "RCA - Studio II",
+	"repo": "RCA_-_Studio_II",
+	"games": {
+		"Demonstration Cartridge (USA)": {"crc":"96F9A105","thumbnails":["Named_Boxarts"]},
+		"TV Arcade I - Space War (USA)": {"crc":"021551F2","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"TV Arcade II - Fun with Numbers (USA)": {"crc":"26EBE344","thumbnails":["Named_Boxarts"]},
+		"TV Arcade III - Tennis + Squash (USA)": {"crc":"A21590C8","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"TV Arcade IV - Baseball (USA)": {"crc":"D7FDEDAA","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"TV Arcade Series - Gunfighter + Moonship Battle (USA, Europe)": {"crc":"989D2C67","thumbnails":["Named_Boxarts"]},
+		"TV Arcade Series - Speedway + Tag (USA)": {"crc":"A80379E2","thumbnails":["Named_Boxarts"]},
+		"TV Casino Series - Blackjack (USA)": {"crc":"B30AF7A9","thumbnails":["Named_Boxarts"]},
+		"TV Casino Series - TV Bingo (USA, Europe)": {"crc":"39DDC4AB","thumbnails":["Named_Boxarts"]},
+		"TV Mystic Series - Biorhythm (USA, Europe)": {"crc":"6DCBC525","thumbnails":["Named_Boxarts"]},
+		"TV School House I (USA)": {"crc":"CF08AA66","thumbnails":["Named_Boxarts"]},
+		"TV School House II - Math Fun (USA, Europe)": {"crc":"9AB5AF96","thumbnails":["Named_Boxarts"]}
+	}
+}

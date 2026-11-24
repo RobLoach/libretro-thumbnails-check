@@ -1,10 +1,10 @@
 Nintendo - Nintendo Entertainment System Missing
 
-Boxarts   3068/16722  18.35%
-Snaps     5317/16722  31.80%
-Titles    5311/16722  31.76%
-Logos     2476/16722  14.81%
-Total    16172/66888  24.18%
+Boxarts   3076/16722  18.39%
+Snaps     5321/16722  31.82%
+Titles    5315/16722  31.78%
+Logos     2481/16722  14.84%
+Total    16193/66888  24.21%
 
 Name                                                                                                                         Boxart  Snap  Title  Logo
 !Clik! (World) (Proto 1)                                                                                                        ✗      ✗     ✗      ✗
@@ -505,7 +505,7 @@ Action 52 (Europe)[b2]                                                          
 Action 52 (Europe)[h Vimm][iNES title]                                                                                          ✗      ✗     ✗      ✗
 Action 52 (USA)                                                                                                                 -      -     -      ✗
 Action 52 (USA) (Rev A)                                                                                                         -      -     -      ✗
-Action 52 (USA) (Rev B)                                                                                                         ✗      -     -      ✗
+Action 52 (USA) (Rev B)                                                                                                         -      -     -      ✗
 Action 52 (USA)[b2]                                                                                                             ✗      ✗     ✗      ✗
 Action 53 Function 16 - Volume One (World) (R.C.#1)                                                                             ✗      ✗     ✗      ✗
 Action 53 Function 16 - Volume One (World) (R.C.#2)                                                                             ✗      -     -      ✗
@@ -1255,7 +1255,7 @@ Babel Blox (World) (Sly Dog Studios)                                            
 Babel Blox (World) (Sly Dog Studios) (Aftermarket) (Unl)                                                                        ✗      -     -      ✗
 Babel no Tou (Japan)                                                                                                            -      -     -      -
 Babel no Tou (Japan) (En)                                                                                                       -      -     -      -
-Babel no Tou (Japan) (En) (Namcot Collection)                                                                                   ✗      -     -      -
+Babel no Tou (Japan) (En) (Namcot Collection)                                                                                   -      -     -      -
 Babel no Tou (Japan) (En) (Rev 1) (Namcot Collection)                                                                           ✗      -     -      -
 Baboom! (World)                                                                                                                 ✗      ✗     ✗      ✗
 Baby Boomer (Korea) (En)                                                                                                        -      -     -      ✗
@@ -3734,7 +3734,7 @@ Digger T. Rock - The Legend of the Lost City (Europe)                           
 Digger T. Rock - The Legend of the Lost City (USA)                                                                              -      -     -      -
 Digger Tom - V Poiskah Drevnego Goroda (Russia) (Pirate)                                                                        ✗      -     -      ✗
 Digital Devil Story - Megami Tensei (Japan)                                                                                     -      -     -      -
-Digital Devil Story - Megami Tensei (Japan) (Rev 1)                                                                             ✗      ✗     ✗      ✗
+Digital Devil Story - Megami Tensei (Japan) (Rev 1)                                                                             -      -     -      -
 Digital Devil Story - Megami Tensei (Japan) (Rev 1) (Namcot Collection)                                                         -      -     -      -
 Digital Devil Story - Megami Tensei (Japan)[b2]                                                                                 ✗      ✗     ✗      ✗
 Digital Devil Story - Megami Tensei (Japan)[h2][enlarged rom]                                                                   ✗      ✗     ✗      ✗
@@ -4170,7 +4170,7 @@ Dragon Ball Z - Chao Ji Lun Tan 5 (Taiwan)[p]                                   
 Dragon Ball Z - Gekitou Tenkaichi Budoukai (Asia) (Ja) (Pirate)                                                                 ✗      ✗     ✗      ✗
 Dragon Ball Z - Gekitou Tenkaichi Budoukai (Japan) (Datach)                                                                     ✗      -     -      ✗
 Dragon Ball Z - Kyoushuu! Saiya Jin (Japan)                                                                                     -      -     -      -
-Dragon Ball Z - Kyoushuu! Saiya Jin (Japan) (Rev 1)                                                                             ✗      -     -      ✗
+Dragon Ball Z - Kyoushuu! Saiya Jin (Japan) (Rev 1)                                                                             -      -     -      -
 Dragon Ball Z - Kyoushuu! Saiya Jin (Japan)[b2]                                                                                 ✗      ✗     ✗      ✗
 Dragon Ball Z - Kyoushuu! Saiya Jin (Japan)[b3]                                                                                 ✗      ✗     ✗      ✗
 Dragon Ball Z - Kyoushuu! Saiya Jin (Japan)[h][enlarged rom]                                                                    ✗      ✗     ✗      ✗
@@ -10214,7 +10214,7 @@ Pac-Man (Japan)[tr zh MS emumax][v.20060217]                                    
 Pac-Man (USA)                                                                                                                   ✗      ✗     ✗      ✗
 Pac-Man (USA) (Namco)                                                                                                           -      -     -      -
 Pac-Man (USA) (Namco) (Virtual Console)                                                                                         -      -     -      -
-Pac-Man (USA) (Rev 1) (Tengen)                                                                                                  ✗      ✗     ✗      ✗
+Pac-Man (USA) (Rev 1) (Tengen)                                                                                                  -      -     -      -
 Pac-Man (USA) (Tengen)                                                                                                          -      -     -      -
 Pac-Man (USA)[h Vimm][iNES title]                                                                                               ✗      ✗     ✗      ✗
 Pac-Man (USA)[h Vimm][p][iNES title]                                                                                            ✗      ✗     ✗      ✗
@@ -11544,7 +11544,7 @@ Roundball - 2-on-2 Challenge (USA)[u2]                                          
 Roundball - 2-on-2 Challenge (USA)[u]                                                                                           ✗      ✗     ✗      ✗
 Route-16 Turbo (Japan)                                                                                                          -      -     -      -
 Route-16 Turbo (Japan) (En)                                                                                                     -      -     -      -
-Route-16 Turbo (Japan) (En) (Rev 1)                                                                                             ✗      ✗     ✗      ✗
+Route-16 Turbo (Japan) (En) (Rev 1)                                                                                             -      -     -      -
 Route-16 Turbo (Japan)[p]                                                                                                       ✗      ✗     ✗      ✗
 Royal Blood (Japan)                                                                                                             -      -     -      -
 Royal Blood (Japan)[h][enlarged rom]                                                                                            ✗      ✗     ✗      ✗
@@ -16064,7 +16064,7 @@ Warpman (Japan)[p]                                                              
 Warpman (Japan)[p][o]                                                                                                           ✗      ✗     ✗      ✗
 Warpman (World) (Evercade)                                                                                                      ✗      ✗     ✗      ✗
 Warpman (World) (Namcot Collection)                                                                                             -      -     -      -
-Warpman (World) (Rev 1) (Namcot Collection)                                                                                     ✗      -     -      -
+Warpman (World) (Rev 1) (Namcot Collection)                                                                                     -      -     -      -
 Wart Worm Wingding! (World)                                                                                                     ✗      ✗     ✗      ✗
 Watson's Adventure (Japan)[h][Super Mario Bros.]                                                                                ✗      ✗     ✗      ✗
 Wayne Gretzky Hockey (USA)                                                                                                      -      -     -      -
@@ -16466,7 +16466,7 @@ Yoshi's Cookie (USA) (Virtual Console)                                          
 Yoshi's Cookie (USA)[h Vimm][iNES title]                                                                                        ✗      ✗     ✗      ✗
 You Are Insignificant (World)                                                                                                   ✗      ✗     ✗      ✗
 Youkai Club (Japan)                                                                                                             -      -     -      -
-Youkai Club (Japan) (Rev 1)                                                                                                     ✗      ✗     ✗      ✗
+Youkai Club (Japan) (Rev 1)                                                                                                     -      -     -      -
 Youkai Club (Japan)[h][enlarged rom]                                                                                            ✗      ✗     ✗      ✗
 Youkai Douchuuki (Japan)                                                                                                        -      -     -      -
 Youkai Douchuuki (Japan) (Namcot Collection)                                                                                    -      -     -      -

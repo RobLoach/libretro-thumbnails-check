@@ -1,0 +1,8 @@
+{
+	"system": "Quake II",
+	"repo": "Quake_II",
+	"games": {
+		"Quake II": {"crc":"6888136E","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Quake II Demo": {"crc":"CDD535B6","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]}
+	}
+}

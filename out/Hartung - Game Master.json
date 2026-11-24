@@ -1,0 +1,21 @@
+{
+	"system": "Hartung - Game Master",
+	"repo": "Hartung_-_Game_Master",
+	"games": {
+		"Bubble Boy (Europe)": {"crc":"EDD0679D","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Car Racing (Europe)": {"crc":"71BABD86","thumbnails":["Named_Boxarts"]},
+		"Continental Galaxy (Europe)": {"crc":"FEDEC9D5","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Falling Block (Europe)": {"crc":"58E409FB","thumbnails":["Named_Snaps","Named_Titles","Named_Logos"]},
+		"Go Bang! (Europe)": {"crc":"FDA2C4E6","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Hyper Space (Europe)": {"crc":"95E0CEAC","thumbnails":["Named_Snaps","Named_Titles","Named_Logos"]},
+		"Kung Fu (Europe)": {"crc":"3EA0670B","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Move It (Germany) (En)": {"crc":"3BE5590C","thumbnails":["Named_Snaps","Named_Titles"]},
+		"Pin Ball (Europe)": {"crc":"F5FFC768","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Soccer (Europe)": {"crc":"76CF4C92","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles"]},
+		"Space Castle (Europe)": {"crc":"11D734F1","thumbnails":["Named_Snaps","Named_Titles","Named_Logos"]},
+		"Space Invader (Germany) (En)": {"crc":"7C8318C4","thumbnails":["Named_Titles"]},
+		"Tank War (Germany) (En)": {"crc":"50CE2E30","thumbnails":["Named_Titles"]},
+		"Tennis (Europe)": {"crc":"48D425CF","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Urban Champion (Europe)": {"crc":"D53E6CAC","thumbnails":["Named_Snaps","Named_Titles","Named_Logos"]}
+	}
+}

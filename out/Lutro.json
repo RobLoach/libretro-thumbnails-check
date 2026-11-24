@@ -1,0 +1,15 @@
+{
+	"system": "Lutro",
+	"repo": "Lutro",
+	"games": {
+		"Deep Dungeon": {"thumbnails":["Named_Snaps","Named_Titles"]},
+		"Game of Life": {"thumbnails":["Named_Snaps","Named_Titles"]},
+		"In Your Face City Trains": {"thumbnails":["Named_Snaps","Named_Titles"]},
+		"Platformer": {"thumbnails":["Named_Snaps","Named_Titles"]},
+		"Pong": {"thumbnails":["Named_Snaps","Named_Titles"]},
+		"Sienna": {"thumbnails":["Named_Snaps","Named_Titles"]},
+		"Snake": {"thumbnails":["Named_Snaps","Named_Titles"]},
+		"Spaceship": {"thumbnails":["Named_Snaps","Named_Titles"]},
+		"Tetris": {"thumbnails":["Named_Snaps","Named_Titles"]}
+	}
+}

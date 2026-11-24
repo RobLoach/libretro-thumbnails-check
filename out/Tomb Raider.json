@@ -1,0 +1,17 @@
+{
+	"system": "Tomb Raider",
+	"repo": "Tomb_Raider",
+	"games": {
+		"Tomb Raider 1 (PC)": {"crc":"BC291E8C","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Tomb Raider 1 (PSX)": {"crc":"A6744241","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Tomb Raider 1 (Saturn) (USA)": {"crc":"4BEEECDE","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Tomb Raider 1 - Unfinished Business (PC)": {"crc":"4139C54C","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Tomb Raider 2 (PC)": {"crc":"EFB8385C","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Tomb Raider 2 (PSX)": {"crc":"F1D8BABC","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Tomb Raider 2 - The Golden Mask (PC)": {"crc":"DD9E57E7","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Tomb Raider 3 (PC)": {"crc":"9B36AAFA","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Tomb Raider 3 (PSX)": {"crc":"B0521923","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Tomb Raider 3 - The Lost Artifact (PC)": {"crc":"479AAA79","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Tomb Raider Demo (PSX)": {"crc":"FE2B63AE","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]}
+	}
+}

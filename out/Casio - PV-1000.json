@@ -1,0 +1,19 @@
+{
+	"system": "Casio - PV-1000",
+	"repo": "Casio_-_PV-1000",
+	"games": {
+		"Amidar (Japan)": {"crc":"C82628CC","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Dig Dug (Japan)": {"crc":"A94F02FA","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Dirty Chameleon (Japan)": {"crc":"8E7FB358","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Excite Mahjong (Japan)": {"crc":"0D2F829C","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Fighting Bug (Japan)": {"crc":"84986255","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Naughty Boy (Japan)": {"crc":"43A13E99","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Pachinko-UFO (Japan)": {"crc":"9EE981AB","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Pooyan (Japan)": {"crc":"BD6EDC48","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Space Panic (Japan)": {"crc":"23547111","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Super Cobra (Japan)": {"crc":"CDFFC2CD","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Turpin (Japan)": {"crc":"A3AEF98D","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Tutankham (Japan)": {"crc":"A0B606D8","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]},
+		"Warp & Warp (Japan)": {"crc":"2A0D4AD9","file":"Warp _ Warp (Japan).png","thumbnails":["Named_Boxarts","Named_Snaps","Named_Titles","Named_Logos"]}
+	}
+}
