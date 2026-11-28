@@ -12,6 +12,7 @@ const {
 	getGameThumbnails,
 	findInvalidThumbnails,
 	writeReport,
+	systemReport,
 	staleReports,
 	matchKey,
 	gameNames,
@@ -359,6 +360,46 @@ test('staleReports only strips the Orphans and Invalid suffixes', () => {
 
 test('staleReports ignores files that are not .txt or .json', () => {
 	assert.deepStrictEqual(staleReports(['Atari - 8-bit.png', 'Atari - 8-bit.txt.bak', 'Atari - 8-bit.json.bak', '.gitkeep'], ['Atari - 2600']), [])
+})
+
+test('staleReports keeps the combined report', () => {
+	assert.deepStrictEqual(staleReports(['report.json', 'Atari - 8-bit.json'], ['Atari - 2600']), ['Atari - 8-bit.json'])
+})
+
+test('systemReport lists the missing, orphan and invalid thumbnails', () => {
+	let games = {
+		'Tom & Jerry': { boxart: true, snap: true },
+		'A Game': { title: true, logo: true }
+	}
+	let thumbs = new Set(['Named_Boxarts/Tom _ Jerry.png', 'Named_Snaps/Tom _ Jerry.png', 'Named_Titles/A Game.png', 'Named_Logos/A Game.png', 'Named_Boxarts/Orphan.png'])
+	let invalid = findInvalidThumbnails([file('Named_Boxarts/Bad.jpg'), file('Named_Snaps/Tiny.png', 10)])
+	assert.deepStrictEqual(systemReport('Test - System', games, thumbs, true, invalid), {
+		repo: 'Test_-_System',
+		total: 2,
+		missing: {
+			boxart: ['A Game'],
+			snap: ['A Game'],
+			title: ['Tom _ Jerry'],
+			logo: ['Tom _ Jerry']
+		},
+		orphans: ['Named_Boxarts/Orphan.png'],
+		invalid: {
+			notPng: [{ path: 'Named_Boxarts/Bad.jpg' }],
+			badChars: [],
+			tooSmall: [{ path: 'Named_Snaps/Tiny.png', detail: '(10 bytes)' }],
+			unknownFolder: [],
+			brokenSymlink: []
+		}
+	})
+})
+
+test('systemReport has a null repo and empty lists for systems without games or a repository', () => {
+	let report = systemReport('Philips - Videopac+', {}, new Set(['Named_Boxarts/A.png']), false)
+	assert.strictEqual(report.repo, null)
+	assert.strictEqual(report.total, 0)
+	assert.deepStrictEqual(report.missing, { boxart: [], snap: [], title: [], logo: [] })
+	assert.deepStrictEqual(report.orphans, [])
+	assert.deepStrictEqual(Object.values(report.invalid), [[], [], [], [], []])
 })
 
 test('staleReports handles a system whose name ends in Orphans', () => {
