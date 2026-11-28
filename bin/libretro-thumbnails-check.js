@@ -7,6 +7,7 @@ var listRdbFiles = require('..').listRdbFiles
 var Listr = require('listr')
 var processSystem = require('..').processSystem
 var writeReport = require('..').writeReport
+var systemReport = require('..').systemReport
 var thumbnails = require('..').thumbnails
 var THUMBNAIL_TYPES = require('..').THUMBNAIL_TYPES
 var getGameThumbnails = require('..').getGameThumbnails
@@ -69,6 +70,9 @@ async function main(files) {
 
 	// Symlink targets of each system, by blob sha.
 	var symlinkTargets = {}
+
+	// Everything missing and invalid in each system, for out/report.json.
+	var details = {}
 
 	// Create the task runner.
 	var tasks = new Listr([], {
@@ -143,6 +147,7 @@ async function main(files) {
 						// Systems with no games are still reported, with zero counts.
 						let invalid = findInvalidThumbnails(indexes[system], symlinkTargets[system])
 						context[system] = writeReport(system, output, thumbs, indexes[system] !== null, invalid)
+						details[system] = systemReport(system, output, thumbs, indexes[system] !== null, invalid)
 						return resolve()
 					}).catch(function (err) {
 						failed[system] = err.message
@@ -196,6 +201,14 @@ async function main(files) {
 		contents = contents.replace('{{ contents }}', output)
 		contents = contents.replace('{{ date }}', new Date().toISOString().slice(0, 10))
 		fs.writeFileSync(path.join(root, 'README.md'), contents)
+
+		// Like the README, the combined report only has the systems of this run.
+		let sortedDetails = {}
+		for (let systemName of Object.keys(details).sort()) {
+			sortedDetails[systemName] = details[systemName]
+		}
+		fs.mkdirSync(path.join(root, 'out'), { recursive: true })
+		fs.writeFileSync(path.join(root, 'out', 'report.json'), JSON.stringify(sortedDetails, null, '\t') + '\n')
 
 		// On a full run, remove the reports of systems no longer in the database.
 		// Failed systems are still in the database, so their reports are kept.

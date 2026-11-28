@@ -165,6 +165,8 @@ Each system links to `out/<system>.txt`, which lists every game in the database 
 
 For scrapers, `out/<system>.json` lists the games that have a thumbnail, sorted with one per line, keyed by their name in the DAT with their `crc` and `serial` when known, and the `thumbnails` folders that have it, out of `Named_Boxarts`, `Named_Snaps`, `Named_Titles` and `Named_Logos`. Its `repo` is the system's repository in [libretro-thumbnails](https://github.com/libretro-thumbnails), or `null` when there is none. The thumbnail is named after the game with `.png`, unless a `file` is given for names with a character RetroArch replaces with `_`.
 
+`out/report.json` combines everything missing and invalid, keyed by system, with its `repo`, `total` games, the `missing` game names for each of `boxart`, `snap`, `title` and `logo`, the `orphans`, and the `invalid` thumbnails by reason, each with a `path` and an optional `detail`. Like the README table, it only has the systems of the run.
+
 On a full run, reports in `out/` for systems that are no longer in libretro-database, such as a renamed system, are removed and listed. Runs with `--system` never remove reports.
 
 Thumbnails that RetroArch can never load are listed in `out/<system> Invalid.txt`, and counted in the Invalid column. These are files without a lowercase `.png` extension, names with a character RetroArch replaces with `_` (``&*/:`<>?\|"``), empty or tiny files, files in folders other than `Named_Boxarts`, `Named_Snaps`, `Named_Titles` and `Named_Logos`, and symlinks pointing at a missing file. Symlink targets are fetched with the GitHub GraphQL API and cached in `.cache/symlinks.json`.

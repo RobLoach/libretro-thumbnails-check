@@ -119,6 +119,48 @@ function manifest(system, games, hasRepo = true) {
 }
 
 /**
+ * Returns the thumbnails that match no game, usually from a misnamed or renamed game.
+ */
+function orphanThumbnails(games, thumbs) {
+	let matched = new Set()
+	for (let gameName in games) {
+		let name = cleanGameName(gameName)
+		for (let type of Object.values(THUMBNAIL_TYPES)) {
+			matched.add(`${type}/${name}.png`)
+		}
+	}
+	return [...thumbs].filter((thumb) => !matched.has(thumb))
+}
+
+/**
+ * Returns everything missing and invalid in a system, for out/report.json.
+ *
+ * Takes the same arguments as writeReport(). Missing lists the thumbnail name of each game
+ * without a thumbnail, for each THUMBNAIL_TYPES key. Orphans are the thumbnails that match
+ * no game, and invalid has the { path, detail } items of each INVALID_REASONS key.
+ */
+function systemReport(system, games, thumbs, hasRepo = true, invalid = {}) {
+	games = sort(games)
+	let names = Object.keys(games).filter((name) => games[name])
+	let missing = {}
+	for (let key in THUMBNAIL_TYPES) {
+		missing[key] = names.filter((name) => !games[name][key]).map(cleanGameName)
+	}
+	let invalidItems = {}
+	for (let reason in INVALID_REASONS) {
+		invalidItems[reason] = invalid[reason] || []
+	}
+	return {
+		repo: hasRepo ? thumbnailRepo(system) : null,
+		total: Object.keys(games).length,
+		missing: missing,
+		// Like the Orphans report, only for systems with games.
+		orphans: names.length > 0 ? orphanThumbnails(games, thumbs) : [],
+		invalid: invalidItems
+	}
+}
+
+/**
  * Writes a system report containing the thumbnails.
  *
  * games maps each game's thumbnail name to the getGameThumbnails() flags, optionally
@@ -196,15 +238,7 @@ function writeReport(system, games, thumbs, hasRepo = true, invalid = {}, outDir
 			align: ['l', 'c', 'c', 'c', 'c']
 		})
 
-		// Orphans are thumbnails that match no game.
-		let matched = new Set()
-		for (let gameName in games) {
-			let name = cleanGameName(gameName)
-			for (let type of Object.values(THUMBNAIL_TYPES)) {
-				matched.add(`${type}/${name}.png`)
-			}
-		}
-		let orphans = [...thumbs].filter((thumb) => !matched.has(thumb))
+		let orphans = orphanThumbnails(games, thumbs)
 		let orphansFile = path.join(outDir, system + ' Orphans.txt')
 		if (orphans.length > 0) {
 			fs.writeFileSync(orphansFile, system + ' Orphans\n\n' + orphans.join('\n'))
@@ -567,11 +601,15 @@ async function fetchSymlinkTargets(system, index) {
  * the given systems. A `.txt` file belongs to a system when its name without
  * `.txt` is the system, or the system followed by " Orphans" or " Invalid". A
  * `.json` file belongs to a system when its name without `.json` is the system.
- * Files that aren't `.txt` or `.json` are never returned.
+ * Files that aren't `.txt` or `.json`, and `report.json`, are never returned.
  */
 function staleReports(fileNames, systems) {
 	let known = new Set(systems)
 	return fileNames.filter((fileName) => {
+		// The combined report of every system.
+		if (fileName == 'report.json') {
+			return false
+		}
 		if (fileName.endsWith('.json')) {
 			return !known.has(fileName.slice(0, -'.json'.length))
 		}
@@ -840,6 +878,7 @@ module.exports = {
 	listRdbFiles: listRdbFiles,
 	processSystem: processSystem,
 	writeReport: writeReport,
+	systemReport: systemReport,
 	thumbnails: thumbnails,
 	fetchThumbnailIndex: fetchThumbnailIndex,
 	findInvalidThumbnails: findInvalidThumbnails,
